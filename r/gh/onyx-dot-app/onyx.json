@@ -1,0 +1,50 @@
+{
+  "id": "gh:onyx-dot-app/onyx",
+  "kind": "repo",
+  "url": "https://github.com/onyx-dot-app/onyx",
+  "title": "onyx",
+  "why": "Self-hosted AI chat and enterprise search over your documents, with any LLM.",
+  "keys": {
+    "races": [
+      "llm-infra/chat-apps",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "llm-infra/chat-apps/self-hosted-chat",
+      "llm-infra/rag/knowledge-platforms"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/onyx-dot-app/onyx",
+    "sha": "a0c949df514bb59ab89003a17e9168ccb5546062",
+    "file_url": "https://cdn.jsdelivr.net/gh/onyx-dot-app/onyx@a0c949df514bb59ab89003a17e9168ccb5546062/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 32774,
+    "size_mb": 290,
+    "created_at": "2023-04-27T06:04:01Z",
+    "last_commit_at": "2026-10-22T00:58:33Z",
+    "releases": 384,
+    "tags": 2537,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

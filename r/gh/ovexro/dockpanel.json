@@ -1,0 +1,48 @@
+{
+  "id": "gh:ovexro/dockpanel",
+  "kind": "repo",
+  "url": "https://github.com/ovexro/dockpanel",
+  "title": "dockpanel",
+  "why": "Server control panel in Rust and React: sites, databases, Docker apps, mail, DNS and backups.",
+  "keys": {
+    "races": [
+      "infra/hosting"
+    ],
+    "capabilities": [
+      "infra/hosting/control-panels"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ovexro/dockpanel",
+    "sha": "514d9ea466033b457252d67595057c778fb0e642",
+    "file_url": "https://cdn.jsdelivr.net/gh/ovexro/dockpanel@514d9ea466033b457252d67595057c778fb0e642/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "AGPL-3.0",
+    "stars": 982,
+    "size_mb": 30,
+    "created_at": "2026-03-23T19:35:12Z",
+    "last_commit_at": "2026-09-09T13:54:12Z",
+    "releases": 354,
+    "tags": 371,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

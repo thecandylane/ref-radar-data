@@ -1,0 +1,48 @@
+{
+  "id": "gh:infisical/infisical",
+  "kind": "repo",
+  "url": "https://github.com/Infisical/infisical",
+  "title": "infisical",
+  "why": "Open-source platform for secrets, certificates and PKI, with access controls.",
+  "keys": {
+    "races": [
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/secrets-management"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Infisical/infisical",
+    "sha": "ca90e74110f3e3d8f15f27bc922ef8633b9e25c6",
+    "file_url": "https://raw.githubusercontent.com/Infisical/infisical/ca90e74110f3e3d8f15f27bc922ef8633b9e25c6/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 29905,
+    "size_mb": 1910,
+    "created_at": "2022-08-05T13:50:00Z",
+    "last_commit_at": "2026-10-22T00:08:55Z",
+    "releases": 595,
+    "tags": 971,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

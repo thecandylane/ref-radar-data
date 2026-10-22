@@ -1,0 +1,56 @@
+{
+  "id": "gh:moonrepo/moon",
+  "kind": "repo",
+  "url": "https://github.com/moonrepo/moon",
+  "title": "moon",
+  "why": "Rust build system and monorepo task runner for JavaScript, TypeScript and more.",
+  "keys": {
+    "races": [
+      "dev-tools/build"
+    ],
+    "capabilities": [
+      "dev-tools/build/monorepo-tools"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/moonrepo/moon",
+    "sha": "7c3b6f3a834ab8effe482521033d53c19f923a14",
+    "file_url": "https://cdn.jsdelivr.net/gh/moonrepo/moon@7c3b6f3a834ab8effe482521033d53c19f923a14/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 4163,
+    "size_mb": 471,
+    "created_at": "2021-10-23T18:18:15Z",
+    "last_commit_at": "2026-10-14T20:47:39Z",
+    "releases": 334,
+    "tags": 2827,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

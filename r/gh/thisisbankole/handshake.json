@@ -1,0 +1,56 @@
+{
+  "id": "gh:thisisbankole/handshake",
+  "kind": "repo",
+  "url": "https://github.com/ThisisBankole/handshake",
+  "title": "handshake",
+  "why": "Carries session context from one AI coding agent to another.",
+  "keys": {
+    "races": [
+      "agents/memory"
+    ],
+    "capabilities": [
+      "agents/memory/session-handoff"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ThisisBankole/handshake",
+    "sha": "e33998091cadf8d5fc0687254b3ce6af94697a3d",
+    "file_url": "https://cdn.jsdelivr.net/gh/ThisisBankole/handshake@e33998091cadf8d5fc0687254b3ce6af94697a3d/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "none",
+    "stars": 5,
+    "size_mb": 37,
+    "created_at": "2026-06-11T19:36:03Z",
+    "last_commit_at": "2026-07-31T19:44:11Z",
+    "releases": 24,
+    "tags": 24,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

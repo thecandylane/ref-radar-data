@@ -1,0 +1,48 @@
+{
+  "id": "gh:panniantong/agent-reach",
+  "kind": "repo",
+  "url": "https://github.com/Panniantong/Agent-Reach",
+  "title": "Agent-Reach",
+  "why": "One CLI for agents to read and search Twitter, Reddit, YouTube, GitHub and more, with no API fees.",
+  "keys": {
+    "races": [
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/web-access"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Panniantong/Agent-Reach",
+    "sha": "94f06c1969dfc1834001269d79d3ad0972d9dee6",
+    "file_url": "https://cdn.jsdelivr.net/gh/Panniantong/Agent-Reach@94f06c1969dfc1834001269d79d3ad0972d9dee6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 100659,
+    "size_mb": 3,
+    "created_at": "2026-02-24T02:10:24Z",
+    "last_commit_at": "2026-10-07T17:17:26Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

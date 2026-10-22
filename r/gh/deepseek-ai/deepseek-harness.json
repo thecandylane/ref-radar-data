@@ -1,0 +1,57 @@
+{
+  "id": "gh:deepseek-ai/deepseek-harness",
+  "kind": "repo",
+  "url": "https://github.com/deepseek-ai/deepseek-harness",
+  "title": "deepseek-harness",
+  "why": "DeepSeek's coding-agent harness where everything is a plugin, built on Cordis.",
+  "keys": {
+    "races": [
+      "agents/coding"
+    ],
+    "capabilities": [
+      "agents/coding/cli-agents",
+      "agents/coding/plugin-architectures"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/deepseek-ai/deepseek-harness",
+    "sha": "687f282e8625c6b8d11ff58211a90524be2e4317",
+    "file_url": "https://cdn.jsdelivr.net/gh/deepseek-ai/deepseek-harness@687f282e8625c6b8d11ff58211a90524be2e4317/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 256999,
+    "size_mb": 286,
+    "created_at": "2026-08-13T11:56:32Z",
+    "last_commit_at": "2026-10-17T07:22:43Z",
+    "releases": 31,
+    "tags": 32,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

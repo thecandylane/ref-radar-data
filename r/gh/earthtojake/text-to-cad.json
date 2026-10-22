@@ -1,0 +1,56 @@
+{
+  "id": "gh:earthtojake/text-to-cad",
+  "kind": "repo",
+  "url": "https://github.com/earthtojake/text-to-cad",
+  "title": "text-to-cad",
+  "why": "Gives agents CAD skills: generate STEP and STL parts from text.",
+  "keys": {
+    "races": [
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/cad"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/earthtojake/text-to-cad",
+    "sha": "2f793659fb7bab537e2f00836e06448fc4087cb2",
+    "file_url": "https://cdn.jsdelivr.net/gh/earthtojake/text-to-cad@2f793659fb7bab537e2f00836e06448fc4087cb2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 22288,
+    "size_mb": 378,
+    "created_at": "2026-04-22T01:09:45Z",
+    "last_commit_at": "2026-10-20T19:03:44Z",
+    "releases": 87,
+    "tags": 95,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

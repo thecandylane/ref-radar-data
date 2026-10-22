@@ -1,0 +1,23 @@
+name: Submit a ref
+description: Suggest a GitHub repository or an arXiv paper for the ref-radar catalog.
+title: "Submit a ref"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ref-radar lists prior art that coding agents can read and reuse. A daily job adds your suggestion to the review queue and comments here. The issue closes when the suggestion is accepted or turned down.
+  - type: input
+    id: url
+    attributes:
+      label: Repository or paper URL
+      description: A GitHub repository (https://github.com/owner/repo) or an arXiv paper (https://arxiv.org/abs/2501.01234).
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why should agents read it?
+      description: Optional. What it does well, and what an agent would build with it.
+    validations:
+      required: false

@@ -1,0 +1,61 @@
+{
+  "id": "gh:router-for-me/cliproxyapi",
+  "kind": "repo",
+  "url": "https://github.com/router-for-me/CLIProxyAPI",
+  "title": "CLIProxyAPI",
+  "why": "OpenAI/Claude/Gemini-compatible gateway in Go over CLI subscriptions.",
+  "keys": {
+    "races": [
+      "llm-infra/gateways"
+    ],
+    "capabilities": [
+      "llm-infra/gateways/api-proxy",
+      "llm-infra/gateways/llm-gateway"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "sdk",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/router-for-me/CLIProxyAPI",
+    "sha": "0db19025571684b198a2ef508f99b41c717337e8",
+    "file_url": "https://cdn.jsdelivr.net/gh/router-for-me/CLIProxyAPI@0db19025571684b198a2ef508f99b41c717337e8/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 55912,
+    "size_mb": 46,
+    "created_at": "2025-07-01T19:43:27Z",
+    "last_commit_at": "2026-10-21T15:04:23Z",
+    "releases": 900,
+    "tags": 1151,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

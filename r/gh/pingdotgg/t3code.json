@@ -1,0 +1,57 @@
+{
+  "id": "gh:pingdotgg/t3code",
+  "kind": "repo",
+  "url": "https://github.com/pingdotgg/t3code",
+  "title": "t3code",
+  "why": "Control surface for the coding agents on your machine (Claude Code, Codex, Cursor and more), with a mobile app.",
+  "keys": {
+    "races": [
+      "agents/clients"
+    ],
+    "capabilities": [
+      "agents/clients/desktop-apps",
+      "agents/clients/mobile-apps"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pingdotgg/t3code",
+    "sha": "89fe509232e787b51d0cf695861afe73316ce85b",
+    "file_url": "https://raw.githubusercontent.com/pingdotgg/t3code/89fe509232e787b51d0cf695861afe73316ce85b/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 29156,
+    "size_mb": 542,
+    "created_at": "2026-02-08T23:46:22Z",
+    "last_commit_at": "2026-10-22T00:58:55Z",
+    "releases": 713,
+    "tags": 729,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

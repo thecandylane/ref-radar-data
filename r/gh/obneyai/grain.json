@@ -1,0 +1,48 @@
+{
+  "id": "gh:obneyai/grain",
+  "kind": "repo",
+  "url": "https://github.com/ObneyAI/grain",
+  "title": "grain",
+  "why": "Clojure framework for event-sourced applications built through natural-language programming.",
+  "keys": {
+    "races": [
+      "agents/frameworks"
+    ],
+    "capabilities": [
+      "agents/frameworks/agent-workflows"
+    ]
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ObneyAI/grain",
+    "sha": "dbf5b5229aad09785e40f71e96adf65c90f971d5",
+    "file_url": "https://cdn.jsdelivr.net/gh/ObneyAI/grain@dbf5b5229aad09785e40f71e96adf65c90f971d5/{path}"
+  },
+  "facts": {
+    "lang": "Clojure",
+    "license": "MIT",
+    "stars": 127,
+    "size_mb": 3,
+    "created_at": "2025-06-14T16:32:49Z",
+    "last_commit_at": "2026-09-12T01:30:02Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

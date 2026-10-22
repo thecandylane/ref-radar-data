@@ -1,0 +1,52 @@
+{
+  "id": "gh:gepa-ai/gepa",
+  "kind": "repo",
+  "url": "https://github.com/gepa-ai/gepa",
+  "title": "gepa",
+  "why": "Reflective optimizer that evolves prompts and code from execution traces.",
+  "keys": {
+    "races": [
+      "agents/optimization"
+    ],
+    "capabilities": [
+      "agents/optimization/prompt-optimization"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gepa-ai/gepa",
+    "sha": "8f287de942f41a6d1e0e7e5b2d576247c4bedee9",
+    "file_url": "https://cdn.jsdelivr.net/gh/gepa-ai/gepa@8f287de942f41a6d1e0e7e5b2d576247c4bedee9/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 7092,
+    "size_mb": 117,
+    "created_at": "2025-08-05T09:26:27Z",
+    "last_commit_at": "2026-10-20T08:15:34Z",
+    "releases": 45,
+    "tags": 46,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

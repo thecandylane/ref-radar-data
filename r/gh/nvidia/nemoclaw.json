@@ -1,0 +1,52 @@
+{
+  "id": "gh:nvidia/nemoclaw",
+  "kind": "repo",
+  "url": "https://github.com/NVIDIA/NemoClaw",
+  "title": "NemoClaw",
+  "why": "Runs OpenClaw, Hermes and Deep Agents inside NVIDIA OpenShell with managed inference.",
+  "keys": {
+    "races": [
+      "agents/sandboxes"
+    ],
+    "capabilities": [
+      "agents/sandboxes/secure-runtimes"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NVIDIA/NemoClaw",
+    "sha": "86d3c838c023dcfebf4d4538ec3b9981a22322a2",
+    "file_url": "https://cdn.jsdelivr.net/gh/NVIDIA/NemoClaw@86d3c838c023dcfebf4d4538ec3b9981a22322a2/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 22792,
+    "size_mb": 477,
+    "created_at": "2026-03-15T17:04:09Z",
+    "last_commit_at": "2026-10-21T22:43:10Z",
+    "releases": 1,
+    "tags": 146,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

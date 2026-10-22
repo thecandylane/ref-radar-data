@@ -1,0 +1,56 @@
+{
+  "id": "gh:kvcache-ai/agentenv",
+  "kind": "repo",
+  "url": "https://github.com/kvcache-ai/AgentENV",
+  "title": "AgentENV",
+  "why": "Distributed platform for running agent environments at scale, E2B-compatible.",
+  "keys": {
+    "races": [
+      "agents/sandboxes"
+    ],
+    "capabilities": [
+      "agents/sandboxes/sandbox-fleets"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kvcache-ai/AgentENV",
+    "sha": "8428a329457f168dd9ba75d41c24d9bc43f4b11b",
+    "file_url": "https://cdn.jsdelivr.net/gh/kvcache-ai/AgentENV@8428a329457f168dd9ba75d41c24d9bc43f4b11b/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 3667,
+    "size_mb": 21,
+    "created_at": "2026-07-23T02:48:07Z",
+    "last_commit_at": "2026-10-21T13:20:26Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

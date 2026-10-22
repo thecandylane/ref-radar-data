@@ -1,0 +1,52 @@
+{
+  "id": "gh:krishhgg/t3term",
+  "kind": "repo",
+  "url": "https://github.com/krishhgg/t3term",
+  "title": "t3term",
+  "why": "Terminal client for T3 Code: one Rust binary, interactive or scriptable.",
+  "keys": {
+    "races": [
+      "agents/clients"
+    ],
+    "capabilities": [
+      "agents/clients/terminal-clients"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/krishhgg/t3term",
+    "sha": "d1d33e89ae16dd09a4ff1e2a9f1570b3416a0c1e",
+    "file_url": "https://cdn.jsdelivr.net/gh/krishhgg/t3term@d1d33e89ae16dd09a4ff1e2a9f1570b3416a0c1e/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 11,
+    "size_mb": 61,
+    "created_at": "2026-10-08T00:49:26Z",
+    "last_commit_at": "2026-10-18T21:23:30Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

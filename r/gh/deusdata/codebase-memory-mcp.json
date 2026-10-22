@@ -1,0 +1,60 @@
+{
+  "id": "gh:deusdata/codebase-memory-mcp",
+  "kind": "repo",
+  "url": "https://github.com/DeusData/codebase-memory-mcp",
+  "title": "codebase-memory-mcp",
+  "why": "MCP server that indexes codebases into a persistent knowledge graph; one static C binary.",
+  "keys": {
+    "races": [
+      "agents/code-intel"
+    ],
+    "capabilities": [
+      "agents/code-intel/code-graphs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/DeusData/codebase-memory-mcp",
+    "sha": "10ab613de30dfd573d0b251cd0ad648e1c7e5204",
+    "file_url": "https://raw.githubusercontent.com/DeusData/codebase-memory-mcp/10ab613de30dfd573d0b251cd0ad648e1c7e5204/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 47124,
+    "size_mb": 340,
+    "created_at": "2026-02-24T22:01:00Z",
+    "last_commit_at": "2026-10-22T00:54:58Z",
+    "releases": 49,
+    "tags": 56,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

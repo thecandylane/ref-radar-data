@@ -1,0 +1,52 @@
+{
+  "id": "gh:obneyai/sio",
+  "kind": "repo",
+  "url": "https://github.com/ObneyAI/sio",
+  "title": "sio",
+  "why": "Clojure library for structured LLM input and output, with forgiving parsing of nested data.",
+  "keys": {
+    "races": [
+      "agents/frameworks"
+    ],
+    "capabilities": [
+      "agents/frameworks/structured-io"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ObneyAI/sio",
+    "sha": "976fd365a8efd92a75d412ab16b59776425df61e",
+    "file_url": "https://cdn.jsdelivr.net/gh/ObneyAI/sio@976fd365a8efd92a75d412ab16b59776425df61e/{path}"
+  },
+  "facts": {
+    "lang": "Clojure",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-07-09T02:52:34Z",
+    "last_commit_at": "2026-10-19T18:19:40Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

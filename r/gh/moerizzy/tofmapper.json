@@ -1,0 +1,48 @@
+{
+  "id": "gh:moerizzy/tofmapper",
+  "kind": "repo",
+  "url": "https://github.com/Moerizzy/TOFMapper",
+  "title": "TOFMapper",
+  "why": "Semantic segmentation of trees outside forests in high-resolution aerial images.",
+  "keys": {
+    "races": [
+      "ml/vision"
+    ],
+    "capabilities": [
+      "ml/vision/aerial-segmentation"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Moerizzy/TOFMapper",
+    "sha": "b7a77a09fc8b37619d4a7834a987d6a218f1fab0",
+    "file_url": "https://cdn.jsdelivr.net/gh/Moerizzy/TOFMapper@b7a77a09fc8b37619d4a7834a987d6a218f1fab0/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 31,
+    "size_mb": 0,
+    "created_at": "2025-03-05T20:41:11Z",
+    "last_commit_at": "2026-10-09T11:55:05Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

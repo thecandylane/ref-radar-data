@@ -1,0 +1,60 @@
+{
+  "id": "gh:tencent/weknora",
+  "kind": "repo",
+  "url": "https://github.com/Tencent/WeKnora",
+  "title": "WeKnora",
+  "why": "LLM knowledge platform: documents become a queryable RAG, a reasoning agent and a self-maintaining wiki.",
+  "keys": {
+    "races": [
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "llm-infra/rag/knowledge-platforms"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Tencent/WeKnora",
+    "sha": "e28c68cf552cc1aba2fc923a73b0ab23a33bcb55",
+    "file_url": "https://cdn.jsdelivr.net/gh/Tencent/WeKnora@e28c68cf552cc1aba2fc923a73b0ab23a33bcb55/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "NOASSERTION",
+    "stars": 34990,
+    "size_mb": 214,
+    "created_at": "2025-07-22T08:01:23Z",
+    "last_commit_at": "2026-10-21T12:33:42Z",
+    "releases": 41,
+    "tags": 46,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

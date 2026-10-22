@@ -1,0 +1,53 @@
+{
+  "id": "gh:alishahryar1/free-claude-code",
+  "kind": "repo",
+  "url": "https://github.com/Alishahryar1/free-claude-code",
+  "title": "free-claude-code",
+  "why": "Runs Claude Code, Codex, OpenCode and other harnesses against free model providers.",
+  "keys": {
+    "races": [
+      "llm-infra/gateways"
+    ],
+    "capabilities": [
+      "llm-infra/gateways/api-proxy",
+      "llm-infra/gateways/free-providers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Alishahryar1/free-claude-code",
+    "sha": "3d2ae2306752dbdf504714a5489bcfcf69b2d04a",
+    "file_url": "https://cdn.jsdelivr.net/gh/Alishahryar1/free-claude-code@3d2ae2306752dbdf504714a5489bcfcf69b2d04a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 62450,
+    "size_mb": 15,
+    "created_at": "2026-01-28T19:02:30Z",
+    "last_commit_at": "2026-10-21T09:33:44Z",
+    "releases": 81,
+    "tags": 81,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

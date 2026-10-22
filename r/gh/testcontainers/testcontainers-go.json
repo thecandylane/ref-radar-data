@@ -1,0 +1,52 @@
+{
+  "id": "gh:testcontainers/testcontainers-go",
+  "kind": "repo",
+  "url": "https://github.com/testcontainers/testcontainers-go",
+  "title": "testcontainers-go",
+  "why": "Go library that runs throwaway Docker containers as test dependencies.",
+  "keys": {
+    "races": [
+      "dev-tools/testing"
+    ],
+    "capabilities": [
+      "dev-tools/testing/integration-testing"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/testcontainers/testcontainers-go",
+    "sha": "7c8ce2644943f1fc4665c4cedcfb1d1aa7bfeabf",
+    "file_url": "https://cdn.jsdelivr.net/gh/testcontainers/testcontainers-go@7c8ce2644943f1fc4665c4cedcfb1d1aa7bfeabf/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 5018,
+    "size_mb": 25,
+    "created_at": "2018-07-18T15:04:31Z",
+    "last_commit_at": "2026-10-21T08:46:23Z",
+    "releases": 59,
+    "tags": 1319,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

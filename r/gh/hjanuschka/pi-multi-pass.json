@@ -1,0 +1,52 @@
+{
+  "id": "gh:hjanuschka/pi-multi-pass",
+  "kind": "repo",
+  "url": "https://github.com/hjanuschka/pi-multi-pass",
+  "title": "pi-multi-pass",
+  "why": "pi extension for using several OAuth subscription accounts per provider.",
+  "keys": {
+    "races": [
+      "llm-infra/gateways"
+    ],
+    "capabilities": [
+      "llm-infra/gateways/multi-account"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hjanuschka/pi-multi-pass",
+    "sha": "4d1c3cad75062588d16598e0eb5262c738c35d94",
+    "file_url": "https://cdn.jsdelivr.net/gh/hjanuschka/pi-multi-pass@4d1c3cad75062588d16598e0eb5262c738c35d94/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 525,
+    "size_mb": 0,
+    "created_at": "2026-03-13T10:41:44Z",
+    "last_commit_at": "2026-10-20T21:56:00Z",
+    "releases": 9,
+    "tags": 16,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

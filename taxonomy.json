@@ -1,0 +1,973 @@
+{
+  "nodes": [
+    {
+      "key": "agents",
+      "parent": null,
+      "level": "domain",
+      "label": "AI agents"
+    },
+    {
+      "key": "agents/assistants",
+      "parent": "agents",
+      "level": "race",
+      "label": "General-purpose agents"
+    },
+    {
+      "key": "agents/assistants/deep-research",
+      "parent": "agents/assistants",
+      "level": "capability",
+      "label": "Deep research"
+    },
+    {
+      "key": "agents/assistants/personal-agents",
+      "parent": "agents/assistants",
+      "level": "capability",
+      "label": "Personal agents"
+    },
+    {
+      "key": "agents/assistants/task-automation",
+      "parent": "agents/assistants",
+      "level": "capability",
+      "label": "Task automation runtimes"
+    },
+    {
+      "key": "agents/assistants/team-assistants",
+      "parent": "agents/assistants",
+      "level": "capability",
+      "label": "Self-hosted team assistants"
+    },
+    {
+      "key": "agents/clients",
+      "parent": "agents",
+      "level": "race",
+      "label": "Agent clients"
+    },
+    {
+      "key": "agents/clients/desktop-apps",
+      "parent": "agents/clients",
+      "level": "capability",
+      "label": "Desktop apps"
+    },
+    {
+      "key": "agents/clients/mobile-apps",
+      "parent": "agents/clients",
+      "level": "capability",
+      "label": "Mobile apps"
+    },
+    {
+      "key": "agents/clients/terminal-clients",
+      "parent": "agents/clients",
+      "level": "capability",
+      "label": "Terminal clients"
+    },
+    {
+      "key": "agents/code-intel",
+      "parent": "agents",
+      "level": "race",
+      "label": "Code intelligence for agents"
+    },
+    {
+      "key": "agents/code-intel/code-graphs",
+      "parent": "agents/code-intel",
+      "level": "capability",
+      "label": "Code graphs"
+    },
+    {
+      "key": "agents/code-intel/code-search",
+      "parent": "agents/code-intel",
+      "level": "capability",
+      "label": "Code search"
+    },
+    {
+      "key": "agents/code-intel/codebase-docs",
+      "parent": "agents/code-intel",
+      "level": "capability",
+      "label": "Codebase docs for agents"
+    },
+    {
+      "key": "agents/coding",
+      "parent": "agents",
+      "level": "race",
+      "label": "Coding agents"
+    },
+    {
+      "key": "agents/coding/cli-agents",
+      "parent": "agents/coding",
+      "level": "capability",
+      "label": "Terminal coding agents"
+    },
+    {
+      "key": "agents/coding/long-running",
+      "parent": "agents/coding",
+      "level": "capability",
+      "label": "Long-running autonomous agents"
+    },
+    {
+      "key": "agents/coding/plugin-architectures",
+      "parent": "agents/coding",
+      "level": "capability",
+      "label": "Plugin-based harnesses"
+    },
+    {
+      "key": "agents/context",
+      "parent": "agents",
+      "level": "race",
+      "label": "Context and token savings"
+    },
+    {
+      "key": "agents/context/context-compaction",
+      "parent": "agents/context",
+      "level": "capability",
+      "label": "Long-session compaction"
+    },
+    {
+      "key": "agents/context/output-compression",
+      "parent": "agents/context",
+      "level": "capability",
+      "label": "Tool-output compression"
+    },
+    {
+      "key": "agents/frameworks",
+      "parent": "agents",
+      "level": "race",
+      "label": "Agent frameworks"
+    },
+    {
+      "key": "agents/frameworks/agent-workflows",
+      "parent": "agents/frameworks",
+      "level": "capability",
+      "label": "Agent workflow engines"
+    },
+    {
+      "key": "agents/frameworks/bot-frameworks",
+      "parent": "agents/frameworks",
+      "level": "capability",
+      "label": "Bot frameworks"
+    },
+    {
+      "key": "agents/frameworks/embedded-agents",
+      "parent": "agents/frameworks",
+      "level": "capability",
+      "label": "Embedded product agents"
+    },
+    {
+      "key": "agents/frameworks/llm-sdks",
+      "parent": "agents/frameworks",
+      "level": "capability",
+      "label": "LLM SDKs"
+    },
+    {
+      "key": "agents/frameworks/structured-io",
+      "parent": "agents/frameworks",
+      "level": "capability",
+      "label": "Structured LLM input and output"
+    },
+    {
+      "key": "agents/memory",
+      "parent": "agents",
+      "level": "race",
+      "label": "Agent memory"
+    },
+    {
+      "key": "agents/memory/context-databases",
+      "parent": "agents/memory",
+      "level": "capability",
+      "label": "Context databases"
+    },
+    {
+      "key": "agents/memory/knowledge-brains",
+      "parent": "agents/memory",
+      "level": "capability",
+      "label": "Personal knowledge brains"
+    },
+    {
+      "key": "agents/memory/long-term-memory",
+      "parent": "agents/memory",
+      "level": "capability",
+      "label": "Long-term memory"
+    },
+    {
+      "key": "agents/memory/project-memory",
+      "parent": "agents/memory",
+      "level": "capability",
+      "label": "Project memory files"
+    },
+    {
+      "key": "agents/memory/session-handoff",
+      "parent": "agents/memory",
+      "level": "capability",
+      "label": "Session handoff between agents"
+    },
+    {
+      "key": "agents/optimization",
+      "parent": "agents",
+      "level": "race",
+      "label": "Agent optimization"
+    },
+    {
+      "key": "agents/optimization/harness-optimization",
+      "parent": "agents/optimization",
+      "level": "capability",
+      "label": "Harness optimization"
+    },
+    {
+      "key": "agents/optimization/prompt-optimization",
+      "parent": "agents/optimization",
+      "level": "capability",
+      "label": "Prompt and skill optimization"
+    },
+    {
+      "key": "agents/optimization/rl-environments",
+      "parent": "agents/optimization",
+      "level": "capability",
+      "label": "RL environments and evals"
+    },
+    {
+      "key": "agents/orchestration",
+      "parent": "agents",
+      "level": "race",
+      "label": "Multi-agent orchestration"
+    },
+    {
+      "key": "agents/orchestration/agent-networks",
+      "parent": "agents/orchestration",
+      "level": "capability",
+      "label": "Agent networks and protocols"
+    },
+    {
+      "key": "agents/orchestration/agent-teams",
+      "parent": "agents/orchestration",
+      "level": "capability",
+      "label": "Agent teams"
+    },
+    {
+      "key": "agents/orchestration/harness-adapters",
+      "parent": "agents/orchestration",
+      "level": "capability",
+      "label": "Harness adapters"
+    },
+    {
+      "key": "agents/sandboxes",
+      "parent": "agents",
+      "level": "race",
+      "label": "Agent sandboxes"
+    },
+    {
+      "key": "agents/sandboxes/code-sandboxes",
+      "parent": "agents/sandboxes",
+      "level": "capability",
+      "label": "Code execution sandboxes"
+    },
+    {
+      "key": "agents/sandboxes/run-replay",
+      "parent": "agents/sandboxes",
+      "level": "capability",
+      "label": "Run forking and replay"
+    },
+    {
+      "key": "agents/sandboxes/sandbox-fleets",
+      "parent": "agents/sandboxes",
+      "level": "capability",
+      "label": "Sandbox fleets at scale"
+    },
+    {
+      "key": "agents/sandboxes/secure-runtimes",
+      "parent": "agents/sandboxes",
+      "level": "capability",
+      "label": "Secure agent runtimes"
+    },
+    {
+      "key": "agents/skills",
+      "parent": "agents",
+      "level": "race",
+      "label": "Skills, rules and plugins"
+    },
+    {
+      "key": "agents/skills/agent-configs",
+      "parent": "agents/skills",
+      "level": "capability",
+      "label": "Agent setups, hooks and scripts"
+    },
+    {
+      "key": "agents/skills/engineering-skills",
+      "parent": "agents/skills",
+      "level": "capability",
+      "label": "Engineering practice skills"
+    },
+    {
+      "key": "agents/skills/plugin-specs",
+      "parent": "agents/skills",
+      "level": "capability",
+      "label": "Plugin formats"
+    },
+    {
+      "key": "agents/skills/writing-skills",
+      "parent": "agents/skills",
+      "level": "capability",
+      "label": "Writing and style skills"
+    },
+    {
+      "key": "agents/tools",
+      "parent": "agents",
+      "level": "race",
+      "label": "Agent tools"
+    },
+    {
+      "key": "agents/tools/api-directories",
+      "parent": "agents/tools",
+      "level": "capability",
+      "label": "API directories"
+    },
+    {
+      "key": "agents/tools/browser-automation",
+      "parent": "agents/tools",
+      "level": "capability",
+      "label": "Stealth browser automation"
+    },
+    {
+      "key": "agents/tools/cad",
+      "parent": "agents/tools",
+      "level": "capability",
+      "label": "CAD"
+    },
+    {
+      "key": "agents/tools/cloud-ops",
+      "parent": "agents/tools",
+      "level": "capability",
+      "label": "Cloud operations"
+    },
+    {
+      "key": "agents/tools/web-access",
+      "parent": "agents/tools",
+      "level": "capability",
+      "label": "Web and social access"
+    },
+    {
+      "key": "cyber",
+      "parent": null,
+      "level": "domain",
+      "label": "Security"
+    },
+    {
+      "key": "cyber/agent-security",
+      "parent": "cyber",
+      "level": "race",
+      "label": "Agent security"
+    },
+    {
+      "key": "cyber/agent-security/runtime-guardrails",
+      "parent": "cyber/agent-security",
+      "level": "capability",
+      "label": "Runtime guardrails"
+    },
+    {
+      "key": "cyber/agent-security/secret-isolation",
+      "parent": "cyber/agent-security",
+      "level": "capability",
+      "label": "Keeping secrets away from agents"
+    },
+    {
+      "key": "cyber/agent-security/skill-scanning",
+      "parent": "cyber/agent-security",
+      "level": "capability",
+      "label": "Skill and plugin scanning"
+    },
+    {
+      "key": "cyber/appsec",
+      "parent": "cyber",
+      "level": "race",
+      "label": "Application security"
+    },
+    {
+      "key": "cyber/appsec/auto-remediation",
+      "parent": "cyber/appsec",
+      "level": "capability",
+      "label": "Automated remediation"
+    },
+    {
+      "key": "cyber/appsec/static-analysis",
+      "parent": "cyber/appsec",
+      "level": "capability",
+      "label": "Static analysis"
+    },
+    {
+      "key": "cyber/appsec/vuln-discovery",
+      "parent": "cyber/appsec",
+      "level": "capability",
+      "label": "Vulnerability discovery"
+    },
+    {
+      "key": "cyber/identity",
+      "parent": "cyber",
+      "level": "race",
+      "label": "Identity and secrets"
+    },
+    {
+      "key": "cyber/identity/iam",
+      "parent": "cyber/identity",
+      "level": "capability",
+      "label": "Identity and access management"
+    },
+    {
+      "key": "cyber/identity/secrets-management",
+      "parent": "cyber/identity",
+      "level": "capability",
+      "label": "Secrets management"
+    },
+    {
+      "key": "cyber/offensive",
+      "parent": "cyber",
+      "level": "race",
+      "label": "Offensive security"
+    },
+    {
+      "key": "cyber/offensive/ai-pentesting",
+      "parent": "cyber/offensive",
+      "level": "capability",
+      "label": "AI pentesting"
+    },
+    {
+      "key": "cyber/offensive/sandbox-evasion",
+      "parent": "cyber/offensive",
+      "level": "capability",
+      "label": "Sandbox and VM detection"
+    },
+    {
+      "key": "cyber/reversing",
+      "parent": "cyber",
+      "level": "race",
+      "label": "Reverse engineering"
+    },
+    {
+      "key": "cyber/reversing/agentic-re",
+      "parent": "cyber/reversing",
+      "level": "capability",
+      "label": "Agent-driven reverse engineering"
+    },
+    {
+      "key": "cyber/reversing/debuggers",
+      "parent": "cyber/reversing",
+      "level": "capability",
+      "label": "Debuggers"
+    },
+    {
+      "key": "cyber/reversing/disassemblers",
+      "parent": "cyber/reversing",
+      "level": "capability",
+      "label": "Disassemblers and decompilers"
+    },
+    {
+      "key": "data",
+      "parent": null,
+      "level": "domain",
+      "label": "Data"
+    },
+    {
+      "key": "data/databases",
+      "parent": "data",
+      "level": "race",
+      "label": "Databases"
+    },
+    {
+      "key": "data/databases/distributed-sql",
+      "parent": "data/databases",
+      "level": "capability",
+      "label": "Distributed SQL"
+    },
+    {
+      "key": "data/datasets",
+      "parent": "data",
+      "level": "race",
+      "label": "Datasets"
+    },
+    {
+      "key": "data/datasets/dataset-lists",
+      "parent": "data/datasets",
+      "level": "capability",
+      "label": "Dataset lists"
+    },
+    {
+      "key": "data/serialization",
+      "parent": "data",
+      "level": "race",
+      "label": "Serialization"
+    },
+    {
+      "key": "data/serialization/schema-formats",
+      "parent": "data/serialization",
+      "level": "capability",
+      "label": "Schema-based formats"
+    },
+    {
+      "key": "data/storage",
+      "parent": "data",
+      "level": "race",
+      "label": "Storage"
+    },
+    {
+      "key": "data/storage/object-storage",
+      "parent": "data/storage",
+      "level": "capability",
+      "label": "Object and file storage"
+    },
+    {
+      "key": "dev-tools",
+      "parent": null,
+      "level": "domain",
+      "label": "Developer tools"
+    },
+    {
+      "key": "dev-tools/build",
+      "parent": "dev-tools",
+      "level": "race",
+      "label": "Build systems"
+    },
+    {
+      "key": "dev-tools/build/monorepo-tools",
+      "parent": "dev-tools/build",
+      "level": "capability",
+      "label": "Monorepo tools"
+    },
+    {
+      "key": "dev-tools/code-review",
+      "parent": "dev-tools",
+      "level": "race",
+      "label": "Code review"
+    },
+    {
+      "key": "dev-tools/code-review/ai-code-review",
+      "parent": "dev-tools/code-review",
+      "level": "capability",
+      "label": "AI code review"
+    },
+    {
+      "key": "dev-tools/diagrams",
+      "parent": "dev-tools",
+      "level": "race",
+      "label": "Diagrams"
+    },
+    {
+      "key": "dev-tools/diagrams/diagram-skills",
+      "parent": "dev-tools/diagrams",
+      "level": "capability",
+      "label": "Diagram skills for agents"
+    },
+    {
+      "key": "dev-tools/diagrams/mermaid-rendering",
+      "parent": "dev-tools/diagrams",
+      "level": "capability",
+      "label": "Mermaid rendering"
+    },
+    {
+      "key": "dev-tools/testing",
+      "parent": "dev-tools",
+      "level": "race",
+      "label": "Testing"
+    },
+    {
+      "key": "dev-tools/testing/e2e-testing",
+      "parent": "dev-tools/testing",
+      "level": "capability",
+      "label": "End-to-end testing"
+    },
+    {
+      "key": "dev-tools/testing/integration-testing",
+      "parent": "dev-tools/testing",
+      "level": "capability",
+      "label": "Integration testing"
+    },
+    {
+      "key": "dev-tools/testing/test-databases",
+      "parent": "dev-tools/testing",
+      "level": "capability",
+      "label": "Throwaway test databases"
+    },
+    {
+      "key": "infra",
+      "parent": null,
+      "level": "domain",
+      "label": "Infrastructure"
+    },
+    {
+      "key": "infra/containers",
+      "parent": "infra",
+      "level": "race",
+      "label": "Container runtimes"
+    },
+    {
+      "key": "infra/containers/macos-containers",
+      "parent": "infra/containers",
+      "level": "capability",
+      "label": "Containers on macOS"
+    },
+    {
+      "key": "infra/hosting",
+      "parent": "infra",
+      "level": "race",
+      "label": "Self-hosting"
+    },
+    {
+      "key": "infra/hosting/control-panels",
+      "parent": "infra/hosting",
+      "level": "capability",
+      "label": "Server control panels"
+    },
+    {
+      "key": "infra/isolation",
+      "parent": "infra",
+      "level": "race",
+      "label": "Sandboxing and isolation"
+    },
+    {
+      "key": "infra/isolation/application-kernels",
+      "parent": "infra/isolation",
+      "level": "capability",
+      "label": "Application kernels"
+    },
+    {
+      "key": "infra/isolation/unprivileged-sandboxes",
+      "parent": "infra/isolation",
+      "level": "capability",
+      "label": "Unprivileged sandboxes"
+    },
+    {
+      "key": "infra/kubernetes",
+      "parent": "infra",
+      "level": "race",
+      "label": "Kubernetes"
+    },
+    {
+      "key": "infra/kubernetes/desktop-clients",
+      "parent": "infra/kubernetes",
+      "level": "capability",
+      "label": "Desktop clients"
+    },
+    {
+      "key": "llm-infra",
+      "parent": null,
+      "level": "domain",
+      "label": "LLM infrastructure"
+    },
+    {
+      "key": "llm-infra/chat-apps",
+      "parent": "llm-infra",
+      "level": "race",
+      "label": "Chat apps"
+    },
+    {
+      "key": "llm-infra/chat-apps/mobile-chat",
+      "parent": "llm-infra/chat-apps",
+      "level": "capability",
+      "label": "Mobile chat"
+    },
+    {
+      "key": "llm-infra/chat-apps/self-hosted-chat",
+      "parent": "llm-infra/chat-apps",
+      "level": "capability",
+      "label": "Self-hosted chat"
+    },
+    {
+      "key": "llm-infra/gateways",
+      "parent": "llm-infra",
+      "level": "race",
+      "label": "Gateways and routers"
+    },
+    {
+      "key": "llm-infra/gateways/api-proxy",
+      "parent": "llm-infra/gateways",
+      "level": "capability",
+      "label": "Subscription-to-API proxies"
+    },
+    {
+      "key": "llm-infra/gateways/free-providers",
+      "parent": "llm-infra/gateways",
+      "level": "capability",
+      "label": "Free-provider aggregation"
+    },
+    {
+      "key": "llm-infra/gateways/llm-gateway",
+      "parent": "llm-infra/gateways",
+      "level": "capability",
+      "label": "LLM gateways"
+    },
+    {
+      "key": "llm-infra/gateways/model-routing",
+      "parent": "llm-infra/gateways",
+      "level": "capability",
+      "label": "Model routing and failover"
+    },
+    {
+      "key": "llm-infra/gateways/multi-account",
+      "parent": "llm-infra/gateways",
+      "level": "capability",
+      "label": "Multi-account subscriptions"
+    },
+    {
+      "key": "llm-infra/inference",
+      "parent": "llm-infra",
+      "level": "race",
+      "label": "Inference"
+    },
+    {
+      "key": "llm-infra/inference/apple-silicon",
+      "parent": "llm-infra/inference",
+      "level": "capability",
+      "label": "Apple silicon inference"
+    },
+    {
+      "key": "llm-infra/inference/distributed-inference",
+      "parent": "llm-infra/inference",
+      "level": "capability",
+      "label": "Distributed inference"
+    },
+    {
+      "key": "llm-infra/inference/low-bit",
+      "parent": "llm-infra/inference",
+      "level": "capability",
+      "label": "Low-bit inference"
+    },
+    {
+      "key": "llm-infra/rag",
+      "parent": "llm-infra",
+      "level": "race",
+      "label": "RAG and knowledge"
+    },
+    {
+      "key": "llm-infra/rag/knowledge-platforms",
+      "parent": "llm-infra/rag",
+      "level": "capability",
+      "label": "Knowledge platforms"
+    },
+    {
+      "key": "llm-infra/rag/vector-search",
+      "parent": "llm-infra/rag",
+      "level": "capability",
+      "label": "Vector search"
+    },
+    {
+      "key": "media",
+      "parent": null,
+      "level": "domain",
+      "label": "Media"
+    },
+    {
+      "key": "media/news",
+      "parent": "media",
+      "level": "race",
+      "label": "News and curation"
+    },
+    {
+      "key": "media/news/news-digests",
+      "parent": "media/news",
+      "level": "capability",
+      "label": "News digests"
+    },
+    {
+      "key": "media/speech",
+      "parent": "media",
+      "level": "race",
+      "label": "Speech"
+    },
+    {
+      "key": "media/speech/text-to-speech",
+      "parent": "media/speech",
+      "level": "capability",
+      "label": "Text to speech"
+    },
+    {
+      "key": "media/speech/voice-cloning",
+      "parent": "media/speech",
+      "level": "capability",
+      "label": "Voice cloning"
+    },
+    {
+      "key": "ml",
+      "parent": null,
+      "level": "domain",
+      "label": "Machine learning"
+    },
+    {
+      "key": "ml/vision",
+      "parent": "ml",
+      "level": "race",
+      "label": "Computer vision"
+    },
+    {
+      "key": "ml/vision/aerial-segmentation",
+      "parent": "ml/vision",
+      "level": "capability",
+      "label": "Aerial image segmentation"
+    }
+  ],
+  "aliases": {
+    "1-bit": "llm-infra/inference/low-bit",
+    "a2a": "agents/orchestration/agent-networks",
+    "a2a-protocol": "agents/orchestration/agent-networks",
+    "agent-instructions": "agents/skills/agent-configs",
+    "agent-memory": "agents/memory/long-term-memory",
+    "agent-orchestration": "agents/orchestration/agent-teams",
+    "agent-security": "cyber/agent-security",
+    "agent-skills": "agents/skills",
+    "agentic-rag": "llm-infra/rag",
+    "ai-chat": "llm-infra/chat-apps",
+    "ai-coding-agent": "agents/coding",
+    "ai-memory": "agents/memory/long-term-memory",
+    "ai-orchestration": "agents/orchestration/agent-teams",
+    "ai-penetration-testing": "cyber/offensive/ai-pentesting",
+    "ai-pentesting": "cyber/offensive/ai-pentesting",
+    "ai-search": "agents/tools/web-access",
+    "ai-security": "cyber/agent-security",
+    "anns": "llm-infra/rag/vector-search",
+    "api-directory": "agents/tools/api-directories",
+    "api-list": "agents/tools/api-directories",
+    "apple-silicon": "llm-infra/inference/apple-silicon",
+    "binary-analysis": "cyber/reversing",
+    "binary-ninja": "cyber/reversing/disassemblers",
+    "bitnet-cpp": "llm-infra/inference/low-bit",
+    "bug-bounty": "cyber/offensive",
+    "build-system": "dev-tools/build",
+    "build-tool": "dev-tools/build",
+    "cad": "agents/tools/cad",
+    "certificate-management": "cyber/identity/secrets-management",
+    "chatgpt-alternative": "llm-infra/chat-apps",
+    "chatui": "llm-infra/chat-apps",
+    "chromedriver": "agents/tools/browser-automation",
+    "claude-code-hooks": "agents/skills/agent-configs",
+    "claude-code-skill": "agents/skills",
+    "claude-skills": "agents/skills",
+    "cli-proxy-api": "llm-infra/gateways/api-proxy",
+    "cloudflare-bypass": "agents/tools/browser-automation",
+    "cloudflare-mcp": "agents/tools/cloud-ops",
+    "code-intelligence": "agents/code-intel/code-graphs",
+    "code-review": "dev-tools/code-review/ai-code-review",
+    "code-review-assistant": "dev-tools/code-review/ai-code-review",
+    "coding-agent": "agents/coding",
+    "coding-agents": "agents/coding",
+    "coding-assistant": "agents/coding",
+    "compression": "agents/context/output-compression",
+    "containerd": "infra/containers",
+    "content-curation": "media/news/news-digests",
+    "context-compression": "agents/context/context-compaction",
+    "context-database": "agents/memory/context-databases",
+    "context-engineering": "agents/context",
+    "context-management": "agents/context",
+    "context-window": "agents/context/context-compaction",
+    "control-panel": "infra/hosting/control-panels",
+    "cost-reduction": "agents/context/output-compression",
+    "cursor-plugins": "agents/skills/plugin-specs",
+    "cursor-rules": "agents/skills/agent-configs",
+    "daily-digest": "media/news/news-digests",
+    "datasets": "data/datasets",
+    "decompiler": "cyber/reversing/disassemblers",
+    "deep-research": "agents/assistants/deep-research",
+    "diagramming": "dev-tools/diagrams",
+    "diagrams": "dev-tools/diagrams",
+    "disassembler": "cyber/reversing/disassemblers",
+    "distributed-database": "data/databases",
+    "distributed-file-system": "data/storage/object-storage",
+    "distributed-sql": "data/databases/distributed-sql",
+    "distributed-sql-database": "data/databases/distributed-sql",
+    "distributed-storage": "data/storage",
+    "dspy": "agents/optimization/prompt-optimization",
+    "e2e": "dev-tools/testing/e2e-testing",
+    "e2e-testing": "dev-tools/testing/e2e-testing",
+    "embedded-ai": "agents/frameworks/embedded-agents",
+    "end-to-end-testing": "dev-tools/testing/e2e-testing",
+    "enterprise-search": "llm-infra/rag/knowledge-platforms",
+    "ethical-hacking": "cyber/offensive",
+    "eventsourcing": "agents/frameworks/agent-workflows",
+    "free-api": "llm-infra/gateways/free-providers",
+    "gdb": "cyber/reversing/debuggers",
+    "gef": "cyber/reversing/debuggers",
+    "gepa": "agents/optimization/prompt-optimization",
+    "hosting-panel": "infra/hosting/control-panels",
+    "ida-pro": "cyber/reversing/disassemblers",
+    "inference": "llm-infra/inference",
+    "k8s": "infra/kubernetes",
+    "keycloak": "cyber/identity/iam",
+    "knowledge-base": "llm-infra/rag",
+    "kubectl": "infra/kubernetes/desktop-clients",
+    "kubernetes": "infra/kubernetes",
+    "kubernetes-client": "infra/kubernetes/desktop-clients",
+    "kubernetes-dashboard": "infra/kubernetes/desktop-clients",
+    "kubernetes-gui": "infra/kubernetes/desktop-clients",
+    "lima": "infra/containers",
+    "llm-security": "cyber/agent-security",
+    "llm-ui": "llm-infra/chat-apps",
+    "local-ai": "llm-infra/inference",
+    "long-term-memory": "agents/memory/long-term-memory",
+    "malware-analysis": "cyber/reversing",
+    "mechanical-engineering": "agents/tools/cad",
+    "mem0": "agents/memory/long-term-memory",
+    "memory": "agents/memory/long-term-memory",
+    "mermaid": "dev-tools/diagrams/mermaid-rendering",
+    "mermaid-diagrams": "dev-tools/diagrams/mermaid-rendering",
+    "mermaidjs": "dev-tools/diagrams/mermaid-rendering",
+    "metal": "llm-infra/inference/apple-silicon",
+    "mlx": "llm-infra/inference/apple-silicon",
+    "mobile-testing": "dev-tools/testing/e2e-testing",
+    "monorepo": "dev-tools/build/monorepo-tools",
+    "monorepo-tooling": "dev-tools/build/monorepo-tools",
+    "multi-agent": "agents/orchestration",
+    "multi-agent-systems": "agents/orchestration",
+    "nearest-neighbors": "llm-infra/rag/vector-search",
+    "nerdctl": "infra/containers",
+    "neural-tts": "media/speech/text-to-speech",
+    "news-aggregator": "media/news/news-digests",
+    "object-storage": "data/storage/object-storage",
+    "offensive-security": "cyber/offensive",
+    "oidc": "cyber/identity/iam",
+    "openai-compatible": "llm-infra/gateways",
+    "opendata": "data/datasets",
+    "openmemory": "agents/memory/long-term-memory",
+    "openshell": "agents/sandboxes/secure-runtimes",
+    "p2p-network": "agents/orchestration/agent-networks",
+    "parallel-agents": "agents/orchestration",
+    "penetration-testing": "cyber/offensive/ai-pentesting",
+    "pentesting-tools": "cyber/offensive/ai-pentesting",
+    "pki": "cyber/identity/secrets-management",
+    "project-brain": "agents/memory/project-memory",
+    "project-memory": "agents/memory/project-memory",
+    "prompt-injection": "cyber/agent-security",
+    "protobuf": "data/serialization/schema-formats",
+    "protocol-buffers": "data/serialization/schema-formats",
+    "question-answering": "llm-infra/rag/knowledge-platforms",
+    "rag": "llm-infra/rag/knowledge-platforms",
+    "reddit-scraper": "agents/tools/web-access",
+    "reverse-engineering": "cyber/reversing",
+    "runtime-security": "cyber/agent-security/runtime-guardrails",
+    "s3-storage": "data/storage/object-storage",
+    "saml": "cyber/identity/iam",
+    "secret-management": "cyber/identity/secrets-management",
+    "secret-manager": "cyber/identity/secrets-management",
+    "secrets-management": "cyber/identity/secrets-management",
+    "security-scanner": "cyber/agent-security/skill-scanning",
+    "serialization": "data/serialization",
+    "server-management": "infra/hosting/control-panels",
+    "similarity-search": "llm-infra/rag/vector-search",
+    "skills": "agents/skills",
+    "stealth": "agents/tools/browser-automation",
+    "supermemory": "agents/memory/long-term-memory",
+    "supply-chain-security": "cyber/agent-security/skill-scanning",
+    "task-runner": "dev-tools/build/monorepo-tools",
+    "testcontainers": "dev-tools/testing/integration-testing",
+    "testing": "dev-tools/testing",
+    "text-to-cad": "agents/tools/cad",
+    "threat-detection": "cyber/agent-security/runtime-guardrails",
+    "token-optimization": "agents/context/output-compression",
+    "tree-sitter": "agents/code-intel/code-graphs",
+    "tts": "media/speech/text-to-speech",
+    "twitter-scraper": "agents/tools/web-access",
+    "undetectable": "agents/tools/browser-automation",
+    "undetected": "agents/tools/browser-automation",
+    "user-namespaces": "infra/isolation",
+    "vault": "cyber/identity/secrets-management",
+    "vector-database": "llm-infra/rag/vector-search",
+    "vector-search": "llm-infra/rag/vector-search",
+    "voice-ai": "media/speech",
+    "voice-cloning": "media/speech/voice-cloning",
+    "voice-generation": "media/speech/text-to-speech",
+    "vulnerability": "cyber/appsec/vuln-discovery",
+    "web-hosting": "infra/hosting/control-panels"
+  }
+}

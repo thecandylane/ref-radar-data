@@ -1,0 +1,56 @@
+{
+  "id": "gh:abdulmominsakib/localmind",
+  "kind": "repo",
+  "url": "https://github.com/abdulmominsakib/localmind",
+  "title": "localmind",
+  "why": "Flutter chat app for on-device models, local LLM servers and cloud providers.",
+  "keys": {
+    "races": [
+      "llm-infra/chat-apps"
+    ],
+    "capabilities": [
+      "llm-infra/chat-apps/mobile-chat"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/abdulmominsakib/localmind",
+    "sha": "bf88cc9474d69857308f1a9e237df2434dca7414",
+    "file_url": "https://cdn.jsdelivr.net/gh/abdulmominsakib/localmind@bf88cc9474d69857308f1a9e237df2434dca7414/{path}"
+  },
+  "facts": {
+    "lang": "Dart",
+    "license": "MIT",
+    "stars": 288,
+    "size_mb": 49,
+    "created_at": "2026-04-01T07:31:47Z",
+    "last_commit_at": "2026-10-21T08:21:24Z",
+    "releases": 29,
+    "tags": 30,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

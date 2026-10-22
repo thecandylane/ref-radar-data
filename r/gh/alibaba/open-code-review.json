@@ -1,0 +1,58 @@
+{
+  "id": "gh:alibaba/open-code-review",
+  "kind": "repo",
+  "url": "https://github.com/alibaba/open-code-review",
+  "title": "open-code-review",
+  "why": "Hybrid code review: deterministic pipelines plus an LLM agent, with line-level comments and security rules.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "dev-tools/code-review"
+    ],
+    "capabilities": [
+      "cyber/appsec/static-analysis",
+      "dev-tools/code-review/ai-code-review"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/alibaba/open-code-review",
+    "sha": "375f64cd6f67a48a135da83cfcf59c52669a09cb",
+    "file_url": "https://cdn.jsdelivr.net/gh/alibaba/open-code-review@375f64cd6f67a48a135da83cfcf59c52669a09cb/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 47944,
+    "size_mb": 55,
+    "created_at": "2026-05-18T02:16:36Z",
+    "last_commit_at": "2026-10-20T09:50:03Z",
+    "releases": 140,
+    "tags": 158,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

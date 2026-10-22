@@ -1,0 +1,48 @@
+{
+  "id": "gh:bytedance/deer-flow",
+  "kind": "repo",
+  "url": "https://github.com/bytedance/deer-flow",
+  "title": "deer-flow",
+  "why": "Long-horizon agent harness that researches, codes and creates, with sandboxes, memory, skills and subagents.",
+  "keys": {
+    "races": [
+      "agents/assistants"
+    ],
+    "capabilities": [
+      "agents/assistants/deep-research"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bytedance/deer-flow",
+    "sha": "24c98812ed4909dfc3000173266624b8c58c29fb",
+    "file_url": "https://cdn.jsdelivr.net/gh/bytedance/deer-flow@24c98812ed4909dfc3000173266624b8c58c29fb/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 84252,
+    "size_mb": 89,
+    "created_at": "2025-05-07T02:50:19Z",
+    "last_commit_at": "2026-10-22T00:43:42Z",
+    "releases": 2,
+    "tags": 10,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 1,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}
