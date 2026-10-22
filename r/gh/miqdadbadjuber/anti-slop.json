@@ -1,0 +1,49 @@
+{
+  "id": "gh:miqdadbadjuber/anti-slop",
+  "kind": "repo",
+  "url": "https://github.com/miqdadbadjuber/anti-slop",
+  "title": "miqdadbadjuber/anti-slop",
+  "why": "Install it in a coding agent to filter generic AI output from its UI, copy and code without prescribing a style of its own.",
+  "keys": {
+    "races": [
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/skills/engineering-skills",
+      "agents/skills/writing-skills"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/miqdadbadjuber/anti-slop",
+    "sha": "439a2ef5b9dd0ebe74e8113ff43f5928d0fe2a6a",
+    "file_url": "https://cdn.jsdelivr.net/gh/miqdadbadjuber/anti-slop@439a2ef5b9dd0ebe74e8113ff43f5928d0fe2a6a/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 6819,
+    "size_mb": 4,
+    "created_at": "2026-08-07T10:29:56Z",
+    "last_commit_at": "2026-10-16T11:42:42Z",
+    "releases": 39,
+    "tags": 39,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

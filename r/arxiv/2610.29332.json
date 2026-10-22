@@ -1,0 +1,35 @@
+{
+  "id": "arxiv:2610.29332",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.29332",
+  "title": "Do Coding Agents Understand Why Systems Crash---and Why They Don't?",
+  "why": "Tests whether coding agents understand execution in the Linux kernel by predicting crashes from source code.",
+  "keys": {
+    "races": [
+      "agents/optimization"
+    ],
+    "capabilities": [
+      "agents/optimization/rl-environments"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.29332"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

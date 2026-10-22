@@ -583,6 +583,108 @@
       "label": "Throwaway test databases"
     },
     {
+      "key": "finance",
+      "parent": null,
+      "level": "domain",
+      "label": "Finance"
+    },
+    {
+      "key": "finance/accounting",
+      "parent": "finance",
+      "level": "race",
+      "label": "Accounting"
+    },
+    {
+      "key": "finance/accounting/bookkeeping",
+      "parent": "finance/accounting",
+      "level": "capability",
+      "label": "Bookkeeping and invoicing"
+    },
+    {
+      "key": "finance/accounting/erp",
+      "parent": "finance/accounting",
+      "level": "capability",
+      "label": "ERP"
+    },
+    {
+      "key": "finance/markets",
+      "parent": "finance",
+      "level": "race",
+      "label": "Markets and research"
+    },
+    {
+      "key": "finance/markets/market-data",
+      "parent": "finance/markets",
+      "level": "capability",
+      "label": "Market data"
+    },
+    {
+      "key": "finance/markets/research-terminals",
+      "parent": "finance/markets",
+      "level": "capability",
+      "label": "Research terminals"
+    },
+    {
+      "key": "finance/personal",
+      "parent": "finance",
+      "level": "race",
+      "label": "Personal finance"
+    },
+    {
+      "key": "finance/personal/budgeting",
+      "parent": "finance/personal",
+      "level": "capability",
+      "label": "Budgeting"
+    },
+    {
+      "key": "finance/personal/wealth-tracking",
+      "parent": "finance/personal",
+      "level": "capability",
+      "label": "Wealth and portfolio tracking"
+    },
+    {
+      "key": "finance/quant",
+      "parent": "finance",
+      "level": "race",
+      "label": "Quant research"
+    },
+    {
+      "key": "finance/quant/portfolio-optimization",
+      "parent": "finance/quant",
+      "level": "capability",
+      "label": "Portfolio optimization"
+    },
+    {
+      "key": "finance/quant/quant-ml",
+      "parent": "finance/quant",
+      "level": "capability",
+      "label": "ML for trading"
+    },
+    {
+      "key": "finance/trading",
+      "parent": "finance",
+      "level": "race",
+      "label": "Trading"
+    },
+    {
+      "key": "finance/trading/backtesting",
+      "parent": "finance/trading",
+      "level": "capability",
+      "label": "Backtesting"
+    },
+    {
+      "key": "finance/trading/trading-agents",
+      "parent": "finance/trading",
+      "level": "capability",
+      "label": "LLM trading agents"
+    },
+    {
+      "key": "finance/trading/trading-bots",
+      "parent": "finance/trading",
+      "level": "capability",
+      "label": "Trading bots"
+    },
+    {
       "key": "infra",
       "parent": null,
       "level": "domain",
@@ -803,6 +905,7 @@
     "1-bit": "llm-infra/inference/low-bit",
     "a2a": "agents/orchestration/agent-networks",
     "a2a-protocol": "agents/orchestration/agent-networks",
+    "accounting": "finance/accounting/bookkeeping",
     "agent-instructions": "agents/skills/agent-configs",
     "agent-memory": "agents/memory/long-term-memory",
     "agent-orchestration": "agents/orchestration/agent-teams",
@@ -817,13 +920,17 @@
     "ai-pentesting": "cyber/offensive/ai-pentesting",
     "ai-search": "agents/tools/web-access",
     "ai-security": "cyber/agent-security",
+    "algo-trading": "finance/trading/trading-bots",
+    "algorithmic-trading": "finance/trading/trading-bots",
     "anns": "llm-infra/rag/vector-search",
     "api-directory": "agents/tools/api-directories",
     "api-list": "agents/tools/api-directories",
     "apple-silicon": "llm-infra/inference/apple-silicon",
+    "backtest": "finance/trading/backtesting",
     "binary-analysis": "cyber/reversing",
     "binary-ninja": "cyber/reversing/disassemblers",
     "bitnet-cpp": "llm-infra/inference/low-bit",
+    "budget": "finance/personal/budgeting",
     "bug-bounty": "cyber/offensive",
     "build-system": "dev-tools/build",
     "build-tool": "dev-tools/build",
@@ -854,6 +961,7 @@
     "context-window": "agents/context/context-compaction",
     "control-panel": "infra/hosting/control-panels",
     "cost-reduction": "agents/context/output-compression",
+    "crypto-trading": "finance/trading/trading-bots",
     "cursor-plugins": "agents/skills/plugin-specs",
     "cursor-rules": "agents/skills/agent-configs",
     "daily-digest": "media/news/news-digests",
@@ -868,6 +976,7 @@
     "distributed-sql": "data/databases/distributed-sql",
     "distributed-sql-database": "data/databases/distributed-sql",
     "distributed-storage": "data/storage",
+    "double-entry": "finance/accounting/bookkeeping",
     "dspy": "agents/optimization/prompt-optimization",
     "e2e": "dev-tools/testing/e2e-testing",
     "e2e-testing": "dev-tools/testing/e2e-testing",
@@ -876,6 +985,9 @@
     "enterprise-search": "llm-infra/rag/knowledge-platforms",
     "ethical-hacking": "cyber/offensive",
     "eventsourcing": "agents/frameworks/agent-workflows",
+    "financial-analysis": "finance/markets/research-terminals",
+    "financial-data": "finance/markets/market-data",
+    "finrl": "finance/quant/quant-ml",
     "free-api": "llm-infra/gateways/free-providers",
     "gdb": "cyber/reversing/debuggers",
     "gef": "cyber/reversing/debuggers",
@@ -883,6 +995,8 @@
     "hosting-panel": "infra/hosting/control-panels",
     "ida-pro": "cyber/reversing/disassemblers",
     "inference": "llm-infra/inference",
+    "investment-research": "finance/markets/research-terminals",
+    "invoicing": "finance/accounting/bookkeeping",
     "k8s": "infra/kubernetes",
     "keycloak": "cyber/identity/iam",
     "knowledge-base": "llm-infra/rag",
@@ -893,10 +1007,12 @@
     "kubernetes-gui": "infra/kubernetes/desktop-clients",
     "lima": "infra/containers",
     "llm-security": "cyber/agent-security",
+    "llm-trading": "finance/trading/trading-agents",
     "llm-ui": "llm-infra/chat-apps",
     "local-ai": "llm-infra/inference",
     "long-term-memory": "agents/memory/long-term-memory",
     "malware-analysis": "cyber/reversing",
+    "market-making": "finance/trading/trading-bots",
     "mechanical-engineering": "agents/tools/cad",
     "mem0": "agents/memory/long-term-memory",
     "memory": "agents/memory/long-term-memory",
@@ -906,12 +1022,14 @@
     "metal": "llm-infra/inference/apple-silicon",
     "mlx": "llm-infra/inference/apple-silicon",
     "mobile-testing": "dev-tools/testing/e2e-testing",
+    "money-management": "finance/personal/budgeting",
     "monorepo": "dev-tools/build/monorepo-tools",
     "monorepo-tooling": "dev-tools/build/monorepo-tools",
     "multi-agent": "agents/orchestration",
     "multi-agent-systems": "agents/orchestration",
     "nearest-neighbors": "llm-infra/rag/vector-search",
     "nerdctl": "infra/containers",
+    "net-worth": "finance/personal/wealth-tracking",
     "neural-tts": "media/speech/text-to-speech",
     "news-aggregator": "media/news/news-digests",
     "object-storage": "data/storage/object-storage",
@@ -925,16 +1043,23 @@
     "parallel-agents": "agents/orchestration",
     "penetration-testing": "cyber/offensive/ai-pentesting",
     "pentesting-tools": "cyber/offensive/ai-pentesting",
+    "personal-finance": "finance/personal/budgeting",
     "pki": "cyber/identity/secrets-management",
+    "portfolio-management": "finance/quant/portfolio-optimization",
+    "portfolio-tracker": "finance/personal/wealth-tracking",
     "project-brain": "agents/memory/project-memory",
     "project-memory": "agents/memory/project-memory",
     "prompt-injection": "cyber/agent-security",
     "protobuf": "data/serialization/schema-formats",
     "protocol-buffers": "data/serialization/schema-formats",
+    "quant": "finance/quant/quant-ml",
+    "quantitative-finance": "finance/quant/quant-ml",
+    "quantitative-trading": "finance/quant/quant-ml",
     "question-answering": "llm-infra/rag/knowledge-platforms",
     "rag": "llm-infra/rag/knowledge-platforms",
     "reddit-scraper": "agents/tools/web-access",
     "reverse-engineering": "cyber/reversing",
+    "risk-management": "finance/quant/portfolio-optimization",
     "runtime-security": "cyber/agent-security/runtime-guardrails",
     "s3-storage": "data/storage/object-storage",
     "saml": "cyber/identity/iam",
@@ -947,6 +1072,8 @@
     "similarity-search": "llm-infra/rag/vector-search",
     "skills": "agents/skills",
     "stealth": "agents/tools/browser-automation",
+    "stock-data": "finance/markets/market-data",
+    "stock-market": "finance/markets/market-data",
     "supermemory": "agents/memory/long-term-memory",
     "supply-chain-security": "cyber/agent-security/skill-scanning",
     "task-runner": "dev-tools/build/monorepo-tools",
@@ -955,6 +1082,8 @@
     "text-to-cad": "agents/tools/cad",
     "threat-detection": "cyber/agent-security/runtime-guardrails",
     "token-optimization": "agents/context/output-compression",
+    "trading-agent": "finance/trading/trading-agents",
+    "trading-bot": "finance/trading/trading-bots",
     "tree-sitter": "agents/code-intel/code-graphs",
     "tts": "media/speech/text-to-speech",
     "twitter-scraper": "agents/tools/web-access",
@@ -968,6 +1097,8 @@
     "voice-cloning": "media/speech/voice-cloning",
     "voice-generation": "media/speech/text-to-speech",
     "vulnerability": "cyber/appsec/vuln-discovery",
-    "web-hosting": "infra/hosting/control-panels"
+    "wealth-management": "finance/personal/wealth-tracking",
+    "web-hosting": "infra/hosting/control-panels",
+    "yahoo-finance": "finance/markets/market-data"
   }
 }

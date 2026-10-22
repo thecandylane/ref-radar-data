@@ -1,0 +1,35 @@
+{
+  "id": "arxiv:2610.29379",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.29379",
+  "title": "Where AI Vulnerability Discovery Harnesses Go Quiet: Structural False Negatives and Hidden Vulnerabilities",
+  "why": "Read it when a vulnerability discovery harness reports no findings: its select, filter and merge steps can drop real vulnerabilities.",
+  "keys": {
+    "races": [
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.29379"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

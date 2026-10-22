@@ -1,0 +1,54 @@
+{
+  "id": "gh:totec448-spec/chat-on-steroids",
+  "kind": "repo",
+  "url": "https://github.com/totec448-spec/chat-on-steroids",
+  "title": "chat-on-steroids",
+  "why": "Use it to give ChatGPT your files, terminals and a team of workers through local MCP, with Compact and Resume for long sessions.",
+  "keys": {
+    "races": [
+      "agents/clients",
+      "agents/orchestration"
+    ],
+    "capabilities": [
+      "agents/clients/desktop-apps",
+      "agents/orchestration/agent-teams"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/totec448-spec/chat-on-steroids",
+    "sha": "f7198eaa11c515206eddc21419d71b46ca699f3c",
+    "file_url": "https://cdn.jsdelivr.net/gh/totec448-spec/chat-on-steroids@f7198eaa11c515206eddc21419d71b46ca699f3c/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 5061,
+    "size_mb": 110,
+    "created_at": "2026-08-22T14:16:24Z",
+    "last_commit_at": "2026-10-22T07:26:17Z",
+    "releases": 45,
+    "tags": 45,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

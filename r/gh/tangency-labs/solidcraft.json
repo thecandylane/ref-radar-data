@@ -1,0 +1,56 @@
+{
+  "id": "gh:tangency-labs/solidcraft",
+  "kind": "repo",
+  "url": "https://github.com/tangency-labs/solidcraft",
+  "title": "solidcraft",
+  "why": "Use it when an agent has to model parametric 3D solids through a built-in MCP server, in a pure Rust CAD app with a feature timeline.",
+  "keys": {
+    "races": [
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/cad"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tangency-labs/solidcraft",
+    "sha": "e23a5bf2439d219b567b1cca7ec74a06b13110fd",
+    "file_url": "https://cdn.jsdelivr.net/gh/tangency-labs/solidcraft@e23a5bf2439d219b567b1cca7ec74a06b13110fd/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 9037,
+    "size_mb": 144,
+    "created_at": "2026-10-07T18:57:48Z",
+    "last_commit_at": "2026-10-22T04:04:59Z",
+    "releases": 44,
+    "tags": 44,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}
