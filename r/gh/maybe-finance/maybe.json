@@ -1,0 +1,57 @@
+{
+  "id": "gh:maybe-finance/maybe",
+  "kind": "repo",
+  "url": "https://github.com/maybe-finance/maybe",
+  "title": "maybe",
+  "why": "No longer maintained but fully working: a Rails and Hotwire finance app you are free to fork under AGPLv3.",
+  "keys": {
+    "races": [
+      "finance/personal"
+    ],
+    "capabilities": [
+      "finance/personal/budgeting",
+      "finance/personal/wealth-tracking"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/maybe-finance/maybe",
+    "sha": "77b5469832758d1cbee1a940f3012a1ae1c74cd3",
+    "file_url": "https://cdn.jsdelivr.net/gh/maybe-finance/maybe@77b5469832758d1cbee1a940f3012a1ae1c74cd3/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "AGPL-3.0",
+    "stars": 54212,
+    "size_mb": 7,
+    "created_at": "2024-01-01T22:23:46Z",
+    "last_commit_at": "2025-07-24T22:20:44Z",
+    "releases": 28,
+    "tags": 29,
+    "archived": true
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

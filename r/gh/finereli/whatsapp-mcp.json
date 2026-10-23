@@ -1,0 +1,52 @@
+{
+  "id": "gh:finereli/whatsapp-mcp",
+  "kind": "repo",
+  "url": "https://github.com/finereli/whatsapp-mcp",
+  "title": "whatsapp-mcp",
+  "why": "Gives an agent read-only search over your WhatsApp chats, from a server in your own Cloudflare account.",
+  "keys": {
+    "races": [
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/web-access"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/finereli/whatsapp-mcp",
+    "sha": "64f1b3017931e4f6fe33eec4f95999a10f839b99",
+    "file_url": "https://cdn.jsdelivr.net/gh/finereli/whatsapp-mcp@64f1b3017931e4f6fe33eec4f95999a10f839b99/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 325,
+    "size_mb": 0,
+    "created_at": "2026-10-18T21:01:54Z",
+    "last_commit_at": "2026-10-18T22:20:41Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

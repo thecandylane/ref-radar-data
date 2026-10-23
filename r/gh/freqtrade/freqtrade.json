@@ -1,0 +1,49 @@
+{
+  "id": "gh:freqtrade/freqtrade",
+  "kind": "repo",
+  "url": "https://github.com/freqtrade/freqtrade",
+  "title": "freqtrade",
+  "why": "Backtest, tune and run your own crypto trading strategies on major exchanges, controlled via Telegram or webUI.",
+  "keys": {
+    "races": [
+      "finance/trading"
+    ],
+    "capabilities": [
+      "finance/trading/backtesting",
+      "finance/trading/trading-bots"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/freqtrade/freqtrade",
+    "sha": "0db79d391f646eafbdf3c0976dd55dc90b296522",
+    "file_url": "https://cdn.jsdelivr.net/gh/freqtrade/freqtrade@0db79d391f646eafbdf3c0976dd55dc90b296522/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 55792,
+    "size_mb": 811,
+    "created_at": "2017-05-17T23:48:53Z",
+    "last_commit_at": "2026-10-22T05:26:11Z",
+    "releases": 118,
+    "tags": 123,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

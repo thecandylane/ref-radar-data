@@ -1,0 +1,48 @@
+{
+  "id": "gh:pyportfolio/pyportfolioopt",
+  "kind": "repo",
+  "url": "https://github.com/PyPortfolio/PyPortfolioOpt",
+  "title": "PyPortfolioOpt",
+  "why": "Get portfolio weights from mean-variance, Black-Litterman or Hierarchical Risk Parity, with shrinkage covariance estimates.",
+  "keys": {
+    "races": [
+      "finance/quant"
+    ],
+    "capabilities": [
+      "finance/quant/portfolio-optimization"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/PyPortfolio/PyPortfolioOpt",
+    "sha": "a6638d2e06dae6f444fd022cfd4b3c528902a85b",
+    "file_url": "https://cdn.jsdelivr.net/gh/PyPortfolio/PyPortfolioOpt@a6638d2e06dae6f444fd022cfd4b3c528902a85b/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 6118,
+    "size_mb": 15,
+    "created_at": "2018-05-29T13:30:30Z",
+    "last_commit_at": "2026-07-07T21:13:11Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

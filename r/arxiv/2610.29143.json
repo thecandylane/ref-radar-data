@@ -1,0 +1,35 @@
+{
+  "id": "arxiv:2610.29143",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.29143",
+  "title": "VeeReview: Measuring Build-Verify Pairs in Agent-Authored Pull Requests from a V-Model Perspective",
+  "why": "Measures whether agent-authored pull requests verify what they build, using V-Model build and verify pairs.",
+  "keys": {
+    "races": [
+      "dev-tools/code-review"
+    ],
+    "capabilities": [
+      "dev-tools/code-review/ai-code-review"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.29143"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

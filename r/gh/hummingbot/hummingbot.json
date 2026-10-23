@@ -1,0 +1,48 @@
+{
+  "id": "gh:hummingbot/hummingbot",
+  "kind": "repo",
+  "url": "https://github.com/hummingbot/hummingbot",
+  "title": "hummingbot",
+  "why": "Build market-making and arbitrage bots that run across centralized and decentralized crypto exchanges.",
+  "keys": {
+    "races": [
+      "finance/trading"
+    ],
+    "capabilities": [
+      "finance/trading/trading-bots"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hummingbot/hummingbot",
+    "sha": "9af100d6822da7d2d0291a906c730ef172284ee2",
+    "file_url": "https://cdn.jsdelivr.net/gh/hummingbot/hummingbot@9af100d6822da7d2d0291a906c730ef172284ee2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 20644,
+    "size_mb": 554,
+    "created_at": "2019-04-02T21:41:52Z",
+    "last_commit_at": "2026-09-22T08:53:54Z",
+    "releases": 111,
+    "tags": 112,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

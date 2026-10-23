@@ -1,0 +1,52 @@
+{
+  "id": "gh:firefly-iii/firefly-iii",
+  "kind": "repo",
+  "url": "https://github.com/firefly-iii/firefly-iii",
+  "title": "firefly-iii",
+  "why": "Self-hosted expense and income tracking with budgets, categories and reports, and no cloud or AI.",
+  "keys": {
+    "races": [
+      "finance/personal"
+    ],
+    "capabilities": [
+      "finance/personal/budgeting"
+    ]
+  },
+  "read": [
+    {
+      "locator": "agents.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/firefly-iii/firefly-iii",
+    "sha": "b9c31006e8d3008df3d12e23de86b66088c9480e",
+    "file_url": "https://cdn.jsdelivr.net/gh/firefly-iii/firefly-iii@b9c31006e8d3008df3d12e23de86b66088c9480e/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "AGPL-3.0",
+    "stars": 24975,
+    "size_mb": 314,
+    "created_at": "2014-06-28T07:37:32Z",
+    "last_commit_at": "2026-10-17T04:00:08Z",
+    "releases": 340,
+    "tags": 1291,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}

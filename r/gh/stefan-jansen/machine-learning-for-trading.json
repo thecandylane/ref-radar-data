@@ -1,0 +1,50 @@
+{
+  "id": "gh:stefan-jansen/machine-learning-for-trading",
+  "kind": "repo",
+  "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+  "title": "machine-learning-for-trading",
+  "why": "Book code that takes one ML trading workflow through 27 chapters and nine case studies, up to live trading.",
+  "keys": {
+    "races": [
+      "finance/quant",
+      "finance/trading"
+    ],
+    "capabilities": [
+      "finance/quant/quant-ml",
+      "finance/trading/backtesting"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/stefan-jansen/machine-learning-for-trading",
+    "sha": "35d6e2b447d9e7c80bcdb5dce3e7c4d2b4079c9c",
+    "file_url": "https://raw.githubusercontent.com/stefan-jansen/machine-learning-for-trading/35d6e2b447d9e7c80bcdb5dce3e7c4d2b4079c9c/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 21519,
+    "size_mb": 1272,
+    "created_at": "2018-05-09T12:33:08Z",
+    "last_commit_at": "2026-10-22T12:58:49Z",
+    "releases": 6,
+    "tags": 46,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0
+  }
+}
