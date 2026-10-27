@@ -8,6 +8,9 @@
     "races": [
       "infra/isolation"
     ],
+    "lanes": [
+      "infra/isolation"
+    ],
     "capabilities": [
       "infra/isolation/application-kernels"
     ]
@@ -31,10 +34,10 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 19781,
+    "stars": 19789,
     "size_mb": 1367,
     "created_at": "2018-04-26T21:28:49Z",
-    "last_commit_at": "2026-10-26T08:13:48Z",
+    "last_commit_at": "2026-10-27T07:59:14Z",
     "releases": 9,
     "tags": 284,
     "archived": false

@@ -8,6 +8,9 @@
     "races": [
       "llm-infra/gateways"
     ],
+    "lanes": [
+      "llm-infra/gateways"
+    ],
     "capabilities": [
       "llm-infra/gateways/api-proxy",
       "llm-infra/gateways/llm-gateway"
@@ -40,12 +43,12 @@
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 56260,
+    "stars": 56536,
     "size_mb": 46,
     "created_at": "2025-07-01T19:43:27Z",
-    "last_commit_at": "2026-10-25T14:45:00Z",
-    "releases": 905,
-    "tags": 1156,
+    "last_commit_at": "2026-10-26T15:48:37Z",
+    "releases": 906,
+    "tags": 1157,
     "archived": false
   },
   "reuse": "copy",

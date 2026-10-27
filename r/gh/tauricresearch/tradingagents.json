@@ -9,6 +9,10 @@
       "agents/orchestration",
       "finance/trading"
     ],
+    "lanes": [
+      "agents/orchestration",
+      "finance/trading"
+    ],
     "capabilities": [
       "agents/orchestration/agent-teams",
       "finance/trading/trading-agents"
@@ -29,7 +33,7 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 115094,
+    "stars": 116667,
     "size_mb": 6,
     "created_at": "2024-12-28T03:31:08Z",
     "last_commit_at": "2026-10-16T21:38:41Z",

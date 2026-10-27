@@ -8,6 +8,9 @@
     "races": [
       "agents/sandboxes"
     ],
+    "lanes": [
+      "agents/sandboxes"
+    ],
     "capabilities": [
       "agents/sandboxes/run-replay"
     ]
@@ -27,7 +30,7 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 2493,
+    "stars": 2494,
     "size_mb": 17,
     "created_at": "2026-06-24T17:26:46Z",
     "last_commit_at": "2026-09-09T10:34:37Z",

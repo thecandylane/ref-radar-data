@@ -8,6 +8,9 @@
     "races": [
       "infra/isolation"
     ],
+    "lanes": [
+      "infra/isolation"
+    ],
     "capabilities": [
       "infra/isolation/unprivileged-sandboxes"
     ]
@@ -27,7 +30,7 @@
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 9216,
+    "stars": 9230,
     "size_mb": 1,
     "created_at": "2016-02-16T20:36:10Z",
     "last_commit_at": "2026-10-14T12:26:03Z",

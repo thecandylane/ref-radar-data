@@ -8,6 +8,9 @@
     "races": [
       "agents/context"
     ],
+    "lanes": [
+      "agents/context"
+    ],
     "capabilities": [
       "agents/context/output-compression"
     ]
@@ -31,12 +34,12 @@
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 32332,
+    "stars": 32477,
     "size_mb": 40,
     "created_at": "2026-02-23T05:56:28Z",
-    "last_commit_at": "2026-10-25T12:05:41Z",
+    "last_commit_at": "2026-10-26T18:07:04Z",
     "releases": 195,
-    "tags": 198,
+    "tags": 200,
     "archived": false
   },
   "reuse": "study",

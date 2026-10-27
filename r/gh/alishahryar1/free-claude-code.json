@@ -8,6 +8,9 @@
     "races": [
       "llm-infra/gateways"
     ],
+    "lanes": [
+      "llm-infra/gateways"
+    ],
     "capabilities": [
       "llm-infra/gateways/api-proxy",
       "llm-infra/gateways/free-providers"
@@ -32,12 +35,12 @@
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 63561,
+    "stars": 63872,
     "size_mb": 16,
     "created_at": "2026-01-28T19:02:30Z",
-    "last_commit_at": "2026-10-25T18:30:54Z",
-    "releases": 96,
-    "tags": 96,
+    "last_commit_at": "2026-10-27T07:56:59Z",
+    "releases": 98,
+    "tags": 98,
     "archived": false
   },
   "reuse": "study",

@@ -9,6 +9,10 @@
       "llm-infra/chat-apps",
       "llm-infra/rag"
     ],
+    "lanes": [
+      "llm-infra/chat-apps",
+      "llm-infra/rag"
+    ],
     "capabilities": [
       "llm-infra/chat-apps/self-hosted-chat",
       "llm-infra/rag/knowledge-platforms"
@@ -29,12 +33,12 @@
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 32992,
-    "size_mb": 297,
+    "stars": 33017,
+    "size_mb": 300,
     "created_at": "2023-04-27T06:04:01Z",
-    "last_commit_at": "2026-10-23T23:42:16Z",
-    "releases": 392,
-    "tags": 2549,
+    "last_commit_at": "2026-10-27T01:08:23Z",
+    "releases": 397,
+    "tags": 2552,
     "archived": false
   },
   "reuse": "study",

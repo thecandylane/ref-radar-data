@@ -8,6 +8,9 @@
     "races": [
       "agents/memory"
     ],
+    "lanes": [
+      "agents/memory"
+    ],
     "capabilities": [
       "agents/memory/long-term-memory"
     ]
@@ -31,12 +34,12 @@
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 103224,
+    "stars": 103526,
     "size_mb": 643,
     "created_at": "2025-08-31T20:50:03Z",
-    "last_commit_at": "2026-10-25T20:18:26Z",
-    "releases": 376,
-    "tags": 399,
+    "last_commit_at": "2026-10-26T23:57:04Z",
+    "releases": 377,
+    "tags": 400,
     "archived": false
   },
   "reuse": "copy",

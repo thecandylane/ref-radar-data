@@ -8,6 +8,9 @@
     "races": [
       "data/serialization"
     ],
+    "lanes": [
+      "data/serialization"
+    ],
     "capabilities": [
       "data/serialization/schema-formats"
     ]
@@ -35,10 +38,10 @@
   "facts": {
     "lang": "C++",
     "license": "NOASSERTION",
-    "stars": 72128,
-    "size_mb": 243,
+    "stars": 72133,
+    "size_mb": 244,
     "created_at": "2014-08-26T15:52:15Z",
-    "last_commit_at": "2026-10-24T02:17:41Z",
+    "last_commit_at": "2026-10-27T06:00:07Z",
     "releases": 222,
     "tags": 471,
     "archived": false

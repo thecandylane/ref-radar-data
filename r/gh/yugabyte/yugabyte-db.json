@@ -8,6 +8,9 @@
     "races": [
       "data/databases"
     ],
+    "lanes": [
+      "data/databases"
+    ],
     "capabilities": [
       "data/databases/distributed-sql"
     ]
@@ -31,12 +34,12 @@
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 10630,
-    "size_mb": 1113,
+    "stars": 10632,
+    "size_mb": 1115,
     "created_at": "2017-10-05T21:56:00Z",
-    "last_commit_at": "2026-10-26T07:45:32Z",
+    "last_commit_at": "2026-10-27T06:01:02Z",
     "releases": 283,
-    "tags": 6204,
+    "tags": 6216,
     "archived": false
   },
   "reuse": "study",

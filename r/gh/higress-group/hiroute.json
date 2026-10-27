@@ -8,6 +8,9 @@
     "races": [
       "llm-infra/gateways"
     ],
+    "lanes": [
+      "llm-infra/gateways"
+    ],
     "capabilities": [
       "llm-infra/gateways/model-routing"
     ]
@@ -35,8 +38,8 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 350,
-    "size_mb": 71,
+    "stars": 356,
+    "size_mb": 72,
     "created_at": "2026-09-12T03:28:58Z",
     "last_commit_at": "2026-10-26T03:19:31Z",
     "releases": 5,

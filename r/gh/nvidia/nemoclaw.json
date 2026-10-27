@@ -8,6 +8,9 @@
     "races": [
       "agents/sandboxes"
     ],
+    "lanes": [
+      "agents/sandboxes"
+    ],
     "capabilities": [
       "agents/sandboxes/secure-runtimes"
     ]
@@ -31,12 +34,12 @@
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 22845,
-    "size_mb": 482,
+    "stars": 22851,
+    "size_mb": 489,
     "created_at": "2026-03-15T17:04:09Z",
-    "last_commit_at": "2026-10-26T08:02:43Z",
+    "last_commit_at": "2026-10-27T06:30:20Z",
     "releases": 1,
-    "tags": 154,
+    "tags": 155,
     "archived": false
   },
   "reuse": "copy",

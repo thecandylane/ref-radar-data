@@ -8,6 +8,9 @@
     "races": [
       "dev-tools/testing"
     ],
+    "lanes": [
+      "dev-tools/testing"
+    ],
     "capabilities": [
       "dev-tools/testing/e2e-testing"
     ]
@@ -35,10 +38,10 @@
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 11912,
+    "stars": 11989,
     "size_mb": 99,
     "created_at": "2026-07-22T09:29:04Z",
-    "last_commit_at": "2026-10-26T08:39:11Z",
+    "last_commit_at": "2026-10-26T21:51:34Z",
     "releases": 63,
     "tags": 64,
     "archived": false

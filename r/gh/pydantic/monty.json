@@ -8,6 +8,9 @@
     "races": [
       "agents/sandboxes"
     ],
+    "lanes": [
+      "agents/sandboxes"
+    ],
     "capabilities": [
       "agents/sandboxes/code-sandboxes"
     ]
@@ -35,12 +38,12 @@
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 8778,
-    "size_mb": 20,
+    "stars": 8789,
+    "size_mb": 21,
     "created_at": "2023-05-28T11:13:38Z",
-    "last_commit_at": "2026-10-26T08:04:13Z",
-    "releases": 36,
-    "tags": 37,
+    "last_commit_at": "2026-10-26T20:13:57Z",
+    "releases": 37,
+    "tags": 38,
     "archived": false
   },
   "reuse": "copy",

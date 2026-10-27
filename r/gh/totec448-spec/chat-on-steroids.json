@@ -9,6 +9,10 @@
       "agents/clients",
       "agents/orchestration"
     ],
+    "lanes": [
+      "agents/clients",
+      "agents/orchestration"
+    ],
     "capabilities": [
       "agents/clients/desktop-apps",
       "agents/orchestration/agent-teams"
@@ -33,10 +37,10 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 5081,
-    "size_mb": 114,
+    "stars": 5088,
+    "size_mb": 113,
     "created_at": "2026-08-22T14:16:24Z",
-    "last_commit_at": "2026-10-26T06:58:53Z",
+    "last_commit_at": "2026-10-27T08:00:11Z",
     "releases": 47,
     "tags": 47,
     "archived": false

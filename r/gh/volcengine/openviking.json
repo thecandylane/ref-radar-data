@@ -8,6 +8,9 @@
     "races": [
       "agents/memory"
     ],
+    "lanes": [
+      "agents/memory"
+    ],
     "capabilities": [
       "agents/memory/context-databases"
     ]
@@ -39,10 +42,10 @@
   "facts": {
     "lang": "Python",
     "license": "AGPL-3.0",
-    "stars": 40855,
-    "size_mb": 378,
+    "stars": 40928,
+    "size_mb": 379,
     "created_at": "2026-01-05T07:11:17Z",
-    "last_commit_at": "2026-10-26T09:01:17Z",
+    "last_commit_at": "2026-10-27T07:56:57Z",
     "releases": 101,
     "tags": 118,
     "archived": false

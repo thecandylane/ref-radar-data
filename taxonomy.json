@@ -289,6 +289,12 @@
       "label": "Agent setups, hooks and scripts"
     },
     {
+      "key": "agents/skills/design-skills",
+      "parent": "agents/skills",
+      "level": "capability",
+      "label": "Design and brand skills"
+    },
+    {
       "key": "agents/skills/engineering-skills",
       "parent": "agents/skills",
       "level": "capability",
@@ -335,6 +341,12 @@
       "parent": "agents/tools",
       "level": "capability",
       "label": "Cloud operations"
+    },
+    {
+      "key": "agents/tools/mcp-servers",
+      "parent": "agents/tools",
+      "level": "capability",
+      "label": "MCP servers"
     },
     {
       "key": "agents/tools/web-access",
@@ -397,6 +409,12 @@
       "label": "Vulnerability discovery"
     },
     {
+      "key": "cyber/detection",
+      "parent": "cyber",
+      "level": "race",
+      "label": "Detection"
+    },
+    {
       "key": "cyber/identity",
       "parent": "cyber",
       "level": "race",
@@ -457,10 +475,28 @@
       "label": "Disassemblers and decompilers"
     },
     {
+      "key": "cyber/supply-chain",
+      "parent": "cyber",
+      "level": "race",
+      "label": "Supply chain"
+    },
+    {
+      "key": "cyber/threat-intel",
+      "parent": "cyber",
+      "level": "race",
+      "label": "Threat intelligence"
+    },
+    {
       "key": "data",
       "parent": null,
       "level": "domain",
       "label": "Data"
+    },
+    {
+      "key": "data/analytics",
+      "parent": "data",
+      "level": "race",
+      "label": "Analytics"
     },
     {
       "key": "data/databases",
@@ -487,6 +523,24 @@
       "label": "Dataset lists"
     },
     {
+      "key": "data/pipelines",
+      "parent": "data",
+      "level": "race",
+      "label": "Pipelines"
+    },
+    {
+      "key": "data/queues",
+      "parent": "data",
+      "level": "race",
+      "label": "Queues and streams"
+    },
+    {
+      "key": "data/search",
+      "parent": "data",
+      "level": "race",
+      "label": "Search engines"
+    },
+    {
       "key": "data/serialization",
       "parent": "data",
       "level": "race",
@@ -509,6 +563,36 @@
       "parent": "data/storage",
       "level": "capability",
       "label": "Object and file storage"
+    },
+    {
+      "key": "desktop",
+      "parent": null,
+      "level": "domain",
+      "label": "Desktop"
+    },
+    {
+      "key": "desktop/app-shells",
+      "parent": "desktop",
+      "level": "race",
+      "label": "App shells"
+    },
+    {
+      "key": "desktop/native-ui",
+      "parent": "desktop",
+      "level": "race",
+      "label": "Native UI"
+    },
+    {
+      "key": "desktop/packaging",
+      "parent": "desktop",
+      "level": "race",
+      "label": "Packaging and installers"
+    },
+    {
+      "key": "desktop/terminal-ui",
+      "parent": "desktop",
+      "level": "race",
+      "label": "Terminal UI"
     },
     {
       "key": "dev-tools",
@@ -541,6 +625,12 @@
       "label": "AI code review"
     },
     {
+      "key": "dev-tools/debugging",
+      "parent": "dev-tools",
+      "level": "race",
+      "label": "Debugging"
+    },
+    {
       "key": "dev-tools/diagrams",
       "parent": "dev-tools",
       "level": "race",
@@ -557,6 +647,18 @@
       "parent": "dev-tools/diagrams",
       "level": "capability",
       "label": "Mermaid rendering"
+    },
+    {
+      "key": "dev-tools/docs",
+      "parent": "dev-tools",
+      "level": "race",
+      "label": "Documentation"
+    },
+    {
+      "key": "dev-tools/editors",
+      "parent": "dev-tools",
+      "level": "race",
+      "label": "Editors"
     },
     {
       "key": "dev-tools/testing",
@@ -581,6 +683,42 @@
       "parent": "dev-tools/testing",
       "level": "capability",
       "label": "Throwaway test databases"
+    },
+    {
+      "key": "dev-tools/vcs",
+      "parent": "dev-tools",
+      "level": "race",
+      "label": "Version control"
+    },
+    {
+      "key": "embedded",
+      "parent": null,
+      "level": "domain",
+      "label": "Embedded"
+    },
+    {
+      "key": "embedded/drivers",
+      "parent": "embedded",
+      "level": "race",
+      "label": "Drivers"
+    },
+    {
+      "key": "embedded/firmware",
+      "parent": "embedded",
+      "level": "race",
+      "label": "Firmware"
+    },
+    {
+      "key": "embedded/robotics",
+      "parent": "embedded",
+      "level": "race",
+      "label": "Robotics"
+    },
+    {
+      "key": "embedded/rtos",
+      "parent": "embedded",
+      "level": "race",
+      "label": "RTOS"
     },
     {
       "key": "finance",
@@ -685,10 +823,34 @@
       "label": "Trading bots"
     },
     {
+      "key": "games",
+      "parent": null,
+      "level": "domain",
+      "label": "Games"
+    },
+    {
+      "key": "games/engines",
+      "parent": "games",
+      "level": "race",
+      "label": "Game engines"
+    },
+    {
+      "key": "games/graphics",
+      "parent": "games",
+      "level": "race",
+      "label": "Graphics"
+    },
+    {
       "key": "infra",
       "parent": null,
       "level": "domain",
-      "label": "Infrastructure"
+      "label": "Cloud and infrastructure"
+    },
+    {
+      "key": "infra/ci-cd",
+      "parent": "infra",
+      "level": "race",
+      "label": "CI/CD"
     },
     {
       "key": "infra/containers",
@@ -713,6 +875,12 @@
       "parent": "infra/hosting",
       "level": "capability",
       "label": "Server control panels"
+    },
+    {
+      "key": "infra/iac",
+      "parent": "infra",
+      "level": "race",
+      "label": "Infrastructure as code"
     },
     {
       "key": "infra/isolation",
@@ -745,6 +913,48 @@
       "label": "Desktop clients"
     },
     {
+      "key": "infra/networking",
+      "parent": "infra",
+      "level": "race",
+      "label": "Networking"
+    },
+    {
+      "key": "infra/observability",
+      "parent": "infra",
+      "level": "race",
+      "label": "Observability"
+    },
+    {
+      "key": "infra/serverless",
+      "parent": "infra",
+      "level": "race",
+      "label": "Serverless"
+    },
+    {
+      "key": "languages",
+      "parent": null,
+      "level": "domain",
+      "label": "Languages"
+    },
+    {
+      "key": "languages/compilers",
+      "parent": "languages",
+      "level": "race",
+      "label": "Compilers"
+    },
+    {
+      "key": "languages/runtimes",
+      "parent": "languages",
+      "level": "race",
+      "label": "Runtimes"
+    },
+    {
+      "key": "languages/type-systems",
+      "parent": "languages",
+      "level": "race",
+      "label": "Type systems"
+    },
+    {
       "key": "llm-infra",
       "parent": null,
       "level": "domain",
@@ -767,6 +977,12 @@
       "parent": "llm-infra/chat-apps",
       "level": "capability",
       "label": "Self-hosted chat"
+    },
+    {
+      "key": "llm-infra/evals",
+      "parent": "llm-infra",
+      "level": "race",
+      "label": "Evals"
     },
     {
       "key": "llm-infra/gateways",
@@ -883,10 +1099,40 @@
       "label": "Voice cloning"
     },
     {
+      "key": "media/video",
+      "parent": "media",
+      "level": "race",
+      "label": "Video"
+    },
+    {
+      "key": "media/video/code-video",
+      "parent": "media/video",
+      "level": "capability",
+      "label": "Video made in code"
+    },
+    {
       "key": "ml",
       "parent": null,
       "level": "domain",
       "label": "Machine learning"
+    },
+    {
+      "key": "ml/embeddings",
+      "parent": "ml",
+      "level": "race",
+      "label": "Embeddings"
+    },
+    {
+      "key": "ml/open-models",
+      "parent": "ml",
+      "level": "race",
+      "label": "Open models"
+    },
+    {
+      "key": "ml/training",
+      "parent": "ml",
+      "level": "race",
+      "label": "Training and fine-tuning"
     },
     {
       "key": "ml/vision",
@@ -899,6 +1145,102 @@
       "parent": "ml/vision",
       "level": "capability",
       "label": "Aerial image segmentation"
+    },
+    {
+      "key": "mobile",
+      "parent": null,
+      "level": "domain",
+      "label": "Mobile"
+    },
+    {
+      "key": "mobile/android",
+      "parent": "mobile",
+      "level": "race",
+      "label": "Android"
+    },
+    {
+      "key": "mobile/app-backends",
+      "parent": "mobile",
+      "level": "race",
+      "label": "App backends"
+    },
+    {
+      "key": "mobile/cross-platform",
+      "parent": "mobile",
+      "level": "race",
+      "label": "Cross-platform apps"
+    },
+    {
+      "key": "mobile/ios",
+      "parent": "mobile",
+      "level": "race",
+      "label": "iOS"
+    },
+    {
+      "key": "practice",
+      "parent": null,
+      "level": "domain",
+      "label": "Practice"
+    },
+    {
+      "key": "practice/architecture",
+      "parent": "practice",
+      "level": "race",
+      "label": "Architecture"
+    },
+    {
+      "key": "practice/performance",
+      "parent": "practice",
+      "level": "race",
+      "label": "Performance"
+    },
+    {
+      "key": "practice/process",
+      "parent": "practice",
+      "level": "race",
+      "label": "Engineering process"
+    },
+    {
+      "key": "practice/reliability",
+      "parent": "practice",
+      "level": "race",
+      "label": "Reliability"
+    },
+    {
+      "key": "web",
+      "parent": null,
+      "level": "domain",
+      "label": "Web"
+    },
+    {
+      "key": "web/cms",
+      "parent": "web",
+      "level": "race",
+      "label": "CMS"
+    },
+    {
+      "key": "web/css",
+      "parent": "web",
+      "level": "race",
+      "label": "CSS"
+    },
+    {
+      "key": "web/frameworks",
+      "parent": "web",
+      "level": "race",
+      "label": "Web frameworks"
+    },
+    {
+      "key": "web/static-sites",
+      "parent": "web",
+      "level": "race",
+      "label": "Static sites"
+    },
+    {
+      "key": "web/ui-components",
+      "parent": "web",
+      "level": "race",
+      "label": "UI components"
     }
   ],
   "aliases": {
@@ -922,10 +1264,12 @@
     "ai-security": "cyber/agent-security",
     "algo-trading": "finance/trading/trading-bots",
     "algorithmic-trading": "finance/trading/trading-bots",
+    "android": "mobile/android",
     "anns": "llm-infra/rag/vector-search",
     "api-directory": "agents/tools/api-directories",
     "api-list": "agents/tools/api-directories",
     "apple-silicon": "llm-infra/inference/apple-silicon",
+    "baas": "mobile/app-backends",
     "backtest": "finance/trading/backtesting",
     "binary-analysis": "cyber/reversing",
     "binary-ninja": "cyber/reversing/disassemblers",
@@ -934,8 +1278,10 @@
     "bug-bounty": "cyber/offensive",
     "build-system": "dev-tools/build",
     "build-tool": "dev-tools/build",
+    "business-intelligence": "data/analytics",
     "cad": "agents/tools/cad",
     "certificate-management": "cyber/identity/secrets-management",
+    "chaos-engineering": "practice/reliability",
     "chatgpt-alternative": "llm-infra/chat-apps",
     "chatui": "llm-infra/chat-apps",
     "chromedriver": "agents/tools/browser-automation",
@@ -943,14 +1289,18 @@
     "claude-code-skill": "agents/skills",
     "claude-skills": "agents/skills",
     "cli-proxy-api": "llm-infra/gateways/api-proxy",
+    "cloud": "infra",
     "cloudflare-bypass": "agents/tools/browser-automation",
     "cloudflare-mcp": "agents/tools/cloud-ops",
+    "cms": "web/cms",
     "code-intelligence": "agents/code-intel/code-graphs",
     "code-review": "dev-tools/code-review/ai-code-review",
     "code-review-assistant": "dev-tools/code-review/ai-code-review",
     "coding-agent": "agents/coding",
     "coding-agents": "agents/coding",
     "coding-assistant": "agents/coding",
+    "compiler": "languages/compilers",
+    "component-library": "web/ui-components",
     "compression": "agents/context/output-compression",
     "containerd": "infra/containers",
     "content-curation": "media/news/news-digests",
@@ -959,15 +1309,23 @@
     "context-engineering": "agents/context",
     "context-management": "agents/context",
     "context-window": "agents/context/context-compaction",
+    "continuous-integration": "infra/ci-cd",
     "control-panel": "infra/hosting/control-panels",
     "cost-reduction": "agents/context/output-compression",
     "crypto-trading": "finance/trading/trading-bots",
+    "css": "web/css",
     "cursor-plugins": "agents/skills/plugin-specs",
     "cursor-rules": "agents/skills/agent-configs",
     "daily-digest": "media/news/news-digests",
+    "data-pipeline": "data/pipelines",
     "datasets": "data/datasets",
+    "debugger": "dev-tools/debugging",
     "decompiler": "cyber/reversing/disassemblers",
     "deep-research": "agents/assistants/deep-research",
+    "design-system": "web/ui-components",
+    "detection-engineering": "cyber/detection",
+    "device-drivers": "embedded/drivers",
+    "devtools": "dev-tools",
     "diagramming": "dev-tools/diagrams",
     "diagrams": "dev-tools/diagrams",
     "disassembler": "cyber/reversing/disassemblers",
@@ -976,28 +1334,52 @@
     "distributed-sql": "data/databases/distributed-sql",
     "distributed-sql-database": "data/databases/distributed-sql",
     "distributed-storage": "data/storage",
+    "documentation": "dev-tools/docs",
     "double-entry": "finance/accounting/bookkeeping",
     "dspy": "agents/optimization/prompt-optimization",
     "e2e": "dev-tools/testing/e2e-testing",
     "e2e-testing": "dev-tools/testing/e2e-testing",
+    "electron": "desktop/app-shells",
     "embedded-ai": "agents/frameworks/embedded-agents",
+    "embedding-models": "ml/embeddings",
     "end-to-end-testing": "dev-tools/testing/e2e-testing",
+    "engineering-management": "practice/process",
     "enterprise-search": "llm-infra/rag/knowledge-platforms",
     "ethical-hacking": "cyber/offensive",
+    "etl": "data/pipelines",
+    "evals": "llm-infra/evals",
+    "event-streaming": "data/queues",
     "eventsourcing": "agents/frameworks/agent-workflows",
+    "faas": "infra/serverless",
     "financial-analysis": "finance/markets/research-terminals",
     "financial-data": "finance/markets/market-data",
+    "fine-tuning": "ml/training",
     "finrl": "finance/quant/quant-ml",
+    "firmware": "embedded/firmware",
+    "flutter": "mobile/cross-platform",
     "free-api": "llm-infra/gateways/free-providers",
+    "freertos": "embedded/rtos",
+    "full-text-search": "data/search",
+    "game-engine": "games/engines",
+    "gamedev": "games/engines",
     "gdb": "cyber/reversing/debuggers",
     "gef": "cyber/reversing/debuggers",
     "gepa": "agents/optimization/prompt-optimization",
+    "github-actions": "infra/ci-cd",
+    "gui": "desktop/native-ui",
+    "headless-cms": "web/cms",
     "hosting-panel": "infra/hosting/control-panels",
     "ida-pro": "cyber/reversing/disassemblers",
     "inference": "llm-infra/inference",
+    "infrastructure-as-code": "infra/iac",
+    "installer": "desktop/packaging",
     "investment-research": "finance/markets/research-terminals",
     "invoicing": "finance/accounting/bookkeeping",
+    "ios": "mobile/ios",
+    "javascript-runtime": "languages/runtimes",
+    "jetpack-compose": "mobile/android",
     "k8s": "infra/kubernetes",
+    "kafka": "data/queues",
     "keycloak": "cyber/identity/iam",
     "knowledge-base": "llm-infra/rag",
     "kubectl": "infra/kubernetes/desktop-clients",
@@ -1006,39 +1388,55 @@
     "kubernetes-dashboard": "infra/kubernetes/desktop-clients",
     "kubernetes-gui": "infra/kubernetes/desktop-clients",
     "lima": "infra/containers",
+    "llm-eval": "llm-infra/evals",
+    "llm-evaluation": "llm-infra/evals",
     "llm-security": "cyber/agent-security",
     "llm-trading": "finance/trading/trading-agents",
+    "llm-training": "ml/training",
     "llm-ui": "llm-infra/chat-apps",
+    "llvm": "languages/compilers",
     "local-ai": "llm-infra/inference",
     "long-term-memory": "agents/memory/long-term-memory",
+    "lora": "ml/training",
     "malware-analysis": "cyber/reversing",
     "market-making": "finance/trading/trading-bots",
+    "mcp-server": "agents/tools/mcp-servers",
+    "mcp-servers": "agents/tools/mcp-servers",
     "mechanical-engineering": "agents/tools/cad",
     "mem0": "agents/memory/long-term-memory",
     "memory": "agents/memory/long-term-memory",
     "mermaid": "dev-tools/diagrams/mermaid-rendering",
     "mermaid-diagrams": "dev-tools/diagrams/mermaid-rendering",
     "mermaidjs": "dev-tools/diagrams/mermaid-rendering",
+    "message-queue": "data/queues",
     "metal": "llm-infra/inference/apple-silicon",
     "mlx": "llm-infra/inference/apple-silicon",
     "mobile-testing": "dev-tools/testing/e2e-testing",
     "money-management": "finance/personal/budgeting",
+    "monitoring": "infra/observability",
     "monorepo": "dev-tools/build/monorepo-tools",
     "monorepo-tooling": "dev-tools/build/monorepo-tools",
     "multi-agent": "agents/orchestration",
     "multi-agent-systems": "agents/orchestration",
     "nearest-neighbors": "llm-infra/rag/vector-search",
+    "neovim": "dev-tools/editors",
     "nerdctl": "infra/containers",
     "net-worth": "finance/personal/wealth-tracking",
     "neural-tts": "media/speech/text-to-speech",
     "news-aggregator": "media/news/news-digests",
+    "nextjs": "web/frameworks",
     "object-storage": "data/storage/object-storage",
     "offensive-security": "cyber/offensive",
     "oidc": "cyber/identity/iam",
+    "olap": "data/analytics",
+    "open-source-llm": "ml/open-models",
+    "open-weights": "ml/open-models",
     "openai-compatible": "llm-infra/gateways",
     "opendata": "data/datasets",
     "openmemory": "agents/memory/long-term-memory",
     "openshell": "agents/sandboxes/secure-runtimes",
+    "opentelemetry": "infra/observability",
+    "osint": "cyber/threat-intel",
     "p2p-network": "agents/orchestration/agent-networks",
     "parallel-agents": "agents/orchestration",
     "penetration-testing": "cyber/offensive/ai-pentesting",
@@ -1047,58 +1445,97 @@
     "pki": "cyber/identity/secrets-management",
     "portfolio-management": "finance/quant/portfolio-optimization",
     "portfolio-tracker": "finance/personal/wealth-tracking",
+    "profiling": "practice/performance",
     "project-brain": "agents/memory/project-memory",
     "project-memory": "agents/memory/project-memory",
     "prompt-injection": "cyber/agent-security",
     "protobuf": "data/serialization/schema-formats",
     "protocol-buffers": "data/serialization/schema-formats",
+    "pulumi": "infra/iac",
     "quant": "finance/quant/quant-ml",
     "quantitative-finance": "finance/quant/quant-ml",
     "quantitative-trading": "finance/quant/quant-ml",
     "question-answering": "llm-infra/rag/knowledge-platforms",
     "rag": "llm-infra/rag/knowledge-platforms",
+    "react-native": "mobile/cross-platform",
     "reddit-scraper": "agents/tools/web-access",
     "reverse-engineering": "cyber/reversing",
     "risk-management": "finance/quant/portfolio-optimization",
+    "robotics": "embedded/robotics",
+    "ros": "embedded/robotics",
+    "ros2": "embedded/robotics",
+    "rtos": "embedded/rtos",
     "runtime-security": "cyber/agent-security/runtime-guardrails",
     "s3-storage": "data/storage/object-storage",
     "saml": "cyber/identity/iam",
+    "sbom": "cyber/supply-chain",
+    "search-engine": "data/search",
     "secret-management": "cyber/identity/secrets-management",
     "secret-manager": "cyber/identity/secrets-management",
     "secrets-management": "cyber/identity/secrets-management",
+    "security": "cyber",
     "security-scanner": "cyber/agent-security/skill-scanning",
     "serialization": "data/serialization",
     "server-management": "infra/hosting/control-panels",
+    "shaders": "games/graphics",
+    "siem": "cyber/detection",
+    "sigma-rules": "cyber/detection",
     "similarity-search": "llm-infra/rag/vector-search",
     "skills": "agents/skills",
+    "software-architecture": "practice/architecture",
+    "sre": "practice/reliability",
+    "ssg": "web/static-sites",
+    "static-site-generator": "web/static-sites",
     "stealth": "agents/tools/browser-automation",
     "stock-data": "finance/markets/market-data",
     "stock-market": "finance/markets/market-data",
     "supermemory": "agents/memory/long-term-memory",
     "supply-chain-security": "cyber/agent-security/skill-scanning",
+    "svelte": "web/frameworks",
+    "swiftui": "mobile/ios",
+    "system-design": "practice/architecture",
+    "tailwindcss": "web/css",
     "task-runner": "dev-tools/build/monorepo-tools",
+    "tauri": "desktop/app-shells",
+    "terminal-ui": "desktop/terminal-ui",
+    "terraform": "infra/iac",
     "testcontainers": "dev-tools/testing/integration-testing",
     "testing": "dev-tools/testing",
+    "text-editor": "dev-tools/editors",
     "text-to-cad": "agents/tools/cad",
     "threat-detection": "cyber/agent-security/runtime-guardrails",
+    "threat-intelligence": "cyber/threat-intel",
     "token-optimization": "agents/context/output-compression",
     "trading-agent": "finance/trading/trading-agents",
     "trading-bot": "finance/trading/trading-bots",
     "tree-sitter": "agents/code-intel/code-graphs",
     "tts": "media/speech/text-to-speech",
+    "tui": "desktop/terminal-ui",
     "twitter-scraper": "agents/tools/web-access",
+    "type-checker": "languages/type-systems",
+    "type-system": "languages/type-systems",
+    "ui-components": "web/ui-components",
     "undetectable": "agents/tools/browser-automation",
     "undetected": "agents/tools/browser-automation",
     "user-namespaces": "infra/isolation",
     "vault": "cyber/identity/secrets-management",
     "vector-database": "llm-infra/rag/vector-search",
     "vector-search": "llm-infra/rag/vector-search",
+    "version-control": "dev-tools/vcs",
     "voice-ai": "media/speech",
     "voice-cloning": "media/speech/voice-cloning",
     "voice-generation": "media/speech/text-to-speech",
+    "vpn": "infra/networking",
+    "vue": "web/frameworks",
+    "vulkan": "games/graphics",
     "vulnerability": "cyber/appsec/vuln-discovery",
+    "wasm-runtime": "languages/runtimes",
     "wealth-management": "finance/personal/wealth-tracking",
+    "web-framework": "web/frameworks",
     "web-hosting": "infra/hosting/control-panels",
-    "yahoo-finance": "finance/markets/market-data"
+    "webgpu": "games/graphics",
+    "wireguard": "infra/networking",
+    "yahoo-finance": "finance/markets/market-data",
+    "zephyr": "embedded/rtos"
   }
 }

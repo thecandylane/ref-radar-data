@@ -9,6 +9,10 @@
       "agents/clients",
       "agents/orchestration"
     ],
+    "lanes": [
+      "agents/clients",
+      "agents/orchestration"
+    ],
     "capabilities": [
       "agents/clients/desktop-apps",
       "agents/orchestration/agent-teams"
@@ -29,12 +33,12 @@
   "facts": {
     "lang": "Swift",
     "license": "NOASSERTION",
-    "stars": 144,
-    "size_mb": 52,
+    "stars": 145,
+    "size_mb": 54,
     "created_at": "2026-07-26T03:30:32Z",
-    "last_commit_at": "2026-10-26T07:59:37Z",
-    "releases": 324,
-    "tags": 326,
+    "last_commit_at": "2026-10-27T06:33:51Z",
+    "releases": 326,
+    "tags": 328,
     "archived": false
   },
   "reuse": "study",

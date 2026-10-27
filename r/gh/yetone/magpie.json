@@ -8,6 +8,9 @@
     "races": [
       "llm-infra/gateways"
     ],
+    "lanes": [
+      "llm-infra/gateways"
+    ],
     "capabilities": [
       "llm-infra/gateways/model-routing",
       "llm-infra/gateways/multi-account"
@@ -32,12 +35,12 @@
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 22040,
-    "size_mb": 185,
+    "stars": 23064,
+    "size_mb": 188,
     "created_at": "2026-09-23T16:22:35Z",
-    "last_commit_at": "2026-10-26T09:00:46Z",
-    "releases": 370,
-    "tags": 1589,
+    "last_commit_at": "2026-10-27T08:01:10Z",
+    "releases": 479,
+    "tags": 1710,
     "archived": false
   },
   "reuse": "copy",

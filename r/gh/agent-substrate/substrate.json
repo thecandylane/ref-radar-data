@@ -8,6 +8,9 @@
     "races": [
       "agents/sandboxes"
     ],
+    "lanes": [
+      "agents/sandboxes"
+    ],
     "capabilities": [
       "agents/sandboxes/sandbox-fleets"
     ]
@@ -39,10 +42,10 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 5812,
+    "stars": 5836,
     "size_mb": 49,
     "created_at": "2026-05-13T19:02:38Z",
-    "last_commit_at": "2026-10-25T15:26:43Z",
+    "last_commit_at": "2026-10-27T04:22:52Z",
     "releases": 7,
     "tags": 7,
     "archived": false

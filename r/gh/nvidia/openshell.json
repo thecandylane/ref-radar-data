@@ -8,6 +8,9 @@
     "races": [
       "agents/sandboxes"
     ],
+    "lanes": [
+      "agents/sandboxes"
+    ],
     "capabilities": [
       "agents/sandboxes/secure-runtimes"
     ]
@@ -35,12 +38,12 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 19958,
-    "size_mb": 92,
+    "stars": 20158,
+    "size_mb": 94,
     "created_at": "2026-02-24T22:52:22Z",
-    "last_commit_at": "2026-10-24T02:00:51Z",
+    "last_commit_at": "2026-10-27T04:28:39Z",
     "releases": 102,
-    "tags": 159,
+    "tags": 160,
     "archived": false
   },
   "reuse": "copy",
