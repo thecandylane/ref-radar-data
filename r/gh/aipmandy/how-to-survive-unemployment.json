@@ -1,0 +1,53 @@
+{
+  "id": "gh:aipmandy/how-to-survive-unemployment",
+  "kind": "repo",
+  "url": "https://github.com/AIPMAndy/how-to-survive-unemployment",
+  "title": "how-to-survive-unemployment",
+  "why": "Offline checklist and cash-flow calculator for a layoff in China, with severance checks and Beijing and Shanghai policy text.",
+  "keys": {
+    "races": [
+      "finance/personal"
+    ],
+    "lanes": [
+      "finance/personal"
+    ],
+    "capabilities": [
+      "finance/personal/budgeting"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AIPMAndy/how-to-survive-unemployment",
+    "sha": "20c042008a0b069c8f2a94fd325c16f51e35ee12",
+    "file_url": "https://cdn.jsdelivr.net/gh/AIPMAndy/how-to-survive-unemployment@20c042008a0b069c8f2a94fd325c16f51e35ee12/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "MIT",
+    "stars": 462,
+    "size_mb": 0,
+    "created_at": "2026-10-09T03:22:58Z",
+    "last_commit_at": "2026-10-22T16:25:30Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

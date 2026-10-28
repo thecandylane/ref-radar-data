@@ -1,0 +1,62 @@
+{
+  "id": "gh:shadowsafin/synapass",
+  "kind": "repo",
+  "url": "https://github.com/ShadowSafin/Synapass",
+  "title": "Synapass",
+  "why": "Go gateway that routes across multiple providers with policies and caching, and adds tool calling plus observability.",
+  "keys": {
+    "races": [
+      "llm-infra/gateways"
+    ],
+    "lanes": [
+      "llm-infra/gateways"
+    ],
+    "capabilities": [
+      "llm-infra/gateways/llm-gateway",
+      "llm-infra/gateways/model-routing"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ShadowSafin/Synapass",
+    "sha": "efe97f48187db1b0ee7a401363af21b5211111c1",
+    "file_url": "https://cdn.jsdelivr.net/gh/ShadowSafin/Synapass@efe97f48187db1b0ee7a401363af21b5211111c1/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 100,
+    "size_mb": 15,
+    "created_at": "2026-10-01T03:59:38Z",
+    "last_commit_at": "2026-10-18T22:37:22Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

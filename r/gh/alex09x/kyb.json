@@ -1,0 +1,62 @@
+{
+  "id": "gh:alex09x/kyb",
+  "kind": "repo",
+  "url": "https://github.com/alex09x/kyb",
+  "title": "kyb",
+  "why": "Stores agent fleet knowledge and incident history as Markdown in git, one commit per change, searched by BM25 plus a local model.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "agents/skills",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/memory",
+      "agents/skills",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/memory/long-term-memory",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/alex09x/kyb",
+    "sha": "90c61d6a5b884184f9cc11dc1e80a3fd9ef7d6d7",
+    "file_url": "https://cdn.jsdelivr.net/gh/alex09x/kyb@90c61d6a5b884184f9cc11dc1e80a3fd9ef7d6d7/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 127,
+    "size_mb": 4,
+    "created_at": "2026-08-08T05:10:25Z",
+    "last_commit_at": "2026-10-27T07:09:53Z",
+    "releases": 13,
+    "tags": 13,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

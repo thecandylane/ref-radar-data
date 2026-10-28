@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.30047",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.30047",
+  "title": "SWE-DIVE: Multi-Turn Coding Agent Evaluation with Dynamic User Simulation",
+  "why": "Benchmarks coding agents over multi-turn chats with a simulated user, inside a Harbor environment, instead of one-shot prompts.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.30047"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

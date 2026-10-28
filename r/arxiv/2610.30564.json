@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2610.30564",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.30564",
+  "title": "When News Gets Old: Portfolio Allocation with Reinforcement Learning and Large Language Models",
+  "why": "Tests retaining or filtering old news from SEC disclosures for RL and LLM portfolio policies; for the LLM, filtering produced the highest net return.",
+  "keys": {
+    "races": [
+      "finance/quant"
+    ],
+    "lanes": [
+      "finance/quant"
+    ],
+    "capabilities": [
+      "finance/quant/portfolio-optimization",
+      "finance/quant/quant-ml"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.30564"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

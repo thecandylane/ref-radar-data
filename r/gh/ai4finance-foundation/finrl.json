@@ -6,10 +6,12 @@
   "why": "Train deep reinforcement learning agents to trade stocks in Gym environments, or use FinRL-X for production.",
   "keys": {
     "races": [
-      "finance/quant"
+      "finance/quant",
+      "finance/trading"
     ],
     "lanes": [
-      "finance/quant"
+      "finance/quant",
+      "finance/trading"
     ],
     "capabilities": [
       "finance/quant/quant-ml"
@@ -30,7 +32,7 @@
   "facts": {
     "lang": "Jupyter Notebook",
     "license": "MIT",
-    "stars": 16828,
+    "stars": 16846,
     "size_mb": 83,
     "created_at": "2020-07-26T13:18:16Z",
     "last_commit_at": "2026-10-25T13:49:47Z",
@@ -46,6 +48,8 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
   }
 }

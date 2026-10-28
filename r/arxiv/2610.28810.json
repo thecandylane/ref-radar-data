@@ -1,0 +1,42 @@
+{
+  "id": "arxiv:2610.28810",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.28810",
+  "title": "Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise",
+  "why": "Shows how prompt injection persists through long-term memory across sessions on ChatGPT, Claude and Gemini, and lists defenses.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "cyber/agent-security"
+    ],
+    "lanes": [
+      "agents/memory",
+      "cyber/agent-security"
+    ],
+    "capabilities": [
+      "agents/memory/long-term-memory"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.28810"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

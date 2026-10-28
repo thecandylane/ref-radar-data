@@ -1,0 +1,51 @@
+{
+  "id": "gh:luwudynamics/xgoduck_hardware",
+  "kind": "repo",
+  "url": "https://github.com/LuwuDynamics/xgoduck_hardware",
+  "title": "xgoduck_hardware",
+  "why": "Starting point for building a 3D-printable biped duck robot: Arduino UNO Q control, 15 Feetech servos, a custom expansion board and an IMU.",
+  "keys": {
+    "races": [
+      "embedded/robotics"
+    ],
+    "lanes": [
+      "embedded/robotics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/LuwuDynamics/xgoduck_hardware",
+    "sha": "106186e1beda690c28f485a754538d6f41b5d025",
+    "file_url": "https://cdn.jsdelivr.net/gh/LuwuDynamics/xgoduck_hardware@106186e1beda690c28f485a754538d6f41b5d025/{path}"
+  },
+  "facts": {
+    "lang": "Game Maker Language",
+    "license": "none",
+    "stars": 1534,
+    "size_mb": 55,
+    "created_at": "2026-09-24T08:39:53Z",
+    "last_commit_at": "2026-10-27T03:07:54Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

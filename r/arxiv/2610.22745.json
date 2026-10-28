@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2610.22745",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.22745",
+  "title": "Reading the News Without Hindsight: NoLBERT Topics and the Cross-Section of Stock Returns",
+  "why": "Builds news topics with an encoder pretrained on only 1976 to 1995 text, so a stock-return backtest gets no hindsight.",
+  "keys": {
+    "races": [
+      "finance/quant",
+      "finance/trading"
+    ],
+    "lanes": [
+      "finance/quant",
+      "finance/trading"
+    ],
+    "capabilities": [
+      "finance/quant/quant-ml",
+      "finance/trading/backtesting"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.22745"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

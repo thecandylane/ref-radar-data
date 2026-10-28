@@ -1,0 +1,53 @@
+{
+  "id": "gh:losalossantos/aurelio-finance",
+  "kind": "repo",
+  "url": "https://github.com/LosaLosSantos/aurelio-finance",
+  "title": "aurelio-finance",
+  "why": "Self-hosted wealth tracker that looks through funds to country, sector and currency, and its AI chat proposes each change as a card you confirm.",
+  "keys": {
+    "races": [
+      "finance/personal"
+    ],
+    "lanes": [
+      "finance/personal"
+    ],
+    "capabilities": [
+      "finance/personal/wealth-tracking"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/LosaLosSantos/aurelio-finance",
+    "sha": "821049126efc6c0993f2ee1dcd8879eb7d7ed917",
+    "file_url": "https://cdn.jsdelivr.net/gh/LosaLosSantos/aurelio-finance@821049126efc6c0993f2ee1dcd8879eb7d7ed917/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 326,
+    "size_mb": 15,
+    "created_at": "2026-10-06T20:14:19Z",
+    "last_commit_at": "2026-10-23T13:43:02Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

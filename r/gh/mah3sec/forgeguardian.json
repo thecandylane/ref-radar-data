@@ -1,0 +1,59 @@
+{
+  "id": "gh:mah3sec/forgeguardian",
+  "kind": "repo",
+  "url": "https://github.com/Mah3Sec/ForgeGuardian",
+  "title": "ForgeGuardian",
+  "why": "Scans every package a project depends on with 8 engines concurrently across 9 ecosystems, and you can add your own signatures.",
+  "keys": {
+    "races": [
+      "cyber/supply-chain"
+    ],
+    "lanes": [
+      "cyber/supply-chain"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Mah3Sec/ForgeGuardian",
+    "sha": "ab1b9d9ec4a56ac44d3e7ac2de2f469e955a9ff3",
+    "file_url": "https://cdn.jsdelivr.net/gh/Mah3Sec/ForgeGuardian@ab1b9d9ec4a56ac44d3e7ac2de2f469e955a9ff3/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 96,
+    "size_mb": 7,
+    "created_at": "2026-08-15T17:59:30Z",
+    "last_commit_at": "2026-09-19T15:07:19Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

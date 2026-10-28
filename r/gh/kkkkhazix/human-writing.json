@@ -1,0 +1,53 @@
+{
+  "id": "gh:kkkkhazix/human-writing",
+  "kind": "repo",
+  "url": "https://github.com/KKKKhazix/human-writing",
+  "title": "human-writing",
+  "why": "Skill for drafting and revising Chinese text so it sounds like one specific person talking rather than generic AI prose.",
+  "keys": {
+    "races": [
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/skills/writing-skills"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/KKKKhazix/human-writing",
+    "sha": "4fda173f3fef7fb808f3eba991eeb2528ea4b189",
+    "file_url": "https://cdn.jsdelivr.net/gh/KKKKhazix/human-writing@4fda173f3fef7fb808f3eba991eeb2528ea4b189/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 4253,
+    "size_mb": 0,
+    "created_at": "2026-08-05T01:19:41Z",
+    "last_commit_at": "2026-08-05T10:38:36Z",
+    "releases": 1,
+    "tags": 2,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

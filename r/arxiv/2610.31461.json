@@ -1,0 +1,42 @@
+{
+  "id": "arxiv:2610.31461",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.31461",
+  "title": "Adaptive Skill Granularity for Coding Agents: Runtime Routing and Macro-to-Micro Recovery",
+  "why": "Shows fixed macro skills in coding agents are brittle under mismatch, and that runtime routing with macro-to-micro recovery covers the failures.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/optimization"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/optimization"
+    ],
+    "capabilities": [
+      "agents/optimization/harness-optimization"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.31461"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

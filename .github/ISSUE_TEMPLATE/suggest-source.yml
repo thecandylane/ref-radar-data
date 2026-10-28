@@ -1,0 +1,42 @@
+name: Suggest a source
+description: Suggest an RSS feed or a JSON API for the nightly radar to read.
+title: "Suggest a source"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The nightly job reads a fixed list of places. Suggest one more. A daily job adds your suggestion to the review queue and comments here. Nothing is fetched until it is accepted, and an accepted feed still only fills the review queue.
+
+        An RSS or Atom feed is read as it stands. Only GitHub repository links and arXiv paper links in it are kept, up to the daily cap. A JSON API is recorded and does not run until a typed fetcher is written for it.
+  - type: input
+    id: url
+    attributes:
+      label: Source URL
+      description: A public https address. No IP address, no credentials, and not a page on your own machine.
+      placeholder: https://example.com/feed.xml
+    validations:
+      required: true
+  - type: dropdown
+    id: shape
+    attributes:
+      label: What it returns
+      options:
+        - An RSS or Atom feed
+        - A JSON API
+    validations:
+      required: true
+  - type: input
+    id: cap
+    attributes:
+      label: Suggested daily cap
+      description: How many new links to take from it in one night, from 1 to 10.
+      placeholder: "5"
+    validations:
+      required: true
+  - type: textarea
+    id: returns
+    attributes:
+      label: What an agent would find there
+      description: What the feed or API lists, and why it is worth reading every night.
+    validations:
+      required: true

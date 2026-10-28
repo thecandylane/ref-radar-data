@@ -1,0 +1,35 @@
+{
+  "id": "link:layerfs.ai",
+  "kind": "link",
+  "url": "https://layerfs.ai/",
+  "title": "LayerFS: the filesystem for AI coding agents",
+  "why": "Filesystem for coding agents where each tool call gets its own writable Workspace while history is shared, open source (MIT).",
+  "keys": {
+    "races": [
+      "agents/sandboxes"
+    ],
+    "lanes": [
+      "agents/sandboxes"
+    ],
+    "capabilities": [
+      "agents/sandboxes/run-replay"
+    ]
+  },
+  "read": [],
+  "fetch": {
+    "type": "http",
+    "url": "https://layerfs.ai/"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

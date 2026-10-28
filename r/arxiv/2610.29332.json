@@ -6,10 +6,12 @@
   "why": "Tests whether coding agents understand execution in the Linux kernel by predicting crashes from source code.",
   "keys": {
     "races": [
-      "agents/optimization"
+      "agents/optimization",
+      "llm-infra/evals"
     ],
     "lanes": [
-      "agents/optimization"
+      "agents/optimization",
+      "llm-infra/evals"
     ],
     "capabilities": [
       "agents/optimization/rl-environments"
@@ -33,6 +35,8 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
   }
 }

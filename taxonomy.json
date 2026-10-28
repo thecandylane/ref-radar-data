@@ -1,4 +1,5 @@
 {
+  "generated_at": "2026-10-28T11:11:25.543Z",
   "nodes": [
     {
       "key": "agents",
@@ -1252,6 +1253,7 @@
     "agent-memory": "agents/memory/long-term-memory",
     "agent-orchestration": "agents/orchestration/agent-teams",
     "agent-security": "cyber/agent-security",
+    "agent-skill": "agents/skills",
     "agent-skills": "agents/skills",
     "agentic-rag": "llm-infra/rag",
     "ai-chat": "llm-infra/chat-apps",
@@ -1412,6 +1414,7 @@
     "metal": "llm-infra/inference/apple-silicon",
     "mlx": "llm-infra/inference/apple-silicon",
     "mobile-testing": "dev-tools/testing/e2e-testing",
+    "model-context-protocol": "agents/tools/mcp-servers",
     "money-management": "finance/personal/budgeting",
     "monitoring": "infra/observability",
     "monorepo": "dev-tools/build/monorepo-tools",
@@ -1481,6 +1484,7 @@
     "siem": "cyber/detection",
     "sigma-rules": "cyber/detection",
     "similarity-search": "llm-infra/rag/vector-search",
+    "skill-pack": "agents/skills",
     "skills": "agents/skills",
     "software-architecture": "practice/architecture",
     "sre": "practice/reliability",

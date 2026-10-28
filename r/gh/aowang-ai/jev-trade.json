@@ -1,0 +1,57 @@
+{
+  "id": "gh:aowang-ai/jev-trade",
+  "kind": "repo",
+  "url": "https://github.com/aowang-ai/jev-trade",
+  "title": "jev-trade",
+  "why": "Typesafe TypeScript trader that runs Jev live on Hyperliquid, as a quantitative finance example.",
+  "keys": {
+    "races": [
+      "finance/trading"
+    ],
+    "lanes": [
+      "finance/trading"
+    ],
+    "capabilities": [
+      "finance/trading/trading-bots"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/aowang-ai/jev-trade",
+    "sha": "a3f2f834a1b97dd42fab1193814179ac2e96d7cd",
+    "file_url": "https://cdn.jsdelivr.net/gh/aowang-ai/jev-trade@a3f2f834a1b97dd42fab1193814179ac2e96d7cd/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 225,
+    "size_mb": 1,
+    "created_at": "2026-09-17T16:33:05Z",
+    "last_commit_at": "2026-09-21T14:19:39Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

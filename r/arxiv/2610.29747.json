@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.29747",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.29747",
+  "title": "Prompt Injection Through Forensic Evidence: A Taxonomy and Proof of Concept of Anti-Forensic Attacks on LLM-Assisted Digital Investigations",
+  "why": "Presents a taxonomy of attacks planted in the evidence an LLM forensic assistant reads, with three attacks demonstrated and mitigations proposed.",
+  "keys": {
+    "races": [
+      "cyber/agent-security"
+    ],
+    "lanes": [
+      "cyber/agent-security"
+    ],
+    "capabilities": [
+      "cyber/agent-security/runtime-guardrails"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.29747"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

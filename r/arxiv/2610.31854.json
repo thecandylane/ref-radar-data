@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.31854",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.31854",
+  "title": "SWE-Clar: Can Coding Agents Clarify Incomplete Client Requirements and Deliver Greenfield Software?",
+  "why": "Scores whether coding agents ask the right questions about vague client requests, using 100 tasks drawn from Upwork jobs.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.31854"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "gh:ccch1mneyyy/dsh-tui",
+  "kind": "repo",
+  "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+  "title": "dsh-TUI",
+  "why": "Adds double-Esc time rewind, a context progress bar and a TPS gauge to the DSH terminal using only its public exports.",
+  "keys": {
+    "races": [
+      "agents/clients",
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "agents/clients",
+      "desktop/terminal-ui"
+    ],
+    "capabilities": [
+      "agents/clients/terminal-clients"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ccch1mneyyy/dsh-TUI",
+    "sha": "29572774890a4a89ae1fa562dd15a1ae21bb3593",
+    "file_url": "https://cdn.jsdelivr.net/gh/ccch1mneyyy/dsh-TUI@29572774890a4a89ae1fa562dd15a1ae21bb3593/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 6059,
+    "size_mb": 49,
+    "created_at": "2026-08-13T12:49:31Z",
+    "last_commit_at": "2026-10-27T00:48:57Z",
+    "releases": 36,
+    "tags": 46,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

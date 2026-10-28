@@ -1,0 +1,55 @@
+{
+  "id": "gh:wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution",
+  "kind": "repo",
+  "url": "https://github.com/wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution",
+  "title": "systematic-etf-relative-strength-alpha-attribution",
+  "why": "Worked example of ETF relative-strength research built into overlapping sleeves, run on LEAN with factor attribution of the alpha.",
+  "keys": {
+    "races": [
+      "finance/quant",
+      "finance/trading"
+    ],
+    "lanes": [
+      "finance/quant",
+      "finance/trading"
+    ],
+    "capabilities": [
+      "finance/trading/backtesting"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution",
+    "sha": "4d74117ff4026af76a0b7c78f255d70ad99a6639",
+    "file_url": "https://cdn.jsdelivr.net/gh/wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution@4d74117ff4026af76a0b7c78f255d70ad99a6639/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 94,
+    "size_mb": 0,
+    "created_at": "2026-08-09T16:52:20Z",
+    "last_commit_at": "2026-08-10T06:44:52Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

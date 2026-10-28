@@ -1,0 +1,33 @@
+{
+  "id": "link:deathplanswitch.com",
+  "kind": "link",
+  "url": "https://deathplanswitch.com/",
+  "title": "Death Plan Switch: if you disappear, the right people are told",
+  "why": "Dead man's switch you host yourself in PHP with no database, which tells the right people if you disappear.",
+  "keys": {
+    "races": [
+      "infra/hosting"
+    ],
+    "lanes": [
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [],
+  "fetch": {
+    "type": "http",
+    "url": "https://deathplanswitch.com/"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

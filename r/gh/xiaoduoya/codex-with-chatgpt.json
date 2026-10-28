@@ -1,0 +1,61 @@
+{
+  "id": "gh:xiaoduoya/codex-with-chatgpt",
+  "kind": "repo",
+  "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+  "title": "codex-with-chatgpt",
+  "why": "Lets the ChatGPT web app read just the lines it needs over a read-only MCP connection, so your subscription does the planning and Codex only executes.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/skills",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/skills",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "sha": "535a07dbb7aee887924c53767d985c09d405319d",
+    "file_url": "https://cdn.jsdelivr.net/gh/XiaoDuoYa/codex-with-chatgpt@535a07dbb7aee887924c53767d985c09d405319d/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 7580,
+    "size_mb": 0,
+    "created_at": "2026-08-28T12:57:24Z",
+    "last_commit_at": "2026-10-01T05:14:35Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

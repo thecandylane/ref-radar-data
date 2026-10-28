@@ -1,0 +1,42 @@
+{
+  "id": "arxiv:2609.39420",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2609.39420",
+  "title": "QuantCode Model: Specializing Language Models for Executable Algorithmic Trading Code",
+  "why": "Continued pretraining alone lowers success after repair on Backtrader strategy code, but SFT on validated pairs improves first-turn and final success.",
+  "keys": {
+    "races": [
+      "finance/trading",
+      "ml/training"
+    ],
+    "lanes": [
+      "finance/trading",
+      "ml/training"
+    ],
+    "capabilities": [
+      "finance/trading/backtesting"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2609.39420"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

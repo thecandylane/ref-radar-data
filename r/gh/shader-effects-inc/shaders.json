@@ -1,0 +1,61 @@
+{
+  "id": "gh:shader-effects-inc/shaders",
+  "kind": "repo",
+  "url": "https://github.com/shader-effects-inc/shaders",
+  "title": "shaders",
+  "why": "Drop WebGPU shader effects into Solid, Svelte, Vue, React or Framer projects, with a CLI and an MCP server.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "games/graphics",
+      "web/ui-components"
+    ],
+    "lanes": [
+      "agents/tools",
+      "games/graphics",
+      "web/ui-components"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/shader-effects-inc/shaders",
+    "sha": "eb3df5cedc826008be8e1037c1182e649037c74a",
+    "file_url": "https://cdn.jsdelivr.net/gh/shader-effects-inc/shaders@eb3df5cedc826008be8e1037c1182e649037c74a/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 5634,
+    "size_mb": 8,
+    "created_at": "2026-09-29T16:36:26Z",
+    "last_commit_at": "2026-10-21T17:31:39Z",
+    "releases": 6,
+    "tags": 7,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

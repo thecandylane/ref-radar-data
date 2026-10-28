@@ -1,0 +1,53 @@
+{
+  "id": "gh:apimart001a/llm-gateway-comparison",
+  "kind": "repo",
+  "url": "https://github.com/apimart001a/llm-gateway-comparison",
+  "title": "llm-gateway-comparison",
+  "why": "Compares self-hosted and managed LLM gateways on timeouts, retries, idempotency, quotas, billing units and protocol compatibility.",
+  "keys": {
+    "races": [
+      "llm-infra/gateways"
+    ],
+    "lanes": [
+      "llm-infra/gateways"
+    ],
+    "capabilities": [
+      "llm-infra/gateways/llm-gateway"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apimart001a/llm-gateway-comparison",
+    "sha": "228f930443787e29c65313594ff9b3ca194cf611",
+    "file_url": "https://cdn.jsdelivr.net/gh/apimart001a/llm-gateway-comparison@228f930443787e29c65313594ff9b3ca194cf611/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 155,
+    "size_mb": 0,
+    "created_at": "2026-09-17T09:27:10Z",
+    "last_commit_at": "2026-09-20T06:58:35Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

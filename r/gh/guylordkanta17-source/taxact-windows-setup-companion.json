@@ -1,0 +1,51 @@
+{
+  "id": "gh:guylordkanta17-source/taxact-windows-setup-companion",
+  "kind": "repo",
+  "url": "https://github.com/guylordkanta17-source/TaxAct-Windows-Setup-Companion",
+  "title": "TaxAct-Windows-Setup-Companion",
+  "why": "Setup checklist and backup routine for a Windows PC before running TaxAct 2026, though it says it is not the official installer.",
+  "keys": {
+    "races": [
+      "finance/personal"
+    ],
+    "lanes": [
+      "finance/personal"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/guylordkanta17-source/TaxAct-Windows-Setup-Companion",
+    "sha": "f71bbbe42a3b18e1ad7bb76c881856e4a90720eb",
+    "file_url": "https://cdn.jsdelivr.net/gh/guylordkanta17-source/TaxAct-Windows-Setup-Companion@f71bbbe42a3b18e1ad7bb76c881856e4a90720eb/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "none",
+    "stars": 70,
+    "size_mb": 0,
+    "created_at": "2026-09-22T21:27:46Z",
+    "last_commit_at": "2026-10-28T10:59:54Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

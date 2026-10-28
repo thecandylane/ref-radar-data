@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.30292",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.30292",
+  "title": "GAV: A scientific experimentation environment for PDE agents",
+  "why": "Builds new PDE problems that are verifiable by construction using manufactured solutions, giving coding agents reliable numerical feedback.",
+  "keys": {
+    "races": [
+      "agents/optimization"
+    ],
+    "lanes": [
+      "agents/optimization"
+    ],
+    "capabilities": [
+      "agents/optimization/rl-environments"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.30292"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

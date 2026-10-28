@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.01897",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.01897",
+  "title": "Shared Models, Selective Trading, and Order Flow",
+  "why": "Synthetic markets of three language-model families show news presentation shifting the share of submitted orders from one family by 48 percentage points.",
+  "keys": {
+    "races": [
+      "finance/trading"
+    ],
+    "lanes": [
+      "finance/trading"
+    ],
+    "capabilities": [
+      "finance/trading/trading-agents"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.01897"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

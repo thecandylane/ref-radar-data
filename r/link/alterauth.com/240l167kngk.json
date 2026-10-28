@@ -1,0 +1,38 @@
+{
+  "id": "link:alterauth.com",
+  "kind": "link",
+  "url": "https://alterauth.com/",
+  "title": "Alter Vault | Privileged Access Management for AI Agents",
+  "why": "Keeps agent credentials in a vault and checks policy on each action, pausing risky calls for approval and logging every call.",
+  "keys": {
+    "races": [
+      "cyber/agent-security",
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/agent-security",
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/agent-security/runtime-guardrails",
+      "cyber/identity/secrets-management"
+    ]
+  },
+  "read": [],
+  "fetch": {
+    "type": "http",
+    "url": "https://alterauth.com/"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "gh:edrisranjbar/lifeos",
+  "kind": "repo",
+  "url": "https://github.com/edrisranjbar/lifeos",
+  "title": "lifeos",
+  "why": "PHP app you host yourself that tracks habits, goals and money on a Kanban board, with an MCP server so AI can reach it.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "finance/personal"
+    ],
+    "lanes": [
+      "agents/tools",
+      "finance/personal"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers",
+      "finance/personal/budgeting"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/edrisranjbar/lifeos",
+    "sha": "7db27fa00c937088f3b9a54fbe945621ca388819",
+    "file_url": "https://cdn.jsdelivr.net/gh/edrisranjbar/lifeos@7db27fa00c937088f3b9a54fbe945621ca388819/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 99,
+    "size_mb": 61,
+    "created_at": "2026-09-05T04:33:11Z",
+    "last_commit_at": "2026-10-26T17:33:29Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "gh:ahwootech/brutal",
+  "kind": "repo",
+  "url": "https://github.com/ahwootech/BRUTAL",
+  "title": "BRUTAL",
+  "why": "Small C# framework with no editor, scene graph or renderer, giving direct native interop and Vulkan, GLFW, Dear ImGui and Jolt bindings.",
+  "keys": {
+    "races": [
+      "games/engines",
+      "games/graphics"
+    ],
+    "lanes": [
+      "games/engines",
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ahwootech/BRUTAL",
+    "sha": "7a3b72d84368872b885094e34fe8cdf5f7989460",
+    "file_url": "https://cdn.jsdelivr.net/gh/ahwootech/BRUTAL@7a3b72d84368872b885094e34fe8cdf5f7989460/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "NOASSERTION",
+    "stars": 2270,
+    "size_mb": 4,
+    "created_at": "2026-10-14T19:33:56Z",
+    "last_commit_at": "2026-10-26T20:10:25Z",
+    "releases": 2,
+    "tags": 72,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

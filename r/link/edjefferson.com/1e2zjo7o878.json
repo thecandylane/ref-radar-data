@@ -1,0 +1,33 @@
+{
+  "id": "link:edjefferson.com/localwiki",
+  "kind": "link",
+  "url": "https://edjefferson.com/localwiki",
+  "title": "Local Wikipedia: The Encyclopedia For Local People",
+  "why": "An encyclopedia for local people that lists only what sits within a half hour walk, a model for hyperlocal reference sites.",
+  "keys": {
+    "races": [
+      "web/cms"
+    ],
+    "lanes": [
+      "web/cms"
+    ],
+    "capabilities": []
+  },
+  "read": [],
+  "fetch": {
+    "type": "http",
+    "url": "https://edjefferson.com/localwiki"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

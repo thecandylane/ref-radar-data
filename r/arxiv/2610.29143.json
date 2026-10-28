@@ -6,9 +6,11 @@
   "why": "Measures whether agent-authored pull requests verify what they build, using V-Model build and verify pairs.",
   "keys": {
     "races": [
+      "agents/coding",
       "dev-tools/code-review"
     ],
     "lanes": [
+      "agents/coding",
       "dev-tools/code-review"
     ],
     "capabilities": [
@@ -33,6 +35,8 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
   }
 }

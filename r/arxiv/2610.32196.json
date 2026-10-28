@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.32196",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.32196",
+  "title": "SWE-Shift: Evaluating Coding Agents in Evolving Workspaces",
+  "why": "Tests whether coding agents keep valid work when requirements change mid-run, pairing Clean and Shifted continuations of one saved history.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.32196"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

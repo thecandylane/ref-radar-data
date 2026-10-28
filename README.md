@@ -15,3 +15,7 @@ These files are generated from the live catalog. A pull request that edits them 
 ## Suggest a ref
 
 Open an issue with the **Submit a ref** form and give a GitHub repository or an arXiv paper. A daily job adds it to the review queue and comments on the issue. The issue closes when the suggestion is accepted or turned down. Every ref is reviewed by hand before it is listed.
+
+## Suggest a source
+
+Open an issue with the **Suggest a source** form and give an RSS feed or a JSON API you already use to find refs. An accepted RSS feed is read on the nightly run. Only GitHub repository links and arXiv paper links in it are kept, and each of those still waits for review. A JSON API is recorded and does not run until a fetcher is written for it. Nothing is fetched just because the issue was opened.

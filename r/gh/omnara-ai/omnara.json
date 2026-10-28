@@ -1,0 +1,66 @@
+{
+  "id": "gh:omnara-ai/omnara",
+  "kind": "repo",
+  "url": "https://github.com/omnara-ai/omnara",
+  "title": "omnara",
+  "why": "Keeps every agent step in Postgres so any worker can pick an agent back up after a crash, and machines join through a daemon that connects out.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "agents/orchestration",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "agents/orchestration",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/assistants/task-automation",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/omnara-ai/omnara",
+    "sha": "84a71a8e26f62ef85a7eb08e68b5fb0042566cef",
+    "file_url": "https://cdn.jsdelivr.net/gh/omnara-ai/omnara@84a71a8e26f62ef85a7eb08e68b5fb0042566cef/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 3304,
+    "size_mb": 88,
+    "created_at": "2025-07-09T01:30:55Z",
+    "last_commit_at": "2026-10-28T01:17:02Z",
+    "releases": 115,
+    "tags": 178,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

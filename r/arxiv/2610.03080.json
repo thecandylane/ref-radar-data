@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2610.03080",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.03080",
+  "title": "MintEval: Do LLMs Implement the Trading Strategy You Asked For? A Behavioural-Equivalence Benchmark for Natural-Language-to-Strategy Code",
+  "why": "Compares an LLM-written strategy with its reference bar by bar on actions, not profit, to expose code that backtests but executes different risk logic.",
+  "keys": {
+    "races": [
+      "finance/trading",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "finance/trading",
+      "llm-infra/evals"
+    ],
+    "capabilities": [
+      "finance/trading/backtesting",
+      "finance/trading/trading-agents"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.03080"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

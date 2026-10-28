@@ -1,0 +1,61 @@
+{
+  "id": "gh:namehash/ensnode",
+  "kind": "repo",
+  "url": "https://github.com/namehash/ensnode",
+  "title": "ensnode",
+  "why": "Full-stack ENS indexing with a subgraph, API, SDK and CLI in TypeScript, plus agent skills; now archived.",
+  "keys": {
+    "races": [
+      "agents/skills",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "agents/skills",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/namehash/ensnode",
+    "sha": "566cab2e064496c3f248c1f22056a7c7e89f5b14",
+    "file_url": "https://cdn.jsdelivr.net/gh/namehash/ensnode@566cab2e064496c3f248c1f22056a7c7e89f5b14/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 40,
+    "size_mb": 67,
+    "created_at": "2024-12-23T17:34:54Z",
+    "last_commit_at": "2026-07-13T15:50:41Z",
+    "releases": 179,
+    "tags": 545,
+    "archived": true
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

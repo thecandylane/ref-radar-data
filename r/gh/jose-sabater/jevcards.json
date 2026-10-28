@@ -1,0 +1,55 @@
+{
+  "id": "gh:jose-sabater/jevcards",
+  "kind": "repo",
+  "url": "https://github.com/Jose-Sabater/jevcards",
+  "title": "jevcards",
+  "why": "Quiz game in TypeScript where you race a model to tap the right card before it answers.",
+  "keys": {
+    "races": [
+      "ml/vision"
+    ],
+    "lanes": [
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Jose-Sabater/jevcards",
+    "sha": "8e67173770ab4bbd51db1a525463db818a6d660c",
+    "file_url": "https://cdn.jsdelivr.net/gh/Jose-Sabater/jevcards@8e67173770ab4bbd51db1a525463db818a6d660c/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "AGPL-3.0",
+    "stars": 3,
+    "size_mb": 67,
+    "created_at": "2026-10-19T09:16:59Z",
+    "last_commit_at": "2026-10-21T14:42:53Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

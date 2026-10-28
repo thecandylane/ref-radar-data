@@ -1,0 +1,38 @@
+{
+  "id": "arxiv:2610.31810",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.31810",
+  "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+  "why": "Turns a LaTeX paper into Lean-verified code inside Claude Code or Codex, stopping to ask the author when a statement is ambiguous.",
+  "keys": {
+    "races": [
+      "agents/coding"
+    ],
+    "lanes": [
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.31810"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

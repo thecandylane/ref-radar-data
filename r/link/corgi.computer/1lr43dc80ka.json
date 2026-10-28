@@ -1,0 +1,33 @@
+{
+  "id": "link:corgi.computer",
+  "kind": "link",
+  "url": "https://corgi.computer/",
+  "title": "Corgi",
+  "why": "A helper aimed at agents, though the page gives little else about the job it does.",
+  "keys": {
+    "races": [
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/tools"
+    ],
+    "capabilities": []
+  },
+  "read": [],
+  "fetch": {
+    "type": "http",
+    "url": "https://corgi.computer/"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

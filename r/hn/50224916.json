@@ -1,0 +1,34 @@
+{
+  "id": "hn:50224916",
+  "kind": "hn",
+  "url": "https://news.ycombinator.com/item?id=50224916",
+  "title": "Show HN: Steal My Bitcoin",
+  "why": "Tests whether anyone can actually use the PHP RCE the authors spent days panicking over, with bitcoin at stake.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [],
+  "fetch": {
+    "type": "http",
+    "url": "https://news.ycombinator.com/item?id=50224916"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "linked_url": "https://stealmybitcoin.com/"
+}

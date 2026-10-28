@@ -1,0 +1,63 @@
+{
+  "id": "gh:google/artemis",
+  "kind": "repo",
+  "url": "https://github.com/google/artemis",
+  "title": "artemis",
+  "why": "Agents drive a real Android phone over MCP, with a fast observe-and-act loop and a Pro mode that checks targets first and returns blocked actions.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "mobile/android"
+    ],
+    "lanes": [
+      "agents/tools",
+      "mobile/android"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google/artemis",
+    "sha": "351ca8422f7b5b54e80a9c1ce03a222e02415b6b",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/artemis@351ca8422f7b5b54e80a9c1ce03a222e02415b6b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 15344,
+    "size_mb": 25,
+    "created_at": "2026-08-13T17:59:37Z",
+    "last_commit_at": "2026-09-29T00:29:02Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

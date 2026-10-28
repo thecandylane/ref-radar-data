@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.10407",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.10407",
+  "title": "SOTA: Stock Options Trading Agents Guided by Option-Implied Return Distributions",
+  "why": "Strategy-level option decisions feed deterministic resolvers, and news improves teacher trajectories but reduces return during reinforcement learning.",
+  "keys": {
+    "races": [
+      "finance/trading"
+    ],
+    "lanes": [
+      "finance/trading"
+    ],
+    "capabilities": [
+      "finance/trading/trading-agents"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.10407"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

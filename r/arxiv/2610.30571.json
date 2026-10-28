@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2610.30571",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.30571",
+  "title": "Stale Instruction Files Override the Code in Coding Agents: A One-Sentence Fix",
+  "why": "Measures coding agents following a stale CLAUDE.md or AGENTS.md over the existing code, and the one user-level sentence that makes them follow the code.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/memory",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/memory/project-memory",
+      "agents/skills/agent-configs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.30571"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

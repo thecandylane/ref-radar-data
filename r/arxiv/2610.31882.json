@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.31882",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.31882",
+  "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+  "why": "Shows a coding agent driving Cadence Virtuoso, Calibre and Ansys HFSS to design a 240-251 GHz transmitter, and how work splits with the human.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/tools"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.31882"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

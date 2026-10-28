@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2610.32578",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.32578",
+  "title": "Lessons Outlive Their Failures: A Case Study of Rules for AI Coding Agents",
+  "why": "Six-week case study of AGENTS.md rules shared by three agent tools, with a ledger of 118 failures showing drift needs mechanical checks.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/memory",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/memory/project-memory",
+      "agents/skills/agent-configs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.32578"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

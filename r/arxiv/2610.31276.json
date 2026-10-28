@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2610.31276",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.31276",
+  "title": "RIPPLE: Recovery Internalization through Process-Level Policy Learning and Effect-Aware Credit for Long-Horizon Agentic Coding",
+  "why": "Trains coding agents to recover from failures with stage-specific credit for reflection, diagnosis and the corrective action, and no critic at deployment.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/optimization"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/optimization"
+    ],
+    "capabilities": [
+      "agents/coding/long-running",
+      "agents/optimization/rl-environments"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.31276"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

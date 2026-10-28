@@ -12,7 +12,8 @@
       "agents/skills"
     ],
     "capabilities": [
-      "agents/skills/agent-configs"
+      "agents/skills/agent-configs",
+      "agents/skills/plugin-specs"
     ]
   },
   "read": [
@@ -46,6 +47,8 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 0
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
   }
 }

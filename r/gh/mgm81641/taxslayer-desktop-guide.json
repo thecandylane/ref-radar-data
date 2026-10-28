@@ -1,0 +1,51 @@
+{
+  "id": "gh:mgm81641/taxslayer-desktop-guide",
+  "kind": "repo",
+  "url": "https://github.com/MGM81641/TaxSlayer-Desktop-Guide",
+  "title": "TaxSlayer-Desktop-Guide",
+  "why": "Walkthrough for a desktop tax filing app on Windows with guided interview, refund estimator and PDF export; download is a personal Pages link.",
+  "keys": {
+    "races": [
+      "finance/personal"
+    ],
+    "lanes": [
+      "finance/personal"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MGM81641/TaxSlayer-Desktop-Guide",
+    "sha": "cee0cc59a0f2fcf4d22bc6b06c2a4a1de1516ec1",
+    "file_url": "https://cdn.jsdelivr.net/gh/MGM81641/TaxSlayer-Desktop-Guide@cee0cc59a0f2fcf4d22bc6b06c2a4a1de1516ec1/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "none",
+    "stars": 70,
+    "size_mb": 0,
+    "created_at": "2026-09-22T21:28:09Z",
+    "last_commit_at": "2026-10-28T10:09:28Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

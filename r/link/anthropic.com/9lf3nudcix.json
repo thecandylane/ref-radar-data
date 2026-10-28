@@ -1,0 +1,33 @@
+{
+  "id": "link:anthropic.com/research/attack-surface-reduction",
+  "kind": "link",
+  "url": "https://anthropic.com/research/attack-surface-reduction",
+  "title": "Using Claude to reduce the attack surface of code",
+  "why": "Previews data from using Claude to analyze and shrink the attack surface of large open-source codebases.",
+  "keys": {
+    "races": [
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/appsec"
+    ],
+    "capabilities": []
+  },
+  "read": [],
+  "fetch": {
+    "type": "http",
+    "url": "https://anthropic.com/research/attack-surface-reduction"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "gh:todense/omnigraph",
+  "kind": "repo",
+  "url": "https://github.com/Todense/OmniGraph",
+  "title": "Todense/OmniGraph",
+  "why": "Draw graphs by hand in a JavaFX desktop app and watch algorithms run on them, ant colony ones included.",
+  "keys": {
+    "races": [
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Todense/OmniGraph",
+    "sha": "743bcedc6535e0e6e2ed5358fe0efb8faca5f632",
+    "file_url": "https://cdn.jsdelivr.net/gh/Todense/OmniGraph@743bcedc6535e0e6e2ed5358fe0efb8faca5f632/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "MIT",
+    "stars": 60,
+    "size_mb": 6,
+    "created_at": "2020-07-25T20:06:52Z",
+    "last_commit_at": "2022-03-31T19:27:11Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

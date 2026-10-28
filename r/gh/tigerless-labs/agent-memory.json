@@ -1,0 +1,63 @@
+{
+  "id": "gh:tigerless-labs/agent-memory",
+  "kind": "repo",
+  "url": "https://github.com/tigerless-labs/agent-memory",
+  "title": "agent-memory",
+  "why": "Gives Claude Code and Codex a common Markdown memory, where recall returns paths and one-line abstracts to open only as deep as needed.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "agents/skills",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/memory",
+      "agents/skills",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/memory/long-term-memory",
+      "agents/memory/session-handoff",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tigerless-labs/agent-memory",
+    "sha": "489eb9df3c694ef1cb4669afa0a5ba4d5ad27728",
+    "file_url": "https://cdn.jsdelivr.net/gh/tigerless-labs/agent-memory@489eb9df3c694ef1cb4669afa0a5ba4d5ad27728/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 4368,
+    "size_mb": 118,
+    "created_at": "2026-09-01T21:52:29Z",
+    "last_commit_at": "2026-10-27T16:26:25Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.34777",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.34777",
+  "title": "Scope-Gap Injection: Exploiting Evaluator Channel Blind Spots in the OpenClaw Agent Security Competition",
+  "why": "Hides permission bypass steps in an attachment the safety judge never inspects, so the agent follows them; defenses are included.",
+  "keys": {
+    "races": [
+      "cyber/agent-security"
+    ],
+    "lanes": [
+      "cyber/agent-security"
+    ],
+    "capabilities": [
+      "cyber/agent-security/runtime-guardrails"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.34777"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

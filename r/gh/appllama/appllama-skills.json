@@ -1,0 +1,56 @@
+{
+  "id": "gh:appllama/appllama-skills",
+  "kind": "repo",
+  "url": "https://github.com/Appllama/appllama-skills",
+  "title": "appllama-skills",
+  "why": "Pairs a research skill with a build skill so an agent studies winning apps, then builds Expo screens verified in a simulator.",
+  "keys": {
+    "races": [
+      "agents/skills",
+      "mobile/cross-platform"
+    ],
+    "lanes": [
+      "agents/skills",
+      "mobile/cross-platform"
+    ],
+    "capabilities": [
+      "agents/skills/design-skills",
+      "agents/skills/plugin-specs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Appllama/appllama-skills",
+    "sha": "dd5caaec3d5d50ad7fc0324da238119c6b7c3707",
+    "file_url": "https://cdn.jsdelivr.net/gh/Appllama/appllama-skills@dd5caaec3d5d50ad7fc0324da238119c6b7c3707/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "MIT",
+    "stars": 3450,
+    "size_mb": 0,
+    "created_at": "2026-08-13T07:19:54Z",
+    "last_commit_at": "2026-09-06T09:01:36Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

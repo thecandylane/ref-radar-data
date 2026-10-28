@@ -1,0 +1,55 @@
+{
+  "id": "gh:whitecircle/halo",
+  "kind": "repo",
+  "url": "https://github.com/whitecircle/halo",
+  "title": "halo",
+  "why": "Trains Hugging Face models directly for SFT, preference optimization and async RL against vLLM, keeping checkpoints as standard SafeTensors.",
+  "keys": {
+    "races": [
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/whitecircle/halo",
+    "sha": "41da0838499a2459b236252ba1200a31957d3606",
+    "file_url": "https://cdn.jsdelivr.net/gh/whitecircle/halo@41da0838499a2459b236252ba1200a31957d3606/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 833,
+    "size_mb": 22,
+    "created_at": "2026-08-26T13:49:24Z",
+    "last_commit_at": "2026-10-11T20:07:07Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

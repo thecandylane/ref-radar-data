@@ -1,0 +1,42 @@
+{
+  "id": "arxiv:2610.30193",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.30193",
+  "title": "Protection Is Not One Event: A Survey of RAG Protection Research by Measured Endpoint",
+  "why": "Organizes 118 RAG defense papers by measured endpoint, and a testbed shows a verbatim-copy guard does not prevent a three-query attacker recovering facts.",
+  "keys": {
+    "races": [
+      "cyber/agent-security",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "cyber/agent-security",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "cyber/agent-security/runtime-guardrails"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.30193"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

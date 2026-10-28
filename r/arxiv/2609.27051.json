@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2609.27051",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2609.27051",
+  "title": "Propose, Don't Judge: An Anytime-Valid Referee for LLM Agents That Mine Investment Factors",
+  "why": "Lets an LLM agent propose investment factors while a frozen statistical referee decides which to admit, cutting false admissions 5-11 times.",
+  "keys": {
+    "races": [
+      "finance/quant"
+    ],
+    "lanes": [
+      "finance/quant"
+    ],
+    "capabilities": [
+      "finance/quant/quant-ml"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2609.27051"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

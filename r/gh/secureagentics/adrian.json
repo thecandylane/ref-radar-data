@@ -6,12 +6,15 @@
   "why": "Runtime monitor that catches malicious tool use, prompt injection and policy drift before an agent acts.",
   "keys": {
     "races": [
+      "agents/skills",
       "cyber/agent-security"
     ],
     "lanes": [
+      "agents/skills",
       "cyber/agent-security"
     ],
     "capabilities": [
+      "agents/skills/plugin-specs",
       "cyber/agent-security/runtime-guardrails"
     ]
   },
@@ -50,6 +53,8 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 0
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
   }
 }

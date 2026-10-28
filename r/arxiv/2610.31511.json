@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.31511",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.31511",
+  "title": "DuoCook: An Overcooked-Inspired Benchmark for Visual Planning and Coordination",
+  "why": "Benchmarks one vision-language model that controls both players in Overcooked-inspired Unreal Engine maps, with a notebook memory ablation.",
+  "keys": {
+    "races": [
+      "agents/optimization"
+    ],
+    "lanes": [
+      "agents/optimization"
+    ],
+    "capabilities": [
+      "agents/optimization/rl-environments"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.31511"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

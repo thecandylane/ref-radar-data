@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.31895",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.31895",
+  "title": "Knowing When to Stop: The Evidence-Action Gap in Coding Agents",
+  "why": "Measures whether coding agents stop when an environment blocker makes the task impossible, across 19,371 trajectories and twelve blockers.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.31895"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

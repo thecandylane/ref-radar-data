@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.06947",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.06947",
+  "title": "FactorBench: A Portfolio-Aware Benchmark for Automated Factor Mining",
+  "why": "Nine automated factor-mining methods share one portfolio construction across five equity markets, and no paradigm consistently dominates.",
+  "keys": {
+    "races": [
+      "finance/quant"
+    ],
+    "lanes": [
+      "finance/quant"
+    ],
+    "capabilities": [
+      "finance/quant/quant-ml"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.06947"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

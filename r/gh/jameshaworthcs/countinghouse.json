@@ -1,0 +1,58 @@
+{
+  "id": "gh:jameshaworthcs/countinghouse",
+  "kind": "repo",
+  "url": "https://github.com/jameshaworthcs/countinghouse",
+  "title": "countinghouse",
+  "why": "UK-focused finance tracker that keeps data on your machine and turns statements into git-versioned JSON for tax year and projections.",
+  "keys": {
+    "races": [
+      "finance/personal"
+    ],
+    "lanes": [
+      "finance/personal"
+    ],
+    "capabilities": [
+      "finance/personal/budgeting",
+      "finance/personal/wealth-tracking"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jameshaworthcs/countinghouse",
+    "sha": "46372aed58d23eabdcda788236498d06d4e83b78",
+    "file_url": "https://cdn.jsdelivr.net/gh/jameshaworthcs/countinghouse@46372aed58d23eabdcda788236498d06d4e83b78/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 112,
+    "size_mb": 5,
+    "created_at": "2026-10-09T15:03:05Z",
+    "last_commit_at": "2026-10-21T19:38:23Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

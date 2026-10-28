@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.35829",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.35829",
+  "title": "Reva: Real-Time Vulnerability Detection through Contextual Probing of Large Language Models",
+  "why": "Screens each new function for vulnerabilities in about one second by reading LLM internal representations with a trained probe.",
+  "keys": {
+    "races": [
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.35829"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

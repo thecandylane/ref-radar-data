@@ -1,0 +1,54 @@
+{
+  "id": "gh:jakeschincariol/replica-skill",
+  "kind": "repo",
+  "url": "https://github.com/Jakeschincariol/replica-skill",
+  "title": "replica-skill",
+  "why": "Recon, architecture, build, test, diff and deploy skills share a replica folder, so an agent rebuilds an app's features clean-room, never its code.",
+  "keys": {
+    "races": [
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/skills/engineering-skills",
+      "agents/skills/plugin-specs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Jakeschincariol/replica-skill",
+    "sha": "77c9436fb3d18c3d58169efb8caf4fe906b0dc51",
+    "file_url": "https://cdn.jsdelivr.net/gh/Jakeschincariol/replica-skill@77c9436fb3d18c3d58169efb8caf4fe906b0dc51/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 6143,
+    "size_mb": 0,
+    "created_at": "2026-10-03T12:07:49Z",
+    "last_commit_at": "2026-10-03T12:07:14Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

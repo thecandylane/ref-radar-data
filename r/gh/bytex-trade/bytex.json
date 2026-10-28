@@ -1,0 +1,58 @@
+{
+  "id": "gh:bytex-trade/bytex",
+  "kind": "repo",
+  "url": "https://github.com/BYTEX-TRADE/bytex",
+  "title": "bytex",
+  "why": "Trading strategies can be C# classes or validated node-graph documents, and a single-threaded engine makes backtest replays identical.",
+  "keys": {
+    "races": [
+      "finance/trading"
+    ],
+    "lanes": [
+      "finance/trading"
+    ],
+    "capabilities": [
+      "finance/trading/backtesting",
+      "finance/trading/trading-bots"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/BYTEX-TRADE/bytex",
+    "sha": "67b3e103043476a0490bb7afa146ec9ac339b116",
+    "file_url": "https://cdn.jsdelivr.net/gh/BYTEX-TRADE/bytex@67b3e103043476a0490bb7afa146ec9ac339b116/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "Apache-2.0",
+    "stars": 322,
+    "size_mb": 3,
+    "created_at": "2026-10-02T12:01:05Z",
+    "last_commit_at": "2026-10-02T12:08:33Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "arxiv:2610.32313",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.32313",
+  "title": "Large-Scale Study of GitHub Copilot Trajectories",
+  "why": "Studies 7,581 Copilot-authored PRs: 58% had no human intervention, and later interventions brought only minimal iteration drops.",
+  "keys": {
+    "races": [
+      "agents/coding"
+    ],
+    "lanes": [
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.32313"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

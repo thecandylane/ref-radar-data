@@ -6,13 +6,16 @@
   "why": "Runs OpenClaw, Hermes and Deep Agents inside NVIDIA OpenShell with managed inference.",
   "keys": {
     "races": [
-      "agents/sandboxes"
+      "agents/sandboxes",
+      "cyber/agent-security"
     ],
     "lanes": [
-      "agents/sandboxes"
+      "agents/sandboxes",
+      "cyber/agent-security"
     ],
     "capabilities": [
-      "agents/sandboxes/secure-runtimes"
+      "agents/sandboxes/secure-runtimes",
+      "cyber/agent-security/runtime-guardrails"
     ]
   },
   "read": [
@@ -34,10 +37,10 @@
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 22851,
-    "size_mb": 489,
+    "stars": 22868,
+    "size_mb": 491,
     "created_at": "2026-03-15T17:04:09Z",
-    "last_commit_at": "2026-10-27T06:30:20Z",
+    "last_commit_at": "2026-10-28T10:52:55Z",
     "releases": 1,
     "tags": 155,
     "archived": false
@@ -50,6 +53,8 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 0
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
   }
 }

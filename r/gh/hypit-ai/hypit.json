@@ -1,0 +1,59 @@
+{
+  "id": "gh:hypit-ai/hypit",
+  "kind": "repo",
+  "url": "https://github.com/hypit-ai/hypit",
+  "title": "hypit",
+  "why": "Turns a viral video into variants by swapping face, words and B-roll, driven by a video markup language and compiler.",
+  "keys": {
+    "races": [
+      "languages/compilers",
+      "media/video"
+    ],
+    "lanes": [
+      "languages/compilers",
+      "media/video"
+    ],
+    "capabilities": [
+      "media/video/code-video"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hypit-ai/hypit",
+    "sha": "e26d9142fd8a6f78bf4f3cdb800d6205f4ecca16",
+    "file_url": "https://cdn.jsdelivr.net/gh/hypit-ai/hypit@e26d9142fd8a6f78bf4f3cdb800d6205f4ecca16/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 26146,
+    "size_mb": 24,
+    "created_at": "2026-07-29T18:49:19Z",
+    "last_commit_at": "2026-10-23T11:21:45Z",
+    "releases": 27,
+    "tags": 27,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -6,12 +6,15 @@
   "why": "Connect financial data sources once and expose them to Python, Excel and AI agents through MCP servers.",
   "keys": {
     "races": [
+      "agents/tools",
       "finance/markets"
     ],
     "lanes": [
+      "agents/tools",
       "finance/markets"
     ],
     "capabilities": [
+      "agents/tools/mcp-servers",
       "finance/markets/market-data",
       "finance/markets/research-terminals"
     ]
@@ -31,7 +34,7 @@
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 74771,
+    "stars": 74817,
     "size_mb": 2381,
     "created_at": "2020-12-20T10:46:38Z",
     "last_commit_at": "2026-10-24T07:01:56Z",
@@ -47,6 +50,8 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
   }
 }
