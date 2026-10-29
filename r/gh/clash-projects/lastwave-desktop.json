@@ -1,0 +1,57 @@
+{
+  "id": "gh:clash-projects/lastwave-desktop",
+  "kind": "repo",
+  "url": "https://github.com/Clash-Projects/LastWave-Desktop",
+  "title": "LastWave-Desktop",
+  "why": "Flutter-built desktop music player playing high-resolution lossless music on macOS, Windows and Linux.",
+  "keys": {
+    "races": [
+      "desktop/native-ui",
+      "mobile/cross-platform"
+    ],
+    "lanes": [
+      "desktop/native-ui",
+      "mobile/cross-platform"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Clash-Projects/LastWave-Desktop",
+    "sha": "bc87414be2de92af89d0df4bc6f657e71a63c07a",
+    "file_url": "https://cdn.jsdelivr.net/gh/Clash-Projects/LastWave-Desktop@bc87414be2de92af89d0df4bc6f657e71a63c07a/{path}"
+  },
+  "facts": {
+    "lang": "Dart",
+    "license": "none",
+    "stars": 797,
+    "size_mb": 5,
+    "created_at": "2026-09-10T05:07:52Z",
+    "last_commit_at": "2026-10-24T12:12:38Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

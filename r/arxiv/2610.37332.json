@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.37332",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.37332",
+  "title": "Hidden in Plain Sight: an Empirical Study about The Instruction Stacks of Coding Agents",
+  "why": "Captures the instructions and tool definitions that Claude Code, Codex and Gemini CLI actually send, across 1,886 releases.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/context"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/context"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.37332"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "gh:calmrocks/ai-engineer-notebooks",
+  "kind": "repo",
+  "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+  "title": "ai-engineer-notebooks",
+  "why": "Colab notebooks that build model APIs, tool calling, RAG, evals and agent loops from scratch with the free Groq API, no framework.",
+  "keys": {
+    "races": [
+      "cyber/agent-security",
+      "llm-infra/evals",
+      "llm-infra/rag",
+      "ml/training"
+    ],
+    "lanes": [
+      "cyber/agent-security",
+      "llm-infra/evals",
+      "llm-infra/rag",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/calmrocks/ai-engineer-notebooks",
+    "sha": "9c19528b8bd46e5c687d43ae2083df1134d431f7",
+    "file_url": "https://cdn.jsdelivr.net/gh/calmrocks/ai-engineer-notebooks@9c19528b8bd46e5c687d43ae2083df1134d431f7/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 714,
+    "size_mb": 1,
+    "created_at": "2026-08-11T23:17:17Z",
+    "last_commit_at": "2026-10-27T03:53:13Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

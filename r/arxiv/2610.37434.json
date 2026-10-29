@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.37434",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.37434",
+  "title": "FeatureArc: Benchmarking Coding Agents on Evolving Features",
+  "why": "Benchmark that has coding agents extend one feature over 2 to 10 stages, and shows success falling from 62.7% to 28.5%.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.37434"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

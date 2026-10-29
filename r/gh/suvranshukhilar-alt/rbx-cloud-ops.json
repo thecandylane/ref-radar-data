@@ -1,0 +1,53 @@
+{
+  "id": "gh:suvranshukhilar-alt/rbx-cloud-ops",
+  "kind": "repo",
+  "url": "https://github.com/suvranshukhilar-alt/rbx-cloud-ops",
+  "title": "rbx-cloud-ops",
+  "why": "Declaratively deploys Roblox experiences through Open Cloud from a CLI, treating game setup as infrastructure as code.",
+  "keys": {
+    "races": [
+      "games/engines",
+      "infra/iac"
+    ],
+    "lanes": [
+      "games/engines",
+      "infra/iac"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/suvranshukhilar-alt/rbx-cloud-ops",
+    "sha": "c89f1758bd88b019e95f99ebee8921fa4e386989",
+    "file_url": "https://cdn.jsdelivr.net/gh/suvranshukhilar-alt/rbx-cloud-ops@c89f1758bd88b019e95f99ebee8921fa4e386989/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "none",
+    "stars": 70,
+    "size_mb": 1,
+    "created_at": "2026-09-22T20:39:20Z",
+    "last_commit_at": "2026-10-29T03:02:19Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

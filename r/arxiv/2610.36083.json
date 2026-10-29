@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.36083",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.36083",
+  "title": "FinLLM-KG: Knowledge Graph-Enhanced LLMs for Financial Sentiment Analysis in Algorithmic Trading",
+  "why": "Feeds company facts from SEC 10-K filings, via a knowledge graph, into any causal LLM to sharpen financial sentiment for trading, without retraining.",
+  "keys": {
+    "races": [
+      "finance/trading",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "finance/trading",
+      "llm-infra/rag"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.36083"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

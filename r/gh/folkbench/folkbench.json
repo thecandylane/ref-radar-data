@@ -1,0 +1,63 @@
+{
+  "id": "gh:folkbench/folkbench",
+  "kind": "repo",
+  "url": "https://github.com/Folkbench/folkbench",
+  "title": "folkbench",
+  "why": "Ranks AI API relays on reliability and pricing from real benchmarks, then switches Claude Code or Codex to the one you pick.",
+  "keys": {
+    "races": [
+      "desktop/app-shells",
+      "llm-infra/evals",
+      "llm-infra/gateways"
+    ],
+    "lanes": [
+      "desktop/app-shells",
+      "llm-infra/evals",
+      "llm-infra/gateways"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Folkbench/folkbench",
+    "sha": "4e05cbb4615cab36900a00921f7cfb87267a2701",
+    "file_url": "https://cdn.jsdelivr.net/gh/Folkbench/folkbench@4e05cbb4615cab36900a00921f7cfb87267a2701/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "NOASSERTION",
+    "stars": 3887,
+    "size_mb": 29,
+    "created_at": "2026-10-02T09:50:45Z",
+    "last_commit_at": "2026-10-29T07:44:22Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

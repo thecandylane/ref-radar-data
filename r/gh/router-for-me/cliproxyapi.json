@@ -37,18 +37,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/router-for-me/CLIProxyAPI",
-    "sha": "0db19025571684b198a2ef508f99b41c717337e8",
-    "file_url": "https://cdn.jsdelivr.net/gh/router-for-me/CLIProxyAPI@0db19025571684b198a2ef508f99b41c717337e8/{path}"
+    "sha": "90c447d3a8727d115aa7552ec93ce023736ed492",
+    "file_url": "https://cdn.jsdelivr.net/gh/router-for-me/CLIProxyAPI@90c447d3a8727d115aa7552ec93ce023736ed492/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 56737,
+    "stars": 56833,
     "size_mb": 47,
     "created_at": "2025-07-01T19:43:27Z",
-    "last_commit_at": "2026-10-28T10:33:51Z",
-    "releases": 908,
-    "tags": 1159,
+    "last_commit_at": "2026-10-28T23:03:21Z",
+    "releases": 909,
+    "tags": 1160,
     "archived": false
   },
   "reuse": "copy",
@@ -61,7 +61,7 @@
     "pickers": 1,
     "packs": 1,
     "used_30d": 1,
-    "star_delta_7d": 0,
+    "star_delta_7d": 879,
     "votes": {
       "llm-infra/gateways": {
         "up": 1,

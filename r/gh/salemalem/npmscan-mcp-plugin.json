@@ -1,0 +1,58 @@
+{
+  "id": "gh:salemalem/npmscan-mcp-plugin",
+  "kind": "repo",
+  "url": "https://github.com/salemalem/npmscan-mcp-plugin",
+  "title": "npmscan-mcp-plugin",
+  "why": "Supply-chain checks for npm packages, exposed as an MCP plugin to Claude Code, Codex, Gemini and Kimi agents.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/tools",
+      "cyber/supply-chain"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/tools",
+      "cyber/supply-chain"
+    ],
+    "capabilities": [
+      "agents/coding/plugin-architectures",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/salemalem/npmscan-mcp-plugin",
+    "sha": "2a0931a26c9920e25c3dfe5e855bd79279e2705f",
+    "file_url": "https://cdn.jsdelivr.net/gh/salemalem/npmscan-mcp-plugin@2a0931a26c9920e25c3dfe5e855bd79279e2705f/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 480,
+    "size_mb": 1,
+    "created_at": "2026-08-01T15:57:27Z",
+    "last_commit_at": "2026-10-28T13:48:39Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

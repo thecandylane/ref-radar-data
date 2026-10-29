@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T11:11:25.543Z",
+  "generated_at": "2026-10-29T08:09:45.152Z",
   "nodes": [
     {
       "key": "agents",
@@ -11,7 +11,8 @@
       "key": "agents/assistants",
       "parent": "agents",
       "level": "race",
-      "label": "General-purpose agents"
+      "label": "General-purpose agents",
+      "scope": "in: general-purpose and personal agents that take on open-ended tasks / out: agents built for writing code see agents/coding"
     },
     {
       "key": "agents/assistants/deep-research",
@@ -41,7 +42,8 @@
       "key": "agents/clients",
       "parent": "agents",
       "level": "race",
-      "label": "Agent clients"
+      "label": "Agent clients",
+      "scope": "in: desktop, mobile and terminal apps for driving agents / out: chat apps for plain model chat see llm-infra/chat-apps"
     },
     {
       "key": "agents/clients/desktop-apps",
@@ -65,7 +67,8 @@
       "key": "agents/code-intel",
       "parent": "agents",
       "level": "race",
-      "label": "Code intelligence for agents"
+      "label": "Code intelligence for agents",
+      "scope": "in: code graphs, code search and codebase docs that agents query / out: the coding agents themselves see agents/coding"
     },
     {
       "key": "agents/code-intel/code-graphs",
@@ -89,7 +92,8 @@
       "key": "agents/coding",
       "parent": "agents",
       "level": "race",
-      "label": "Coding agents"
+      "label": "Coding agents",
+      "scope": "in: agents that write, edit and review code / out: the code indexes they query see agents/code-intel"
     },
     {
       "key": "agents/coding/cli-agents",
@@ -113,7 +117,8 @@
       "key": "agents/context",
       "parent": "agents",
       "level": "race",
-      "label": "Context and token savings"
+      "label": "Context and token savings",
+      "scope": "in: compaction, compression and other ways to save context and tokens / out: memory kept across sessions see agents/memory"
     },
     {
       "key": "agents/context/context-compaction",
@@ -131,7 +136,8 @@
       "key": "agents/frameworks",
       "parent": "agents",
       "level": "race",
-      "label": "Agent frameworks"
+      "label": "Agent frameworks",
+      "scope": "in: libraries and SDKs for building agents / out: running many agents together see agents/orchestration"
     },
     {
       "key": "agents/frameworks/agent-workflows",
@@ -167,7 +173,8 @@
       "key": "agents/memory",
       "parent": "agents",
       "level": "race",
-      "label": "Agent memory"
+      "label": "Agent memory",
+      "scope": "in: memory layers that let agents keep and recall facts across sessions / out: retrieval over document collections see llm-infra/rag"
     },
     {
       "key": "agents/memory/context-databases",
@@ -203,7 +210,8 @@
       "key": "agents/optimization",
       "parent": "agents",
       "level": "race",
-      "label": "Agent optimization"
+      "label": "Agent optimization",
+      "scope": "in: tuning prompts, skills and harnesses, and RL environments for agents / out: measuring models and agents see llm-infra/evals"
     },
     {
       "key": "agents/optimization/harness-optimization",
@@ -227,7 +235,8 @@
       "key": "agents/orchestration",
       "parent": "agents",
       "level": "race",
-      "label": "Multi-agent orchestration"
+      "label": "Multi-agent orchestration",
+      "scope": "in: teams of agents, the protocols between them and harness adapters / out: building a single agent see agents/frameworks"
     },
     {
       "key": "agents/orchestration/agent-networks",
@@ -251,7 +260,8 @@
       "key": "agents/sandboxes",
       "parent": "agents",
       "level": "race",
-      "label": "Agent sandboxes"
+      "label": "Agent sandboxes",
+      "scope": "in: sandboxes and secure runtimes where agents run code / out: OS-level isolation in general see infra/isolation"
     },
     {
       "key": "agents/sandboxes/code-sandboxes",
@@ -281,7 +291,8 @@
       "key": "agents/skills",
       "parent": "agents",
       "level": "race",
-      "label": "Skills, rules and plugins"
+      "label": "Skills, rules and plugins",
+      "scope": "in: skills, rules, hooks and plugin formats for coding agents / out: tools that agents call see agents/tools"
     },
     {
       "key": "agents/skills/agent-configs",
@@ -317,7 +328,8 @@
       "key": "agents/tools",
       "parent": "agents",
       "level": "race",
-      "label": "Agent tools"
+      "label": "Agent tools",
+      "scope": "in: tools and MCP servers that agents call / out: skills and rules that steer agents see agents/skills"
     },
     {
       "key": "agents/tools/api-directories",
@@ -332,12 +344,6 @@
       "label": "Stealth browser automation"
     },
     {
-      "key": "agents/tools/cad",
-      "parent": "agents/tools",
-      "level": "capability",
-      "label": "CAD"
-    },
-    {
       "key": "agents/tools/cloud-ops",
       "parent": "agents/tools",
       "level": "capability",
@@ -348,6 +354,12 @@
       "parent": "agents/tools",
       "level": "capability",
       "label": "MCP servers"
+    },
+    {
+      "key": "agents/tools/text-to-cad",
+      "parent": "agents/tools",
+      "level": "capability",
+      "label": "CAD"
     },
     {
       "key": "agents/tools/web-access",
@@ -365,7 +377,8 @@
       "key": "cyber/agent-security",
       "parent": "cyber",
       "level": "race",
-      "label": "Agent security"
+      "label": "Agent security",
+      "scope": "in: guardrails, prompt-injection defence and scanning for agents and LLM apps / out: securing ordinary applications see cyber/appsec"
     },
     {
       "key": "cyber/agent-security/runtime-guardrails",
@@ -389,7 +402,8 @@
       "key": "cyber/appsec",
       "parent": "cyber",
       "level": "race",
-      "label": "Application security"
+      "label": "Application security",
+      "scope": "in: finding and fixing vulnerabilities in application code / out: attacking running systems see cyber/offensive"
     },
     {
       "key": "cyber/appsec/auto-remediation",
@@ -413,13 +427,15 @@
       "key": "cyber/detection",
       "parent": "cyber",
       "level": "race",
-      "label": "Detection"
+      "label": "Detection",
+      "scope": "in: detection rules, SIEM content and alerting / out: intelligence about threats and actors see cyber/threat-intel"
     },
     {
       "key": "cyber/identity",
       "parent": "cyber",
       "level": "race",
-      "label": "Identity and secrets"
+      "label": "Identity and secrets",
+      "scope": "in: identity and access management, and secrets / out: keeping secrets away from agents see cyber/agent-security"
     },
     {
       "key": "cyber/identity/iam",
@@ -437,7 +453,8 @@
       "key": "cyber/offensive",
       "parent": "cyber",
       "level": "race",
-      "label": "Offensive security"
+      "label": "Offensive security",
+      "scope": "in: penetration testing, red teaming and attack tooling / out: finding bugs in your own code see cyber/appsec"
     },
     {
       "key": "cyber/offensive/ai-pentesting",
@@ -455,7 +472,8 @@
       "key": "cyber/reversing",
       "parent": "cyber",
       "level": "race",
-      "label": "Reverse engineering"
+      "label": "Reverse engineering",
+      "scope": "in: disassemblers, decompilers, binary debuggers and malware analysis / out: debugging your own programs see dev-tools/debugging"
     },
     {
       "key": "cyber/reversing/agentic-re",
@@ -467,7 +485,7 @@
       "key": "cyber/reversing/debuggers",
       "parent": "cyber/reversing",
       "level": "capability",
-      "label": "Debuggers"
+      "label": "Binary debuggers"
     },
     {
       "key": "cyber/reversing/disassemblers",
@@ -479,13 +497,15 @@
       "key": "cyber/supply-chain",
       "parent": "cyber",
       "level": "race",
-      "label": "Supply chain"
+      "label": "Supply chain",
+      "scope": "in: SBOMs, signing and checks on dependencies and builds / out: scanning agent skills and plugins see cyber/agent-security"
     },
     {
       "key": "cyber/threat-intel",
       "parent": "cyber",
       "level": "race",
-      "label": "Threat intelligence"
+      "label": "Threat intelligence",
+      "scope": "in: OSINT and intelligence on threats and actors / out: rules that detect attacks see cyber/detection"
     },
     {
       "key": "data",
@@ -497,13 +517,15 @@
       "key": "data/analytics",
       "parent": "data",
       "level": "race",
-      "label": "Analytics"
+      "label": "Analytics",
+      "scope": "in: BI, OLAP and dashboards over data / out: moving data between systems see data/pipelines"
     },
     {
       "key": "data/databases",
       "parent": "data",
       "level": "race",
-      "label": "Databases"
+      "label": "Databases",
+      "scope": "in: database engines, distributed SQL included / out: search engines see data/search"
     },
     {
       "key": "data/databases/distributed-sql",
@@ -515,7 +537,8 @@
       "key": "data/datasets",
       "parent": "data",
       "level": "race",
-      "label": "Datasets"
+      "label": "Datasets",
+      "scope": "in: open datasets and lists of them / out: benchmarks for models see llm-infra/evals"
     },
     {
       "key": "data/datasets/dataset-lists",
@@ -524,28 +547,39 @@
       "label": "Dataset lists"
     },
     {
+      "key": "data/geospatial",
+      "parent": "data",
+      "level": "race",
+      "label": "Geospatial and GIS",
+      "scope": "in: GIS apps, map servers, projections and spatial data libraries / out: databases in general see data/databases"
+    },
+    {
       "key": "data/pipelines",
       "parent": "data",
       "level": "race",
-      "label": "Pipelines"
+      "label": "Pipelines",
+      "scope": "in: ETL, workflow and data pipeline tools / out: message queues and streams see data/queues"
     },
     {
       "key": "data/queues",
       "parent": "data",
       "level": "race",
-      "label": "Queues and streams"
+      "label": "Queues and streams",
+      "scope": "in: message queues, brokers and event streaming / out: batch ETL see data/pipelines"
     },
     {
       "key": "data/search",
       "parent": "data",
       "level": "race",
-      "label": "Search engines"
+      "label": "Search engines",
+      "scope": "in: full-text search engines / out: vector search for retrieval see llm-infra/rag"
     },
     {
       "key": "data/serialization",
       "parent": "data",
       "level": "race",
-      "label": "Serialization"
+      "label": "Serialization",
+      "scope": "in: serialization formats and libraries / out: storing data at rest see data/storage"
     },
     {
       "key": "data/serialization/schema-formats",
@@ -557,13 +591,34 @@
       "key": "data/storage",
       "parent": "data",
       "level": "race",
-      "label": "Storage"
+      "label": "Storage",
+      "scope": "in: object, block and file storage systems / out: databases see data/databases"
     },
     {
       "key": "data/storage/object-storage",
       "parent": "data/storage",
       "level": "capability",
       "label": "Object and file storage"
+    },
+    {
+      "key": "design",
+      "parent": null,
+      "level": "domain",
+      "label": "UI and UX design"
+    },
+    {
+      "key": "design/accessibility",
+      "parent": "design",
+      "level": "race",
+      "label": "Accessibility",
+      "scope": "in: accessibility checkers, audits, guidelines and assistive tech / out: general test runners see dev-tools/testing"
+    },
+    {
+      "key": "design/tools",
+      "parent": "design",
+      "level": "race",
+      "label": "Design and prototyping tools",
+      "scope": "in: apps for drawing interfaces, prototypes, vector art and design tokens / out: component libraries in code see web/ui-components"
     },
     {
       "key": "desktop",
@@ -575,25 +630,29 @@
       "key": "desktop/app-shells",
       "parent": "desktop",
       "level": "race",
-      "label": "App shells"
+      "label": "App shells",
+      "scope": "in: Electron, Tauri and other shells for web-tech desktop apps / out: native GUI toolkits see desktop/native-ui"
     },
     {
       "key": "desktop/native-ui",
       "parent": "desktop",
       "level": "race",
-      "label": "Native UI"
+      "label": "Native UI",
+      "scope": "in: native GUI toolkits and the desktop apps built on them / out: web-tech app shells see desktop/app-shells"
     },
     {
       "key": "desktop/packaging",
       "parent": "desktop",
       "level": "race",
-      "label": "Packaging and installers"
+      "label": "Packaging and installers",
+      "scope": "in: installers, app bundles and auto-update for desktop apps / out: building the code see dev-tools/build"
     },
     {
       "key": "desktop/terminal-ui",
       "parent": "desktop",
       "level": "race",
-      "label": "Terminal UI"
+      "label": "Terminal UI",
+      "scope": "in: TUI libraries and terminal apps / out: agent clients that run in a terminal see agents/clients"
     },
     {
       "key": "dev-tools",
@@ -605,7 +664,8 @@
       "key": "dev-tools/build",
       "parent": "dev-tools",
       "level": "race",
-      "label": "Build systems"
+      "label": "Build systems",
+      "scope": "in: build systems, task runners and monorepo tools / out: CI pipelines that run them see infra/ci-cd"
     },
     {
       "key": "dev-tools/build/monorepo-tools",
@@ -617,7 +677,8 @@
       "key": "dev-tools/code-review",
       "parent": "dev-tools",
       "level": "race",
-      "label": "Code review"
+      "label": "Code review",
+      "scope": "in: tools that review diffs and pull requests, by people or models / out: security scanners for code see cyber/appsec"
     },
     {
       "key": "dev-tools/code-review/ai-code-review",
@@ -629,13 +690,15 @@
       "key": "dev-tools/debugging",
       "parent": "dev-tools",
       "level": "race",
-      "label": "Debugging"
+      "label": "Debugging",
+      "scope": "in: debuggers and debugging tools for your own programs / out: debugging binaries you didn't write see cyber/reversing"
     },
     {
       "key": "dev-tools/diagrams",
       "parent": "dev-tools",
       "level": "race",
-      "label": "Diagrams"
+      "label": "Diagrams",
+      "scope": "in: diagram tools and diagrams as code / out: documentation sites see dev-tools/docs"
     },
     {
       "key": "dev-tools/diagrams/diagram-skills",
@@ -653,19 +716,22 @@
       "key": "dev-tools/docs",
       "parent": "dev-tools",
       "level": "race",
-      "label": "Documentation"
+      "label": "Documentation",
+      "scope": "in: documentation generators and docs-as-code tools / out: diagrams see dev-tools/diagrams"
     },
     {
       "key": "dev-tools/editors",
       "parent": "dev-tools",
       "level": "race",
-      "label": "Editors"
+      "label": "Editors",
+      "scope": "in: text editors, IDEs and their plugins / out: terminal UI libraries see desktop/terminal-ui"
     },
     {
       "key": "dev-tools/testing",
       "parent": "dev-tools",
       "level": "race",
-      "label": "Testing"
+      "label": "Testing",
+      "scope": "in: test frameworks, end-to-end and integration testing / out: evaluating models and agents see llm-infra/evals"
     },
     {
       "key": "dev-tools/testing/e2e-testing",
@@ -689,7 +755,8 @@
       "key": "dev-tools/vcs",
       "parent": "dev-tools",
       "level": "race",
-      "label": "Version control"
+      "label": "Version control",
+      "scope": "in: git and other version control tools / out: reviewing changes see dev-tools/code-review"
     },
     {
       "key": "embedded",
@@ -701,25 +768,91 @@
       "key": "embedded/drivers",
       "parent": "embedded",
       "level": "race",
-      "label": "Drivers"
+      "label": "Drivers",
+      "scope": "in: device drivers and kernel modules / out: firmware on the device see embedded/firmware"
     },
     {
       "key": "embedded/firmware",
       "parent": "embedded",
       "level": "race",
-      "label": "Firmware"
+      "label": "Firmware",
+      "scope": "in: firmware for microcontrollers and boards / out: real-time OS kernels see embedded/rtos"
     },
     {
       "key": "embedded/robotics",
       "parent": "embedded",
       "level": "race",
-      "label": "Robotics"
+      "label": "Robotics",
+      "scope": "in: robot software, ROS and robot hardware / out: firmware for single boards see embedded/firmware"
     },
     {
       "key": "embedded/rtos",
       "parent": "embedded",
       "level": "race",
-      "label": "RTOS"
+      "label": "RTOS",
+      "scope": "in: real-time operating systems for microcontrollers / out: bare-metal firmware see embedded/firmware"
+    },
+    {
+      "key": "engineering",
+      "parent": null,
+      "level": "domain",
+      "label": "Engineering"
+    },
+    {
+      "key": "engineering/bim",
+      "parent": "engineering",
+      "level": "race",
+      "label": "BIM and building models",
+      "scope": "in: IFC and BIM models of buildings and infrastructure / out: software architecture, not buildings see practice/architecture"
+    },
+    {
+      "key": "engineering/cad",
+      "parent": "engineering",
+      "level": "race",
+      "label": "Mechanical CAD",
+      "scope": "in: parametric, solid and code-driven CAD for parts and assemblies / out: agents that draft CAD from text see agents/tools"
+    },
+    {
+      "key": "engineering/chemistry",
+      "parent": "engineering",
+      "level": "race",
+      "label": "Computational chemistry",
+      "scope": "in: cheminformatics toolkits, molecular dynamics and quantum chemistry codes / out: training general ML models see ml/training"
+    },
+    {
+      "key": "engineering/eda",
+      "parent": "engineering",
+      "level": "race",
+      "label": "Circuit and PCB design",
+      "scope": "in: schematic capture, PCB layout and circuit simulation / out: firmware for the board see embedded/firmware"
+    },
+    {
+      "key": "engineering/hdl",
+      "parent": "engineering",
+      "level": "race",
+      "label": "Chip and FPGA design",
+      "scope": "in: hardware description languages, logic simulation, synthesis and place-and-route / out: compilers for software languages see languages/compilers"
+    },
+    {
+      "key": "engineering/process",
+      "parent": "engineering",
+      "level": "race",
+      "label": "Chemical process simulation",
+      "scope": "in: flowsheets, reaction kinetics, combustion and thermodynamic properties / out: data pipelines, not plant processes see data/pipelines"
+    },
+    {
+      "key": "engineering/simulation",
+      "parent": "engineering",
+      "level": "race",
+      "label": "FEA and CFD simulation",
+      "scope": "in: finite-element, CFD, structural and multiphysics solvers / out: profiling software rather than physics see practice/performance"
+    },
+    {
+      "key": "engineering/subsurface",
+      "parent": "engineering",
+      "level": "race",
+      "label": "Reservoir and subsurface",
+      "scope": "in: reservoir simulators, well-log formats, seismic and geological models / out: general open datasets see data/datasets"
     },
     {
       "key": "finance",
@@ -731,7 +864,8 @@
       "key": "finance/accounting",
       "parent": "finance",
       "level": "race",
-      "label": "Accounting"
+      "label": "Accounting",
+      "scope": "in: bookkeeping, ledgers and invoicing / out: household budgets see finance/personal"
     },
     {
       "key": "finance/accounting/bookkeeping",
@@ -767,7 +901,8 @@
       "key": "finance/personal",
       "parent": "finance",
       "level": "race",
-      "label": "Personal finance"
+      "label": "Personal finance",
+      "scope": "in: budgeting, net worth and household money apps / out: trading and brokerage tools see finance/trading"
     },
     {
       "key": "finance/personal/budgeting",
@@ -941,7 +1076,8 @@
       "key": "languages/compilers",
       "parent": "languages",
       "level": "race",
-      "label": "Compilers"
+      "label": "Compilers",
+      "scope": "in: compilers, parsers, code generators and compiler infrastructure / out: language runtimes and VMs see languages/runtimes"
     },
     {
       "key": "languages/runtimes",
@@ -954,6 +1090,33 @@
       "parent": "languages",
       "level": "race",
       "label": "Type systems"
+    },
+    {
+      "key": "learning",
+      "parent": null,
+      "level": "domain",
+      "label": "Learning and training"
+    },
+    {
+      "key": "learning/courses",
+      "parent": "learning",
+      "level": "race",
+      "label": "Courses and learning paths",
+      "scope": "in: courses, curricula, study plans and roadmaps / out: guidance for designing real systems see practice/architecture"
+    },
+    {
+      "key": "learning/exercises",
+      "parent": "learning",
+      "level": "race",
+      "label": "Practice exercises",
+      "scope": "in: exercise sets, katas and build-your-own projects that teach by doing / out: test frameworks see dev-tools/testing"
+    },
+    {
+      "key": "learning/security-labs",
+      "parent": "learning",
+      "level": "race",
+      "label": "Security labs and CTF training",
+      "scope": "in: deliberately vulnerable apps, CTF platforms and wargames for practice / out: tools for real engagements see cyber/offensive"
     },
     {
       "key": "llm-infra",
@@ -1208,6 +1371,26 @@
       "label": "Reliability"
     },
     {
+      "key": "systems",
+      "parent": null,
+      "level": "domain",
+      "label": "Low-level systems"
+    },
+    {
+      "key": "systems/memory",
+      "parent": "systems",
+      "level": "race",
+      "label": "Memory management",
+      "scope": "in: allocators, memory managers and memory-error detectors for native code / out: language runtimes and their garbage collectors see languages/runtimes"
+    },
+    {
+      "key": "systems/os",
+      "parent": "systems",
+      "level": "race",
+      "label": "Operating systems",
+      "scope": "in: kernels and whole operating systems, teaching OSes included / out: real-time OSes for microcontrollers see embedded/rtos"
+    },
+    {
       "key": "web",
       "parent": null,
       "level": "domain",
@@ -1241,21 +1424,32 @@
       "key": "web/ui-components",
       "parent": "web",
       "level": "race",
-      "label": "UI components"
+      "label": "UI components",
+      "scope": "in: component libraries, design systems and UI kits in code / out: styling and CSS frameworks see web/css"
     }
   ],
   "aliases": {
     "1-bit": "llm-infra/inference/low-bit",
+    "a11y": "design/accessibility",
     "a2a": "agents/orchestration/agent-networks",
     "a2a-protocol": "agents/orchestration/agent-networks",
-    "accounting": "finance/accounting/bookkeeping",
+    "accessibility": "design/accessibility",
+    "accounting": "finance/accounting",
+    "agent-client-protocol": "agents/clients",
+    "agent-framework": "agents/frameworks",
     "agent-instructions": "agents/skills/agent-configs",
-    "agent-memory": "agents/memory/long-term-memory",
+    "agent-memory": "agents/memory",
+    "agent-optimization": "agents/optimization",
     "agent-orchestration": "agents/orchestration/agent-teams",
+    "agent-sandbox": "agents/sandboxes",
     "agent-security": "cyber/agent-security",
     "agent-skill": "agents/skills",
     "agent-skills": "agents/skills",
+    "agent-tools": "agents/tools",
+    "agent-ui": "agents/clients",
+    "agentic-framework": "agents/frameworks",
     "agentic-rag": "llm-infra/rag",
+    "agents/tools/cad": "agents/tools/text-to-cad",
     "ai-chat": "llm-infra/chat-apps",
     "ai-coding-agent": "agents/coding",
     "ai-memory": "agents/memory/long-term-memory",
@@ -1266,27 +1460,44 @@
     "ai-security": "cyber/agent-security",
     "algo-trading": "finance/trading/trading-bots",
     "algorithmic-trading": "finance/trading/trading-bots",
+    "allocator": "systems/memory",
     "android": "mobile/android",
     "anns": "llm-infra/rag/vector-search",
     "api-directory": "agents/tools/api-directories",
     "api-list": "agents/tools/api-directories",
+    "appimage": "desktop/packaging",
     "apple-silicon": "llm-infra/inference/apple-silicon",
+    "application-security": "cyber/appsec",
+    "appsec": "cyber/appsec",
+    "asic": "engineering/hdl",
+    "auto-update": "desktop/packaging",
+    "autonomous-agents": "agents/assistants",
     "baas": "mobile/app-backends",
     "backtest": "finance/trading/backtesting",
+    "bim": "engineering/bim",
     "binary-analysis": "cyber/reversing",
     "binary-ninja": "cyber/reversing/disassemblers",
     "bitnet-cpp": "llm-infra/inference/low-bit",
+    "block-storage": "data/storage",
     "budget": "finance/personal/budgeting",
     "bug-bounty": "cyber/offensive",
     "build-system": "dev-tools/build",
     "build-tool": "dev-tools/build",
+    "build-your-own": "learning/exercises",
+    "building-information-modeling": "engineering/bim",
     "business-intelligence": "data/analytics",
-    "cad": "agents/tools/cad",
+    "cad-kernel": "engineering/cad",
+    "capture-the-flag": "learning/security-labs",
+    "cartography": "data/geospatial",
     "certificate-management": "cyber/identity/secrets-management",
+    "cfd": "engineering/simulation",
     "chaos-engineering": "practice/reliability",
     "chatgpt-alternative": "llm-infra/chat-apps",
     "chatui": "llm-infra/chat-apps",
+    "chemical-kinetics": "engineering/process",
+    "cheminformatics": "engineering/chemistry",
     "chromedriver": "agents/tools/browser-automation",
+    "circuit-simulation": "engineering/eda",
     "claude-code-hooks": "agents/skills/agent-configs",
     "claude-code-skill": "agents/skills",
     "claude-skills": "agents/skills",
@@ -1296,11 +1507,16 @@
     "cloudflare-mcp": "agents/tools/cloud-ops",
     "cms": "web/cms",
     "code-intelligence": "agents/code-intel/code-graphs",
-    "code-review": "dev-tools/code-review/ai-code-review",
+    "code-interpreter": "agents/sandboxes",
+    "code-review": "dev-tools/code-review",
     "code-review-assistant": "dev-tools/code-review/ai-code-review",
+    "code-understanding": "agents/code-intel",
+    "codebase-indexing": "agents/code-intel",
     "coding-agent": "agents/coding",
     "coding-agents": "agents/coding",
     "coding-assistant": "agents/coding",
+    "coding-challenges": "learning/exercises",
+    "combustion": "engineering/process",
     "compiler": "languages/compilers",
     "component-library": "web/ui-components",
     "compression": "agents/context/output-compression",
@@ -1314,17 +1530,25 @@
     "continuous-integration": "infra/ci-cd",
     "control-panel": "infra/hosting/control-panels",
     "cost-reduction": "agents/context/output-compression",
+    "course": "learning/courses",
     "crypto-trading": "finance/trading/trading-bots",
     "css": "web/css",
+    "ctf": "learning/security-labs",
+    "curriculum": "learning/courses",
     "cursor-plugins": "agents/skills/plugin-specs",
     "cursor-rules": "agents/skills/agent-configs",
     "daily-digest": "media/news/news-digests",
     "data-pipeline": "data/pipelines",
+    "database": "data/databases",
     "datasets": "data/datasets",
+    "dbms": "data/databases",
+    "debug-adapter-protocol": "dev-tools/debugging",
     "debugger": "dev-tools/debugging",
+    "debugging": "dev-tools/debugging",
     "decompiler": "cyber/reversing/disassemblers",
     "deep-research": "agents/assistants/deep-research",
     "design-system": "web/ui-components",
+    "design-tool": "design/tools",
     "detection-engineering": "cyber/detection",
     "device-drivers": "embedded/drivers",
     "devtools": "dev-tools",
@@ -1336,29 +1560,37 @@
     "distributed-sql": "data/databases/distributed-sql",
     "distributed-sql-database": "data/databases/distributed-sql",
     "distributed-storage": "data/storage",
+    "docs-as-code": "dev-tools/docs",
     "documentation": "dev-tools/docs",
+    "documentation-generator": "dev-tools/docs",
     "double-entry": "finance/accounting/bookkeeping",
     "dspy": "agents/optimization/prompt-optimization",
     "e2e": "dev-tools/testing/e2e-testing",
     "e2e-testing": "dev-tools/testing/e2e-testing",
+    "eda": "engineering/eda",
     "electron": "desktop/app-shells",
     "embedded-ai": "agents/frameworks/embedded-agents",
     "embedding-models": "ml/embeddings",
     "end-to-end-testing": "dev-tools/testing/e2e-testing",
     "engineering-management": "practice/process",
     "enterprise-search": "llm-infra/rag/knowledge-platforms",
+    "esp32": "embedded/firmware",
     "ethical-hacking": "cyber/offensive",
     "etl": "data/pipelines",
     "evals": "llm-infra/evals",
     "event-streaming": "data/queues",
     "eventsourcing": "agents/frameworks/agent-workflows",
+    "exercises": "learning/exercises",
     "faas": "infra/serverless",
+    "fea": "engineering/simulation",
     "financial-analysis": "finance/markets/research-terminals",
     "financial-data": "finance/markets/market-data",
     "fine-tuning": "ml/training",
+    "finite-element": "engineering/simulation",
     "finrl": "finance/quant/quant-ml",
     "firmware": "embedded/firmware",
     "flutter": "mobile/cross-platform",
+    "fpga": "engineering/hdl",
     "free-api": "llm-infra/gateways/free-providers",
     "freertos": "embedded/rtos",
     "full-text-search": "data/search",
@@ -1366,12 +1598,24 @@
     "gamedev": "games/engines",
     "gdb": "cyber/reversing/debuggers",
     "gef": "cyber/reversing/debuggers",
+    "geoscience": "engineering/subsurface",
+    "geospatial": "data/geospatial",
     "gepa": "agents/optimization/prompt-optimization",
+    "gis": "data/geospatial",
+    "git": "dev-tools/vcs",
+    "git-client": "dev-tools/vcs",
     "github-actions": "infra/ci-cd",
     "gui": "desktop/native-ui",
+    "gui-library": "desktop/native-ui",
+    "gui-toolkit": "desktop/native-ui",
+    "hdl": "engineering/hdl",
     "headless-cms": "web/cms",
     "hosting-panel": "infra/hosting/control-panels",
+    "household-finance": "finance/personal",
+    "iam": "cyber/identity",
     "ida-pro": "cyber/reversing/disassemblers",
+    "identity-management": "cyber/identity",
+    "ifc": "engineering/bim",
     "inference": "llm-infra/inference",
     "infrastructure-as-code": "infra/iac",
     "installer": "desktop/packaging",
@@ -1382,6 +1626,9 @@
     "jetpack-compose": "mobile/android",
     "k8s": "infra/kubernetes",
     "kafka": "data/queues",
+    "kata": "learning/exercises",
+    "kernel": "systems/os",
+    "kernel-module": "embedded/drivers",
     "keycloak": "cyber/identity/iam",
     "knowledge-base": "llm-infra/rag",
     "kubectl": "infra/kubernetes/desktop-clients",
@@ -1389,9 +1636,14 @@
     "kubernetes-client": "infra/kubernetes/desktop-clients",
     "kubernetes-dashboard": "infra/kubernetes/desktop-clients",
     "kubernetes-gui": "infra/kubernetes/desktop-clients",
+    "learn-by-doing": "learning/exercises",
+    "learning-path": "learning/courses",
+    "ledger": "finance/accounting",
     "lima": "infra/containers",
+    "linux-driver": "embedded/drivers",
     "llm-eval": "llm-infra/evals",
     "llm-evaluation": "llm-infra/evals",
+    "llm-memory": "agents/memory",
     "llm-security": "cyber/agent-security",
     "llm-trading": "finance/trading/trading-agents",
     "llm-training": "ml/training",
@@ -1400,27 +1652,33 @@
     "local-ai": "llm-infra/inference",
     "long-term-memory": "agents/memory/long-term-memory",
     "lora": "ml/training",
+    "malloc": "systems/memory",
     "malware-analysis": "cyber/reversing",
     "market-making": "finance/trading/trading-bots",
     "mcp-server": "agents/tools/mcp-servers",
     "mcp-servers": "agents/tools/mcp-servers",
-    "mechanical-engineering": "agents/tools/cad",
     "mem0": "agents/memory/long-term-memory",
     "memory": "agents/memory/long-term-memory",
+    "memory-allocator": "systems/memory",
+    "memory-safety": "systems/memory",
     "mermaid": "dev-tools/diagrams/mermaid-rendering",
     "mermaid-diagrams": "dev-tools/diagrams/mermaid-rendering",
     "mermaidjs": "dev-tools/diagrams/mermaid-rendering",
     "message-queue": "data/queues",
     "metal": "llm-infra/inference/apple-silicon",
+    "microcontroller": "embedded/firmware",
     "mlx": "llm-infra/inference/apple-silicon",
     "mobile-testing": "dev-tools/testing/e2e-testing",
     "model-context-protocol": "agents/tools/mcp-servers",
+    "molecular-dynamics": "engineering/chemistry",
+    "molecular-simulation": "engineering/chemistry",
     "money-management": "finance/personal/budgeting",
     "monitoring": "infra/observability",
     "monorepo": "dev-tools/build/monorepo-tools",
     "monorepo-tooling": "dev-tools/build/monorepo-tools",
     "multi-agent": "agents/orchestration",
     "multi-agent-systems": "agents/orchestration",
+    "multiphysics": "engineering/simulation",
     "nearest-neighbors": "llm-infra/rag/vector-search",
     "neovim": "dev-tools/editors",
     "nerdctl": "infra/containers",
@@ -1435,50 +1693,73 @@
     "open-source-llm": "ml/open-models",
     "open-weights": "ml/open-models",
     "openai-compatible": "llm-infra/gateways",
+    "openbim": "engineering/bim",
     "opendata": "data/datasets",
     "openmemory": "agents/memory/long-term-memory",
     "openshell": "agents/sandboxes/secure-runtimes",
     "opentelemetry": "infra/observability",
+    "operating-system": "systems/os",
+    "os-kernel": "systems/os",
+    "osdev": "systems/os",
     "osint": "cyber/threat-intel",
     "p2p-network": "agents/orchestration/agent-networks",
     "parallel-agents": "agents/orchestration",
+    "parametric-cad": "engineering/cad",
+    "pcb": "engineering/eda",
     "penetration-testing": "cyber/offensive/ai-pentesting",
     "pentesting-tools": "cyber/offensive/ai-pentesting",
-    "personal-finance": "finance/personal/budgeting",
+    "personal-assistant": "agents/assistants",
+    "personal-finance": "finance/personal",
+    "petroleum-engineering": "engineering/subsurface",
     "pki": "cyber/identity/secrets-management",
     "portfolio-management": "finance/quant/portfolio-optimization",
     "portfolio-tracker": "finance/personal/wealth-tracking",
+    "process-engineering": "engineering/process",
+    "process-simulation": "engineering/process",
     "profiling": "practice/performance",
     "project-brain": "agents/memory/project-memory",
     "project-memory": "agents/memory/project-memory",
     "prompt-injection": "cyber/agent-security",
+    "prompt-optimization": "agents/optimization",
     "protobuf": "data/serialization/schema-formats",
     "protocol-buffers": "data/serialization/schema-formats",
+    "prototyping": "design/tools",
+    "pull-request-review": "dev-tools/code-review",
     "pulumi": "infra/iac",
     "quant": "finance/quant/quant-ml",
     "quantitative-finance": "finance/quant/quant-ml",
     "quantitative-trading": "finance/quant/quant-ml",
+    "quantum-chemistry": "engineering/chemistry",
     "question-answering": "llm-infra/rag/knowledge-platforms",
     "rag": "llm-infra/rag/knowledge-platforms",
     "react-native": "mobile/cross-platform",
     "reddit-scraper": "agents/tools/web-access",
+    "reservoir-simulation": "engineering/subsurface",
     "reverse-engineering": "cyber/reversing",
     "risk-management": "finance/quant/portfolio-optimization",
+    "roadmap": "learning/courses",
     "robotics": "embedded/robotics",
     "ros": "embedded/robotics",
     "ros2": "embedded/robotics",
+    "rtl": "engineering/hdl",
     "rtos": "embedded/rtos",
     "runtime-security": "cyber/agent-security/runtime-guardrails",
     "s3-storage": "data/storage/object-storage",
     "saml": "cyber/identity/iam",
+    "sast": "cyber/appsec",
     "sbom": "cyber/supply-chain",
+    "schematic": "engineering/eda",
+    "screen-reader": "design/accessibility",
     "search-engine": "data/search",
     "secret-management": "cyber/identity/secrets-management",
     "secret-manager": "cyber/identity/secrets-management",
     "secrets-management": "cyber/identity/secrets-management",
     "security": "cyber",
     "security-scanner": "cyber/agent-security/skill-scanning",
+    "security-training": "learning/security-labs",
+    "seismic": "engineering/subsurface",
     "serialization": "data/serialization",
+    "serializer": "data/serialization",
     "server-management": "infra/hosting/control-panels",
     "shaders": "games/graphics",
     "siem": "cyber/detection",
@@ -1486,13 +1767,20 @@
     "similarity-search": "llm-infra/rag/vector-search",
     "skill-pack": "agents/skills",
     "skills": "agents/skills",
+    "slsa": "cyber/supply-chain",
     "software-architecture": "practice/architecture",
+    "software-supply-chain": "cyber/supply-chain",
+    "solid-modeling": "engineering/cad",
+    "spatial-data": "data/geospatial",
+    "spice": "engineering/eda",
     "sre": "practice/reliability",
     "ssg": "web/static-sites",
     "static-site-generator": "web/static-sites",
     "stealth": "agents/tools/browser-automation",
     "stock-data": "finance/markets/market-data",
     "stock-market": "finance/markets/market-data",
+    "storage": "data/storage",
+    "structural-analysis": "engineering/simulation",
     "supermemory": "agents/memory/long-term-memory",
     "supply-chain-security": "cyber/agent-security/skill-scanning",
     "svelte": "web/frameworks",
@@ -1503,29 +1791,37 @@
     "tauri": "desktop/app-shells",
     "terminal-ui": "desktop/terminal-ui",
     "terraform": "infra/iac",
+    "test-automation": "dev-tools/testing",
     "testcontainers": "dev-tools/testing/integration-testing",
     "testing": "dev-tools/testing",
     "text-editor": "dev-tools/editors",
-    "text-to-cad": "agents/tools/cad",
+    "text-to-cad": "agents/tools/text-to-cad",
+    "thermodynamics": "engineering/process",
     "threat-detection": "cyber/agent-security/runtime-guardrails",
     "threat-intelligence": "cyber/threat-intel",
     "token-optimization": "agents/context/output-compression",
+    "tool-use": "agents/tools",
     "trading-agent": "finance/trading/trading-agents",
     "trading-bot": "finance/trading/trading-bots",
     "tree-sitter": "agents/code-intel/code-graphs",
     "tts": "media/speech/text-to-speech",
     "tui": "desktop/terminal-ui",
+    "tutorials": "learning/courses",
     "twitter-scraper": "agents/tools/web-access",
     "type-checker": "languages/type-systems",
     "type-system": "languages/type-systems",
     "ui-components": "web/ui-components",
+    "ui-design": "design/tools",
     "undetectable": "agents/tools/browser-automation",
     "undetected": "agents/tools/browser-automation",
+    "unit-testing": "dev-tools/testing",
     "user-namespaces": "infra/isolation",
     "vault": "cyber/identity/secrets-management",
     "vector-database": "llm-infra/rag/vector-search",
     "vector-search": "llm-infra/rag/vector-search",
+    "verilog": "engineering/hdl",
     "version-control": "dev-tools/vcs",
+    "vhdl": "engineering/hdl",
     "voice-ai": "media/speech",
     "voice-cloning": "media/speech/voice-cloning",
     "voice-generation": "media/speech/text-to-speech",
@@ -1533,11 +1829,17 @@
     "vue": "web/frameworks",
     "vulkan": "games/graphics",
     "vulnerability": "cyber/appsec/vuln-discovery",
+    "vulnerable-app": "learning/security-labs",
+    "wargame": "learning/security-labs",
     "wasm-runtime": "languages/runtimes",
+    "wcag": "design/accessibility",
     "wealth-management": "finance/personal/wealth-tracking",
     "web-framework": "web/frameworks",
     "web-hosting": "infra/hosting/control-panels",
+    "web-maps": "data/geospatial",
     "webgpu": "games/graphics",
+    "well-logs": "engineering/subsurface",
+    "wireframing": "design/tools",
     "wireguard": "infra/networking",
     "yahoo-finance": "finance/markets/market-data",
     "zephyr": "embedded/rtos"

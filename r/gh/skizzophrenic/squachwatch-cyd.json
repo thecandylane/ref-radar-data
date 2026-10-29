@@ -1,0 +1,57 @@
+{
+  "id": "gh:skizzophrenic/squachwatch-cyd",
+  "kind": "repo",
+  "url": "https://github.com/skizzophrenic/SquachWatch-CYD",
+  "title": "SquachWatch-CYD",
+  "why": "Turns an ESP32 Cheap Yellow Display into a scanner for Flock cameras, trackers and Meta glasses, built with PlatformIO.",
+  "keys": {
+    "races": [
+      "cyber/detection",
+      "embedded/firmware"
+    ],
+    "lanes": [
+      "cyber/detection",
+      "embedded/firmware"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/skizzophrenic/SquachWatch-CYD",
+    "sha": "3e9be6c02265b14c798e58da01a0913866143b0f",
+    "file_url": "https://cdn.jsdelivr.net/gh/skizzophrenic/SquachWatch-CYD@3e9be6c02265b14c798e58da01a0913866143b0f/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-3.0",
+    "stars": 418,
+    "size_mb": 62,
+    "created_at": "2026-08-27T12:04:22Z",
+    "last_commit_at": "2026-10-24T01:07:19Z",
+    "releases": 96,
+    "tags": 96,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

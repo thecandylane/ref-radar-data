@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.37459",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.37459",
+  "title": "M4Bench: Evaluating Procedural Specification for Clinical EHR Derivation Agents",
+  "why": "Clinician-reviewed skills lifted coding agents' reward by 0.136 on 28 EHR derivation tasks, mostly from specification completeness.",
+  "keys": {
+    "races": [
+      "agents/skills",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "agents/skills",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.37459"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

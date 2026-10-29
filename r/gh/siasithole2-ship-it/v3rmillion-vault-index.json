@@ -1,0 +1,53 @@
+{
+  "id": "gh:siasithole2-ship-it/v3rmillion-vault-index",
+  "kind": "repo",
+  "url": "https://github.com/siasithole2-ship-it/V3rmillion-Vault-Index",
+  "title": "V3rmillion-Vault-Index",
+  "why": "Search an archive of V3rmillion threads, posts and profiles with SQLite FTS5 full-text lookup, packaged with Docker.",
+  "keys": {
+    "races": [
+      "data/pipelines",
+      "data/search"
+    ],
+    "lanes": [
+      "data/pipelines",
+      "data/search"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/siasithole2-ship-it/V3rmillion-Vault-Index",
+    "sha": "fb7aa92cdef7ecb7b77fba4f31f08d14da22399c",
+    "file_url": "https://cdn.jsdelivr.net/gh/siasithole2-ship-it/V3rmillion-Vault-Index@fb7aa92cdef7ecb7b77fba4f31f08d14da22399c/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "none",
+    "stars": 70,
+    "size_mb": 0,
+    "created_at": "2026-09-22T21:35:12Z",
+    "last_commit_at": "2026-10-29T06:53:57Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

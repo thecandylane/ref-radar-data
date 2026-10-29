@@ -1,0 +1,59 @@
+{
+  "id": "gh:midudev/runonweb.ai",
+  "kind": "repo",
+  "url": "https://github.com/midudev/runonweb.ai",
+  "title": "runonweb.ai",
+  "why": "JavaScript SDK that runs local AI models on the web over WebGPU, with a MODELS.md list and training scripts.",
+  "keys": {
+    "races": [
+      "agents/frameworks",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "agents/frameworks",
+      "llm-infra/inference"
+    ],
+    "capabilities": [
+      "agents/frameworks/llm-sdks"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/midudev/runonweb.ai",
+    "sha": "878f193348e76af50d97c539972ef383f6be824e",
+    "file_url": "https://cdn.jsdelivr.net/gh/midudev/runonweb.ai@878f193348e76af50d97c539972ef383f6be824e/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 723,
+    "size_mb": 12,
+    "created_at": "2026-09-24T12:49:05Z",
+    "last_commit_at": "2026-10-24T07:57:39Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

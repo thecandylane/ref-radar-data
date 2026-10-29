@@ -1,0 +1,59 @@
+{
+  "id": "gh:bdg9412/artex-ko-plus",
+  "kind": "repo",
+  "url": "https://github.com/bdg9412/artex-ko-plus",
+  "title": "artex-ko-plus",
+  "why": "Blue-team AI agent for threat hunting and incident response against Splunk and SIEM logs, runnable on Ollama or AWS Bedrock.",
+  "keys": {
+    "races": [
+      "cyber/detection",
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/detection",
+      "cyber/offensive"
+    ],
+    "capabilities": [
+      "cyber/offensive/ai-pentesting"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bdg9412/artex-ko-plus",
+    "sha": "4a60fcf14f7f3125ba3c95ccf32e314d5278e3de",
+    "file_url": "https://cdn.jsdelivr.net/gh/bdg9412/artex-ko-plus@4a60fcf14f7f3125ba3c95ccf32e314d5278e3de/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "AGPL-3.0",
+    "stars": 250,
+    "size_mb": 58,
+    "created_at": "2026-10-09T11:36:03Z",
+    "last_commit_at": "2026-10-26T14:58:20Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

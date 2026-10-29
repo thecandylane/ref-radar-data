@@ -1,0 +1,38 @@
+{
+  "id": "arxiv:2610.37657",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.37657",
+  "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+  "why": "Learned per-head attention gates keep injected instructions from being followed, dropping RL-Hammer attack success on GPT-OSS-20B from 97% to 10%.",
+  "keys": {
+    "races": [
+      "cyber/agent-security"
+    ],
+    "lanes": [
+      "cyber/agent-security"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.37657"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

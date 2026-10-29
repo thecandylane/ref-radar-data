@@ -1,0 +1,57 @@
+{
+  "id": "gh:zion-sati/netwasm",
+  "kind": "repo",
+  "url": "https://github.com/zion-sati/NetWasm",
+  "title": "NetWasm",
+  "why": "AOT compiler taking C# and .NET CIL down to compact Wasm modules, bundling its own runtime and precise GC.",
+  "keys": {
+    "races": [
+      "languages/compilers",
+      "languages/runtimes"
+    ],
+    "lanes": [
+      "languages/compilers",
+      "languages/runtimes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zion-sati/NetWasm",
+    "sha": "0c018f7f361a83995ad48852770cbc673f4b2add",
+    "file_url": "https://cdn.jsdelivr.net/gh/zion-sati/NetWasm@0c018f7f361a83995ad48852770cbc673f4b2add/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "NOASSERTION",
+    "stars": 270,
+    "size_mb": 18,
+    "created_at": "2026-08-10T10:46:35Z",
+    "last_commit_at": "2026-10-28T00:49:12Z",
+    "releases": 51,
+    "tags": 52,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

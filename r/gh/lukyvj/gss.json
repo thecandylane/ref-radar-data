@@ -1,0 +1,59 @@
+{
+  "id": "gh:lukyvj/gss",
+  "kind": "repo",
+  "url": "https://github.com/LukyVj/GSS",
+  "title": "GSS",
+  "why": "Write 3D scenes in CSS-like selectors and keyframes, skipping Three.js and meshes, with a playground and VS Code extension.",
+  "keys": {
+    "races": [
+      "games/graphics",
+      "languages/compilers",
+      "web/css"
+    ],
+    "lanes": [
+      "games/graphics",
+      "languages/compilers",
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/LukyVj/GSS",
+    "sha": "b90051ac214e80725ca383076d40f2f45df0ba03",
+    "file_url": "https://cdn.jsdelivr.net/gh/LukyVj/GSS@b90051ac214e80725ca383076d40f2f45df0ba03/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 124,
+    "size_mb": 10,
+    "created_at": "2026-09-29T15:21:01Z",
+    "last_commit_at": "2026-10-23T20:16:53Z",
+    "releases": 1,
+    "tags": 7,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}
