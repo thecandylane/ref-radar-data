@@ -1,0 +1,63 @@
+{
+  "id": "gh:mrcanlaco/peakpulse-ai",
+  "kind": "repo",
+  "url": "https://github.com/mrcanlaco/PeakPulse-AI",
+  "title": "PeakPulse-AI",
+  "why": "Python and DuckDB engine that flags anomalies in live market data with time-series models, behind a FastAPI and React app.",
+  "keys": {
+    "races": [
+      "data/pipelines",
+      "finance/quant"
+    ],
+    "lanes": [
+      "data/pipelines",
+      "finance/quant"
+    ],
+    "capabilities": [
+      "finance/quant/quant-ml"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mrcanlaco/PeakPulse-AI",
+    "sha": "69843853b37470088978ff855f1cda28adde823c",
+    "file_url": "https://cdn.jsdelivr.net/gh/mrcanlaco/PeakPulse-AI@69843853b37470088978ff855f1cda28adde823c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 97,
+    "size_mb": 15,
+    "created_at": "2026-08-01T19:18:32Z",
+    "last_commit_at": "2026-10-28T17:40:42Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

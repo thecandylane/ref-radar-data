@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.37283",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.37283",
+  "title": "BenchMeUp: Building Software Engineering Benchmarks from Natural-Language Specifications",
+  "why": "Turns a natural-language spec into runnable software-engineering benchmark instances using parallel LLM agents, with 198 built across four tasks.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.37283"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

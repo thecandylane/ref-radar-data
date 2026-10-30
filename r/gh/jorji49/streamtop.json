@@ -1,0 +1,57 @@
+{
+  "id": "gh:jorji49/streamtop",
+  "kind": "repo",
+  "url": "https://github.com/Jorji49/streamtop",
+  "title": "streamtop",
+  "why": "Rust TUI that probes HLS, DASH or IPTV streams from the terminal, runs TR 101 290 checks and exports Prometheus and OpenTelemetry metrics.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui",
+      "infra/observability"
+    ],
+    "lanes": [
+      "desktop/terminal-ui",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Jorji49/streamtop",
+    "sha": "6b700ef2ed760399713a24fbbb24d547357805dd",
+    "file_url": "https://cdn.jsdelivr.net/gh/Jorji49/streamtop@6b700ef2ed760399713a24fbbb24d547357805dd/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 122,
+    "size_mb": 1,
+    "created_at": "2026-08-25T14:20:11Z",
+    "last_commit_at": "2026-10-28T23:16:36Z",
+    "releases": 17,
+    "tags": 20,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

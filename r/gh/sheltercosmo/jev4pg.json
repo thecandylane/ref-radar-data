@@ -1,0 +1,53 @@
+{
+  "id": "gh:sheltercosmo/jev4pg",
+  "kind": "repo",
+  "url": "https://github.com/Sheltercosmo/jev4pg",
+  "title": "jev4pg",
+  "why": "Adds natural language to SQL and semantic operators to PostgreSQL, with reusable evidence and parallel plans still in development preview.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "data/databases",
+      "llm-infra/rag"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Sheltercosmo/jev4pg",
+    "sha": "38c34ca8b6c4c840c7c8428b02c44733bdf10263",
+    "file_url": "https://cdn.jsdelivr.net/gh/Sheltercosmo/jev4pg@38c34ca8b6c4c840c7c8428b02c44733bdf10263/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 260,
+    "size_mb": 27,
+    "created_at": "2026-09-23T11:31:46Z",
+    "last_commit_at": "2026-10-26T01:24:09Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

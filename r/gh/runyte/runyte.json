@@ -1,0 +1,65 @@
+{
+  "id": "gh:runyte/runyte",
+  "kind": "repo",
+  "url": "https://github.com/runyte/runyte",
+  "title": "runyte",
+  "why": "Rust terminal editor with modal editing that offers MCP to AI agents, plus file management, a git view and integrated terminals.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "desktop/terminal-ui",
+      "dev-tools/editors"
+    ],
+    "lanes": [
+      "agents/tools",
+      "desktop/terminal-ui",
+      "dev-tools/editors"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/runyte/runyte",
+    "sha": "04ab88bf3b66d45b30374d4a886116cdb54ed224",
+    "file_url": "https://cdn.jsdelivr.net/gh/runyte/runyte@04ab88bf3b66d45b30374d4a886116cdb54ed224/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MPL-2.0",
+    "stars": 109,
+    "size_mb": 16,
+    "created_at": "2026-08-24T09:29:17Z",
+    "last_commit_at": "2026-10-28T22:15:56Z",
+    "releases": 19,
+    "tags": 26,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

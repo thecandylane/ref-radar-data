@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T08:09:45.152Z",
+  "generated_at": "2026-10-30T08:06:59.962Z",
   "nodes": [
     {
       "key": "agents",
@@ -883,7 +883,8 @@
       "key": "finance/markets",
       "parent": "finance",
       "level": "race",
-      "label": "Markets and research"
+      "label": "Markets and research",
+      "scope": "in: market data and research terminals for investors / out: placing trades see finance/trading"
     },
     {
       "key": "finance/markets/market-data",
@@ -920,7 +921,8 @@
       "key": "finance/quant",
       "parent": "finance",
       "level": "race",
-      "label": "Quant research"
+      "label": "Quant research",
+      "scope": "in: factor research, portfolio optimization and ML for trading / out: running trading bots see finance/trading"
     },
     {
       "key": "finance/quant/portfolio-optimization",
@@ -938,7 +940,8 @@
       "key": "finance/trading",
       "parent": "finance",
       "level": "race",
-      "label": "Trading"
+      "label": "Trading",
+      "scope": "in: trading bots, backtesting and trading agents / out: researching factors see finance/quant"
     },
     {
       "key": "finance/trading/backtesting",
@@ -968,13 +971,15 @@
       "key": "games/engines",
       "parent": "games",
       "level": "race",
-      "label": "Game engines"
+      "label": "Game engines",
+      "scope": "in: game engines and gamedev frameworks / out: rendering and shaders see games/graphics"
     },
     {
       "key": "games/graphics",
       "parent": "games",
       "level": "race",
-      "label": "Graphics"
+      "label": "Graphics",
+      "scope": "in: rendering, shaders and GPU APIs / out: whole game engines see games/engines"
     },
     {
       "key": "infra",
@@ -986,13 +991,15 @@
       "key": "infra/ci-cd",
       "parent": "infra",
       "level": "race",
-      "label": "CI/CD"
+      "label": "CI/CD",
+      "scope": "in: CI/CD pipelines and GitHub Actions / out: build systems see dev-tools/build"
     },
     {
       "key": "infra/containers",
       "parent": "infra",
       "level": "race",
-      "label": "Container runtimes"
+      "label": "Container runtimes",
+      "scope": "in: container runtimes, containers on macOS included / out: orchestrating containers see infra/kubernetes"
     },
     {
       "key": "infra/containers/macos-containers",
@@ -1004,7 +1011,8 @@
       "key": "infra/hosting",
       "parent": "infra",
       "level": "race",
-      "label": "Self-hosting"
+      "label": "Self-hosting",
+      "scope": "in: running your own servers, control panels and homelabs / out: infrastructure as code see infra/iac"
     },
     {
       "key": "infra/hosting/control-panels",
@@ -1016,13 +1024,15 @@
       "key": "infra/iac",
       "parent": "infra",
       "level": "race",
-      "label": "Infrastructure as code"
+      "label": "Infrastructure as code",
+      "scope": "in: Terraform, Pulumi and other infrastructure as code / out: Kubernetes itself see infra/kubernetes"
     },
     {
       "key": "infra/isolation",
       "parent": "infra",
       "level": "race",
-      "label": "Sandboxing and isolation"
+      "label": "Sandboxing and isolation",
+      "scope": "in: OS-level sandboxing, namespaces and application kernels / out: sandboxes built for agents see agents/sandboxes"
     },
     {
       "key": "infra/isolation/application-kernels",
@@ -1040,7 +1050,8 @@
       "key": "infra/kubernetes",
       "parent": "infra",
       "level": "race",
-      "label": "Kubernetes"
+      "label": "Kubernetes",
+      "scope": "in: Kubernetes, its clients and operators / out: container runtimes see infra/containers"
     },
     {
       "key": "infra/kubernetes/desktop-clients",
@@ -1052,19 +1063,22 @@
       "key": "infra/networking",
       "parent": "infra",
       "level": "race",
-      "label": "Networking"
+      "label": "Networking",
+      "scope": "in: VPNs, WireGuard and network tooling / out: self-hosting panels see infra/hosting"
     },
     {
       "key": "infra/observability",
       "parent": "infra",
       "level": "race",
-      "label": "Observability"
+      "label": "Observability",
+      "scope": "in: monitoring, tracing and OpenTelemetry / out: evaluating model output see llm-infra/evals"
     },
     {
       "key": "infra/serverless",
       "parent": "infra",
       "level": "race",
-      "label": "Serverless"
+      "label": "Serverless",
+      "scope": "in: serverless platforms, FaaS and edge functions / out: container runtimes see infra/containers"
     },
     {
       "key": "languages",
@@ -1083,13 +1097,15 @@
       "key": "languages/runtimes",
       "parent": "languages",
       "level": "race",
-      "label": "Runtimes"
+      "label": "Runtimes",
+      "scope": "in: language runtimes, VMs and WebAssembly runtimes / out: compilers see languages/compilers"
     },
     {
       "key": "languages/type-systems",
       "parent": "languages",
       "level": "race",
-      "label": "Type systems"
+      "label": "Type systems",
+      "scope": "in: type checkers and type systems / out: compilers see languages/compilers"
     },
     {
       "key": "learning",
@@ -1128,7 +1144,8 @@
       "key": "llm-infra/chat-apps",
       "parent": "llm-infra",
       "level": "race",
-      "label": "Chat apps"
+      "label": "Chat apps",
+      "scope": "in: chat interfaces for models, on the web, desktop and mobile / out: apps that drive agents see agents/clients"
     },
     {
       "key": "llm-infra/chat-apps/mobile-chat",
@@ -1146,13 +1163,15 @@
       "key": "llm-infra/evals",
       "parent": "llm-infra",
       "level": "race",
-      "label": "Evals"
+      "label": "Evals",
+      "scope": "in: evals, benchmarks and harnesses for models and agents / out: optimizing agents from the scores see agents/optimization"
     },
     {
       "key": "llm-infra/gateways",
       "parent": "llm-infra",
       "level": "race",
-      "label": "Gateways and routers"
+      "label": "Gateways and routers",
+      "scope": "in: proxies, routers and gateways in front of model APIs / out: serving models yourself see llm-infra/inference"
     },
     {
       "key": "llm-infra/gateways/api-proxy",
@@ -1188,7 +1207,8 @@
       "key": "llm-infra/inference",
       "parent": "llm-infra",
       "level": "race",
-      "label": "Inference"
+      "label": "Inference",
+      "scope": "in: serving and running models, locally or distributed / out: routing calls between providers see llm-infra/gateways"
     },
     {
       "key": "llm-infra/inference/apple-silicon",
@@ -1212,7 +1232,8 @@
       "key": "llm-infra/rag",
       "parent": "llm-infra",
       "level": "race",
-      "label": "RAG and knowledge"
+      "label": "RAG and knowledge",
+      "scope": "in: retrieval, vector search and knowledge platforms for LLMs / out: memory that agents keep see agents/memory"
     },
     {
       "key": "llm-infra/rag/knowledge-platforms",
@@ -1236,7 +1257,8 @@
       "key": "media/news",
       "parent": "media",
       "level": "race",
-      "label": "News and curation"
+      "label": "News and curation",
+      "scope": "in: news readers, RSS and digests / out: video see media/video"
     },
     {
       "key": "media/news/news-digests",
@@ -1248,7 +1270,8 @@
       "key": "media/speech",
       "parent": "media",
       "level": "race",
-      "label": "Speech"
+      "label": "Speech",
+      "scope": "in: speech recognition, text to speech and voice cloning / out: video see media/video"
     },
     {
       "key": "media/speech/text-to-speech",
@@ -1266,7 +1289,8 @@
       "key": "media/video",
       "parent": "media",
       "level": "race",
-      "label": "Video"
+      "label": "Video",
+      "scope": "in: video editing, processing and video made in code / out: speech and voices see media/speech"
     },
     {
       "key": "media/video/code-video",
@@ -1284,25 +1308,29 @@
       "key": "ml/embeddings",
       "parent": "ml",
       "level": "race",
-      "label": "Embeddings"
+      "label": "Embeddings",
+      "scope": "in: embedding models and libraries / out: vector search over embeddings see llm-infra/rag"
     },
     {
       "key": "ml/open-models",
       "parent": "ml",
       "level": "race",
-      "label": "Open models"
+      "label": "Open models",
+      "scope": "in: open-weight models and their releases / out: running them see llm-infra/inference"
     },
     {
       "key": "ml/training",
       "parent": "ml",
       "level": "race",
-      "label": "Training and fine-tuning"
+      "label": "Training and fine-tuning",
+      "scope": "in: training and fine-tuning models, LoRA included / out: open-weight releases see ml/open-models"
     },
     {
       "key": "ml/vision",
       "parent": "ml",
       "level": "race",
-      "label": "Computer vision"
+      "label": "Computer vision",
+      "scope": "in: computer vision models and libraries / out: training in general see ml/training"
     },
     {
       "key": "ml/vision/aerial-segmentation",
@@ -1320,25 +1348,29 @@
       "key": "mobile/android",
       "parent": "mobile",
       "level": "race",
-      "label": "Android"
+      "label": "Android",
+      "scope": "in: Android apps and libraries / out: cross-platform frameworks see mobile/cross-platform"
     },
     {
       "key": "mobile/app-backends",
       "parent": "mobile",
       "level": "race",
-      "label": "App backends"
+      "label": "App backends",
+      "scope": "in: backend-as-a-service for apps / out: databases see data/databases"
     },
     {
       "key": "mobile/cross-platform",
       "parent": "mobile",
       "level": "race",
-      "label": "Cross-platform apps"
+      "label": "Cross-platform apps",
+      "scope": "in: Flutter, React Native and other cross-platform frameworks / out: native iOS see mobile/ios"
     },
     {
       "key": "mobile/ios",
       "parent": "mobile",
       "level": "race",
-      "label": "iOS"
+      "label": "iOS",
+      "scope": "in: iOS apps, Swift and SwiftUI / out: cross-platform frameworks see mobile/cross-platform"
     },
     {
       "key": "practice",
@@ -1350,25 +1382,29 @@
       "key": "practice/architecture",
       "parent": "practice",
       "level": "race",
-      "label": "Architecture"
+      "label": "Architecture",
+      "scope": "in: software architecture and system design / out: speed and profiling see practice/performance"
     },
     {
       "key": "practice/performance",
       "parent": "practice",
       "level": "race",
-      "label": "Performance"
+      "label": "Performance",
+      "scope": "in: profiling and making software faster / out: keeping systems up see practice/reliability"
     },
     {
       "key": "practice/process",
       "parent": "practice",
       "level": "race",
-      "label": "Engineering process"
+      "label": "Engineering process",
+      "scope": "in: engineering process, management and team practice / out: system design see practice/architecture"
     },
     {
       "key": "practice/reliability",
       "parent": "practice",
       "level": "race",
-      "label": "Reliability"
+      "label": "Reliability",
+      "scope": "in: SRE, chaos engineering and keeping systems up / out: monitoring tools see infra/observability"
     },
     {
       "key": "systems",
@@ -1400,25 +1436,29 @@
       "key": "web/cms",
       "parent": "web",
       "level": "race",
-      "label": "CMS"
+      "label": "CMS",
+      "scope": "in: content management systems, headless ones included / out: static site generators see web/static-sites"
     },
     {
       "key": "web/css",
       "parent": "web",
       "level": "race",
-      "label": "CSS"
+      "label": "CSS",
+      "scope": "in: CSS, Tailwind and styling frameworks / out: component libraries see web/ui-components"
     },
     {
       "key": "web/frameworks",
       "parent": "web",
       "level": "race",
-      "label": "Web frameworks"
+      "label": "Web frameworks",
+      "scope": "in: web application frameworks / out: static site generators see web/static-sites"
     },
     {
       "key": "web/static-sites",
       "parent": "web",
       "level": "race",
-      "label": "Static sites"
+      "label": "Static sites",
+      "scope": "in: static site generators / out: full web frameworks see web/frameworks"
     },
     {
       "key": "web/ui-components",
@@ -1450,8 +1490,10 @@
     "agentic-framework": "agents/frameworks",
     "agentic-rag": "llm-infra/rag",
     "agents/tools/cad": "agents/tools/text-to-cad",
+    "agile": "practice/process",
     "ai-chat": "llm-infra/chat-apps",
     "ai-coding-agent": "agents/coding",
+    "ai-gateway": "llm-infra/gateways",
     "ai-memory": "agents/memory/long-term-memory",
     "ai-orchestration": "agents/orchestration/agent-teams",
     "ai-penetration-testing": "cyber/offensive/ai-pentesting",
@@ -1473,6 +1515,7 @@
     "auto-update": "desktop/packaging",
     "autonomous-agents": "agents/assistants",
     "baas": "mobile/app-backends",
+    "backend-as-a-service": "mobile/app-backends",
     "backtest": "finance/trading/backtesting",
     "bim": "engineering/bim",
     "binary-analysis": "cyber/reversing",
@@ -1520,6 +1563,7 @@
     "compiler": "languages/compilers",
     "component-library": "web/ui-components",
     "compression": "agents/context/output-compression",
+    "computer-vision": "ml/vision",
     "containerd": "infra/containers",
     "content-curation": "media/news/news-digests",
     "context-compression": "agents/context/context-compaction",
@@ -1550,6 +1594,7 @@
     "design-system": "web/ui-components",
     "design-tool": "design/tools",
     "detection-engineering": "cyber/detection",
+    "developer-productivity": "practice/process",
     "device-drivers": "embedded/drivers",
     "devtools": "dev-tools",
     "diagramming": "dev-tools/diagrams",
@@ -1568,9 +1613,11 @@
     "e2e": "dev-tools/testing/e2e-testing",
     "e2e-testing": "dev-tools/testing/e2e-testing",
     "eda": "engineering/eda",
+    "edge-functions": "infra/serverless",
     "electron": "desktop/app-shells",
     "embedded-ai": "agents/frameworks/embedded-agents",
     "embedding-models": "ml/embeddings",
+    "embeddings": "ml/embeddings",
     "end-to-end-testing": "dev-tools/testing/e2e-testing",
     "engineering-management": "practice/process",
     "enterprise-search": "llm-infra/rag/knowledge-platforms",
@@ -1582,6 +1629,7 @@
     "eventsourcing": "agents/frameworks/agent-workflows",
     "exercises": "learning/exercises",
     "faas": "infra/serverless",
+    "factor-investing": "finance/quant",
     "fea": "engineering/simulation",
     "financial-analysis": "finance/markets/research-terminals",
     "financial-data": "finance/markets/market-data",
@@ -1610,6 +1658,7 @@
     "gui-toolkit": "desktop/native-ui",
     "hdl": "engineering/hdl",
     "headless-cms": "web/cms",
+    "homelab": "infra/hosting",
     "hosting-panel": "infra/hosting/control-panels",
     "household-finance": "finance/personal",
     "iam": "cyber/identity",
@@ -1644,6 +1693,7 @@
     "llm-eval": "llm-infra/evals",
     "llm-evaluation": "llm-infra/evals",
     "llm-memory": "agents/memory",
+    "llm-proxy": "llm-infra/gateways",
     "llm-security": "cyber/agent-security",
     "llm-trading": "finance/trading/trading-agents",
     "llm-training": "ml/training",
@@ -1684,8 +1734,10 @@
     "nerdctl": "infra/containers",
     "net-worth": "finance/personal/wealth-tracking",
     "neural-tts": "media/speech/text-to-speech",
+    "news": "media/news",
     "news-aggregator": "media/news/news-digests",
     "nextjs": "web/frameworks",
+    "object-detection": "ml/vision",
     "object-storage": "data/storage/object-storage",
     "offensive-security": "cyber/offensive",
     "oidc": "cyber/identity/iam",
@@ -1708,6 +1760,7 @@
     "pcb": "engineering/eda",
     "penetration-testing": "cyber/offensive/ai-pentesting",
     "pentesting-tools": "cyber/offensive/ai-pentesting",
+    "performance-optimization": "practice/performance",
     "personal-assistant": "agents/assistants",
     "personal-finance": "finance/personal",
     "petroleum-engineering": "engineering/subsurface",
@@ -1716,6 +1769,7 @@
     "portfolio-tracker": "finance/personal/wealth-tracking",
     "process-engineering": "engineering/process",
     "process-simulation": "engineering/process",
+    "profiler": "practice/performance",
     "profiling": "practice/performance",
     "project-brain": "agents/memory/project-memory",
     "project-memory": "agents/memory/project-memory",
@@ -1728,6 +1782,7 @@
     "pulumi": "infra/iac",
     "quant": "finance/quant/quant-ml",
     "quantitative-finance": "finance/quant/quant-ml",
+    "quantitative-research": "finance/quant",
     "quantitative-trading": "finance/quant/quant-ml",
     "quantum-chemistry": "engineering/chemistry",
     "question-answering": "llm-infra/rag/knowledge-platforms",
@@ -1741,16 +1796,19 @@
     "robotics": "embedded/robotics",
     "ros": "embedded/robotics",
     "ros2": "embedded/robotics",
+    "rss-reader": "media/news",
     "rtl": "engineering/hdl",
     "rtos": "embedded/rtos",
     "runtime-security": "cyber/agent-security/runtime-guardrails",
     "s3-storage": "data/storage/object-storage",
     "saml": "cyber/identity/iam",
+    "sandboxing": "infra/isolation",
     "sast": "cyber/appsec",
     "sbom": "cyber/supply-chain",
     "schematic": "engineering/eda",
     "screen-reader": "design/accessibility",
     "search-engine": "data/search",
+    "seccomp": "infra/isolation",
     "secret-management": "cyber/identity/secrets-management",
     "secret-manager": "cyber/identity/secrets-management",
     "secrets-management": "cyber/identity/secrets-management",
@@ -1758,9 +1816,12 @@
     "security-scanner": "cyber/agent-security/skill-scanning",
     "security-training": "learning/security-labs",
     "seismic": "engineering/subsurface",
+    "self-hosting": "infra/hosting",
+    "sentence-embeddings": "ml/embeddings",
     "serialization": "data/serialization",
     "serializer": "data/serialization",
     "server-management": "infra/hosting/control-panels",
+    "serverless": "infra/serverless",
     "shaders": "games/graphics",
     "siem": "cyber/detection",
     "sigma-rules": "cyber/detection",
@@ -1772,13 +1833,17 @@
     "software-supply-chain": "cyber/supply-chain",
     "solid-modeling": "engineering/cad",
     "spatial-data": "data/geospatial",
+    "speech-recognition": "media/speech",
+    "speech-to-text": "media/speech",
     "spice": "engineering/eda",
     "sre": "practice/reliability",
     "ssg": "web/static-sites",
     "static-site-generator": "web/static-sites",
     "stealth": "agents/tools/browser-automation",
+    "stock-analysis": "finance/markets",
     "stock-data": "finance/markets/market-data",
     "stock-market": "finance/markets/market-data",
+    "stocks": "finance/markets",
     "storage": "data/storage",
     "structural-analysis": "engineering/simulation",
     "supermemory": "agents/memory/long-term-memory",
@@ -1801,8 +1866,10 @@
     "threat-intelligence": "cyber/threat-intel",
     "token-optimization": "agents/context/output-compression",
     "tool-use": "agents/tools",
+    "trading": "finance/trading",
     "trading-agent": "finance/trading/trading-agents",
     "trading-bot": "finance/trading/trading-bots",
+    "trading-strategies": "finance/trading",
     "tree-sitter": "agents/code-intel/code-graphs",
     "tts": "media/speech/text-to-speech",
     "tui": "desktop/terminal-ui",
@@ -1822,6 +1889,8 @@
     "verilog": "engineering/hdl",
     "version-control": "dev-tools/vcs",
     "vhdl": "engineering/hdl",
+    "video": "media/video",
+    "video-editing": "media/video",
     "voice-ai": "media/speech",
     "voice-cloning": "media/speech/voice-cloning",
     "voice-generation": "media/speech/text-to-speech",

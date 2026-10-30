@@ -1,0 +1,55 @@
+{
+  "id": "gh:l0ne-6/workbuddy-daily",
+  "kind": "repo",
+  "url": "https://github.com/L0NE-6/WorkBuddy-Daily",
+  "title": "WorkBuddy-Daily",
+  "why": "Python script that signs in to the WorkBuddy growth center every day and claims tasks, scheduled by Qinglong or GitHub Actions.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "infra/ci-cd"
+    ],
+    "capabilities": [
+      "agents/assistants/task-automation"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/L0NE-6/WorkBuddy-Daily",
+    "sha": "8b01b521eac043073219e845b29a7aba0113ca68",
+    "file_url": "https://cdn.jsdelivr.net/gh/L0NE-6/WorkBuddy-Daily@8b01b521eac043073219e845b29a7aba0113ca68/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 456,
+    "size_mb": 1,
+    "created_at": "2026-09-12T09:18:58Z",
+    "last_commit_at": "2026-10-30T07:57:38Z",
+    "releases": 32,
+    "tags": 32,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

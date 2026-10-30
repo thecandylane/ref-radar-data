@@ -1,0 +1,59 @@
+{
+  "id": "gh:erfnzdeh/telegram-serverless-bot-template",
+  "kind": "repo",
+  "url": "https://github.com/erfnzdeh/Telegram-Serverless-Bot-Template",
+  "title": "Telegram-Serverless-Bot-Template",
+  "why": "Starter Telegram bot on tgcloud serverless: a todo example showing how to wire handlers, keep state in SQLite and deploy with migrations.",
+  "keys": {
+    "races": [
+      "agents/frameworks",
+      "infra/serverless"
+    ],
+    "lanes": [
+      "agents/frameworks",
+      "infra/serverless"
+    ],
+    "capabilities": [
+      "agents/frameworks/bot-frameworks"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/erfnzdeh/Telegram-Serverless-Bot-Template",
+    "sha": "acb0d841b2845bdd6e2344fc85a32a32a784fe8e",
+    "file_url": "https://cdn.jsdelivr.net/gh/erfnzdeh/Telegram-Serverless-Bot-Template@acb0d841b2845bdd6e2344fc85a32a32a784fe8e/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 184,
+    "size_mb": 0,
+    "created_at": "2026-08-08T14:08:55Z",
+    "last_commit_at": "2026-09-11T13:01:53Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "gh:modelscope/ms-cookbook",
+  "kind": "repo",
+  "url": "https://github.com/modelscope/ms-cookbook",
+  "title": "ms-cookbook",
+  "why": "Walks developers from running a first open model through fine-tuning, evaluation, RAG and agents to a working app, in a ModelScope guide.",
+  "keys": {
+    "races": [
+      "learning/courses",
+      "llm-infra/evals",
+      "llm-infra/rag",
+      "ml/open-models",
+      "ml/training"
+    ],
+    "lanes": [
+      "learning/courses",
+      "llm-infra/evals",
+      "llm-infra/rag",
+      "ml/open-models",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/modelscope/ms-cookbook",
+    "sha": "0779772670f5183f69b6595923b9eb8ee7bcfbce",
+    "file_url": "https://cdn.jsdelivr.net/gh/modelscope/ms-cookbook@0779772670f5183f69b6595923b9eb8ee7bcfbce/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "Apache-2.0",
+    "stars": 509,
+    "size_mb": 149,
+    "created_at": "2026-09-11T14:27:35Z",
+    "last_commit_at": "2026-10-30T07:58:45Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "gh:vicoa-ai/vicoa",
+  "kind": "repo",
+  "url": "https://github.com/vicoa-ai/vicoa",
+  "title": "vicoa",
+  "why": "Runs a team of Claude Code, Codex and opencode agents from desktop, phone or a VPS, with a self-hosted backend.",
+  "keys": {
+    "races": [
+      "agents/clients",
+      "agents/coding",
+      "agents/orchestration"
+    ],
+    "lanes": [
+      "agents/clients",
+      "agents/coding",
+      "agents/orchestration"
+    ],
+    "capabilities": [
+      "agents/clients/desktop-apps",
+      "agents/clients/mobile-apps",
+      "agents/orchestration/agent-teams"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vicoa-ai/vicoa",
+    "sha": "a4c814378eb9e11e9be7ecfcbc8f62d8490cc5da",
+    "file_url": "https://cdn.jsdelivr.net/gh/vicoa-ai/vicoa@a4c814378eb9e11e9be7ecfcbc8f62d8490cc5da/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 524,
+    "size_mb": 51,
+    "created_at": "2026-08-28T16:30:26Z",
+    "last_commit_at": "2026-10-30T06:24:47Z",
+    "releases": 24,
+    "tags": 68,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

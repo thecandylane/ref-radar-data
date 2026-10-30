@@ -1,0 +1,54 @@
+{
+  "id": "gh:npmscan/npmscan-action",
+  "kind": "repo",
+  "url": "https://github.com/NPMscan/npmscan-action",
+  "title": "npmscan-action",
+  "why": "A GitHub Action that scans npm dependency changes for malware and supply-chain risk before they merge.",
+  "keys": {
+    "races": [
+      "cyber/supply-chain",
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "cyber/supply-chain",
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NPMscan/npmscan-action",
+    "sha": "35fe8c5cd0c29d7f595d9686b51074d8c7b10dec",
+    "file_url": "https://cdn.jsdelivr.net/gh/NPMscan/npmscan-action@35fe8c5cd0c29d7f595d9686b51074d8c7b10dec/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 503,
+    "size_mb": 0,
+    "created_at": "2026-10-02T11:15:15Z",
+    "last_commit_at": "2026-10-29T18:08:20Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "fresh": true
+}

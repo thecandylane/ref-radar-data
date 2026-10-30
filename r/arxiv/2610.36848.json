@@ -1,0 +1,42 @@
+{
+  "id": "arxiv:2610.36848",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.36848",
+  "title": "Evolving Agent Teams",
+  "why": "A supervisor restructures stalled coding-agent teams for GPU kernels, and one run beat the FlashInfer MLA decode kernel by 1.2x.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/orchestration"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/orchestration"
+    ],
+    "capabilities": [
+      "agents/orchestration/agent-teams"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.36848"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

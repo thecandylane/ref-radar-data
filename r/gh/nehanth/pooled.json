@@ -1,0 +1,61 @@
+{
+  "id": "gh:nehanth/pooled",
+  "kind": "repo",
+  "url": "https://github.com/Nehanth/pooled",
+  "title": "pooled",
+  "why": "Pools devices over WebRTC and runs big open models in the browser with WebGPU, using speculative decoding to speed up chat.",
+  "keys": {
+    "races": [
+      "llm-infra/chat-apps",
+      "llm-infra/inference",
+      "ml/open-models"
+    ],
+    "lanes": [
+      "llm-infra/chat-apps",
+      "llm-infra/inference",
+      "ml/open-models"
+    ],
+    "capabilities": [
+      "llm-infra/inference/distributed-inference"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Nehanth/pooled",
+    "sha": "6b4a24f73cce7ef9a9e3ab35b9a0d4c09b51dfff",
+    "file_url": "https://cdn.jsdelivr.net/gh/Nehanth/pooled@6b4a24f73cce7ef9a9e3ab35b9a0d4c09b51dfff/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 619,
+    "size_mb": 187,
+    "created_at": "2026-09-01T00:05:54Z",
+    "last_commit_at": "2026-10-16T21:30:11Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

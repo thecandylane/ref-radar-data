@@ -1,0 +1,42 @@
+{
+  "id": "arxiv:2610.36108",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.36108",
+  "title": "Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol",
+  "why": "Shows how poisoned MCP tool descriptions can make an agent log the user query to an attacker, with 62.64-100% attack success.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "cyber/agent-security"
+    ],
+    "lanes": [
+      "agents/tools",
+      "cyber/agent-security"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.36108"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}
