@@ -1,7 +1,7 @@
 {
   "id": "gh:roy-tong/agentmeasure",
   "kind": "repo",
-  "url": "https://github.com/roy-tong/AgentMeasure",
+  "url": "https://github.com/roy-tong/Verovo",
   "title": "AgentMeasure",
   "why": "Counts tokens from Codex and Claude logs and re-checks billing exports, with free local tools and a conformance suite.",
   "keys": {
@@ -27,19 +27,19 @@
   ],
   "fetch": {
     "type": "git-sparse",
-    "repo": "https://github.com/roy-tong/AgentMeasure",
+    "repo": "https://github.com/roy-tong/Verovo",
     "sha": "67717ed6c8e006e5bed372db94415828ad078775",
-    "file_url": "https://cdn.jsdelivr.net/gh/roy-tong/AgentMeasure@67717ed6c8e006e5bed372db94415828ad078775/{path}"
+    "file_url": "https://cdn.jsdelivr.net/gh/roy-tong/Verovo@67717ed6c8e006e5bed372db94415828ad078775/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 219,
-    "size_mb": 4,
+    "stars": 220,
+    "size_mb": 6,
     "created_at": "2026-08-16T02:47:41Z",
-    "last_commit_at": "2026-10-29T23:36:21Z",
-    "releases": 14,
-    "tags": 14,
+    "last_commit_at": "2026-10-31T07:56:21Z",
+    "releases": 15,
+    "tags": 15,
     "archived": false
   },
   "reuse": "copy",

@@ -36,18 +36,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/can1357/oh-my-pi",
-    "sha": "b0756921ed231869ea92feef0056629a429d3fe1",
-    "file_url": "https://raw.githubusercontent.com/can1357/oh-my-pi/b0756921ed231869ea92feef0056629a429d3fe1/{path}"
+    "sha": "6a86df8539fccf3ad7818081266e554022fc21bc",
+    "file_url": "https://raw.githubusercontent.com/can1357/oh-my-pi/6a86df8539fccf3ad7818081266e554022fc21bc/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 37142,
-    "size_mb": 727,
+    "stars": 37264,
+    "size_mb": 730,
     "created_at": "2025-12-31T14:01:28Z",
-    "last_commit_at": "2026-10-29T22:18:21Z",
-    "releases": 674,
-    "tags": 923,
+    "last_commit_at": "2026-10-31T00:39:20Z",
+    "releases": 675,
+    "tags": 924,
     "archived": false
   },
   "reuse": "copy",
@@ -58,9 +58,16 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 823,
+    "star_delta_7d": 853,
     "votes": {},
     "ranks": {}
   },
-  "hot": true
+  "hot": true,
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched"
+    ],
+    "scanned_at": "2026-10-30T17:59:43.359Z"
+  }
 }

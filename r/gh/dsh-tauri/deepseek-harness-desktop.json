@@ -36,13 +36,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/dsh-tauri/deepseek-harness-desktop",
-    "sha": "7e4739cef673e2ed3c8a70b7e511d1c8dbd26dba",
-    "file_url": "https://cdn.jsdelivr.net/gh/dsh-tauri/deepseek-harness-desktop@7e4739cef673e2ed3c8a70b7e511d1c8dbd26dba/{path}"
+    "sha": "7972d419fb22aab06cb71cf453400c1387fc1355",
+    "file_url": "https://cdn.jsdelivr.net/gh/dsh-tauri/deepseek-harness-desktop@7972d419fb22aab06cb71cf453400c1387fc1355/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 3366,
+    "stars": 3385,
     "size_mb": 35,
     "created_at": "2026-08-14T02:36:29Z",
     "last_commit_at": "2026-10-30T06:08:51Z",
@@ -61,5 +61,12 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched"
+    ],
+    "scanned_at": "2026-10-30T18:01:07.252Z"
   }
 }

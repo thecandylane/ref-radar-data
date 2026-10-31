@@ -34,18 +34,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/earthtojake/text-to-cad",
-    "sha": "a7cf2c470e345d6b6a2fe373a73e0420ff64ad2a",
-    "file_url": "https://cdn.jsdelivr.net/gh/earthtojake/text-to-cad@a7cf2c470e345d6b6a2fe373a73e0420ff64ad2a/{path}"
+    "sha": "9f4835509da66443ba8c38378c9dc53e9dec073a",
+    "file_url": "https://cdn.jsdelivr.net/gh/earthtojake/text-to-cad@9f4835509da66443ba8c38378c9dc53e9dec073a/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 24231,
-    "size_mb": 387,
+    "stars": 24395,
+    "size_mb": 392,
     "created_at": "2026-04-22T01:09:45Z",
-    "last_commit_at": "2026-10-30T05:08:55Z",
-    "releases": 91,
-    "tags": 99,
+    "last_commit_at": "2026-10-30T19:34:03Z",
+    "releases": 92,
+    "tags": 100,
     "archived": false
   },
   "reuse": "copy",
@@ -56,9 +56,16 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 1610,
+    "star_delta_7d": 1577,
     "votes": {},
     "ranks": {}
   },
-  "hot": true
+  "hot": true,
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched"
+    ],
+    "scanned_at": "2026-10-30T18:01:20.810Z"
+  }
 }

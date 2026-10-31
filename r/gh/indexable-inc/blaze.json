@@ -28,18 +28,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/indexable-inc/blaze",
-    "sha": "87ae9fcf652e525a05fe81eb2c71323cc7faf71d",
-    "file_url": "https://cdn.jsdelivr.net/gh/indexable-inc/blaze@87ae9fcf652e525a05fe81eb2c71323cc7faf71d/{path}"
+    "sha": "f5852696ea0a3c2c865ed2cdb4379e41900f279b",
+    "file_url": "https://cdn.jsdelivr.net/gh/indexable-inc/blaze@f5852696ea0a3c2c865ed2cdb4379e41900f279b/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 1747,
-    "size_mb": 92,
+    "stars": 1798,
+    "size_mb": 119,
     "created_at": "2026-10-19T23:31:09Z",
-    "last_commit_at": "2026-10-30T06:03:51Z",
-    "releases": 25,
-    "tags": 30,
+    "last_commit_at": "2026-10-30T13:02:23Z",
+    "releases": 26,
+    "tags": 32,
     "archived": false
   },
   "reuse": "copy",
@@ -54,5 +54,13 @@
     "votes": {},
     "ranks": {}
   },
-  "fresh": true
+  "fresh": true,
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched",
+      "the scan could not read everything"
+    ],
+    "scanned_at": "2026-10-30T18:23:37.541Z"
+  }
 }

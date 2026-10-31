@@ -28,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/calmrocks/ai-engineer-notebooks",
-    "sha": "9c19528b8bd46e5c687d43ae2083df1134d431f7",
-    "file_url": "https://cdn.jsdelivr.net/gh/calmrocks/ai-engineer-notebooks@9c19528b8bd46e5c687d43ae2083df1134d431f7/{path}"
+    "sha": "d922fced4a92db8dcc9fb3702f65a008eb29fa9b",
+    "file_url": "https://cdn.jsdelivr.net/gh/calmrocks/ai-engineer-notebooks@d922fced4a92db8dcc9fb3702f65a008eb29fa9b/{path}"
   },
   "facts": {
     "lang": "Jupyter Notebook",
     "license": "MIT",
-    "stars": 717,
+    "stars": 718,
     "size_mb": 1,
     "created_at": "2026-08-11T23:17:17Z",
-    "last_commit_at": "2026-10-29T20:34:40Z",
+    "last_commit_at": "2026-10-31T04:19:07Z",
     "releases": 1,
     "tags": 1,
     "archived": false
@@ -53,5 +53,13 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code",
+      "a GuardDog rule matched"
+    ],
+    "scanned_at": "2026-10-30T08:44:41.128Z"
   }
 }

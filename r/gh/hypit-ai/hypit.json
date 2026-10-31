@@ -30,13 +30,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/hypit-ai/hypit",
-    "sha": "e26d9142fd8a6f78bf4f3cdb800d6205f4ecca16",
-    "file_url": "https://cdn.jsdelivr.net/gh/hypit-ai/hypit@e26d9142fd8a6f78bf4f3cdb800d6205f4ecca16/{path}"
+    "sha": "0762c6be56c0af43fff3cdbdb285e21414dd249b",
+    "file_url": "https://cdn.jsdelivr.net/gh/hypit-ai/hypit@0762c6be56c0af43fff3cdbdb285e21414dd249b/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 26668,
+    "stars": 26975,
     "size_mb": 27,
     "created_at": "2026-07-29T18:49:19Z",
     "last_commit_at": "2026-10-29T09:37:19Z",
@@ -55,5 +55,12 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched"
+    ],
+    "scanned_at": "2026-10-30T18:23:24.645Z"
   }
 }

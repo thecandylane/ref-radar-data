@@ -24,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/cursor/plugins",
-    "sha": "1ba91fc25c0977741dd0e267849e6234b037ed0a",
-    "file_url": "https://cdn.jsdelivr.net/gh/cursor/plugins@1ba91fc25c0977741dd0e267849e6234b037ed0a/{path}"
+    "sha": "4dd1d05818d19792e7cd6e818f1667f95f7e1dbe",
+    "file_url": "https://cdn.jsdelivr.net/gh/cursor/plugins@4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "none",
-    "stars": 14635,
+    "stars": 14771,
     "size_mb": 18,
     "created_at": "2026-01-23T01:57:42Z",
     "last_commit_at": "2026-10-29T22:51:24Z",
@@ -46,8 +46,15 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 964,
+    "star_delta_7d": 944,
     "votes": {},
     "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched"
+    ],
+    "scanned_at": "2026-10-30T18:00:24.834Z"
   }
 }

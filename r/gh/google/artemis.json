@@ -40,7 +40,7 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 15732,
+    "stars": 15860,
     "size_mb": 25,
     "created_at": "2026-08-13T17:59:37Z",
     "last_commit_at": "2026-09-29T00:29:02Z",
@@ -59,5 +59,13 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched",
+      "the scan could not read everything"
+    ],
+    "scanned_at": "2026-10-30T18:13:03.464Z"
   }
 }

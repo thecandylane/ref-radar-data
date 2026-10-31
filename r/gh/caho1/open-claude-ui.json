@@ -32,7 +32,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 1598,
+    "stars": 1602,
     "size_mb": 2,
     "created_at": "2026-10-14T14:05:05Z",
     "last_commit_at": "2026-10-21T08:39:16Z",
@@ -52,5 +52,12 @@
     "votes": {},
     "ranks": {}
   },
-  "fresh": true
+  "fresh": true,
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched"
+    ],
+    "scanned_at": "2026-10-30T08:41:29.281Z"
+  }
 }

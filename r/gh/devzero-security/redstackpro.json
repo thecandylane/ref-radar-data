@@ -53,5 +53,13 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code",
+      "a GuardDog rule matched"
+    ],
+    "scanned_at": "2026-10-30T17:52:02.810Z"
   }
 }

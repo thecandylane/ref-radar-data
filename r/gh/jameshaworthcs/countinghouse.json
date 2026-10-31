@@ -55,5 +55,12 @@
     "votes": {},
     "ranks": {}
   },
-  "fresh": true
+  "fresh": true,
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched"
+    ],
+    "scanned_at": "2026-10-30T18:16:03.787Z"
+  }
 }

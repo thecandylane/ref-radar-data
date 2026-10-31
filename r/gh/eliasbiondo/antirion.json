@@ -29,13 +29,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/eliasbiondo/antirion",
-    "sha": "08ad3b6a61991e56e74f8e15c93e4076eeadefdd",
-    "file_url": "https://cdn.jsdelivr.net/gh/eliasbiondo/antirion@08ad3b6a61991e56e74f8e15c93e4076eeadefdd/{path}"
+    "sha": "32bebb0d6f8a38fe1a9ee7fce0c854e2fa006b3b",
+    "file_url": "https://cdn.jsdelivr.net/gh/eliasbiondo/antirion@32bebb0d6f8a38fe1a9ee7fce0c854e2fa006b3b/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 476,
+    "stars": 508,
     "size_mb": 12,
     "created_at": "2026-10-17T21:43:39Z",
     "last_commit_at": "2026-10-29T20:54:58Z",
@@ -55,5 +55,12 @@
     "votes": {},
     "ranks": {}
   },
-  "fresh": true
+  "fresh": true,
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched"
+    ],
+    "scanned_at": "2026-10-30T18:02:52.594Z"
+  }
 }

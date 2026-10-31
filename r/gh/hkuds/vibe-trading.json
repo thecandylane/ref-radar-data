@@ -31,13 +31,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/HKUDS/Vibe-Trading",
-    "sha": "956ade09c9cd1c1d2c0c484a0916aca68e6acb3f",
-    "file_url": "https://cdn.jsdelivr.net/gh/HKUDS/Vibe-Trading@956ade09c9cd1c1d2c0c484a0916aca68e6acb3f/{path}"
+    "sha": "78fab6b3f998583f640820db60c155ffa5641a62",
+    "file_url": "https://cdn.jsdelivr.net/gh/HKUDS/Vibe-Trading@78fab6b3f998583f640820db60c155ffa5641a62/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 37181,
+    "stars": 37258,
     "size_mb": 92,
     "created_at": "2026-04-01T09:52:20Z",
     "last_commit_at": "2026-10-30T03:45:47Z",
@@ -53,9 +53,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 820,
+    "star_delta_7d": 792,
     "votes": {},
     "ranks": {}
   },
-  "hot": true
+  "hot": true,
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched",
+      "the scan could not read everything"
+    ],
+    "scanned_at": "2026-10-30T18:22:19.880Z"
+  }
 }

@@ -24,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apimartrvgd4/llm-gateway-sdk-node",
-    "sha": "1f751136704314e5455706d9e784ae98e4185f9b",
-    "file_url": "https://cdn.jsdelivr.net/gh/apimartrvgd4/llm-gateway-sdk-node@1f751136704314e5455706d9e784ae98e4185f9b/{path}"
+    "sha": "0e2c754a651985b7ad69678be331beaec5595ad7",
+    "file_url": "https://cdn.jsdelivr.net/gh/apimartrvgd4/llm-gateway-sdk-node@0e2c754a651985b7ad69678be331beaec5595ad7/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -50,5 +50,12 @@
     "votes": {},
     "ranks": {}
   },
-  "fresh": true
+  "fresh": true,
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched"
+    ],
+    "scanned_at": "2026-10-30T08:44:26.309Z"
+  }
 }

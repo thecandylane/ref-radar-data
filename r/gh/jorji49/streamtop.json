@@ -34,10 +34,10 @@
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 122,
+    "stars": 124,
     "size_mb": 1,
     "created_at": "2026-08-25T14:20:11Z",
-    "last_commit_at": "2026-10-28T23:16:36Z",
+    "last_commit_at": "2026-10-30T21:33:01Z",
     "releases": 17,
     "tags": 20,
     "archived": false
@@ -53,5 +53,12 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched"
+    ],
+    "scanned_at": "2026-10-30T18:16:33.716Z"
   }
 }

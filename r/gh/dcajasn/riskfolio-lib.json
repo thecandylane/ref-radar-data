@@ -28,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/dcajasn/Riskfolio-Lib",
-    "sha": "f6eecf5c62533a198dbd996ced43027debfacf05",
-    "file_url": "https://cdn.jsdelivr.net/gh/dcajasn/Riskfolio-Lib@f6eecf5c62533a198dbd996ced43027debfacf05/{path}"
+    "sha": "7c5429f486d4b3d76bcee4c43a8864a11cfd9795",
+    "file_url": "https://cdn.jsdelivr.net/gh/dcajasn/Riskfolio-Lib@7c5429f486d4b3d76bcee4c43a8864a11cfd9795/{path}"
   },
   "facts": {
     "lang": "C++",
@@ -37,7 +37,7 @@
     "stars": 4579,
     "size_mb": 246,
     "created_at": "2020-03-02T19:49:06Z",
-    "last_commit_at": "2026-10-29T16:40:14Z",
+    "last_commit_at": "2026-10-30T16:05:31Z",
     "releases": 0,
     "tags": 0,
     "archived": false
@@ -50,8 +50,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 19,
+    "star_delta_7d": 16,
     "votes": {},
     "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched",
+      "the scan could not read everything"
+    ],
+    "scanned_at": "2026-10-30T18:00:32.118Z"
   }
 }

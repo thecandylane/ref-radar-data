@@ -24,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/cporter202/coreclaw-api-directory",
-    "sha": "62123b5915b1a9c9d77a7e42813ecabc6fcb5cbf",
-    "file_url": "https://cdn.jsdelivr.net/gh/cporter202/coreclaw-api-directory@62123b5915b1a9c9d77a7e42813ecabc6fcb5cbf/{path}"
+    "sha": "f7f20d505f3709aefcf6ea892844dc79c80ac31c",
+    "file_url": "https://cdn.jsdelivr.net/gh/cporter202/coreclaw-api-directory@f7f20d505f3709aefcf6ea892844dc79c80ac31c/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -33,7 +33,7 @@
     "stars": 179,
     "size_mb": 4,
     "created_at": "2026-07-22T03:35:56Z",
-    "last_commit_at": "2026-10-29T10:02:26Z",
+    "last_commit_at": "2026-10-30T10:05:44Z",
     "releases": 0,
     "tags": 0,
     "archived": false
@@ -49,5 +49,12 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched"
+    ],
+    "scanned_at": "2026-10-30T18:00:18.770Z"
   }
 }
