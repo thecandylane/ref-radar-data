@@ -34,8 +34,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/kanryu/hike-lang",
-    "sha": "b8b7c860f2ea38c543fdbfef1e091cc68a9ac5a8",
-    "file_url": "https://cdn.jsdelivr.net/gh/kanryu/hike-lang@b8b7c860f2ea38c543fdbfef1e091cc68a9ac5a8/{path}"
+    "sha": "b9700a182ca36df429895fef0ca09b6a81258839",
+    "file_url": "https://cdn.jsdelivr.net/gh/kanryu/hike-lang@b9700a182ca36df429895fef0ca09b6a81258839/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -43,7 +43,7 @@
     "stars": 97,
     "size_mb": 3,
     "created_at": "2026-08-30T12:17:13Z",
-    "last_commit_at": "2026-10-29T12:15:20Z",
+    "last_commit_at": "2026-11-01T08:00:30Z",
     "releases": 0,
     "tags": 0,
     "archived": false
@@ -59,5 +59,12 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched"
+    ],
+    "scanned_at": "2026-10-31T09:20:59.570Z"
   }
 }

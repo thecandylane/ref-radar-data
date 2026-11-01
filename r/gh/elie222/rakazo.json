@@ -36,16 +36,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/elie222/rakazo",
-    "sha": "044af2ad5264eeea2b82c8bb51223f916d7b380e",
-    "file_url": "https://cdn.jsdelivr.net/gh/elie222/rakazo@044af2ad5264eeea2b82c8bb51223f916d7b380e/{path}"
+    "sha": "bdf5862e540c6d52513c7d58aed3c99b8cef75d7",
+    "file_url": "https://cdn.jsdelivr.net/gh/elie222/rakazo@bdf5862e540c6d52513c7d58aed3c99b8cef75d7/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 6393,
-    "size_mb": 123,
+    "stars": 6494,
+    "size_mb": 126,
     "created_at": "2026-08-13T06:28:56Z",
-    "last_commit_at": "2026-10-31T06:53:44Z",
+    "last_commit_at": "2026-11-01T06:36:53Z",
     "releases": 15,
     "tags": 17,
     "archived": false
@@ -65,8 +65,9 @@
   "risk": {
     "level": "caution",
     "signals": [
-      "a GuardDog rule matched"
+      "a GuardDog rule matched",
+      "the scan could not read everything"
     ],
-    "scanned_at": "2026-10-30T18:03:12.701Z"
+    "scanned_at": "2026-10-31T09:17:28.138Z"
   }
 }

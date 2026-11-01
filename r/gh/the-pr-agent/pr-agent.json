@@ -1,0 +1,55 @@
+{
+  "id": "gh:the-pr-agent/pr-agent",
+  "kind": "repo",
+  "url": "https://github.com/The-PR-Agent/pr-agent",
+  "title": "pr-agent",
+  "why": "Pull request reviewer that runs as a GitHub Action or Docker image and works with OpenAI, Anthropic or Ollama models.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "dev-tools/code-review"
+    ],
+    "lanes": [
+      "agents/coding",
+      "dev-tools/code-review"
+    ],
+    "capabilities": [
+      "dev-tools/code-review/ai-code-review"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/The-PR-Agent/pr-agent",
+    "sha": "04b641aa3c8ddbff111eeafb8cf0e8ea1ab8df2c",
+    "file_url": "https://cdn.jsdelivr.net/gh/The-PR-Agent/pr-agent@04b641aa3c8ddbff111eeafb8cf0e8ea1ab8df2c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 13850,
+    "size_mb": 159,
+    "created_at": "2023-07-05T21:02:15Z",
+    "last_commit_at": "2026-11-01T08:49:14Z",
+    "releases": 41,
+    "tags": 42,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

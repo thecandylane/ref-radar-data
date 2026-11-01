@@ -33,10 +33,10 @@
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 9875,
-    "size_mb": 149,
+    "stars": 10231,
+    "size_mb": 153,
     "created_at": "2026-09-26T10:10:41Z",
-    "last_commit_at": "2026-10-29T05:50:59Z",
+    "last_commit_at": "2026-10-31T14:52:58Z",
     "releases": 4,
     "tags": 4,
     "archived": false
@@ -52,5 +52,14 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code",
+      "a GuardDog rule matched",
+      "the scan could not read everything"
+    ],
+    "scanned_at": "2026-10-31T09:08:40.086Z"
   }
 }

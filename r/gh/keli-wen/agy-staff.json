@@ -30,13 +30,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/keli-wen/agy-staff",
-    "sha": "79254522dbf622d197e30ae352785861b632e71c",
-    "file_url": "https://cdn.jsdelivr.net/gh/keli-wen/agy-staff@79254522dbf622d197e30ae352785861b632e71c/{path}"
+    "sha": "bbc38e09017f5ca82f1c2afa6aba2d23e26bcb0b",
+    "file_url": "https://cdn.jsdelivr.net/gh/keli-wen/agy-staff@bbc38e09017f5ca82f1c2afa6aba2d23e26bcb0b/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 801,
+    "stars": 802,
     "size_mb": 11,
     "created_at": "2026-08-18T16:08:25Z",
     "last_commit_at": "2026-10-30T14:51:09Z",
@@ -55,5 +55,12 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched"
+    ],
+    "scanned_at": "2026-10-31T09:22:20.226Z"
   }
 }

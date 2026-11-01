@@ -28,18 +28,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/kajisho5/ffmpeg-skill",
-    "sha": "1ae1bdf1ca0adbb1606fbca493948b1bbb2f83ff",
-    "file_url": "https://cdn.jsdelivr.net/gh/kajisho5/ffmpeg-skill@1ae1bdf1ca0adbb1606fbca493948b1bbb2f83ff/{path}"
+    "sha": "76163c997ea1a4d05a64cbacd747a441c5df3e21",
+    "file_url": "https://cdn.jsdelivr.net/gh/kajisho5/ffmpeg-skill@76163c997ea1a4d05a64cbacd747a441c5df3e21/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 4129,
-    "size_mb": 29,
+    "stars": 4217,
+    "size_mb": 36,
     "created_at": "2026-09-03T14:33:38Z",
-    "last_commit_at": "2026-10-31T05:45:36Z",
-    "releases": 144,
-    "tags": 144,
+    "last_commit_at": "2026-10-31T22:51:23Z",
+    "releases": 149,
+    "tags": 149,
     "archived": false
   },
   "reuse": "copy",
@@ -53,5 +53,12 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a GuardDog rule matched"
+    ],
+    "scanned_at": "2026-10-31T09:20:47.831Z"
   }
 }

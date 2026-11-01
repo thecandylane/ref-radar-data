@@ -1,0 +1,57 @@
+{
+  "id": "gh:firecracker-microvm/firecracker",
+  "kind": "repo",
+  "url": "https://github.com/firecracker-microvm/firecracker",
+  "title": "firecracker",
+  "why": "Rust virtual machine monitor for minimal sandboxed microVMs, built to run serverless workloads with oversubscription.",
+  "keys": {
+    "races": [
+      "infra/isolation",
+      "infra/serverless"
+    ],
+    "lanes": [
+      "infra/isolation",
+      "infra/serverless"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/firecracker-microvm/firecracker",
+    "sha": "ab198c7aa1f72cb30541165c20be27dbd1b88c2e",
+    "file_url": "https://cdn.jsdelivr.net/gh/firecracker-microvm/firecracker@ab198c7aa1f72cb30541165c20be27dbd1b88c2e/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 37759,
+    "size_mb": 43,
+    "created_at": "2017-10-19T06:18:47Z",
+    "last_commit_at": "2026-10-30T14:49:50Z",
+    "releases": 92,
+    "tags": 109,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}
