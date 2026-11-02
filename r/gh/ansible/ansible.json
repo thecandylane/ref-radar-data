@@ -1,0 +1,55 @@
+{
+  "id": "gh:ansible/ansible",
+  "kind": "repo",
+  "url": "https://github.com/ansible/ansible",
+  "title": "ansible",
+  "why": "Automates deployment, network and cloud tasks over SSH from readable task files, leaving remote hosts untouched.",
+  "keys": {
+    "races": [
+      "infra/iac"
+    ],
+    "lanes": [
+      "infra/iac"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ansible/ansible",
+    "sha": "025bb4d508b0a649b91f346334d557bc65736665",
+    "file_url": "https://cdn.jsdelivr.net/gh/ansible/ansible@025bb4d508b0a649b91f346334d557bc65736665/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 71195,
+    "size_mb": 261,
+    "created_at": "2012-03-06T14:58:02Z",
+    "last_commit_at": "2026-10-30T18:56:36Z",
+    "releases": 271,
+    "tags": 757,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

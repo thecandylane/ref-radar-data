@@ -1,0 +1,53 @@
+{
+  "id": "gh:gkd-kit/gkd",
+  "kind": "repo",
+  "url": "https://github.com/gkd-kit/gkd",
+  "title": "gkd",
+  "why": "Taps screen elements on Android when a rule matches, using a CSS-like selector over accessibility nodes and subscription rules.",
+  "keys": {
+    "races": [
+      "design/accessibility",
+      "mobile/android"
+    ],
+    "lanes": [
+      "design/accessibility",
+      "mobile/android"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gkd-kit/gkd",
+    "sha": "344efde836fada671772ea5c5c38531913093349",
+    "file_url": "https://cdn.jsdelivr.net/gh/gkd-kit/gkd@344efde836fada671772ea5c5c38531913093349/{path}"
+  },
+  "facts": {
+    "lang": "Kotlin",
+    "license": "GPL-3.0",
+    "stars": 43868,
+    "size_mb": 9,
+    "created_at": "2023-07-04T03:59:15Z",
+    "last_commit_at": "2026-11-02T07:56:42Z",
+    "releases": 80,
+    "tags": 88,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -28,18 +28,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ch6vip/fqapp",
-    "sha": "07cfb2249d4fd57d19bf4420af0e97621ec92df9",
-    "file_url": "https://cdn.jsdelivr.net/gh/ch6vip/fqapp@07cfb2249d4fd57d19bf4420af0e97621ec92df9/{path}"
+    "sha": "07ba498eeecabcefea94b9cbfc2ba3c572223075",
+    "file_url": "https://cdn.jsdelivr.net/gh/ch6vip/fqapp@07ba498eeecabcefea94b9cbfc2ba3c572223075/{path}"
   },
   "facts": {
     "lang": "Dart",
     "license": "GPL-3.0",
-    "stars": 1023,
+    "stars": 1053,
     "size_mb": 17,
     "created_at": "2026-09-01T18:58:43Z",
-    "last_commit_at": "2026-11-01T02:44:19Z",
-    "releases": 4,
-    "tags": 9,
+    "last_commit_at": "2026-11-02T04:53:40Z",
+    "releases": 5,
+    "tags": 10,
     "archived": false
   },
   "reuse": "copyleft",
@@ -53,12 +53,5 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  },
-  "risk": {
-    "level": "caution",
-    "signals": [
-      "a GuardDog rule matched"
-    ],
-    "scanned_at": "2026-10-30T18:00:13.723Z"
   }
 }

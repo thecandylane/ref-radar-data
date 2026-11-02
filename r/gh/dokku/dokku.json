@@ -1,0 +1,51 @@
+{
+  "id": "gh:dokku/dokku",
+  "kind": "repo",
+  "url": "https://github.com/dokku/dokku",
+  "title": "dokku",
+  "why": "Heroku-style PaaS on your own host that runs apps in Docker, with buildpacks and a plugin system for the application lifecycle.",
+  "keys": {
+    "races": [
+      "infra/hosting"
+    ],
+    "lanes": [
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dokku/dokku",
+    "sha": "0e1b8b4793901cfcdb41b591d865040e978ea3ba",
+    "file_url": "https://cdn.jsdelivr.net/gh/dokku/dokku@0e1b8b4793901cfcdb41b591d865040e978ea3ba/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 32220,
+    "size_mb": 26,
+    "created_at": "2013-06-08T10:26:57Z",
+    "last_commit_at": "2026-11-02T05:31:58Z",
+    "releases": 356,
+    "tags": 361,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

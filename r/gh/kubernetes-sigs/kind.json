@@ -1,0 +1,61 @@
+{
+  "id": "gh:kubernetes-sigs/kind",
+  "kind": "repo",
+  "url": "https://github.com/kubernetes-sigs/kind",
+  "title": "kind",
+  "why": "Spins up disposable Kubernetes clusters inside Docker or Podman containers so tests can run on a laptop.",
+  "keys": {
+    "races": [
+      "dev-tools/testing",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "dev-tools/testing",
+      "infra/kubernetes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kubernetes-sigs/kind",
+    "sha": "46b5d280a425a0e50511712d84b31a0a36a7191f",
+    "file_url": "https://cdn.jsdelivr.net/gh/kubernetes-sigs/kind@46b5d280a425a0e50511712d84b31a0a36a7191f/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 15588,
+    "size_mb": 14,
+    "created_at": "2018-09-12T21:45:05Z",
+    "last_commit_at": "2026-10-29T20:59:39Z",
+    "releases": 39,
+    "tags": 62,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "gh:ivenkoolab/loci",
+  "kind": "repo",
+  "url": "https://github.com/IvenKooLab/loci",
+  "title": "loci",
+  "why": "Local index that shares one memory across AI coding tools, answering questions with citations through hybrid search over MCP or HTTP.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "agents/tools",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "agents/memory",
+      "agents/tools",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "agents/memory/long-term-memory",
+      "agents/tools/mcp-servers",
+      "llm-infra/rag/knowledge-platforms"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/IvenKooLab/loci",
+    "sha": "0b897f8370474186201825848cf147a9efa9129c",
+    "file_url": "https://cdn.jsdelivr.net/gh/IvenKooLab/loci@0b897f8370474186201825848cf147a9efa9129c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 101,
+    "size_mb": 3,
+    "created_at": "2026-09-03T16:50:08Z",
+    "last_commit_at": "2026-11-01T16:11:07Z",
+    "releases": 7,
+    "tags": 8,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

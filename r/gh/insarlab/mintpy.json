@@ -1,0 +1,53 @@
+{
+  "id": "gh:insarlab/mintpy",
+  "kind": "repo",
+  "url": "https://github.com/insarlab/MintPy",
+  "title": "MintPy",
+  "why": "Compute ground deformation time series from Sentinel-1 radar data for volcano and earthquake studies.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "engineering/subsurface"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "engineering/subsurface"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/insarlab/MintPy",
+    "sha": "cc441486e3ca68212dec5deb5b0adf29abaa04f7",
+    "file_url": "https://cdn.jsdelivr.net/gh/insarlab/MintPy@cc441486e3ca68212dec5deb5b0adf29abaa04f7/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 841,
+    "size_mb": 80,
+    "created_at": "2014-08-29T03:36:46Z",
+    "last_commit_at": "2026-10-20T00:35:30Z",
+    "releases": 30,
+    "tags": 30,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

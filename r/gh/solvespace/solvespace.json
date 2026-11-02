@@ -1,0 +1,59 @@
+{
+  "id": "gh:solvespace/solvespace",
+  "kind": "repo",
+  "url": "https://github.com/solvespace/solvespace",
+  "title": "solvespace",
+  "why": "Dimension-driven sketching for 2D and 3D parts, with a C++ core plus Python and JavaScript bindings beside the app.",
+  "keys": {
+    "races": [
+      "engineering/cad"
+    ],
+    "lanes": [
+      "engineering/cad"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/solvespace/solvespace",
+    "sha": "0fa4c51c23ce9b39bc1624f9108fd06ead7f475a",
+    "file_url": "https://cdn.jsdelivr.net/gh/solvespace/solvespace@0fa4c51c23ce9b39bc1624f9108fd06ead7f475a/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-3.0",
+    "stars": 4228,
+    "size_mb": 24,
+    "created_at": "2015-03-26T03:39:11Z",
+    "last_commit_at": "2026-10-31T22:21:40Z",
+    "releases": 13,
+    "tags": 13,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

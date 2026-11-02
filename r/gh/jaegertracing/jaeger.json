@@ -1,0 +1,65 @@
+{
+  "id": "gh:jaegertracing/jaeger",
+  "kind": "repo",
+  "url": "https://github.com/jaegertracing/jaeger",
+  "title": "jaeger",
+  "why": "Follows requests across distributed services using OpenTelemetry data, with a jaeger-ui front end and docker-compose examples.",
+  "keys": {
+    "races": [
+      "dev-tools/debugging",
+      "infra/observability"
+    ],
+    "lanes": [
+      "dev-tools/debugging",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "sdk",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jaegertracing/jaeger",
+    "sha": "9a0e55dde9490bf33628161080a7b04e1ff388cd",
+    "file_url": "https://cdn.jsdelivr.net/gh/jaegertracing/jaeger@9a0e55dde9490bf33628161080a7b04e1ff388cd/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 23366,
+    "size_mb": 44,
+    "created_at": "2016-04-15T18:49:02Z",
+    "last_commit_at": "2026-11-02T04:51:46Z",
+    "releases": 110,
+    "tags": 128,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

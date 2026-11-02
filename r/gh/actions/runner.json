@@ -1,0 +1,55 @@
+{
+  "id": "gh:actions/runner",
+  "kind": "repo",
+  "url": "https://github.com/actions/runner",
+  "title": "runner",
+  "why": "C# service that executes GitHub Actions jobs on a host, relevant when you self-host runners or trace how steps run.",
+  "keys": {
+    "races": [
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/actions/runner",
+    "sha": "110142c2c501c6ae9373d553efa826bedbaab5f7",
+    "file_url": "https://cdn.jsdelivr.net/gh/actions/runner@110142c2c501c6ae9373d553efa826bedbaab5f7/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "MIT",
+    "stars": 6375,
+    "size_mb": 24,
+    "created_at": "2019-04-30T15:26:10Z",
+    "last_commit_at": "2026-10-29T22:55:10Z",
+    "releases": 149,
+    "tags": 149,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

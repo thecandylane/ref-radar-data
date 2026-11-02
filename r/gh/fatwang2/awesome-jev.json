@@ -1,0 +1,53 @@
+{
+  "id": "gh:fatwang2/awesome-jev",
+  "kind": "repo",
+  "url": "https://github.com/fatwang2/awesome-jev",
+  "title": "awesome-jev",
+  "why": "Directory of Jev projects whose entries are backed by sources, plus a reusable GitHub Actions workflow that reviews entries.",
+  "keys": {
+    "races": [
+      "dev-tools/code-review",
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "dev-tools/code-review",
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fatwang2/awesome-jev",
+    "sha": "0ec9754244aa9623ff2d912ecf6607c6264b11f8",
+    "file_url": "https://cdn.jsdelivr.net/gh/fatwang2/awesome-jev@0ec9754244aa9623ff2d912ecf6607c6264b11f8/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 234,
+    "size_mb": 1,
+    "created_at": "2026-09-18T02:45:39Z",
+    "last_commit_at": "2026-10-26T02:17:02Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "gh:danielbilek/writemd",
+  "kind": "repo",
+  "url": "https://github.com/danielbilek/writemd",
+  "title": "writemd",
+  "why": "Markdown editor for macOS with saved appearance profiles for fonts, colors and backgrounds, optional Vim mode, and no account or telemetry.",
+  "keys": {
+    "races": [
+      "desktop/app-shells",
+      "dev-tools/editors"
+    ],
+    "lanes": [
+      "desktop/app-shells",
+      "dev-tools/editors"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/danielbilek/writemd",
+    "sha": "9e4ee7c8b029c5e801474e9d1a026748eab692d4",
+    "file_url": "https://cdn.jsdelivr.net/gh/danielbilek/writemd@9e4ee7c8b029c5e801474e9d1a026748eab692d4/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 86,
+    "size_mb": 3,
+    "created_at": "2026-08-05T12:24:26Z",
+    "last_commit_at": "2026-08-12T15:46:00Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

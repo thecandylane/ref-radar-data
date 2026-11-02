@@ -1,0 +1,57 @@
+{
+  "id": "gh:defiabell/yixi",
+  "kind": "repo",
+  "url": "https://github.com/Defiabell/yixi",
+  "title": "yixi",
+  "why": "Shows a ten-second breathing page before distracting apps open, running as one Cloudflare Worker with a D1 database on the free tier.",
+  "keys": {
+    "races": [
+      "infra/hosting",
+      "infra/serverless"
+    ],
+    "lanes": [
+      "infra/hosting",
+      "infra/serverless"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Defiabell/yixi",
+    "sha": "803c86a41a062a9b13494e5c66da31a3575f5c00",
+    "file_url": "https://cdn.jsdelivr.net/gh/Defiabell/yixi@803c86a41a062a9b13494e5c66da31a3575f5c00/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 101,
+    "size_mb": 2,
+    "created_at": "2026-08-31T10:21:11Z",
+    "last_commit_at": "2026-11-01T13:46:59Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

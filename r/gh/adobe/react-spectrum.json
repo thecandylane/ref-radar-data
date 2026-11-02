@@ -1,0 +1,61 @@
+{
+  "id": "gh:adobe/react-spectrum",
+  "kind": "repo",
+  "url": "https://github.com/adobe/react-spectrum",
+  "title": "react-spectrum",
+  "why": "Offers unstyled React hooks and components that follow WAI-ARIA across mouse, touch and keyboard, plus a styled library in over 30 languages.",
+  "keys": {
+    "races": [
+      "design/accessibility",
+      "web/ui-components"
+    ],
+    "lanes": [
+      "design/accessibility",
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/adobe/react-spectrum",
+    "sha": "a562b335e645c172ec5a940b3e47ccdadbeeaa15",
+    "file_url": "https://raw.githubusercontent.com/adobe/react-spectrum/a562b335e645c172ec5a940b3e47ccdadbeeaa15/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 16006,
+    "size_mb": 248,
+    "created_at": "2019-09-13T23:32:51Z",
+    "last_commit_at": "2026-10-28T16:53:07Z",
+    "releases": 39,
+    "tags": 10364,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

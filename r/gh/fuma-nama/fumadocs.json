@@ -1,0 +1,61 @@
+{
+  "id": "gh:fuma-nama/fumadocs",
+  "kind": "repo",
+  "url": "https://github.com/fuma-nama/fumadocs",
+  "title": "fumadocs",
+  "why": "React docs framework that plugs MDX content into Next.js, React Router or TanStack Router with Tailwind styling.",
+  "keys": {
+    "races": [
+      "dev-tools/docs",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "dev-tools/docs",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fuma-nama/fumadocs",
+    "sha": "4f9b691e1b8cb9c4c58d9320b55dfa8e579e9764",
+    "file_url": "https://cdn.jsdelivr.net/gh/fuma-nama/fumadocs@4f9b691e1b8cb9c4c58d9320b55dfa8e579e9764/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 13528,
+    "size_mb": 145,
+    "created_at": "2023-07-03T10:27:50Z",
+    "last_commit_at": "2026-11-02T07:13:38Z",
+    "releases": 1000,
+    "tags": 2286,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

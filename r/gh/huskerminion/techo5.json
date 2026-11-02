@@ -36,12 +36,12 @@
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 490,
+    "stars": 507,
     "size_mb": 26,
     "created_at": "2026-09-14T23:30:01Z",
-    "last_commit_at": "2026-11-01T00:15:48Z",
-    "releases": 141,
-    "tags": 408,
+    "last_commit_at": "2026-11-02T08:46:11Z",
+    "releases": 143,
+    "tags": 414,
     "archived": false
   },
   "reuse": "copy",
@@ -59,8 +59,7 @@
   "risk": {
     "level": "caution",
     "signals": [
-      "offensive or proof-of-concept code",
-      "a GuardDog rule matched"
+      "offensive or proof-of-concept code"
     ],
     "scanned_at": "2026-10-31T09:18:56.216Z"
   }

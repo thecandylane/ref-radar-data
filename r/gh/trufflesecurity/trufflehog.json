@@ -1,0 +1,59 @@
+{
+  "id": "gh:trufflesecurity/trufflehog",
+  "kind": "repo",
+  "url": "https://github.com/trufflesecurity/trufflehog",
+  "title": "trufflehog",
+  "why": "Hunts for leaked credentials and checks whether they still work, wired into pre-commit and GitHub Actions.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/secrets-management"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/trufflesecurity/trufflehog",
+    "sha": "421026a6540c63cf143ef53a5859389d473e88da",
+    "file_url": "https://cdn.jsdelivr.net/gh/trufflesecurity/trufflehog@421026a6540c63cf143ef53a5859389d473e88da/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "AGPL-3.0",
+    "stars": 28818,
+    "size_mb": 52,
+    "created_at": "2016-12-31T05:08:12Z",
+    "last_commit_at": "2026-11-01T18:14:17Z",
+    "releases": 358,
+    "tags": 375,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

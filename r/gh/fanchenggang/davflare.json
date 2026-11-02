@@ -1,0 +1,61 @@
+{
+  "id": "gh:fanchenggang/davflare",
+  "kind": "repo",
+  "url": "https://github.com/fanchenggang/Davflare",
+  "title": "Davflare",
+  "why": "Private cloud drive that runs on Cloudflare Pages, Workers and R2, with WebDAV, chunked large uploads, expiring share links and a trash bin.",
+  "keys": {
+    "races": [
+      "data/storage",
+      "infra/hosting",
+      "infra/serverless"
+    ],
+    "lanes": [
+      "data/storage",
+      "infra/hosting",
+      "infra/serverless"
+    ],
+    "capabilities": [
+      "data/storage/object-storage"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fanchenggang/Davflare",
+    "sha": "79d16fdba6e904f50c63828de60fb9d4dd8b391b",
+    "file_url": "https://cdn.jsdelivr.net/gh/fanchenggang/Davflare@79d16fdba6e904f50c63828de60fb9d4dd8b391b/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 101,
+    "size_mb": 6,
+    "created_at": "2026-08-21T14:08:57Z",
+    "last_commit_at": "2026-10-26T08:59:05Z",
+    "releases": 26,
+    "tags": 27,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

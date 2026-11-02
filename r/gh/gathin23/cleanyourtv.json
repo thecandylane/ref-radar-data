@@ -26,18 +26,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Gathin23/cleanyourtv",
-    "sha": "57c00a40dafe040b0be1f32086e96c05a1a37054",
-    "file_url": "https://cdn.jsdelivr.net/gh/Gathin23/cleanyourtv@57c00a40dafe040b0be1f32086e96c05a1a37054/{path}"
+    "sha": "f47c893d285172d175c8f72c32658b1d767b3270",
+    "file_url": "https://cdn.jsdelivr.net/gh/Gathin23/cleanyourtv@f47c893d285172d175c8f72c32658b1d767b3270/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 48271,
-    "size_mb": 62,
+    "stars": 49613,
+    "size_mb": 65,
     "created_at": "2026-10-17T08:12:35Z",
-    "last_commit_at": "2026-11-01T02:50:08Z",
-    "releases": 10,
-    "tags": 10,
+    "last_commit_at": "2026-11-02T06:32:01Z",
+    "releases": 11,
+    "tags": 11,
     "archived": false
   },
   "reuse": "study",
@@ -52,12 +52,5 @@
     "votes": {},
     "ranks": {}
   },
-  "fresh": true,
-  "risk": {
-    "level": "caution",
-    "signals": [
-      "a GuardDog rule matched"
-    ],
-    "scanned_at": "2026-10-31T09:18:32.609Z"
-  }
+  "fresh": true
 }

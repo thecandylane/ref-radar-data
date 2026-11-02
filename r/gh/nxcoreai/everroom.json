@@ -1,0 +1,64 @@
+{
+  "id": "gh:nxcoreai/everroom",
+  "kind": "repo",
+  "url": "https://github.com/NxcoreAI/EverRoom",
+  "title": "EverRoom",
+  "why": "Electron workspace in the vein of Notion and Obsidian that stores project knowledge so AI can recall past decisions and sources.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "desktop/app-shells"
+    ],
+    "lanes": [
+      "agents/memory",
+      "desktop/app-shells"
+    ],
+    "capabilities": [
+      "agents/memory/knowledge-brains",
+      "agents/memory/long-term-memory"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NxcoreAI/EverRoom",
+    "sha": "b0d58e5e8d0e46ccd697b5b2692c3dce6034d96d",
+    "file_url": "https://cdn.jsdelivr.net/gh/NxcoreAI/EverRoom@b0d58e5e8d0e46ccd697b5b2692c3dce6034d96d/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 2980,
+    "size_mb": 31,
+    "created_at": "2026-08-14T13:13:51Z",
+    "last_commit_at": "2026-09-20T07:55:21Z",
+    "releases": 66,
+    "tags": 95,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

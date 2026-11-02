@@ -28,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/GuyMannDude/mnemo-cortex",
-    "sha": "295ac63fe2ddebd271f2a3d21c827fcf78273cc9",
-    "file_url": "https://cdn.jsdelivr.net/gh/GuyMannDude/mnemo-cortex@295ac63fe2ddebd271f2a3d21c827fcf78273cc9/{path}"
+    "sha": "0d0cce4cea02a67a8f143ae1ac09dc11805ab6e7",
+    "file_url": "https://cdn.jsdelivr.net/gh/GuyMannDude/mnemo-cortex@0d0cce4cea02a67a8f143ae1ac09dc11805ab6e7/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -53,13 +53,5 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  },
-  "risk": {
-    "level": "caution",
-    "signals": [
-      "a GuardDog rule matched",
-      "the scan could not read everything"
-    ],
-    "scanned_at": "2026-10-31T09:18:49.071Z"
   }
 }

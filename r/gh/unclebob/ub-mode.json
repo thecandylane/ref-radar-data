@@ -1,0 +1,54 @@
+{
+  "id": "gh:unclebob/ub-mode",
+  "kind": "repo",
+  "url": "https://github.com/unclebob/ub-mode",
+  "title": "ub-mode",
+  "why": "Skill that pushes coding agents through test-first development, then complexity and duplication checks, then small commits.",
+  "keys": {
+    "races": [
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/skills/engineering-skills"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/unclebob/ub-mode",
+    "sha": "57a8bdd28e45ed41900ace0bafa2ff76dd9ed70f",
+    "file_url": "https://cdn.jsdelivr.net/gh/unclebob/ub-mode@57a8bdd28e45ed41900ace0bafa2ff76dd9ed70f/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "none",
+    "stars": 6398,
+    "size_mb": 0,
+    "created_at": "2026-10-25T16:04:09Z",
+    "last_commit_at": "2026-10-25T16:07:58Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "fresh": true
+}

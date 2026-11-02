@@ -1,0 +1,55 @@
+{
+  "id": "gh:kabanya/pomodoist",
+  "kind": "repo",
+  "url": "https://github.com/Kabanya/Pomodoist",
+  "title": "Pomodoist",
+  "why": "Flutter app that ties a Pomodoro timer to your task list, self-hosted as a Todoist alternative across mobile, desktop and web.",
+  "keys": {
+    "races": [
+      "mobile/cross-platform"
+    ],
+    "lanes": [
+      "mobile/cross-platform"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Kabanya/Pomodoist",
+    "sha": "9260f2e1f83b955aed812393ea6c287cb12ac9e7",
+    "file_url": "https://cdn.jsdelivr.net/gh/Kabanya/Pomodoist@9260f2e1f83b955aed812393ea6c287cb12ac9e7/{path}"
+  },
+  "facts": {
+    "lang": "Dart",
+    "license": "AGPL-3.0",
+    "stars": 553,
+    "size_mb": 48,
+    "created_at": "2026-08-09T12:34:20Z",
+    "last_commit_at": "2026-10-29T23:57:57Z",
+    "releases": 14,
+    "tags": 101,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

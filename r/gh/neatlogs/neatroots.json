@@ -1,0 +1,62 @@
+{
+  "id": "gh:neatlogs/neatroots",
+  "kind": "repo",
+  "url": "https://github.com/neatlogs/neatroots",
+  "title": "neatroots",
+  "why": "Records each AI agent run as OpenTelemetry traces you can check and replay locally, so you debug while building.",
+  "keys": {
+    "races": [
+      "agents/sandboxes",
+      "infra/observability",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "agents/sandboxes",
+      "infra/observability",
+      "llm-infra/evals"
+    ],
+    "capabilities": [
+      "agents/sandboxes/run-replay"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/neatlogs/neatroots",
+    "sha": "f26f6ae6378dae0f8b7452cbcd173b17afca43a9",
+    "file_url": "https://cdn.jsdelivr.net/gh/neatlogs/neatroots@f26f6ae6378dae0f8b7452cbcd173b17afca43a9/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 80,
+    "size_mb": 3,
+    "created_at": "2026-10-09T07:50:18Z",
+    "last_commit_at": "2026-10-28T05:18:32Z",
+    "releases": 12,
+    "tags": 12,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "fresh": true
+}

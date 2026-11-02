@@ -37,13 +37,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/CopilotKit/OpenBot",
-    "sha": "4766e4247675eb73ff80d525ff645dd8a9da815f",
-    "file_url": "https://cdn.jsdelivr.net/gh/CopilotKit/OpenBot@4766e4247675eb73ff80d525ff645dd8a9da815f/{path}"
+    "sha": "c396a5f68c817043846f1ca3c2b42061ee73ceb5",
+    "file_url": "https://cdn.jsdelivr.net/gh/CopilotKit/OpenBot@c396a5f68c817043846f1ca3c2b42061ee73ceb5/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 9189,
+    "stars": 9752,
     "size_mb": 22,
     "created_at": "2026-08-17T00:44:59Z",
     "last_commit_at": "2026-10-31T17:17:48Z",
@@ -62,5 +62,12 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-01T09:29:57.989Z"
   }
 }

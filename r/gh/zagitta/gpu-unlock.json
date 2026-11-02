@@ -1,0 +1,54 @@
+{
+  "id": "gh:zagitta/gpu-unlock",
+  "kind": "repo",
+  "url": "https://github.com/Zagitta/gpu-unlock",
+  "title": "gpu-unlock",
+  "why": "Kernel module that lifts the half-speed cap on GeForce tensor cores for FP16, BF16 and TF32 math, loaded before the driver binds.",
+  "keys": {
+    "races": [
+      "embedded/drivers",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "embedded/drivers",
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Zagitta/gpu-unlock",
+    "sha": "7eb51bccae0a0b7e599e084d971170e9a1e82d0c",
+    "file_url": "https://cdn.jsdelivr.net/gh/Zagitta/gpu-unlock@7eb51bccae0a0b7e599e084d971170e9a1e82d0c/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 14252,
+    "size_mb": 0,
+    "created_at": "2026-10-18T01:28:31Z",
+    "last_commit_at": "2026-10-28T22:31:16Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "fresh": true
+}

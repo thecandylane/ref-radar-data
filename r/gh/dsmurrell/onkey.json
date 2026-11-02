@@ -22,18 +22,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/dsmurrell/onkey",
-    "sha": "7a74cd96d6e3ec700a4736172cff0662accec6e0",
-    "file_url": "https://cdn.jsdelivr.net/gh/dsmurrell/onkey@7a74cd96d6e3ec700a4736172cff0662accec6e0/{path}"
+    "sha": "78b5f4e713b2f9f4d4b017119525101354a32cbc",
+    "file_url": "https://cdn.jsdelivr.net/gh/dsmurrell/onkey@78b5f4e713b2f9f4d4b017119525101354a32cbc/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 382,
-    "size_mb": 4,
+    "stars": 391,
+    "size_mb": 6,
     "created_at": "2026-10-18T22:33:23Z",
-    "last_commit_at": "2026-10-31T15:36:31Z",
-    "releases": 3,
-    "tags": 3,
+    "last_commit_at": "2026-11-02T00:33:52Z",
+    "releases": 6,
+    "tags": 6,
     "archived": false
   },
   "reuse": "copy",
@@ -48,12 +48,5 @@
     "votes": {},
     "ranks": {}
   },
-  "fresh": true,
-  "risk": {
-    "level": "caution",
-    "signals": [
-      "a GuardDog rule matched"
-    ],
-    "scanned_at": "2026-10-30T17:52:35.186Z"
-  }
+  "fresh": true
 }

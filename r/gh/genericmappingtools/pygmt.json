@@ -1,0 +1,53 @@
+{
+  "id": "gh:genericmappingtools/pygmt",
+  "kind": "repo",
+  "url": "https://github.com/GenericMappingTools/pygmt",
+  "title": "pygmt",
+  "why": "Plot maps and geophysics figures from Python scripts, wrapping GMT for seismology and other earth-science work.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "engineering/subsurface"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "engineering/subsurface"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/GenericMappingTools/pygmt",
+    "sha": "f6baa21e2b55b2b33356cd1ac23f7b7e61af42d9",
+    "file_url": "https://cdn.jsdelivr.net/gh/GenericMappingTools/pygmt@f6baa21e2b55b2b33356cd1ac23f7b7e61af42d9/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 880,
+    "size_mb": 286,
+    "created_at": "2017-03-17T20:31:51Z",
+    "last_commit_at": "2026-10-28T03:23:29Z",
+    "releases": 27,
+    "tags": 31,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

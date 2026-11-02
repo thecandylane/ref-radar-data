@@ -1,0 +1,61 @@
+{
+  "id": "gh:openbao/openbao",
+  "kind": "repo",
+  "url": "https://github.com/openbao/openbao",
+  "title": "openbao",
+  "why": "Central store that manages and distributes secrets, certificates and keys, with a UI, an SDK and community governance.",
+  "keys": {
+    "races": [
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/secrets-management"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "sdk",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openbao/openbao",
+    "sha": "8f868de6c311cde5404b560a593539d894b1ad19",
+    "file_url": "https://cdn.jsdelivr.net/gh/openbao/openbao@8f868de6c311cde5404b560a593539d894b1ad19/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MPL-2.0",
+    "stars": 8828,
+    "size_mb": 314,
+    "created_at": "2023-11-09T18:17:33Z",
+    "last_commit_at": "2026-10-30T22:47:19Z",
+    "releases": 38,
+    "tags": 220,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

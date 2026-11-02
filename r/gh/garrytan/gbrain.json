@@ -28,18 +28,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/garrytan/gbrain",
-    "sha": "23b28ebe458bb897c1fbce88d723384e0460e41d",
-    "file_url": "https://raw.githubusercontent.com/garrytan/gbrain/23b28ebe458bb897c1fbce88d723384e0460e41d/{path}"
+    "sha": "1e763e28cb76655891096334d03f0883356c3ae8",
+    "file_url": "https://raw.githubusercontent.com/garrytan/gbrain/1e763e28cb76655891096334d03f0883356c3ae8/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 31408,
-    "size_mb": 405,
+    "stars": 31445,
+    "size_mb": 408,
     "created_at": "2026-04-05T14:40:56Z",
-    "last_commit_at": "2026-11-01T08:27:16Z",
-    "releases": 611,
-    "tags": 618,
+    "last_commit_at": "2026-11-02T06:20:25Z",
+    "releases": 621,
+    "tags": 628,
     "archived": false
   },
   "reuse": "copy",
@@ -50,16 +50,8 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 229,
+    "star_delta_7d": 212,
     "votes": {},
     "ranks": {}
-  },
-  "risk": {
-    "level": "caution",
-    "signals": [
-      "a GuardDog rule matched",
-      "the scan could not read everything"
-    ],
-    "scanned_at": "2026-10-31T09:18:02.773Z"
   }
 }

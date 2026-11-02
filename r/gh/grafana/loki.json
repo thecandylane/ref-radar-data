@@ -1,0 +1,61 @@
+{
+  "id": "gh:grafana/loki",
+  "kind": "repo",
+  "url": "https://github.com/grafana/loki",
+  "title": "loki",
+  "why": "Log storage and querying that indexes labels the way Prometheus does, with a Kubernetes operator and clients included.",
+  "keys": {
+    "races": [
+      "infra/kubernetes",
+      "infra/observability"
+    ],
+    "lanes": [
+      "infra/kubernetes",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/grafana/loki",
+    "sha": "227434a52b3911f954bcca1c3f592c6fa8481a73",
+    "file_url": "https://raw.githubusercontent.com/grafana/loki/227434a52b3911f954bcca1c3f592c6fa8481a73/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "AGPL-3.0",
+    "stars": 29108,
+    "size_mb": 565,
+    "created_at": "2018-04-16T09:22:48Z",
+    "last_commit_at": "2026-11-02T03:39:11Z",
+    "releases": 139,
+    "tags": 401,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

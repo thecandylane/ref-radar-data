@@ -1,0 +1,53 @@
+{
+  "id": "gh:fatiando/verde",
+  "kind": "repo",
+  "url": "https://github.com/fatiando/verde",
+  "title": "verde",
+  "why": "Interpolate spatial measurements onto grids using an estimator interface like machine learning libraries, for geophysics data.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "engineering/subsurface"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "engineering/subsurface"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fatiando/verde",
+    "sha": "d08c03bbe8b72e62ddb5bf950fb3f4f15ce1e2ef",
+    "file_url": "https://cdn.jsdelivr.net/gh/fatiando/verde@d08c03bbe8b72e62ddb5bf950fb3f4f15ce1e2ef/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 675,
+    "size_mb": 98,
+    "created_at": "2018-04-25T23:21:08Z",
+    "last_commit_at": "2026-09-29T12:43:54Z",
+    "releases": 15,
+    "tags": 16,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

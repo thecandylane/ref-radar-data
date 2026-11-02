@@ -1,0 +1,57 @@
+{
+  "id": "gh:darkreader/darkreader",
+  "kind": "repo",
+  "url": "https://github.com/darkreader/darkreader",
+  "title": "darkreader",
+  "why": "Browser extension for Chrome and Firefox that analyzes each page and generates a dark theme, also usable on your own site via npm or CDN.",
+  "keys": {
+    "races": [
+      "design/accessibility",
+      "web/css"
+    ],
+    "lanes": [
+      "design/accessibility",
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/darkreader/darkreader",
+    "sha": "f5f9e5db972cafdc65295314baaa96c989670353",
+    "file_url": "https://cdn.jsdelivr.net/gh/darkreader/darkreader@f5f9e5db972cafdc65295314baaa96c989670353/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 22556,
+    "size_mb": 38,
+    "created_at": "2014-11-15T14:22:52Z",
+    "last_commit_at": "2026-11-01T20:59:10Z",
+    "releases": 101,
+    "tags": 128,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

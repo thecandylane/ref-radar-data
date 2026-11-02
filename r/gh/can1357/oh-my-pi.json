@@ -36,18 +36,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/can1357/oh-my-pi",
-    "sha": "c29f7c56f5530d805bb2887ade964aa55970d8e1",
-    "file_url": "https://raw.githubusercontent.com/can1357/oh-my-pi/c29f7c56f5530d805bb2887ade964aa55970d8e1/{path}"
+    "sha": "1c291b87e4b889398cc4b8e4ccdfa650b56a0486",
+    "file_url": "https://raw.githubusercontent.com/can1357/oh-my-pi/1c291b87e4b889398cc4b8e4ccdfa650b56a0486/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 37372,
-    "size_mb": 734,
+    "stars": 37481,
+    "size_mb": 738,
     "created_at": "2025-12-31T14:01:28Z",
-    "last_commit_at": "2026-10-31T23:48:27Z",
-    "releases": 676,
-    "tags": 925,
+    "last_commit_at": "2026-11-02T01:45:13Z",
+    "releases": 677,
+    "tags": 926,
     "archived": false
   },
   "reuse": "copy",
@@ -58,17 +58,9 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 868,
+    "star_delta_7d": 841,
     "votes": {},
     "ranks": {}
   },
-  "hot": true,
-  "risk": {
-    "level": "caution",
-    "signals": [
-      "a GuardDog rule matched",
-      "the scan could not read everything"
-    ],
-    "scanned_at": "2026-10-31T09:15:13.929Z"
-  }
+  "hot": true
 }

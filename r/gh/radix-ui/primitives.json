@@ -1,0 +1,63 @@
+{
+  "id": "gh:radix-ui/primitives",
+  "kind": "repo",
+  "url": "https://github.com/radix-ui/primitives",
+  "title": "primitives",
+  "why": "Low-level accessible components that you can adopt one at a time or use as the foundation of a design system.",
+  "keys": {
+    "races": [
+      "web/ui-components"
+    ],
+    "lanes": [
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/radix-ui/primitives",
+    "sha": "eb3a2b7091293e27df8f9ba906632d8daa3d81a3",
+    "file_url": "https://cdn.jsdelivr.net/gh/radix-ui/primitives@eb3a2b7091293e27df8f9ba906632d8daa3d81a3/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 19464,
+    "size_mb": 24,
+    "created_at": "2020-06-19T13:23:22Z",
+    "last_commit_at": "2026-10-14T19:06:36Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

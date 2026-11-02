@@ -1,0 +1,57 @@
+{
+  "id": "gh:regrevia/revia",
+  "kind": "repo",
+  "url": "https://github.com/regrevia/Revia",
+  "title": "Revia",
+  "why": "Programs live as checked semantic graphs stating what each part may do, what it can fail with and which resources it touches.",
+  "keys": {
+    "races": [
+      "agents/orchestration",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "agents/orchestration",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/regrevia/Revia",
+    "sha": "7c242e142a6fc80c9b02319804b06048034a40f4",
+    "file_url": "https://cdn.jsdelivr.net/gh/regrevia/Revia@7c242e142a6fc80c9b02319804b06048034a40f4/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MPL-2.0",
+    "stars": 99,
+    "size_mb": 5,
+    "created_at": "2026-08-24T03:35:02Z",
+    "last_commit_at": "2026-11-02T03:33:16Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

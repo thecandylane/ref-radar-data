@@ -48,12 +48,12 @@
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 9984,
-    "size_mb": 360,
+    "stars": 10906,
+    "size_mb": 362,
     "created_at": "2026-08-11T18:58:55Z",
-    "last_commit_at": "2026-11-01T08:08:48Z",
-    "releases": 94,
-    "tags": 94,
+    "last_commit_at": "2026-11-02T08:45:01Z",
+    "releases": 95,
+    "tags": 95,
     "archived": false
   },
   "reuse": "copy",
@@ -71,9 +71,7 @@
   "risk": {
     "level": "caution",
     "signals": [
-      "offensive or proof-of-concept code",
-      "a GuardDog rule matched",
-      "the scan could not read everything"
+      "offensive or proof-of-concept code"
     ],
     "scanned_at": "2026-10-31T09:13:17.073Z"
   }
