@@ -1,0 +1,66 @@
+{
+  "id": "gh:hkuds/nanobot",
+  "kind": "repo",
+  "url": "https://github.com/HKUDS/nanobot",
+  "title": "nanobot",
+  "why": "Runs a lightweight personal agent you self-host, wired to MCP tools and chat surfaces like Discord and Telegram.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "agents/frameworks",
+      "agents/orchestration",
+      "agents/tools",
+      "llm-infra/gateways"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "agents/frameworks",
+      "agents/orchestration",
+      "agents/tools",
+      "llm-infra/gateways"
+    ],
+    "capabilities": [
+      "agents/assistants/personal-agents",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/HKUDS/nanobot",
+    "sha": "8b37976d36c2812c62b464321e729a88872b60f9",
+    "file_url": "https://cdn.jsdelivr.net/gh/HKUDS/nanobot@8b37976d36c2812c62b464321e729a88872b60f9/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 49780,
+    "size_mb": 79,
+    "created_at": "2026-02-01T07:16:15Z",
+    "last_commit_at": "2026-11-03T07:58:41Z",
+    "releases": 21,
+    "tags": 21,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "gh:nithin42/azure-ai-foundry-erp-swarm",
+  "kind": "repo",
+  "url": "https://github.com/nithin42/Azure-ai-foundry-erp-swarm",
+  "title": "Azure-ai-foundry-erp-swarm",
+  "why": "Orchestrator and three agents handle a supply chain shortage across SAP and ServiceNow, staging purchase orders until a director approves.",
+  "keys": {
+    "races": [
+      "agents/orchestration",
+      "finance/accounting"
+    ],
+    "lanes": [
+      "agents/orchestration",
+      "finance/accounting"
+    ],
+    "capabilities": [
+      "agents/orchestration/agent-teams",
+      "finance/accounting/erp"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nithin42/Azure-ai-foundry-erp-swarm",
+    "sha": "55fbb012baf8a1d75fa91a04da4b46332c0fb9bc",
+    "file_url": "https://cdn.jsdelivr.net/gh/nithin42/Azure-ai-foundry-erp-swarm@55fbb012baf8a1d75fa91a04da4b46332c0fb9bc/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 57,
+    "size_mb": 3,
+    "created_at": "2026-08-16T17:09:09Z",
+    "last_commit_at": "2026-08-21T03:22:24Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

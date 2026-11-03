@@ -1,0 +1,57 @@
+{
+  "id": "gh:hitsz-tmg/jevembed",
+  "kind": "repo",
+  "url": "https://github.com/HITsz-TMG/JevEmbed",
+  "title": "JevEmbed",
+  "why": "Wraps embedding models in a Choice, Score and Noul decision API, with LoRA fine-tuning and a browser playground to compare models.",
+  "keys": {
+    "races": [
+      "ml/embeddings",
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/embeddings",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/HITsz-TMG/JevEmbed",
+    "sha": "d331c4b0f5a0f69b92d94b8f5b2f82853ac83277",
+    "file_url": "https://cdn.jsdelivr.net/gh/HITsz-TMG/JevEmbed@d331c4b0f5a0f69b92d94b8f5b2f82853ac83277/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 74,
+    "size_mb": 2,
+    "created_at": "2026-09-22T05:57:22Z",
+    "last_commit_at": "2026-10-12T11:29:12Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

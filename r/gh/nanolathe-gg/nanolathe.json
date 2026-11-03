@@ -1,0 +1,61 @@
+{
+  "id": "gh:nanolathe-gg/nanolathe",
+  "kind": "repo",
+  "url": "https://github.com/nanolathe-gg/nanolathe",
+  "title": "nanolathe",
+  "why": "Reimplements the Total Annihilation engine in Go on Ebitengine, with mod configs and an AGENTS.md for agent contributors.",
+  "keys": {
+    "races": [
+      "games/engines",
+      "games/graphics"
+    ],
+    "lanes": [
+      "games/engines",
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nanolathe-gg/nanolathe",
+    "sha": "e05a79097ec2a7566dab8495e759b01473549a11",
+    "file_url": "https://cdn.jsdelivr.net/gh/nanolathe-gg/nanolathe@e05a79097ec2a7566dab8495e759b01473549a11/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 241,
+    "size_mb": 43,
+    "created_at": "2026-09-09T07:09:27Z",
+    "last_commit_at": "2026-10-29T17:39:15Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

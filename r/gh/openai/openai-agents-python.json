@@ -1,0 +1,57 @@
+{
+  "id": "gh:openai/openai-agents-python",
+  "kind": "repo",
+  "url": "https://github.com/openai/openai-agents-python",
+  "title": "openai-agents-python",
+  "why": "Python SDK where agents hand off work to each other, call tools, and pass guardrail checks.",
+  "keys": {
+    "races": [
+      "agents/frameworks",
+      "agents/orchestration"
+    ],
+    "lanes": [
+      "agents/frameworks",
+      "agents/orchestration"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openai/openai-agents-python",
+    "sha": "e355d69152d4f4730dfb03b63dbce53e8d9f5d8c",
+    "file_url": "https://cdn.jsdelivr.net/gh/openai/openai-agents-python@e355d69152d4f4730dfb03b63dbce53e8d9f5d8c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 30471,
+    "size_mb": 91,
+    "created_at": "2025-03-11T03:42:36Z",
+    "last_commit_at": "2026-10-30T20:13:59Z",
+    "releases": 124,
+    "tags": 125,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

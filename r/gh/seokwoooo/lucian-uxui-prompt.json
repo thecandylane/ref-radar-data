@@ -1,0 +1,58 @@
+{
+  "id": "gh:seokwoooo/lucian-uxui-prompt",
+  "kind": "repo",
+  "url": "https://github.com/Seokwoooo/lucian-uxui-prompt",
+  "title": "lucian-uxui-prompt",
+  "why": "Try 400 interactive UI elements in the browser, then copy one as a prompt for an AI coding tool or as working code.",
+  "keys": {
+    "races": [
+      "agents/skills",
+      "web/ui-components"
+    ],
+    "lanes": [
+      "agents/skills",
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Seokwoooo/lucian-uxui-prompt",
+    "sha": "7e339faa1cc5e87496cb7ce556a5b22aadbe76f8",
+    "file_url": "https://cdn.jsdelivr.net/gh/Seokwoooo/lucian-uxui-prompt@7e339faa1cc5e87496cb7ce556a5b22aadbe76f8/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "MIT",
+    "stars": 285,
+    "size_mb": 4,
+    "created_at": "2026-10-12T09:01:47Z",
+    "last_commit_at": "2026-10-16T09:26:32Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "fresh": true
+}

@@ -1,0 +1,53 @@
+{
+  "id": "gh:leb947/modernbert-multi-task-studio",
+  "kind": "repo",
+  "url": "https://github.com/Leb947/modernbert-multi-task-studio",
+  "title": "modernbert-multi-task-studio",
+  "why": "Fine-tunes ModernBERT on several NLP tasks at once with a multi-task trainer, as a Jiant alternative on Hugging Face Transformers.",
+  "keys": {
+    "races": [
+      "llm-infra/inference",
+      "ml/training"
+    ],
+    "lanes": [
+      "llm-infra/inference",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Leb947/modernbert-multi-task-studio",
+    "sha": "28a34bf01ee38d938de5d63fe1c8b60f6279432d",
+    "file_url": "https://cdn.jsdelivr.net/gh/Leb947/modernbert-multi-task-studio@28a34bf01ee38d938de5d63fe1c8b60f6279432d/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "none",
+    "stars": 57,
+    "size_mb": 1,
+    "created_at": "2026-08-25T10:35:22Z",
+    "last_commit_at": "2026-11-03T02:04:09Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

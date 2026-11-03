@@ -1,0 +1,57 @@
+{
+  "id": "gh:e2b-dev/e2b",
+  "kind": "repo",
+  "url": "https://github.com/e2b-dev/E2B",
+  "title": "E2B",
+  "why": "Runs AI-generated code and real-world tools inside a secure, open-source environment built for enterprise-grade agents.",
+  "keys": {
+    "races": [
+      "agents/sandboxes"
+    ],
+    "lanes": [
+      "agents/sandboxes"
+    ],
+    "capabilities": [
+      "agents/sandboxes/code-sandboxes"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/e2b-dev/E2B",
+    "sha": "8cc9ed1e30a57d89cefaec112680567d62f21112",
+    "file_url": "https://cdn.jsdelivr.net/gh/e2b-dev/E2B@8cc9ed1e30a57d89cefaec112680567d62f21112/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 14684,
+    "size_mb": 128,
+    "created_at": "2023-03-04T13:41:18Z",
+    "last_commit_at": "2026-11-02T19:01:54Z",
+    "releases": 669,
+    "tags": 777,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

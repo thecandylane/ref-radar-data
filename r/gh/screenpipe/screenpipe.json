@@ -1,0 +1,67 @@
+{
+  "id": "gh:screenpipe/screenpipe",
+  "kind": "repo",
+  "url": "https://github.com/screenpipe/screenpipe",
+  "title": "screenpipe",
+  "why": "Records screen and audio locally, transcribes speech, and feeds that history to agents as context, written in Rust.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "media/speech"
+    ],
+    "lanes": [
+      "agents/memory",
+      "media/speech"
+    ],
+    "capabilities": [
+      "agents/memory/long-term-memory"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/screenpipe/screenpipe",
+    "sha": "8e973189af39415d808d76416a7505a9579b69bd",
+    "file_url": "https://raw.githubusercontent.com/screenpipe/screenpipe/8e973189af39415d808d76416a7505a9579b69bd/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "NOASSERTION",
+    "stars": 22213,
+    "size_mb": 698,
+    "created_at": "2024-06-19T13:23:56Z",
+    "last_commit_at": "2026-11-03T00:45:54Z",
+    "releases": 502,
+    "tags": 570,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

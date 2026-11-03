@@ -1,0 +1,63 @@
+{
+  "id": "gh:anchore/grype",
+  "kind": "repo",
+  "url": "https://github.com/anchore/grype",
+  "title": "grype",
+  "why": "Scans container images and filesystems for vulnerabilities, with CycloneDX and OpenVEX support.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "cyber/supply-chain"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "cyber/supply-chain"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/anchore/grype",
+    "sha": "cb4a51d7fe3a32a66ef90f8ad1e9f17790123407",
+    "file_url": "https://cdn.jsdelivr.net/gh/anchore/grype@cb4a51d7fe3a32a66ef90f8ad1e9f17790123407/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 13166,
+    "size_mb": 11,
+    "created_at": "2020-05-26T13:44:38Z",
+    "last_commit_at": "2026-11-02T17:08:49Z",
+    "releases": 207,
+    "tags": 215,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

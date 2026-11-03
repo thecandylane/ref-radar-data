@@ -1,0 +1,51 @@
+{
+  "id": "gh:apache/airflow",
+  "kind": "repo",
+  "url": "https://github.com/apache/airflow",
+  "title": "airflow",
+  "why": "Defines workflows as Python code in a DAG, then schedules and monitors them for ETL and ML pipelines.",
+  "keys": {
+    "races": [
+      "data/pipelines"
+    ],
+    "lanes": [
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/airflow",
+    "sha": "03b0af96e50aa5a46b0bb7150106b51b0b755c52",
+    "file_url": "https://raw.githubusercontent.com/apache/airflow/03b0af96e50aa5a46b0bb7150106b51b0b755c52/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 47351,
+    "size_mb": 780,
+    "created_at": "2015-04-13T18:04:58Z",
+    "last_commit_at": "2026-11-03T04:37:51Z",
+    "releases": 127,
+    "tags": 10741,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

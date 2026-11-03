@@ -1,0 +1,63 @@
+{
+  "id": "gh:eigent-ai/eigent",
+  "kind": "repo",
+  "url": "https://github.com/eigent-ai/eigent",
+  "title": "eigent",
+  "why": "Free, local desktop app for multi-agent cowork, offered as an open alternative to Claude Cowork.",
+  "keys": {
+    "races": [
+      "agents/clients",
+      "agents/frameworks",
+      "agents/orchestration",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/clients",
+      "agents/frameworks",
+      "agents/orchestration",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/clients/desktop-apps"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/eigent-ai/eigent",
+    "sha": "17131f5d3e83d8680a3af5eb9b666afb6ea37c2b",
+    "file_url": "https://cdn.jsdelivr.net/gh/eigent-ai/eigent@17131f5d3e83d8680a3af5eb9b666afb6ea37c2b/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 15725,
+    "size_mb": 171,
+    "created_at": "2025-07-29T15:56:02Z",
+    "last_commit_at": "2026-11-02T13:46:40Z",
+    "releases": 38,
+    "tags": 80,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

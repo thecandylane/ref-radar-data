@@ -1,0 +1,65 @@
+{
+  "id": "gh:pingcap/tidb",
+  "kind": "repo",
+  "url": "https://github.com/pingcap/tidb",
+  "title": "tidb",
+  "why": "Scales out a MySQL-compatible SQL database for agent workloads, adding vector search and ACID transactions.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "data/databases",
+      "infra/serverless"
+    ],
+    "lanes": [
+      "agents/memory",
+      "data/databases",
+      "infra/serverless"
+    ],
+    "capabilities": [
+      "data/databases/distributed-sql"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pingcap/tidb",
+    "sha": "49ad420278001b896de85fd7985b35ff49be877f",
+    "file_url": "https://raw.githubusercontent.com/pingcap/tidb/49ad420278001b896de85fd7985b35ff49be877f/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 40702,
+    "size_mb": 831,
+    "created_at": "2015-09-06T04:01:52Z",
+    "last_commit_at": "2026-11-03T06:27:58Z",
+    "releases": 217,
+    "tags": 759,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

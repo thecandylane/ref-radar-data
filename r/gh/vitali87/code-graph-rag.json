@@ -1,0 +1,61 @@
+{
+  "id": "gh:vitali87/code-graph-rag",
+  "kind": "repo",
+  "url": "https://github.com/vitali87/code-graph-rag",
+  "title": "code-graph-rag",
+  "why": "Builds a knowledge graph of your monorepo so agents can find and edit code in multi-language projects over MCP.",
+  "keys": {
+    "races": [
+      "agents/code-intel",
+      "agents/tools",
+      "dev-tools/build",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "agents/code-intel",
+      "agents/tools",
+      "dev-tools/build",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "agents/code-intel/code-graphs",
+      "agents/tools/mcp-servers",
+      "dev-tools/build/monorepo-tools"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vitali87/code-graph-rag",
+    "sha": "b643ced100cfea52d9e37f160ccc2e99e0a272a6",
+    "file_url": "https://cdn.jsdelivr.net/gh/vitali87/code-graph-rag@b643ced100cfea52d9e37f160ccc2e99e0a272a6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 5310,
+    "size_mb": 588,
+    "created_at": "2025-06-16T14:31:57Z",
+    "last_commit_at": "2026-11-03T02:59:21Z",
+    "releases": 38,
+    "tags": 1149,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

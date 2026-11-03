@@ -1,0 +1,63 @@
+{
+  "id": "gh:cherryhq/cherry-studio",
+  "kind": "repo",
+  "url": "https://github.com/CherryHQ/cherry-studio",
+  "title": "cherry-studio",
+  "why": "Desktop workspace in TypeScript that talks to many models, including local Ollama ones, and acts as an MCP client.",
+  "keys": {
+    "races": [
+      "agents/clients",
+      "llm-infra/chat-apps"
+    ],
+    "lanes": [
+      "agents/clients",
+      "llm-infra/chat-apps"
+    ],
+    "capabilities": [
+      "agents/clients/desktop-apps"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CherryHQ/cherry-studio",
+    "sha": "b36d569c6c5937efa7fbfe767515f3275adcc534",
+    "file_url": "https://cdn.jsdelivr.net/gh/CherryHQ/cherry-studio@b36d569c6c5937efa7fbfe767515f3275adcc534/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "AGPL-3.0",
+    "stars": 53223,
+    "size_mb": 745,
+    "created_at": "2024-05-24T01:56:26Z",
+    "last_commit_at": "2026-11-03T06:42:09Z",
+    "releases": 293,
+    "tags": 343,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

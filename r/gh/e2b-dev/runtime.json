@@ -1,0 +1,59 @@
+{
+  "id": "gh:e2b-dev/runtime",
+  "kind": "repo",
+  "url": "https://github.com/e2b-dev/runtime",
+  "title": "runtime",
+  "why": "Firecracker microVMs run under Nomad and Consul, the same runtime across E2B cloud, enterprise and own machines.",
+  "keys": {
+    "races": [
+      "agents/sandboxes",
+      "infra/iac"
+    ],
+    "lanes": [
+      "agents/sandboxes",
+      "infra/iac"
+    ],
+    "capabilities": [
+      "agents/sandboxes/code-sandboxes"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/e2b-dev/runtime",
+    "sha": "78d5ff91515b58a9bd2d0b28b14f80428c63d15e",
+    "file_url": "https://cdn.jsdelivr.net/gh/e2b-dev/runtime@78d5ff91515b58a9bd2d0b28b14f80428c63d15e/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 1803,
+    "size_mb": 100,
+    "created_at": "2023-08-10T17:37:55Z",
+    "last_commit_at": "2026-11-03T06:30:11Z",
+    "releases": 52,
+    "tags": 54,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

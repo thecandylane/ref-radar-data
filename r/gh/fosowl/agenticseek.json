@@ -1,0 +1,53 @@
+{
+  "id": "gh:fosowl/agenticseek",
+  "kind": "repo",
+  "url": "https://github.com/Fosowl/agenticSeek",
+  "title": "agenticSeek",
+  "why": "Runs a fully local autonomous agent that browses the web and writes code, with no API bills beyond your own electricity.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "media/speech"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "media/speech"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Fosowl/agenticSeek",
+    "sha": "4f5f924c1eb326b4163d3bf942954dcc7dd7875b",
+    "file_url": "https://cdn.jsdelivr.net/gh/Fosowl/agenticSeek@4f5f924c1eb326b4163d3bf942954dcc7dd7875b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 27608,
+    "size_mb": 27,
+    "created_at": "2025-02-19T18:03:06Z",
+    "last_commit_at": "2026-10-22T16:22:32Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copyleft",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

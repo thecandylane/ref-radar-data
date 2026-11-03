@@ -1,0 +1,52 @@
+{
+  "id": "gh:humblemuzzu/dumbtv",
+  "kind": "repo",
+  "url": "https://github.com/humblemuzzu/dumbtv",
+  "title": "dumbtv",
+  "why": "Strips ads and telemetry from a Fire TV over ADB without root, with every step undoable and its own home screen.",
+  "keys": {
+    "races": [
+      "mobile/android"
+    ],
+    "lanes": [
+      "mobile/android"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/humblemuzzu/dumbtv",
+    "sha": "755991b17a66e753e82f7252368c8850c08fdc71",
+    "file_url": "https://cdn.jsdelivr.net/gh/humblemuzzu/dumbtv@755991b17a66e753e82f7252368c8850c08fdc71/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "NOASSERTION",
+    "stars": 1901,
+    "size_mb": 1,
+    "created_at": "2026-10-18T17:04:12Z",
+    "last_commit_at": "2026-10-27T09:02:13Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "fresh": true
+}

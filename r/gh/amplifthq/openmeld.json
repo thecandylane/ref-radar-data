@@ -1,0 +1,62 @@
+{
+  "id": "gh:amplifthq/openmeld",
+  "kind": "repo",
+  "url": "https://github.com/amplifthq/openmeld",
+  "title": "openmeld",
+  "why": "Lets people and AI agents like Claude Code, Codex and Cursor share context and coordinate tasks together in parallel.",
+  "keys": {
+    "races": [
+      "agents/clients",
+      "agents/orchestration",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/clients",
+      "agents/orchestration",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/orchestration/agent-teams"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/amplifthq/openmeld",
+    "sha": "cc034acd6ba0e34d14b69e236bbd5d31bdd77135",
+    "file_url": "https://raw.githubusercontent.com/amplifthq/openmeld/cc034acd6ba0e34d14b69e236bbd5d31bdd77135/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1410,
+    "size_mb": 99,
+    "created_at": "2026-06-24T08:05:12Z",
+    "last_commit_at": "2026-11-03T08:46:16Z",
+    "releases": 2,
+    "tags": 20,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "scan_partial": true
+}

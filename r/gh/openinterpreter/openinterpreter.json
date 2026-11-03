@@ -1,0 +1,57 @@
+{
+  "id": "gh:openinterpreter/openinterpreter",
+  "kind": "repo",
+  "url": "https://github.com/openinterpreter/openinterpreter",
+  "title": "openinterpreter",
+  "why": "Coding agent in Rust forked from the Codex CLI and aimed at open models such as Kimi, Qwen and DeepSeek.",
+  "keys": {
+    "races": [
+      "agents/coding"
+    ],
+    "lanes": [
+      "agents/coding"
+    ],
+    "capabilities": [
+      "agents/coding/cli-agents"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "sdk",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openinterpreter/openinterpreter",
+    "sha": "ac1fcc8fe57aba51fcc3c79afd57a0883237fe87",
+    "file_url": "https://cdn.jsdelivr.net/gh/openinterpreter/openinterpreter@ac1fcc8fe57aba51fcc3c79afd57a0883237fe87/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 68784,
+    "size_mb": 285,
+    "created_at": "2023-07-14T07:10:44Z",
+    "last_commit_at": "2026-11-01T09:59:54Z",
+    "releases": 75,
+    "tags": 96,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "gh:e2b-dev/code-interpreter",
+  "kind": "repo",
+  "url": "https://github.com/e2b-dev/code-interpreter",
+  "title": "code-interpreter",
+  "why": "Runs AI-generated code in a Jupyter-style interpreter that a Python or JavaScript app can call.",
+  "keys": {
+    "races": [
+      "agents/sandboxes"
+    ],
+    "lanes": [
+      "agents/sandboxes"
+    ],
+    "capabilities": [
+      "agents/sandboxes/code-sandboxes"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/e2b-dev/code-interpreter",
+    "sha": "7c895a1eb24107039186650682d8f1942ec94784",
+    "file_url": "https://cdn.jsdelivr.net/gh/e2b-dev/code-interpreter@7c895a1eb24107039186650682d8f1942ec94784/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 2425,
+    "size_mb": 2,
+    "created_at": "2024-03-11T22:08:25Z",
+    "last_commit_at": "2026-10-28T20:54:00Z",
+    "releases": 106,
+    "tags": 107,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

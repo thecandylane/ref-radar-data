@@ -1,0 +1,60 @@
+{
+  "id": "gh:leon-ai/leon",
+  "kind": "repo",
+  "url": "https://github.com/leon-ai/leon",
+  "title": "leon",
+  "why": "Acts as a self-hosted personal assistant with built-in speech recognition and text-to-speech, running fully offline.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "media/speech"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "media/speech"
+    ],
+    "capabilities": [
+      "agents/assistants/personal-agents",
+      "media/speech/text-to-speech"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/leon-ai/leon",
+    "sha": "7064e3e7ebf85c78f8caec77eea1e1132d208b16",
+    "file_url": "https://raw.githubusercontent.com/leon-ai/leon/7064e3e7ebf85c78f8caec77eea1e1132d208b16/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 17631,
+    "size_mb": 144,
+    "created_at": "2019-02-10T12:25:12Z",
+    "last_commit_at": "2026-11-02T23:12:00Z",
+    "releases": 23,
+    "tags": 23,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

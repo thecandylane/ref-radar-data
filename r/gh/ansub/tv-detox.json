@@ -1,0 +1,56 @@
+{
+  "id": "gh:ansub/tv-detox",
+  "kind": "repo",
+  "url": "https://github.com/Ansub/tv-detox",
+  "title": "tv-detox",
+  "why": "Speeds up an old Android TV by swapping in a tiny ad-free launcher and a prompt that guides an agent through removing apps.",
+  "keys": {
+    "races": [
+      "mobile/android"
+    ],
+    "lanes": [
+      "mobile/android"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Ansub/tv-detox",
+    "sha": "b22a1e368ee56d670d11115d8408e9025488240b",
+    "file_url": "https://cdn.jsdelivr.net/gh/Ansub/tv-detox@b22a1e368ee56d670d11115d8408e9025488240b/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "MIT",
+    "stars": 2090,
+    "size_mb": 2,
+    "created_at": "2026-10-18T06:42:29Z",
+    "last_commit_at": "2026-10-30T07:16:25Z",
+    "releases": 15,
+    "tags": 15,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "fresh": true
+}

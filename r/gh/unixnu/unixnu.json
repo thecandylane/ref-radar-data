@@ -1,0 +1,54 @@
+{
+  "id": "gh:unixnu/unixnu",
+  "kind": "repo",
+  "url": "https://github.com/UniXNU/UniXNU",
+  "title": "UniXNU",
+  "why": "Ports iOS and macOS to ARM64 hardware through UEFI, not via Apple's own boot chain.",
+  "keys": {
+    "races": [
+      "embedded/firmware",
+      "mobile/ios"
+    ],
+    "lanes": [
+      "embedded/firmware",
+      "mobile/ios"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/UniXNU/UniXNU",
+    "sha": "67df14de69ae6f6ffc3480b30b70ce7667a3bd32",
+    "file_url": "https://cdn.jsdelivr.net/gh/UniXNU/UniXNU@67df14de69ae6f6ffc3480b30b70ce7667a3bd32/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 1907,
+    "size_mb": 9,
+    "created_at": "2026-10-19T10:46:55Z",
+    "last_commit_at": "2026-11-03T08:57:42Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "fresh": true
+}

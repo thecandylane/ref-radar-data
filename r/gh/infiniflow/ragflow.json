@@ -1,0 +1,67 @@
+{
+  "id": "gh:infiniflow/ragflow",
+  "kind": "repo",
+  "url": "https://github.com/infiniflow/ragflow",
+  "title": "ragflow",
+  "why": "Fuses retrieval-augmented generation with agent capabilities to give LLMs a shared context layer over your documents.",
+  "keys": {
+    "races": [
+      "agents/context",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "agents/context",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "llm-infra/rag/knowledge-platforms"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "sdk",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/infiniflow/ragflow",
+    "sha": "12d9a38e24bf3fb8573b83bc41a2fe75dcd2c281",
+    "file_url": "https://cdn.jsdelivr.net/gh/infiniflow/ragflow@12d9a38e24bf3fb8573b83bc41a2fe75dcd2c281/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 93408,
+    "size_mb": 185,
+    "created_at": "2023-12-12T06:13:13Z",
+    "last_commit_at": "2026-11-03T08:32:15Z",
+    "releases": 59,
+    "tags": 178,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

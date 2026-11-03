@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2610.38617",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.38617",
+  "title": "How Deterministic SAST and AI Security Agents Divide the Work: Coverage, Harness Policy and Cost in Snyk VulnBench 2.0",
+  "why": "Benchmarks Snyk Code against Claude Code, Codex Security and DeepSec on 108 attacker-reachable vulnerabilities, showing where each misses.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "llm-infra/evals"
+    ],
+    "capabilities": [
+      "cyber/appsec/static-analysis",
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.38617"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

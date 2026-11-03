@@ -1,0 +1,53 @@
+{
+  "id": "gh:coreyhaines31/marketingskills",
+  "kind": "repo",
+  "url": "https://github.com/coreyhaines31/marketingskills",
+  "title": "marketingskills",
+  "why": "Skill set covering conversion optimization, copywriting, SEO and analytics so agents can handle marketing work.",
+  "keys": {
+    "races": [
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/skills/plugin-specs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/coreyhaines31/marketingskills",
+    "sha": "88c79f6528a9347420e57ceb1fff9a60de651768",
+    "file_url": "https://cdn.jsdelivr.net/gh/coreyhaines31/marketingskills@88c79f6528a9347420e57ceb1fff9a60de651768/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 58180,
+    "size_mb": 7,
+    "created_at": "2026-01-15T19:45:23Z",
+    "last_commit_at": "2026-10-30T23:28:36Z",
+    "releases": 100,
+    "tags": 100,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -50,5 +50,12 @@
     "votes": {},
     "ranks": {}
   },
-  "fresh": true
+  "fresh": true,
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-02T09:50:06.778Z"
+  }
 }
