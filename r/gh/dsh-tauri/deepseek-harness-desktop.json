@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:7972d419fb22aab06cb71cf453400c1387fc1355"
+  },
   "id": "gh:dsh-tauri/deepseek-harness-desktop",
   "kind": "repo",
   "url": "https://github.com/dsh-tauri/deepseek-harness-desktop",
@@ -42,16 +45,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 3520,
+    "stars": 3547,
     "size_mb": 38,
     "created_at": "2026-08-14T02:36:29Z",
-    "last_commit_at": "2026-11-08T03:26:46Z",
-    "releases": 196,
-    "tags": 213,
+    "last_commit_at": "2026-11-09T04:12:47Z",
+    "releases": 197,
+    "tags": 214,
     "archived": false,
     "release": {
-      "tag": "v0.31.1",
-      "at": "2026-11-07T19:09:09.000Z"
+      "tag": "v0.31.2",
+      "at": "2026-11-08T21:48:44.000Z"
     }
   },
   "reuse": "copy",
@@ -62,7 +65,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 104,
+    "star_delta_7d": 131,
     "votes": {},
     "ranks": {}
   },

@@ -1,4 +1,31 @@
 {
+  "label": "compromised",
+  "labels": [
+    "compromised"
+  ],
+  "trap": {
+    "signs": [
+      {
+        "rule": "T7",
+        "path": "scripts/lockfile_supply_chain_audit.py",
+        "note": "a known worm's token in its text",
+        "mark": "compromised"
+      },
+      {
+        "rule": "T7",
+        "path": "scripts/scan_npm_packages.py",
+        "note": "a known worm's token in its text",
+        "mark": "compromised"
+      }
+    ],
+    "files": [
+      "scripts/lockfile_supply_chain_audit.py",
+      "scripts/scan_npm_packages.py"
+    ],
+    "marks": [
+      "compromised"
+    ]
+  },
   "archive": {
     "swh": "swh:1:rev:2099086d8598731d70870437df4674ab2d9d2121"
   },
@@ -33,10 +60,10 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 79185,
-    "size_mb": 656,
+    "stars": 79229,
+    "size_mb": 660,
     "created_at": "2023-11-29T16:50:09Z",
-    "last_commit_at": "2026-11-08T09:00:15Z",
+    "last_commit_at": "2026-11-09T09:07:57Z",
     "releases": 86,
     "tags": 113,
     "archived": false,
