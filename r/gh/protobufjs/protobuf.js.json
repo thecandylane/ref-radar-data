@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:798b4c942cca81a7ae0a2694f28ecd2985d386c9"
+  },
+  "id": "gh:protobufjs/protobuf.js",
+  "kind": "repo",
+  "url": "https://github.com/protobufjs/protobuf.js",
+  "title": "protobuf.js",
+  "why": "Reads proto files directly in JavaScript and TypeScript to encode and decode messages, with no protoc step.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/protobufjs/protobuf.js",
+    "sha": "798b4c942cca81a7ae0a2694f28ecd2985d386c9",
+    "file_url": "https://cdn.jsdelivr.net/gh/protobufjs/protobuf.js@798b4c942cca81a7ae0a2694f28ecd2985d386c9/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "NOASSERTION",
+    "stars": 10607,
+    "size_mb": 45,
+    "created_at": "2013-03-01T18:46:54Z",
+    "last_commit_at": "2026-10-11T17:07:25Z",
+    "releases": 122,
+    "tags": 193,
+    "archived": false,
+    "release": {
+      "tag": "protobufjs-v8.8.1",
+      "at": "2026-10-11T17:07:41.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

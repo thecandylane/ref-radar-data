@@ -1,0 +1,65 @@
+{
+  "id": "gh:connectrpc/connect-go",
+  "kind": "repo",
+  "url": "https://github.com/connectrpc/connect-go",
+  "title": "connect-go",
+  "why": "Go library for defining protobuf RPC services served over gRPC-compatible HTTP, with gzip and in-process helpers.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/connectrpc/connect-go",
+    "sha": "297fdd604405a9aead42f549d65dd5296e6c69d3",
+    "file_url": "https://cdn.jsdelivr.net/gh/connectrpc/connect-go@297fdd604405a9aead42f549d65dd5296e6c69d3/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 4147,
+    "size_mb": 4,
+    "created_at": "2021-08-02T04:08:04Z",
+    "last_commit_at": "2026-11-05T15:30:46Z",
+    "releases": 50,
+    "tags": 50,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.2",
+      "at": "2026-10-21T22:07:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

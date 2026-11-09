@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b5136e28de72bab6c4f668a07f6272287da902d1"
+  },
+  "id": "gh:verlintas/noir",
+  "kind": "repo",
+  "url": "https://github.com/Verlintas/NOIR",
+  "title": "NOIR",
+  "why": "Uses adb to audit an Android app's permissions, network endpoints and data flows, then offers reversible fixes.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "desktop/terminal-ui",
+      "mobile/android"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "desktop/terminal-ui",
+      "mobile/android"
+    ],
+    "capabilities": [
+      "cyber/appsec/static-analysis"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Verlintas/NOIR",
+    "sha": "b5136e28de72bab6c4f668a07f6272287da902d1",
+    "file_url": "https://cdn.jsdelivr.net/gh/Verlintas/NOIR@b5136e28de72bab6c4f668a07f6272287da902d1/{path}"
+  },
+  "facts": {
+    "lang": "Kotlin",
+    "license": "MIT",
+    "stars": 3023,
+    "size_mb": 2,
+    "created_at": "2026-10-31T21:34:39Z",
+    "last_commit_at": "2026-11-07T16:07:14Z",
+    "releases": 15,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.2",
+      "at": "2026-11-07T14:20:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "fresh": true
+}

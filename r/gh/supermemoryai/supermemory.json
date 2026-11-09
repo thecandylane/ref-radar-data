@@ -32,19 +32,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/supermemoryai/supermemory",
-    "sha": "d53d124e4769e34c4be8bcc5d21eed1855b090ef",
-    "file_url": "https://cdn.jsdelivr.net/gh/supermemoryai/supermemory@d53d124e4769e34c4be8bcc5d21eed1855b090ef/{path}"
+    "sha": "16ed414e0e0c61c946b7687ec813b2064fe75dd4",
+    "file_url": "https://cdn.jsdelivr.net/gh/supermemoryai/supermemory@16ed414e0e0c61c946b7687ec813b2064fe75dd4/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 31510,
+    "stars": 31565,
     "size_mb": 209,
     "created_at": "2024-02-27T20:10:04Z",
     "last_commit_at": "2026-11-02T23:05:32Z",
     "releases": 18,
     "tags": 19,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "server-v0.0.9",
+      "at": "2026-10-12T18:59:36.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

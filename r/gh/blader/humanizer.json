@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:0ef9fe5bc3572734fd3ae6c448fe00a30cd5dcf0"
+  },
   "id": "gh:blader/humanizer",
   "kind": "repo",
   "url": "https://github.com/blader/humanizer",
@@ -30,13 +33,17 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 64155,
+    "stars": 66094,
     "size_mb": 0,
     "created_at": "2026-01-18T05:30:15Z",
     "last_commit_at": "2026-10-28T07:17:33Z",
     "releases": 6,
     "tags": 6,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v3.1.0",
+      "at": "2026-09-28T05:55:12.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

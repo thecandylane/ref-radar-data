@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a21972e219289337731a066befb5c66886b9ce7b"
+  },
+  "id": "gh:cloudflare/mcp-server-cloudflare",
+  "kind": "repo",
+  "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+  "title": "mcp-server-cloudflare",
+  "why": "Lets agents work with Cloudflare through separate MCP servers per product, with implementation guides for adding more.",
+  "keys": {
+    "races": [
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/cloud-ops",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cloudflare/mcp-server-cloudflare",
+    "sha": "a21972e219289337731a066befb5c66886b9ce7b",
+    "file_url": "https://cdn.jsdelivr.net/gh/cloudflare/mcp-server-cloudflare@a21972e219289337731a066befb5c66886b9ce7b/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 4453,
+    "size_mb": 6,
+    "created_at": "2024-11-27T22:07:30Z",
+    "last_commit_at": "2026-10-22T15:20:22Z",
+    "releases": 490,
+    "tags": 511,
+    "archived": false,
+    "release": {
+      "tag": "docs-ai-search@0.5.0",
+      "at": "2026-10-22T15:22:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

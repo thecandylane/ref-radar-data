@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:22d54b9a700203f7350a21d009ce0fa381717f31"
+  },
   "id": "gh:e-n-f/if-then-else",
   "kind": "repo",
   "url": "https://github.com/e-n-f/if-then-else",
@@ -34,7 +37,8 @@
     "last_commit_at": "2020-12-13T21:50:19Z",
     "releases": 0,
     "tags": 0,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "study",
   "maturity": "quiet",
@@ -47,6 +51,5 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  },
-  "scan_partial": true
+  }
 }

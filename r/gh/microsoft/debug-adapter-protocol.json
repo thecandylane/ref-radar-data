@@ -1,0 +1,55 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1248685afb6b5d08c45d1c1a1d157db277f63b07"
+  },
+  "id": "gh:microsoft/debug-adapter-protocol",
+  "kind": "repo",
+  "url": "https://github.com/microsoft/debug-adapter-protocol",
+  "title": "debug-adapter-protocol",
+  "why": "Specification and JSON schema for how editors talk to debuggers, with an implementors list and a spec generator.",
+  "keys": {
+    "races": [
+      "dev-tools/debugging"
+    ],
+    "lanes": [
+      "dev-tools/debugging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microsoft/debug-adapter-protocol",
+    "sha": "1248685afb6b5d08c45d1c1a1d157db277f63b07",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/debug-adapter-protocol@1248685afb6b5d08c45d1c1a1d157db277f63b07/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "NOASSERTION",
+    "stars": 1792,
+    "size_mb": 4,
+    "created_at": "2017-02-01T16:38:15Z",
+    "last_commit_at": "2026-11-03T09:19:01Z",
+    "releases": 0,
+    "tags": 39,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:18be30ab417a371fd441de68d7252d2bc1830f11"
+  },
   "id": "gh:duty1g/x64dbg-mcp-server",
   "kind": "repo",
   "url": "https://github.com/duty1g/x64dbg-mcp-server",
@@ -6,17 +9,17 @@
   "why": "Lets an AI assistant drive x64dbg over HTTP, setting breakpoints, stepping code and reading memory, from a single Zig binary.",
   "keys": {
     "races": [
-      "agents/tools",
-      "cyber/reversing"
+      "cyber/reversing",
+      "agents/tools"
     ],
     "lanes": [
-      "agents/tools",
-      "cyber/reversing"
+      "cyber/reversing",
+      "agents/tools"
     ],
     "capabilities": [
-      "agents/tools/mcp-servers",
       "cyber/reversing/agentic-re",
-      "cyber/reversing/debuggers"
+      "cyber/reversing/debuggers",
+      "agents/tools/mcp-servers"
     ]
   },
   "read": [
@@ -38,13 +41,17 @@
   "facts": {
     "lang": "Zig",
     "license": "MIT",
-    "stars": 2763,
+    "stars": 2806,
     "size_mb": 2,
     "created_at": "2026-08-22T14:28:41Z",
-    "last_commit_at": "2026-10-12T08:48:54Z",
-    "releases": 7,
-    "tags": 7,
-    "archived": false
+    "last_commit_at": "2026-11-03T11:09:07Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v1.7",
+      "at": "2026-11-03T11:09:33.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "new",
@@ -54,10 +61,11 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 73,
     "votes": {},
     "ranks": {}
   },
+  "hot": true,
   "risk": {
     "level": "caution",
     "signals": [

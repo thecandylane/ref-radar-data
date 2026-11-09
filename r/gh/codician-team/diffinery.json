@@ -1,0 +1,107 @@
+{
+  "label": "agent-trap",
+  "labels": [
+    "agent-trap"
+  ],
+  "trap": {
+    "signs": [
+      {
+        "rule": "T5",
+        "path": "plugins/diffinery/hooks/hooks.json",
+        "note": "an auto-run entry that runs a file that fetches or decodes what it runs: plugins/diffinery/hooks/session-start.sh",
+        "mark": "agent-trap"
+      },
+      {
+        "rule": "T5",
+        "path": "plugins/diffinery/hooks/session-start.sh",
+        "note": "a file an auto-run entry runs that fetches or decodes what it runs",
+        "mark": "agent-trap"
+      }
+    ],
+    "files": [
+      "plugins/diffinery/hooks/hooks.json",
+      "plugins/diffinery/hooks/session-start.sh"
+    ],
+    "marks": [
+      "agent-trap"
+    ]
+  },
+  "id": "gh:codician-team/diffinery",
+  "kind": "repo",
+  "url": "https://github.com/codician-team/diffinery",
+  "title": "diffinery",
+  "why": "Brings git hosting and Actions-style CI onto a Cloudflare account you control, with an MCP server for agents.",
+  "keys": {
+    "races": [
+      "dev-tools/code-review",
+      "dev-tools/vcs",
+      "infra/ci-cd",
+      "infra/serverless",
+      "agents/tools"
+    ],
+    "lanes": [
+      "dev-tools/code-review",
+      "dev-tools/vcs",
+      "infra/ci-cd",
+      "infra/serverless",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/codician-team/diffinery",
+    "sha": "bbfcbd52a52ee2bee36e0afb24e2c0f9d41dc7e4",
+    "file_url": "https://cdn.jsdelivr.net/gh/codician-team/diffinery@bbfcbd52a52ee2bee36e0afb24e2c0f9d41dc7e4/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 82,
+    "size_mb": 6,
+    "created_at": "2026-10-25T19:10:20Z",
+    "last_commit_at": "2026-11-04T15:06:13Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.0",
+      "at": "2026-10-31T11:43:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-08T10:21:45.911Z"
+  }
+}

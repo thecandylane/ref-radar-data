@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5c43eb4fce40bfb7c586543565e9d52ba12d0ed8"
+  },
+  "id": "gh:desktop/desktop",
+  "kind": "repo",
+  "url": "https://github.com/desktop/desktop",
+  "title": "desktop",
+  "why": "Electron and TypeScript app that gives Git and GitHub a graphical client, with AGENTS.md for contributors.",
+  "keys": {
+    "races": [
+      "dev-tools/vcs",
+      "desktop/app-shells"
+    ],
+    "lanes": [
+      "dev-tools/vcs",
+      "desktop/app-shells"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/desktop/desktop",
+    "sha": "5c43eb4fce40bfb7c586543565e9d52ba12d0ed8",
+    "file_url": "https://cdn.jsdelivr.net/gh/desktop/desktop@5c43eb4fce40bfb7c586543565e9d52ba12d0ed8/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 22065,
+    "size_mb": 113,
+    "created_at": "2016-05-11T15:59:00Z",
+    "last_commit_at": "2026-11-06T15:26:17Z",
+    "releases": 265,
+    "tags": 877,
+    "archived": false,
+    "release": {
+      "tag": "release-3.6.10",
+      "at": "2026-10-30T08:14:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

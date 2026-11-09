@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:71350712ca049af48d50f8d23441c6ac82a21da0"
+  },
   "id": "gh:microsoft/playwright",
   "kind": "repo",
   "url": "https://github.com/microsoft/playwright",
@@ -28,19 +31,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/microsoft/playwright",
-    "sha": "a6fb02f5aa494764a21a637f2db6ea1031461935",
-    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/playwright@a6fb02f5aa494764a21a637f2db6ea1031461935/{path}"
+    "sha": "71350712ca049af48d50f8d23441c6ac82a21da0",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/playwright@71350712ca049af48d50f8d23441c6ac82a21da0/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 99167,
-    "size_mb": 241,
+    "stars": 99558,
+    "size_mb": 242,
     "created_at": "2019-11-15T18:32:42Z",
-    "last_commit_at": "2026-11-03T02:13:34Z",
-    "releases": 168,
-    "tags": 168,
-    "archived": false
+    "last_commit_at": "2026-11-07T01:02:36Z",
+    "releases": 169,
+    "tags": 169,
+    "archived": false,
+    "release": {
+      "tag": "v1.65.0",
+      "at": "2026-11-05T18:25:45.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -50,8 +57,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 473,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "hot": true
 }

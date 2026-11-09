@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:1fb0aa26d3eb66254f7742e704add7f82f41a582"
+  },
   "id": "gh:containers/bubblewrap",
   "kind": "repo",
   "url": "https://github.com/containers/bubblewrap",
@@ -30,13 +33,17 @@
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 9350,
+    "stars": 9410,
     "size_mb": 1,
     "created_at": "2016-02-16T20:36:10Z",
     "last_commit_at": "2026-10-14T12:26:03Z",
     "releases": 28,
     "tags": 32,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v0.13.1",
+      "at": "2026-10-14T12:21:00.000Z"
+    }
   },
   "reuse": "study",
   "maturity": "stable",
@@ -46,9 +53,8 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 120,
+    "star_delta_7d": 76,
     "votes": {},
     "ranks": {}
-  },
-  "hot": true
+  }
 }

@@ -1,0 +1,55 @@
+{
+  "id": "gh:guardicore/monkey",
+  "kind": "repo",
+  "url": "https://github.com/guardicore/monkey",
+  "title": "monkey",
+  "why": "Runs a network worm that mimics malware behavior without causing damage, so defenders can see whether controls detect or stop the infection.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/guardicore/monkey",
+    "sha": "bea2f415c8966de235798bbf9d2dbcd06fd37ae4",
+    "file_url": "https://cdn.jsdelivr.net/gh/guardicore/monkey@bea2f415c8966de235798bbf9d2dbcd06fd37ae4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 7124,
+    "size_mb": 89,
+    "created_at": "2015-08-30T07:22:51Z",
+    "last_commit_at": "2026-11-03T11:54:32Z",
+    "releases": 19,
+    "tags": 25,
+    "archived": false,
+    "release": {
+      "tag": "v2.3.0",
+      "at": "2023-09-19T16:53:21.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

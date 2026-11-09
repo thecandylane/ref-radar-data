@@ -7,13 +7,13 @@
   "keys": {
     "races": [
       "agents/clients",
-      "agents/skills",
-      "design/tools"
+      "design/tools",
+      "agents/skills"
     ],
     "lanes": [
       "agents/clients",
-      "agents/skills",
-      "design/tools"
+      "design/tools",
+      "agents/skills"
     ],
     "capabilities": [
       "agents/clients/desktop-apps",
@@ -43,13 +43,17 @@
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 105622,
-    "size_mb": 3554,
+    "stars": 106544,
+    "size_mb": 3571,
     "created_at": "2026-04-28T04:25:20Z",
-    "last_commit_at": "2026-11-02T03:25:06Z",
-    "releases": 41,
-    "tags": 47,
-    "archived": false
+    "last_commit_at": "2026-11-06T08:05:05Z",
+    "releases": 42,
+    "tags": 48,
+    "archived": false,
+    "release": {
+      "tag": "open-design-v0.27.0",
+      "at": "2026-11-04T04:02:06.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -59,8 +63,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 1118,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "hot": true
 }

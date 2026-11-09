@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cb10dff090f12385091f6dd28647b1618cf7e826"
+  },
+  "id": "gh:visgl/deck.gl",
+  "kind": "repo",
+  "url": "https://github.com/visgl/deck.gl",
+  "title": "deck.gl",
+  "why": "Renders geospatial data on maps with WebGL2 layers, from JavaScript or Python.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "games/graphics"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/visgl/deck.gl",
+    "sha": "cb10dff090f12385091f6dd28647b1618cf7e826",
+    "file_url": "https://cdn.jsdelivr.net/gh/visgl/deck.gl@cb10dff090f12385091f6dd28647b1618cf7e826/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 14742,
+    "size_mb": 1146,
+    "created_at": "2015-12-15T08:38:29Z",
+    "last_commit_at": "2026-11-07T21:51:21Z",
+    "releases": 315,
+    "tags": 706,
+    "archived": false,
+    "release": {
+      "tag": "v9.3.12",
+      "at": "2026-10-30T20:19:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

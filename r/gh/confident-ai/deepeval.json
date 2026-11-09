@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d03e41104fa922f3ac8b82e53bf2fddbc54ae1e2"
+  },
+  "id": "gh:confident-ai/deepeval",
+  "kind": "repo",
+  "url": "https://github.com/confident-ai/deepeval",
+  "title": "deepeval",
+  "why": "Pytest-style unit tests for LLM apps, with metrics for agents, chatbots, voice agents and RAG pipelines that run locally.",
+  "keys": {
+    "races": [
+      "agents/optimization",
+      "llm-infra/evals",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/optimization",
+      "llm-infra/evals",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/optimization/prompt-optimization"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/confident-ai/deepeval",
+    "sha": "d03e41104fa922f3ac8b82e53bf2fddbc54ae1e2",
+    "file_url": "https://cdn.jsdelivr.net/gh/confident-ai/deepeval@d03e41104fa922f3ac8b82e53bf2fddbc54ae1e2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 19363,
+    "size_mb": 210,
+    "created_at": "2023-08-10T05:35:04Z",
+    "last_commit_at": "2026-11-07T21:30:17Z",
+    "releases": 64,
+    "tags": 358,
+    "archived": false,
+    "release": {
+      "tag": "python-v4.2.4",
+      "at": "2026-09-22T16:36:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d94b1eb06d55d1cf01559f8818b1df0625a3ea3d"
+  },
+  "id": "gh:beeware/briefcase",
+  "kind": "repo",
+  "url": "https://github.com/beeware/briefcase",
+  "title": "briefcase",
+  "why": "Builds and bundles Python code as installable apps for each operating system, configured through pyproject.toml.",
+  "keys": {
+    "races": [
+      "desktop/packaging"
+    ],
+    "lanes": [
+      "desktop/packaging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/beeware/briefcase",
+    "sha": "d94b1eb06d55d1cf01559f8818b1df0625a3ea3d",
+    "file_url": "https://cdn.jsdelivr.net/gh/beeware/briefcase@d94b1eb06d55d1cf01559f8818b1df0625a3ea3d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 3376,
+    "size_mb": 15,
+    "created_at": "2015-07-28T15:20:03Z",
+    "last_commit_at": "2026-11-06T04:22:04Z",
+    "releases": 46,
+    "tags": 81,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.7",
+      "at": "2026-10-27T02:36:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

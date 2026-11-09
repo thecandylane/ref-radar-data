@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3ae34426c58d266a1979ff9607514c3d7fe1aa21"
+  },
+  "id": "gh:ly4k/certipy",
+  "kind": "repo",
+  "url": "https://github.com/ly4k/Certipy",
+  "title": "Certipy",
+  "why": "Python tool that enumerates Active Directory Certificate Services and shows which settings can be abused.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/identity"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ly4k/Certipy",
+    "sha": "3ae34426c58d266a1979ff9607514c3d7fe1aa21",
+    "file_url": "https://cdn.jsdelivr.net/gh/ly4k/Certipy@3ae34426c58d266a1979ff9607514c3d7fe1aa21/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 3720,
+    "size_mb": 0,
+    "created_at": "2021-10-06T23:02:40Z",
+    "last_commit_at": "2026-07-30T00:26:45Z",
+    "releases": 29,
+    "tags": 29,
+    "archived": false,
+    "release": {
+      "tag": "5.1.0",
+      "at": "2026-06-23T21:25:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-04T04:32:37.916Z"
+  }
+}

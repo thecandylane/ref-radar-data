@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:59f9931f0f365f1e33871ed9d641b33e8039c190"
+  },
+  "id": "gh:binwiederhier/ntfy",
+  "kind": "repo",
+  "url": "https://github.com/binwiederhier/ntfy",
+  "title": "ntfy",
+  "why": "Publish a push notification to a phone or desktop with a plain PUT or POST from curl or a script, hosted by yourself.",
+  "keys": {
+    "races": [
+      "infra/hosting"
+    ],
+    "lanes": [
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/binwiederhier/ntfy",
+    "sha": "59f9931f0f365f1e33871ed9d641b33e8039c190",
+    "file_url": "https://cdn.jsdelivr.net/gh/binwiederhier/ntfy@59f9931f0f365f1e33871ed9d641b33e8039c190/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 35390,
+    "size_mb": 45,
+    "created_at": "2021-10-23T19:25:32Z",
+    "last_commit_at": "2026-11-04T02:33:56Z",
+    "releases": 121,
+    "tags": 126,
+    "archived": false,
+    "release": {
+      "tag": "v2.37.2",
+      "at": "2026-11-04T01:45:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

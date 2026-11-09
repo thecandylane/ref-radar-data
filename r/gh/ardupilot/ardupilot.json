@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1348fd162b96e5b1afaeabf12449eab622864384"
+  },
+  "id": "gh:ardupilot/ardupilot",
+  "kind": "repo",
+  "url": "https://github.com/ArduPilot/ardupilot",
+  "title": "ardupilot",
+  "why": "Autopilot code for planes, copters, rovers and subs, usable with MAVLink and ROS and built with waf.",
+  "keys": {
+    "races": [
+      "embedded/firmware",
+      "embedded/robotics"
+    ],
+    "lanes": [
+      "embedded/firmware",
+      "embedded/robotics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ArduPilot/ardupilot",
+    "sha": "1348fd162b96e5b1afaeabf12449eab622864384",
+    "file_url": "https://raw.githubusercontent.com/ArduPilot/ardupilot/1348fd162b96e5b1afaeabf12449eab622864384/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-3.0",
+    "stars": 16330,
+    "size_mb": 671,
+    "created_at": "2013-01-09T00:58:52Z",
+    "last_commit_at": "2026-11-07T23:23:16Z",
+    "releases": 104,
+    "tags": 550,
+    "archived": false,
+    "release": {
+      "tag": "Plane-4.7.2",
+      "at": "2026-10-14T00:53:31.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

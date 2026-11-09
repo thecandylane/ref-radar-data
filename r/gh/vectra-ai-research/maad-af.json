@@ -1,0 +1,66 @@
+{
+  "id": "gh:vectra-ai-research/maad-af",
+  "kind": "repo",
+  "url": "https://github.com/vectra-ai-research/MAAD-AF",
+  "title": "MAAD-AF",
+  "why": "Emulates M365 and Entra ID attacks like mailbox audit bypass and mail-forwarding exfiltration through an interactive, zero-setup PowerShell workflow.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/iam"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vectra-ai-research/MAAD-AF",
+    "sha": "b89412b51b85b07efc77f2fa6e2b39d138269daf",
+    "file_url": "https://cdn.jsdelivr.net/gh/vectra-ai-research/MAAD-AF@b89412b51b85b07efc77f2fa6e2b39d138269daf/{path}"
+  },
+  "facts": {
+    "lang": "PowerShell",
+    "license": "GPL-3.0",
+    "stars": 433,
+    "size_mb": 1,
+    "created_at": "2023-02-09T02:08:07Z",
+    "last_commit_at": "2026-01-13T23:59:46Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v3.0",
+      "at": "2024-01-15T19:52:27.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-04T10:01:44.640Z"
+  }
+}

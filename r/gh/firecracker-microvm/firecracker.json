@@ -28,19 +28,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/firecracker-microvm/firecracker",
-    "sha": "ab198c7aa1f72cb30541165c20be27dbd1b88c2e",
-    "file_url": "https://cdn.jsdelivr.net/gh/firecracker-microvm/firecracker@ab198c7aa1f72cb30541165c20be27dbd1b88c2e/{path}"
+    "sha": "5cb9a93cf3698f861e9dbe12c703828a02df390c",
+    "file_url": "https://cdn.jsdelivr.net/gh/firecracker-microvm/firecracker@5cb9a93cf3698f861e9dbe12c703828a02df390c/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 37803,
+    "stars": 37896,
     "size_mb": 43,
     "created_at": "2017-10-19T06:18:47Z",
-    "last_commit_at": "2026-11-02T22:01:55Z",
+    "last_commit_at": "2026-11-06T18:52:23Z",
     "releases": 92,
-    "tags": 109,
-    "archived": false
+    "tags": 110,
+    "archived": false,
+    "release": {
+      "tag": "v1.17.0",
+      "at": "2026-09-10T14:19:40.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -50,8 +54,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 117,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "hot": true
 }

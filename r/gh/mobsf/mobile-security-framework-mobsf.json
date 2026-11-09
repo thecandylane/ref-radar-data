@@ -1,0 +1,63 @@
+{
+  "id": "gh:mobsf/mobile-security-framework-mobsf",
+  "kind": "repo",
+  "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+  "title": "Mobile-Security-Framework-MobSF",
+  "why": "Runs static and dynamic analysis on Android, iOS and Windows apps to find vulnerabilities during a pen test.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "cyber/reversing",
+      "mobile/android",
+      "mobile/ios"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "cyber/reversing",
+      "mobile/android",
+      "mobile/ios"
+    ],
+    "capabilities": [
+      "cyber/appsec/static-analysis"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+    "sha": "d3998a32be5f39dd02b2988c071a9d0a74b16931",
+    "file_url": "https://raw.githubusercontent.com/MobSF/Mobile-Security-Framework-MobSF/d3998a32be5f39dd02b2988c071a9d0a74b16931/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 22168,
+    "size_mb": 1513,
+    "created_at": "2015-01-31T04:36:01Z",
+    "last_commit_at": "2026-11-07T05:00:16Z",
+    "releases": 57,
+    "tags": 60,
+    "archived": false,
+    "release": {
+      "tag": "v4.6.4",
+      "at": "2026-10-31T07:30:44.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

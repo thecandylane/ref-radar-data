@@ -1,0 +1,40 @@
+{
+  "id": "arxiv:2610.41307",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.41307",
+  "title": "Erase the Injected Region: Multimodal Prompt-Injection Defense with On-Policy Self-Distillation",
+  "why": "Defends multimodal models from injected instructions in images, audio and video by self-distilling from a view with the injected region erased.",
+  "keys": {
+    "races": [
+      "cyber/agent-security",
+      "ml/training"
+    ],
+    "lanes": [
+      "cyber/agent-security",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.41307"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

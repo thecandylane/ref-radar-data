@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:142df446dff728f77f3f53d9f742b445d99e4b4d"
+  },
+  "id": "gh:paradevai/paradev",
+  "kind": "repo",
+  "url": "https://github.com/ParadevAI/Paradev",
+  "title": "Paradev",
+  "why": "Runs many coding agents side by side in separate git worktrees, each on your own Claude Code or Codex subscription.",
+  "keys": {
+    "races": [
+      "agents/orchestration",
+      "agents/coding"
+    ],
+    "lanes": [
+      "agents/orchestration",
+      "agents/coding"
+    ],
+    "capabilities": [
+      "agents/orchestration/agent-teams"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ParadevAI/Paradev",
+    "sha": "142df446dff728f77f3f53d9f742b445d99e4b4d",
+    "file_url": "https://raw.githubusercontent.com/ParadevAI/Paradev/142df446dff728f77f3f53d9f742b445d99e4b4d/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 16090,
+    "size_mb": 924,
+    "created_at": "2025-10-21T09:16:51Z",
+    "last_commit_at": "2026-11-08T06:22:29Z",
+    "releases": 262,
+    "tags": 358,
+    "archived": false,
+    "release": {
+      "tag": "desktop-v2.0.6",
+      "at": "2026-11-08T06:22:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

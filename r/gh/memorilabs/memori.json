@@ -1,0 +1,60 @@
+{
+  "id": "gh:memorilabs/memori",
+  "kind": "repo",
+  "url": "https://github.com/MemoriLabs/Memori",
+  "title": "Memori",
+  "why": "Stores agent conversations and runs as structured, persistent memory for any LLM, with Python and TypeScript SDKs.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/memory",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/memory/long-term-memory",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MemoriLabs/Memori",
+    "sha": "574b1ea3e876f100ef82c37817d603eb7e258e59",
+    "file_url": "https://cdn.jsdelivr.net/gh/MemoriLabs/Memori@574b1ea3e876f100ef82c37817d603eb7e258e59/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 17462,
+    "size_mb": 31,
+    "created_at": "2025-07-24T07:07:51Z",
+    "last_commit_at": "2026-09-18T00:03:14Z",
+    "releases": 38,
+    "tags": 38,
+    "archived": false,
+    "release": {
+      "tag": "v3.3.6",
+      "at": "2026-05-28T01:01:26.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

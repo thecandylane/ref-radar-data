@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "page": "https://web.archive.org/web/20261028111817/https://arxiv.org/abs/2610.36108"
+  },
   "id": "arxiv:2610.36108",
   "kind": "paper",
   "url": "https://arxiv.org/abs/2610.36108",
@@ -6,12 +9,12 @@
   "why": "Shows how poisoned MCP tool descriptions can make an agent log the user query to an attacker, with 62.64-100% attack success.",
   "keys": {
     "races": [
-      "agents/tools",
-      "cyber/agent-security"
+      "cyber/agent-security",
+      "agents/tools"
     ],
     "lanes": [
-      "agents/tools",
-      "cyber/agent-security"
+      "cyber/agent-security",
+      "agents/tools"
     ],
     "capabilities": [
       "agents/tools/mcp-servers"

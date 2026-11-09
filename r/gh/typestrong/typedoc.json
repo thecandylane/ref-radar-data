@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6d8c856bbb46b089371952981f113c3e318818fd"
+  },
+  "id": "gh:typestrong/typedoc",
+  "kind": "repo",
+  "url": "https://github.com/TypeStrong/typedoc",
+  "title": "typedoc",
+  "why": "Reads TypeScript source and its tsdoc comments to produce a documentation site, with a tsdoc config for tags.",
+  "keys": {
+    "races": [
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/TypeStrong/typedoc",
+    "sha": "6d8c856bbb46b089371952981f113c3e318818fd",
+    "file_url": "https://cdn.jsdelivr.net/gh/TypeStrong/typedoc@6d8c856bbb46b089371952981f113c3e318818fd/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 8454,
+    "size_mb": 18,
+    "created_at": "2014-05-24T14:40:16Z",
+    "last_commit_at": "2026-07-13T01:33:41Z",
+    "releases": 254,
+    "tags": 254,
+    "archived": false,
+    "release": {
+      "tag": "v0.28.20",
+      "at": "2026-07-05T22:54:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

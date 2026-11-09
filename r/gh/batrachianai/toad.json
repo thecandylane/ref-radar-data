@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:dd4f90e8b3700c3de80ad4b0eaa488ad0105e2c1"
+  },
+  "id": "gh:batrachianai/toad",
+  "kind": "repo",
+  "url": "https://github.com/batrachianai/toad",
+  "title": "toad",
+  "why": "Drive Claude Code, Codex CLI and Copilot from one Textual app in Python instead of juggling separate terminal tools.",
+  "keys": {
+    "races": [
+      "agents/clients",
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "agents/clients",
+      "desktop/terminal-ui"
+    ],
+    "capabilities": [
+      "agents/clients/terminal-clients"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/batrachianai/toad",
+    "sha": "dd4f90e8b3700c3de80ad4b0eaa488ad0105e2c1",
+    "file_url": "https://cdn.jsdelivr.net/gh/batrachianai/toad@dd4f90e8b3700c3de80ad4b0eaa488ad0105e2c1/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 3502,
+    "size_mb": 3,
+    "created_at": "2025-07-17T17:17:22Z",
+    "last_commit_at": "2026-05-26T08:43:42Z",
+    "releases": 45,
+    "tags": 45,
+    "archived": false,
+    "release": {
+      "tag": "v0.6.20",
+      "at": "2026-05-26T08:30:51.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

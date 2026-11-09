@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bcfdf555e2440f994d52d74f6b6efe39d623e790"
+  },
+  "id": "gh:firebase/firebase-tools",
+  "kind": "repo",
+  "url": "https://github.com/firebase/firebase-tools",
+  "title": "firebase-tools",
+  "why": "Deploys to Firebase from the command line and hosts the official MCP Server, covering Hosting, Firestore, Cloud Functions and emulators.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "mobile/app-backends"
+    ],
+    "lanes": [
+      "agents/tools",
+      "mobile/app-backends"
+    ],
+    "capabilities": [
+      "agents/tools/cloud-ops",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/firebase/firebase-tools",
+    "sha": "bcfdf555e2440f994d52d74f6b6efe39d623e790",
+    "file_url": "https://cdn.jsdelivr.net/gh/firebase/firebase-tools@bcfdf555e2440f994d52d74f6b6efe39d623e790/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 4488,
+    "size_mb": 86,
+    "created_at": "2013-12-23T18:53:04Z",
+    "last_commit_at": "2026-11-06T22:31:36Z",
+    "releases": 519,
+    "tags": 520,
+    "archived": false,
+    "release": {
+      "tag": "v15.35.0",
+      "at": "2026-11-04T19:35:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

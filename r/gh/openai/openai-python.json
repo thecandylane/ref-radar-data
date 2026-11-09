@@ -1,0 +1,61 @@
+{
+  "id": "gh:openai/openai-python",
+  "kind": "repo",
+  "url": "https://github.com/openai/openai-python",
+  "title": "openai-python",
+  "why": "Python client for the OpenAI API with a folder of examples and extra guides for Bedrock and Vertex.",
+  "keys": {
+    "races": [
+      "agents/frameworks"
+    ],
+    "lanes": [
+      "agents/frameworks"
+    ],
+    "capabilities": [
+      "agents/frameworks/llm-sdks"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openai/openai-python",
+    "sha": "ea5d1606f441d80dca1e9e7f99b74581f41408f8",
+    "file_url": "https://cdn.jsdelivr.net/gh/openai/openai-python@ea5d1606f441d80dca1e9e7f99b74581f41408f8/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 32078,
+    "size_mb": 28,
+    "created_at": "2020-10-25T23:23:54Z",
+    "last_commit_at": "2026-11-07T03:33:59Z",
+    "releases": 459,
+    "tags": 461,
+    "archived": false,
+    "release": {
+      "tag": "v3.47.0",
+      "at": "2026-11-05T18:04:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

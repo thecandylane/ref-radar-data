@@ -28,19 +28,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/withastro/starlight",
-    "sha": "6c9ca431629bbd37d969876f5f4281b5f5a34d38",
-    "file_url": "https://cdn.jsdelivr.net/gh/withastro/starlight@6c9ca431629bbd37d969876f5f4281b5f5a34d38/{path}"
+    "sha": "0a7c69ce22a4ca7b5082f9bfa5f8a61df7409859",
+    "file_url": "https://cdn.jsdelivr.net/gh/withastro/starlight@0a7c69ce22a4ca7b5082f9bfa5f8a61df7409859/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 9514,
-    "size_mb": 35,
+    "stars": 9531,
+    "size_mb": 36,
     "created_at": "2023-03-16T15:55:33Z",
-    "last_commit_at": "2026-11-03T08:51:45Z",
-    "releases": 231,
-    "tags": 231,
-    "archived": false
+    "last_commit_at": "2026-11-06T21:09:45Z",
+    "releases": 234,
+    "tags": 234,
+    "archived": false,
+    "release": {
+      "tag": "@astrojs/starlight-docsearch@0.8.1",
+      "at": "2026-11-06T18:13:21.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -50,7 +54,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 21,
     "votes": {},
     "ranks": {}
   }

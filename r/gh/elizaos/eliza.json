@@ -1,0 +1,63 @@
+{
+  "id": "gh:elizaos/eliza",
+  "kind": "repo",
+  "url": "https://github.com/elizaOS/eliza",
+  "title": "eliza",
+  "why": "Agent framework with plugins and connectors for Discord, Slack and Telegram, organised as a TypeScript monorepo.",
+  "keys": {
+    "races": [
+      "agents/frameworks",
+      "agents/assistants"
+    ],
+    "lanes": [
+      "agents/frameworks",
+      "agents/assistants"
+    ],
+    "capabilities": [
+      "agents/frameworks/bot-frameworks"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/elizaOS/eliza",
+    "sha": "795ddb18f2fcbd2b1e3f7a897eafa531417cc0ef",
+    "file_url": "https://raw.githubusercontent.com/elizaOS/eliza/795ddb18f2fcbd2b1e3f7a897eafa531417cc0ef/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 19789,
+    "size_mb": 2057,
+    "created_at": "2024-07-09T07:55:40Z",
+    "last_commit_at": "2026-11-08T01:17:20Z",
+    "releases": 17,
+    "tags": 128,
+    "archived": false,
+    "release": {
+      "tag": "pr-evidence-11",
+      "at": "2026-08-23T19:49:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "gh:unum-cloud/usearch",
+  "kind": "repo",
+  "url": "https://github.com/unum-cloud/USearch",
+  "title": "USearch",
+  "why": "Vector and similarity search engine in C++ with bindings for Python, Rust, Java, Swift and more, plus SQLite and WASM builds.",
+  "keys": {
+    "races": [
+      "llm-infra/rag",
+      "data/search"
+    ],
+    "lanes": [
+      "llm-infra/rag",
+      "data/search"
+    ],
+    "capabilities": [
+      "llm-infra/rag/vector-search"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/unum-cloud/USearch",
+    "sha": "33d3ab6416f87581fe0bc6cc833bac9f516a0c82",
+    "file_url": "https://cdn.jsdelivr.net/gh/unum-cloud/USearch@33d3ab6416f87581fe0bc6cc833bac9f516a0c82/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 4373,
+    "size_mb": 5,
+    "created_at": "2023-02-22T09:20:20Z",
+    "last_commit_at": "2026-10-31T23:33:01Z",
+    "releases": 213,
+    "tags": 215,
+    "archived": false,
+    "release": {
+      "tag": "v2.26.6",
+      "at": "2026-10-25T01:00:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

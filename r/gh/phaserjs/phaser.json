@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:02d8931b626d9764c133cbb3fbf99966c03c757c"
+  },
+  "id": "gh:phaserjs/phaser",
+  "kind": "repo",
+  "url": "https://github.com/phaserjs/phaser",
+  "title": "phaser",
+  "why": "Build 2D browser games on Canvas or WebGL, including targets like Facebook Instant Games, Discord activities and YouTube Playables.",
+  "keys": {
+    "races": [
+      "games/engines"
+    ],
+    "lanes": [
+      "games/engines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/phaserjs/phaser",
+    "sha": "02d8931b626d9764c133cbb3fbf99966c03c757c",
+    "file_url": "https://cdn.jsdelivr.net/gh/phaserjs/phaser@02d8931b626d9764c133cbb3fbf99966c03c757c/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 40664,
+    "size_mb": 468,
+    "created_at": "2013-04-12T12:27:51Z",
+    "last_commit_at": "2026-08-21T06:04:38Z",
+    "releases": 178,
+    "tags": 197,
+    "archived": false,
+    "release": {
+      "tag": "v4.2.1",
+      "at": "2026-07-09T14:33:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

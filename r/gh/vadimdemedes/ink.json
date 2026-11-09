@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:342afb4d218f92854841c76b1a402b628b0ad8a4"
+  },
+  "id": "gh:vadimdemedes/ink",
+  "kind": "repo",
+  "url": "https://github.com/vadimdemedes/ink",
+  "title": "ink",
+  "why": "Renders React components as terminal output with Flexbox layouts through Yoga, so CLIs get familiar React patterns.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui",
+      "web/ui-components"
+    ],
+    "lanes": [
+      "desktop/terminal-ui",
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vadimdemedes/ink",
+    "sha": "342afb4d218f92854841c76b1a402b628b0ad8a4",
+    "file_url": "https://cdn.jsdelivr.net/gh/vadimdemedes/ink@342afb4d218f92854841c76b1a402b628b0ad8a4/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 40243,
+    "size_mb": 3,
+    "created_at": "2017-06-12T06:12:28Z",
+    "last_commit_at": "2026-10-31T19:55:17Z",
+    "releases": 82,
+    "tags": 104,
+    "archived": false,
+    "release": {
+      "tag": "v8.0.0",
+      "at": "2026-10-03T11:25:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

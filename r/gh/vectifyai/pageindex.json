@@ -26,19 +26,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/VectifyAI/PageIndex",
-    "sha": "2e0f4dd35aa6a24c2dedfcf54678b0b0ad323ce8",
-    "file_url": "https://cdn.jsdelivr.net/gh/VectifyAI/PageIndex@2e0f4dd35aa6a24c2dedfcf54678b0b0ad323ce8/{path}"
+    "sha": "4876e026d17c04a4188bd0e7e693e2301eddb1ae",
+    "file_url": "https://cdn.jsdelivr.net/gh/VectifyAI/PageIndex@4876e026d17c04a4188bd0e7e693e2301eddb1ae/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 39961,
-    "size_mb": 31,
+    "stars": 40182,
+    "size_mb": 32,
     "created_at": "2025-04-01T10:53:54Z",
-    "last_commit_at": "2026-11-03T04:43:37Z",
-    "releases": 30,
-    "tags": 31,
-    "archived": false
+    "last_commit_at": "2026-11-05T14:45:45Z",
+    "releases": 32,
+    "tags": 33,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.3",
+      "at": "2026-11-05T18:16:08.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

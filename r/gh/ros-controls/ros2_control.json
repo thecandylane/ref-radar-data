@@ -1,0 +1,52 @@
+{
+  "id": "gh:ros-controls/ros2_control",
+  "kind": "repo",
+  "url": "https://github.com/ros-controls/ros2_control",
+  "title": "ros2_control",
+  "why": "Framework for ROS 2 robot control that splits controller manager, hardware interface and joint limits into separate packages.",
+  "keys": {
+    "races": [
+      "embedded/robotics"
+    ],
+    "lanes": [
+      "embedded/robotics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ros-controls/ros2_control",
+    "sha": "a6fbb477462a0e4376abeb4ecd6551dddd721332",
+    "file_url": "https://cdn.jsdelivr.net/gh/ros-controls/ros2_control@a6fbb477462a0e4376abeb4ecd6551dddd721332/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 1055,
+    "size_mb": 17,
+    "created_at": "2017-09-09T17:11:58Z",
+    "last_commit_at": "2026-11-06T11:33:57Z",
+    "releases": 0,
+    "tags": 253,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

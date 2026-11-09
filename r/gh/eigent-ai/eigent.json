@@ -34,19 +34,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/eigent-ai/eigent",
-    "sha": "17131f5d3e83d8680a3af5eb9b666afb6ea37c2b",
-    "file_url": "https://cdn.jsdelivr.net/gh/eigent-ai/eigent@17131f5d3e83d8680a3af5eb9b666afb6ea37c2b/{path}"
+    "sha": "4958c94bd91faf4e0bfff270a971d4d1810fb6db",
+    "file_url": "https://cdn.jsdelivr.net/gh/eigent-ai/eigent@4958c94bd91faf4e0bfff270a971d4d1810fb6db/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 15725,
-    "size_mb": 171,
+    "stars": 15766,
+    "size_mb": 172,
     "created_at": "2025-07-29T15:56:02Z",
     "last_commit_at": "2026-11-02T13:46:40Z",
     "releases": 38,
     "tags": 80,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v1.0.7",
+      "at": "2026-10-30T13:54:17.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

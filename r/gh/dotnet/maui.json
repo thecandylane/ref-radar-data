@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:af342571745d33712c43fc1050f606a535a3dafd"
+  },
+  "id": "gh:dotnet/maui",
+  "kind": "repo",
+  "url": "https://github.com/dotnet/maui",
+  "title": "maui",
+  "why": "Single C# framework for native apps on Android, iOS, Mac Catalyst and WinUI, built from src with build.sh or build.cmd.",
+  "keys": {
+    "races": [
+      "desktop/native-ui",
+      "mobile/android",
+      "mobile/cross-platform",
+      "mobile/ios"
+    ],
+    "lanes": [
+      "desktop/native-ui",
+      "mobile/android",
+      "mobile/cross-platform",
+      "mobile/ios"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dotnet/maui",
+    "sha": "af342571745d33712c43fc1050f606a535a3dafd",
+    "file_url": "https://raw.githubusercontent.com/dotnet/maui/af342571745d33712c43fc1050f606a535a3dafd/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "MIT",
+    "stars": 23323,
+    "size_mb": 2249,
+    "created_at": "2020-05-08T18:11:05Z",
+    "last_commit_at": "2026-11-07T21:05:19Z",
+    "releases": 151,
+    "tags": 536,
+    "archived": false,
+    "release": {
+      "tag": "10.0.120",
+      "at": "2026-10-21T16:54:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

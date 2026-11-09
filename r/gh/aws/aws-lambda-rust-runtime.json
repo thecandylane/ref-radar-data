@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7f89224ce954a0ad3998cc095e80539c3d110ab9"
+  },
+  "id": "gh:aws/aws-lambda-rust-runtime",
+  "kind": "repo",
+  "url": "https://github.com/aws/aws-lambda-rust-runtime",
+  "title": "aws-lambda-rust-runtime",
+  "why": "Write AWS Lambda functions in Rust with a runtime crate, plus helpers for HTTP, extensions and event types.",
+  "keys": {
+    "races": [
+      "infra/serverless"
+    ],
+    "lanes": [
+      "infra/serverless"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/aws/aws-lambda-rust-runtime",
+    "sha": "7f89224ce954a0ad3998cc095e80539c3d110ab9",
+    "file_url": "https://cdn.jsdelivr.net/gh/aws/aws-lambda-rust-runtime@7f89224ce954a0ad3998cc095e80539c3d110ab9/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 3620,
+    "size_mb": 11,
+    "created_at": "2018-11-08T18:36:53Z",
+    "last_commit_at": "2026-10-21T13:04:13Z",
+    "releases": 56,
+    "tags": 101,
+    "archived": false,
+    "release": {
+      "tag": "lambda_runtime-v1.5.0",
+      "at": "2026-10-21T13:05:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

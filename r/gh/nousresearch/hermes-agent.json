@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c5f347ebe9b840c3dbe5ec99bbe8e36871f24393"
+  },
   "id": "gh:nousresearch/hermes-agent",
   "kind": "repo",
   "url": "https://github.com/NousResearch/hermes-agent",
@@ -32,19 +35,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/NousResearch/hermes-agent",
-    "sha": "ef75bc708867e3884cb40a91363be6dc6fddc034",
-    "file_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/ef75bc708867e3884cb40a91363be6dc6fddc034/{path}"
+    "sha": "c5f347ebe9b840c3dbe5ec99bbe8e36871f24393",
+    "file_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/c5f347ebe9b840c3dbe5ec99bbe8e36871f24393/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 260018,
-    "size_mb": 1353,
+    "stars": 261588,
+    "size_mb": 1380,
     "created_at": "2025-07-22T22:22:28Z",
-    "last_commit_at": "2026-11-03T08:28:04Z",
-    "releases": 45,
-    "tags": 227,
-    "archived": false
+    "last_commit_at": "2026-11-08T07:48:54Z",
+    "releases": 47,
+    "tags": 233,
+    "archived": false,
+    "release": {
+      "tag": "v0.23.0",
+      "at": "2026-11-05T21:32:33.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -54,7 +61,7 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 2500,
+    "star_delta_7d": 1953,
     "votes": {},
     "ranks": {}
   },

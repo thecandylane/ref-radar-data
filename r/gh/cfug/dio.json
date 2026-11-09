@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f1bef462289b40992d625d4eb2a2f42321217573"
+  },
+  "id": "gh:cfug/dio",
+  "kind": "repo",
+  "url": "https://github.com/cfug/dio",
+  "title": "dio",
+  "why": "Networking package for Dart and Flutter apps with interceptors, adapters, timeouts and cancellable requests.",
+  "keys": {
+    "races": [
+      "mobile/cross-platform"
+    ],
+    "lanes": [
+      "mobile/cross-platform"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cfug/dio",
+    "sha": "f1bef462289b40992d625d4eb2a2f42321217573",
+    "file_url": "https://cdn.jsdelivr.net/gh/cfug/dio@f1bef462289b40992d625d4eb2a2f42321217573/{path}"
+  },
+  "facts": {
+    "lang": "Dart",
+    "license": "MIT",
+    "stars": 12842,
+    "size_mb": 5,
+    "created_at": "2018-04-20T04:33:43Z",
+    "last_commit_at": "2026-10-19T02:33:55Z",
+    "releases": 100,
+    "tags": 105,
+    "archived": false,
+    "release": {
+      "tag": "dio_v5.11.1",
+      "at": "2026-09-04T02:46:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b7b012f70eb41ccc49f31d3193b6df6fa0247894"
+  },
+  "id": "gh:wpscanteam/wpscan",
+  "kind": "repo",
+  "url": "https://github.com/wpscanteam/wpscan",
+  "title": "wpscan",
+  "why": "Tests a WordPress site for known weaknesses from the command line, backed by the wpvulndb vulnerability data.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/appsec",
+      "web/cms"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/appsec",
+      "web/cms"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wpscanteam/wpscan",
+    "sha": "b7b012f70eb41ccc49f31d3193b6df6fa0247894",
+    "file_url": "https://cdn.jsdelivr.net/gh/wpscanteam/wpscan@b7b012f70eb41ccc49f31d3193b6df6fa0247894/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "NOASSERTION",
+    "stars": 9842,
+    "size_mb": 59,
+    "created_at": "2012-07-11T20:27:47Z",
+    "last_commit_at": "2026-11-07T00:00:37Z",
+    "releases": 70,
+    "tags": 80,
+    "archived": false,
+    "release": {
+      "tag": "v4.2.0",
+      "at": "2026-10-27T19:09:54.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

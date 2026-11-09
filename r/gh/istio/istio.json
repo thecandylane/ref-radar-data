@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7ecfbd55ea318c258464459509072b2c4425bc94"
+  },
+  "id": "gh:istio/istio",
+  "kind": "repo",
+  "url": "https://github.com/istio/istio",
+  "title": "istio",
+  "why": "Service mesh that routes, secures and observes traffic between microservices on Kubernetes, built around Envoy proxies.",
+  "keys": {
+    "races": [
+      "infra/kubernetes",
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/kubernetes",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/istio/istio",
+    "sha": "7ecfbd55ea318c258464459509072b2c4425bc94",
+    "file_url": "https://cdn.jsdelivr.net/gh/istio/istio@7ecfbd55ea318c258464459509072b2c4425bc94/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 38492,
+    "size_mb": 301,
+    "created_at": "2016-11-18T23:57:21Z",
+    "last_commit_at": "2026-11-08T04:31:27Z",
+    "releases": 471,
+    "tags": 478,
+    "archived": false,
+    "release": {
+      "tag": "1.31.4",
+      "at": "2026-11-06T19:01:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

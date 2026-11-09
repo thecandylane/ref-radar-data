@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:baf7dc82f855eddaf5b0a20a6802c526f127e38a"
+  },
   "id": "gh:spinalhdl/vexriscv",
   "kind": "repo",
   "url": "https://github.com/SpinalHDL/VexRiscv",
@@ -32,13 +35,14 @@
   "facts": {
     "lang": "Assembly",
     "license": "MIT",
-    "stars": 3302,
+    "stars": 3304,
     "size_mb": 13,
     "created_at": "2017-03-08T21:14:28Z",
     "last_commit_at": "2026-09-24T18:21:39Z",
     "releases": 0,
     "tags": 2,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -48,7 +52,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 3,
     "votes": {},
     "ranks": {}
   }

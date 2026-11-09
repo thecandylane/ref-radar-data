@@ -1,0 +1,76 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:42b182d625fd2b807464215f211ae3ebc74609df"
+  },
+  "id": "gh:appwrite/appwrite",
+  "kind": "repo",
+  "url": "https://github.com/appwrite/appwrite",
+  "title": "appwrite",
+  "why": "Self-hosted backend for apps covering auth, databases, storage, functions and messaging, started with Docker Compose.",
+  "keys": {
+    "races": [
+      "infra/hosting",
+      "mobile/app-backends"
+    ],
+    "lanes": [
+      "infra/hosting",
+      "mobile/app-backends"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/appwrite/appwrite",
+    "sha": "42b182d625fd2b807464215f211ae3ebc74609df",
+    "file_url": "https://raw.githubusercontent.com/appwrite/appwrite/42b182d625fd2b807464215f211ae3ebc74609df/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "BSD-3-Clause",
+    "stars": 57890,
+    "size_mb": 1151,
+    "created_at": "2019-04-08T16:36:25Z",
+    "last_commit_at": "2026-11-08T01:19:55Z",
+    "releases": 150,
+    "tags": 674,
+    "archived": false,
+    "release": {
+      "tag": "2.7.1",
+      "at": "2026-11-04T16:23:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

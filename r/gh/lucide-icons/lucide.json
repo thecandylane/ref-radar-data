@@ -28,19 +28,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/lucide-icons/lucide",
-    "sha": "81875c8c42d2320fa5123b37fee3554f4ca2bddc",
-    "file_url": "https://cdn.jsdelivr.net/gh/lucide-icons/lucide@81875c8c42d2320fa5123b37fee3554f4ca2bddc/{path}"
+    "sha": "2c2ee80687cbd86030d10f2315daf509b12829c3",
+    "file_url": "https://cdn.jsdelivr.net/gh/lucide-icons/lucide@2c2ee80687cbd86030d10f2315daf509b12829c3/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 25484,
-    "size_mb": 26,
+    "stars": 25632,
+    "size_mb": 27,
     "created_at": "2020-06-08T15:36:21Z",
-    "last_commit_at": "2026-11-03T08:41:31Z",
-    "releases": 737,
-    "tags": 746,
-    "archived": false
+    "last_commit_at": "2026-11-06T13:25:23Z",
+    "releases": 740,
+    "tags": 749,
+    "archived": false,
+    "release": {
+      "tag": "1.70.0",
+      "at": "2026-11-06T06:05:35.000Z"
+    }
   },
   "reuse": "study",
   "maturity": "stable",
@@ -50,8 +54,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 176,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "hot": true
 }

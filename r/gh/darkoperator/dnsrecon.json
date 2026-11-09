@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1481d68964af0a0fcb538dc36634751b5cb23a6f"
+  },
+  "id": "gh:darkoperator/dnsrecon",
+  "kind": "repo",
+  "url": "https://github.com/darkoperator/dnsrecon",
+  "title": "dnsrecon",
+  "why": "Enumerates DNS records and domains from a Python script, with a REST wrapper alongside the CLI.",
+  "keys": {
+    "races": [
+      "cyber/threat-intel",
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/threat-intel",
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/darkoperator/dnsrecon",
+    "sha": "1481d68964af0a0fcb538dc36634751b5cb23a6f",
+    "file_url": "https://cdn.jsdelivr.net/gh/darkoperator/dnsrecon@1481d68964af0a0fcb538dc36634751b5cb23a6f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-2.0",
+    "stars": 3088,
+    "size_mb": 2,
+    "created_at": "2010-12-16T03:25:49Z",
+    "last_commit_at": "2026-11-07T17:01:47Z",
+    "releases": 30,
+    "tags": 30,
+    "archived": false,
+    "release": {
+      "tag": "1.6.3",
+      "at": "2026-06-28T23:46:01.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

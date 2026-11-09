@@ -1,0 +1,43 @@
+{
+  "archive": {
+    "page": "https://web.archive.org/web/20261106100119/https://arxiv.org/abs/2610.38800"
+  },
+  "id": "arxiv:2610.38800",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.38800",
+  "title": "When Relevant Code Is Wrong: Runtime-Aware Context for AI Coding Agents",
+  "why": "Checks retrieved code against feature flags and runtime configurations, so a coding agent acts only on applicable artifacts.",
+  "keys": {
+    "races": [
+      "agents/code-intel",
+      "agents/coding"
+    ],
+    "lanes": [
+      "agents/code-intel",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.38800"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

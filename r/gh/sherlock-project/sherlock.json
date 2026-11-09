@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c588d7c8b476df9f9c84912a05d1430fb8cdcdae"
+  },
   "id": "gh:sherlock-project/sherlock",
   "kind": "repo",
   "url": "https://github.com/sherlock-project/sherlock",
@@ -26,19 +29,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/sherlock-project/sherlock",
-    "sha": "e40a45ec2a074b90703b3b4b842c8a3adbd6ada3",
-    "file_url": "https://cdn.jsdelivr.net/gh/sherlock-project/sherlock@e40a45ec2a074b90703b3b4b842c8a3adbd6ada3/{path}"
+    "sha": "c588d7c8b476df9f9c84912a05d1430fb8cdcdae",
+    "file_url": "https://cdn.jsdelivr.net/gh/sherlock-project/sherlock@c588d7c8b476df9f9c84912a05d1430fb8cdcdae/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 95461,
+    "stars": 101400,
     "size_mb": 19,
     "created_at": "2018-12-24T14:30:48Z",
     "last_commit_at": "2026-11-01T17:41:43Z",
     "releases": 3,
     "tags": 4,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v0.16.2",
+      "at": "2026-09-08T20:54:15.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

@@ -1,0 +1,65 @@
+{
+  "id": "gh:qiz029/dscode",
+  "kind": "repo",
+  "url": "https://github.com/qiz029/dscode",
+  "title": "dscode",
+  "why": "DeepSeek-driven terminal coding agent with a persistent shell, subagents, automatic approvals and Chrome MCP, plus telemetry for each session.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/clients"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/clients"
+    ],
+    "capabilities": [
+      "agents/coding/cli-agents",
+      "agents/clients/terminal-clients"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/qiz029/dscode",
+    "sha": "77db18bcdeb2fc19327f6f60810e249dc4eb47ca",
+    "file_url": "https://cdn.jsdelivr.net/gh/qiz029/dscode@77db18bcdeb2fc19327f6f60810e249dc4eb47ca/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 998,
+    "size_mb": 11,
+    "created_at": "2026-09-11T09:40:02Z",
+    "last_commit_at": "2026-10-28T22:40:42Z",
+    "releases": 55,
+    "tags": 61,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.54",
+      "at": "2026-10-28T23:05:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "scan_partial": true
+}

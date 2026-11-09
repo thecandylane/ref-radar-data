@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:def97214c2b491fbce82647f625a73f78416c6d8"
+  },
   "id": "gh:filippocalippo/stykanimate-app",
   "kind": "repo",
   "url": "https://github.com/filippocalippo/StykAnimate-App",
@@ -34,13 +37,14 @@
   "facts": {
     "lang": "JavaScript",
     "license": "GPL-3.0",
-    "stars": 1442,
-    "size_mb": 52,
+    "stars": 1518,
+    "size_mb": 64,
     "created_at": "2026-09-09T04:43:47Z",
     "last_commit_at": "2026-10-19T00:13:07Z",
     "releases": 0,
     "tags": 2,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "copyleft",
   "maturity": "new",
@@ -50,8 +54,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 95,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "hot": true
 }

@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4c0988a1d9db4d172a185e979a38bfd0efdb5830"
+  },
+  "id": "gh:kgretzky/evilginx2",
+  "kind": "repo",
+  "url": "https://github.com/kgretzky/evilginx2",
+  "title": "evilginx2",
+  "why": "Sits as a standalone Go server between a victim and a login page to steal session cookies, which lets an attacker bypass two-factor authentication.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kgretzky/evilginx2",
+    "sha": "4c0988a1d9db4d172a185e979a38bfd0efdb5830",
+    "file_url": "https://cdn.jsdelivr.net/gh/kgretzky/evilginx2@4c0988a1d9db4d172a185e979a38bfd0efdb5830/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "BSD-3-Clause",
+    "stars": 15857,
+    "size_mb": 8,
+    "created_at": "2018-07-10T09:59:52Z",
+    "last_commit_at": "2026-06-10T12:12:03Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v3.3.0",
+      "at": "2024-04-02T13:34:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

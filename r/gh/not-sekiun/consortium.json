@@ -1,0 +1,59 @@
+{
+  "id": "gh:not-sekiun/consortium",
+  "kind": "repo",
+  "url": "https://github.com/not-sekiun/Consortium",
+  "title": "Consortium",
+  "why": "Orchestrates adversarial simulation through a modular, language-and-protocol-agnostic C2 core, built in Python with FastAPI and websockets.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/not-sekiun/Consortium",
+    "sha": "c9c4d43614c7033536fa4f7f8721bae1be03b156",
+    "file_url": "https://cdn.jsdelivr.net/gh/not-sekiun/Consortium@c9c4d43614c7033536fa4f7f8721bae1be03b156/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 330,
+    "size_mb": 21,
+    "created_at": "2017-11-20T13:49:58Z",
+    "last_commit_at": "2026-09-16T12:48:29Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-04T10:01:58.358Z"
+  }
+}

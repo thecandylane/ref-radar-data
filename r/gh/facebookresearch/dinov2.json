@@ -1,0 +1,57 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7764ea0f912e53c92e82eb78a2a1631e92725fc8"
+  },
+  "id": "gh:facebookresearch/dinov2",
+  "kind": "repo",
+  "url": "https://github.com/facebookresearch/dinov2",
+  "title": "dinov2",
+  "why": "Self-supervised vision models you load through hubconf from PyTorch, with notebooks showing how to use the features.",
+  "keys": {
+    "races": [
+      "ml/vision",
+      "ml/embeddings"
+    ],
+    "lanes": [
+      "ml/vision",
+      "ml/embeddings"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/facebookresearch/dinov2",
+    "sha": "7764ea0f912e53c92e82eb78a2a1631e92725fc8",
+    "file_url": "https://cdn.jsdelivr.net/gh/facebookresearch/dinov2@7764ea0f912e53c92e82eb78a2a1631e92725fc8/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "Apache-2.0",
+    "stars": 13515,
+    "size_mb": 3,
+    "created_at": "2023-03-29T16:00:37Z",
+    "last_commit_at": "2026-06-03T15:28:49Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

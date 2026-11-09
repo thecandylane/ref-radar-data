@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1c1dc4ed27ed5936046b6398d39cab4d657a2d8e"
+  },
+  "id": "gh:filosottile/mkcert",
+  "kind": "repo",
+  "url": "https://github.com/FiloSottile/mkcert",
+  "title": "mkcert",
+  "why": "Makes locally trusted HTTPS certificates for localhost development with no config, adding a root CA to system trust stores.",
+  "keys": {
+    "races": [
+      "cyber/identity",
+      "infra/networking"
+    ],
+    "lanes": [
+      "cyber/identity",
+      "infra/networking"
+    ],
+    "capabilities": [
+      "cyber/identity/secrets-management"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/FiloSottile/mkcert",
+    "sha": "1c1dc4ed27ed5936046b6398d39cab4d657a2d8e",
+    "file_url": "https://cdn.jsdelivr.net/gh/FiloSottile/mkcert@1c1dc4ed27ed5936046b6398d39cab4d657a2d8e/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "BSD-3-Clause",
+    "stars": 59843,
+    "size_mb": 2,
+    "created_at": "2018-06-25T05:33:03Z",
+    "last_commit_at": "2024-04-18T08:53:27Z",
+    "releases": 14,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v1.4.4",
+      "at": "2022-04-26T17:51:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

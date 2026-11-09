@@ -9,15 +9,15 @@
       "agents/assistants",
       "agents/frameworks",
       "agents/orchestration",
-      "agents/tools",
-      "llm-infra/gateways"
+      "llm-infra/gateways",
+      "agents/tools"
     ],
     "lanes": [
       "agents/assistants",
       "agents/frameworks",
       "agents/orchestration",
-      "agents/tools",
-      "llm-infra/gateways"
+      "llm-infra/gateways",
+      "agents/tools"
     ],
     "capabilities": [
       "agents/assistants/personal-agents",
@@ -43,13 +43,17 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 49780,
-    "size_mb": 79,
+    "stars": 49918,
+    "size_mb": 82,
     "created_at": "2026-02-01T07:16:15Z",
-    "last_commit_at": "2026-11-03T07:58:41Z",
-    "releases": 21,
-    "tags": 21,
-    "archived": false
+    "last_commit_at": "2026-11-08T08:32:20Z",
+    "releases": 22,
+    "tags": 22,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.1",
+      "at": "2026-11-06T15:55:22.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

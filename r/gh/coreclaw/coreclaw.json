@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:9e66a24580641b506bfead887e531fb9d23a7beb"
+  },
   "id": "gh:coreclaw/coreclaw",
   "kind": "repo",
   "url": "https://github.com/coreclaw/coreclaw",
@@ -40,7 +43,11 @@
     "last_commit_at": "2026-05-05T22:52:20Z",
     "releases": 4,
     "tags": 4,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v0.4.0",
+      "at": "2026-02-25T15:37:40.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "quiet",
@@ -53,6 +60,5 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  },
-  "scan_partial": true
+  }
 }

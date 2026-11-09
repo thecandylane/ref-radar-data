@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:734a1caba29fcd51f20b9ca239ce652b3354a47e"
+  },
+  "id": "gh:mitre-attack/attack-navigator",
+  "kind": "repo",
+  "url": "https://github.com/mitre-attack/attack-navigator",
+  "title": "attack-navigator",
+  "why": "Browser app for marking up MITRE ATT&CK matrices with layers, to plan coverage or track techniques that actors use.",
+  "keys": {
+    "races": [
+      "cyber/threat-intel",
+      "cyber/detection"
+    ],
+    "lanes": [
+      "cyber/threat-intel",
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mitre-attack/attack-navigator",
+    "sha": "734a1caba29fcd51f20b9ca239ce652b3354a47e",
+    "file_url": "https://cdn.jsdelivr.net/gh/mitre-attack/attack-navigator@734a1caba29fcd51f20b9ca239ce652b3354a47e/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 2506,
+    "size_mb": 60,
+    "created_at": "2018-02-26T18:29:21Z",
+    "last_commit_at": "2026-09-10T20:07:33Z",
+    "releases": 47,
+    "tags": 49,
+    "archived": false,
+    "release": {
+      "tag": "v5.3.2",
+      "at": "2026-04-21T15:45:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

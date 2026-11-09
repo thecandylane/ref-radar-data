@@ -1,0 +1,55 @@
+{
+  "id": "gh:wagtail/wagtail",
+  "kind": "repo",
+  "url": "https://github.com/wagtail/wagtail",
+  "title": "wagtail",
+  "why": "Django-based CMS with a flexible page model and an editor-friendly admin, for building content sites in Python.",
+  "keys": {
+    "races": [
+      "web/cms"
+    ],
+    "lanes": [
+      "web/cms"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wagtail/wagtail",
+    "sha": "f5d39799b92fdb0624526319351bf03b80b5f775",
+    "file_url": "https://cdn.jsdelivr.net/gh/wagtail/wagtail@f5d39799b92fdb0624526319351bf03b80b5f775/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 20605,
+    "size_mb": 260,
+    "created_at": "2014-02-03T12:41:59Z",
+    "last_commit_at": "2026-11-04T16:03:53Z",
+    "releases": 303,
+    "tags": 305,
+    "archived": false,
+    "release": {
+      "tag": "v8.1",
+      "at": "2026-11-02T15:55:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d17455c5ca8fd3ff44385c6d4d2118599e4c970f"
+  },
+  "id": "gh:chatboxai/chatbox",
+  "kind": "repo",
+  "url": "https://github.com/chatboxai/chatbox",
+  "title": "chatbox",
+  "why": "Desktop client for talking to OpenAI, Claude, Gemini, DeepSeek and Ollama models from one app, with team-sharing and Electron builds.",
+  "keys": {
+    "races": [
+      "agents/clients",
+      "llm-infra/chat-apps"
+    ],
+    "lanes": [
+      "agents/clients",
+      "llm-infra/chat-apps"
+    ],
+    "capabilities": [
+      "agents/clients/desktop-apps"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/chatboxai/chatbox",
+    "sha": "d17455c5ca8fd3ff44385c6d4d2118599e4c970f",
+    "file_url": "https://cdn.jsdelivr.net/gh/chatboxai/chatbox@d17455c5ca8fd3ff44385c6d4d2118599e4c970f/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "GPL-3.0",
+    "stars": 42277,
+    "size_mb": 63,
+    "created_at": "2023-03-06T12:22:15Z",
+    "last_commit_at": "2026-10-29T03:33:27Z",
+    "releases": 65,
+    "tags": 186,
+    "archived": false,
+    "release": {
+      "tag": "v1.23.5",
+      "at": "2026-09-24T14:09:30.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

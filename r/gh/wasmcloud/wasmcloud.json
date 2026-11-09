@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:67f701fab3fb109ac3d81fce56debb3bba6cec45"
+  },
+  "id": "gh:wasmcloud/wasmcloud",
+  "kind": "repo",
+  "url": "https://github.com/wasmCloud/wasmCloud",
+  "title": "wasmCloud",
+  "why": "Runs WebAssembly components across clouds, Kubernetes and edge sites over NATS, with a Rust host and a Go runtime-operator.",
+  "keys": {
+    "races": [
+      "infra/serverless",
+      "infra/kubernetes",
+      "languages/runtimes"
+    ],
+    "lanes": [
+      "infra/serverless",
+      "infra/kubernetes",
+      "languages/runtimes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wasmCloud/wasmCloud",
+    "sha": "67f701fab3fb109ac3d81fce56debb3bba6cec45",
+    "file_url": "https://cdn.jsdelivr.net/gh/wasmCloud/wasmCloud@67f701fab3fb109ac3d81fce56debb3bba6cec45/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 2480,
+    "size_mb": 140,
+    "created_at": "2020-10-15T17:41:17Z",
+    "last_commit_at": "2026-11-08T00:10:51Z",
+    "releases": 166,
+    "tags": 535,
+    "archived": false,
+    "release": {
+      "tag": "v2.12.1",
+      "at": "2026-11-08T02:22:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

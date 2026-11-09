@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9d1855448d93881823189a3a69fcb9fb660e473d"
+  },
+  "id": "gh:open-telemetry/opentelemetry-python",
+  "kind": "repo",
+  "url": "https://github.com/open-telemetry/opentelemetry-python",
+  "title": "opentelemetry-python",
+  "why": "Python API and SDK for emitting traces, metrics and logs, with exporters, propagators and semantic conventions packages.",
+  "keys": {
+    "races": [
+      "infra/observability"
+    ],
+    "lanes": [
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/open-telemetry/opentelemetry-python",
+    "sha": "9d1855448d93881823189a3a69fcb9fb660e473d",
+    "file_url": "https://cdn.jsdelivr.net/gh/open-telemetry/opentelemetry-python@9d1855448d93881823189a3a69fcb9fb660e473d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 2703,
+    "size_mb": 76,
+    "created_at": "2019-05-07T21:13:30Z",
+    "last_commit_at": "2026-11-06T10:10:31Z",
+    "releases": 87,
+    "tags": 90,
+    "archived": false,
+    "release": {
+      "tag": "v1.45.2",
+      "at": "2026-10-29T17:29:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

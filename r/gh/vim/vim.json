@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:20bbd3217fb3dd801497a00fd0be0ce42712c960"
+  },
+  "id": "gh:vim/vim",
+  "kind": "repo",
+  "url": "https://github.com/vim/vim",
+  "title": "vim",
+  "why": "Official repo for building Vim from source, with runtime files, a Vim9 readme, Windows installer scripts and vimtutor.",
+  "keys": {
+    "races": [
+      "dev-tools/editors"
+    ],
+    "lanes": [
+      "dev-tools/editors"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vim/vim",
+    "sha": "20bbd3217fb3dd801497a00fd0be0ce42712c960",
+    "file_url": "https://cdn.jsdelivr.net/gh/vim/vim@20bbd3217fb3dd801497a00fd0be0ce42712c960/{path}"
+  },
+  "facts": {
+    "lang": "Vim Script",
+    "license": "Vim",
+    "stars": 41194,
+    "size_mb": 240,
+    "created_at": "2015-08-18T21:03:56Z",
+    "last_commit_at": "2026-11-05T21:53:43Z",
+    "releases": 0,
+    "tags": 20184,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

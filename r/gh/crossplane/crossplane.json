@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6e7276611a155e570971ed2f2978685a89c747da"
+  },
+  "id": "gh:crossplane/crossplane",
+  "kind": "repo",
+  "url": "https://github.com/crossplane/crossplane",
+  "title": "crossplane",
+  "why": "Manages cloud infrastructure from Kubernetes as a control plane, with infrastructure defined through your own APIs.",
+  "keys": {
+    "races": [
+      "infra/iac",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "infra/iac",
+      "infra/kubernetes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/crossplane/crossplane",
+    "sha": "6e7276611a155e570971ed2f2978685a89c747da",
+    "file_url": "https://cdn.jsdelivr.net/gh/crossplane/crossplane@6e7276611a155e570971ed2f2978685a89c747da/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 12228,
+    "size_mb": 50,
+    "created_at": "2018-09-08T00:10:35Z",
+    "last_commit_at": "2026-11-07T01:57:02Z",
+    "releases": 186,
+    "tags": 245,
+    "archived": false,
+    "release": {
+      "tag": "v2.4.3",
+      "at": "2026-10-22T15:50:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

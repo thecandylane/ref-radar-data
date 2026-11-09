@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d3a071ce4c8bac3d539fbcb96221f464e7bed246"
+  },
+  "id": "gh:gdamore/tcell",
+  "kind": "repo",
+  "url": "https://github.com/gdamore/tcell",
+  "title": "tcell",
+  "why": "Go package for drawing full-screen terminal interfaces, handling keys, mouse and resize on Unix, Windows and Plan9.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gdamore/tcell",
+    "sha": "d3a071ce4c8bac3d539fbcb96221f464e7bed246",
+    "file_url": "https://cdn.jsdelivr.net/gh/gdamore/tcell@d3a071ce4c8bac3d539fbcb96221f464e7bed246/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 5235,
+    "size_mb": 4,
+    "created_at": "2015-09-27T06:37:33Z",
+    "last_commit_at": "2026-11-05T16:56:43Z",
+    "releases": 62,
+    "tags": 80,
+    "archived": false,
+    "release": {
+      "tag": "v3.6.0",
+      "at": "2026-10-11T05:42:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3106f9499d6a23e2f87ec5267eb4771b507a4d1f"
+  },
+  "id": "gh:cloudflare/cloudflared",
+  "kind": "repo",
+  "url": "https://github.com/cloudflare/cloudflared",
+  "title": "cloudflared",
+  "why": "Go client for Cloudflare Tunnel that connects a local service to Cloudflare as a reverse proxy for zero trust access.",
+  "keys": {
+    "races": [
+      "infra/networking",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "infra/networking",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cloudflare/cloudflared",
+    "sha": "3106f9499d6a23e2f87ec5267eb4771b507a4d1f",
+    "file_url": "https://cdn.jsdelivr.net/gh/cloudflare/cloudflared@3106f9499d6a23e2f87ec5267eb4771b507a4d1f/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 16475,
+    "size_mb": 45,
+    "created_at": "2017-10-13T19:54:47Z",
+    "last_commit_at": "2026-11-04T17:21:49Z",
+    "releases": 203,
+    "tags": 282,
+    "archived": false,
+    "release": {
+      "tag": "2026.10.7",
+      "at": "2026-10-30T17:11:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

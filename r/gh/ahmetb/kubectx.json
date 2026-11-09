@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:12ad6fb22e8c546ee2b54e7de38aa51c906832f7"
+  },
+  "id": "gh:ahmetb/kubectx",
+  "kind": "repo",
+  "url": "https://github.com/ahmetb/kubectx",
+  "title": "kubectx",
+  "why": "Two small commands, kubectx and kubens, to hop between kubectl clusters and namespaces, with shell completion and a krew plugin.",
+  "keys": {
+    "races": [
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "infra/kubernetes"
+    ],
+    "capabilities": [
+      "infra/kubernetes/desktop-clients"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ahmetb/kubectx",
+    "sha": "12ad6fb22e8c546ee2b54e7de38aa51c906832f7",
+    "file_url": "https://cdn.jsdelivr.net/gh/ahmetb/kubectx@12ad6fb22e8c546ee2b54e7de38aa51c906832f7/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 20085,
+    "size_mb": 1,
+    "created_at": "2017-03-30T18:06:53Z",
+    "last_commit_at": "2026-07-26T01:51:27Z",
+    "releases": 24,
+    "tags": 24,
+    "archived": false,
+    "release": {
+      "tag": "v0.11.0",
+      "at": "2026-03-27T03:13:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

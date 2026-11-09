@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4afe4d3de0a5d227c59ae2f162d22b93b4c27bfd"
+  },
+  "id": "gh:danielmiessler/seclists",
+  "kind": "repo",
+  "url": "https://github.com/danielmiessler/SecLists",
+  "title": "SecLists",
+  "why": "Ready-made lists of usernames, passwords, fuzzing payloads and discovery paths to feed into security assessments.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "data/datasets"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/danielmiessler/SecLists",
+    "sha": "4afe4d3de0a5d227c59ae2f162d22b93b4c27bfd",
+    "file_url": "https://raw.githubusercontent.com/danielmiessler/SecLists/4afe4d3de0a5d227c59ae2f162d22b93b4c27bfd/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 74611,
+    "size_mb": 3686,
+    "created_at": "2012-02-19T01:30:18Z",
+    "last_commit_at": "2026-11-07T17:08:33Z",
+    "releases": 31,
+    "tags": 32,
+    "archived": false,
+    "release": {
+      "tag": "2026.2",
+      "at": "2026-10-27T08:06:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

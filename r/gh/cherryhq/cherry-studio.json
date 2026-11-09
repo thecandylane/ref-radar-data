@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b664c7224a6739367638a6bd46722464d0865577"
+  },
   "id": "gh:cherryhq/cherry-studio",
   "kind": "repo",
   "url": "https://github.com/CherryHQ/cherry-studio",
@@ -34,19 +37,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/CherryHQ/cherry-studio",
-    "sha": "b36d569c6c5937efa7fbfe767515f3275adcc534",
-    "file_url": "https://cdn.jsdelivr.net/gh/CherryHQ/cherry-studio@b36d569c6c5937efa7fbfe767515f3275adcc534/{path}"
+    "sha": "b664c7224a6739367638a6bd46722464d0865577",
+    "file_url": "https://raw.githubusercontent.com/CherryHQ/cherry-studio/b664c7224a6739367638a6bd46722464d0865577/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 53223,
-    "size_mb": 745,
+    "stars": 53329,
+    "size_mb": 772,
     "created_at": "2024-05-24T01:56:26Z",
-    "last_commit_at": "2026-11-03T06:42:09Z",
+    "last_commit_at": "2026-11-08T07:51:10Z",
     "releases": 293,
     "tags": 343,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v2.1.10",
+      "at": "2026-10-31T15:17:51.000Z"
+    }
   },
   "reuse": "copyleft",
   "maturity": "stable",

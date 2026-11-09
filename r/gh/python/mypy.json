@@ -1,0 +1,54 @@
+{
+  "id": "gh:python/mypy",
+  "kind": "repo",
+  "url": "https://github.com/python/mypy",
+  "title": "mypy",
+  "why": "Checks Python type hints statically, and ships mypyc to compile typed code.",
+  "keys": {
+    "races": [
+      "languages/compilers",
+      "languages/type-systems"
+    ],
+    "lanes": [
+      "languages/compilers",
+      "languages/type-systems"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/python/mypy",
+    "sha": "879da562a4bba1ff8023799afad195bc364b730a",
+    "file_url": "https://cdn.jsdelivr.net/gh/python/mypy@879da562a4bba1ff8023799afad195bc364b730a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 20717,
+    "size_mb": 87,
+    "created_at": "2012-12-07T13:30:23Z",
+    "last_commit_at": "2026-11-07T22:05:51Z",
+    "releases": 0,
+    "tags": 118,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

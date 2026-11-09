@@ -1,0 +1,69 @@
+{
+  "id": "gh:joasasantos/malvex",
+  "kind": "repo",
+  "url": "https://github.com/JoasASantos/Malvex",
+  "title": "Malvex",
+  "why": "Lets an AI agent run static and dynamic malware analysis in Rust, using 30+ tools it can reach over MCP.",
+  "keys": {
+    "races": [
+      "cyber/reversing",
+      "agents/tools"
+    ],
+    "lanes": [
+      "cyber/reversing",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "cyber/reversing/agentic-re",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/JoasASantos/Malvex",
+    "sha": "75d86748c185aea0171b38682ab6a2bf15a5240c",
+    "file_url": "https://cdn.jsdelivr.net/gh/JoasASantos/Malvex@75d86748c185aea0171b38682ab6a2bf15a5240c/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "none",
+    "stars": 58,
+    "size_mb": 1,
+    "created_at": "2026-10-14T15:49:55Z",
+    "last_commit_at": "2026-10-16T04:20:55Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "fresh": true,
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-02T08:39:28.315Z"
+  }
+}

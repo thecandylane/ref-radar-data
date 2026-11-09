@@ -1,0 +1,63 @@
+{
+  "id": "gh:thinkinaixyz/deepchat",
+  "kind": "repo",
+  "url": "https://github.com/ThinkInAIXYZ/deepchat",
+  "title": "deepchat",
+  "why": "Electron client for chatting with OpenAI, Claude, Gemini and DeepSeek models, with an MCP client and cross-platform support.",
+  "keys": {
+    "races": [
+      "agents/clients",
+      "llm-infra/chat-apps"
+    ],
+    "lanes": [
+      "agents/clients",
+      "llm-infra/chat-apps"
+    ],
+    "capabilities": [
+      "agents/clients/desktop-apps"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ThinkInAIXYZ/deepchat",
+    "sha": "784997abe08590602f0b7f2b40b773afe952c5e4",
+    "file_url": "https://cdn.jsdelivr.net/gh/ThinkInAIXYZ/deepchat@784997abe08590602f0b7f2b40b773afe952c5e4/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 6385,
+    "size_mb": 110,
+    "created_at": "2025-02-14T01:56:51Z",
+    "last_commit_at": "2026-11-08T06:49:13Z",
+    "releases": 145,
+    "tags": 158,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.3",
+      "at": "2026-10-09T09:35:13.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

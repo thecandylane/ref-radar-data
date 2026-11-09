@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b74fb6f73d234bf92672372cb1c10768e4018d16"
+  },
+  "id": "gh:ansible/ansible-lint",
+  "kind": "repo",
+  "url": "https://github.com/ansible/ansible-lint",
+  "title": "ansible-lint",
+  "why": "Flags sloppy practices in Ansible playbooks from a pre-commit hook or GitHub Action and auto-fixes the routine ones.",
+  "keys": {
+    "races": [
+      "infra/iac",
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "infra/iac",
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ansible/ansible-lint",
+    "sha": "b74fb6f73d234bf92672372cb1c10768e4018d16",
+    "file_url": "https://cdn.jsdelivr.net/gh/ansible/ansible-lint@b74fb6f73d234bf92672372cb1c10768e4018d16/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 3931,
+    "size_mb": 13,
+    "created_at": "2013-08-14T11:08:00Z",
+    "last_commit_at": "2026-11-04T13:21:54Z",
+    "releases": 137,
+    "tags": 186,
+    "archived": false,
+    "release": {
+      "tag": "v26.11.0",
+      "at": "2026-11-05T08:50:06.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

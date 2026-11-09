@@ -1,0 +1,54 @@
+{
+  "id": "gh:omnijev/awesome-jev-gallery",
+  "kind": "repo",
+  "url": "https://github.com/OmniJev/awesome-jev-gallery",
+  "title": "awesome-jev-gallery",
+  "why": "Collects open-source models, benchmarks and independent evaluations covering the Jev and System One model lineup.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "ml/open-models"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "ml/open-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OmniJev/awesome-jev-gallery",
+    "sha": "930e57dfc9ce21881a6aba351587d5307182373f",
+    "file_url": "https://cdn.jsdelivr.net/gh/OmniJev/awesome-jev-gallery@930e57dfc9ce21881a6aba351587d5307182373f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 483,
+    "size_mb": 15,
+    "created_at": "2026-09-17T20:16:57Z",
+    "last_commit_at": "2026-11-08T04:03:08Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d3296954a6b813898d298815ac3e68daa1cf7408"
+  },
+  "id": "gh:swagger-api/swagger-ui",
+  "kind": "repo",
+  "url": "https://github.com/swagger-api/swagger-ui",
+  "title": "swagger-ui",
+  "why": "Turns an OpenAPI or Swagger definition into browsable API documentation that you embed from a dist package or Docker image.",
+  "keys": {
+    "races": [
+      "dev-tools/docs",
+      "web/ui-components"
+    ],
+    "lanes": [
+      "dev-tools/docs",
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/swagger-api/swagger-ui",
+    "sha": "d3296954a6b813898d298815ac3e68daa1cf7408",
+    "file_url": "https://cdn.jsdelivr.net/gh/swagger-api/swagger-ui@d3296954a6b813898d298815ac3e68daa1cf7408/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "Apache-2.0",
+    "stars": 29078,
+    "size_mb": 622,
+    "created_at": "2011-07-15T22:56:39Z",
+    "last_commit_at": "2026-10-30T13:31:19Z",
+    "releases": 413,
+    "tags": 468,
+    "archived": false,
+    "release": {
+      "tag": "v5.34.1",
+      "at": "2026-10-30T13:31:38.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

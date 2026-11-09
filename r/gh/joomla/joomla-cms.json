@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:52559589cb6a02c9e2fc48270f92b3aff7b8b7a0"
+  },
+  "id": "gh:joomla/joomla-cms",
+  "kind": "repo",
+  "url": "https://github.com/joomla/joomla-cms",
+  "title": "joomla-cms",
+  "why": "PHP CMS for building multilingual websites, with modules, plugins, templates and an API in the core repo.",
+  "keys": {
+    "races": [
+      "web/cms"
+    ],
+    "lanes": [
+      "web/cms"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/joomla/joomla-cms",
+    "sha": "52559589cb6a02c9e2fc48270f92b3aff7b8b7a0",
+    "file_url": "https://cdn.jsdelivr.net/gh/joomla/joomla-cms@52559589cb6a02c9e2fc48270f92b3aff7b8b7a0/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "GPL-2.0",
+    "stars": 5167,
+    "size_mb": 342,
+    "created_at": "2011-09-27T02:07:38Z",
+    "last_commit_at": "2026-11-07T18:23:13Z",
+    "releases": 517,
+    "tags": 623,
+    "archived": false,
+    "release": {
+      "tag": "6.2.0",
+      "at": "2026-10-13T16:00:06.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

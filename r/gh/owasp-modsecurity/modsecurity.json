@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1ebdc390b47ab033c8267130ce83130f235aed20"
+  },
+  "id": "gh:owasp-modsecurity/modsecurity",
+  "kind": "repo",
+  "url": "https://github.com/owasp-modsecurity/ModSecurity",
+  "title": "ModSecurity",
+  "why": "Filters HTTP requests before they reach Apache, IIS or Nginx, with a rule language for blocking attacks and logging traffic.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "infra/observability"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/owasp-modsecurity/ModSecurity",
+    "sha": "1ebdc390b47ab033c8267130ce83130f235aed20",
+    "file_url": "https://cdn.jsdelivr.net/gh/owasp-modsecurity/ModSecurity@1ebdc390b47ab033c8267130ce83130f235aed20/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 9861,
+    "size_mb": 77,
+    "created_at": "2011-02-02T14:57:01Z",
+    "last_commit_at": "2026-11-01T20:15:31Z",
+    "releases": 42,
+    "tags": 115,
+    "archived": false,
+    "release": {
+      "tag": "v3.0.17",
+      "at": "2026-09-29T21:01:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

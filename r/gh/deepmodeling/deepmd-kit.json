@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e6f7357379f7a6314a28babf0aeca4f724284b14"
+  },
+  "id": "gh:deepmodeling/deepmd-kit",
+  "kind": "repo",
+  "url": "https://github.com/deepmodeling/deepmd-kit",
+  "title": "deepmd-kit",
+  "why": "Train machine-learning potentials for molecular dynamics and plug them into LAMMPS or ASE, on TensorFlow, PyTorch or JAX.",
+  "keys": {
+    "races": [
+      "engineering/chemistry",
+      "agents/skills"
+    ],
+    "lanes": [
+      "engineering/chemistry",
+      "agents/skills"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/deepmodeling/deepmd-kit",
+    "sha": "e6f7357379f7a6314a28babf0aeca4f724284b14",
+    "file_url": "https://cdn.jsdelivr.net/gh/deepmodeling/deepmd-kit@e6f7357379f7a6314a28babf0aeca4f724284b14/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "LGPL-3.0",
+    "stars": 2080,
+    "size_mb": 84,
+    "created_at": "2017-12-12T15:23:44Z",
+    "last_commit_at": "2026-11-07T19:03:57Z",
+    "releases": 63,
+    "tags": 87,
+    "archived": false,
+    "release": {
+      "tag": "v3.2.0",
+      "at": "2026-08-19T14:57:11.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "scan_partial": true
+}

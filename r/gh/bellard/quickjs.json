@@ -1,0 +1,55 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:712e8c0ca26949477c38f91dbaf955cc48e2f261"
+  },
+  "id": "gh:bellard/quickjs",
+  "kind": "repo",
+  "url": "https://github.com/bellard/quickjs",
+  "title": "quickjs",
+  "why": "Small JavaScript engine in C, with a qjsc compiler, a REPL and a test262 runner in the tree.",
+  "keys": {
+    "races": [
+      "languages/runtimes"
+    ],
+    "lanes": [
+      "languages/runtimes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.txt",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bellard/quickjs",
+    "sha": "712e8c0ca26949477c38f91dbaf955cc48e2f261",
+    "file_url": "https://cdn.jsdelivr.net/gh/bellard/quickjs@712e8c0ca26949477c38f91dbaf955cc48e2f261/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 11102,
+    "size_mb": 17,
+    "created_at": "2020-09-06T16:24:51Z",
+    "last_commit_at": "2026-11-07T13:25:12Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "gh:kieler/elkjs",
+  "kind": "repo",
+  "url": "https://github.com/kieler/elkjs",
+  "title": "elkjs",
+  "why": "Lays out node and edge graphs automatically with the layered algorithm, ELK compiled to JavaScript for diagram tools.",
+  "keys": {
+    "races": [
+      "dev-tools/diagrams"
+    ],
+    "lanes": [
+      "dev-tools/diagrams"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kieler/elkjs",
+    "sha": "bddee3a807b5ff6324a1f1af79d1f95105637458",
+    "file_url": "https://cdn.jsdelivr.net/gh/kieler/elkjs@bddee3a807b5ff6324a1f1af79d1f95105637458/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "NOASSERTION",
+    "stars": 2884,
+    "size_mb": 12,
+    "created_at": "2017-07-10T10:07:34Z",
+    "last_commit_at": "2026-10-28T13:00:37Z",
+    "releases": 17,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "0.12.1",
+      "at": "2026-10-28T12:23:36.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

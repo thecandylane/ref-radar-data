@@ -1,0 +1,62 @@
+{
+  "id": "gh:formulahendry/acp-ui",
+  "kind": "repo",
+  "url": "https://github.com/formulahendry/acp-ui",
+  "title": "acp-ui",
+  "why": "Connect Claude, Codex, Gemini or any ACP agent from one Tauri and Vue app that also runs in a browser or on mobile.",
+  "keys": {
+    "races": [
+      "agents/clients"
+    ],
+    "lanes": [
+      "agents/clients"
+    ],
+    "capabilities": [
+      "agents/clients/desktop-apps",
+      "agents/clients/mobile-apps"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/formulahendry/acp-ui",
+    "sha": "cd9c3cb464a4b321bff652101953a64c07473e31",
+    "file_url": "https://cdn.jsdelivr.net/gh/formulahendry/acp-ui@cd9c3cb464a4b321bff652101953a64c07473e31/{path}"
+  },
+  "facts": {
+    "lang": "Vue",
+    "license": "MIT",
+    "stars": 507,
+    "size_mb": 1,
+    "created_at": "2026-01-31T09:19:35Z",
+    "last_commit_at": "2026-05-25T08:34:33Z",
+    "releases": 14,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.16",
+      "at": "2026-05-25T08:50:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

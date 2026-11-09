@@ -1,0 +1,59 @@
+{
+  "id": "gh:xyflow/xyflow",
+  "kind": "repo",
+  "url": "https://github.com/xyflow/xyflow",
+  "title": "xyflow",
+  "why": "Node-based UI components for React and Svelte, used for flowcharts and workflow editors with custom nodes.",
+  "keys": {
+    "races": [
+      "web/ui-components"
+    ],
+    "lanes": [
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/xyflow/xyflow",
+    "sha": "1bc405cd113618c17fd181b931a9fe573bec9fee",
+    "file_url": "https://cdn.jsdelivr.net/gh/xyflow/xyflow@1bc405cd113618c17fd181b931a9fe573bec9fee/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 38933,
+    "size_mb": 46,
+    "created_at": "2019-07-15T14:47:30Z",
+    "last_commit_at": "2026-11-02T09:52:15Z",
+    "releases": 398,
+    "tags": 713,
+    "archived": false,
+    "release": {
+      "tag": "@xyflow/svelte@1.7.1",
+      "at": "2026-11-02T09:53:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

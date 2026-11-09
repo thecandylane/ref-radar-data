@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c43beed964074d08865d648ca9ac3359826a14ff"
+  },
+  "id": "gh:getumbrel/umbrel",
+  "kind": "repo",
+  "url": "https://github.com/getumbrel/umbrel",
+  "title": "umbrel",
+  "why": "Turns a Raspberry Pi into a home server with an app store for self-hosted apps like OpenClaw, Bitcoin and file storage.",
+  "keys": {
+    "races": [
+      "infra/hosting",
+      "agents/tools"
+    ],
+    "lanes": [
+      "infra/hosting",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/getumbrel/umbrel",
+    "sha": "c43beed964074d08865d648ca9ac3359826a14ff",
+    "file_url": "https://cdn.jsdelivr.net/gh/getumbrel/umbrel@c43beed964074d08865d648ca9ac3359826a14ff/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 12534,
+    "size_mb": 143,
+    "created_at": "2020-07-06T18:40:02Z",
+    "last_commit_at": "2026-11-03T17:14:39Z",
+    "releases": 104,
+    "tags": 116,
+    "archived": false,
+    "release": {
+      "tag": "2.0.1",
+      "at": "2026-11-01T09:28:41.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

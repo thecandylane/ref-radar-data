@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:2940bdfb5e1a90cd67200fa63579d7eadf679009"
+  },
   "id": "gh:wazuh/wazuh",
   "kind": "repo",
   "url": "https://github.com/wazuh/wazuh",
@@ -32,19 +35,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/wazuh/wazuh",
-    "sha": "bbd1cea999dd661483c3e5f51345385caa853319",
-    "file_url": "https://raw.githubusercontent.com/wazuh/wazuh/bbd1cea999dd661483c3e5f51345385caa853319/{path}"
+    "sha": "2940bdfb5e1a90cd67200fa63579d7eadf679009",
+    "file_url": "https://raw.githubusercontent.com/wazuh/wazuh/2940bdfb5e1a90cd67200fa63579d7eadf679009/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "NOASSERTION",
-    "stars": 17548,
+    "stars": 17612,
     "size_mb": 583,
     "created_at": "2015-08-11T17:39:03Z",
-    "last_commit_at": "2026-11-01T18:20:21Z",
+    "last_commit_at": "2026-11-06T15:20:06Z",
     "releases": 141,
-    "tags": 143,
-    "archived": false
+    "tags": 144,
+    "archived": false,
+    "release": {
+      "tag": "v4.14.9",
+      "at": "2026-10-15T17:40:40.000Z"
+    }
   },
   "reuse": "study",
   "maturity": "stable",

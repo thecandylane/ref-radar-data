@@ -1,0 +1,65 @@
+{
+  "id": "gh:shadcn-ui/ui",
+  "kind": "repo",
+  "url": "https://github.com/shadcn-ui/ui",
+  "title": "ui",
+  "why": "Accessible React components built on Radix UI or Base UI and Tailwind that you copy in and customize, plus a skills folder.",
+  "keys": {
+    "races": [
+      "web/css",
+      "web/ui-components"
+    ],
+    "lanes": [
+      "web/css",
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/shadcn-ui/ui",
+    "sha": "8a3536678a528cc012b9e62484290e79d0be410f",
+    "file_url": "https://cdn.jsdelivr.net/gh/shadcn-ui/ui@8a3536678a528cc012b9e62484290e79d0be410f/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 127600,
+    "size_mb": 73,
+    "created_at": "2023-01-04T12:43:27Z",
+    "last_commit_at": "2026-11-08T08:14:55Z",
+    "releases": 140,
+    "tags": 141,
+    "archived": false,
+    "release": {
+      "tag": "shadcn@4.23.0",
+      "at": "2026-10-27T12:31:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

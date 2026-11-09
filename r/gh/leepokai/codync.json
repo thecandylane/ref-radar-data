@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:7f33f3cb419a85e509b988b779856cdc4d5d2fab"
+  },
   "id": "gh:leepokai/codync",
   "kind": "repo",
   "url": "https://github.com/leepokai/Codync",
@@ -38,13 +41,17 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 1776,
-    "size_mb": 63,
+    "stars": 1982,
+    "size_mb": 67,
     "created_at": "2026-03-18T11:11:05Z",
-    "last_commit_at": "2026-11-02T22:17:36Z",
-    "releases": 102,
-    "tags": 102,
-    "archived": false
+    "last_commit_at": "2026-11-08T06:55:00Z",
+    "releases": 113,
+    "tags": 113,
+    "archived": false,
+    "release": {
+      "tag": "v2.42.1",
+      "at": "2026-11-08T06:55:15.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

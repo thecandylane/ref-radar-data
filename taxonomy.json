@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-11-03T09:16:24.698Z",
+  "generated_at": "2026-11-09T02:19:50.244Z",
   "nodes": [
     {
       "key": "agents",
       "parent": null,
       "level": "domain",
-      "label": "AI agents"
+      "label": "AI agents",
+      "discipline": "ai"
     },
     {
       "key": "agents/assistants",
@@ -371,7 +372,8 @@
       "key": "cyber",
       "parent": null,
       "level": "domain",
-      "label": "Security"
+      "label": "Security",
+      "discipline": "cybersecurity"
     },
     {
       "key": "cyber/agent-security",
@@ -511,7 +513,8 @@
       "key": "data",
       "parent": null,
       "level": "domain",
-      "label": "Data"
+      "label": "Data",
+      "discipline": "analytics"
     },
     {
       "key": "data/analytics",
@@ -604,7 +607,8 @@
       "key": "design",
       "parent": null,
       "level": "domain",
-      "label": "UI and UX design"
+      "label": "UI and UX design",
+      "discipline": "apps"
     },
     {
       "key": "design/accessibility",
@@ -624,7 +628,8 @@
       "key": "desktop",
       "parent": null,
       "level": "domain",
-      "label": "Desktop"
+      "label": "Desktop",
+      "discipline": "apps"
     },
     {
       "key": "desktop/app-shells",
@@ -658,7 +663,8 @@
       "key": "dev-tools",
       "parent": null,
       "level": "domain",
-      "label": "Developer tools"
+      "label": "Developer tools",
+      "discipline": "software"
     },
     {
       "key": "dev-tools/build",
@@ -762,7 +768,8 @@
       "key": "embedded",
       "parent": null,
       "level": "domain",
-      "label": "Embedded"
+      "label": "Embedded",
+      "discipline": "computing"
     },
     {
       "key": "embedded/drivers",
@@ -796,7 +803,8 @@
       "key": "engineering",
       "parent": null,
       "level": "domain",
-      "label": "Engineering"
+      "label": "Engineering",
+      "discipline": "science"
     },
     {
       "key": "engineering/bim",
@@ -858,7 +866,8 @@
       "key": "finance",
       "parent": null,
       "level": "domain",
-      "label": "Finance"
+      "label": "Finance",
+      "discipline": "business"
     },
     {
       "key": "finance/accounting",
@@ -965,7 +974,8 @@
       "key": "games",
       "parent": null,
       "level": "domain",
-      "label": "Games"
+      "label": "Games",
+      "discipline": "apps"
     },
     {
       "key": "games/engines",
@@ -985,7 +995,8 @@
       "key": "infra",
       "parent": null,
       "level": "domain",
-      "label": "Cloud and infrastructure"
+      "label": "Cloud and infrastructure",
+      "discipline": "computing"
     },
     {
       "key": "infra/ci-cd",
@@ -1084,7 +1095,8 @@
       "key": "languages",
       "parent": null,
       "level": "domain",
-      "label": "Languages"
+      "label": "Languages",
+      "discipline": "software"
     },
     {
       "key": "languages/compilers",
@@ -1111,7 +1123,8 @@
       "key": "learning",
       "parent": null,
       "level": "domain",
-      "label": "Learning and training"
+      "label": "Learning and training",
+      "discipline": "education"
     },
     {
       "key": "learning/courses",
@@ -1138,7 +1151,8 @@
       "key": "llm-infra",
       "parent": null,
       "level": "domain",
-      "label": "LLM infrastructure"
+      "label": "LLM infrastructure",
+      "discipline": "ai"
     },
     {
       "key": "llm-infra/chat-apps",
@@ -1251,7 +1265,8 @@
       "key": "media",
       "parent": null,
       "level": "domain",
-      "label": "Media"
+      "label": "Media",
+      "discipline": "creative"
     },
     {
       "key": "media/news",
@@ -1302,7 +1317,8 @@
       "key": "ml",
       "parent": null,
       "level": "domain",
-      "label": "Machine learning"
+      "label": "Machine learning",
+      "discipline": "ai"
     },
     {
       "key": "ml/embeddings",
@@ -1342,7 +1358,8 @@
       "key": "mobile",
       "parent": null,
       "level": "domain",
-      "label": "Mobile"
+      "label": "Mobile",
+      "discipline": "apps"
     },
     {
       "key": "mobile/android",
@@ -1376,7 +1393,8 @@
       "key": "practice",
       "parent": null,
       "level": "domain",
-      "label": "Practice"
+      "label": "Practice",
+      "discipline": "software"
     },
     {
       "key": "practice/architecture",
@@ -1410,7 +1428,8 @@
       "key": "systems",
       "parent": null,
       "level": "domain",
-      "label": "Low-level systems"
+      "label": "Low-level systems",
+      "discipline": "computing"
     },
     {
       "key": "systems/memory",
@@ -1430,7 +1449,8 @@
       "key": "web",
       "parent": null,
       "level": "domain",
-      "label": "Web"
+      "label": "Web",
+      "discipline": "apps"
     },
     {
       "key": "web/cms",
@@ -1912,5 +1932,116 @@
     "wireguard": "infra/networking",
     "yahoo-finance": "finance/markets/market-data",
     "zephyr": "embedded/rtos"
+  },
+  "disciplines": [
+    {
+      "key": "ai",
+      "label": "AI & machine learning",
+      "ord": 1,
+      "domains": [
+        "agents",
+        "llm-infra",
+        "ml"
+      ]
+    },
+    {
+      "key": "software",
+      "label": "Software development",
+      "ord": 2,
+      "domains": [
+        "dev-tools",
+        "languages",
+        "practice"
+      ]
+    },
+    {
+      "key": "apps",
+      "label": "Apps, games & interfaces",
+      "ord": 3,
+      "domains": [
+        "design",
+        "desktop",
+        "games",
+        "mobile",
+        "web"
+      ]
+    },
+    {
+      "key": "computing",
+      "label": "Cloud, systems & hardware",
+      "ord": 4,
+      "domains": [
+        "embedded",
+        "infra",
+        "systems"
+      ]
+    },
+    {
+      "key": "cybersecurity",
+      "label": "Security",
+      "ord": 5,
+      "domains": [
+        "cyber"
+      ]
+    },
+    {
+      "key": "analytics",
+      "label": "Data & analytics",
+      "ord": 6,
+      "domains": [
+        "data"
+      ]
+    },
+    {
+      "key": "science",
+      "label": "Science & engineering",
+      "ord": 7,
+      "domains": [
+        "engineering"
+      ]
+    },
+    {
+      "key": "earth",
+      "label": "Earth & environment",
+      "ord": 8,
+      "domains": []
+    },
+    {
+      "key": "health",
+      "label": "Health & medicine",
+      "ord": 9,
+      "domains": []
+    },
+    {
+      "key": "business",
+      "label": "Business, finance & society",
+      "ord": 10,
+      "domains": [
+        "finance"
+      ]
+    },
+    {
+      "key": "creative",
+      "label": "Media & creative",
+      "ord": 11,
+      "domains": [
+        "media"
+      ]
+    },
+    {
+      "key": "education",
+      "label": "Education & learning",
+      "ord": 12,
+      "domains": [
+        "learning"
+      ]
+    }
+  ],
+  "labels": {
+    "malware": "malware sample, kept for the record",
+    "lure": "lure: malware posing as a project",
+    "exploit": "exploit: working attack code, kept for study",
+    "compromised": "compromised",
+    "agent-trap": "agent trap"
   }
 }

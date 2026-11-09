@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2d20b42b883dcfc014f3c2c56081eeb6091c2179"
+  },
+  "id": "gh:rust-lang/rust",
+  "kind": "repo",
+  "url": "https://github.com/rust-lang/rust",
+  "title": "rust",
+  "why": "Source of the Rust compiler and standard library, built through the x.py bootstrap script from the compiler and library folders.",
+  "keys": {
+    "races": [
+      "languages/compilers"
+    ],
+    "lanes": [
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rust-lang/rust",
+    "sha": "2d20b42b883dcfc014f3c2c56081eeb6091c2179",
+    "file_url": "https://raw.githubusercontent.com/rust-lang/rust/2d20b42b883dcfc014f3c2c56081eeb6091c2179/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 121611,
+    "size_mb": 1017,
+    "created_at": "2010-06-16T20:39:03Z",
+    "last_commit_at": "2026-11-08T02:26:48Z",
+    "releases": 157,
+    "tags": 165,
+    "archived": false,
+    "release": {
+      "tag": "1.99.1",
+      "at": "2026-10-16T04:47:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

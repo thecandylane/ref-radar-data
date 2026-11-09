@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1b1d9c40e9d9ca08e0028d672c6b0c1eff34796a"
+  },
+  "id": "gh:astral-sh/ty",
+  "kind": "repo",
+  "url": "https://github.com/astral-sh/ty",
+  "title": "ty",
+  "why": "Checks Python types and powers editor features from a Rust codebase, with a claimed 10x - 100x speedup over mypy and Pyright.",
+  "keys": {
+    "races": [
+      "languages/type-systems"
+    ],
+    "lanes": [
+      "languages/type-systems"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/astral-sh/ty",
+    "sha": "1b1d9c40e9d9ca08e0028d672c6b0c1eff34796a",
+    "file_url": "https://cdn.jsdelivr.net/gh/astral-sh/ty@1b1d9c40e9d9ca08e0028d672c6b0c1eff34796a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 20042,
+    "size_mb": 7,
+    "created_at": "2025-05-02T16:37:51Z",
+    "last_commit_at": "2026-11-06T23:12:43Z",
+    "releases": 140,
+    "tags": 140,
+    "archived": false,
+    "release": {
+      "tag": "0.0.99",
+      "at": "2026-11-06T10:13:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

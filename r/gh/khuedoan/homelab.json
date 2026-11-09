@@ -1,0 +1,63 @@
+{
+  "id": "gh:khuedoan/homelab",
+  "kind": "repo",
+  "url": "https://github.com/khuedoan/homelab",
+  "title": "homelab",
+  "why": "Boots a bare machine into a k3s cluster running self-hosted services with one command, using Ansible, Terraform and ArgoCD.",
+  "keys": {
+    "races": [
+      "infra/hosting",
+      "infra/kubernetes",
+      "infra/iac"
+    ],
+    "lanes": [
+      "infra/hosting",
+      "infra/kubernetes",
+      "infra/iac"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/khuedoan/homelab",
+    "sha": "8b9d40f51e528bcc642ea9d052eecfc7c23b5cda",
+    "file_url": "https://cdn.jsdelivr.net/gh/khuedoan/homelab@8b9d40f51e528bcc642ea9d052eecfc7c23b5cda/{path}"
+  },
+  "facts": {
+    "lang": "HCL",
+    "license": "GPL-3.0",
+    "stars": 9719,
+    "size_mb": 3,
+    "created_at": "2020-06-21T13:48:40Z",
+    "last_commit_at": "2026-11-08T08:42:11Z",
+    "releases": 2,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v0.0.8",
+      "at": "2022-07-26T14:08:05.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

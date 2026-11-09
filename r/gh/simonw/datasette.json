@@ -1,0 +1,57 @@
+{
+  "id": "gh:simonw/datasette",
+  "kind": "repo",
+  "url": "https://github.com/simonw/datasette",
+  "title": "datasette",
+  "why": "Publishes SQLite or CSV data of any shape as an interactive website and API, deployable with a single command.",
+  "keys": {
+    "races": [
+      "data/analytics",
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/analytics",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/simonw/datasette",
+    "sha": "d1cc495a966cafaed3e50dad73cd88e790031704",
+    "file_url": "https://cdn.jsdelivr.net/gh/simonw/datasette@d1cc495a966cafaed3e50dad73cd88e790031704/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 11549,
+    "size_mb": 11,
+    "created_at": "2017-10-23T00:39:03Z",
+    "last_commit_at": "2026-11-08T06:54:26Z",
+    "releases": 175,
+    "tags": 184,
+    "archived": false,
+    "release": {
+      "tag": "0.65.5",
+      "at": "2026-09-16T23:51:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

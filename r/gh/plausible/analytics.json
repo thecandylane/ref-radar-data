@@ -1,0 +1,61 @@
+{
+  "id": "gh:plausible/analytics",
+  "kind": "repo",
+  "url": "https://github.com/plausible/analytics",
+  "title": "analytics",
+  "why": "Self-hostable web analytics with no cookies, built on Elixir and ClickHouse, as a lightweight swap for Google Analytics.",
+  "keys": {
+    "races": [
+      "data/analytics",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "data/analytics",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/plausible/analytics",
+    "sha": "e6c89e26fc28ec46ba8df428b8acce171661b936",
+    "file_url": "https://cdn.jsdelivr.net/gh/plausible/analytics@e6c89e26fc28ec46ba8df428b8acce171661b936/{path}"
+  },
+  "facts": {
+    "lang": "Elixir",
+    "license": "AGPL-3.0",
+    "stars": 29793,
+    "size_mb": 699,
+    "created_at": "2018-12-04T22:33:36Z",
+    "last_commit_at": "2026-11-06T11:16:28Z",
+    "releases": 44,
+    "tags": 671,
+    "archived": false,
+    "release": {
+      "tag": "v3.2.1",
+      "at": "2026-05-15T09:15:56.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

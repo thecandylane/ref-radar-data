@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f32cbbfb2285c25fe7fafbcc964e274d19a4cb9f"
+  },
+  "id": "gh:specterops/bloodhound",
+  "kind": "repo",
+  "url": "https://github.com/SpecterOps/BloodHound",
+  "title": "BloodHound",
+  "why": "Graph tool that finds attack paths to Domain Admin, with a Go server, a web UI under packages and an AGENTS.md.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SpecterOps/BloodHound",
+    "sha": "f32cbbfb2285c25fe7fafbcc964e274d19a4cb9f",
+    "file_url": "https://raw.githubusercontent.com/SpecterOps/BloodHound/f32cbbfb2285c25fe7fafbcc964e274d19a4cb9f/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 3540,
+    "size_mb": 2886,
+    "created_at": "2023-08-03T19:20:06Z",
+    "last_commit_at": "2026-11-07T01:25:16Z",
+    "releases": 332,
+    "tags": 349,
+    "archived": false,
+    "release": {
+      "tag": "v9.9.2",
+      "at": "2026-11-06T17:14:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "scan_partial": true
+}

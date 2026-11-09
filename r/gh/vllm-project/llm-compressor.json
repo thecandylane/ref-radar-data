@@ -1,0 +1,61 @@
+{
+  "id": "gh:vllm-project/llm-compressor",
+  "kind": "repo",
+  "url": "https://github.com/vllm-project/llm-compressor",
+  "title": "llm-compressor",
+  "why": "Quantizes and compresses LLMs for serving with vLLM, in a Python library with examples and benchmarks.",
+  "keys": {
+    "races": [
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "llm-infra/inference"
+    ],
+    "capabilities": [
+      "llm-infra/inference/low-bit"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vllm-project/llm-compressor",
+    "sha": "de16f385705239c10bc54add79d4881242ddbb8c",
+    "file_url": "https://cdn.jsdelivr.net/gh/vllm-project/llm-compressor@de16f385705239c10bc54add79d4881242ddbb8c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 3952,
+    "size_mb": 43,
+    "created_at": "2024-06-20T20:13:34Z",
+    "last_commit_at": "2026-11-06T20:08:58Z",
+    "releases": 40,
+    "tags": 42,
+    "archived": false,
+    "release": {
+      "tag": "0.15.0",
+      "at": "2026-10-29T17:18:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

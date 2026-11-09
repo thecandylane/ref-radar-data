@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0cf78561f1d51c84a21b2190626b21116d5c68bb"
+  },
+  "id": "gh:deepseek-ai/deepseek-r1",
+  "kind": "repo",
+  "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+  "title": "DeepSeek-R1",
+  "why": "Open reasoning models including R1-Zero, trained with large-scale reinforcement learning and no supervised fine-tuning, plus distilled Qwen and Llama versions.",
+  "keys": {
+    "races": [
+      "ml/open-models"
+    ],
+    "lanes": [
+      "ml/open-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/deepseek-ai/DeepSeek-R1",
+    "sha": "0cf78561f1d51c84a21b2190626b21116d5c68bb",
+    "file_url": "https://cdn.jsdelivr.net/gh/deepseek-ai/DeepSeek-R1@0cf78561f1d51c84a21b2190626b21116d5c68bb/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "MIT",
+    "stars": 92004,
+    "size_mb": 2,
+    "created_at": "2025-01-20T11:57:28Z",
+    "last_commit_at": "2025-04-09T05:36:23Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2025-06-27T08:39:13.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

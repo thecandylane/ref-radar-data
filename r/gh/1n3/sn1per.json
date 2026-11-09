@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:24368bd0bf32969764d73556e920f713876663c9"
+  },
+  "id": "gh:1n3/sn1per",
+  "kind": "repo",
+  "url": "https://github.com/1N3/Sn1per",
+  "title": "Sn1per",
+  "why": "Orchestrates 90+ scanning and exploit tools, then actively verifies which findings are exploitable, cutting the false positives of version-only scanners.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "agents/tools"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/1N3/Sn1per",
+    "sha": "24368bd0bf32969764d73556e920f713876663c9",
+    "file_url": "https://cdn.jsdelivr.net/gh/1N3/Sn1per@24368bd0bf32969764d73556e920f713876663c9/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "NOASSERTION",
+    "stars": 11529,
+    "size_mb": 33,
+    "created_at": "2015-09-06T15:47:38Z",
+    "last_commit_at": "2026-10-27T14:02:26Z",
+    "releases": 49,
+    "tags": 53,
+    "archived": false,
+    "release": {
+      "tag": "v9.2",
+      "at": "2023-07-29T16:40:37.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

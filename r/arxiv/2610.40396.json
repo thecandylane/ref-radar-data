@@ -1,0 +1,43 @@
+{
+  "archive": {
+    "page": "https://web.archive.org/web/20261031081935/https://arxiv.org/abs/2610.40396"
+  },
+  "id": "arxiv:2610.40396",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.40396",
+  "title": "Understanding and Mitigating Role Spoofing in LLMs",
+  "why": "Shows models judge who said what from style and control tokens, so tool output can pose as the user, and detects it with linear probes.",
+  "keys": {
+    "races": [
+      "cyber/agent-security"
+    ],
+    "lanes": [
+      "cyber/agent-security"
+    ],
+    "capabilities": [
+      "cyber/agent-security/runtime-guardrails"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.40396"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

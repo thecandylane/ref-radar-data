@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:f3a595bd57277438f5dfdd3b627c5b3a0208dece"
+  },
   "id": "gh:ai-sorcery/ai-sorcery",
   "kind": "repo",
   "url": "https://github.com/ai-sorcery/ai-sorcery",
@@ -37,7 +40,8 @@
     "last_commit_at": "2026-05-29T00:19:33Z",
     "releases": 0,
     "tags": 0,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "copy",
   "maturity": "unreleased",
@@ -50,6 +54,5 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  },
-  "scan_partial": true
+  }
 }

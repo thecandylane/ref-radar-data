@@ -6,16 +6,16 @@
   "why": "Runtime monitor that catches malicious tool use, prompt injection and policy drift before an agent acts.",
   "keys": {
     "races": [
-      "agents/skills",
-      "cyber/agent-security"
+      "cyber/agent-security",
+      "agents/skills"
     ],
     "lanes": [
-      "agents/skills",
-      "cyber/agent-security"
+      "cyber/agent-security",
+      "agents/skills"
     ],
     "capabilities": [
-      "agents/skills/plugin-specs",
-      "cyber/agent-security/runtime-guardrails"
+      "cyber/agent-security/runtime-guardrails",
+      "agents/skills/plugin-specs"
     ]
   },
   "read": [
@@ -43,18 +43,26 @@
     "last_commit_at": "2026-10-21T11:53:56Z",
     "releases": 0,
     "tags": 5,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "copy",
-  "maturity": "new",
+  "maturity": "stable",
   "status": null,
   "stats": {
     "picks": {},
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 2,
+    "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-03T10:30:04.386Z"
   }
 }

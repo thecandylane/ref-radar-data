@@ -24,19 +24,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "sha": "5f2bc0341354fd5590aef76a533ada1e1e5b4e62",
-    "file_url": "https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/5f2bc0341354fd5590aef76a533ada1e1e5b4e62/{path}"
+    "sha": "a25cf9ec00e2745d03f8704acf6f6919694ccd9a",
+    "file_url": "https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/a25cf9ec00e2745d03f8704acf6f6919694ccd9a/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 55898,
+    "stars": 56440,
     "size_mb": 460,
     "created_at": "2025-10-19T20:54:15Z",
     "last_commit_at": "2026-11-02T09:23:26Z",
     "releases": 109,
     "tags": 109,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v2.72.0",
+      "at": "2026-10-01T22:42:08.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

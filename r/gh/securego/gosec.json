@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:14c713478ed40c9bdfa56d35d9c2142b91608106"
+  },
+  "id": "gh:securego/gosec",
+  "kind": "repo",
+  "url": "https://github.com/securego/gosec",
+  "title": "gosec",
+  "why": "Scans Go source for security problems using rules and taint analysis, and also ships as a GitHub Action.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "infra/ci-cd"
+    ],
+    "capabilities": [
+      "cyber/appsec/static-analysis",
+      "cyber/appsec/auto-remediation"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/securego/gosec",
+    "sha": "14c713478ed40c9bdfa56d35d9c2142b91608106",
+    "file_url": "https://cdn.jsdelivr.net/gh/securego/gosec@14c713478ed40c9bdfa56d35d9c2142b91608106/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 9001,
+    "size_mb": 7,
+    "created_at": "2016-07-18T18:01:08Z",
+    "last_commit_at": "2026-11-03T15:19:01Z",
+    "releases": 62,
+    "tags": 70,
+    "archived": false,
+    "release": {
+      "tag": "v2.30.0",
+      "at": "2026-10-23T09:22:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

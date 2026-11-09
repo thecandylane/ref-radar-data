@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:05441d697f7f9a927264f4058cbbc6a03dfcac9d"
+  },
+  "id": "gh:torvalds/linux",
+  "kind": "repo",
+  "url": "https://github.com/torvalds/linux",
+  "title": "linux",
+  "why": "Reference for how a real kernel is laid out, with mm, fs, net, drivers and rust directories and an AGENTS.md for agents.",
+  "keys": {
+    "races": [
+      "embedded/drivers",
+      "systems/os"
+    ],
+    "lanes": [
+      "embedded/drivers",
+      "systems/os"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/torvalds/linux",
+    "sha": "05441d697f7f9a927264f4058cbbc6a03dfcac9d",
+    "file_url": "https://raw.githubusercontent.com/torvalds/linux/05441d697f7f9a927264f4058cbbc6a03dfcac9d/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 254810,
+    "size_mb": 6299,
+    "created_at": "2011-09-04T22:48:12Z",
+    "last_commit_at": "2026-11-07T21:52:02Z",
+    "releases": 0,
+    "tags": 952,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

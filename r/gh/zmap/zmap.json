@@ -1,0 +1,65 @@
+{
+  "id": "gh:zmap/zmap",
+  "kind": "repo",
+  "url": "https://github.com/zmap/zmap",
+  "title": "zmap",
+  "why": "Sweeps the whole Internet address space with single packet probes, a design built for large scale network surveys.",
+  "keys": {
+    "races": [
+      "infra/networking",
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "infra/networking",
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zmap/zmap",
+    "sha": "f3eeb0e3c964e96b2a5f5de4df3e347df0baf750",
+    "file_url": "https://cdn.jsdelivr.net/gh/zmap/zmap@f3eeb0e3c964e96b2a5f5de4df3e347df0baf750/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "Apache-2.0",
+    "stars": 6425,
+    "size_mb": 6,
+    "created_at": "2013-01-23T01:30:09Z",
+    "last_commit_at": "2026-11-07T04:33:08Z",
+    "releases": 18,
+    "tags": 37,
+    "archived": false,
+    "release": {
+      "tag": "v4.4.0",
+      "at": "2026-05-29T06:37:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

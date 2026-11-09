@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:686abfe751a7cb0fb21e29d6999119ec80e2bb8f"
+  },
+  "id": "gh:valkey-io/valkey",
+  "kind": "repo",
+  "url": "https://github.com/valkey-io/valkey",
+  "title": "valkey",
+  "why": "Key-value database in the Redis family used as a cache, with cluster, sentinel and module API test suites.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/valkey-io/valkey",
+    "sha": "686abfe751a7cb0fb21e29d6999119ec80e2bb8f",
+    "file_url": "https://cdn.jsdelivr.net/gh/valkey-io/valkey@686abfe751a7cb0fb21e29d6999119ec80e2bb8f/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "BSD-3-Clause",
+    "stars": 27654,
+    "size_mb": 280,
+    "created_at": "2024-03-22T00:42:17Z",
+    "last_commit_at": "2026-11-07T02:56:36Z",
+    "releases": 61,
+    "tags": 62,
+    "archived": false,
+    "release": {
+      "tag": "9.1.3",
+      "at": "2026-10-26T23:21:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

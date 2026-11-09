@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:61651911c8648a0dadc633beb74a3ba7bed97cb3"
+  },
+  "id": "gh:pytorch/pytorch",
+  "kind": "repo",
+  "url": "https://github.com/pytorch/pytorch",
+  "title": "pytorch",
+  "why": "Tensor library with autograd for building neural networks in Python, backed by GPU kernels in aten and c10.",
+  "keys": {
+    "races": [
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pytorch/pytorch",
+    "sha": "61651911c8648a0dadc633beb74a3ba7bed97cb3",
+    "file_url": "https://raw.githubusercontent.com/pytorch/pytorch/61651911c8648a0dadc633beb74a3ba7bed97cb3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 105249,
+    "size_mb": 1667,
+    "created_at": "2016-08-13T05:26:41Z",
+    "last_commit_at": "2026-11-08T04:22:45Z",
+    "releases": 71,
+    "tags": 15174,
+    "archived": false,
+    "release": {
+      "tag": "v2.15.0",
+      "at": "2026-10-28T17:09:49.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:de052f5c30c47f26b81f14f8e4372c5fda4e3549"
+  },
+  "id": "gh:crossterm-rs/crossterm",
+  "kind": "repo",
+  "url": "https://github.com/crossterm-rs/crossterm",
+  "title": "crossterm",
+  "why": "Controls the terminal from Rust on every platform, covering cursor, colors and input for TUI programs.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/crossterm-rs/crossterm",
+    "sha": "de052f5c30c47f26b81f14f8e4372c5fda4e3549",
+    "file_url": "https://cdn.jsdelivr.net/gh/crossterm-rs/crossterm@de052f5c30c47f26b81f14f8e4372c5fda4e3549/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 4257,
+    "size_mb": 30,
+    "created_at": "2018-01-03T13:34:42Z",
+    "last_commit_at": "2026-11-01T08:52:09Z",
+    "releases": 36,
+    "tags": 36,
+    "archived": false,
+    "release": {
+      "tag": "0.28",
+      "at": "2024-07-31T17:44:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

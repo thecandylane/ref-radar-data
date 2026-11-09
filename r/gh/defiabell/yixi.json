@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:6967872d69fd9b0855596766fe6d79c6e98faeb4"
+  },
   "id": "gh:defiabell/yixi",
   "kind": "repo",
   "url": "https://github.com/Defiabell/yixi",
@@ -40,7 +43,11 @@
     "last_commit_at": "2026-11-01T13:46:59Z",
     "releases": 1,
     "tags": 1,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v0.1.0",
+      "at": "2026-09-05T09:51:26.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "new",
@@ -50,7 +57,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   }

@@ -39,13 +39,17 @@
   "facts": {
     "lang": "Go",
     "license": "NOASSERTION",
-    "stars": 287,
+    "stars": 299,
     "size_mb": 4,
     "created_at": "2026-10-04T07:32:31Z",
-    "last_commit_at": "2026-11-02T05:20:47Z",
-    "releases": 46,
-    "tags": 46,
-    "archived": false
+    "last_commit_at": "2026-11-06T13:54:26Z",
+    "releases": 47,
+    "tags": 47,
+    "archived": false,
+    "release": {
+      "tag": "v1.10.0",
+      "at": "2026-11-02T05:25:19.000Z"
+    }
   },
   "reuse": "study",
   "maturity": "new",
@@ -55,7 +59,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 16,
     "votes": {},
     "ranks": {}
   }

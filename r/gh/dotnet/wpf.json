@@ -1,0 +1,59 @@
+{
+  "id": "gh:dotnet/wpf",
+  "kind": "repo",
+  "url": "https://github.com/dotnet/wpf",
+  "title": "wpf",
+  "why": "Shows how WPF builds XAML controls, layout and data binding in C#, with a roadmap and src folder to browse.",
+  "keys": {
+    "races": [
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dotnet/wpf",
+    "sha": "36ad23d0a4bc88922fea4ac6b3c439b8c24dbd35",
+    "file_url": "https://cdn.jsdelivr.net/gh/dotnet/wpf@36ad23d0a4bc88922fea4ac6b3c439b8c24dbd35/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "MIT",
+    "stars": 7752,
+    "size_mb": 70,
+    "created_at": "2018-10-19T01:55:23Z",
+    "last_commit_at": "2026-11-06T09:19:45Z",
+    "releases": 226,
+    "tags": 270,
+    "archived": false,
+    "release": {
+      "tag": "v10.0.13",
+      "at": "2026-10-13T22:30:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:33bfff7ce750c27f157ddb4580e36bf842d6d95b"
+  },
+  "id": "gh:topjohnwu/magisk",
+  "kind": "repo",
+  "url": "https://github.com/topjohnwu/Magisk",
+  "title": "Magisk",
+  "why": "Customizes Android devices newer than Android 7.0, with MagiskBoot to unpack and repack boot images and Zygisk to run code in app processes.",
+  "keys": {
+    "races": [
+      "mobile/android"
+    ],
+    "lanes": [
+      "mobile/android"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/topjohnwu/Magisk",
+    "sha": "33bfff7ce750c27f157ddb4580e36bf842d6d95b",
+    "file_url": "https://cdn.jsdelivr.net/gh/topjohnwu/Magisk@33bfff7ce750c27f157ddb4580e36bf842d6d95b/{path}"
+  },
+  "facts": {
+    "lang": "Kotlin",
+    "license": "GPL-3.0",
+    "stars": 63859,
+    "size_mb": 64,
+    "created_at": "2016-09-08T12:42:53Z",
+    "last_commit_at": "2026-10-27T16:23:18Z",
+    "releases": 158,
+    "tags": 158,
+    "archived": false,
+    "release": {
+      "tag": "v31.1",
+      "at": "2026-10-25T02:03:45.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

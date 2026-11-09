@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7519edef169ed03146ef668f79bae30cfcb67716"
+  },
+  "id": "gh:hashicorp/packer",
+  "kind": "repo",
+  "url": "https://github.com/hashicorp/packer",
+  "title": "packer",
+  "why": "Builds matching machine images for several platforms from one HCL config via builders, provisioners and post-processors.",
+  "keys": {
+    "races": [
+      "infra/containers",
+      "infra/iac"
+    ],
+    "lanes": [
+      "infra/containers",
+      "infra/iac"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hashicorp/packer",
+    "sha": "7519edef169ed03146ef668f79bae30cfcb67716",
+    "file_url": "https://cdn.jsdelivr.net/gh/hashicorp/packer@7519edef169ed03146ef668f79bae30cfcb67716/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "NOASSERTION",
+    "stars": 15819,
+    "size_mb": 118,
+    "created_at": "2013-03-23T05:43:03Z",
+    "last_commit_at": "2026-10-27T09:15:15Z",
+    "releases": 70,
+    "tags": 148,
+    "archived": false,
+    "release": {
+      "tag": "v1.16.2",
+      "at": "2026-10-22T13:30:50.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

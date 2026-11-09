@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b1fb5d5352d1e9937beebf091c7751dd24301fe9"
+  },
+  "id": "gh:spiffe/spire",
+  "kind": "repo",
+  "url": "https://github.com/spiffe/spire",
+  "title": "spire",
+  "why": "SPIFFE runtime environment in Go that hands identities to workloads, with server and agent commands under cmd.",
+  "keys": {
+    "races": [
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/iam",
+      "cyber/identity/secrets-management"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/spiffe/spire",
+    "sha": "b1fb5d5352d1e9937beebf091c7751dd24301fe9",
+    "file_url": "https://cdn.jsdelivr.net/gh/spiffe/spire@b1fb5d5352d1e9937beebf091c7751dd24301fe9/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 2610,
+    "size_mb": 32,
+    "created_at": "2017-08-11T18:46:51Z",
+    "last_commit_at": "2026-11-06T12:50:18Z",
+    "releases": 145,
+    "tags": 161,
+    "archived": false,
+    "release": {
+      "tag": "v1.16.0",
+      "at": "2026-11-05T18:37:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

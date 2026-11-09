@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d64b137ad02f0775729addb152d9ad5bb0d9960b"
+  },
+  "id": "gh:arthursonzogni/ftxui",
+  "kind": "repo",
+  "url": "https://github.com/ArthurSonzogni/FTXUI",
+  "title": "FTXUI",
+  "why": "Build text user interfaces in C++ in a functional style, with examples and CMake, Bazel and Meson build files.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ArthurSonzogni/FTXUI",
+    "sha": "d64b137ad02f0775729addb152d9ad5bb0d9960b",
+    "file_url": "https://cdn.jsdelivr.net/gh/ArthurSonzogni/FTXUI@d64b137ad02f0775729addb152d9ad5bb0d9960b/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 10874,
+    "size_mb": 104,
+    "created_at": "2019-01-27T16:06:20Z",
+    "last_commit_at": "2026-11-07T10:08:46Z",
+    "releases": 17,
+    "tags": 27,
+    "archived": false,
+    "release": {
+      "tag": "v7.0.3",
+      "at": "2026-08-06T07:35:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

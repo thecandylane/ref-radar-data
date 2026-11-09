@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:16c8737c7ae9c0d3c865f39d432663103c4d3cb3"
+  },
+  "id": "gh:ko-build/ko",
+  "kind": "repo",
+  "url": "https://github.com/ko-build/ko",
+  "title": "ko",
+  "why": "Builds Go programs straight into container images and deploys them to Kubernetes without a Dockerfile.",
+  "keys": {
+    "races": [
+      "infra/containers",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "infra/containers",
+      "infra/kubernetes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ko-build/ko",
+    "sha": "16c8737c7ae9c0d3c865f39d432663103c4d3cb3",
+    "file_url": "https://cdn.jsdelivr.net/gh/ko-build/ko@16c8737c7ae9c0d3c865f39d432663103c4d3cb3/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 8583,
+    "size_mb": 48,
+    "created_at": "2019-03-21T19:24:01Z",
+    "last_commit_at": "2026-10-09T00:24:02Z",
+    "releases": 40,
+    "tags": 41,
+    "archived": false,
+    "release": {
+      "tag": "v0.19.1",
+      "at": "2026-06-29T13:45:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

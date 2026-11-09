@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b22a1e368ee56d670d11115d8408e9025488240b"
+  },
   "id": "gh:ansub/tv-detox",
   "kind": "repo",
   "url": "https://github.com/Ansub/tv-detox",
@@ -32,13 +35,17 @@
   "facts": {
     "lang": "Java",
     "license": "MIT",
-    "stars": 2090,
+    "stars": 2257,
     "size_mb": 2,
     "created_at": "2026-10-18T06:42:29Z",
     "last_commit_at": "2026-10-30T07:16:25Z",
     "releases": 15,
     "tags": 15,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v1.5.7",
+      "at": "2026-10-28T06:43:40.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "new",

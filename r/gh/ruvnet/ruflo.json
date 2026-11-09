@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:bf5d71a1852071660b3489a0ff02d998676200e5"
+  },
   "id": "gh:ruvnet/ruflo",
   "kind": "repo",
   "url": "https://github.com/ruvnet/ruflo",
@@ -32,19 +35,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ruvnet/ruflo",
-    "sha": "0d94037eb149967cba66daad2898563892c53a02",
-    "file_url": "https://raw.githubusercontent.com/ruvnet/ruflo/0d94037eb149967cba66daad2898563892c53a02/{path}"
+    "sha": "bf5d71a1852071660b3489a0ff02d998676200e5",
+    "file_url": "https://raw.githubusercontent.com/ruvnet/ruflo/bf5d71a1852071660b3489a0ff02d998676200e5/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 80708,
-    "size_mb": 648,
+    "stars": 81207,
+    "size_mb": 649,
     "created_at": "2025-06-02T21:24:20Z",
-    "last_commit_at": "2026-11-01T20:14:10Z",
+    "last_commit_at": "2026-11-06T22:11:14Z",
     "releases": 1000,
-    "tags": 1734,
-    "archived": false
+    "tags": 1740,
+    "archived": false,
+    "release": {
+      "tag": "v3.72.2",
+      "at": "2026-11-06T14:13:23.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:df8655e0d623d85cd92c24a985bce408be9d44fd"
+  },
+  "id": "gh:nuitka/nuitka",
+  "kind": "repo",
+  "url": "https://github.com/Nuitka/Nuitka",
+  "title": "Nuitka",
+  "why": "Compiles Python programs into standalone executables or extension modules, with a plugin system for tricky packages.",
+  "keys": {
+    "races": [
+      "languages/compilers",
+      "desktop/packaging"
+    ],
+    "lanes": [
+      "languages/compilers",
+      "desktop/packaging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Nuitka/Nuitka",
+    "sha": "df8655e0d623d85cd92c24a985bce408be9d44fd",
+    "file_url": "https://cdn.jsdelivr.net/gh/Nuitka/Nuitka@df8655e0d623d85cd92c24a985bce408be9d44fd/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 15224,
+    "size_mb": 69,
+    "created_at": "2013-04-23T15:40:33Z",
+    "last_commit_at": "2026-11-01T14:37:40Z",
+    "releases": 0,
+    "tags": 482,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

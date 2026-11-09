@@ -1,0 +1,57 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ab858700d39d37ded3eb5f76fca34af8aa1d9a8f"
+  },
+  "id": "gh:awslabs/open-data-registry",
+  "kind": "repo",
+  "url": "https://github.com/awslabs/open-data-registry",
+  "title": "open-data-registry",
+  "why": "Catalog of public datasets hosted on AWS, with YAML dataset entries and a schema contributors follow to add more.",
+  "keys": {
+    "races": [
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/datasets"
+    ],
+    "capabilities": [
+      "data/datasets/dataset-lists"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/awslabs/open-data-registry",
+    "sha": "ab858700d39d37ded3eb5f76fca34af8aa1d9a8f",
+    "file_url": "https://cdn.jsdelivr.net/gh/awslabs/open-data-registry@ab858700d39d37ded3eb5f76fca34af8aa1d9a8f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 1828,
+    "size_mb": 13,
+    "created_at": "2017-08-07T21:49:09Z",
+    "last_commit_at": "2026-11-05T21:19:49Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

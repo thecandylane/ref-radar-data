@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0d5724022cad7b6c567541374ce8a560eb89a31c"
+  },
+  "id": "gh:apache/arrow",
+  "kind": "repo",
+  "url": "https://github.com/apache/arrow",
+  "title": "arrow",
+  "why": "Columnar memory format with C++, Python, R, Ruby and MATLAB implementations in one tree, so tools exchange data directly.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/arrow",
+    "sha": "0d5724022cad7b6c567541374ce8a560eb89a31c",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/arrow@0d5724022cad7b6c567541374ce8a560eb89a31c/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 17279,
+    "size_mb": 232,
+    "created_at": "2016-02-17T08:00:23Z",
+    "last_commit_at": "2026-11-08T01:22:21Z",
+    "releases": 42,
+    "tags": 169,
+    "archived": false,
+    "release": {
+      "tag": "apache-arrow-26.0.1",
+      "at": "2026-11-03T08:52:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

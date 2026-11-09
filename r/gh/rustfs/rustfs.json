@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:336242124090d84fdad471df897a2a04dd30f1a4"
+  },
+  "id": "gh:rustfs/rustfs",
+  "kind": "repo",
+  "url": "https://github.com/rustfs/rustfs",
+  "title": "rustfs",
+  "why": "S3-compatible object store in Rust meant to coexist with or replace MinIO and Ceph, with Helm charts and Docker images.",
+  "keys": {
+    "races": [
+      "data/storage"
+    ],
+    "lanes": [
+      "data/storage"
+    ],
+    "capabilities": [
+      "data/storage/object-storage"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rustfs/rustfs",
+    "sha": "336242124090d84fdad471df897a2a04dd30f1a4",
+    "file_url": "https://cdn.jsdelivr.net/gh/rustfs/rustfs@336242124090d84fdad471df897a2a04dd30f1a4/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 35841,
+    "size_mb": 143,
+    "created_at": "2023-11-23T13:45:10Z",
+    "last_commit_at": "2026-11-08T07:18:17Z",
+    "releases": 125,
+    "tags": 164,
+    "archived": false,
+    "release": {
+      "tag": "1.0.4",
+      "at": "2026-10-25T16:26:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

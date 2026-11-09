@@ -28,19 +28,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/pydantic/pydantic-ai",
-    "sha": "39269caf0a4e2dbc5846ff796191c42a4736735a",
-    "file_url": "https://raw.githubusercontent.com/pydantic/pydantic-ai/39269caf0a4e2dbc5846ff796191c42a4736735a/{path}"
+    "sha": "e2e6a0be8e50e655dbf32b39104631e86bfbfd67",
+    "file_url": "https://raw.githubusercontent.com/pydantic/pydantic-ai/e2e6a0be8e50e655dbf32b39104631e86bfbfd67/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 21003,
-    "size_mb": 358,
+    "stars": 21086,
+    "size_mb": 381,
     "created_at": "2024-06-21T15:55:04Z",
-    "last_commit_at": "2026-11-03T03:12:15Z",
-    "releases": 353,
-    "tags": 353,
-    "archived": false
+    "last_commit_at": "2026-11-08T02:07:26Z",
+    "releases": 355,
+    "tags": 355,
+    "archived": false,
+    "release": {
+      "tag": "v2.66.0",
+      "at": "2026-11-04T11:51:46.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

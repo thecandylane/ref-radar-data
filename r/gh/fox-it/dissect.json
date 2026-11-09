@@ -1,0 +1,55 @@
+{
+  "id": "gh:fox-it/dissect",
+  "kind": "repo",
+  "url": "https://github.com/fox-it/dissect",
+  "title": "dissect",
+  "why": "Python framework from Fox-IT that opens disk and file formats directly to read forensic artefacts for DFIR.",
+  "keys": {
+    "races": [
+      "cyber/detection"
+    ],
+    "lanes": [
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fox-it/dissect",
+    "sha": "4beb282bca5fecb2675fd6c32ecf259e1e1b4146",
+    "file_url": "https://cdn.jsdelivr.net/gh/fox-it/dissect@4beb282bca5fecb2675fd6c32ecf259e1e1b4146/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 1181,
+    "size_mb": 0,
+    "created_at": "2022-07-21T08:26:05Z",
+    "last_commit_at": "2026-11-01T12:49:08Z",
+    "releases": 23,
+    "tags": 27,
+    "archived": false,
+    "release": {
+      "tag": "3.22",
+      "at": "2026-02-26T16:12:00.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

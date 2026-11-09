@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:69d7f1c53598ba76ba4c9ce320d6799b00bfca24"
+  },
+  "id": "gh:parse-community/parse-server",
+  "kind": "repo",
+  "url": "https://github.com/parse-community/parse-server",
+  "title": "parse-server",
+  "why": "Backend for apps on Node.js and Express exposing REST and GraphQL APIs over MongoDB or Postgres, plus file storage and notifications.",
+  "keys": {
+    "races": [
+      "data/storage",
+      "mobile/app-backends"
+    ],
+    "lanes": [
+      "data/storage",
+      "mobile/app-backends"
+    ],
+    "capabilities": [
+      "data/storage/object-storage"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/parse-community/parse-server",
+    "sha": "69d7f1c53598ba76ba4c9ce320d6799b00bfca24",
+    "file_url": "https://cdn.jsdelivr.net/gh/parse-community/parse-server@69d7f1c53598ba76ba4c9ce320d6799b00bfca24/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "Apache-2.0",
+    "stars": 21393,
+    "size_mb": 161,
+    "created_at": "2016-01-28T18:29:14Z",
+    "last_commit_at": "2026-11-05T23:07:25Z",
+    "releases": 871,
+    "tags": 922,
+    "archived": false,
+    "release": {
+      "tag": "8.6.122",
+      "at": "2026-11-05T01:29:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

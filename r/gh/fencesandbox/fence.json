@@ -1,0 +1,69 @@
+{
+  "id": "gh:fencesandbox/fence",
+  "kind": "repo",
+  "url": "https://github.com/fencesandbox/fence",
+  "title": "fence",
+  "why": "Runs a coding agent's commands under bubblewrap, landlock or seatbelt, so no container is needed.",
+  "keys": {
+    "races": [
+      "agents/sandboxes",
+      "infra/isolation"
+    ],
+    "lanes": [
+      "agents/sandboxes",
+      "infra/isolation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fencesandbox/fence",
+    "sha": "737751a82b49f287b41f8a3e62ec62919d7b9224",
+    "file_url": "https://cdn.jsdelivr.net/gh/fencesandbox/fence@737751a82b49f287b41f8a3e62ec62919d7b9224/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 1015,
+    "size_mb": 2,
+    "created_at": "2025-12-18T20:44:11Z",
+    "last_commit_at": "2026-09-10T23:13:28Z",
+    "releases": 68,
+    "tags": 68,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.67",
+      "at": "2026-09-01T19:22:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

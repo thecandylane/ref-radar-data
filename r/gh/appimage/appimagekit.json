@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:939ff4d4c033caa0170d0cac643098b5b5664528"
+  },
+  "id": "gh:appimage/appimagekit",
+  "kind": "repo",
+  "url": "https://github.com/AppImage/AppImageKit",
+  "title": "AppImageKit",
+  "why": "Bundles a desktop app into one AppImage file meant to run across distributions such as Ubuntu, Fedora and openSUSE.",
+  "keys": {
+    "races": [
+      "desktop/packaging"
+    ],
+    "lanes": [
+      "desktop/packaging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AppImage/AppImageKit",
+    "sha": "939ff4d4c033caa0170d0cac643098b5b5664528",
+    "file_url": "https://cdn.jsdelivr.net/gh/AppImage/AppImageKit@939ff4d4c033caa0170d0cac643098b5b5664528/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "NOASSERTION",
+    "stars": 9460,
+    "size_mb": 16,
+    "created_at": "2013-04-14T20:53:12Z",
+    "last_commit_at": "2026-07-26T18:38:02Z",
+    "releases": 14,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "13",
+      "at": "2020-12-31T12:13:29.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:61a8b0b106dfbac430711cb42f672b41fb1ec56c"
+  },
+  "id": "gh:atsushisakai/pythonrobotics",
+  "kind": "repo",
+  "url": "https://github.com/AtsushiSakai/PythonRobotics",
+  "title": "PythonRobotics",
+  "why": "Sample code for path planning, SLAM, localization and control in Python, with a textbook alongside.",
+  "keys": {
+    "races": [
+      "embedded/robotics",
+      "learning/courses"
+    ],
+    "lanes": [
+      "embedded/robotics",
+      "learning/courses"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AtsushiSakai/PythonRobotics",
+    "sha": "61a8b0b106dfbac430711cb42f672b41fb1ec56c",
+    "file_url": "https://cdn.jsdelivr.net/gh/AtsushiSakai/PythonRobotics@61a8b0b106dfbac430711cb42f672b41fb1ec56c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 30873,
+    "size_mb": 297,
+    "created_at": "2016-03-21T09:34:43Z",
+    "last_commit_at": "2026-11-04T05:49:26Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

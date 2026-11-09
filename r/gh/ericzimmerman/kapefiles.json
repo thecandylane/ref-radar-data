@@ -1,0 +1,55 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:901c3815e90b23ab26207d1114a564d47cfa20b2"
+  },
+  "id": "gh:ericzimmerman/kapefiles",
+  "kind": "repo",
+  "url": "https://github.com/EricZimmerman/KapeFiles",
+  "title": "KapeFiles",
+  "why": "Community Targets and Modules for KAPE that define which forensic files to grab and which tools to run for triage.",
+  "keys": {
+    "races": [
+      "cyber/detection"
+    ],
+    "lanes": [
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/EricZimmerman/KapeFiles",
+    "sha": "901c3815e90b23ab26207d1114a564d47cfa20b2",
+    "file_url": "https://cdn.jsdelivr.net/gh/EricZimmerman/KapeFiles@901c3815e90b23ab26207d1114a564d47cfa20b2/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "MIT",
+    "stars": 894,
+    "size_mb": 11,
+    "created_at": "2018-10-09T17:13:09Z",
+    "last_commit_at": "2026-11-05T22:25:46Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

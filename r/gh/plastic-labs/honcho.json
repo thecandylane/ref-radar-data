@@ -1,0 +1,63 @@
+{
+  "id": "gh:plastic-labs/honcho",
+  "kind": "repo",
+  "url": "https://github.com/plastic-labs/honcho",
+  "title": "honcho",
+  "why": "Keeps what agents learn across sessions, with sdks, a CLI, an mcp folder and plugin integrations for Cursor and Hermes.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/memory",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/memory/long-term-memory"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/plastic-labs/honcho",
+    "sha": "cf466bbc798490c5a04a25f5ca382f427e192d32",
+    "file_url": "https://cdn.jsdelivr.net/gh/plastic-labs/honcho@cf466bbc798490c5a04a25f5ca382f427e192d32/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 8007,
+    "size_mb": 30,
+    "created_at": "2023-09-10T21:29:54Z",
+    "last_commit_at": "2026-11-05T22:47:29Z",
+    "releases": 6,
+    "tags": 66,
+    "archived": false,
+    "release": {
+      "tag": "v3.5.0",
+      "at": "2026-10-30T19:10:00.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

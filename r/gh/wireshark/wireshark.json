@@ -1,0 +1,58 @@
+{
+  "id": "gh:wireshark/wireshark",
+  "kind": "repo",
+  "url": "https://github.com/wireshark/wireshark",
+  "title": "wireshark",
+  "why": "Packet capture and protocol analysis suite with tshark, dumpcap and editcap command line tools beside the GUI.",
+  "keys": {
+    "races": [
+      "infra/networking",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "infra/networking",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wireshark/wireshark",
+    "sha": "6a560feb097ca6c07ddcf97049ad3b4de7e4a5f5",
+    "file_url": "https://raw.githubusercontent.com/wireshark/wireshark/6a560feb097ca6c07ddcf97049ad3b4de7e4a5f5/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-2.0",
+    "stars": 10174,
+    "size_mb": 1536,
+    "created_at": "2014-06-29T18:37:22Z",
+    "last_commit_at": "2026-11-08T08:40:37Z",
+    "releases": 0,
+    "tags": 1146,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

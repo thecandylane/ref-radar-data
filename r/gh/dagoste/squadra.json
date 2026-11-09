@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a13d8580b39a3ae7fe78a44e5a984f33720d21f1"
+  },
+  "id": "gh:dagoste/squadra",
+  "kind": "repo",
+  "url": "https://github.com/dagoSte/squadra",
+  "title": "squadra",
+  "why": "Several agent windows share one local registry of tasks, with proofs bound to the exact code and review by a reader who did not write it.",
+  "keys": {
+    "races": [
+      "agents/orchestration",
+      "agents/skills",
+      "dev-tools/code-review"
+    ],
+    "lanes": [
+      "agents/orchestration",
+      "agents/skills",
+      "dev-tools/code-review"
+    ],
+    "capabilities": [
+      "agents/orchestration/agent-teams"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dagoSte/squadra",
+    "sha": "a13d8580b39a3ae7fe78a44e5a984f33720d21f1",
+    "file_url": "https://cdn.jsdelivr.net/gh/dagoSte/squadra@a13d8580b39a3ae7fe78a44e5a984f33720d21f1/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1241,
+    "size_mb": 38,
+    "created_at": "2026-09-28T04:44:21Z",
+    "last_commit_at": "2026-11-06T11:56:44Z",
+    "releases": 19,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v3.14.0",
+      "at": "2026-11-06T11:38:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

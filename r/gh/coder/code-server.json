@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e609bb06e33ab50764959d34a406b069337275dc"
+  },
+  "id": "gh:coder/code-server",
+  "kind": "repo",
+  "url": "https://github.com/coder/code-server",
+  "title": "code-server",
+  "why": "Runs VS Code on a remote machine and serves it to a browser, with an install script and Docker support.",
+  "keys": {
+    "races": [
+      "dev-tools/editors",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "dev-tools/editors",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/coder/code-server",
+    "sha": "e609bb06e33ab50764959d34a406b069337275dc",
+    "file_url": "https://cdn.jsdelivr.net/gh/coder/code-server@e609bb06e33ab50764959d34a406b069337275dc/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 79787,
+    "size_mb": 54,
+    "created_at": "2019-02-27T16:50:41Z",
+    "last_commit_at": "2026-11-07T02:00:26Z",
+    "releases": 266,
+    "tags": 269,
+    "archived": false,
+    "release": {
+      "tag": "v4.145.2",
+      "at": "2026-11-07T01:28:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

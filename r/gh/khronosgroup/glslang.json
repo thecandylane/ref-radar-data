@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1309390fdbc3aaa96abad02190772bf7cdf25331"
+  },
+  "id": "gh:khronosgroup/glslang",
+  "kind": "repo",
+  "url": "https://github.com/KhronosGroup/glslang",
+  "title": "glslang",
+  "why": "Reference front end that parses GLSL and HLSL shaders and emits SPIR-V, with a StandAlone validator and Test suites.",
+  "keys": {
+    "races": [
+      "languages/compilers",
+      "games/graphics"
+    ],
+    "lanes": [
+      "languages/compilers",
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/KhronosGroup/glslang",
+    "sha": "1309390fdbc3aaa96abad02190772bf7cdf25331",
+    "file_url": "https://cdn.jsdelivr.net/gh/KhronosGroup/glslang@1309390fdbc3aaa96abad02190772bf7cdf25331/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 3611,
+    "size_mb": 81,
+    "created_at": "2015-06-25T17:54:39Z",
+    "last_commit_at": "2026-11-05T21:22:46Z",
+    "releases": 54,
+    "tags": 119,
+    "archived": false,
+    "release": {
+      "tag": "16.6.0",
+      "at": "2026-09-11T17:45:50.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

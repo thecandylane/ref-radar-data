@@ -6,12 +6,12 @@
   "why": "Full-stack ENS indexing with a subgraph, API, SDK and CLI in TypeScript, plus agent skills; now archived.",
   "keys": {
     "races": [
-      "agents/skills",
-      "data/pipelines"
+      "data/pipelines",
+      "agents/skills"
     ],
     "lanes": [
-      "agents/skills",
-      "data/pipelines"
+      "data/pipelines",
+      "agents/skills"
     ],
     "capabilities": []
   },
@@ -44,7 +44,11 @@
     "last_commit_at": "2026-07-13T15:50:41Z",
     "releases": 179,
     "tags": 545,
-    "archived": true
+    "archived": true,
+    "release": {
+      "tag": "v1.16.0",
+      "at": "2026-06-18T16:38:57.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

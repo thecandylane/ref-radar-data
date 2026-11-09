@@ -1,0 +1,63 @@
+{
+  "id": "gh:paradedb/paradedb",
+  "kind": "repo",
+  "url": "https://github.com/paradedb/paradedb",
+  "title": "paradedb",
+  "why": "Turns Postgres into one engine for application data, BM25 full-text search and vector retrieval via the pg_search extension.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "data/search",
+      "data/analytics",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "data/databases",
+      "data/search",
+      "data/analytics",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "llm-infra/rag/vector-search"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/paradedb/paradedb",
+    "sha": "f0f9ff86518af8bb66070b4056fcd52ad0b69f8a",
+    "file_url": "https://cdn.jsdelivr.net/gh/paradedb/paradedb@f0f9ff86518af8bb66070b4056fcd52ad0b69f8a/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "AGPL-3.0",
+    "stars": 9495,
+    "size_mb": 106,
+    "created_at": "2023-06-30T20:21:47Z",
+    "last_commit_at": "2026-11-07T17:05:12Z",
+    "releases": 260,
+    "tags": 261,
+    "archived": false,
+    "release": {
+      "tag": "v0.26.5",
+      "at": "2026-11-04T15:15:36.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

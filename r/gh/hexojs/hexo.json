@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:36e6a73058cef7502291a69171f052b83eae42dd"
+  },
+  "id": "gh:hexojs/hexo",
+  "kind": "repo",
+  "url": "https://github.com/hexojs/hexo",
+  "title": "hexo",
+  "why": "Turns Markdown posts into a static blog from a Node.js command line, extended through plugins.",
+  "keys": {
+    "races": [
+      "web/static-sites"
+    ],
+    "lanes": [
+      "web/static-sites"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hexojs/hexo",
+    "sha": "36e6a73058cef7502291a69171f052b83eae42dd",
+    "file_url": "https://cdn.jsdelivr.net/gh/hexojs/hexo@36e6a73058cef7502291a69171f052b83eae42dd/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 41772,
+    "size_mb": 7,
+    "created_at": "2012-09-23T15:17:08Z",
+    "last_commit_at": "2026-10-26T15:27:57Z",
+    "releases": 118,
+    "tags": 161,
+    "archived": false,
+    "release": {
+      "tag": "v8.1.2",
+      "at": "2026-05-06T13:24:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

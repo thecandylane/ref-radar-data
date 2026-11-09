@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cdd9f7ec77007cdc9657b9f9faa0be2000564d59"
+  },
+  "id": "gh:electron-userland/electron-builder",
+  "kind": "repo",
+  "url": "https://github.com/electron-userland/electron-builder",
+  "title": "electron-builder",
+  "why": "Packages an Electron app as NSIS, MSI, DMG, deb, rpm or snap installers and adds update support through electron-updater.",
+  "keys": {
+    "races": [
+      "desktop/app-shells",
+      "desktop/packaging"
+    ],
+    "lanes": [
+      "desktop/app-shells",
+      "desktop/packaging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/electron-userland/electron-builder",
+    "sha": "cdd9f7ec77007cdc9657b9f9faa0be2000564d59",
+    "file_url": "https://cdn.jsdelivr.net/gh/electron-userland/electron-builder@cdd9f7ec77007cdc9657b9f9faa0be2000564d59/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 14704,
+    "size_mb": 158,
+    "created_at": "2015-05-21T07:45:02Z",
+    "last_commit_at": "2026-11-07T19:21:37Z",
+    "releases": 992,
+    "tags": 1081,
+    "archived": false,
+    "release": {
+      "tag": "electron-updater@6.8.12",
+      "at": "2026-10-26T12:33:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

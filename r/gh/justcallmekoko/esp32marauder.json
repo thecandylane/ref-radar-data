@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:511bb3694d0c4dc064888e762bde44fcc9b7f48a"
+  },
+  "id": "gh:justcallmekoko/esp32marauder",
+  "kind": "repo",
+  "url": "https://github.com/justcallmekoko/ESP32Marauder",
+  "title": "ESP32Marauder",
+  "why": "Turns an ESP32 board into a WiFi and Bluetooth toolkit for offensive and defensive scanning, deauthentication and wardriving.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "embedded/firmware"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "embedded/firmware"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/justcallmekoko/ESP32Marauder",
+    "sha": "511bb3694d0c4dc064888e762bde44fcc9b7f48a",
+    "file_url": "https://raw.githubusercontent.com/justcallmekoko/ESP32Marauder/511bb3694d0c4dc064888e762bde44fcc9b7f48a/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "none",
+    "stars": 13028,
+    "size_mb": 469,
+    "created_at": "2019-09-13T18:37:40Z",
+    "last_commit_at": "2026-10-28T05:34:49Z",
+    "releases": 224,
+    "tags": 226,
+    "archived": false,
+    "release": {
+      "tag": "v1.20.0",
+      "at": "2026-10-28T18:22:11.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

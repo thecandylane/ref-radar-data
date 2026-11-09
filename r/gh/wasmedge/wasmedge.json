@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:673031ab7ead9221ab2353b0b2d039e6c4e67211"
+  },
+  "id": "gh:wasmedge/wasmedge",
+  "kind": "repo",
+  "url": "https://github.com/WasmEdge/WasmEdge",
+  "title": "WasmEdge",
+  "why": "WebAssembly runtime in C++ aimed at edge and serverless apps, with plugins and language bindings in the repo.",
+  "keys": {
+    "races": [
+      "languages/runtimes",
+      "infra/serverless"
+    ],
+    "lanes": [
+      "languages/runtimes",
+      "infra/serverless"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/WasmEdge/WasmEdge",
+    "sha": "673031ab7ead9221ab2353b0b2d039e6c4e67211",
+    "file_url": "https://cdn.jsdelivr.net/gh/WasmEdge/WasmEdge@673031ab7ead9221ab2353b0b2d039e6c4e67211/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 10855,
+    "size_mb": 32,
+    "created_at": "2019-11-29T19:00:17Z",
+    "last_commit_at": "2026-11-07T14:20:51Z",
+    "releases": 135,
+    "tags": 174,
+    "archived": false,
+    "release": {
+      "tag": "0.18.1",
+      "at": "2026-10-22T21:05:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

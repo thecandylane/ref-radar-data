@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:52a16fe61bd18b8f431b9d66058cba12e96e4451"
+  },
+  "id": "gh:hakluke/hakrawler",
+  "kind": "repo",
+  "url": "https://github.com/hakluke/hakrawler",
+  "title": "hakrawler",
+  "why": "Small Go crawler for bug bounty recon that maps a web app's endpoints and assets, quick to run in a script.",
+  "keys": {
+    "races": [
+      "cyber/threat-intel",
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/threat-intel",
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hakluke/hakrawler",
+    "sha": "52a16fe61bd18b8f431b9d66058cba12e96e4451",
+    "file_url": "https://cdn.jsdelivr.net/gh/hakluke/hakrawler@52a16fe61bd18b8f431b9d66058cba12e96e4451/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "GPL-3.0",
+    "stars": 5162,
+    "size_mb": 2,
+    "created_at": "2019-12-15T13:54:43Z",
+    "last_commit_at": "2026-08-05T04:05:37Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "2.1",
+      "at": "2022-05-23T08:28:59.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

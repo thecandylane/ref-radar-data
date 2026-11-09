@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9f31209822494bbd3e7eafacad29534661870054"
+  },
+  "id": "gh:kivy/kivy",
+  "kind": "repo",
+  "url": "https://github.com/kivy/kivy",
+  "title": "kivy",
+  "why": "Builds apps in Python for desktop and mobile from a single codebase, with examples and packaging tools in the repo.",
+  "keys": {
+    "races": [
+      "mobile/cross-platform",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "mobile/cross-platform",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kivy/kivy",
+    "sha": "9f31209822494bbd3e7eafacad29534661870054",
+    "file_url": "https://cdn.jsdelivr.net/gh/kivy/kivy@9f31209822494bbd3e7eafacad29534661870054/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 19025,
+    "size_mb": 77,
+    "created_at": "2010-11-03T20:27:32Z",
+    "last_commit_at": "2026-11-07T18:44:49Z",
+    "releases": 13,
+    "tags": 54,
+    "archived": false,
+    "release": {
+      "tag": "2.3.1",
+      "at": "2024-12-26T18:37:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

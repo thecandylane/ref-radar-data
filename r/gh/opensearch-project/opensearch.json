@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:91d822a4eea88f475fd4d1b91ee1f6cf7b955e9d"
+  },
+  "id": "gh:opensearch-project/opensearch",
+  "kind": "repo",
+  "url": "https://github.com/opensearch-project/OpenSearch",
+  "title": "OpenSearch",
+  "why": "Java search server you query over REST, extended through plugins and modules, with benchmarks and a developer guide in tree.",
+  "keys": {
+    "races": [
+      "data/search",
+      "infra/observability"
+    ],
+    "lanes": [
+      "data/search",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/opensearch-project/OpenSearch",
+    "sha": "91d822a4eea88f475fd4d1b91ee1f6cf7b955e9d",
+    "file_url": "https://raw.githubusercontent.com/opensearch-project/OpenSearch/91d822a4eea88f475fd4d1b91ee1f6cf7b955e9d/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 13974,
+    "size_mb": 614,
+    "created_at": "2021-01-29T22:10:00Z",
+    "last_commit_at": "2026-11-06T21:57:36Z",
+    "releases": 72,
+    "tags": 79,
+    "archived": false,
+    "release": {
+      "tag": "3.9.0",
+      "at": "2026-09-29T21:54:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

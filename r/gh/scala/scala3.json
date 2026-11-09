@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7d064dfb1490b4c118125d108067109a4b6879ba"
+  },
+  "id": "gh:scala/scala3",
+  "kind": "repo",
+  "url": "https://github.com/scala/scala3",
+  "title": "scala3",
+  "why": "Scala 3 compiler, formerly Dotty, with scaladoc, a REPL and a presentation compiler living beside it in the repo.",
+  "keys": {
+    "races": [
+      "languages/compilers"
+    ],
+    "lanes": [
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/scala/scala3",
+    "sha": "7d064dfb1490b4c118125d108067109a4b6879ba",
+    "file_url": "https://cdn.jsdelivr.net/gh/scala/scala3@7d064dfb1490b4c118125d108067109a4b6879ba/{path}"
+  },
+  "facts": {
+    "lang": "Scala",
+    "license": "Apache-2.0",
+    "stars": 6334,
+    "size_mb": 230,
+    "created_at": "2012-12-06T12:57:33Z",
+    "last_commit_at": "2026-11-08T07:47:34Z",
+    "releases": 223,
+    "tags": 243,
+    "archived": false,
+    "release": {
+      "tag": "3.3.9",
+      "at": "2026-10-28T09:24:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

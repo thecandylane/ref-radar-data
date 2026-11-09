@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b9faaea050faae3463fe8eab8ae447128edeadac"
+  },
   "id": "gh:openscad/openscad",
   "kind": "repo",
   "url": "https://github.com/openscad/openscad",
@@ -26,19 +29,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/openscad/openscad",
-    "sha": "fe482c342ea48bbe749563315741d0e58cdfd57f",
-    "file_url": "https://cdn.jsdelivr.net/gh/openscad/openscad@fe482c342ea48bbe749563315741d0e58cdfd57f/{path}"
+    "sha": "b9faaea050faae3463fe8eab8ae447128edeadac",
+    "file_url": "https://cdn.jsdelivr.net/gh/openscad/openscad@b9faaea050faae3463fe8eab8ae447128edeadac/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "NOASSERTION",
-    "stars": 10582,
+    "stars": 10615,
     "size_mb": 82,
     "created_at": "2010-11-03T20:25:33Z",
-    "last_commit_at": "2026-11-01T22:27:22Z",
-    "releases": 11,
+    "last_commit_at": "2026-11-07T18:46:21Z",
+    "releases": 12,
     "tags": 29,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "openscad-2021.01",
+      "at": "2021-02-07T00:14:34.000Z"
+    }
   },
   "reuse": "study",
   "maturity": "stable",
@@ -48,7 +55,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 44,
     "votes": {},
     "ranks": {}
   }

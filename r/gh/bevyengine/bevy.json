@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:571276a7562b56a65300404c55d9f67d96d3a776"
+  },
+  "id": "gh:bevyengine/bevy",
+  "kind": "repo",
+  "url": "https://github.com/bevyengine/bevy",
+  "title": "bevy",
+  "why": "Game engine in Rust organized as many small crates, with an examples folder and release content for each version.",
+  "keys": {
+    "races": [
+      "games/engines"
+    ],
+    "lanes": [
+      "games/engines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bevyengine/bevy",
+    "sha": "571276a7562b56a65300404c55d9f67d96d3a776",
+    "file_url": "https://cdn.jsdelivr.net/gh/bevyengine/bevy@571276a7562b56a65300404c55d9f67d96d3a776/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 49613,
+    "size_mb": 177,
+    "created_at": "2020-01-18T21:13:55Z",
+    "last_commit_at": "2026-11-07T04:40:16Z",
+    "releases": 62,
+    "tags": 64,
+    "archived": false,
+    "release": {
+      "tag": "v0.20.1",
+      "at": "2026-10-28T22:05:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

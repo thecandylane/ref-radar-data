@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a654dc2eda66fdae45c2ed298ef5e6197bfe909c"
+  },
+  "id": "gh:d3ext/wef",
+  "kind": "repo",
+  "url": "https://github.com/D3Ext/WEF",
+  "title": "WEF",
+  "why": "Picks a wireless attack automatically based on what an access point supports, from WPS and WEP cracking to multilingual Evil Twin login pages.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/D3Ext/WEF",
+    "sha": "a654dc2eda66fdae45c2ed298ef5e6197bfe909c",
+    "file_url": "https://cdn.jsdelivr.net/gh/D3Ext/WEF@a654dc2eda66fdae45c2ed298ef5e6197bfe909c/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "MIT",
+    "stars": 3236,
+    "size_mb": 72,
+    "created_at": "2022-04-11T14:30:22Z",
+    "last_commit_at": "2025-09-24T21:56:30Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-04T09:42:07.051Z"
+  }
+}

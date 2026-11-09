@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d0070729206a80a9af297b2341edd63f68fdac35"
+  },
+  "id": "gh:aflplusplus/aflplusplus",
+  "kind": "repo",
+  "url": "https://github.com/AFLplusplus/AFLplusplus",
+  "title": "AFLplusplus",
+  "why": "Mutational fuzzer with qemu, frida and unicorn modes for targets without source, plus custom mutators and power schedules.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "dev-tools/testing"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AFLplusplus/AFLplusplus",
+    "sha": "d0070729206a80a9af297b2341edd63f68fdac35",
+    "file_url": "https://cdn.jsdelivr.net/gh/AFLplusplus/AFLplusplus@d0070729206a80a9af297b2341edd63f68fdac35/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "AGPL-3.0",
+    "stars": 6862,
+    "size_mb": 37,
+    "created_at": "2019-05-28T14:29:06Z",
+    "last_commit_at": "2026-10-19T12:14:32Z",
+    "releases": 45,
+    "tags": 45,
+    "archived": false,
+    "release": {
+      "tag": "v5.03c",
+      "at": "2026-09-02T09:41:42.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

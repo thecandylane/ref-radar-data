@@ -1,0 +1,54 @@
+{
+  "id": "gh:nmap/nmap",
+  "kind": "repo",
+  "url": "https://github.com/nmap/nmap",
+  "title": "nmap",
+  "why": "Port scanner and network discovery tool with service and OS fingerprinting, extended through Lua scripts in nselib.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "infra/networking"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nmap/nmap",
+    "sha": "8b515f26b8beffd11daaaaac160309f5abe3d39f",
+    "file_url": "https://cdn.jsdelivr.net/gh/nmap/nmap@8b515f26b8beffd11daaaaac160309f5abe3d39f/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 13948,
+    "size_mb": 118,
+    "created_at": "2012-03-09T14:47:43Z",
+    "last_commit_at": "2026-11-05T00:21:27Z",
+    "releases": 0,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

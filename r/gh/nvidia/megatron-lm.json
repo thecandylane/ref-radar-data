@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:161ae43fc493fd024a56a63b4e8dd6615ff19b0d"
+  },
+  "id": "gh:nvidia/megatron-lm",
+  "kind": "repo",
+  "url": "https://github.com/NVIDIA/Megatron-LM",
+  "title": "Megatron-LM",
+  "why": "Pretraining scripts for GPT, Mamba, hybrid and VLM models, with model-parallel code and docs for large transformer runs.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "ml/training",
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NVIDIA/Megatron-LM",
+    "sha": "161ae43fc493fd024a56a63b4e8dd6615ff19b0d",
+    "file_url": "https://cdn.jsdelivr.net/gh/NVIDIA/Megatron-LM@161ae43fc493fd024a56a63b4e8dd6615ff19b0d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 18348,
+    "size_mb": 179,
+    "created_at": "2019-03-21T16:15:52Z",
+    "last_commit_at": "2026-11-08T05:20:54Z",
+    "releases": 52,
+    "tags": 83,
+    "archived": false,
+    "release": {
+      "tag": "core_v0.20.0",
+      "at": "2026-10-29T21:06:49.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

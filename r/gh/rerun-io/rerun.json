@@ -1,0 +1,61 @@
+{
+  "id": "gh:rerun-io/rerun",
+  "kind": "repo",
+  "url": "https://github.com/rerun-io/rerun",
+  "title": "rerun",
+  "why": "Logs and visualizes multimodal robotics streams, with SDKs for Python, Rust and C++ and a notebook package.",
+  "keys": {
+    "races": [
+      "embedded/robotics",
+      "ml/vision"
+    ],
+    "lanes": [
+      "embedded/robotics",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rerun-io/rerun",
+    "sha": "777b5cbff10efa9f6394844584da3ec60086ea86",
+    "file_url": "https://cdn.jsdelivr.net/gh/rerun-io/rerun@777b5cbff10efa9f6394844584da3ec60086ea86/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 11726,
+    "size_mb": 294,
+    "created_at": "2022-04-08T07:30:05Z",
+    "last_commit_at": "2026-11-06T17:50:13Z",
+    "releases": 93,
+    "tags": 153,
+    "archived": false,
+    "release": {
+      "tag": "0.42.0",
+      "at": "2026-11-04T18:53:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:893e8dc43f05e872d4cac603486ce8a7181170fa"
+  },
   "id": "gh:anomalyco/opencode",
   "kind": "repo",
   "url": "https://github.com/anomalyco/opencode",
@@ -28,19 +31,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/anomalyco/opencode",
-    "sha": "bb85c5414b203850110fa65a9a60c5c1fbea0c42",
-    "file_url": "https://cdn.jsdelivr.net/gh/anomalyco/opencode@bb85c5414b203850110fa65a9a60c5c1fbea0c42/{path}"
+    "sha": "893e8dc43f05e872d4cac603486ce8a7181170fa",
+    "file_url": "https://raw.githubusercontent.com/anomalyco/opencode/893e8dc43f05e872d4cac603486ce8a7181170fa/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 224205,
-    "size_mb": 607,
+    "stars": 225363,
+    "size_mb": 670,
     "created_at": "2025-04-30T20:08:00Z",
-    "last_commit_at": "2026-11-03T05:39:25Z",
-    "releases": 892,
-    "tags": 1166,
-    "archived": false
+    "last_commit_at": "2026-11-08T08:26:06Z",
+    "releases": 894,
+    "tags": 1168,
+    "archived": false,
+    "release": {
+      "tag": "v1.19.5",
+      "at": "2026-10-28T06:17:49.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -50,7 +57,7 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 2099,
+    "star_delta_7d": 1415,
     "votes": {},
     "ranks": {}
   },

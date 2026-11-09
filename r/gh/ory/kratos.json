@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b86338da04a040247a07f46100a86dcfb3875909"
+  },
   "id": "gh:ory/kratos",
   "kind": "repo",
   "url": "https://github.com/ory/kratos",
@@ -44,7 +47,11 @@
     "last_commit_at": "2026-07-29T09:30:36Z",
     "releases": 49,
     "tags": 81,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v26.2.0",
+      "at": "2026-03-20T14:10:32.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

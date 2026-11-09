@@ -1,0 +1,59 @@
+{
+  "id": "gh:microsoft/microsoft-ui-xaml",
+  "kind": "repo",
+  "url": "https://github.com/microsoft/microsoft-ui-xaml",
+  "title": "microsoft-ui-xaml",
+  "why": "WinUI controls and styles for native Windows apps in C# or C++, built from this repo with Visual Studio.",
+  "keys": {
+    "races": [
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microsoft/microsoft-ui-xaml",
+    "sha": "cb1b8a602c97c7e046fd9e936f355a3a51cb24f4",
+    "file_url": "https://raw.githubusercontent.com/microsoft/microsoft-ui-xaml/cb1b8a602c97c7e046fd9e936f355a3a51cb24f4/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 8587,
+    "size_mb": 488,
+    "created_at": "2018-07-26T18:45:29Z",
+    "last_commit_at": "2026-11-07T21:46:33Z",
+    "releases": 151,
+    "tags": 170,
+    "archived": false,
+    "release": {
+      "tag": "winui3/release/2.6.4",
+      "at": "2026-10-31T00:43:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

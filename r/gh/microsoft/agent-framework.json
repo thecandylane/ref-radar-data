@@ -1,0 +1,59 @@
+{
+  "id": "gh:microsoft/agent-framework",
+  "kind": "repo",
+  "url": "https://github.com/microsoft/agent-framework",
+  "title": "agent-framework",
+  "why": "Microsoft SDK for agents and multi-agent workflows in Python, .NET and Go, with declarative agents and a skills folder.",
+  "keys": {
+    "races": [
+      "agents/frameworks",
+      "agents/orchestration"
+    ],
+    "lanes": [
+      "agents/frameworks",
+      "agents/orchestration"
+    ],
+    "capabilities": [
+      "agents/frameworks/agent-workflows"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microsoft/agent-framework",
+    "sha": "230a3aa0bba19b6bf5a7b4f427bcb25cb16c7105",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/agent-framework@230a3aa0bba19b6bf5a7b4f427bcb25cb16c7105/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 14580,
+    "size_mb": 150,
+    "created_at": "2025-04-28T19:40:42Z",
+    "last_commit_at": "2026-11-06T18:35:02Z",
+    "releases": 133,
+    "tags": 202,
+    "archived": false,
+    "release": {
+      "tag": "python-1.25.0",
+      "at": "2026-11-07T15:52:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

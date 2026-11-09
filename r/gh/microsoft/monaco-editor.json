@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cd3e7d41600c2da14b71d0285a7fbd9b2bb8a965"
+  },
+  "id": "gh:microsoft/monaco-editor",
+  "kind": "repo",
+  "url": "https://github.com/microsoft/monaco-editor",
+  "title": "monaco-editor",
+  "why": "Code editor you embed in a web page, with its editing core taken from VS Code, plus samples, a webpack plugin and an LSP client.",
+  "keys": {
+    "races": [
+      "dev-tools/editors",
+      "web/ui-components"
+    ],
+    "lanes": [
+      "dev-tools/editors",
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microsoft/monaco-editor",
+    "sha": "cd3e7d41600c2da14b71d0285a7fbd9b2bb8a965",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/monaco-editor@cd3e7d41600c2da14b71d0285a7fbd9b2bb8a965/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 46959,
+    "size_mb": 137,
+    "created_at": "2016-06-07T16:56:31Z",
+    "last_commit_at": "2026-11-05T17:22:59Z",
+    "releases": 197,
+    "tags": 618,
+    "archived": false,
+    "release": {
+      "tag": "v0.57.0",
+      "at": "2026-09-24T21:25:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

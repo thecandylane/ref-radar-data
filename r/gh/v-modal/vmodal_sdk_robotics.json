@@ -1,0 +1,54 @@
+{
+  "id": "gh:v-modal/vmodal_sdk_robotics",
+  "kind": "repo",
+  "url": "https://github.com/v-modal/vmodal_sdk_robotics",
+  "title": "vmodal_sdk_robotics",
+  "why": "Python SDK for physical AI that works with robot video and datasets, with folders for lerobot, rosbag and Google Intrinsic.",
+  "keys": {
+    "races": [
+      "embedded/robotics",
+      "ml/vision"
+    ],
+    "lanes": [
+      "embedded/robotics",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/v-modal/vmodal_sdk_robotics",
+    "sha": "79275c796eab98146b9109c0f46442e3a4e454a2",
+    "file_url": "https://cdn.jsdelivr.net/gh/v-modal/vmodal_sdk_robotics@79275c796eab98146b9109c0f46442e3a4e454a2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 434,
+    "size_mb": 6,
+    "created_at": "2026-09-06T07:05:33Z",
+    "last_commit_at": "2026-11-07T13:20:37Z",
+    "releases": 0,
+    "tags": 15,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

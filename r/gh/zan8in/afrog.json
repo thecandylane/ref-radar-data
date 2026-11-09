@@ -1,0 +1,78 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3f5f6fa6fa8c7c4e52608acca340a5f743a9430f"
+  },
+  "id": "gh:zan8in/afrog",
+  "kind": "repo",
+  "url": "https://github.com/zan8in/afrog",
+  "title": "afrog",
+  "why": "A Go vulnerability scanner for bug bounty and red team work that checks targets against a folder of PoC definitions.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zan8in/afrog",
+    "sha": "3f5f6fa6fa8c7c4e52608acca340a5f743a9430f",
+    "file_url": "https://cdn.jsdelivr.net/gh/zan8in/afrog@3f5f6fa6fa8c7c4e52608acca340a5f743a9430f/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 4456,
+    "size_mb": 192,
+    "created_at": "2022-02-24T06:00:32Z",
+    "last_commit_at": "2026-11-04T10:42:58Z",
+    "releases": 107,
+    "tags": 112,
+    "archived": false,
+    "release": {
+      "tag": "v3.5.10",
+      "at": "2026-11-01T03:56:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code",
+      "a YARA rule for offensive tools matched"
+    ],
+    "scanned_at": "2026-11-04T04:29:37.087Z"
+  }
+}

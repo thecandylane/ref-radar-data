@@ -1,0 +1,66 @@
+{
+  "id": "gh:shaongitbd/doory",
+  "kind": "repo",
+  "url": "https://github.com/shaongitbd/doory",
+  "title": "doory",
+  "why": "Browser design editor with templates, layers and real-time co-editing, exporting PNG, PDF or MP4, self-hosted with Docker and exposing an MCP server.",
+  "keys": {
+    "races": [
+      "design/tools",
+      "agents/tools"
+    ],
+    "lanes": [
+      "design/tools",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/shaongitbd/doory",
+    "sha": "1f66a9dcc51df583742b5265ba7c527f38be3b29",
+    "file_url": "https://cdn.jsdelivr.net/gh/shaongitbd/doory@1f66a9dcc51df583742b5265ba7c527f38be3b29/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 2510,
+    "size_mb": 35,
+    "created_at": "2026-10-10T00:03:25Z",
+    "last_commit_at": "2026-11-06T17:31:52Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.0",
+      "at": "2026-11-04T18:13:24.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a YARA rule for offensive tools matched"
+    ],
+    "scanned_at": "2026-10-30T08:31:02.205Z"
+  }
+}

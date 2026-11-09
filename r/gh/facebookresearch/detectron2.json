@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:247691a1c292654867deb35cabb27f18d75a1363"
+  },
+  "id": "gh:facebookresearch/detectron2",
+  "kind": "repo",
+  "url": "https://github.com/facebookresearch/detectron2",
+  "title": "detectron2",
+  "why": "Trains and runs object detection and segmentation models, with a model zoo, configs and projects to start from.",
+  "keys": {
+    "races": [
+      "ml/vision",
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/vision",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/facebookresearch/detectron2",
+    "sha": "247691a1c292654867deb35cabb27f18d75a1363",
+    "file_url": "https://cdn.jsdelivr.net/gh/facebookresearch/detectron2@247691a1c292654867deb35cabb27f18d75a1363/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 34974,
+    "size_mb": 7,
+    "created_at": "2019-09-05T21:30:20Z",
+    "last_commit_at": "2026-10-27T09:20:28Z",
+    "releases": 10,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "v0.6",
+      "at": "2021-11-15T22:08:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

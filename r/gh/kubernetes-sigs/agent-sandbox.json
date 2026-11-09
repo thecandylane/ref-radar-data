@@ -1,0 +1,74 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9f7999b348a7cb87bddb2efb2e85424fd3f37d53"
+  },
+  "id": "gh:kubernetes-sigs/agent-sandbox",
+  "kind": "repo",
+  "url": "https://github.com/kubernetes-sigs/agent-sandbox",
+  "title": "agent-sandbox",
+  "why": "Adds a Sandbox CRD and controller to Kubernetes for AI agent runtimes, delegating isolation to gVisor or Kata Containers.",
+  "keys": {
+    "races": [
+      "agents/sandboxes",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "agents/sandboxes",
+      "infra/kubernetes"
+    ],
+    "capabilities": [
+      "agents/sandboxes/secure-runtimes"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kubernetes-sigs/agent-sandbox",
+    "sha": "9f7999b348a7cb87bddb2efb2e85424fd3f37d53",
+    "file_url": "https://cdn.jsdelivr.net/gh/kubernetes-sigs/agent-sandbox@9f7999b348a7cb87bddb2efb2e85424fd3f37d53/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 4548,
+    "size_mb": 13,
+    "created_at": "2025-08-12T04:55:05Z",
+    "last_commit_at": "2026-11-07T00:01:38Z",
+    "releases": 30,
+    "tags": 49,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.10",
+      "at": "2026-11-06T22:09:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

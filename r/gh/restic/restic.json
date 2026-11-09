@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:dd09b6bd01af220b1d5d95c0d4d7d472e05e05c4"
+  },
+  "id": "gh:restic/restic",
+  "kind": "repo",
+  "url": "https://github.com/restic/restic",
+  "title": "restic",
+  "why": "Backup program in Go that deduplicates data and is secure by default, with internal and cmd folders to read.",
+  "keys": {
+    "races": [
+      "data/storage"
+    ],
+    "lanes": [
+      "data/storage"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/restic/restic",
+    "sha": "dd09b6bd01af220b1d5d95c0d4d7d472e05e05c4",
+    "file_url": "https://cdn.jsdelivr.net/gh/restic/restic@dd09b6bd01af220b1d5d95c0d4d7d472e05e05c4/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "BSD-2-Clause",
+    "stars": 37063,
+    "size_mb": 67,
+    "created_at": "2014-04-27T14:07:58Z",
+    "last_commit_at": "2026-11-06T20:42:11Z",
+    "releases": 51,
+    "tags": 53,
+    "archived": false,
+    "release": {
+      "tag": "v0.19.1",
+      "at": "2026-07-05T08:13:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

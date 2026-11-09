@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7e44c916d17c20a6eea3882f946fd74f4773b738"
+  },
+  "id": "gh:osm2pgsql-dev/osm2pgsql",
+  "kind": "repo",
+  "url": "https://github.com/osm2pgsql-dev/osm2pgsql",
+  "title": "osm2pgsql",
+  "why": "Loads OpenStreetMap data into PostgreSQL with PostGIS, using Lua flex configs to shape the imported schema.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "data/databases"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/osm2pgsql-dev/osm2pgsql",
+    "sha": "7e44c916d17c20a6eea3882f946fd74f4773b738",
+    "file_url": "https://cdn.jsdelivr.net/gh/osm2pgsql-dev/osm2pgsql@7e44c916d17c20a6eea3882f946fd74f4773b738/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-2.0",
+    "stars": 1688,
+    "size_mb": 51,
+    "created_at": "2010-05-01T20:08:40Z",
+    "last_commit_at": "2026-10-25T09:14:41Z",
+    "releases": 26,
+    "tags": 76,
+    "archived": false,
+    "release": {
+      "tag": "2.3.1",
+      "at": "2026-07-05T11:52:55.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

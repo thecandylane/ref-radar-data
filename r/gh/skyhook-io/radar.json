@@ -1,0 +1,76 @@
+{
+  "id": "gh:skyhook-io/radar",
+  "kind": "repo",
+  "url": "https://github.com/skyhook-io/radar",
+  "title": "radar",
+  "why": "Kubernetes dashboard in one Go binary that doubles as an MCP server, so agents can trace broken workloads and recent changes.",
+  "keys": {
+    "races": [
+      "infra/kubernetes",
+      "agents/tools"
+    ],
+    "lanes": [
+      "infra/kubernetes",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "infra/kubernetes/desktop-clients",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/skyhook-io/radar",
+    "sha": "1c8a32a991ecf95920968b2c9f2a094722413337",
+    "file_url": "https://cdn.jsdelivr.net/gh/skyhook-io/radar@1c8a32a991ecf95920968b2c9f2a094722413337/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 4068,
+    "size_mb": 92,
+    "created_at": "2026-01-20T00:09:40Z",
+    "last_commit_at": "2026-11-08T07:30:28Z",
+    "releases": 149,
+    "tags": 417,
+    "archived": false,
+    "release": {
+      "tag": "v1.20.1",
+      "at": "2026-11-07T18:57:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fb951af7744dab086e34962e9bc6fe878e145f83"
+  },
+  "id": "gh:stanford-oval/storm",
+  "kind": "repo",
+  "url": "https://github.com/stanford-oval/storm",
+  "title": "storm",
+  "why": "Drafts a long cited article on any topic by retrieving sources first, packaged as the knowledge_storm Python library with a frontend.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "agents/assistants/deep-research"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/stanford-oval/storm",
+    "sha": "fb951af7744dab086e34962e9bc6fe878e145f83",
+    "file_url": "https://cdn.jsdelivr.net/gh/stanford-oval/storm@fb951af7744dab086e34962e9bc6fe878e145f83/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 31827,
+    "size_mb": 8,
+    "created_at": "2024-03-24T16:23:39Z",
+    "last_commit_at": "2025-09-30T18:07:17Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2025-01-23T07:21:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

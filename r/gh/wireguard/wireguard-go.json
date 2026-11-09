@@ -1,0 +1,55 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b3bc704ef0ee21a36298601a9e1e5ff90377ac52"
+  },
+  "id": "gh:wireguard/wireguard-go",
+  "kind": "repo",
+  "url": "https://github.com/WireGuard/wireguard-go",
+  "title": "wireguard-go",
+  "why": "Go implementation of the WireGuard VPN, split into device, tun, conn and ratelimiter packages, mirrored from the official repository.",
+  "keys": {
+    "races": [
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/WireGuard/wireguard-go",
+    "sha": "b3bc704ef0ee21a36298601a9e1e5ff90377ac52",
+    "file_url": "https://cdn.jsdelivr.net/gh/WireGuard/wireguard-go@b3bc704ef0ee21a36298601a9e1e5ff90377ac52/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 4507,
+    "size_mb": 2,
+    "created_at": "2018-05-16T21:33:26Z",
+    "last_commit_at": "2026-10-24T22:09:52Z",
+    "releases": 0,
+    "tags": 26,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:601c84367aaf26eae7d1b5181b70633cb662cf66"
+  },
+  "id": "gh:sensepost/gowitness",
+  "kind": "repo",
+  "url": "https://github.com/sensepost/gowitness",
+  "title": "gowitness",
+  "why": "Takes web page screenshots through Chrome Headless in Go and stores them for reporting, with a web folder for browsing results.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/threat-intel"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/threat-intel"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sensepost/gowitness",
+    "sha": "601c84367aaf26eae7d1b5181b70633cb662cf66",
+    "file_url": "https://cdn.jsdelivr.net/gh/sensepost/gowitness@601c84367aaf26eae7d1b5181b70633cb662cf66/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "GPL-3.0",
+    "stars": 4556,
+    "size_mb": 12,
+    "created_at": "2017-10-31T08:36:35Z",
+    "last_commit_at": "2026-10-11T04:53:12Z",
+    "releases": 46,
+    "tags": 46,
+    "archived": false,
+    "release": {
+      "tag": "3.2.2",
+      "at": "2026-10-11T05:11:46.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "scan_partial": true
+}

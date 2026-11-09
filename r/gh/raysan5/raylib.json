@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3b12ba162bf58289fd2536604b6c805c128b0813"
+  },
+  "id": "gh:raysan5/raylib",
+  "kind": "repo",
+  "url": "https://github.com/raysan5/raylib",
+  "title": "raylib",
+  "why": "C library for coding games with no external dependencies and no visual editors, aimed at prototyping, learners and embedded devices.",
+  "keys": {
+    "races": [
+      "games/engines",
+      "games/graphics"
+    ],
+    "lanes": [
+      "games/engines",
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/raysan5/raylib",
+    "sha": "3b12ba162bf58289fd2536604b6c805c128b0813",
+    "file_url": "https://cdn.jsdelivr.net/gh/raysan5/raylib@3b12ba162bf58289fd2536604b6c805c128b0813/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "Zlib",
+    "stars": 35588,
+    "size_mb": 406,
+    "created_at": "2013-10-24T15:46:04Z",
+    "last_commit_at": "2026-11-08T06:23:10Z",
+    "releases": 26,
+    "tags": 26,
+    "archived": false,
+    "release": {
+      "tag": "6.2",
+      "at": "2026-10-15T16:17:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

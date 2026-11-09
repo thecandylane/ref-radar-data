@@ -1,0 +1,57 @@
+{
+  "id": "gh:ml-explore/mlx-lm",
+  "kind": "repo",
+  "url": "https://github.com/ml-explore/mlx-lm",
+  "title": "mlx-lm",
+  "why": "Run LLMs locally through MLX from Python, with a benchmarks folder and examples to start from.",
+  "keys": {
+    "races": [
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "llm-infra/inference"
+    ],
+    "capabilities": [
+      "llm-infra/inference/apple-silicon"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ml-explore/mlx-lm",
+    "sha": "736ab0d8c1d0edc79c3d798044fe6904e2fa23be",
+    "file_url": "https://cdn.jsdelivr.net/gh/ml-explore/mlx-lm@736ab0d8c1d0edc79c3d798044fe6904e2fa23be/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 7590,
+    "size_mb": 3,
+    "created_at": "2025-03-11T16:38:30Z",
+    "last_commit_at": "2026-11-05T20:48:53Z",
+    "releases": 31,
+    "tags": 32,
+    "archived": false,
+    "release": {
+      "tag": "v0.32.2",
+      "at": "2026-10-16T02:49:02.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

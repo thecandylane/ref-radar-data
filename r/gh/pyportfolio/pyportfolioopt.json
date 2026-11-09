@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a6638d2e06dae6f444fd022cfd4b3c528902a85b"
+  },
   "id": "gh:pyportfolio/pyportfolioopt",
   "kind": "repo",
   "url": "https://github.com/PyPortfolio/PyPortfolioOpt",
@@ -30,13 +33,17 @@
   "facts": {
     "lang": "Jupyter Notebook",
     "license": "MIT",
-    "stars": 6144,
+    "stars": 6154,
     "size_mb": 15,
     "created_at": "2018-05-29T13:30:30Z",
     "last_commit_at": "2026-07-07T21:13:11Z",
     "releases": 2,
     "tags": 2,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v1.6.0",
+      "at": "2026-02-26T23:25:46.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -46,7 +53,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 18,
+    "star_delta_7d": 14,
     "votes": {},
     "ranks": {}
   }

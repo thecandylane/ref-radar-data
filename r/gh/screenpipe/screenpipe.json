@@ -38,19 +38,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/screenpipe/screenpipe",
-    "sha": "8e973189af39415d808d76416a7505a9579b69bd",
-    "file_url": "https://raw.githubusercontent.com/screenpipe/screenpipe/8e973189af39415d808d76416a7505a9579b69bd/{path}"
+    "sha": "b24121147cdd4ba03895a0c648cd828b4f673679",
+    "file_url": "https://raw.githubusercontent.com/screenpipe/screenpipe/b24121147cdd4ba03895a0c648cd828b4f673679/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "NOASSERTION",
-    "stars": 22213,
+    "stars": 22266,
     "size_mb": 698,
     "created_at": "2024-06-19T13:23:56Z",
-    "last_commit_at": "2026-11-03T00:45:54Z",
-    "releases": 502,
-    "tags": 570,
-    "archived": false
+    "last_commit_at": "2026-11-07T01:24:23Z",
+    "releases": 505,
+    "tags": 573,
+    "archived": false,
+    "release": {
+      "tag": "app-v2.7.145",
+      "at": "2026-11-06T23:39:45.000Z"
+    }
   },
   "reuse": "study",
   "maturity": "stable",

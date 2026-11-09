@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4eabace309877abb231def9eeb27b96c07ed3635"
+  },
+  "id": "gh:lc/gau",
+  "kind": "repo",
+  "url": "https://github.com/lc/gau",
+  "title": "gau",
+  "why": "Pulls URLs already archived for a domain from Wayback Machine, Common Crawl and AlienVault, for passive recon.",
+  "keys": {
+    "races": [
+      "cyber/threat-intel",
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/threat-intel",
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lc/gau",
+    "sha": "4eabace309877abb231def9eeb27b96c07ed3635",
+    "file_url": "https://cdn.jsdelivr.net/gh/lc/gau@4eabace309877abb231def9eeb27b96c07ed3635/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 5158,
+    "size_mb": 0,
+    "created_at": "2020-02-25T01:10:17Z",
+    "last_commit_at": "2026-10-12T18:36:10Z",
+    "releases": 22,
+    "tags": 26,
+    "archived": false,
+    "release": {
+      "tag": "v2.2.4",
+      "at": "2024-10-28T18:35:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

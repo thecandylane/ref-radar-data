@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ff71d7afea730dffd56a97af39bb6a73ee6c7662"
+  },
+  "id": "gh:gramineproject/gramine",
+  "kind": "repo",
+  "url": "https://github.com/gramineproject/gramine",
+  "title": "gramine",
+  "why": "Runs multi-process Linux programs inside Intel SGX through a libos layer over a pal layer, with CI-Examples for real apps.",
+  "keys": {
+    "races": [
+      "infra/isolation",
+      "systems/os"
+    ],
+    "lanes": [
+      "infra/isolation",
+      "systems/os"
+    ],
+    "capabilities": [
+      "infra/isolation/application-kernels"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gramineproject/gramine",
+    "sha": "ff71d7afea730dffd56a97af39bb6a73ee6c7662",
+    "file_url": "https://cdn.jsdelivr.net/gh/gramineproject/gramine@ff71d7afea730dffd56a97af39bb6a73ee6c7662/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "LGPL-3.0",
+    "stars": 775,
+    "size_mb": 22,
+    "created_at": "2021-09-04T12:37:54Z",
+    "last_commit_at": "2025-06-20T12:49:04Z",
+    "releases": 13,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v1.9",
+      "at": "2025-06-20T12:41:16.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

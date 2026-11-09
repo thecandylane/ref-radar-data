@@ -31,13 +31,17 @@
   "facts": {
     "lang": "Swift",
     "license": "MIT",
-    "stars": 6915,
-    "size_mb": 26,
+    "stars": 7049,
+    "size_mb": 30,
     "created_at": "2026-09-27T21:54:12Z",
-    "last_commit_at": "2026-11-03T01:15:37Z",
-    "releases": 54,
-    "tags": 59,
-    "archived": false
+    "last_commit_at": "2026-11-06T13:51:12Z",
+    "releases": 57,
+    "tags": 60,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.8",
+      "at": "2026-10-31T03:09:31.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "new",
@@ -47,8 +51,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 159,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "hot": true
 }

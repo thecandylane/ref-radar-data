@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8ff48c42b0d5188223501ea1ccc506fd5beaf36a"
+  },
+  "id": "gh:iced-rs/iced",
+  "kind": "repo",
+  "url": "https://github.com/iced-rs/iced",
+  "title": "iced",
+  "why": "Rust GUI toolkit modeled on Elm, with wgpu and tiny_skia renderers and widget code in separate folders.",
+  "keys": {
+    "races": [
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/iced-rs/iced",
+    "sha": "8ff48c42b0d5188223501ea1ccc506fd5beaf36a",
+    "file_url": "https://cdn.jsdelivr.net/gh/iced-rs/iced@8ff48c42b0d5188223501ea1ccc506fd5beaf36a/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 31959,
+    "size_mb": 23,
+    "created_at": "2019-07-15T22:34:46Z",
+    "last_commit_at": "2026-11-01T20:28:44Z",
+    "releases": 18,
+    "tags": 57,
+    "archived": false,
+    "release": {
+      "tag": "0.14.0",
+      "at": "2025-12-07T20:53:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

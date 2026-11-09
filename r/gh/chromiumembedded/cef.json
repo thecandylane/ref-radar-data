@@ -1,0 +1,55 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:46ff67dd15839c07f1c1c919170eb70dc4f353ba"
+  },
+  "id": "gh:chromiumembedded/cef",
+  "kind": "repo",
+  "url": "https://github.com/chromiumembedded/cef",
+  "title": "cef",
+  "why": "Embeds a Chromium browser inside your own application through the C++ libcef layer, with CMake and Bazel project generation.",
+  "keys": {
+    "races": [
+      "desktop/app-shells"
+    ],
+    "lanes": [
+      "desktop/app-shells"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/chromiumembedded/cef",
+    "sha": "46ff67dd15839c07f1c1c919170eb70dc4f353ba",
+    "file_url": "https://cdn.jsdelivr.net/gh/chromiumembedded/cef@46ff67dd15839c07f1c1c919170eb70dc4f353ba/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 4868,
+    "size_mb": 46,
+    "created_at": "2017-04-02T18:19:23Z",
+    "last_commit_at": "2026-11-02T17:19:23Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

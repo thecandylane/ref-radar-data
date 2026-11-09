@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1fb4d7d5b45b0e81239c0c0cab95136a10153762"
+  },
+  "id": "gh:airbnb/lottie-ios",
+  "kind": "repo",
+  "url": "https://github.com/airbnb/lottie-ios",
+  "title": "lottie-ios",
+  "why": "Plays After Effects vector animations natively inside iOS apps, written in Swift and shipped via Package.swift and a podspec.",
+  "keys": {
+    "races": [
+      "mobile/ios"
+    ],
+    "lanes": [
+      "mobile/ios"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/airbnb/lottie-ios",
+    "sha": "1fb4d7d5b45b0e81239c0c0cab95136a10153762",
+    "file_url": "https://raw.githubusercontent.com/airbnb/lottie-ios/1fb4d7d5b45b0e81239c0c0cab95136a10153762/{path}"
+  },
+  "facts": {
+    "lang": "Swift",
+    "license": "Apache-2.0",
+    "stars": 26930,
+    "size_mb": 198,
+    "created_at": "2016-10-06T22:38:38Z",
+    "last_commit_at": "2026-10-06T17:02:32Z",
+    "releases": 72,
+    "tags": 76,
+    "archived": false,
+    "release": {
+      "tag": "4.6.1",
+      "at": "2026-06-13T16:30:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

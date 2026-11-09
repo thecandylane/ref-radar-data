@@ -24,19 +24,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/coreyhaines31/marketingskills",
-    "sha": "88c79f6528a9347420e57ceb1fff9a60de651768",
-    "file_url": "https://cdn.jsdelivr.net/gh/coreyhaines31/marketingskills@88c79f6528a9347420e57ceb1fff9a60de651768/{path}"
+    "sha": "96798cf38736ecdba015a1d2b0521b0c8f8f41dd",
+    "file_url": "https://cdn.jsdelivr.net/gh/coreyhaines31/marketingskills@96798cf38736ecdba015a1d2b0521b0c8f8f41dd/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 58180,
-    "size_mb": 7,
+    "stars": 59117,
+    "size_mb": 6,
     "created_at": "2026-01-15T19:45:23Z",
-    "last_commit_at": "2026-10-30T23:28:36Z",
-    "releases": 100,
-    "tags": 100,
-    "archived": false
+    "last_commit_at": "2026-11-06T17:52:45Z",
+    "releases": 102,
+    "tags": 102,
+    "archived": false,
+    "release": {
+      "tag": "v2.14.2",
+      "at": "2026-11-06T17:52:58.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

@@ -26,19 +26,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/zhayujie/CowAgent",
-    "sha": "5168beb1a17e6436c48c0fef07185d5dc846cee3",
-    "file_url": "https://cdn.jsdelivr.net/gh/zhayujie/CowAgent@5168beb1a17e6436c48c0fef07185d5dc846cee3/{path}"
+    "sha": "ee317c4afe048d5c3b42ef9422c6905071f56c68",
+    "file_url": "https://cdn.jsdelivr.net/gh/zhayujie/CowAgent@ee317c4afe048d5c3b42ef9422c6905071f56c68/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 47765,
+    "stars": 47834,
     "size_mb": 22,
     "created_at": "2022-08-07T08:33:41Z",
-    "last_commit_at": "2026-11-02T07:45:11Z",
+    "last_commit_at": "2026-11-08T09:13:00Z",
     "releases": 86,
     "tags": 100,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "2.2.2",
+      "at": "2026-10-30T02:48:05.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:220fc17ce31d2d229e7fb665512aa233edd2b6b6"
+  },
   "id": "gh:carthage-software/whim",
   "kind": "repo",
   "url": "https://github.com/carthage-software/whim",
@@ -48,7 +51,11 @@
     "last_commit_at": "2026-10-06T05:52:33Z",
     "releases": 32,
     "tags": 33,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "0.19.0",
+      "at": "2026-10-06T04:56:11.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "new",
@@ -58,7 +65,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   }

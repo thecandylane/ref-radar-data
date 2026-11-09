@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7ed7c2031c405e37aefd8635506933fdaa51b919"
+  },
+  "id": "gh:rust-windowing/winit",
+  "kind": "repo",
+  "url": "https://github.com/rust-windowing/winit",
+  "title": "winit",
+  "why": "Opens windows and handles input from Rust on X11, Wayland, Windows, macOS, Android, iOS and the web, one crate per backend.",
+  "keys": {
+    "races": [
+      "desktop/native-ui",
+      "mobile/android"
+    ],
+    "lanes": [
+      "desktop/native-ui",
+      "mobile/android"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rust-windowing/winit",
+    "sha": "7ed7c2031c405e37aefd8635506933fdaa51b919",
+    "file_url": "https://cdn.jsdelivr.net/gh/rust-windowing/winit@7ed7c2031c405e37aefd8635506933fdaa51b919/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 6251,
+    "size_mb": 13,
+    "created_at": "2016-02-23T11:17:06Z",
+    "last_commit_at": "2026-11-03T16:01:25Z",
+    "releases": 76,
+    "tags": 86,
+    "archived": false,
+    "release": {
+      "tag": "v0.30.13",
+      "at": "2026-03-02T13:51:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

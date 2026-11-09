@@ -6,12 +6,12 @@
   "why": "Skills for Claude Code and Codex that carry a pull request from review through CI fixes to merge, plus rebasing old ones.",
   "keys": {
     "races": [
-      "agents/skills",
-      "dev-tools/code-review"
+      "dev-tools/code-review",
+      "agents/skills"
     ],
     "lanes": [
-      "agents/skills",
-      "dev-tools/code-review"
+      "dev-tools/code-review",
+      "agents/skills"
     ],
     "capabilities": [
       "agents/skills/engineering-skills"
@@ -32,13 +32,14 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 2651,
+    "stars": 3254,
     "size_mb": 0,
     "created_at": "2026-10-24T05:00:20Z",
     "last_commit_at": "2026-10-28T02:38:02Z",
     "releases": 0,
     "tags": 0,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "copy",
   "maturity": "new",
@@ -48,9 +49,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 657,
     "votes": {},
     "ranks": {}
   },
-  "fresh": true
+  "fresh": true,
+  "hot": true
 }

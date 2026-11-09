@@ -1,0 +1,63 @@
+{
+  "id": "gh:meilisearch/meilisearch",
+  "kind": "repo",
+  "url": "https://github.com/meilisearch/meilisearch",
+  "title": "meilisearch",
+  "why": "Search engine with typo tolerance, facets and hybrid keyword plus vector search, served through an API.",
+  "keys": {
+    "races": [
+      "data/search",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "data/search",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "llm-infra/rag/vector-search"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/meilisearch/meilisearch",
+    "sha": "c18c81973ad5d3e126f4583cdd16a9ec1719aa4a",
+    "file_url": "https://cdn.jsdelivr.net/gh/meilisearch/meilisearch@c18c81973ad5d3e126f4583cdd16a9ec1719aa4a/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "NOASSERTION",
+    "stars": 59808,
+    "size_mb": 91,
+    "created_at": "2018-04-23T11:45:28Z",
+    "last_commit_at": "2026-11-04T17:41:28Z",
+    "releases": 341,
+    "tags": 697,
+    "archived": false,
+    "release": {
+      "tag": "v1.56.1",
+      "at": "2026-11-02T09:38:53.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

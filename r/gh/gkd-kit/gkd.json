@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:05d96ff5cbbff7d417e625d55b4064e27d038596"
+  },
   "id": "gh:gkd-kit/gkd",
   "kind": "repo",
   "url": "https://github.com/gkd-kit/gkd",
@@ -24,19 +27,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/gkd-kit/gkd",
-    "sha": "344efde836fada671772ea5c5c38531913093349",
-    "file_url": "https://cdn.jsdelivr.net/gh/gkd-kit/gkd@344efde836fada671772ea5c5c38531913093349/{path}"
+    "sha": "05d96ff5cbbff7d417e625d55b4064e27d038596",
+    "file_url": "https://cdn.jsdelivr.net/gh/gkd-kit/gkd@05d96ff5cbbff7d417e625d55b4064e27d038596/{path}"
   },
   "facts": {
     "lang": "Kotlin",
     "license": "GPL-3.0",
-    "stars": 43924,
+    "stars": 44260,
     "size_mb": 9,
     "created_at": "2023-07-04T03:59:15Z",
-    "last_commit_at": "2026-11-02T07:56:42Z",
-    "releases": 80,
-    "tags": 88,
-    "archived": false
+    "last_commit_at": "2026-11-08T07:31:30Z",
+    "releases": 82,
+    "tags": 91,
+    "archived": false,
+    "release": {
+      "tag": "v1.13.0",
+      "at": "2026-11-06T06:37:25.000Z"
+    }
   },
   "reuse": "copyleft",
   "maturity": "stable",
@@ -46,8 +53,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 392,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "hot": true
 }

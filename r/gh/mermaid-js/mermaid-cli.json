@@ -1,0 +1,61 @@
+{
+  "id": "gh:mermaid-js/mermaid-cli",
+  "kind": "repo",
+  "url": "https://github.com/mermaid-js/mermaid-cli",
+  "title": "mermaid-cli",
+  "why": "Converts a mermaid definition file into SVG, PNG or PDF, and swaps mermaid code blocks inside Markdown for generated images.",
+  "keys": {
+    "races": [
+      "dev-tools/diagrams"
+    ],
+    "lanes": [
+      "dev-tools/diagrams"
+    ],
+    "capabilities": [
+      "dev-tools/diagrams/mermaid-rendering"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mermaid-js/mermaid-cli",
+    "sha": "1423a0d7967d275a9d360ba0617f569550827c8b",
+    "file_url": "https://cdn.jsdelivr.net/gh/mermaid-js/mermaid-cli@1423a0d7967d275a9d360ba0617f569550827c8b/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 5158,
+    "size_mb": 3,
+    "created_at": "2020-05-18T07:26:06Z",
+    "last_commit_at": "2026-11-02T13:23:12Z",
+    "releases": 84,
+    "tags": 86,
+    "archived": false,
+    "release": {
+      "tag": "12.2.0",
+      "at": "2026-11-02T13:25:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

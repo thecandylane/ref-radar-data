@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:dd5271a3f3302732f7ad9f5c36e9704fff49193f"
+  },
+  "id": "gh:dwisiswant0/apkleaks",
+  "kind": "repo",
+  "url": "https://github.com/dwisiswant0/apkleaks",
+  "title": "apkleaks",
+  "why": "Pulls URIs, endpoints and secrets out of an Android APK for bug bounty and mobile security review.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "mobile/android",
+      "cyber/reversing"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "mobile/android",
+      "cyber/reversing"
+    ],
+    "capabilities": [
+      "cyber/appsec/static-analysis"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dwisiswant0/apkleaks",
+    "sha": "dd5271a3f3302732f7ad9f5c36e9704fff49193f",
+    "file_url": "https://cdn.jsdelivr.net/gh/dwisiswant0/apkleaks@dd5271a3f3302732f7ad9f5c36e9704fff49193f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 6381,
+    "size_mb": 0,
+    "created_at": "2020-05-29T21:26:13Z",
+    "last_commit_at": "2025-08-20T21:43:13Z",
+    "releases": 8,
+    "tags": 29,
+    "archived": false,
+    "release": {
+      "tag": "v2.6.3",
+      "at": "2024-10-21T01:54:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

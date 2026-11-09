@@ -28,19 +28,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Fission-AI/OpenSpec",
-    "sha": "27c0515724decc633818c735ee596481eec78a8b",
-    "file_url": "https://cdn.jsdelivr.net/gh/Fission-AI/OpenSpec@27c0515724decc633818c735ee596481eec78a8b/{path}"
+    "sha": "3e4d5f0769e2857c8eb54f149cbf5e4f703fa04c",
+    "file_url": "https://cdn.jsdelivr.net/gh/Fission-AI/OpenSpec@3e4d5f0769e2857c8eb54f149cbf5e4f703fa04c/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 73761,
-    "size_mb": 12,
+    "stars": 74248,
+    "size_mb": 13,
     "created_at": "2025-08-05T10:37:45Z",
-    "last_commit_at": "2026-11-02T19:49:52Z",
-    "releases": 56,
-    "tags": 66,
-    "archived": false
+    "last_commit_at": "2026-11-07T00:36:11Z",
+    "releases": 57,
+    "tags": 68,
+    "archived": false,
+    "release": {
+      "tag": "v1.16.1",
+      "at": "2026-11-07T00:44:30.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

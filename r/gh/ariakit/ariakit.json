@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ddb9c29bdf89b6ad57a686103191c9ffad1d2b68"
+  },
+  "id": "gh:ariakit/ariakit",
+  "kind": "repo",
+  "url": "https://github.com/ariakit/ariakit",
+  "title": "ariakit",
+  "why": "Accessible React components with WAI-ARIA behavior, styled with Tailwind CSS, plus examples and a guide folder.",
+  "keys": {
+    "races": [
+      "web/ui-components",
+      "design/accessibility"
+    ],
+    "lanes": [
+      "web/ui-components",
+      "design/accessibility"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ariakit/ariakit",
+    "sha": "ddb9c29bdf89b6ad57a686103191c9ffad1d2b68",
+    "file_url": "https://cdn.jsdelivr.net/gh/ariakit/ariakit@ddb9c29bdf89b6ad57a686103191c9ffad1d2b68/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "none",
+    "stars": 8630,
+    "size_mb": 384,
+    "created_at": "2017-09-19T22:00:42Z",
+    "last_commit_at": "2026-11-07T23:56:59Z",
+    "releases": 499,
+    "tags": 1010,
+    "archived": false,
+    "release": {
+      "tag": "@ariakit/react-utils@0.2.8",
+      "at": "2026-10-14T08:57:11.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

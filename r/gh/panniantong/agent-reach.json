@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:14c213405669414492bda0f8d52cc6531d062c45"
+  },
   "id": "gh:panniantong/agent-reach",
   "kind": "repo",
   "url": "https://github.com/Panniantong/Agent-Reach",
@@ -30,13 +33,17 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 108224,
+    "stars": 110106,
     "size_mb": 3,
     "created_at": "2026-02-24T02:10:24Z",
-    "last_commit_at": "2026-11-01T07:23:03Z",
+    "last_commit_at": "2026-11-08T02:17:47Z",
     "releases": 9,
     "tags": 9,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v1.6.1",
+      "at": "2026-11-01T07:24:15.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -46,7 +53,7 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 3995,
+    "star_delta_7d": 2305,
     "votes": {},
     "ranks": {}
   },

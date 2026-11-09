@@ -1,0 +1,59 @@
+{
+  "id": "gh:pola-rs/polars",
+  "kind": "repo",
+  "url": "https://github.com/pola-rs/polars",
+  "title": "polars",
+  "why": "DataFrame engine written for Rust and Python via py-polars, built on Arrow and able to run queries out-of-core.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pola-rs/polars",
+    "sha": "f0fa14bafbaa2d447956e99c14fdc32fa3129b8a",
+    "file_url": "https://cdn.jsdelivr.net/gh/pola-rs/polars@f0fa14bafbaa2d447956e99c14fdc32fa3129b8a/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 40284,
+    "size_mb": 234,
+    "created_at": "2020-05-13T19:45:33Z",
+    "last_commit_at": "2026-11-08T09:12:06Z",
+    "releases": 272,
+    "tags": 577,
+    "archived": false,
+    "release": {
+      "tag": "py-2.1.0",
+      "at": "2026-10-25T18:24:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

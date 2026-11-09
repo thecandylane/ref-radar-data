@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e1928292498bd60d8b8730381ed3818e82453711"
+  },
+  "id": "gh:github/copilot-cli",
+  "kind": "repo",
+  "url": "https://github.com/github/copilot-cli",
+  "title": "copilot-cli",
+  "why": "Terminal front end for the Copilot coding agent, though the repo only holds install.sh, a changelog and container files.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/clients"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/clients"
+    ],
+    "capabilities": [
+      "agents/coding/cli-agents",
+      "agents/clients/terminal-clients"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/github/copilot-cli",
+    "sha": "e1928292498bd60d8b8730381ed3818e82453711",
+    "file_url": "https://cdn.jsdelivr.net/gh/github/copilot-cli@e1928292498bd60d8b8730381ed3818e82453711/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 11379,
+    "size_mb": 1,
+    "created_at": "2023-01-06T09:22:30Z",
+    "last_commit_at": "2026-11-06T20:37:21Z",
+    "releases": 536,
+    "tags": 536,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.107",
+      "at": "2026-11-06T20:37:19.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

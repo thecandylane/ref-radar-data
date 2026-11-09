@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1dcd7aab6548786f7672ff578639188bd2f0d837"
+  },
+  "id": "gh:skypjack/entt",
+  "kind": "repo",
+  "url": "https://github.com/skypjack/entt",
+  "title": "entt",
+  "why": "Header-only C++ entity component system for games, with reflection and a single_include copy to drop into a project.",
+  "keys": {
+    "races": [
+      "games/engines"
+    ],
+    "lanes": [
+      "games/engines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/skypjack/entt",
+    "sha": "1dcd7aab6548786f7672ff578639188bd2f0d837",
+    "file_url": "https://cdn.jsdelivr.net/gh/skypjack/entt@1dcd7aab6548786f7672ff578639188bd2f0d837/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 13252,
+    "size_mb": 41,
+    "created_at": "2017-03-27T13:15:36Z",
+    "last_commit_at": "2026-10-07T13:53:00Z",
+    "releases": 38,
+    "tags": 53,
+    "archived": false,
+    "release": {
+      "tag": "v4.0.0",
+      "at": "2026-07-23T12:22:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

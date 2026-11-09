@@ -1,0 +1,67 @@
+{
+  "id": "gh:mvelazc0/badzure",
+  "kind": "repo",
+  "url": "https://github.com/mvelazc0/BadZure",
+  "title": "BadZure",
+  "why": "Gives red teamers and detection engineers privilege-escalation paths from a supplied foothold to a high-privilege target, built with Terraform.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/iam"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mvelazc0/BadZure",
+    "sha": "04ad770cbdb6cc779ac9d0c41657dba74f278dc6",
+    "file_url": "https://cdn.jsdelivr.net/gh/mvelazc0/BadZure@04ad770cbdb6cc779ac9d0c41657dba74f278dc6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 530,
+    "size_mb": 4,
+    "created_at": "2023-05-05T04:52:21Z",
+    "last_commit_at": "2026-08-27T22:38:19Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-04T05:47:30.778Z"
+  }
+}

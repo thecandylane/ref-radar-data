@@ -1,0 +1,62 @@
+{
+  "id": "gh:microsoft/intelligent-terminal",
+  "kind": "repo",
+  "url": "https://github.com/microsoft/intelligent-terminal",
+  "title": "intelligent-terminal",
+  "why": "Forks Windows Terminal to wire agent integration natively into the command line, rather than bolting it on as a plugin.",
+  "keys": {
+    "races": [
+      "agents/clients"
+    ],
+    "lanes": [
+      "agents/clients"
+    ],
+    "capabilities": [
+      "agents/clients/terminal-clients"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microsoft/intelligent-terminal",
+    "sha": "b83c3d762f8727f2ad299ddcc62fcf13bc7f35c7",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/intelligent-terminal@b83c3d762f8727f2ad299ddcc62fcf13bc7f35c7/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 2180,
+    "size_mb": 237,
+    "created_at": "2026-05-18T10:57:07Z",
+    "last_commit_at": "2026-11-04T11:19:28Z",
+    "releases": 7,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v0.3",
+      "at": "2026-11-04T22:18:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "scan_partial": true
+}

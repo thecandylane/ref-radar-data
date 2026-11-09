@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:2cd558e102ff56a4a32e8d6967f43b0a1d1b41ec"
+  },
   "id": "gh:dokku/dokku",
   "kind": "repo",
   "url": "https://github.com/dokku/dokku",
@@ -22,19 +25,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/dokku/dokku",
-    "sha": "0e1b8b4793901cfcdb41b591d865040e978ea3ba",
-    "file_url": "https://cdn.jsdelivr.net/gh/dokku/dokku@0e1b8b4793901cfcdb41b591d865040e978ea3ba/{path}"
+    "sha": "2cd558e102ff56a4a32e8d6967f43b0a1d1b41ec",
+    "file_url": "https://cdn.jsdelivr.net/gh/dokku/dokku@2cd558e102ff56a4a32e8d6967f43b0a1d1b41ec/{path}"
   },
   "facts": {
     "lang": "Shell",
     "license": "MIT",
-    "stars": 32220,
-    "size_mb": 26,
+    "stars": 32219,
+    "size_mb": 27,
     "created_at": "2013-06-08T10:26:57Z",
-    "last_commit_at": "2026-11-02T21:32:05Z",
+    "last_commit_at": "2026-11-08T04:41:44Z",
     "releases": 356,
     "tags": 361,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v0.38.34",
+      "at": "2026-10-30T02:34:44.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -44,7 +51,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": -1,
     "votes": {},
     "ranks": {}
   }

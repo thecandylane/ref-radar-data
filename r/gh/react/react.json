@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:76baa3b5434fad315ece9cfd4d20d7a8d6c34a25"
+  },
+  "id": "gh:react/react",
+  "kind": "repo",
+  "url": "https://github.com/react/react",
+  "title": "react",
+  "why": "Declarative frontend library whose repo holds the packages, compiler and fixtures, plus CLAUDE.md guidance for agent contributors.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "web/ui-components"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/react/react",
+    "sha": "76baa3b5434fad315ece9cfd4d20d7a8d6c34a25",
+    "file_url": "https://cdn.jsdelivr.net/gh/react/react@76baa3b5434fad315ece9cfd4d20d7a8d6c34a25/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 252400,
+    "size_mb": 1113,
+    "created_at": "2013-05-24T16:15:54Z",
+    "last_commit_at": "2026-11-06T19:43:46Z",
+    "releases": 137,
+    "tags": 180,
+    "archived": false,
+    "release": {
+      "tag": "v19.3.1",
+      "at": "2026-10-14T17:06:15.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

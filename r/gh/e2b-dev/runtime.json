@@ -2,7 +2,7 @@
   "id": "gh:e2b-dev/runtime",
   "kind": "repo",
   "url": "https://github.com/e2b-dev/runtime",
-  "title": "runtime",
+  "title": "e2b-dev/runtime",
   "why": "Firecracker microVMs run under Nomad and Consul, the same runtime across E2B cloud, enterprise and own machines.",
   "keys": {
     "races": [
@@ -36,13 +36,17 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 1803,
-    "size_mb": 100,
+    "stars": 1822,
+    "size_mb": 101,
     "created_at": "2023-08-10T17:37:55Z",
-    "last_commit_at": "2026-11-03T06:30:11Z",
+    "last_commit_at": "2026-11-08T08:22:47Z",
     "releases": 52,
     "tags": 54,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "2026.30",
+      "at": "2026-09-10T09:26:46.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

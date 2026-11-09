@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d1a91b3af8869c37d4757aa959f0859b59c33265"
+  },
+  "id": "gh:microsoft/vscode",
+  "kind": "repo",
+  "url": "https://github.com/microsoft/vscode",
+  "title": "vscode",
+  "why": "Editor source built on Electron and TypeScript, with extensions and src layers plus AGENTS.md notes for AI contributors.",
+  "keys": {
+    "races": [
+      "desktop/app-shells",
+      "dev-tools/editors"
+    ],
+    "lanes": [
+      "desktop/app-shells",
+      "dev-tools/editors"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microsoft/vscode",
+    "sha": "d1a91b3af8869c37d4757aa959f0859b59c33265",
+    "file_url": "https://raw.githubusercontent.com/microsoft/vscode/d1a91b3af8869c37d4757aa959f0859b59c33265/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 195172,
+    "size_mb": 1673,
+    "created_at": "2015-09-03T20:23:38Z",
+    "last_commit_at": "2026-11-08T08:19:59Z",
+    "releases": 253,
+    "tags": 404,
+    "archived": false,
+    "release": {
+      "tag": "1.145.2",
+      "at": "2026-11-06T10:21:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

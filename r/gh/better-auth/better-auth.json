@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:9342a73e3635719011828c798e276c0f908792de"
+  },
   "id": "gh:better-auth/better-auth",
   "kind": "repo",
   "url": "https://github.com/better-auth/better-auth",
@@ -28,19 +31,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/better-auth/better-auth",
-    "sha": "0e75ddcf36489aa3a191ea902a82d1892034dc74",
-    "file_url": "https://cdn.jsdelivr.net/gh/better-auth/better-auth@0e75ddcf36489aa3a191ea902a82d1892034dc74/{path}"
+    "sha": "9342a73e3635719011828c798e276c0f908792de",
+    "file_url": "https://cdn.jsdelivr.net/gh/better-auth/better-auth@9342a73e3635719011828c798e276c0f908792de/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 30561,
-    "size_mb": 162,
+    "stars": 30642,
+    "size_mb": 167,
     "created_at": "2024-05-19T21:40:04Z",
-    "last_commit_at": "2026-11-01T11:20:03Z",
-    "releases": 983,
-    "tags": 1451,
-    "archived": false
+    "last_commit_at": "2026-11-08T06:35:36Z",
+    "releases": 988,
+    "tags": 1456,
+    "archived": false,
+    "release": {
+      "tag": "v1.7.18",
+      "at": "2026-11-05T14:56:33.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

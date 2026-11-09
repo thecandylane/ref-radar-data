@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9577ac5f0caa60a39d5a334e9352aed0e232f9e6"
+  },
+  "id": "gh:surrealdb/surrealdb",
+  "kind": "repo",
+  "url": "https://github.com/surrealdb/surrealdb",
+  "title": "surrealdb",
+  "why": "Multi-model database that combines documents and graphs with SQL-style queries and realtime updates, in a Rust codebase.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "mobile/app-backends"
+    ],
+    "lanes": [
+      "data/databases",
+      "mobile/app-backends"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/surrealdb/surrealdb",
+    "sha": "9577ac5f0caa60a39d5a334e9352aed0e232f9e6",
+    "file_url": "https://cdn.jsdelivr.net/gh/surrealdb/surrealdb@9577ac5f0caa60a39d5a334e9352aed0e232f9e6/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "NOASSERTION",
+    "stars": 33290,
+    "size_mb": 97,
+    "created_at": "2021-12-09T15:03:29Z",
+    "last_commit_at": "2026-11-03T13:59:19Z",
+    "releases": 159,
+    "tags": 201,
+    "archived": false,
+    "release": {
+      "tag": "v4.0.0",
+      "at": "2026-11-03T15:22:58.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b34734376128492fa4e1b01412193de033e20613"
+  },
+  "id": "gh:syncthing/syncthing",
+  "kind": "repo",
+  "url": "https://github.com/syncthing/syncthing",
+  "title": "syncthing",
+  "why": "Keeps folders identical across devices over peer-to-peer connections, a Go codebase with its own discovery and relay servers.",
+  "keys": {
+    "races": [
+      "data/storage"
+    ],
+    "lanes": [
+      "data/storage"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/syncthing/syncthing",
+    "sha": "b34734376128492fa4e1b01412193de033e20613",
+    "file_url": "https://cdn.jsdelivr.net/gh/syncthing/syncthing@b34734376128492fa4e1b01412193de033e20613/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MPL-2.0",
+    "stars": 90211,
+    "size_mb": 125,
+    "created_at": "2013-11-26T09:48:21Z",
+    "last_commit_at": "2026-11-02T03:47:41Z",
+    "releases": 490,
+    "tags": 700,
+    "archived": false,
+    "release": {
+      "tag": "v2.1.7",
+      "at": "2026-10-21T06:09:14.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

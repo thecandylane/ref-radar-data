@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:2a89055951c6670a7c8dc390d3b84c7cd5ef7b34"
+  },
   "id": "gh:meta/docusaurus",
   "kind": "repo",
   "url": "https://github.com/meta/docusaurus",
@@ -28,19 +31,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/meta/docusaurus",
-    "sha": "653167747c8776546c0dd2c25620df1b7f6d7a59",
-    "file_url": "https://cdn.jsdelivr.net/gh/meta/docusaurus@653167747c8776546c0dd2c25620df1b7f6d7a59/{path}"
+    "sha": "2a89055951c6670a7c8dc390d3b84c7cd5ef7b34",
+    "file_url": "https://cdn.jsdelivr.net/gh/meta/docusaurus@2a89055951c6670a7c8dc390d3b84c7cd5ef7b34/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 66645,
-    "size_mb": 1585,
+    "stars": 66671,
+    "size_mb": 1616,
     "created_at": "2017-06-20T16:13:53Z",
-    "last_commit_at": "2026-11-02T08:50:07Z",
+    "last_commit_at": "2026-11-06T22:10:36Z",
     "releases": 157,
     "tags": 189,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v3.10.2",
+      "at": "2026-07-10T18:31:27.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -50,8 +57,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 39,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "hot": true
 }

@@ -1,0 +1,44 @@
+{
+  "id": "arxiv:2610.40753",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.40753",
+  "title": "\"Shall We Approve?\" Consequence-Aware Approval for Autonomous Coding Agents",
+  "why": "Runs each shell command a coding agent proposes in a snapshotted sandbox first, then commits or rolls back based on what changed.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/sandboxes",
+      "cyber/agent-security"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/sandboxes",
+      "cyber/agent-security"
+    ],
+    "capabilities": [
+      "cyber/agent-security/runtime-guardrails"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.40753"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

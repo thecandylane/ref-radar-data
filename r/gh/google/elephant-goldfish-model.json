@@ -6,17 +6,17 @@
   "why": "Spec-driven development method and skills from Google for working with LLMs, packaged as Claude Code and Codex plugins.",
   "keys": {
     "races": [
-      "agents/skills",
-      "dev-tools/code-review"
+      "dev-tools/code-review",
+      "agents/skills"
     ],
     "lanes": [
-      "agents/skills",
-      "dev-tools/code-review"
+      "dev-tools/code-review",
+      "agents/skills"
     ],
     "capabilities": [
+      "dev-tools/code-review/ai-code-review",
       "agents/skills/engineering-skills",
-      "agents/skills/plugin-specs",
-      "dev-tools/code-review/ai-code-review"
+      "agents/skills/plugin-specs"
     ]
   },
   "read": [
@@ -34,13 +34,17 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 10869,
-    "size_mb": 11,
+    "stars": 14260,
+    "size_mb": 12,
     "created_at": "2026-09-13T16:31:06Z",
-    "last_commit_at": "2026-11-03T07:44:13Z",
-    "releases": 1,
-    "tags": 1,
-    "archived": false
+    "last_commit_at": "2026-11-07T03:11:51Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.1",
+      "at": "2026-11-06T21:50:31.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "new",
@@ -50,8 +54,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 4579,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "hot": true
 }

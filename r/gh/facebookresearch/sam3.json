@@ -1,0 +1,57 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f1647e8d0c1d280991f4d1b7d974c2704537fe66"
+  },
+  "id": "gh:facebookresearch/sam3",
+  "kind": "repo",
+  "url": "https://github.com/facebookresearch/sam3",
+  "title": "sam3",
+  "why": "Runs and finetunes Meta's SAM 3 segmentation model, with checkpoint links and example notebooks to start from.",
+  "keys": {
+    "races": [
+      "ml/vision",
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/vision",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/facebookresearch/sam3",
+    "sha": "f1647e8d0c1d280991f4d1b7d974c2704537fe66",
+    "file_url": "https://cdn.jsdelivr.net/gh/facebookresearch/sam3@f1647e8d0c1d280991f4d1b7d974c2704537fe66/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 12239,
+    "size_mb": 60,
+    "created_at": "2025-07-17T16:15:40Z",
+    "last_commit_at": "2026-10-23T19:49:10Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

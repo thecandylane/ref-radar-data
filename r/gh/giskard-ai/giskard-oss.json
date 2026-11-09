@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:17ba80afa1e0c914f0a6129cd9c1dc967bf22b08"
+  },
+  "id": "gh:giskard-ai/giskard-oss",
+  "kind": "repo",
+  "url": "https://github.com/Giskard-AI/giskard-oss",
+  "title": "giskard-oss",
+  "why": "Tests and evaluates LLM agents for correctness, fairness and red-team style security issues.",
+  "keys": {
+    "races": [
+      "cyber/agent-security",
+      "dev-tools/testing",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "cyber/agent-security",
+      "dev-tools/testing",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Giskard-AI/giskard-oss",
+    "sha": "17ba80afa1e0c914f0a6129cd9c1dc967bf22b08",
+    "file_url": "https://cdn.jsdelivr.net/gh/Giskard-AI/giskard-oss@17ba80afa1e0c914f0a6129cd9c1dc967bf22b08/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 5947,
+    "size_mb": 175,
+    "created_at": "2022-03-06T21:45:37Z",
+    "last_commit_at": "2026-11-02T06:12:19Z",
+    "releases": 146,
+    "tags": 159,
+    "archived": false,
+    "release": {
+      "tag": "giskard-agents/v1.0.6",
+      "at": "2026-10-25T07:34:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

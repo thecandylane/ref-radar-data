@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7cea5392165ac26d5eadf879701337c85e4a2b2f"
+  },
+  "id": "gh:verl-project/verl",
+  "kind": "repo",
+  "url": "https://github.com/verl-project/verl",
+  "title": "verl",
+  "why": "RL post-training framework for LLMs, with recipes, examples and Docker setups for getting runs going.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "agents/optimization"
+    ],
+    "lanes": [
+      "ml/training",
+      "agents/optimization"
+    ],
+    "capabilities": [
+      "agents/optimization/rl-environments"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/verl-project/verl",
+    "sha": "7cea5392165ac26d5eadf879701337c85e4a2b2f",
+    "file_url": "https://cdn.jsdelivr.net/gh/verl-project/verl@7cea5392165ac26d5eadf879701337c85e4a2b2f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 24163,
+    "size_mb": 33,
+    "created_at": "2024-10-31T06:11:15Z",
+    "last_commit_at": "2026-11-06T10:42:45Z",
+    "releases": 16,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "v0.9.1",
+      "at": "2026-09-20T07:24:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

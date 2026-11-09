@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8787d1a4fdd7c64791607a1122d2408b3b35ade4"
+  },
+  "id": "gh:google/minijail",
+  "kind": "repo",
+  "url": "https://github.com/google/minijail",
+  "title": "minijail",
+  "why": "Confines Linux processes with syscall filter policies through a C library, as shipped on ChromeOS and Android.",
+  "keys": {
+    "races": [
+      "infra/isolation"
+    ],
+    "lanes": [
+      "infra/isolation"
+    ],
+    "capabilities": [
+      "infra/isolation/unprivileged-sandboxes"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google/minijail",
+    "sha": "8787d1a4fdd7c64791607a1122d2408b3b35ade4",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/minijail@8787d1a4fdd7c64791607a1122d2408b3b35ade4/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "BSD-3-Clause",
+    "stars": 396,
+    "size_mb": 3,
+    "created_at": "2019-06-18T19:54:52Z",
+    "last_commit_at": "2026-11-03T15:33:06Z",
+    "releases": 18,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "linux-v18",
+      "at": "2023-05-23T22:10:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:40b6a5782e33eafb5413926cb822bbc7dc268ebb"
+  },
+  "id": "gh:piebald-ai/gemini-cli-desktop",
+  "kind": "repo",
+  "url": "https://github.com/Piebald-AI/gemini-cli-desktop",
+  "title": "gemini-cli-desktop",
+  "why": "Tauri app that puts Gemini CLI and Qwen Code in one window, with project management and search over past conversations.",
+  "keys": {
+    "races": [
+      "agents/clients",
+      "desktop/app-shells"
+    ],
+    "lanes": [
+      "agents/clients",
+      "desktop/app-shells"
+    ],
+    "capabilities": [
+      "agents/clients/desktop-apps"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Piebald-AI/gemini-cli-desktop",
+    "sha": "40b6a5782e33eafb5413926cb822bbc7dc268ebb",
+    "file_url": "https://cdn.jsdelivr.net/gh/Piebald-AI/gemini-cli-desktop@40b6a5782e33eafb5413926cb822bbc7dc268ebb/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 519,
+    "size_mb": 4,
+    "created_at": "2025-07-27T14:52:59Z",
+    "last_commit_at": "2026-10-24T13:59:03Z",
+    "releases": 19,
+    "tags": 19,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.15",
+      "at": "2026-01-17T17:33:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

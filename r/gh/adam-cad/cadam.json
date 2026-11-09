@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:e339e3ad85601bb1e23a5ff9c7f33b51ddf602f5"
+  },
   "id": "gh:adam-cad/cadam",
   "kind": "repo",
   "url": "https://github.com/Adam-CAD/CADAM",
@@ -34,13 +37,17 @@
   "facts": {
     "lang": "TypeScript",
     "license": "GPL-3.0",
-    "stars": 5380,
+    "stars": 5405,
     "size_mb": 36,
     "created_at": "2025-09-01T17:53:58Z",
     "last_commit_at": "2026-10-15T05:26:14Z",
     "releases": 4,
     "tags": 4,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v0.3.0",
+      "at": "2026-06-17T15:38:25.000Z"
+    }
   },
   "reuse": "copyleft",
   "maturity": "stable",
@@ -50,7 +57,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 29,
     "votes": {},
     "ranks": {}
   }

@@ -1,0 +1,62 @@
+{
+  "id": "gh:mintplex-labs/anything-llm",
+  "kind": "repo",
+  "url": "https://github.com/Mintplex-Labs/anything-llm",
+  "title": "anything-llm",
+  "why": "Self-hosted app that chats with your documents through RAG and a vector database, with agents running locally.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "llm-infra/chat-apps",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "llm-infra/chat-apps",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "llm-infra/chat-apps/self-hosted-chat",
+      "llm-infra/rag/knowledge-platforms"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Mintplex-Labs/anything-llm",
+    "sha": "cbaf3357c7d9810bfa1f91f075cae7f533554f80",
+    "file_url": "https://cdn.jsdelivr.net/gh/Mintplex-Labs/anything-llm@cbaf3357c7d9810bfa1f91f075cae7f533554f80/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 68053,
+    "size_mb": 94,
+    "created_at": "2023-06-04T02:29:14Z",
+    "last_commit_at": "2026-11-06T04:09:55Z",
+    "releases": 39,
+    "tags": 39,
+    "archived": false,
+    "release": {
+      "tag": "v1.19.0",
+      "at": "2026-10-26T16:14:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

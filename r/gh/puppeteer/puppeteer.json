@@ -1,0 +1,61 @@
+{
+  "id": "gh:puppeteer/puppeteer",
+  "kind": "repo",
+  "url": "https://github.com/puppeteer/puppeteer",
+  "title": "puppeteer",
+  "why": "Control headless Chrome or Firefox from Node scripts to automate pages and run browser tests, with a packages folder per component.",
+  "keys": {
+    "races": [
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/testing"
+    ],
+    "capabilities": [
+      "dev-tools/testing/e2e-testing"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/puppeteer/puppeteer",
+    "sha": "6e9f642d6d5b09d3ee4c6834db64ed9b7e54e551",
+    "file_url": "https://cdn.jsdelivr.net/gh/puppeteer/puppeteer@6e9f642d6d5b09d3ee4c6834db64ed9b7e54e551/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 95812,
+    "size_mb": 1573,
+    "created_at": "2017-05-09T22:16:13Z",
+    "last_commit_at": "2026-11-07T15:22:15Z",
+    "releases": 722,
+    "tags": 723,
+    "archived": false,
+    "release": {
+      "tag": "browsers-v3.2.6",
+      "at": "2026-10-22T11:49:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

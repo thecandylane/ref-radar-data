@@ -1,0 +1,73 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:41ad1995b30573a9b55cfaab80c3293b7c35c1f8"
+  },
+  "id": "gh:triggerdotdev/trigger.dev",
+  "kind": "repo",
+  "url": "https://github.com/triggerdotdev/trigger.dev",
+  "title": "trigger.dev",
+  "why": "Run long background jobs, schedules and AI agent workflows from TypeScript code, with an MCP server for your agent.",
+  "keys": {
+    "races": [
+      "agents/frameworks",
+      "infra/serverless",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/frameworks",
+      "infra/serverless",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/frameworks/agent-workflows",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/triggerdotdev/trigger.dev",
+    "sha": "41ad1995b30573a9b55cfaab80c3293b7c35c1f8",
+    "file_url": "https://cdn.jsdelivr.net/gh/triggerdotdev/trigger.dev@41ad1995b30573a9b55cfaab80c3293b7c35c1f8/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 16729,
+    "size_mb": 204,
+    "created_at": "2022-11-30T14:59:07Z",
+    "last_commit_at": "2026-10-31T11:59:28Z",
+    "releases": 706,
+    "tags": 4262,
+    "archived": false,
+    "release": {
+      "tag": "v4.8.3",
+      "at": "2026-10-30T12:22:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

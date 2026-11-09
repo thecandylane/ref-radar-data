@@ -1,0 +1,57 @@
+{
+  "id": "gh:falcosecurity/falco",
+  "kind": "repo",
+  "url": "https://github.com/falcosecurity/falco",
+  "title": "falco",
+  "why": "Detect threats at runtime in Kubernetes and containers using eBPF and an editable rules set, with a chart to deploy it.",
+  "keys": {
+    "races": [
+      "cyber/detection",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "cyber/detection",
+      "infra/kubernetes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/falcosecurity/falco",
+    "sha": "b3c37fe82155ce58b6c4fb440b2a72559bb7453f",
+    "file_url": "https://cdn.jsdelivr.net/gh/falcosecurity/falco@b3c37fe82155ce58b6c4fb440b2a72559bb7453f/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 9561,
+    "size_mb": 23,
+    "created_at": "2016-01-19T21:58:12Z",
+    "last_commit_at": "2026-11-06T12:37:00Z",
+    "releases": 127,
+    "tags": 198,
+    "archived": false,
+    "release": {
+      "tag": "0.45.2",
+      "at": "2026-10-29T16:48:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

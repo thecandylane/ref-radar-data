@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7b7b51bec9359a5b4a76321018db65d07978fecc"
+  },
+  "id": "gh:casey/just",
+  "kind": "repo",
+  "url": "https://github.com/casey/just",
+  "title": "just",
+  "why": "Keeps project commands in a justfile and runs them by name, backed by a documented grammar and shell completions.",
+  "keys": {
+    "races": [
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/casey/just",
+    "sha": "7b7b51bec9359a5b4a76321018db65d07978fecc",
+    "file_url": "https://cdn.jsdelivr.net/gh/casey/just@7b7b51bec9359a5b4a76321018db65d07978fecc/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "CC0-1.0",
+    "stars": 36606,
+    "size_mb": 18,
+    "created_at": "2016-06-17T06:08:08Z",
+    "last_commit_at": "2026-11-02T05:24:07Z",
+    "releases": 147,
+    "tags": 182,
+    "archived": false,
+    "release": {
+      "tag": "1.59.0",
+      "at": "2026-10-15T06:41:04.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

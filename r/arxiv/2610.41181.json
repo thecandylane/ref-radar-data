@@ -1,0 +1,42 @@
+{
+  "id": "arxiv:2610.41181",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.41181",
+  "title": "AgentShield: Fortifying Web Applications Against AI Agents and Agentic Browsers",
+  "why": "Tells human visitors from AI browser agents by their interaction telemetry on dynamic web forms, after testing common anti-bot defenses.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "cyber/agent-security"
+    ],
+    "lanes": [
+      "agents/tools",
+      "cyber/agent-security"
+    ],
+    "capabilities": [
+      "agents/tools/browser-automation"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.41181"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

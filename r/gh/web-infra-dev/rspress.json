@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:57dbf209e92b406e928ad00dfa1665c8594b6766"
+  },
+  "id": "gh:web-infra-dev/rspress",
+  "kind": "repo",
+  "url": "https://github.com/web-infra-dev/rspress",
+  "title": "rspress",
+  "why": "Static site generator on Rspack and Rsbuild that turns Markdown and MDX into doc sites, with a skills.json for agents.",
+  "keys": {
+    "races": [
+      "web/static-sites",
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "web/static-sites",
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/web-infra-dev/rspress",
+    "sha": "57dbf209e92b406e928ad00dfa1665c8594b6766",
+    "file_url": "https://cdn.jsdelivr.net/gh/web-infra-dev/rspress@57dbf209e92b406e928ad00dfa1665c8594b6766/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 2358,
+    "size_mb": 36,
+    "created_at": "2023-06-27T06:37:44Z",
+    "last_commit_at": "2026-11-06T10:07:51Z",
+    "releases": 246,
+    "tags": 246,
+    "archived": false,
+    "release": {
+      "tag": "v2.1.1",
+      "at": "2026-11-06T05:34:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

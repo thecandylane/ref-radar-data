@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:724588a5504b0e9c462e3126563370e8d50a01eb"
+  },
+  "id": "gh:pgvector/pgvector",
+  "kind": "repo",
+  "url": "https://github.com/pgvector/pgvector",
+  "title": "pgvector",
+  "why": "Adds vector columns and nearest-neighbor search to Postgres, so embeddings sit next to the rest of your data.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "data/databases",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "llm-infra/rag/vector-search"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pgvector/pgvector",
+    "sha": "724588a5504b0e9c462e3126563370e8d50a01eb",
+    "file_url": "https://cdn.jsdelivr.net/gh/pgvector/pgvector@724588a5504b0e9c462e3126563370e8d50a01eb/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 23619,
+    "size_mb": 2,
+    "created_at": "2021-04-20T21:13:52Z",
+    "last_commit_at": "2026-11-05T07:03:58Z",
+    "releases": 0,
+    "tags": 43,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

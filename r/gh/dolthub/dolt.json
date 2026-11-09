@@ -26,19 +26,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/dolthub/dolt",
-    "sha": "94cdd651aebb1854a6e585fc01ce97eb9076081c",
-    "file_url": "https://cdn.jsdelivr.net/gh/dolthub/dolt@94cdd651aebb1854a6e585fc01ce97eb9076081c/{path}"
+    "sha": "212206facda8df6dfcee22f624ab871c3237f72f",
+    "file_url": "https://cdn.jsdelivr.net/gh/dolthub/dolt@212206facda8df6dfcee22f624ab871c3237f72f/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 24806,
-    "size_mb": 184,
+    "stars": 24841,
+    "size_mb": 185,
     "created_at": "2019-07-24T17:46:25Z",
-    "last_commit_at": "2026-10-31T16:46:33Z",
-    "releases": 654,
-    "tags": 677,
-    "archived": false
+    "last_commit_at": "2026-11-07T07:02:00Z",
+    "releases": 657,
+    "tags": 680,
+    "archived": false,
+    "release": {
+      "tag": "v2.7.2",
+      "at": "2026-11-05T20:30:33.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

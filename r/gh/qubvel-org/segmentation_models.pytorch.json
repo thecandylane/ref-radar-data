@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f5effcfce48b0e44e7e0c85015673547d364b4d3"
+  },
+  "id": "gh:qubvel-org/segmentation_models.pytorch",
+  "kind": "repo",
+  "url": "https://github.com/qubvel-org/segmentation_models.pytorch",
+  "title": "segmentation_models.pytorch",
+  "why": "PyTorch library of segmentation architectures like Unet, FPN and DeepLabV3+ with 500+ pretrained backbones to swap in.",
+  "keys": {
+    "races": [
+      "ml/vision",
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/vision",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/qubvel-org/segmentation_models.pytorch",
+    "sha": "f5effcfce48b0e44e7e0c85015673547d364b4d3",
+    "file_url": "https://cdn.jsdelivr.net/gh/qubvel-org/segmentation_models.pytorch@f5effcfce48b0e44e7e0c85015673547d364b4d3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 11799,
+    "size_mb": 16,
+    "created_at": "2019-03-01T16:21:21Z",
+    "last_commit_at": "2026-11-02T07:39:54Z",
+    "releases": 16,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "v0.6.0",
+      "at": "2026-10-26T16:43:50.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8c8b8fc266e8cd7fac09340c0373abc28732adb0"
+  },
+  "id": "gh:ocornut/imgui",
+  "kind": "repo",
+  "url": "https://github.com/ocornut/imgui",
+  "title": "imgui",
+  "why": "Immediate-mode C++ GUI in a handful of source files you drop into a project, with backends and demo code for many platforms.",
+  "keys": {
+    "races": [
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "docs",
+      "kind": "path"
+    },
+    {
+      "locator": "imgui.h",
+      "kind": "path"
+    },
+    {
+      "locator": "imgui.cpp",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ocornut/imgui",
+    "sha": "8c8b8fc266e8cd7fac09340c0373abc28732adb0",
+    "file_url": "https://cdn.jsdelivr.net/gh/ocornut/imgui@8c8b8fc266e8cd7fac09340c0373abc28732adb0/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 77018,
+    "size_mb": 132,
+    "created_at": "2014-07-21T14:29:47Z",
+    "last_commit_at": "2026-11-05T19:36:15Z",
+    "releases": 123,
+    "tags": 161,
+    "archived": false,
+    "release": {
+      "tag": "v1.93.0",
+      "at": "2026-10-14T16:37:04.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

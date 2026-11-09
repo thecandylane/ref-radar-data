@@ -1,0 +1,64 @@
+{
+  "id": "gh:superagent-ai/superagent",
+  "kind": "repo",
+  "url": "https://github.com/superagent-ai/superagent",
+  "title": "superagent",
+  "why": "Adds a guardrails layer to LLM applications for prompt-injection checks, shipped as an SDK, a CLI and an MCP server.",
+  "keys": {
+    "races": [
+      "cyber/agent-security",
+      "agents/tools"
+    ],
+    "lanes": [
+      "cyber/agent-security",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "cyber/agent-security/runtime-guardrails",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "sdk",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/superagent-ai/superagent",
+    "sha": "c9e646271bf15cf7ea7b8e2de9de98008ea1099d",
+    "file_url": "https://cdn.jsdelivr.net/gh/superagent-ai/superagent@c9e646271bf15cf7ea7b8e2de9de98008ea1099d/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 6851,
+    "size_mb": 90,
+    "created_at": "2023-05-10T18:50:39Z",
+    "last_commit_at": "2026-08-25T09:45:00Z",
+    "releases": 195,
+    "tags": 197,
+    "archived": false,
+    "release": {
+      "tag": "node-v0.0.9",
+      "at": "2025-09-14T06:34:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

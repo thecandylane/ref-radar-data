@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:7897c13578becae192a47bb9818f17dc006a7264"
+  },
   "id": "gh:chipsalliance/chisel",
   "kind": "repo",
   "url": "https://github.com/chipsalliance/chisel",
@@ -28,19 +31,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/chipsalliance/chisel",
-    "sha": "f9c4af9a01c9c1e1a1eca38ca5b9898737519e19",
-    "file_url": "https://cdn.jsdelivr.net/gh/chipsalliance/chisel@f9c4af9a01c9c1e1a1eca38ca5b9898737519e19/{path}"
+    "sha": "7897c13578becae192a47bb9818f17dc006a7264",
+    "file_url": "https://cdn.jsdelivr.net/gh/chipsalliance/chisel@7897c13578becae192a47bb9818f17dc006a7264/{path}"
   },
   "facts": {
     "lang": "Scala",
     "license": "Apache-2.0",
-    "stars": 4826,
-    "size_mb": 1702,
+    "stars": 4828,
+    "size_mb": 1710,
     "created_at": "2015-04-27T22:55:56Z",
-    "last_commit_at": "2026-11-02T16:39:07Z",
+    "last_commit_at": "2026-11-05T21:27:48Z",
     "releases": 110,
     "tags": 140,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v7.16.0",
+      "at": "2026-10-01T05:12:05.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -50,7 +57,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 2,
     "votes": {},
     "ranks": {}
   }

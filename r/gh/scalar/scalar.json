@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6055250f2135ecb3c9ac1830244a1c715caf701b"
+  },
+  "id": "gh:scalar/scalar",
+  "kind": "repo",
+  "url": "https://github.com/scalar/scalar",
+  "title": "scalar",
+  "why": "Renders OpenAPI and Swagger documents as browsable API references and doubles as a REST client for trying requests.",
+  "keys": {
+    "races": [
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/scalar/scalar",
+    "sha": "6055250f2135ecb3c9ac1830244a1c715caf701b",
+    "file_url": "https://cdn.jsdelivr.net/gh/scalar/scalar@6055250f2135ecb3c9ac1830244a1c715caf701b/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 16384,
+    "size_mb": 467,
+    "created_at": "2023-08-16T13:42:32Z",
+    "last_commit_at": "2026-11-08T00:49:14Z",
+    "releases": 144,
+    "tags": 145,
+    "archived": false,
+    "release": {
+      "tag": "release-2026-11-05-1fa4255",
+      "at": "2026-11-05T11:18:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

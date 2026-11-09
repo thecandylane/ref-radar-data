@@ -1,0 +1,74 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f58ebd311de571e56b436a58c7c78406d1d6d1d1"
+  },
+  "id": "gh:projectdiscovery/interactsh",
+  "kind": "repo",
+  "url": "https://github.com/projectdiscovery/interactsh",
+  "title": "interactsh",
+  "why": "Self-hosted server that catches DNS, HTTP, SMTP and LDAP interactions, so blind OOB bugs show up during testing.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "cyber/offensive"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/projectdiscovery/interactsh",
+    "sha": "f58ebd311de571e56b436a58c7c78406d1d6d1d1",
+    "file_url": "https://cdn.jsdelivr.net/gh/projectdiscovery/interactsh@f58ebd311de571e56b436a58c7c78406d1d6d1d1/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 4621,
+    "size_mb": 10,
+    "created_at": "2021-01-29T14:31:51Z",
+    "last_commit_at": "2026-11-04T23:43:20Z",
+    "releases": 34,
+    "tags": 34,
+    "archived": false,
+    "release": {
+      "tag": "v1.4.1",
+      "at": "2026-09-30T20:05:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gh:trustedsec/titanis",
+  "kind": "repo",
+  "url": "https://github.com/trustedsec/Titanis",
+  "title": "Titanis",
+  "why": "Implements SMB2/3, MSRPC, LDAP, NTLM and Kerberos with PKINIT and S4U support in .NET 8, with SOCKS5 proxying built in for operational work.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/trustedsec/Titanis",
+    "sha": "71cd30cd2f59ef899e525394125f6a96b2342289",
+    "file_url": "https://cdn.jsdelivr.net/gh/trustedsec/Titanis@71cd30cd2f59ef899e525394125f6a96b2342289/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "GPL-3.0",
+    "stars": 847,
+    "size_mb": 5,
+    "created_at": "2025-07-16T13:25:08Z",
+    "last_commit_at": "2026-09-28T13:48:58Z",
+    "releases": 9,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v0.9.330",
+      "at": "2026-08-05T17:26:35.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "contains raw shellcode bytes"
+    ],
+    "scanned_at": "2026-11-04T05:22:17.242Z"
+  }
+}

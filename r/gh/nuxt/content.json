@@ -1,0 +1,61 @@
+{
+  "id": "gh:nuxt/content",
+  "kind": "repo",
+  "url": "https://github.com/nuxt/content",
+  "title": "nuxt/content",
+  "why": "Nuxt module that turns a folder of Markdown and Vue-enabled MDC files into queryable content, with a playground and examples.",
+  "keys": {
+    "races": [
+      "web/cms",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/cms",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nuxt/content",
+    "sha": "9e6cbd6270b35295c115e079a9c9ec7af4a8efd2",
+    "file_url": "https://cdn.jsdelivr.net/gh/nuxt/content@9e6cbd6270b35295c115e079a9c9ec7af4a8efd2/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 3677,
+    "size_mb": 58,
+    "created_at": "2020-03-31T13:09:51Z",
+    "last_commit_at": "2026-11-02T09:30:50Z",
+    "releases": 101,
+    "tags": 196,
+    "archived": false,
+    "release": {
+      "tag": "v3.16.2",
+      "at": "2026-10-12T14:46:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

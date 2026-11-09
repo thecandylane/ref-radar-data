@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d421451672fc8b51ca31b86539a258f0f5172043"
+  },
+  "id": "gh:supabase/supabase",
+  "kind": "repo",
+  "url": "https://github.com/supabase/supabase",
+  "title": "supabase",
+  "why": "Hosted Postgres backend for web, mobile and AI apps, bundling auth, realtime and pgvector, as an alternative to Firebase.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "llm-infra/rag",
+      "mobile/app-backends"
+    ],
+    "lanes": [
+      "data/databases",
+      "llm-infra/rag",
+      "mobile/app-backends"
+    ],
+    "capabilities": [
+      "llm-infra/rag/vector-search"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/supabase/supabase",
+    "sha": "d421451672fc8b51ca31b86539a258f0f5172043",
+    "file_url": "https://raw.githubusercontent.com/supabase/supabase/d421451672fc8b51ca31b86539a258f0f5172043/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 114648,
+    "size_mb": 2460,
+    "created_at": "2019-10-12T05:56:49Z",
+    "last_commit_at": "2026-11-07T02:51:35Z",
+    "releases": 30,
+    "tags": 64,
+    "archived": false,
+    "release": {
+      "tag": "v1.26.08",
+      "at": "2026-08-07T13:57:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

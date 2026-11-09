@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bdc7fae37d6745f81788c34c782a564cb0f99225"
+  },
+  "id": "gh:lkarlslund/ldapnomnom",
+  "kind": "repo",
+  "url": "https://github.com/lkarlslund/ldapnomnom",
+  "title": "ldapnomnom",
+  "why": "Abuses LDAP Ping (cLDAP) requests to check whether Active Directory usernames exist at up to 50,000 per second, without touching native audit logs.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.MD",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lkarlslund/ldapnomnom",
+    "sha": "bdc7fae37d6745f81788c34c782a564cb0f99225",
+    "file_url": "https://cdn.jsdelivr.net/gh/lkarlslund/ldapnomnom@bdc7fae37d6745f81788c34c782a564cb0f99225/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 1136,
+    "size_mb": 0,
+    "created_at": "2022-09-18T10:35:09Z",
+    "last_commit_at": "2024-11-09T10:08:27Z",
+    "releases": 12,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v1.5.1",
+      "at": "2024-11-09T10:21:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

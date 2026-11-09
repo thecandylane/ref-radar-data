@@ -1,0 +1,83 @@
+{
+  "label": "compromised",
+  "labels": [
+    "compromised"
+  ],
+  "trap": {
+    "signs": [
+      {
+        "rule": "T12",
+        "path": "gitnexus/scripts/build-web.js",
+        "note": "a script an install hook runs that does a worm's work (publishes, harvests secrets or registers runners)",
+        "mark": "compromised"
+      }
+    ],
+    "files": [
+      "gitnexus/scripts/build-web.js"
+    ],
+    "marks": [
+      "compromised"
+    ]
+  },
+  "archive": {
+    "swh": "swh:1:rev:3c068dd11d53c1c8f373957d0c144da0acbfbc17"
+  },
+  "id": "gh:abhigyanpatwari/gitnexus",
+  "kind": "repo",
+  "url": "https://github.com/abhigyanpatwari/GitNexus",
+  "title": "GitNexus",
+  "why": "Code intelligence engine that runs without a server, with web, CLI and shared packages plus Claude and Cursor integrations.",
+  "keys": {
+    "races": [
+      "agents/code-intel",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/code-intel",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/code-intel/code-graphs",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/abhigyanpatwari/GitNexus",
+    "sha": "3c068dd11d53c1c8f373957d0c144da0acbfbc17",
+    "file_url": "https://raw.githubusercontent.com/abhigyanpatwari/GitNexus/3c068dd11d53c1c8f373957d0c144da0acbfbc17/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 48336,
+    "size_mb": 133,
+    "created_at": "2025-08-02T23:20:31Z",
+    "last_commit_at": "2026-11-08T05:50:10Z",
+    "releases": 0,
+    "tags": 2122,
+    "archived": false,
+    "release": {
+      "tag": "v1.6.12",
+      "at": "2026-09-12T21:40:04.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

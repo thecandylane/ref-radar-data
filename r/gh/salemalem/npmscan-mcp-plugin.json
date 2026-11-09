@@ -7,13 +7,13 @@
   "keys": {
     "races": [
       "agents/coding",
-      "agents/tools",
-      "cyber/supply-chain"
+      "cyber/supply-chain",
+      "agents/tools"
     ],
     "lanes": [
       "agents/coding",
-      "agents/tools",
-      "cyber/supply-chain"
+      "cyber/supply-chain",
+      "agents/tools"
     ],
     "capabilities": [
       "agents/coding/plugin-architectures",
@@ -35,13 +35,14 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 515,
+    "stars": 503,
     "size_mb": 1,
     "created_at": "2026-08-01T15:57:27Z",
     "last_commit_at": "2026-11-02T08:11:09Z",
     "releases": 0,
     "tags": 1,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "copy",
   "maturity": "new",
@@ -51,8 +52,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": -6,
     "votes": {},
     "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-03T10:29:53.075Z"
   }
 }

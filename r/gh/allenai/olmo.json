@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:090253dac6688f2532509daa7aa2eb5fae50e956"
+  },
+  "id": "gh:allenai/olmo",
+  "kind": "repo",
+  "url": "https://github.com/allenai/OLMo",
+  "title": "OLMo",
+  "why": "Full code behind the OLMo open models: model definition, training, evaluation and inference, with configs and scripts.",
+  "keys": {
+    "races": [
+      "llm-infra/inference",
+      "ml/open-models",
+      "ml/training"
+    ],
+    "lanes": [
+      "llm-infra/inference",
+      "ml/open-models",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/allenai/OLMo",
+    "sha": "090253dac6688f2532509daa7aa2eb5fae50e956",
+    "file_url": "https://raw.githubusercontent.com/allenai/OLMo/090253dac6688f2532509daa7aa2eb5fae50e956/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 6729,
+    "size_mb": 510,
+    "created_at": "2023-02-20T22:29:43Z",
+    "last_commit_at": "2025-11-24T19:13:13Z",
+    "releases": 13,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v0.6.0",
+      "at": "2024-12-19T17:03:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

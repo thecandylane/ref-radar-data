@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:545c73ae6c09d98148969106a5fa39c41d02ffdb"
+  },
+  "id": "gh:babylonjs/babylon.js",
+  "kind": "repo",
+  "url": "https://github.com/BabylonJS/Babylon.js",
+  "title": "Babylon.js",
+  "why": "Web 3D engine on npm with an online playground, a sandbox for glTF scenes and ES6 packages that allow tree shaking.",
+  "keys": {
+    "races": [
+      "games/engines",
+      "games/graphics"
+    ],
+    "lanes": [
+      "games/engines",
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/BabylonJS/Babylon.js",
+    "sha": "545c73ae6c09d98148969106a5fa39c41d02ffdb",
+    "file_url": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/545c73ae6c09d98148969106a5fa39c41d02ffdb/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 26305,
+    "size_mb": 1462,
+    "created_at": "2013-06-27T20:40:42Z",
+    "last_commit_at": "2026-11-07T01:54:01Z",
+    "releases": 674,
+    "tags": 915,
+    "archived": false,
+    "release": {
+      "tag": "9.35.0",
+      "at": "2026-11-06T19:46:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

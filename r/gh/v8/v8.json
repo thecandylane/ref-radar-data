@@ -1,0 +1,58 @@
+{
+  "id": "gh:v8/v8",
+  "kind": "repo",
+  "url": "https://github.com/v8/v8",
+  "title": "v8",
+  "why": "C++ JavaScript engine pairing an interpreter with a compiler inside a virtual machine, built with GN and Bazel files.",
+  "keys": {
+    "races": [
+      "languages/compilers",
+      "languages/runtimes"
+    ],
+    "lanes": [
+      "languages/compilers",
+      "languages/runtimes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/v8/v8",
+    "sha": "20e9db01387a1d6d5711b6bd89f4654abb49ab09",
+    "file_url": "https://raw.githubusercontent.com/v8/v8/20e9db01387a1d6d5711b6bd89f4654abb49ab09/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 25318,
+    "size_mb": 1218,
+    "created_at": "2014-09-24T15:24:30Z",
+    "last_commit_at": "2026-11-07T10:02:00Z",
+    "releases": 0,
+    "tags": 46261,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

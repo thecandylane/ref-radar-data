@@ -6,14 +6,14 @@
   "why": "Compliance-first AI investment desk that runs ai-hedge-fund backtests behind a risk-gate, with cron monitoring and memory review.",
   "keys": {
     "races": [
-      "agents/skills",
       "finance/markets",
-      "finance/trading"
+      "finance/trading",
+      "agents/skills"
     ],
     "lanes": [
-      "agents/skills",
       "finance/markets",
-      "finance/trading"
+      "finance/trading",
+      "agents/skills"
     ],
     "capabilities": [
       "finance/markets/research-terminals",
@@ -42,7 +42,8 @@
     "last_commit_at": "2026-09-23T06:57:30Z",
     "releases": 0,
     "tags": 0,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "copy",
   "maturity": "new",

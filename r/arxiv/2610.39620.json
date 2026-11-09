@@ -1,0 +1,45 @@
+{
+  "archive": {
+    "page": "https://web.archive.org/web/20261107094949/https://arxiv.org/abs/2610.39620"
+  },
+  "id": "arxiv:2610.39620",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.39620",
+  "title": "Letting AI Formulate the Research Question: Autonomous Research Agents",
+  "why": "Two skills let a coding agent pick its own research question, then send the paper to a different model for peer review and revision.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/assistants/deep-research"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.39620"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

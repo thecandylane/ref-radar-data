@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:022be9314e4facd16826104a9f8033e1c5ed4fdc"
+  },
   "id": "gh:bmad-code-org/bmad-method",
   "kind": "repo",
   "url": "https://github.com/bmad-code-org/BMAD-METHOD",
@@ -7,13 +10,13 @@
   "keys": {
     "races": [
       "agents/context",
-      "agents/skills",
-      "practice/process"
+      "practice/process",
+      "agents/skills"
     ],
     "lanes": [
       "agents/context",
-      "agents/skills",
-      "practice/process"
+      "practice/process",
+      "agents/skills"
     ],
     "capabilities": [
       "agents/skills/agent-configs"
@@ -28,19 +31,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/bmad-code-org/BMAD-METHOD",
-    "sha": "61e01f82644c4bb533750cfa0d6d61ab61d2cc9b",
-    "file_url": "https://cdn.jsdelivr.net/gh/bmad-code-org/BMAD-METHOD@61e01f82644c4bb533750cfa0d6d61ab61d2cc9b/{path}"
+    "sha": "022be9314e4facd16826104a9f8033e1c5ed4fdc",
+    "file_url": "https://cdn.jsdelivr.net/gh/bmad-code-org/BMAD-METHOD@022be9314e4facd16826104a9f8033e1c5ed4fdc/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 54917,
+    "stars": 55119,
     "size_mb": 54,
     "created_at": "2025-04-13T14:54:25Z",
-    "last_commit_at": "2026-11-02T17:53:33Z",
+    "last_commit_at": "2026-11-08T03:38:56Z",
     "releases": 44,
     "tags": 169,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v6.12.4",
+      "at": "2026-10-14T21:19:19.000Z"
+    }
   },
   "reuse": "study",
   "maturity": "stable",

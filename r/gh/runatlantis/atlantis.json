@@ -1,0 +1,61 @@
+{
+  "id": "gh:runatlantis/atlantis",
+  "kind": "repo",
+  "url": "https://github.com/runatlantis/atlantis",
+  "title": "atlantis",
+  "why": "Runs terraform plan and apply from pull request comments, so a team reviews infrastructure changes where the code lives.",
+  "keys": {
+    "races": [
+      "infra/iac",
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "infra/iac",
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/runatlantis/atlantis",
+    "sha": "3e90e44066c70739bbbb25a730b62813ef8b354a",
+    "file_url": "https://cdn.jsdelivr.net/gh/runatlantis/atlantis@3e90e44066c70739bbbb25a730b62813ef8b354a/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 9350,
+    "size_mb": 69,
+    "created_at": "2018-02-06T20:28:06Z",
+    "last_commit_at": "2026-11-06T01:19:53Z",
+    "releases": 167,
+    "tags": 168,
+    "archived": false,
+    "release": {
+      "tag": "v0.49.0",
+      "at": "2026-10-25T01:47:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

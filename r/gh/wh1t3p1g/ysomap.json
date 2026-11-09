@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b3ed19c42105694748d6f0236eaecc941f96222d"
+  },
+  "id": "gh:wh1t3p1g/ysomap",
+  "kind": "repo",
+  "url": "https://github.com/wh1t3p1g/ysomap",
+  "title": "ysomap",
+  "why": "Splits Java deserialization gadget chains into a reusable payload and a swappable bullet, so one chain can be paired with different final effects.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wh1t3p1g/ysomap",
+    "sha": "b3ed19c42105694748d6f0236eaecc941f96222d",
+    "file_url": "https://cdn.jsdelivr.net/gh/wh1t3p1g/ysomap@b3ed19c42105694748d6f0236eaecc941f96222d/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 1247,
+    "size_mb": 2,
+    "created_at": "2020-02-08T12:59:32Z",
+    "last_commit_at": "2025-02-17T06:35:50Z",
+    "releases": 6,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.5",
+      "at": "2023-12-04T15:00:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-04T09:51:41.443Z"
+  }
+}

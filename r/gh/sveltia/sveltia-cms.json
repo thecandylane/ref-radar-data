@@ -1,0 +1,61 @@
+{
+  "id": "gh:sveltia/sveltia-cms",
+  "kind": "repo",
+  "url": "https://github.com/sveltia/sveltia-cms",
+  "title": "sveltia-cms",
+  "why": "Git-based headless CMS built with Svelte that replaces Netlify and Decap CMS, with i18n and stock photo search.",
+  "keys": {
+    "races": [
+      "web/cms",
+      "web/static-sites"
+    ],
+    "lanes": [
+      "web/cms",
+      "web/static-sites"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sveltia/sveltia-cms",
+    "sha": "9075f60e2dd3022264a656e9e14917544753244b",
+    "file_url": "https://cdn.jsdelivr.net/gh/sveltia/sveltia-cms@9075f60e2dd3022264a656e9e14917544753244b/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 3055,
+    "size_mb": 46,
+    "created_at": "2023-03-06T15:09:55Z",
+    "last_commit_at": "2026-11-08T08:53:11Z",
+    "releases": 763,
+    "tags": 773,
+    "archived": false,
+    "release": {
+      "tag": "v0.261.0",
+      "at": "2026-11-06T02:32:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

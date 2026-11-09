@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9981d9d4aa5ec7b14bb46cf15763dd293a7dec6a"
+  },
+  "id": "gh:flipperdevices/flipperzero-firmware",
+  "kind": "repo",
+  "url": "https://github.com/flipperdevices/flipperzero-firmware",
+  "title": "flipperzero-firmware",
+  "why": "Firmware source for the Flipper Zero covering NFC, RFID, Sub-GHz and infrared on an STM32, built with the fbt tool.",
+  "keys": {
+    "races": [
+      "embedded/firmware"
+    ],
+    "lanes": [
+      "embedded/firmware"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "ReadMe.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/flipperdevices/flipperzero-firmware",
+    "sha": "9981d9d4aa5ec7b14bb46cf15763dd293a7dec6a",
+    "file_url": "https://cdn.jsdelivr.net/gh/flipperdevices/flipperzero-firmware@9981d9d4aa5ec7b14bb46cf15763dd293a7dec6a/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-3.0",
+    "stars": 16853,
+    "size_mb": 78,
+    "created_at": "2020-07-31T21:43:20Z",
+    "last_commit_at": "2026-11-07T23:50:12Z",
+    "releases": 272,
+    "tags": 306,
+    "archived": false,
+    "release": {
+      "tag": "1.5.1",
+      "at": "2026-10-15T09:28:40.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

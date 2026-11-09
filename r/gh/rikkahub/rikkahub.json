@@ -1,0 +1,63 @@
+{
+  "id": "gh:rikkahub/rikkahub",
+  "kind": "repo",
+  "url": "https://github.com/rikkahub/rikkahub",
+  "title": "rikkahub",
+  "why": "Android chat client in Kotlin and Jetpack Compose that talks to OpenRouter, Gemini, DeepSeek and other LLM providers, with MCP.",
+  "keys": {
+    "races": [
+      "llm-infra/chat-apps",
+      "mobile/android"
+    ],
+    "lanes": [
+      "llm-infra/chat-apps",
+      "mobile/android"
+    ],
+    "capabilities": [
+      "llm-infra/chat-apps/mobile-chat"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rikkahub/rikkahub",
+    "sha": "e85c1d901d30fa32d3c21a423432d940d77acddb",
+    "file_url": "https://cdn.jsdelivr.net/gh/rikkahub/rikkahub@e85c1d901d30fa32d3c21a423432d940d77acddb/{path}"
+  },
+  "facts": {
+    "lang": "Kotlin",
+    "license": "AGPL-3.0",
+    "stars": 8717,
+    "size_mb": 80,
+    "created_at": "2025-03-11T14:46:55Z",
+    "last_commit_at": "2026-11-07T10:14:30Z",
+    "releases": 184,
+    "tags": 190,
+    "archived": false,
+    "release": {
+      "tag": "3.1.2",
+      "at": "2026-11-07T10:20:16.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

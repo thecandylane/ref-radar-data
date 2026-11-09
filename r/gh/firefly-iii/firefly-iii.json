@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d65e916130c91d8f13ca808ca088d225ddd9a939"
+  },
   "id": "gh:firefly-iii/firefly-iii",
   "kind": "repo",
   "url": "https://github.com/firefly-iii/firefly-iii",
@@ -34,13 +37,17 @@
   "facts": {
     "lang": "PHP",
     "license": "AGPL-3.0",
-    "stars": 25065,
+    "stars": 25169,
     "size_mb": 314,
     "created_at": "2014-06-28T07:37:32Z",
     "last_commit_at": "2026-10-26T16:40:14Z",
     "releases": 339,
-    "tags": 1306,
-    "archived": false
+    "tags": 1309,
+    "archived": false,
+    "release": {
+      "tag": "v6.7.9",
+      "at": "2026-10-11T19:16:51.000Z"
+    }
   },
   "reuse": "copyleft",
   "maturity": "stable",
@@ -50,7 +57,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 55,
+    "star_delta_7d": 111,
     "votes": {},
     "ranks": {}
   },

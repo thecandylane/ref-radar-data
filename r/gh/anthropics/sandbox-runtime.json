@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:98a4016d27609ed34dd1fb43d23ed6efb6eeeb77"
+  },
   "id": "gh:anthropics/sandbox-runtime",
   "kind": "repo",
   "url": "https://github.com/anthropics/sandbox-runtime",
@@ -34,13 +37,17 @@
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 6933,
+    "stars": 7026,
     "size_mb": 12,
     "created_at": "2025-10-20T02:52:10Z",
-    "last_commit_at": "2026-10-25T22:32:22Z",
+    "last_commit_at": "2026-11-06T01:44:21Z",
     "releases": 44,
     "tags": 44,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v0.0.81",
+      "at": "2026-10-20T01:01:41.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -50,8 +57,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 112,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "hot": true
 }

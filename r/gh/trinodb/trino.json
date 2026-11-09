@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:43424969fb1d882cace1c9439a90650005ad4b28"
+  },
+  "id": "gh:trinodb/trino",
+  "kind": "repo",
+  "url": "https://github.com/trinodb/trino",
+  "title": "trino",
+  "why": "Java SQL query engine for querying data lakes such as Iceberg and Delta Lake across a cluster, with a JDBC client and plugins.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/databases",
+      "data/analytics"
+    ],
+    "capabilities": [
+      "data/databases/distributed-sql"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/trinodb/trino",
+    "sha": "43424969fb1d882cace1c9439a90650005ad4b28",
+    "file_url": "https://raw.githubusercontent.com/trinodb/trino/43424969fb1d882cace1c9439a90650005ad4b28/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 13482,
+    "size_mb": 323,
+    "created_at": "2019-01-19T06:38:14Z",
+    "last_commit_at": "2026-11-07T21:46:48Z",
+    "releases": 8,
+    "tags": 419,
+    "archived": false,
+    "release": {
+      "tag": "484",
+      "at": "2026-10-16T00:08:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c133c3853faa111a9b00ee615c013b720d0c4acd"
+  },
+  "id": "gh:mrexodia/ida-pro-mcp",
+  "kind": "repo",
+  "url": "https://github.com/mrexodia/ida-pro-mcp",
+  "title": "ida-pro-mcp",
+  "why": "Lets a language model drive IDA Pro through MCP for binary analysis, with plugin files for Claude and Codex.",
+  "keys": {
+    "races": [
+      "cyber/reversing",
+      "agents/tools"
+    ],
+    "lanes": [
+      "cyber/reversing",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "cyber/reversing/agentic-re",
+      "cyber/reversing/disassemblers",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mrexodia/ida-pro-mcp",
+    "sha": "c133c3853faa111a9b00ee615c013b720d0c4acd",
+    "file_url": "https://cdn.jsdelivr.net/gh/mrexodia/ida-pro-mcp@c133c3853faa111a9b00ee615c013b720d0c4acd/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 13404,
+    "size_mb": 2,
+    "created_at": "2025-03-25T22:23:41Z",
+    "last_commit_at": "2026-09-26T15:42:10Z",
+    "releases": 3,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "1.4.0",
+      "at": "2025-10-06T13:28:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

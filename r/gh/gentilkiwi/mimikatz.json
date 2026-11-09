@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9182d90b613fa472c7b8feb3fd716b4b98a2859b"
+  },
+  "id": "gh:gentilkiwi/mimikatz",
+  "kind": "repo",
+  "url": "https://github.com/gentilkiwi/mimikatz",
+  "title": "mimikatz",
+  "why": "C codebase for studying Windows security, with mimidrv and mimilib components and a YARA rules file.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/identity"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gentilkiwi/mimikatz",
+    "sha": "9182d90b613fa472c7b8feb3fd716b4b98a2859b",
+    "file_url": "https://cdn.jsdelivr.net/gh/gentilkiwi/mimikatz@9182d90b613fa472c7b8feb3fd716b4b98a2859b/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 21958,
+    "size_mb": 7,
+    "created_at": "2014-04-06T18:30:02Z",
+    "last_commit_at": "2026-10-30T08:51:44Z",
+    "releases": 11,
+    "tags": 12,
+    "archived": false,
+    "release": {
+      "tag": "2.2.0-20220919",
+      "at": "2022-09-19T15:55:03.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

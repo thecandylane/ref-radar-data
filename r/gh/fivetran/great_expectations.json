@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e9adc77e24df0feb4ecdbdf80508f33f12eee414"
+  },
+  "id": "gh:fivetran/great_expectations",
+  "kind": "repo",
+  "url": "https://github.com/fivetran/great_expectations",
+  "title": "great_expectations",
+  "why": "Writes data quality checks as expectations and runs them as unit tests inside pipelines, so bad data gets flagged early.",
+  "keys": {
+    "races": [
+      "data/pipelines",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "data/pipelines",
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fivetran/great_expectations",
+    "sha": "e9adc77e24df0feb4ecdbdf80508f33f12eee414",
+    "file_url": "https://raw.githubusercontent.com/fivetran/great_expectations/e9adc77e24df0feb4ecdbdf80508f33f12eee414/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 11920,
+    "size_mb": 248,
+    "created_at": "2017-09-11T00:18:46Z",
+    "last_commit_at": "2026-11-05T15:10:29Z",
+    "releases": 355,
+    "tags": 391,
+    "archived": false,
+    "release": {
+      "tag": "1.24.1",
+      "at": "2026-10-22T22:09:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

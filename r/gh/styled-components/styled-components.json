@@ -1,0 +1,63 @@
+{
+  "id": "gh:styled-components/styled-components",
+  "kind": "repo",
+  "url": "https://github.com/styled-components/styled-components",
+  "title": "styled-components",
+  "why": "CSS-in-JS styling for React with one API across server components, streaming SSR and React Native.",
+  "keys": {
+    "races": [
+      "web/css"
+    ],
+    "lanes": [
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/styled-components/styled-components",
+    "sha": "734e2b34c3eae9474da6e691b4897f58ab0b3e4f",
+    "file_url": "https://cdn.jsdelivr.net/gh/styled-components/styled-components@734e2b34c3eae9474da6e691b4897f58ab0b3e4f/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 41048,
+    "size_mb": 42,
+    "created_at": "2016-08-16T06:41:32Z",
+    "last_commit_at": "2026-11-08T05:20:10Z",
+    "releases": 268,
+    "tags": 355,
+    "archived": false,
+    "release": {
+      "tag": "styled-components@6.6.0",
+      "at": "2026-10-12T19:01:04.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "gh:thanos-io/thanos",
+  "kind": "repo",
+  "url": "https://github.com/thanos-io/thanos",
+  "title": "thanos",
+  "why": "Adds object-storage retention and a global query view on top of Prometheus servers, keeping metrics available across HA pairs.",
+  "keys": {
+    "races": [
+      "infra/observability",
+      "data/storage"
+    ],
+    "lanes": [
+      "infra/observability",
+      "data/storage"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/thanos-io/thanos",
+    "sha": "df1f3f3d5e72769dc639cb6006a7972b168672ce",
+    "file_url": "https://cdn.jsdelivr.net/gh/thanos-io/thanos@df1f3f3d5e72769dc639cb6006a7972b168672ce/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 14268,
+    "size_mb": 239,
+    "created_at": "2017-11-01T17:38:03Z",
+    "last_commit_at": "2026-11-04T15:46:58Z",
+    "releases": 145,
+    "tags": 146,
+    "archived": false,
+    "release": {
+      "tag": "v0.42.5",
+      "at": "2026-10-27T10:58:35.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

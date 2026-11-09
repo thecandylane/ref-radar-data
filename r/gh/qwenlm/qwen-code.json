@@ -28,19 +28,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/QwenLM/qwen-code",
-    "sha": "54d47667d2a8c0038a2fe998bba8388f86a7459e",
-    "file_url": "https://raw.githubusercontent.com/QwenLM/qwen-code/54d47667d2a8c0038a2fe998bba8388f86a7459e/{path}"
+    "sha": "bff144a5286348977a8a990126d6cea7e49445fb",
+    "file_url": "https://raw.githubusercontent.com/QwenLM/qwen-code/bff144a5286348977a8a990126d6cea7e49445fb/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 28910,
-    "size_mb": 1380,
+    "stars": 29082,
+    "size_mb": 1405,
     "created_at": "2025-06-26T01:37:46Z",
-    "last_commit_at": "2026-11-03T08:50:24Z",
-    "releases": 616,
-    "tags": 842,
-    "archived": false
+    "last_commit_at": "2026-11-08T09:13:22Z",
+    "releases": 628,
+    "tags": 854,
+    "archived": false,
+    "release": {
+      "tag": "sdk-typescript-v0.1.30",
+      "at": "2026-11-08T00:55:56.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

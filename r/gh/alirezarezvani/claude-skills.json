@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:8f082544116fc0d014188e521ca40304cdfc86b0"
+  },
   "id": "gh:alirezarezvani/claude-skills",
   "kind": "repo",
   "url": "https://github.com/alirezarezvani/claude-skills",
@@ -24,19 +27,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/alirezarezvani/claude-skills",
-    "sha": "e4a1dc3695908dd5a6c811cc76ab7aa4cf95f2f0",
-    "file_url": "https://cdn.jsdelivr.net/gh/alirezarezvani/claude-skills@e4a1dc3695908dd5a6c811cc76ab7aa4cf95f2f0/{path}"
+    "sha": "8f082544116fc0d014188e521ca40304cdfc86b0",
+    "file_url": "https://cdn.jsdelivr.net/gh/alirezarezvani/claude-skills@8f082544116fc0d014188e521ca40304cdfc86b0/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 29196,
-    "size_mb": 23,
+    "stars": 29464,
+    "size_mb": 24,
     "created_at": "2025-10-19T04:04:05Z",
-    "last_commit_at": "2026-11-03T07:23:15Z",
-    "releases": 15,
-    "tags": 16,
-    "archived": false
+    "last_commit_at": "2026-11-05T06:57:49Z",
+    "releases": 17,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "v2.14.9",
+      "at": "2026-11-05T06:58:09.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

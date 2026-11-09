@@ -8,16 +8,16 @@
     "races": [
       "agents/context",
       "agents/memory",
-      "agents/tools",
       "cyber/agent-security",
-      "llm-infra/evals"
+      "llm-infra/evals",
+      "agents/tools"
     ],
     "lanes": [
       "agents/context",
       "agents/memory",
-      "agents/tools",
       "cyber/agent-security",
-      "llm-infra/evals"
+      "llm-infra/evals",
+      "agents/tools"
     ],
     "capabilities": [
       "agents/tools/mcp-servers"
@@ -38,13 +38,14 @@
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 590,
+    "stars": 586,
     "size_mb": 0,
     "created_at": "2026-08-17T15:55:55Z",
     "last_commit_at": "2026-10-03T22:55:28Z",
     "releases": 0,
     "tags": 1,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "study",
   "maturity": "new",

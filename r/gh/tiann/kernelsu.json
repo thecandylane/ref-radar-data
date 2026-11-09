@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:28db74f6f4692e97006ce9ebd8b19b9cc614b5b7"
+  },
+  "id": "gh:tiann/kernelsu",
+  "kind": "repo",
+  "url": "https://github.com/tiann/KernelSU",
+  "title": "KernelSU",
+  "why": "Kernel-level root access for Android, with a Rust userspace and a Kotlin manager app.",
+  "keys": {
+    "races": [
+      "systems/os",
+      "mobile/android"
+    ],
+    "lanes": [
+      "systems/os",
+      "mobile/android"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tiann/KernelSU",
+    "sha": "28db74f6f4692e97006ce9ebd8b19b9cc614b5b7",
+    "file_url": "https://cdn.jsdelivr.net/gh/tiann/KernelSU@28db74f6f4692e97006ce9ebd8b19b9cc614b5b7/{path}"
+  },
+  "facts": {
+    "lang": "Kotlin",
+    "license": "GPL-3.0",
+    "stars": 20285,
+    "size_mb": 29,
+    "created_at": "2022-12-09T14:03:54Z",
+    "last_commit_at": "2026-11-07T02:33:54Z",
+    "releases": 51,
+    "tags": 60,
+    "archived": false,
+    "release": {
+      "tag": "v3.3.1",
+      "at": "2026-10-12T22:52:06.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

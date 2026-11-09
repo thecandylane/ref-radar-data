@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:581f7a3251545a97f66ee92b674dd810ee380a00"
+  },
+  "id": "gh:androguard/androguard",
+  "kind": "repo",
+  "url": "https://github.com/androguard/androguard",
+  "title": "androguard",
+  "why": "Lets an agent open an APK through an MCP server or Claude Code skills, then decompile methods and scan for vulnerabilities.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "cyber/reversing",
+      "mobile/android",
+      "agents/skills",
+      "agents/tools"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "cyber/reversing",
+      "mobile/android",
+      "agents/skills",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery",
+      "cyber/reversing/disassemblers",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/androguard/androguard",
+    "sha": "581f7a3251545a97f66ee92b674dd810ee380a00",
+    "file_url": "https://cdn.jsdelivr.net/gh/androguard/androguard@581f7a3251545a97f66ee92b674dd810ee380a00/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 6411,
+    "size_mb": 111,
+    "created_at": "2014-09-12T08:48:56Z",
+    "last_commit_at": "2026-10-25T09:40:24Z",
+    "releases": 24,
+    "tags": 32,
+    "archived": false,
+    "release": {
+      "tag": "v4.1.4",
+      "at": "2026-06-05T06:42:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

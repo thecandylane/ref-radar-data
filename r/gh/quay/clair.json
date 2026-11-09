@@ -1,0 +1,67 @@
+{
+  "id": "gh:quay/clair",
+  "kind": "repo",
+  "url": "https://github.com/quay/clair",
+  "title": "clair",
+  "why": "Indexes container images layer by layer and matches them against vulnerability data, with a notifier for new findings.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "infra/containers"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "infra/containers"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/quay/clair",
+    "sha": "2f1f7d22e020fdc310890b9c58d407d229aa4b48",
+    "file_url": "https://cdn.jsdelivr.net/gh/quay/clair@2f1f7d22e020fdc310890b9c58d407d229aa4b48/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 11088,
+    "size_mb": 36,
+    "created_at": "2015-11-13T18:46:16Z",
+    "last_commit_at": "2026-11-03T22:53:02Z",
+    "releases": 103,
+    "tags": 137,
+    "archived": false,
+    "release": {
+      "tag": "v4.9.0",
+      "at": "2025-12-10T18:34:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

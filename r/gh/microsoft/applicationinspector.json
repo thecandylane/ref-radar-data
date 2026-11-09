@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d9da79d88ff7a33aa6e6134b348872ad4aebe4bb"
+  },
   "id": "gh:microsoft/applicationinspector",
   "kind": "repo",
   "url": "https://github.com/microsoft/ApplicationInspector",
@@ -32,13 +35,17 @@
   "facts": {
     "lang": "C#",
     "license": "MIT",
-    "stars": 4401,
+    "stars": 4402,
     "size_mb": 21,
     "created_at": "2019-10-07T20:30:29Z",
     "last_commit_at": "2026-09-14T22:44:58Z",
     "releases": 205,
     "tags": 232,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v1.10.2",
+      "at": "2026-09-10T18:46:55.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

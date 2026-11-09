@@ -1,0 +1,55 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9b90d4276f84feed6333286afeb7e1250379a1da"
+  },
+  "id": "gh:vulhub/vulhub",
+  "kind": "repo",
+  "url": "https://github.com/vulhub/vulhub",
+  "title": "vulhub",
+  "why": "Spin up a known-vulnerable Jenkins, Struts2, Log4j or WordPress from a docker-compose folder to practice attacks safely.",
+  "keys": {
+    "races": [
+      "learning/security-labs"
+    ],
+    "lanes": [
+      "learning/security-labs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vulhub/vulhub",
+    "sha": "9b90d4276f84feed6333286afeb7e1250379a1da",
+    "file_url": "https://cdn.jsdelivr.net/gh/vulhub/vulhub@9b90d4276f84feed6333286afeb7e1250379a1da/{path}"
+  },
+  "facts": {
+    "lang": "Dockerfile",
+    "license": "MIT",
+    "stars": 21457,
+    "size_mb": 183,
+    "created_at": "2017-04-09T10:13:13Z",
+    "last_commit_at": "2026-10-17T20:59:35Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

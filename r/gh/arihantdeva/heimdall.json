@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:0bce85902ef75e37ad9a6c097bda432d3b958203"
+  },
   "id": "gh:arihantdeva/heimdall",
   "kind": "repo",
   "url": "https://github.com/ArihantDeva/heimdall",
@@ -41,7 +44,11 @@
     "last_commit_at": "2026-11-02T04:32:48Z",
     "releases": 1,
     "tags": 9,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v0.9.0",
+      "at": "2026-09-06T15:32:42.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "new",

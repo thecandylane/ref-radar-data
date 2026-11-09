@@ -6,12 +6,12 @@
   "why": "Try 400 interactive UI elements in the browser, then copy one as a prompt for an AI coding tool or as working code.",
   "keys": {
     "races": [
-      "agents/skills",
-      "web/ui-components"
+      "web/ui-components",
+      "agents/skills"
     ],
     "lanes": [
-      "agents/skills",
-      "web/ui-components"
+      "web/ui-components",
+      "agents/skills"
     ],
     "capabilities": []
   },
@@ -34,13 +34,14 @@
   "facts": {
     "lang": "HTML",
     "license": "MIT",
-    "stars": 285,
+    "stars": 305,
     "size_mb": 4,
     "created_at": "2026-10-12T09:01:47Z",
     "last_commit_at": "2026-10-16T09:26:32Z",
     "releases": 0,
     "tags": 0,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "copy",
   "maturity": "new",

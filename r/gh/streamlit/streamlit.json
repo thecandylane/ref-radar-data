@@ -1,0 +1,61 @@
+{
+  "id": "gh:streamlit/streamlit",
+  "kind": "repo",
+  "url": "https://github.com/streamlit/streamlit",
+  "title": "streamlit",
+  "why": "Turn a Python script into an interactive data app you can share, with a frontend folder and protobuf messages to the browser.",
+  "keys": {
+    "races": [
+      "data/analytics",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "data/analytics",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/streamlit/streamlit",
+    "sha": "fc66ba0c4566677ffae4936a10a02550c9c8cf2f",
+    "file_url": "https://raw.githubusercontent.com/streamlit/streamlit/fc66ba0c4566677ffae4936a10a02550c9c8cf2f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 46270,
+    "size_mb": 1237,
+    "created_at": "2019-08-24T00:14:52Z",
+    "last_commit_at": "2026-11-07T11:37:12Z",
+    "releases": 132,
+    "tags": 2656,
+    "archived": false,
+    "release": {
+      "tag": "1.67.0",
+      "at": "2026-11-05T19:54:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

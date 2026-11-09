@@ -1,0 +1,57 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:83021e2be457a9b6679148719c1f6074f0ad975e"
+  },
+  "id": "gh:agentskills/agentskills",
+  "kind": "repo",
+  "url": "https://github.com/agentskills/agentskills",
+  "title": "agentskills",
+  "why": "Defines the Agent Skills format and ships a skills-ref folder, so skill authors can see what a valid skill looks like.",
+  "keys": {
+    "races": [
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/skills/plugin-specs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/agentskills/agentskills",
+    "sha": "83021e2be457a9b6679148719c1f6074f0ad975e",
+    "file_url": "https://cdn.jsdelivr.net/gh/agentskills/agentskills@83021e2be457a9b6679148719c1f6074f0ad975e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 27054,
+    "size_mb": 1,
+    "created_at": "2025-12-16T15:47:19Z",
+    "last_commit_at": "2026-11-04T19:47:24Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

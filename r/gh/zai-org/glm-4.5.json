@@ -1,0 +1,57 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:170f20b2c10659008fdbc909d478bc2a75bc3627"
+  },
+  "id": "gh:zai-org/glm-4.5",
+  "kind": "repo",
+  "url": "https://github.com/zai-org/GLM-4.5",
+  "title": "GLM-4.5",
+  "why": "Model family README with inference code and examples for GLM-4.5, an MoE LLM tuned for agent, reasoning and coding tasks.",
+  "keys": {
+    "races": [
+      "ml/open-models",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "ml/open-models",
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zai-org/GLM-4.5",
+    "sha": "170f20b2c10659008fdbc909d478bc2a75bc3627",
+    "file_url": "https://cdn.jsdelivr.net/gh/zai-org/GLM-4.5@170f20b2c10659008fdbc909d478bc2a75bc3627/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 4426,
+    "size_mb": 9,
+    "created_at": "2025-07-20T09:24:09Z",
+    "last_commit_at": "2026-02-01T08:28:10Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

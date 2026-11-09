@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:036ed1ffd2397bca01d24e3b924476f9e94e47fa"
+  },
+  "id": "gh:deimosc2/deimosc2",
+  "kind": "repo",
+  "url": "https://github.com/DeimosC2/DeimosC2",
+  "title": "DeimosC2",
+  "why": "Runs command and control for post-exploitation over QUIC, HTTPS, or DNS over HTTPS, written in Go.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/DeimosC2/DeimosC2",
+    "sha": "036ed1ffd2397bca01d24e3b924476f9e94e47fa",
+    "file_url": "https://raw.githubusercontent.com/DeimosC2/DeimosC2/036ed1ffd2397bca01d24e3b924476f9e94e47fa/{path}"
+  },
+  "facts": {
+    "lang": "Vue",
+    "license": "MIT",
+    "stars": 1167,
+    "size_mb": 95,
+    "created_at": "2020-06-30T19:24:13Z",
+    "last_commit_at": "2025-04-17T17:49:44Z",
+    "releases": 2,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "1.1.0",
+      "at": "2020-08-10T20:19:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "contains raw shellcode bytes",
+      "offensive or proof-of-concept code",
+      "a YARA rule for offensive tools matched"
+    ],
+    "scanned_at": "2026-11-04T09:42:10.252Z"
+  }
+}

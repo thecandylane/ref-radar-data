@@ -1,0 +1,57 @@
+{
+  "id": "gh:kubernetes-sigs/kubespray",
+  "kind": "repo",
+  "url": "https://github.com/kubernetes-sigs/kubespray",
+  "title": "kubespray",
+  "why": "Ansible playbooks that install a highly available Kubernetes cluster on bare metal or cloud, with playbooks to scale, upgrade and reset it.",
+  "keys": {
+    "races": [
+      "infra/kubernetes",
+      "infra/iac"
+    ],
+    "lanes": [
+      "infra/kubernetes",
+      "infra/iac"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kubernetes-sigs/kubespray",
+    "sha": "d5cd72b1ee8ed9a7991b8f04e61d5e6431871fb1",
+    "file_url": "https://cdn.jsdelivr.net/gh/kubernetes-sigs/kubespray@d5cd72b1ee8ed9a7991b8f04e61d5e6431871fb1/{path}"
+  },
+  "facts": {
+    "lang": "Jinja",
+    "license": "Apache-2.0",
+    "stars": 18822,
+    "size_mb": 29,
+    "created_at": "2015-10-03T20:18:11Z",
+    "last_commit_at": "2026-11-08T05:17:36Z",
+    "releases": 82,
+    "tags": 91,
+    "archived": false,
+    "release": {
+      "tag": "v2.32.0",
+      "at": "2026-09-22T04:37:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

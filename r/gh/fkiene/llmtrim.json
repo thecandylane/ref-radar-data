@@ -1,0 +1,66 @@
+{
+  "id": "gh:fkiene/llmtrim",
+  "kind": "repo",
+  "url": "https://github.com/fkiene/llmtrim",
+  "title": "llmtrim",
+  "why": "Cuts API spend through a local proxy: -31% input and -74% output tokens measured live, with no extra model calls.",
+  "keys": {
+    "races": [
+      "agents/context",
+      "llm-infra/gateways",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/context",
+      "llm-infra/gateways",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/context/output-compression",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fkiene/llmtrim",
+    "sha": "7dce1a46c55195f16b2e36cc675581b5ad7006e9",
+    "file_url": "https://cdn.jsdelivr.net/gh/fkiene/llmtrim@7dce1a46c55195f16b2e36cc675581b5ad7006e9/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MPL-2.0",
+    "stars": 268,
+    "size_mb": 4,
+    "created_at": "2026-06-07T19:58:56Z",
+    "last_commit_at": "2026-11-02T17:14:51Z",
+    "releases": 65,
+    "tags": 65,
+    "archived": false,
+    "release": {
+      "tag": "v0.13.8",
+      "at": "2026-11-02T17:15:00.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b548a6363568e5e7c0dc0c15d24e7a3a19cff5fc"
+  },
   "id": "gh:codewhale-hq/codewhale",
   "kind": "repo",
   "url": "https://github.com/codewhale-hq/Codewhale",
@@ -37,13 +40,17 @@
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 41162,
-    "size_mb": 335,
+    "stars": 41159,
+    "size_mb": 353,
     "created_at": "2026-01-19T18:21:01Z",
-    "last_commit_at": "2026-11-03T08:40:01Z",
+    "last_commit_at": "2026-11-08T08:47:38Z",
     "releases": 140,
     "tags": 183,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v0.10.2",
+      "at": "2026-10-24T17:31:14.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

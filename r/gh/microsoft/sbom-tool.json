@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4d2b44739b4317ff2655b4076292ca2522d376bf"
+  },
+  "id": "gh:microsoft/sbom-tool",
+  "kind": "repo",
+  "url": "https://github.com/microsoft/sbom-tool",
+  "title": "sbom-tool",
+  "why": "Generates SPDX 2.2 SBOMs for build artifacts from a .NET command line tool that scales to large builds.",
+  "keys": {
+    "races": [
+      "cyber/supply-chain"
+    ],
+    "lanes": [
+      "cyber/supply-chain"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microsoft/sbom-tool",
+    "sha": "4d2b44739b4317ff2655b4076292ca2522d376bf",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/sbom-tool@4d2b44739b4317ff2655b4076292ca2522d376bf/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "MIT",
+    "stars": 2093,
+    "size_mb": 3,
+    "created_at": "2022-06-01T16:58:49Z",
+    "last_commit_at": "2026-09-21T23:21:03Z",
+    "releases": 70,
+    "tags": 97,
+    "archived": false,
+    "release": {
+      "tag": "v4.1.5",
+      "at": "2025-12-15T21:40:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

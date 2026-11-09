@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d71034ae4f619169e3268c546fa87e8bab5d759b"
+  },
+  "id": "gh:google/grr",
+  "kind": "repo",
+  "url": "https://github.com/google/grr",
+  "title": "grr",
+  "why": "Python agents on endpoints let responders pull live forensic data remotely during an incident.",
+  "keys": {
+    "races": [
+      "cyber/detection"
+    ],
+    "lanes": [
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google/grr",
+    "sha": "d71034ae4f619169e3268c546fa87e8bab5d759b",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/grr@d71034ae4f619169e3268c546fa87e8bab5d759b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 5109,
+    "size_mb": 167,
+    "created_at": "2013-12-04T00:17:53Z",
+    "last_commit_at": "2026-10-01T16:04:33Z",
+    "releases": 31,
+    "tags": 32,
+    "archived": false,
+    "release": {
+      "tag": "v.4.0.0.0-release",
+      "at": "2025-12-15T17:12:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

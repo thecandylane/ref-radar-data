@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4f4d6125f7044f25d04e2684894d5bd71fcdbee0"
+  },
+  "id": "gh:opencv/opencv",
+  "kind": "repo",
+  "url": "https://github.com/opencv/opencv",
+  "title": "opencv",
+  "why": "Image-processing and deep-learning routines in C++ modules, with samples and apps to try them.",
+  "keys": {
+    "races": [
+      "ml/vision"
+    ],
+    "lanes": [
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/opencv/opencv",
+    "sha": "4f4d6125f7044f25d04e2684894d5bd71fcdbee0",
+    "file_url": "https://raw.githubusercontent.com/opencv/opencv/4f4d6125f7044f25d04e2684894d5bd71fcdbee0/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 91482,
+    "size_mb": 558,
+    "created_at": "2012-07-19T09:40:17Z",
+    "last_commit_at": "2026-11-08T08:47:11Z",
+    "releases": 70,
+    "tags": 133,
+    "archived": false,
+    "release": {
+      "tag": "5.1.0",
+      "at": "2026-11-06T09:58:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

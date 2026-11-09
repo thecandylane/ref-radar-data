@@ -1,0 +1,41 @@
+{
+  "archive": {
+    "page": "https://web.archive.org/web/20261102015932/https://arxiv.org/abs/2409.02292"
+  },
+  "id": "arxiv:2409.02292",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2409.02292",
+  "title": "RAMBO: Leaking Secrets from Air-Gap Computers by Spelling Covert Radio Signals from Computer RAM",
+  "why": "Covert radio signals from RAM carry secrets off air-gapped systems, reaching 1000 bits per second, plus countermeasures.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2409.02292"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

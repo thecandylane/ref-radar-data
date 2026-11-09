@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d1685127b1381da08432dcafb49e496ec0eed703"
+  },
+  "id": "gh:kubernetes-sigs/kustomize",
+  "kind": "repo",
+  "url": "https://github.com/kubernetes-sigs/kustomize",
+  "title": "kustomize",
+  "why": "Builds variants of Kubernetes YAML files without templating, and extends the result through plugins and functions.",
+  "keys": {
+    "races": [
+      "infra/iac",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "infra/iac",
+      "infra/kubernetes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kubernetes-sigs/kustomize",
+    "sha": "d1685127b1381da08432dcafb49e496ec0eed703",
+    "file_url": "https://cdn.jsdelivr.net/gh/kubernetes-sigs/kustomize@d1685127b1381da08432dcafb49e496ec0eed703/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 12196,
+    "size_mb": 97,
+    "created_at": "2018-05-11T17:09:33Z",
+    "last_commit_at": "2026-11-07T01:01:39Z",
+    "releases": 288,
+    "tags": 367,
+    "archived": false,
+    "release": {
+      "tag": "kustomize/v5.8.3",
+      "at": "2026-10-08T11:49:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

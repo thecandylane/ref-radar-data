@@ -1,0 +1,61 @@
+{
+  "id": "gh:meta/pyrefly",
+  "kind": "repo",
+  "url": "https://github.com/meta/pyrefly",
+  "title": "pyrefly",
+  "why": "Checks Python type annotations and doubles as a language server for editors, written in Rust with a WASM build.",
+  "keys": {
+    "races": [
+      "dev-tools/editors",
+      "languages/type-systems"
+    ],
+    "lanes": [
+      "dev-tools/editors",
+      "languages/type-systems"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/meta/pyrefly",
+    "sha": "472656ea103cdc7f1777f1f3d819813281050ae1",
+    "file_url": "https://cdn.jsdelivr.net/gh/meta/pyrefly@472656ea103cdc7f1777f1f3d819813281050ae1/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 7189,
+    "size_mb": 2190,
+    "created_at": "2025-02-19T21:09:33Z",
+    "last_commit_at": "2026-11-08T00:24:02Z",
+    "releases": 76,
+    "tags": 153,
+    "archived": false,
+    "release": {
+      "tag": "1.4.1",
+      "at": "2026-11-05T02:45:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

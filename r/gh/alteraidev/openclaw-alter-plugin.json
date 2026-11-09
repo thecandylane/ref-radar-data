@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b967e7052375177d2a41bd7ea4d0e0d2c3d3e58d"
+  },
   "id": "gh:alteraidev/openclaw-alter-plugin",
   "kind": "repo",
   "url": "https://github.com/AlterAIDev/openclaw-alter-plugin",
@@ -47,7 +50,11 @@
     "last_commit_at": "2026-10-20T03:21:31Z",
     "releases": 3,
     "tags": 3,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v0.8.0",
+      "at": "2026-10-13T08:20:17.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "new",
@@ -60,6 +67,5 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  },
-  "fresh": true
+  }
 }

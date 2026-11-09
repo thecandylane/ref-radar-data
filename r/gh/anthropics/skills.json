@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ca45fc496a3436251f191354091d557da31c15b5"
+  },
   "id": "gh:anthropics/skills",
   "kind": "repo",
   "url": "https://github.com/anthropics/skills",
@@ -30,13 +33,14 @@
   "facts": {
     "lang": "Python",
     "license": "none",
-    "stars": 186915,
+    "stars": 189025,
     "size_mb": 5,
     "created_at": "2025-09-22T15:53:31Z",
-    "last_commit_at": "2026-10-28T19:20:38Z",
+    "last_commit_at": "2026-11-06T22:32:28Z",
     "releases": 0,
     "tags": 0,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "study",
   "maturity": "unreleased",

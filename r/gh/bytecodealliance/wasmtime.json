@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:33b89be10f104c3b9b106d8c832728a829206690"
+  },
+  "id": "gh:bytecodealliance/wasmtime",
+  "kind": "repo",
+  "url": "https://github.com/bytecodealliance/wasmtime",
+  "title": "wasmtime",
+  "why": "Standalone WebAssembly runtime in Rust built on Cranelift, with JIT and AOT modes and WASI support for sandboxed code.",
+  "keys": {
+    "races": [
+      "languages/compilers",
+      "languages/runtimes"
+    ],
+    "lanes": [
+      "languages/compilers",
+      "languages/runtimes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bytecodealliance/wasmtime",
+    "sha": "33b89be10f104c3b9b106d8c832728a829206690",
+    "file_url": "https://cdn.jsdelivr.net/gh/bytecodealliance/wasmtime@33b89be10f104c3b9b106d8c832728a829206690/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 18834,
+    "size_mb": 168,
+    "created_at": "2017-08-29T14:01:55Z",
+    "last_commit_at": "2026-11-07T09:46:55Z",
+    "releases": 233,
+    "tags": 265,
+    "archived": false,
+    "release": {
+      "tag": "v50.0.1",
+      "at": "2026-10-29T17:54:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

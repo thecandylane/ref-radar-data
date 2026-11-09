@@ -1,0 +1,59 @@
+{
+  "id": "gh:teach2breach/tempest",
+  "kind": "repo",
+  "url": "https://github.com/Teach2Breach/Tempest",
+  "title": "Tempest",
+  "why": "Splits its Rust code into Anvil, conduit and imps folders, so each part of the framework can be read on its own.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Teach2Breach/Tempest",
+    "sha": "b0fd2c7c491718960bae8862bd5e7d25cd59f20b",
+    "file_url": "https://cdn.jsdelivr.net/gh/Teach2Breach/Tempest@b0fd2c7c491718960bae8862bd5e7d25cd59f20b/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 390,
+    "size_mb": 1,
+    "created_at": "2024-08-10T14:20:05Z",
+    "last_commit_at": "2026-04-27T17:53:23Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-04T10:01:51.256Z"
+  }
+}

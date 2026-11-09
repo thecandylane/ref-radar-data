@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:312645d873478a77986627ab1fc8cffe595e85d4"
+  },
+  "id": "gh:sullo/nikto",
+  "kind": "repo",
+  "url": "https://github.com/sullo/nikto",
+  "title": "nikto",
+  "why": "Perl scanner that checks a web server for known problems, a classic first pass in a web pentest.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sullo/nikto",
+    "sha": "312645d873478a77986627ab1fc8cffe595e85d4",
+    "file_url": "https://cdn.jsdelivr.net/gh/sullo/nikto@312645d873478a77986627ab1fc8cffe595e85d4/{path}"
+  },
+  "facts": {
+    "lang": "Perl",
+    "license": "NOASSERTION",
+    "stars": 10834,
+    "size_mb": 6,
+    "created_at": "2012-11-24T04:24:29Z",
+    "last_commit_at": "2026-08-15T02:26:49Z",
+    "releases": 3,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "2.6.1",
+      "at": "2026-07-31T16:17:55.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7034495fd56124836d9b143a23189e4fcdc4be6b"
+  },
+  "id": "gh:arize-ai/phoenix",
+  "kind": "repo",
+  "url": "https://github.com/Arize-ai/phoenix",
+  "title": "phoenix",
+  "why": "Watch LLM apps and agents through observability traces and run evals on them, with LangChain, LlamaIndex and smolagents integrations.",
+  "keys": {
+    "races": [
+      "infra/observability",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "infra/observability",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Arize-ai/phoenix",
+    "sha": "7034495fd56124836d9b143a23189e4fcdc4be6b",
+    "file_url": "https://cdn.jsdelivr.net/gh/Arize-ai/phoenix@7034495fd56124836d9b143a23189e4fcdc4be6b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 12200,
+    "size_mb": 553,
+    "created_at": "2022-11-09T23:44:35Z",
+    "last_commit_at": "2026-11-07T11:10:12Z",
+    "releases": 903,
+    "tags": 958,
+    "archived": false,
+    "release": {
+      "tag": "@arizeai/phoenix-cli@1.20.1",
+      "at": "2026-11-07T00:08:09.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

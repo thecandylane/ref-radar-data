@@ -36,19 +36,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Tencent/WeKnora",
-    "sha": "40192ace214ca046a86b590d69c1fe7286f3423e",
-    "file_url": "https://raw.githubusercontent.com/Tencent/WeKnora/40192ace214ca046a86b590d69c1fe7286f3423e/{path}"
+    "sha": "e3fb2335bf3f8cadd32142380c60b2677a27bf99",
+    "file_url": "https://raw.githubusercontent.com/Tencent/WeKnora/e3fb2335bf3f8cadd32142380c60b2677a27bf99/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "NOASSERTION",
-    "stars": 36343,
+    "stars": 36782,
     "size_mb": 252,
     "created_at": "2025-07-22T08:01:23Z",
     "last_commit_at": "2026-11-03T03:33:47Z",
-    "releases": 42,
+    "releases": 0,
     "tags": 47,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v0.9.0",
+      "at": "2026-10-29T06:59:12.000Z"
+    }
   },
   "reuse": "study",
   "maturity": "stable",
@@ -58,7 +62,7 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 736,
+    "star_delta_7d": 550,
     "votes": {},
     "ranks": {}
   },

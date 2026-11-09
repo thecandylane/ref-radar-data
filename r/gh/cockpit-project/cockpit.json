@@ -1,0 +1,65 @@
+{
+  "id": "gh:cockpit-project/cockpit",
+  "kind": "repo",
+  "url": "https://github.com/cockpit-project/cockpit",
+  "title": "cockpit",
+  "why": "Manage a Linux server from the browser through modules in pkg, with selinux and container support files.",
+  "keys": {
+    "races": [
+      "infra/hosting"
+    ],
+    "lanes": [
+      "infra/hosting"
+    ],
+    "capabilities": [
+      "infra/hosting/control-panels"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cockpit-project/cockpit",
+    "sha": "aa7920c58b2d7be013705412991eca8fa8839597",
+    "file_url": "https://cdn.jsdelivr.net/gh/cockpit-project/cockpit@aa7920c58b2d7be013705412991eca8fa8839597/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 15349,
+    "size_mb": 277,
+    "created_at": "2013-11-01T17:36:46Z",
+    "last_commit_at": "2026-11-06T15:22:24Z",
+    "releases": 455,
+    "tags": 463,
+    "archived": false,
+    "release": {
+      "tag": "371",
+      "at": "2026-11-04T10:11:10.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:1f662e4cde375491b8c0da395630d2e60a11f785"
+  },
   "id": "gh:cert-manager/cert-manager",
   "kind": "repo",
   "url": "https://github.com/cert-manager/cert-manager",
@@ -38,19 +41,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/cert-manager/cert-manager",
-    "sha": "9cca11acf979723c7ec88e7c39f9518dc007f3e9",
-    "file_url": "https://cdn.jsdelivr.net/gh/cert-manager/cert-manager@9cca11acf979723c7ec88e7c39f9518dc007f3e9/{path}"
+    "sha": "1f662e4cde375491b8c0da395630d2e60a11f785",
+    "file_url": "https://cdn.jsdelivr.net/gh/cert-manager/cert-manager@1f662e4cde375491b8c0da395630d2e60a11f785/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 14145,
+    "stars": 14150,
     "size_mb": 102,
     "created_at": "2017-05-24T16:25:59Z",
-    "last_commit_at": "2026-11-02T15:47:02Z",
+    "last_commit_at": "2026-11-06T03:01:05Z",
     "releases": 259,
     "tags": 301,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v1.21.3",
+      "at": "2026-10-23T20:47:13.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

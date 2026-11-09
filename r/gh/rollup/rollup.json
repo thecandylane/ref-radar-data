@@ -1,0 +1,59 @@
+{
+  "id": "gh:rollup/rollup",
+  "kind": "repo",
+  "url": "https://github.com/rollup/rollup",
+  "title": "rollup",
+  "why": "ES module bundler with a Rust native part, configured through rollup.config.ts, and ARCHITECTURE.md explaining the source.",
+  "keys": {
+    "races": [
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rollup/rollup",
+    "sha": "6b1937666ffaffd346992115283d63336bd2464a",
+    "file_url": "https://cdn.jsdelivr.net/gh/rollup/rollup@6b1937666ffaffd346992115283d63336bd2464a/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "NOASSERTION",
+    "stars": 26300,
+    "size_mb": 37,
+    "created_at": "2015-05-14T22:26:28Z",
+    "last_commit_at": "2026-11-08T08:43:57Z",
+    "releases": 617,
+    "tags": 910,
+    "archived": false,
+    "release": {
+      "tag": "v4.68.0",
+      "at": "2026-11-06T16:55:13.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "gh:rajnathyadav6/fisch-devops-forge",
+  "kind": "repo",
+  "url": "https://github.com/rajnathyadav6/Fisch-DevOps-Forge",
+  "title": "Fisch-DevOps-Forge",
+  "why": "Replays recorded player sessions to catch regressions in Roblox games, with simulated network lag and packet loss.",
+  "keys": {
+    "races": [
+      "dev-tools/testing",
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "dev-tools/testing",
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rajnathyadav6/Fisch-DevOps-Forge",
+    "sha": "69745ef3ce15f973c1cb8e6af9736009e38e7abc",
+    "file_url": "https://cdn.jsdelivr.net/gh/rajnathyadav6/Fisch-DevOps-Forge@69745ef3ce15f973c1cb8e6af9736009e38e7abc/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "none",
+    "stars": 69,
+    "size_mb": 1,
+    "created_at": "2026-09-22T19:47:49Z",
+    "last_commit_at": "2026-11-08T03:35:01Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

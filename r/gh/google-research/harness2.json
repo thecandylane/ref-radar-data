@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:1cfe254e8d25b15f37048c3730134686abe60335"
+  },
   "id": "gh:google-research/harness2",
   "kind": "repo",
   "url": "https://github.com/google-research/harness2",
@@ -30,13 +33,14 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 22209,
+    "stars": 23086,
     "size_mb": 7,
     "created_at": "2026-10-06T21:48:11Z",
     "last_commit_at": "2026-11-02T02:17:27Z",
     "releases": 0,
     "tags": 0,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "copy",
   "maturity": "new",
@@ -46,10 +50,9 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 1916,
+    "star_delta_7d": 1100,
     "votes": {},
     "ranks": {}
   },
-  "fresh": true,
   "hot": true
 }

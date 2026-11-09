@@ -1,0 +1,59 @@
+{
+  "id": "gh:yaklang/yakit",
+  "kind": "repo",
+  "url": "https://github.com/yaklang/yakit",
+  "title": "yakit",
+  "why": "Drives the Yaklang engine through a GUI, intercepting and fuzzing traffic while one port can identify and answer several protocols at once.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/yaklang/yakit",
+    "sha": "997defaa1bd0c774686cfe3e72c7fd155572e749",
+    "file_url": "https://cdn.jsdelivr.net/gh/yaklang/yakit@997defaa1bd0c774686cfe3e72c7fd155572e749/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "AGPL-3.0",
+    "stars": 7865,
+    "size_mb": 202,
+    "created_at": "2021-10-12T02:15:42Z",
+    "last_commit_at": "2026-11-06T10:31:06Z",
+    "releases": 382,
+    "tags": 639,
+    "archived": false,
+    "release": {
+      "tag": "v1.4.9-1106",
+      "at": "2026-11-06T11:35:56.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

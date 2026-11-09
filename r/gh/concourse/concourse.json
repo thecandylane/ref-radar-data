@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ca8b6189f848c2165264277771bc041ddcbfba1f"
+  },
+  "id": "gh:concourse/concourse",
+  "kind": "repo",
+  "url": "https://github.com/concourse/concourse",
+  "title": "concourse",
+  "why": "Pipeline-driven CI in Go where every step runs in a container, with a fly CLI and web UI in the repo.",
+  "keys": {
+    "races": [
+      "infra/ci-cd",
+      "infra/containers"
+    ],
+    "lanes": [
+      "infra/ci-cd",
+      "infra/containers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/concourse/concourse",
+    "sha": "ca8b6189f848c2165264277771bc041ddcbfba1f",
+    "file_url": "https://cdn.jsdelivr.net/gh/concourse/concourse@ca8b6189f848c2165264277771bc041ddcbfba1f/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 7940,
+    "size_mb": 156,
+    "created_at": "2014-04-19T20:45:45Z",
+    "last_commit_at": "2026-11-04T12:16:31Z",
+    "releases": 223,
+    "tags": 401,
+    "archived": false,
+    "release": {
+      "tag": "v8.3.3",
+      "at": "2026-11-03T12:44:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

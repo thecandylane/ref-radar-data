@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e967b1e39b05a70d139081a26d95048e8dc36ccf"
+  },
+  "id": "gh:cypress-io/cypress",
+  "kind": "repo",
+  "url": "https://github.com/cypress-io/cypress",
+  "title": "cypress",
+  "why": "Browser test runner for end-to-end and component testing, installable with npm, Yarn or pnpm, plus test replay in the cloud.",
+  "keys": {
+    "races": [
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/testing"
+    ],
+    "capabilities": [
+      "dev-tools/testing/e2e-testing"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cypress-io/cypress",
+    "sha": "e967b1e39b05a70d139081a26d95048e8dc36ccf",
+    "file_url": "https://cdn.jsdelivr.net/gh/cypress-io/cypress@e967b1e39b05a70d139081a26d95048e8dc36ccf/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 51022,
+    "size_mb": 570,
+    "created_at": "2015-03-04T00:46:28Z",
+    "last_commit_at": "2026-11-07T17:22:13Z",
+    "releases": 408,
+    "tags": 926,
+    "archived": false,
+    "release": {
+      "tag": "v16.2.1",
+      "at": "2026-10-28T16:25:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

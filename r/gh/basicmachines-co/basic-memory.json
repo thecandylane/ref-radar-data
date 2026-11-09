@@ -1,0 +1,65 @@
+{
+  "id": "gh:basicmachines-co/basic-memory",
+  "kind": "repo",
+  "url": "https://github.com/basicmachines-co/basic-memory",
+  "title": "basic-memory",
+  "why": "Keeps AI conversation context as local Markdown notes that Obsidian can open, served to Claude over MCP so projects need no re-explaining.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/memory",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/memory/long-term-memory",
+      "agents/memory/knowledge-brains",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/basicmachines-co/basic-memory",
+    "sha": "eddb4c05dd0c6f6f421e79a6cd7dc536828f7c0c",
+    "file_url": "https://cdn.jsdelivr.net/gh/basicmachines-co/basic-memory@eddb4c05dd0c6f6f421e79a6cd7dc536828f7c0c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 4530,
+    "size_mb": 61,
+    "created_at": "2024-12-02T22:40:43Z",
+    "last_commit_at": "2026-11-07T23:12:48Z",
+    "releases": 93,
+    "tags": 111,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-10-29T23:45:31.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

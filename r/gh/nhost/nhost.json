@@ -1,0 +1,67 @@
+{
+  "id": "gh:nhost/nhost",
+  "kind": "repo",
+  "url": "https://github.com/nhost/nhost",
+  "title": "nhost",
+  "why": "Backend stack bundling Postgres, Hasura GraphQL, authentication, storage and serverless functions for web and Flutter apps.",
+  "keys": {
+    "races": [
+      "mobile/app-backends",
+      "data/databases",
+      "infra/serverless"
+    ],
+    "lanes": [
+      "mobile/app-backends",
+      "data/databases",
+      "infra/serverless"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nhost/nhost",
+    "sha": "b1f81d7889cf7e46faf920e8d5a214cabd3c8bc0",
+    "file_url": "https://raw.githubusercontent.com/nhost/nhost/b1f81d7889cf7e46faf920e8d5a214cabd3c8bc0/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 9375,
+    "size_mb": 923,
+    "created_at": "2021-02-09T13:33:34Z",
+    "last_commit_at": "2026-11-06T10:38:39Z",
+    "releases": 1000,
+    "tags": 1636,
+    "archived": false,
+    "release": {
+      "tag": "cli@1.52.2",
+      "at": "2026-10-26T14:22:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

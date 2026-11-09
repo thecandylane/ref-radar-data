@@ -1,0 +1,61 @@
+{
+  "id": "gh:mui/base-ui",
+  "kind": "repo",
+  "url": "https://github.com/mui/base-ui",
+  "title": "base-ui",
+  "why": "Unstyled React components that handle accessibility and WAI-ARIA, leaving the visual look of your design system to you.",
+  "keys": {
+    "races": [
+      "web/ui-components",
+      "design/accessibility"
+    ],
+    "lanes": [
+      "web/ui-components",
+      "design/accessibility"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mui/base-ui",
+    "sha": "cf696d6f6e08c699c5bda24d5a033430909f2285",
+    "file_url": "https://cdn.jsdelivr.net/gh/mui/base-ui@cf696d6f6e08c699c5bda24d5a033430909f2285/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 11328,
+    "size_mb": 50,
+    "created_at": "2024-02-23T13:23:54Z",
+    "last_commit_at": "2026-11-02T07:27:13Z",
+    "releases": 29,
+    "tags": 31,
+    "archived": false,
+    "release": {
+      "tag": "v1.9.0",
+      "at": "2026-10-09T08:50:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

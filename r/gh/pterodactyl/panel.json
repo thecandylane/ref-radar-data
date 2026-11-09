@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:90b2aa87469da4fffd941b3c99f3c1ca48a01b78"
+  },
+  "id": "gh:pterodactyl/panel",
+  "kind": "repo",
+  "url": "https://github.com/pterodactyl/panel",
+  "title": "panel",
+  "why": "Game server management panel in PHP, React and Go that isolates every server in its own Docker container.",
+  "keys": {
+    "races": [
+      "infra/hosting"
+    ],
+    "lanes": [
+      "infra/hosting"
+    ],
+    "capabilities": [
+      "infra/hosting/control-panels"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pterodactyl/panel",
+    "sha": "90b2aa87469da4fffd941b3c99f3c1ca48a01b78",
+    "file_url": "https://cdn.jsdelivr.net/gh/pterodactyl/panel@90b2aa87469da4fffd941b3c99f3c1ca48a01b78/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "NOASSERTION",
+    "stars": 9474,
+    "size_mb": 36,
+    "created_at": "2015-12-06T18:37:08Z",
+    "last_commit_at": "2026-10-21T15:22:26Z",
+    "releases": 141,
+    "tags": 143,
+    "archived": false,
+    "release": {
+      "tag": "v1.15.2",
+      "at": "2026-10-21T17:52:04.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

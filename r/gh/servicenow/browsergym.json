@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:27a90ce815098f43414e93491e06907af468e45b"
+  },
+  "id": "gh:servicenow/browsergym",
+  "kind": "repo",
+  "url": "https://github.com/ServiceNow/BrowserGym",
+  "title": "BrowserGym",
+  "why": "Browser tasks packaged as Gym environments for building and benchmarking LLM web agents, with a demo_agent included.",
+  "keys": {
+    "races": [
+      "agents/optimization",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "agents/optimization",
+      "llm-infra/evals"
+    ],
+    "capabilities": [
+      "agents/optimization/rl-environments"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ServiceNow/BrowserGym",
+    "sha": "27a90ce815098f43414e93491e06907af468e45b",
+    "file_url": "https://cdn.jsdelivr.net/gh/ServiceNow/BrowserGym@27a90ce815098f43414e93491e06907af468e45b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 1433,
+    "size_mb": 2,
+    "created_at": "2024-02-07T14:30:16Z",
+    "last_commit_at": "2026-10-28T06:29:43Z",
+    "releases": 59,
+    "tags": 69,
+    "archived": false,
+    "release": {
+      "tag": "v0.14.3",
+      "at": "2026-01-20T20:23:26.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:84feea3abb2ad45380752877b20c6a8454e1f2c5"
+  },
+  "id": "gh:timescale/timescaledb",
+  "kind": "repo",
+  "url": "https://github.com/timescale/timescaledb",
+  "title": "timescaledb",
+  "why": "Postgres extension that adds time-series storage and real-time analytics to an ordinary SQL database, written in C.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/databases",
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/timescale/timescaledb",
+    "sha": "84feea3abb2ad45380752877b20c6a8454e1f2c5",
+    "file_url": "https://cdn.jsdelivr.net/gh/timescale/timescaledb@84feea3abb2ad45380752877b20c6a8454e1f2c5/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 23826,
+    "size_mb": 66,
+    "created_at": "2017-03-07T20:03:41Z",
+    "last_commit_at": "2026-11-07T13:53:20Z",
+    "releases": 145,
+    "tags": 176,
+    "archived": false,
+    "release": {
+      "tag": "2.31.0",
+      "at": "2026-10-20T16:06:02.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

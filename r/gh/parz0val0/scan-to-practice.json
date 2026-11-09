@@ -6,14 +6,14 @@
   "why": "Skill that walks an agent from scanned learning materials through OCR to structured practice products, with quality assurance checks.",
   "keys": {
     "races": [
-      "agents/skills",
       "data/pipelines",
-      "ml/vision"
+      "ml/vision",
+      "agents/skills"
     ],
     "lanes": [
-      "agents/skills",
       "data/pipelines",
-      "ml/vision"
+      "ml/vision",
+      "agents/skills"
     ],
     "capabilities": []
   },
@@ -38,7 +38,8 @@
     "last_commit_at": "2026-08-12T10:06:59Z",
     "releases": 0,
     "tags": 0,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "copy",
   "maturity": "new",

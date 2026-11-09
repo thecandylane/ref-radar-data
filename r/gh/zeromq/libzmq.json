@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:46493370217ac135246617fa2f6ac819d8b61bfc"
+  },
+  "id": "gh:zeromq/libzmq",
+  "kind": "repo",
+  "url": "https://github.com/zeromq/libzmq",
+  "title": "libzmq",
+  "why": "C++ ZeroMQ core that gives sockets for pubsub and push-pull messaging between processes and machines over ZMTP.",
+  "keys": {
+    "races": [
+      "data/queues",
+      "infra/networking"
+    ],
+    "lanes": [
+      "data/queues",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zeromq/libzmq",
+    "sha": "46493370217ac135246617fa2f6ac819d8b61bfc",
+    "file_url": "https://cdn.jsdelivr.net/gh/zeromq/libzmq@46493370217ac135246617fa2f6ac819d8b61bfc/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MPL-2.0",
+    "stars": 11053,
+    "size_mb": 24,
+    "created_at": "2009-07-29T09:56:41Z",
+    "last_commit_at": "2026-07-26T12:58:12Z",
+    "releases": 13,
+    "tags": 39,
+    "archived": false,
+    "release": {
+      "tag": "v4.3.5",
+      "at": "2023-10-09T11:17:14.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

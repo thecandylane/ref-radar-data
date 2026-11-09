@@ -1,0 +1,71 @@
+{
+  "id": "gh:lobehub/lobehub",
+  "kind": "repo",
+  "url": "https://github.com/lobehub/lobehub",
+  "title": "lobehub",
+  "why": "Treats each agent as the unit of work, so you can hire and schedule a whole AI team that runs without you staying online.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "agents/orchestration"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "agents/orchestration"
+    ],
+    "capabilities": [
+      "agents/orchestration/agent-teams"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lobehub/lobehub",
+    "sha": "a64d5c9f843f8ddcb692b8f7a16cc78c1eefad60",
+    "file_url": "https://raw.githubusercontent.com/lobehub/lobehub/a64d5c9f843f8ddcb692b8f7a16cc78c1eefad60/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 84367,
+    "size_mb": 598,
+    "created_at": "2023-05-21T07:19:12Z",
+    "last_commit_at": "2026-11-08T08:27:13Z",
+    "releases": 899,
+    "tags": 3308,
+    "archived": false,
+    "release": {
+      "tag": "v2.3.2",
+      "at": "2026-11-06T15:52:27.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

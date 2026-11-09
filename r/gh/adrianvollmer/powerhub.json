@@ -1,0 +1,55 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b8c22bbb8d4bf27b28e7509a32d74f1376333ceb"
+  },
+  "id": "gh:adrianvollmer/powerhub",
+  "kind": "repo",
+  "url": "https://github.com/AdrianVollmer/PowerHub",
+  "title": "PowerHub",
+  "why": "Transfers code and payloads into memory on a compromised host, bypassing AMSI and obfuscating strings with RC4 to dodge endpoint protection.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AdrianVollmer/PowerHub",
+    "sha": "b8c22bbb8d4bf27b28e7509a32d74f1376333ceb",
+    "file_url": "https://cdn.jsdelivr.net/gh/AdrianVollmer/PowerHub@b8c22bbb8d4bf27b28e7509a32d74f1376333ceb/{path}"
+  },
+  "facts": {
+    "lang": "PowerShell",
+    "license": "MIT",
+    "stars": 833,
+    "size_mb": 7,
+    "created_at": "2018-07-29T07:45:05Z",
+    "last_commit_at": "2026-05-01T15:56:32Z",
+    "releases": 0,
+    "tags": 34,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

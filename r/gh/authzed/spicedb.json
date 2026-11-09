@@ -1,0 +1,74 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a87308b06994d3559458283cc4272d6211580c32"
+  },
+  "id": "gh:authzed/spicedb",
+  "kind": "repo",
+  "url": "https://github.com/authzed/spicedb",
+  "title": "spicedb",
+  "why": "Answers fine-grained permission checks at scale in the Zanzibar style, on Postgres, MySQL or Spanner storage.",
+  "keys": {
+    "races": [
+      "cyber/identity",
+      "data/databases"
+    ],
+    "lanes": [
+      "cyber/identity",
+      "data/databases"
+    ],
+    "capabilities": [
+      "cyber/identity/iam"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/authzed/spicedb",
+    "sha": "a87308b06994d3559458283cc4272d6211580c32",
+    "file_url": "https://cdn.jsdelivr.net/gh/authzed/spicedb@a87308b06994d3559458283cc4272d6211580c32/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 7206,
+    "size_mb": 36,
+    "created_at": "2021-08-16T15:32:09Z",
+    "last_commit_at": "2026-11-05T20:44:58Z",
+    "releases": 120,
+    "tags": 130,
+    "archived": false,
+    "release": {
+      "tag": "v1.57.0",
+      "at": "2026-10-20T19:13:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

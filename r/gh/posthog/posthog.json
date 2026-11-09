@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4919b517133e3484f6e34477fcda134964b7d7a4"
+  },
+  "id": "gh:posthog/posthog",
+  "kind": "repo",
+  "url": "https://github.com/PostHog/posthog",
+  "title": "posthog",
+  "why": "Product analytics platform that also covers feature flags and surveys, and exposes an MCP so agents can query it.",
+  "keys": {
+    "races": [
+      "data/analytics",
+      "infra/observability"
+    ],
+    "lanes": [
+      "data/analytics",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/PostHog/posthog",
+    "sha": "4919b517133e3484f6e34477fcda134964b7d7a4",
+    "file_url": "https://raw.githubusercontent.com/PostHog/posthog/4919b517133e3484f6e34477fcda134964b7d7a4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 40696,
+    "size_mb": 8844,
+    "created_at": "2020-01-23T22:46:58Z",
+    "last_commit_at": "2026-11-08T07:35:04Z",
+    "releases": 1000,
+    "tags": 5291,
+    "archived": false,
+    "release": {
+      "tag": "desktop-v0.61.965",
+      "at": "2026-11-07T17:31:11.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

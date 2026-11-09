@@ -1,0 +1,73 @@
+{
+  "id": "gh:stacklok/toolhive",
+  "kind": "repo",
+  "url": "https://github.com/stacklok/toolhive",
+  "title": "toolhive",
+  "why": "Runs MCP servers on your machine or Kubernetes with an eye on security, in Go with an SDK for building on it.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "cyber/agent-security",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "agents/tools",
+      "cyber/agent-security",
+      "infra/kubernetes"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "sdk",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/stacklok/toolhive",
+    "sha": "25bcd3f682ba608abb70ef7d765422b57cdccfc7",
+    "file_url": "https://cdn.jsdelivr.net/gh/stacklok/toolhive@25bcd3f682ba608abb70ef7d765422b57cdccfc7/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 2327,
+    "size_mb": 123,
+    "created_at": "2025-03-12T14:49:15Z",
+    "last_commit_at": "2026-11-07T19:57:31Z",
+    "releases": 384,
+    "tags": 393,
+    "archived": false,
+    "release": {
+      "tag": "v0.63.0",
+      "at": "2026-11-06T12:41:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

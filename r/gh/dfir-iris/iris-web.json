@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:37c5521ac009bd018a2fac7bc01d70735d130c6c"
+  },
+  "id": "gh:dfir-iris/iris-web",
+  "kind": "repo",
+  "url": "https://github.com/dfir-iris/iris-web",
+  "title": "iris-web",
+  "why": "Web platform where a response team works cases together during an incident, deployed with Docker Compose.",
+  "keys": {
+    "races": [
+      "cyber/detection"
+    ],
+    "lanes": [
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dfir-iris/iris-web",
+    "sha": "37c5521ac009bd018a2fac7bc01d70735d130c6c",
+    "file_url": "https://cdn.jsdelivr.net/gh/dfir-iris/iris-web@37c5521ac009bd018a2fac7bc01d70735d130c6c/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "LGPL-3.0",
+    "stars": 1621,
+    "size_mb": 37,
+    "created_at": "2021-12-20T08:19:15Z",
+    "last_commit_at": "2026-09-23T14:42:16Z",
+    "releases": 44,
+    "tags": 71,
+    "archived": false,
+    "release": {
+      "tag": "v2.4.29",
+      "at": "2026-08-10T08:13:13.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

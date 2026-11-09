@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c6c476d2905926727fa5848a134d7a3b38a7fa98"
+  },
+  "id": "gh:rohitg00/agentmemory",
+  "kind": "repo",
+  "url": "https://github.com/rohitg00/agentmemory",
+  "title": "agentmemory",
+  "why": "Carries what Claude, Codex and Cursor learned across sessions, shipped as plugins and checked with a benchmark suite.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/memory",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/memory/long-term-memory",
+      "agents/skills/plugin-specs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rohitg00/agentmemory",
+    "sha": "c6c476d2905926727fa5848a134d7a3b38a7fa98",
+    "file_url": "https://cdn.jsdelivr.net/gh/rohitg00/agentmemory@c6c476d2905926727fa5848a134d7a3b38a7fa98/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 30195,
+    "size_mb": 41,
+    "created_at": "2026-02-25T07:32:52Z",
+    "last_commit_at": "2026-11-08T07:50:02Z",
+    "releases": 54,
+    "tags": 54,
+    "archived": false,
+    "release": {
+      "tag": "v0.9.32",
+      "at": "2026-11-04T19:06:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "scan_partial": true
+}

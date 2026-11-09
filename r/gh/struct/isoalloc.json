@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f55c8cabb4feb54ecb7c9997bc1bb093ed2aee1e"
+  },
+  "id": "gh:struct/isoalloc",
+  "kind": "repo",
+  "url": "https://github.com/struct/isoalloc",
+  "title": "isoalloc",
+  "why": "Drop-in allocator that isolates heap allocations into separate regions to blunt memory-safety bugs, with Android builds and a profiler.",
+  "keys": {
+    "races": [
+      "systems/memory"
+    ],
+    "lanes": [
+      "systems/memory"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/struct/isoalloc",
+    "sha": "f55c8cabb4feb54ecb7c9997bc1bb093ed2aee1e",
+    "file_url": "https://cdn.jsdelivr.net/gh/struct/isoalloc@f55c8cabb4feb54ecb7c9997bc1bb093ed2aee1e/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "Apache-2.0",
+    "stars": 388,
+    "size_mb": 2,
+    "created_at": "2020-01-05T02:03:56Z",
+    "last_commit_at": "2026-11-07T20:05:05Z",
+    "releases": 10,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "1.2.7",
+      "at": "2026-03-15T20:02:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

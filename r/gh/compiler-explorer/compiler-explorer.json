@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:44930a52af1ed00c1ff6fb17bad9d20afe4763a9"
+  },
+  "id": "gh:compiler-explorer/compiler-explorer",
+  "kind": "repo",
+  "url": "https://github.com/compiler-explorer/compiler-explorer",
+  "title": "compiler-explorer",
+  "why": "Type C, Rust or Go code in the browser and see the assembly each compiler emits, with many compiler versions to compare.",
+  "keys": {
+    "races": [
+      "languages/compilers"
+    ],
+    "lanes": [
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/compiler-explorer/compiler-explorer",
+    "sha": "44930a52af1ed00c1ff6fb17bad9d20afe4763a9",
+    "file_url": "https://cdn.jsdelivr.net/gh/compiler-explorer/compiler-explorer@44930a52af1ed00c1ff6fb17bad9d20afe4763a9/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "BSD-2-Clause",
+    "stars": 19182,
+    "size_mb": 108,
+    "created_at": "2012-05-23T01:31:17Z",
+    "last_commit_at": "2026-11-07T20:12:06Z",
+    "releases": 0,
+    "tags": 9571,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

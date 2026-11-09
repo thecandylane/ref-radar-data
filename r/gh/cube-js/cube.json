@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9a7337cd9c760785138d3fa23fb6e0942420cf9f"
+  },
+  "id": "gh:cube-js/cube",
+  "kind": "repo",
+  "url": "https://github.com/cube-js/cube",
+  "title": "cube",
+  "why": "Defines metrics once in a semantic layer and serves them over APIs to BI tools, embedded dashboards and AI agents.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cube-js/cube",
+    "sha": "9a7337cd9c760785138d3fa23fb6e0942420cf9f",
+    "file_url": "https://cdn.jsdelivr.net/gh/cube-js/cube@9a7337cd9c760785138d3fa23fb6e0942420cf9f/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "NOASSERTION",
+    "stars": 21190,
+    "size_mb": 526,
+    "created_at": "2018-09-16T18:58:46Z",
+    "last_commit_at": "2026-11-07T20:58:04Z",
+    "releases": 1000,
+    "tags": 1411,
+    "archived": false,
+    "release": {
+      "tag": "v1.8.20",
+      "at": "2026-11-06T14:09:07.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

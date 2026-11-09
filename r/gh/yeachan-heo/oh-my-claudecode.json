@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:82602887b71a3984e040fac2839ec8d27a7c67b6"
+  },
   "id": "gh:yeachan-heo/oh-my-claudecode",
   "kind": "repo",
   "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
@@ -37,13 +40,17 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 40529,
-    "size_mb": 117,
+    "stars": 40682,
+    "size_mb": 100,
     "created_at": "2026-01-09T03:36:29Z",
-    "last_commit_at": "2026-11-03T04:54:25Z",
+    "last_commit_at": "2026-11-08T09:02:14Z",
     "releases": 285,
-    "tags": 302,
-    "archived": false
+    "tags": 303,
+    "archived": false,
+    "release": {
+      "tag": "v5.7.30",
+      "at": "2026-11-02T03:59:05.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

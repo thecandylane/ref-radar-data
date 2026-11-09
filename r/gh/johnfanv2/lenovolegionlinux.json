@@ -1,0 +1,57 @@
+{
+  "id": "gh:johnfanv2/lenovolegionlinux",
+  "kind": "repo",
+  "url": "https://github.com/johnfanv2/LenovoLegionLinux",
+  "title": "LenovoLegionLinux",
+  "why": "Kernel module and Python tools for Lenovo Legion laptops that set fan curves, power modes and battery conservation on Linux.",
+  "keys": {
+    "races": [
+      "embedded/drivers",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "embedded/drivers",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/johnfanv2/LenovoLegionLinux",
+    "sha": "7f04d9dde1bb4c85cc4136f127ae6fc0296b10e0",
+    "file_url": "https://cdn.jsdelivr.net/gh/johnfanv2/LenovoLegionLinux@7f04d9dde1bb4c85cc4136f127ae6fc0296b10e0/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-2.0",
+    "stars": 3539,
+    "size_mb": 6,
+    "created_at": "2023-01-05T23:07:52Z",
+    "last_commit_at": "2026-11-06T03:45:29Z",
+    "releases": 30,
+    "tags": 55,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.5",
+      "at": "2026-10-30T09:59:05.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

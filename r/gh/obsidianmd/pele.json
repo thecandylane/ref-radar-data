@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:36e584d59152181927e0d8bf70fddcd2a5f33d6c"
+  },
   "id": "gh:obsidianmd/pele",
   "kind": "repo",
   "url": "https://github.com/obsidianmd/pele",
@@ -34,13 +37,17 @@
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 4127,
+    "stars": 4375,
     "size_mb": 3,
     "created_at": "2026-10-05T23:32:40Z",
     "last_commit_at": "2026-10-31T00:07:28Z",
     "releases": 22,
     "tags": 23,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "1.13.0",
+      "at": "2026-10-31T00:23:40.000Z"
+    }
   },
   "reuse": "study",
   "maturity": "new",
@@ -50,9 +57,9 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 485,
+    "star_delta_7d": 336,
     "votes": {},
     "ranks": {}
   },
-  "fresh": true
+  "hot": true
 }

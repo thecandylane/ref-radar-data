@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ae229ca894c0b80ad84664afcfdde523b5e87057"
+  },
+  "id": "gh:khoj-ai/khoj",
+  "kind": "repo",
+  "url": "https://github.com/khoj-ai/khoj",
+  "title": "khoj",
+  "why": "Self-hostable assistant that searches your docs and the web, plugs into Obsidian and Emacs, and runs with local or hosted LLMs.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "agents/assistants/personal-agents",
+      "agents/assistants/deep-research",
+      "llm-infra/rag/knowledge-platforms"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/khoj-ai/khoj",
+    "sha": "ae229ca894c0b80ad84664afcfdde523b5e87057",
+    "file_url": "https://cdn.jsdelivr.net/gh/khoj-ai/khoj@ae229ca894c0b80ad84664afcfdde523b5e87057/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 38054,
+    "size_mb": 115,
+    "created_at": "2021-08-16T01:48:44Z",
+    "last_commit_at": "2026-08-02T01:55:40Z",
+    "releases": 173,
+    "tags": 175,
+    "archived": false,
+    "release": {
+      "tag": "2.0.0-beta.28",
+      "at": "2026-03-26T03:36:04.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

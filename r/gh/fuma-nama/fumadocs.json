@@ -32,19 +32,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/fuma-nama/fumadocs",
-    "sha": "4f9b691e1b8cb9c4c58d9320b55dfa8e579e9764",
-    "file_url": "https://cdn.jsdelivr.net/gh/fuma-nama/fumadocs@4f9b691e1b8cb9c4c58d9320b55dfa8e579e9764/{path}"
+    "sha": "acea15fa410ac40a3e5bb266cd0d09b4318de137",
+    "file_url": "https://cdn.jsdelivr.net/gh/fuma-nama/fumadocs@acea15fa410ac40a3e5bb266cd0d09b4318de137/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 13533,
-    "size_mb": 145,
+    "stars": 13573,
+    "size_mb": 144,
     "created_at": "2023-07-03T10:27:50Z",
-    "last_commit_at": "2026-11-03T05:23:06Z",
+    "last_commit_at": "2026-11-08T05:09:18Z",
     "releases": 1000,
-    "tags": 2295,
-    "archived": false
+    "tags": 2320,
+    "archived": false,
+    "release": {
+      "tag": "@fumadocs/sanity@0.3.1",
+      "at": "2026-11-08T05:11:30.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -54,8 +58,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 45,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "hot": true
 }

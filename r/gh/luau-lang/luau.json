@@ -1,0 +1,57 @@
+{
+  "id": "gh:luau-lang/luau",
+  "kind": "repo",
+  "url": "https://github.com/luau-lang/luau",
+  "title": "luau",
+  "why": "Lua-derived scripting language you can embed, with gradual typing, a compiler, bytecode and VM sources, plus fuzzers.",
+  "keys": {
+    "races": [
+      "languages/runtimes",
+      "languages/type-systems"
+    ],
+    "lanes": [
+      "languages/runtimes",
+      "languages/type-systems"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/luau-lang/luau",
+    "sha": "e3275c20972d97fd5b230b89b742770064004256",
+    "file_url": "https://cdn.jsdelivr.net/gh/luau-lang/luau@e3275c20972d97fd5b230b89b742770064004256/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 6065,
+    "size_mb": 27,
+    "created_at": "2018-09-14T17:29:29Z",
+    "last_commit_at": "2026-11-07T17:05:50Z",
+    "releases": 241,
+    "tags": 242,
+    "archived": false,
+    "release": {
+      "tag": "0.746",
+      "at": "2026-11-07T17:20:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

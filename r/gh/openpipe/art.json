@@ -1,0 +1,61 @@
+{
+  "id": "gh:openpipe/art",
+  "kind": "repo",
+  "url": "https://github.com/OpenPipe/ART",
+  "title": "ART",
+  "why": "Trains a multi-step agent with GRPO reinforcement learning and LoRA on open models like Qwen3.6, GPT-OSS and Llama.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "agents/optimization"
+    ],
+    "lanes": [
+      "ml/training",
+      "agents/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OpenPipe/ART",
+    "sha": "057f1ba76be7e07c58217053e433a92ef63a20e8",
+    "file_url": "https://cdn.jsdelivr.net/gh/OpenPipe/ART@057f1ba76be7e07c58217053e433a92ef63a20e8/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 10848,
+    "size_mb": 105,
+    "created_at": "2025-03-10T18:25:47Z",
+    "last_commit_at": "2026-11-07T20:16:41Z",
+    "releases": 63,
+    "tags": 64,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.24",
+      "at": "2026-11-04T22:54:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

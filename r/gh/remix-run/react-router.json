@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:db80dda076ec9cdcefff480079252fe0c977710e"
+  },
+  "id": "gh:remix-run/react-router",
+  "kind": "repo",
+  "url": "https://github.com/remix-run/react-router",
+  "title": "react-router",
+  "why": "Routing library for React apps, with docs, tutorials and decision records, and an AGENTS.md for working on the packages.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/remix-run/react-router",
+    "sha": "db80dda076ec9cdcefff480079252fe0c977710e",
+    "file_url": "https://cdn.jsdelivr.net/gh/remix-run/react-router@db80dda076ec9cdcefff480079252fe0c977710e/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 56631,
+    "size_mb": 46,
+    "created_at": "2014-05-16T22:22:51Z",
+    "last_commit_at": "2026-11-06T16:12:17Z",
+    "releases": 239,
+    "tags": 1081,
+    "archived": false,
+    "release": {
+      "tag": "react-router@8.5.1",
+      "at": "2026-10-27T21:38:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

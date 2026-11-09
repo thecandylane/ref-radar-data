@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:814de8b1cfdaf6c70212dca9ca23563dd0b789ac"
+  },
   "id": "gh:openai/openai-agents-python",
   "kind": "repo",
   "url": "https://github.com/openai/openai-agents-python",
@@ -28,19 +31,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/openai/openai-agents-python",
-    "sha": "e355d69152d4f4730dfb03b63dbce53e8d9f5d8c",
-    "file_url": "https://cdn.jsdelivr.net/gh/openai/openai-agents-python@e355d69152d4f4730dfb03b63dbce53e8d9f5d8c/{path}"
+    "sha": "814de8b1cfdaf6c70212dca9ca23563dd0b789ac",
+    "file_url": "https://cdn.jsdelivr.net/gh/openai/openai-agents-python@814de8b1cfdaf6c70212dca9ca23563dd0b789ac/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 30471,
-    "size_mb": 91,
+    "stars": 30552,
+    "size_mb": 98,
     "created_at": "2025-03-11T03:42:36Z",
-    "last_commit_at": "2026-10-30T20:13:59Z",
-    "releases": 124,
-    "tags": 125,
-    "archived": false
+    "last_commit_at": "2026-11-06T16:21:40Z",
+    "releases": 126,
+    "tags": 127,
+    "archived": false,
+    "release": {
+      "tag": "v0.24.0",
+      "at": "2026-10-15T02:20:12.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

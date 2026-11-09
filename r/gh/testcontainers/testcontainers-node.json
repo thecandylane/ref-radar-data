@@ -1,0 +1,62 @@
+{
+  "id": "gh:testcontainers/testcontainers-node",
+  "kind": "repo",
+  "url": "https://github.com/testcontainers/testcontainers-node",
+  "title": "testcontainers-node",
+  "why": "Spins up throwaway databases, Selenium browsers or any Docker container from Node tests, so integration tests hit real services.",
+  "keys": {
+    "races": [
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/testing"
+    ],
+    "capabilities": [
+      "dev-tools/testing/integration-testing",
+      "dev-tools/testing/test-databases"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/testcontainers/testcontainers-node",
+    "sha": "b99bb381be1c2470691a533937c23efd25389953",
+    "file_url": "https://cdn.jsdelivr.net/gh/testcontainers/testcontainers-node@b99bb381be1c2470691a533937c23efd25389953/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 2635,
+    "size_mb": 8,
+    "created_at": "2018-01-05T18:23:43Z",
+    "last_commit_at": "2026-11-06T16:59:33Z",
+    "releases": 0,
+    "tags": 279,
+    "archived": false,
+    "release": {
+      "tag": "v12.2.1",
+      "at": "2026-10-13T09:46:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f5b0fa96a44c30af55c84e1d0e0e09c82979ee5d"
+  },
+  "id": "gh:angular/angular",
+  "kind": "repo",
+  "url": "https://github.com/angular/angular",
+  "title": "angular",
+  "why": "Web framework in TypeScript that bundles devtools, a VS Code language service and the adev docs app in one monorepo.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/angular/angular",
+    "sha": "f5b0fa96a44c30af55c84e1d0e0e09c82979ee5d",
+    "file_url": "https://cdn.jsdelivr.net/gh/angular/angular@f5b0fa96a44c30af55c84e1d0e0e09c82979ee5d/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 101466,
+    "size_mb": 657,
+    "created_at": "2014-09-18T16:12:01Z",
+    "last_commit_at": "2026-11-07T09:11:51Z",
+    "releases": 726,
+    "tags": 1344,
+    "archived": false,
+    "release": {
+      "tag": "v22.2.5",
+      "at": "2026-11-06T19:37:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

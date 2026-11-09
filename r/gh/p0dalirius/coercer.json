@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6024441c708e330582ffc8e4eccc80b931807194"
+  },
+  "id": "gh:p0dalirius/coercer",
+  "kind": "repo",
+  "url": "https://github.com/p0dalirius/Coercer",
+  "title": "Coercer",
+  "why": "Walks through 12 RPC methods to coerce a Windows server into authenticating to an attacker-chosen machine, using random UNC paths to avoid caching.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/p0dalirius/Coercer",
+    "sha": "6024441c708e330582ffc8e4eccc80b931807194",
+    "file_url": "https://cdn.jsdelivr.net/gh/p0dalirius/Coercer@6024441c708e330582ffc8e4eccc80b931807194/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-2.0",
+    "stars": 2347,
+    "size_mb": 11,
+    "created_at": "2022-06-30T16:52:33Z",
+    "last_commit_at": "2026-04-24T08:03:17Z",
+    "releases": 11,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "2.4.3",
+      "at": "2023-10-04T05:47:21.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "contains raw shellcode bytes",
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-04T09:43:44.012Z"
+  }
+}

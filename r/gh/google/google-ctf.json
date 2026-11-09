@@ -1,0 +1,55 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f683ff991cac26f7673d2f2de5ac9d226b95b847"
+  },
+  "id": "gh:google/google-ctf",
+  "kind": "repo",
+  "url": "https://github.com/google/google-ctf",
+  "title": "google-ctf",
+  "why": "Archive of Google CTF challenges year by year from 2017 to 2026, plus the infrastructure folder used to host them.",
+  "keys": {
+    "races": [
+      "learning/security-labs"
+    ],
+    "lanes": [
+      "learning/security-labs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google/google-ctf",
+    "sha": "f683ff991cac26f7673d2f2de5ac9d226b95b847",
+    "file_url": "https://raw.githubusercontent.com/google/google-ctf/f683ff991cac26f7673d2f2de5ac9d226b95b847/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 5056,
+    "size_mb": 722,
+    "created_at": "2018-04-27T15:56:03Z",
+    "last_commit_at": "2026-10-22T08:26:54Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

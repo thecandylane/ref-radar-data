@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ed1f10fc87080f0b67f99be370817504888462ab"
+  },
   "id": "gh:mem0ai/mem0",
   "kind": "repo",
   "url": "https://github.com/mem0ai/mem0",
@@ -27,19 +30,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/mem0ai/mem0",
-    "sha": "753496cf1435d76c3a711f3af51303f7fdcb6420",
-    "file_url": "https://cdn.jsdelivr.net/gh/mem0ai/mem0@753496cf1435d76c3a711f3af51303f7fdcb6420/{path}"
+    "sha": "ed1f10fc87080f0b67f99be370817504888462ab",
+    "file_url": "https://cdn.jsdelivr.net/gh/mem0ai/mem0@ed1f10fc87080f0b67f99be370817504888462ab/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 68312,
+    "stars": 68607,
     "size_mb": 68,
     "created_at": "2023-06-20T08:58:36Z",
-    "last_commit_at": "2026-10-30T21:35:34Z",
+    "last_commit_at": "2026-11-06T16:53:06Z",
     "releases": 416,
     "tags": 420,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "ts-v3.3.1",
+      "at": "2026-09-25T17:36:35.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

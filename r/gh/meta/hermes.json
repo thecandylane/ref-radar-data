@@ -1,0 +1,61 @@
+{
+  "id": "gh:meta/hermes",
+  "kind": "repo",
+  "url": "https://github.com/meta/hermes",
+  "title": "hermes",
+  "why": "JavaScript engine tuned for React Native, shipping as a podspec and npm package with a compiler, VM and benchmarks.",
+  "keys": {
+    "races": [
+      "languages/runtimes",
+      "mobile/cross-platform"
+    ],
+    "lanes": [
+      "languages/runtimes",
+      "mobile/cross-platform"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/meta/hermes",
+    "sha": "03ac124627bf36e215074b8fd471e49c3963948c",
+    "file_url": "https://raw.githubusercontent.com/meta/hermes/03ac124627bf36e215074b8fd471e49c3963948c/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 11422,
+    "size_mb": 133,
+    "created_at": "2018-10-22T19:13:00Z",
+    "last_commit_at": "2026-11-06T23:51:39Z",
+    "releases": 23,
+    "tags": 100,
+    "archived": false,
+    "release": {
+      "tag": "v0.13.0",
+      "at": "2024-08-16T21:23:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

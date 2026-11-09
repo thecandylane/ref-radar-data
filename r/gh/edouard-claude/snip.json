@@ -1,0 +1,68 @@
+{
+  "id": "gh:edouard-claude/snip",
+  "kind": "repo",
+  "url": "https://github.com/edouard-claude/snip",
+  "title": "snip",
+  "why": "Trims what shell commands print before Claude Code, Cursor or Copilot read it, using declarative YAML filters in a Go CLI proxy for 60-90% fewer tokens.",
+  "keys": {
+    "races": [
+      "agents/context",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/context",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/context/output-compression",
+      "agents/skills/agent-configs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/edouard-claude/snip",
+    "sha": "2e5b8490cb9f6eb643d758c13cd8abad4eae7d78",
+    "file_url": "https://cdn.jsdelivr.net/gh/edouard-claude/snip@2e5b8490cb9f6eb643d758c13cd8abad4eae7d78/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 478,
+    "size_mb": 1,
+    "created_at": "2026-02-20T04:01:26Z",
+    "last_commit_at": "2026-11-05T14:13:03Z",
+    "releases": 40,
+    "tags": 46,
+    "archived": false,
+    "release": {
+      "tag": "v0.26.0",
+      "at": "2026-11-05T14:18:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

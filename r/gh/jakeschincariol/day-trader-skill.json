@@ -6,17 +6,17 @@
   "why": "Day-trading skills in standard-library Python, with a Time Machine that replays 10,000 sessions and no order without your yes.",
   "keys": {
     "races": [
-      "agents/skills",
-      "finance/trading"
+      "finance/trading",
+      "agents/skills"
     ],
     "lanes": [
-      "agents/skills",
-      "finance/trading"
+      "finance/trading",
+      "agents/skills"
     ],
     "capabilities": [
-      "agents/skills/plugin-specs",
       "finance/trading/backtesting",
-      "finance/trading/trading-agents"
+      "finance/trading/trading-agents",
+      "agents/skills/plugin-specs"
     ]
   },
   "read": [
@@ -34,13 +34,14 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 4675,
+    "stars": 6052,
     "size_mb": 0,
     "created_at": "2026-10-20T14:17:54Z",
     "last_commit_at": "2026-10-20T14:17:50Z",
     "releases": 0,
     "tags": 0,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "copy",
   "maturity": "new",
@@ -50,9 +51,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 1634,
     "votes": {},
     "ranks": {}
   },
-  "fresh": true
+  "fresh": true,
+  "hot": true
 }

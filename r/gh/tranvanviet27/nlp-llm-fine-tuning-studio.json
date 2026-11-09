@@ -1,0 +1,52 @@
+{
+  "id": "gh:tranvanviet27/nlp-llm-fine-tuning-studio",
+  "kind": "repo",
+  "url": "https://github.com/Tranvanviet27/NLP-LLM-Fine-Tuning-Studio",
+  "title": "NLP-LLM-Fine-Tuning-Studio",
+  "why": "Bundles a trainer framework for fine-tuning NLP and LLM models, released as open source in 2026.",
+  "keys": {
+    "races": [
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Tranvanviet27/NLP-LLM-Fine-Tuning-Studio",
+    "sha": "c2197621a986587d6c61479d74444ee0947a7815",
+    "file_url": "https://cdn.jsdelivr.net/gh/Tranvanviet27/NLP-LLM-Fine-Tuning-Studio@c2197621a986587d6c61479d74444ee0947a7815/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "none",
+    "stars": 57,
+    "size_mb": 1,
+    "created_at": "2026-09-21T22:00:45Z",
+    "last_commit_at": "2026-11-08T03:22:21Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

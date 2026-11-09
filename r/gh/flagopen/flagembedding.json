@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:897baa67c0ffddbfccf4e6776ff55310d67809d4"
+  },
+  "id": "gh:flagopen/flagembedding",
+  "kind": "repo",
+  "url": "https://github.com/FlagOpen/FlagEmbedding",
+  "title": "FlagEmbedding",
+  "why": "BGE embedding and reranker models with tools for inference, fine-tuning and evaluation, including BGE-M3 which supports all three retrieval methods.",
+  "keys": {
+    "races": [
+      "llm-infra/rag",
+      "ml/embeddings"
+    ],
+    "lanes": [
+      "llm-infra/rag",
+      "ml/embeddings"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/FlagOpen/FlagEmbedding",
+    "sha": "897baa67c0ffddbfccf4e6776ff55310d67809d4",
+    "file_url": "https://cdn.jsdelivr.net/gh/FlagOpen/FlagEmbedding@897baa67c0ffddbfccf4e6776ff55310d67809d4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 12302,
+    "size_mb": 52,
+    "created_at": "2023-08-02T02:08:11Z",
+    "last_commit_at": "2026-10-27T09:47:45Z",
+    "releases": 9,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "v1.4.2",
+      "at": "2026-08-24T02:55:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

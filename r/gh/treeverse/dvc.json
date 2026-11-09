@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:56e59829512ff134aa269099a2099587b810b4dd"
+  },
+  "id": "gh:treeverse/dvc",
+  "kind": "repo",
+  "url": "https://github.com/treeverse/dvc",
+  "title": "dvc",
+  "why": "Tracks datasets and model experiments next to your code so any result can be reproduced later.",
+  "keys": {
+    "races": [
+      "data/datasets",
+      "data/pipelines",
+      "dev-tools/vcs"
+    ],
+    "lanes": [
+      "data/datasets",
+      "data/pipelines",
+      "dev-tools/vcs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/treeverse/dvc",
+    "sha": "56e59829512ff134aa269099a2099587b810b4dd",
+    "file_url": "https://cdn.jsdelivr.net/gh/treeverse/dvc@56e59829512ff134aa269099a2099587b810b4dd/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 15968,
+    "size_mb": 21,
+    "created_at": "2017-03-04T08:16:33Z",
+    "last_commit_at": "2026-11-06T15:50:56Z",
+    "releases": 565,
+    "tags": 579,
+    "archived": false,
+    "release": {
+      "tag": "3.67.1",
+      "at": "2026-03-31T05:06:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

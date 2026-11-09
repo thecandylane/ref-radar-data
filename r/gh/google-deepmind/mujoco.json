@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d5f60b1deeb3e69ac6a936f983632c0892d7032d"
+  },
+  "id": "gh:google-deepmind/mujoco",
+  "kind": "repo",
+  "url": "https://github.com/google-deepmind/mujoco",
+  "title": "mujoco",
+  "why": "Simulates articulated bodies in contact from a C library with an XML compiler, plus JAX-based MJX and Python bindings.",
+  "keys": {
+    "races": [
+      "embedded/robotics",
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "embedded/robotics",
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google-deepmind/mujoco",
+    "sha": "d5f60b1deeb3e69ac6a936f983632c0892d7032d",
+    "file_url": "https://cdn.jsdelivr.net/gh/google-deepmind/mujoco@d5f60b1deeb3e69ac6a936f983632c0892d7032d/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 16125,
+    "size_mb": 151,
+    "created_at": "2021-08-27T12:25:48Z",
+    "last_commit_at": "2026-11-07T17:05:01Z",
+    "releases": 58,
+    "tags": 60,
+    "archived": false,
+    "release": {
+      "tag": "4.0.0",
+      "at": "2026-11-06T15:39:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

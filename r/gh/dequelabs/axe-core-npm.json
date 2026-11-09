@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e9cf392f1fd2715fe9d431a2ecf6b21354541cdc"
+  },
+  "id": "gh:dequelabs/axe-core-npm",
+  "kind": "repo",
+  "url": "https://github.com/dequelabs/axe-core-npm",
+  "title": "axe-core-npm",
+  "why": "Packages that bring Deque's axe accessibility rules into JavaScript test runs, kept together in one pnpm workspace.",
+  "keys": {
+    "races": [
+      "design/accessibility",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "design/accessibility",
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dequelabs/axe-core-npm",
+    "sha": "e9cf392f1fd2715fe9d431a2ecf6b21354541cdc",
+    "file_url": "https://cdn.jsdelivr.net/gh/dequelabs/axe-core-npm@e9cf392f1fd2715fe9d431a2ecf6b21354541cdc/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MPL-2.0",
+    "stars": 732,
+    "size_mb": 18,
+    "created_at": "2020-05-14T13:32:59Z",
+    "last_commit_at": "2026-11-06T14:41:50Z",
+    "releases": 29,
+    "tags": 39,
+    "archived": false,
+    "release": {
+      "tag": "v4.14.0",
+      "at": "2026-10-15T15:08:31.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

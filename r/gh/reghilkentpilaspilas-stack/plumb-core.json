@@ -6,12 +6,12 @@
   "why": "Runs recurring diagnostic and tuning scripts on embedded Linux as signed skills, each held to a cgroup budget enforced by eBPF.",
   "keys": {
     "races": [
-      "agents/skills",
-      "embedded/firmware"
+      "embedded/firmware",
+      "agents/skills"
     ],
     "lanes": [
-      "agents/skills",
-      "embedded/firmware"
+      "embedded/firmware",
+      "agents/skills"
     ],
     "capabilities": []
   },
@@ -33,10 +33,11 @@
     "stars": 55,
     "size_mb": 0,
     "created_at": "2026-08-25T10:14:53Z",
-    "last_commit_at": "2026-10-21T16:14:13Z",
+    "last_commit_at": "2026-11-07T10:07:47Z",
     "releases": 0,
     "tags": 0,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "study",
   "maturity": "new",

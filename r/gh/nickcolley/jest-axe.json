@@ -1,0 +1,57 @@
+{
+  "id": "gh:nickcolley/jest-axe",
+  "kind": "repo",
+  "url": "https://github.com/NickColley/jest-axe",
+  "title": "jest-axe",
+  "why": "Adds a custom Jest matcher that runs aXe on markup, so accessibility checks sit next to ordinary unit tests.",
+  "keys": {
+    "races": [
+      "design/accessibility",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "design/accessibility",
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NickColley/jest-axe",
+    "sha": "13949210918de0f52ff4609580790a2bf6babcfe",
+    "file_url": "https://cdn.jsdelivr.net/gh/NickColley/jest-axe@13949210918de0f52ff4609580790a2bf6babcfe/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 1113,
+    "size_mb": 2,
+    "created_at": "2018-02-12T23:06:17Z",
+    "last_commit_at": "2026-11-02T09:08:22Z",
+    "releases": 9,
+    "tags": 26,
+    "archived": false,
+    "release": {
+      "tag": "v11.0.0",
+      "at": "2026-07-26T18:41:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

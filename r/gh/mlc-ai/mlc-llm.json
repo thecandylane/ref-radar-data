@@ -1,0 +1,52 @@
+{
+  "id": "gh:mlc-ai/mlc-llm",
+  "kind": "repo",
+  "url": "https://github.com/mlc-ai/mlc-llm",
+  "title": "mlc-llm",
+  "why": "Compiles language models through TVM for deployment, with android, ios and web targets in the same repo.",
+  "keys": {
+    "races": [
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mlc-ai/mlc-llm",
+    "sha": "44fd06d04f22c87820e205b0f2b2e5e6a1f6ca85",
+    "file_url": "https://cdn.jsdelivr.net/gh/mlc-ai/mlc-llm@44fd06d04f22c87820e205b0f2b2e5e6a1f6ca85/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 23312,
+    "size_mb": 37,
+    "created_at": "2023-04-29T01:59:25Z",
+    "last_commit_at": "2026-10-30T08:57:42Z",
+    "releases": 1,
+    "tags": 10,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

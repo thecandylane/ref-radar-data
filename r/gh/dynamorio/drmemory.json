@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3d2b5f9b055dba86c41a75e58c53b59760cc2a6e"
+  },
+  "id": "gh:dynamorio/drmemory",
+  "kind": "repo",
+  "url": "https://github.com/DynamoRIO/drmemory",
+  "title": "drmemory",
+  "why": "Memory debugger from the DynamoRIO project, with companions such as drheapstat, drltrace and drstrace for tracing.",
+  "keys": {
+    "races": [
+      "systems/memory",
+      "dev-tools/debugging"
+    ],
+    "lanes": [
+      "systems/memory",
+      "dev-tools/debugging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/DynamoRIO/drmemory",
+    "sha": "3d2b5f9b055dba86c41a75e58c53b59760cc2a6e",
+    "file_url": "https://cdn.jsdelivr.net/gh/DynamoRIO/drmemory@3d2b5f9b055dba86c41a75e58c53b59760cc2a6e/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 2756,
+    "size_mb": 8,
+    "created_at": "2014-11-27T23:02:28Z",
+    "last_commit_at": "2025-12-12T20:20:49Z",
+    "releases": 105,
+    "tags": 117,
+    "archived": false,
+    "release": {
+      "tag": "cronbuild-2.6.20434",
+      "at": "2025-12-13T03:36:14.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

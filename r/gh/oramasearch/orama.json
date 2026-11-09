@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b030e1bd1d330327bad1483f2d9c88a9ea0d493c"
+  },
+  "id": "gh:oramasearch/orama",
+  "kind": "repo",
+  "url": "https://github.com/oramasearch/orama",
+  "title": "orama",
+  "why": "TypeScript search library that works client-side, on a server or at the edge, mixing full-text, vector and hybrid queries with typo tolerance.",
+  "keys": {
+    "races": [
+      "data/search",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "data/search",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "llm-infra/rag/vector-search"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/oramasearch/orama",
+    "sha": "b030e1bd1d330327bad1483f2d9c88a9ea0d493c",
+    "file_url": "https://cdn.jsdelivr.net/gh/oramasearch/orama@b030e1bd1d330327bad1483f2d9c88a9ea0d493c/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 10603,
+    "size_mb": 132,
+    "created_at": "2022-05-10T12:01:50Z",
+    "last_commit_at": "2026-07-03T15:02:42Z",
+    "releases": 161,
+    "tags": 164,
+    "archived": false,
+    "release": {
+      "tag": "v3.1.18",
+      "at": "2025-12-19T22:13:02.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

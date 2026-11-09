@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:06243a5620b0c9c97502edd4ee9e31995a3bdccd"
+  },
   "id": "gh:useosint/skills",
   "kind": "repo",
   "url": "https://github.com/UseOSINT/Skills",
@@ -6,12 +9,12 @@
   "why": "28 skills that make Cursor and Claude run OSINT work from reconnaissance to GEOINT and breach checks, passive-first and with sources cited.",
   "keys": {
     "races": [
-      "agents/skills",
-      "cyber/threat-intel"
+      "cyber/threat-intel",
+      "agents/skills"
     ],
     "lanes": [
-      "agents/skills",
-      "cyber/threat-intel"
+      "cyber/threat-intel",
+      "agents/skills"
     ],
     "capabilities": []
   },
@@ -30,13 +33,17 @@
   "facts": {
     "lang": "Shell",
     "license": "MIT",
-    "stars": 58,
+    "stars": 61,
     "size_mb": 0,
     "created_at": "2026-08-02T09:21:29Z",
     "last_commit_at": "2026-08-03T00:38:08Z",
     "releases": 2,
     "tags": 2,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v2.0.0",
+      "at": "2026-08-02T13:24:25.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "new",
@@ -46,7 +53,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 3,
     "votes": {},
     "ranks": {}
   }

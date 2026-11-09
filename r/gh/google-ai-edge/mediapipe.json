@@ -1,0 +1,59 @@
+{
+  "id": "gh:google-ai-edge/mediapipe",
+  "kind": "repo",
+  "url": "https://github.com/google-ai-edge/mediapipe",
+  "title": "mediapipe",
+  "why": "Builds live video and audio perception as graphs of calculators, with builds for Android, iOS, desktop and Python.",
+  "keys": {
+    "races": [
+      "ml/vision",
+      "mobile/android",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "ml/vision",
+      "mobile/android",
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google-ai-edge/mediapipe",
+    "sha": "2034af51d32a3b975657c9d281be4ce226bb130d",
+    "file_url": "https://cdn.jsdelivr.net/gh/google-ai-edge/mediapipe@2034af51d32a3b975657c9d281be4ce226bb130d/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 37601,
+    "size_mb": 599,
+    "created_at": "2019-06-13T19:16:41Z",
+    "last_commit_at": "2026-11-07T04:30:49Z",
+    "releases": 71,
+    "tags": 77,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.2",
+      "at": "2026-11-03T22:08:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:7f7412e79b533edf48a1696757480cb4dc37e0c5"
+  },
   "id": "gh:equinor/segyio",
   "kind": "repo",
   "url": "https://github.com/equinor/segyio",
@@ -38,7 +41,11 @@
     "last_commit_at": "2026-10-29T15:12:22Z",
     "releases": 58,
     "tags": 66,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v1.9.15",
+      "at": "2026-10-29T16:43:39.000Z"
+    }
   },
   "reuse": "copyleft",
   "maturity": "stable",

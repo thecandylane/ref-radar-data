@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:46d05cbfc209e4c45369e5933d99b22c902bc712"
+  },
   "id": "gh:goharbor/harbor",
   "kind": "repo",
   "url": "https://github.com/goharbor/harbor",
@@ -28,19 +31,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/goharbor/harbor",
-    "sha": "7743de2c912bf1c4a203954974837026afd47a83",
-    "file_url": "https://cdn.jsdelivr.net/gh/goharbor/harbor@7743de2c912bf1c4a203954974837026afd47a83/{path}"
+    "sha": "46d05cbfc209e4c45369e5933d99b22c902bc712",
+    "file_url": "https://cdn.jsdelivr.net/gh/goharbor/harbor@46d05cbfc209e4c45369e5933d99b22c902bc712/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 29664,
+    "stars": 29695,
     "size_mb": 261,
     "created_at": "2016-01-28T21:10:28Z",
-    "last_commit_at": "2026-11-03T08:43:46Z",
-    "releases": 371,
-    "tags": 382,
-    "archived": false
+    "last_commit_at": "2026-11-06T08:32:02Z",
+    "releases": 372,
+    "tags": 383,
+    "archived": false,
+    "release": {
+      "tag": "v2.14.6",
+      "at": "2026-10-23T07:04:43.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

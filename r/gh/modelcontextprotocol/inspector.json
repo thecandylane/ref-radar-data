@@ -1,0 +1,59 @@
+{
+  "id": "gh:modelcontextprotocol/inspector",
+  "kind": "repo",
+  "url": "https://github.com/modelcontextprotocol/inspector",
+  "title": "inspector",
+  "why": "Exercises an MCP server through CLI, TUI and web clients so its tools can be checked with repeatable runs.",
+  "keys": {
+    "races": [
+      "dev-tools/testing",
+      "agents/tools"
+    ],
+    "lanes": [
+      "dev-tools/testing",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/modelcontextprotocol/inspector",
+    "sha": "4d3464cb3a6dde609d7b5ac24c440b947eb40f23",
+    "file_url": "https://cdn.jsdelivr.net/gh/modelcontextprotocol/inspector@4d3464cb3a6dde609d7b5ac24c440b947eb40f23/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 11251,
+    "size_mb": 37,
+    "created_at": "2024-10-03T21:47:42Z",
+    "last_commit_at": "2026-11-04T22:56:35Z",
+    "releases": 75,
+    "tags": 97,
+    "archived": false,
+    "release": {
+      "tag": "2.14.0",
+      "at": "2026-11-04T23:55:33.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

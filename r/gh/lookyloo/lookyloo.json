@@ -1,0 +1,55 @@
+{
+  "id": "gh:lookyloo/lookyloo",
+  "kind": "repo",
+  "url": "https://github.com/Lookyloo/lookyloo",
+  "title": "lookyloo",
+  "why": "Captures a website and maps which domains pull in which others, for web security and DFIR investigations.",
+  "keys": {
+    "races": [
+      "cyber/threat-intel"
+    ],
+    "lanes": [
+      "cyber/threat-intel"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Lookyloo/lookyloo",
+    "sha": "2daa732efc591566e5419b03aa4769bb509363d8",
+    "file_url": "https://cdn.jsdelivr.net/gh/Lookyloo/lookyloo@2daa732efc591566e5419b03aa4769bb509363d8/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 789,
+    "size_mb": 11,
+    "created_at": "2017-07-23T17:53:24Z",
+    "last_commit_at": "2026-11-07T19:24:01Z",
+    "releases": 55,
+    "tags": 62,
+    "archived": false,
+    "release": {
+      "tag": "v1.43.0",
+      "at": "2026-11-03T15:33:00.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

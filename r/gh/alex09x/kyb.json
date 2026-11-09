@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:6d8e091ce5dcc16659b691a41ab798148b44acaa"
+  },
   "id": "gh:alex09x/kyb",
   "kind": "repo",
   "url": "https://github.com/alex09x/kyb",
@@ -33,19 +36,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/alex09x/kyb",
-    "sha": "90c61d6a5b884184f9cc11dc1e80a3fd9ef7d6d7",
-    "file_url": "https://cdn.jsdelivr.net/gh/alex09x/kyb@90c61d6a5b884184f9cc11dc1e80a3fd9ef7d6d7/{path}"
+    "sha": "6d8e091ce5dcc16659b691a41ab798148b44acaa",
+    "file_url": "https://cdn.jsdelivr.net/gh/alex09x/kyb@6d8e091ce5dcc16659b691a41ab798148b44acaa/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 127,
-    "size_mb": 4,
+    "stars": 73,
+    "size_mb": 3,
     "created_at": "2026-08-08T05:10:25Z",
-    "last_commit_at": "2026-11-03T08:36:04Z",
+    "last_commit_at": "2026-11-07T05:21:39Z",
     "releases": 13,
     "tags": 13,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v0.3.3",
+      "at": "2026-10-27T06:18:02.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "new",
@@ -55,7 +62,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": -54,
     "votes": {},
     "ranks": {}
   }

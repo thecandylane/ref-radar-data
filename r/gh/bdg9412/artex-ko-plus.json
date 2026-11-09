@@ -30,19 +30,20 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/bdg9412/artex-ko-plus",
-    "sha": "80695c642adc9fc6959ccddf999a5d6b91b87cd6",
-    "file_url": "https://cdn.jsdelivr.net/gh/bdg9412/artex-ko-plus@80695c642adc9fc6959ccddf999a5d6b91b87cd6/{path}"
+    "sha": "556495c52ce724f02858b02d0efd61af93dcac1b",
+    "file_url": "https://cdn.jsdelivr.net/gh/bdg9412/artex-ko-plus@556495c52ce724f02858b02d0efd61af93dcac1b/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "AGPL-3.0",
-    "stars": 258,
+    "stars": 265,
     "size_mb": 42,
     "created_at": "2026-10-09T11:36:03Z",
-    "last_commit_at": "2026-10-31T01:23:18Z",
+    "last_commit_at": "2026-11-07T07:28:38Z",
     "releases": 0,
     "tags": 0,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "copyleft",
   "maturity": "new",
@@ -52,9 +53,8 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 9,
     "votes": {},
     "ranks": {}
-  },
-  "fresh": true
+  }
 }

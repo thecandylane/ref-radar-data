@@ -30,19 +30,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/oauth2-proxy/oauth2-proxy",
-    "sha": "bea3f04bf87b93f5354f392fe2216a88e6031350",
-    "file_url": "https://cdn.jsdelivr.net/gh/oauth2-proxy/oauth2-proxy@bea3f04bf87b93f5354f392fe2216a88e6031350/{path}"
+    "sha": "be3174b4cc5da3c4280bbdb85cc6a727f0b0e7d8",
+    "file_url": "https://cdn.jsdelivr.net/gh/oauth2-proxy/oauth2-proxy@be3174b4cc5da3c4280bbdb85cc6a727f0b0e7d8/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 15315,
+    "stars": 15334,
     "size_mb": 20,
     "created_at": "2017-09-29T10:59:10Z",
-    "last_commit_at": "2026-10-01T09:01:25Z",
-    "releases": 44,
-    "tags": 52,
-    "archived": false
+    "last_commit_at": "2026-11-05T15:07:50Z",
+    "releases": 45,
+    "tags": 53,
+    "archived": false,
+    "release": {
+      "tag": "v7.15.6",
+      "at": "2026-11-05T15:16:01.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

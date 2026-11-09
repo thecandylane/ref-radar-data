@@ -1,0 +1,61 @@
+{
+  "id": "gh:skyvern-ai/skyvern",
+  "kind": "repo",
+  "url": "https://github.com/Skyvern-AI/skyvern",
+  "title": "skyvern",
+  "why": "Drives a real browser with vision and LLM prompts to automate workflows, an AI alternative to Selenium or Playwright scripts.",
+  "keys": {
+    "races": [
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/browser-automation"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Skyvern-AI/skyvern",
+    "sha": "73fbad916fe82ca7c4552e062b5e61127cfee98c",
+    "file_url": "https://raw.githubusercontent.com/Skyvern-AI/skyvern/73fbad916fe82ca7c4552e062b5e61127cfee98c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 23361,
+    "size_mb": 657,
+    "created_at": "2024-02-28T15:45:19Z",
+    "last_commit_at": "2026-11-08T09:08:55Z",
+    "releases": 161,
+    "tags": 161,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.57",
+      "at": "2026-11-06T21:29:53.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

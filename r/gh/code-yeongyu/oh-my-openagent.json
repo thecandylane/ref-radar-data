@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c4312cd8bdba7e167b4d38ce48818f354b78a667"
+  },
   "id": "gh:code-yeongyu/oh-my-openagent",
   "kind": "repo",
   "url": "https://github.com/code-yeongyu/oh-my-openagent",
@@ -40,13 +43,17 @@
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 70649,
-    "size_mb": 452,
+    "stars": 70773,
+    "size_mb": 495,
     "created_at": "2025-12-03T01:40:05Z",
-    "last_commit_at": "2026-11-03T08:28:20Z",
-    "releases": 358,
-    "tags": 393,
-    "archived": false
+    "last_commit_at": "2026-11-08T08:43:18Z",
+    "releases": 364,
+    "tags": 398,
+    "archived": false,
+    "release": {
+      "tag": "v5.1.64",
+      "at": "2026-11-07T16:57:24.000Z"
+    }
   },
   "reuse": "study",
   "maturity": "stable",

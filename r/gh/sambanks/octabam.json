@@ -30,13 +30,17 @@
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 294,
-    "size_mb": 25,
+    "stars": 300,
+    "size_mb": 26,
     "created_at": "2026-08-07T22:17:45Z",
-    "last_commit_at": "2026-11-02T01:39:42Z",
+    "last_commit_at": "2026-11-08T00:04:57Z",
     "releases": 2,
-    "tags": 8,
-    "archived": false
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v0.2",
+      "at": "2026-11-01T23:36:40.000Z"
+    }
   },
   "reuse": "study",
   "maturity": "new",
@@ -46,7 +50,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   }

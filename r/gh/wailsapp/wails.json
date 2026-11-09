@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9d08376a21ca6019bf2fbf03b616295c58464ade"
+  },
+  "id": "gh:wailsapp/wails",
+  "kind": "repo",
+  "url": "https://github.com/wailsapp/wails",
+  "title": "wails",
+  "why": "Builds desktop apps with Go and a web frontend in Vue, React, Svelte or Angular for macOS, Windows and Linux.",
+  "keys": {
+    "races": [
+      "desktop/app-shells"
+    ],
+    "lanes": [
+      "desktop/app-shells"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wailsapp/wails",
+    "sha": "9d08376a21ca6019bf2fbf03b616295c58464ade",
+    "file_url": "https://raw.githubusercontent.com/wailsapp/wails/9d08376a21ca6019bf2fbf03b616295c58464ade/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 36996,
+    "size_mb": 569,
+    "created_at": "2018-12-15T23:14:06Z",
+    "last_commit_at": "2026-11-08T02:23:42Z",
+    "releases": 389,
+    "tags": 491,
+    "archived": false,
+    "release": {
+      "tag": "v3.1.0",
+      "at": "2026-11-01T11:57:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

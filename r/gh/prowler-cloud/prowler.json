@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:97dce74ffbde7e47544c4767879b8c46465fe3ce"
+  },
   "id": "gh:prowler-cloud/prowler",
   "kind": "repo",
   "url": "https://github.com/prowler-cloud/prowler",
@@ -6,16 +9,16 @@
   "why": "Audits AWS, Azure and GCP accounts against CIS benchmarks and compliance frameworks from a CLI, with an MCP server for agents.",
   "keys": {
     "races": [
-      "agents/tools",
-      "cyber/appsec"
+      "cyber/appsec",
+      "agents/tools"
     ],
     "lanes": [
-      "agents/tools",
-      "cyber/appsec"
+      "cyber/appsec",
+      "agents/tools"
     ],
     "capabilities": [
-      "agents/tools/mcp-servers",
-      "cyber/appsec/vuln-discovery"
+      "cyber/appsec/vuln-discovery",
+      "agents/tools/mcp-servers"
     ]
   },
   "read": [
@@ -27,19 +30,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/prowler-cloud/prowler",
-    "sha": "67aa9410127c7228fed304f3333b271808ba0c8d",
-    "file_url": "https://raw.githubusercontent.com/prowler-cloud/prowler/67aa9410127c7228fed304f3333b271808ba0c8d/{path}"
+    "sha": "97dce74ffbde7e47544c4767879b8c46465fe3ce",
+    "file_url": "https://raw.githubusercontent.com/prowler-cloud/prowler/97dce74ffbde7e47544c4767879b8c46465fe3ce/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 15160,
-    "size_mb": 334,
+    "stars": 15193,
+    "size_mb": 335,
     "created_at": "2016-08-24T15:12:24Z",
-    "last_commit_at": "2026-10-30T12:03:15Z",
-    "releases": 227,
-    "tags": 227,
-    "archived": false
+    "last_commit_at": "2026-11-06T13:35:30Z",
+    "releases": 228,
+    "tags": 228,
+    "archived": false,
+    "release": {
+      "tag": "5.48.0",
+      "at": "2026-11-06T11:27:58.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

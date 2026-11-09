@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9590b3fcd51f4408bfdcf9bfc9614313b360f6fb"
+  },
+  "id": "gh:sgxgsx/bluetoolkit",
+  "kind": "repo",
+  "url": "https://github.com/sgxgsx/BlueToolkit",
+  "title": "BlueToolkit",
+  "why": "Runs an extensible set of exploits against Bluetooth Classic devices to uncover new and known vulnerabilities, alongside a classified vulnerability list.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sgxgsx/BlueToolkit",
+    "sha": "9590b3fcd51f4408bfdcf9bfc9614313b360f6fb",
+    "file_url": "https://cdn.jsdelivr.net/gh/sgxgsx/BlueToolkit@9590b3fcd51f4408bfdcf9bfc9614313b360f6fb/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "NOASSERTION",
+    "stars": 750,
+    "size_mb": 6,
+    "created_at": "2024-05-13T16:19:22Z",
+    "last_commit_at": "2026-08-23T16:32:38Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "woot-artifact-eval",
+      "at": "2025-06-10T15:09:14.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-04T05:17:07.386Z"
+  }
+}

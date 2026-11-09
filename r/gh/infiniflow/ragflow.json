@@ -38,19 +38,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/infiniflow/ragflow",
-    "sha": "12d9a38e24bf3fb8573b83bc41a2fe75dcd2c281",
-    "file_url": "https://cdn.jsdelivr.net/gh/infiniflow/ragflow@12d9a38e24bf3fb8573b83bc41a2fe75dcd2c281/{path}"
+    "sha": "34839b71457ad99d1bdaa5d9d763a5743b9a84f5",
+    "file_url": "https://cdn.jsdelivr.net/gh/infiniflow/ragflow@34839b71457ad99d1bdaa5d9d763a5743b9a84f5/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 93408,
-    "size_mb": 185,
+    "stars": 93750,
+    "size_mb": 188,
     "created_at": "2023-12-12T06:13:13Z",
-    "last_commit_at": "2026-11-03T08:32:15Z",
-    "releases": 59,
-    "tags": 178,
-    "archived": false
+    "last_commit_at": "2026-11-06T12:47:08Z",
+    "releases": 60,
+    "tags": 187,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-11-06T12:31:31.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

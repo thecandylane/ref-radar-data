@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9365fff7b5087ee72919be3ef0133e5f4f163a29"
+  },
+  "id": "gh:nodejs/node",
+  "kind": "repo",
+  "url": "https://github.com/nodejs/node",
+  "title": "node",
+  "why": "Runs JavaScript outside the browser on Linux, macOS and Windows, and the src, lib and deps folders show the runtime internals.",
+  "keys": {
+    "races": [
+      "languages/runtimes"
+    ],
+    "lanes": [
+      "languages/runtimes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nodejs/node",
+    "sha": "9365fff7b5087ee72919be3ef0133e5f4f163a29",
+    "file_url": "https://raw.githubusercontent.com/nodejs/node/9365fff7b5087ee72919be3ef0133e5f4f163a29/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "NOASSERTION",
+    "stars": 123409,
+    "size_mb": 1653,
+    "created_at": "2014-11-26T19:57:11Z",
+    "last_commit_at": "2026-11-07T18:36:42Z",
+    "releases": 530,
+    "tags": 972,
+    "archived": false,
+    "release": {
+      "tag": "v26.13.0",
+      "at": "2026-10-28T16:57:41.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:98788a6ef98cd3c1a0ee481dc5a6847cb4f92432"
+  },
+  "id": "gh:hasherezade/pe-sieve",
+  "kind": "repo",
+  "url": "https://github.com/hasherezade/pe-sieve",
+  "title": "pe-sieve",
+  "why": "Inspects a running process for injected PEs, shellcodes and hooks, then dumps them for malware and memory forensics.",
+  "keys": {
+    "races": [
+      "cyber/reversing",
+      "cyber/detection"
+    ],
+    "lanes": [
+      "cyber/reversing",
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hasherezade/pe-sieve",
+    "sha": "98788a6ef98cd3c1a0ee481dc5a6847cb4f92432",
+    "file_url": "https://cdn.jsdelivr.net/gh/hasherezade/pe-sieve@98788a6ef98cd3c1a0ee481dc5a6847cb4f92432/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "BSD-2-Clause",
+    "stars": 3935,
+    "size_mb": 147,
+    "created_at": "2017-08-22T01:33:00Z",
+    "last_commit_at": "2026-06-06T12:45:56Z",
+    "releases": 45,
+    "tags": 45,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.1.1",
+      "at": "2025-09-13T17:12:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

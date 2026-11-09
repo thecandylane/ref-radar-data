@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:4e911c2d6ebf5ed97becba08c12d754cbbd4da53"
+  },
   "id": "gh:jepsen-io/particledb",
   "kind": "repo",
   "url": "https://github.com/jepsen-io/particledb",
@@ -34,13 +37,14 @@
   "facts": {
     "lang": "Clojure",
     "license": "NOASSERTION",
-    "stars": 2,
+    "stars": 3,
     "size_mb": 0,
     "created_at": "2026-05-18T13:04:36Z",
     "last_commit_at": "2026-10-31T16:53:15Z",
     "releases": 0,
     "tags": 1,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "study",
   "maturity": "new",

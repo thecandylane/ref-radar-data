@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d963abc24301a571605a9bafd963dfed72187fd7"
+  },
+  "id": "gh:rkyv/rkyv",
+  "kind": "repo",
+  "url": "https://github.com/rkyv/rkyv",
+  "title": "rkyv",
+  "why": "Rust serialization that reads archived data in place with zero-copy access, plus derive macros and a book.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rkyv/rkyv",
+    "sha": "d963abc24301a571605a9bafd963dfed72187fd7",
+    "file_url": "https://cdn.jsdelivr.net/gh/rkyv/rkyv@d963abc24301a571605a9bafd963dfed72187fd7/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 4398,
+    "size_mb": 5,
+    "created_at": "2020-11-05T07:11:05Z",
+    "last_commit_at": "2026-09-25T12:04:52Z",
+    "releases": 76,
+    "tags": 86,
+    "archived": false,
+    "release": {
+      "tag": "0.8.8",
+      "at": "2024-09-18T16:28:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

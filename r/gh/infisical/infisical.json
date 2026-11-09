@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:41db38dca9f70d69f3bab268b631c31debfc51d4"
+  },
   "id": "gh:infisical/infisical",
   "kind": "repo",
   "url": "https://github.com/Infisical/infisical",
@@ -24,19 +27,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Infisical/infisical",
-    "sha": "f943528f8f51d469fa6ef4ccb62d84d14b291cb8",
-    "file_url": "https://raw.githubusercontent.com/Infisical/infisical/f943528f8f51d469fa6ef4ccb62d84d14b291cb8/{path}"
+    "sha": "41db38dca9f70d69f3bab268b631c31debfc51d4",
+    "file_url": "https://raw.githubusercontent.com/Infisical/infisical/41db38dca9f70d69f3bab268b631c31debfc51d4/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 30233,
-    "size_mb": 1952,
+    "stars": 30349,
+    "size_mb": 1994,
     "created_at": "2022-08-05T13:50:00Z",
-    "last_commit_at": "2026-11-03T04:23:33Z",
-    "releases": 600,
-    "tags": 976,
-    "archived": false
+    "last_commit_at": "2026-11-07T19:49:14Z",
+    "releases": 601,
+    "tags": 977,
+    "archived": false,
+    "release": {
+      "tag": "v0.167.6",
+      "at": "2026-11-03T18:00:18.000Z"
+    }
   },
   "reuse": "study",
   "maturity": "stable",
@@ -46,7 +53,7 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 227,
+    "star_delta_7d": 138,
     "votes": {},
     "ranks": {}
   },

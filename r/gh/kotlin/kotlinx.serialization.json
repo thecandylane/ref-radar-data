@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6f6a2e66c3dbf4a34e86a030368ecb0f7a734d22"
+  },
+  "id": "gh:kotlin/kotlinx.serialization",
+  "kind": "repo",
+  "url": "https://github.com/Kotlin/kotlinx.serialization",
+  "title": "kotlinx.serialization",
+  "why": "Serializes Kotlin classes to JSON, CBOR and protobuf, with a core module and per-format modules for multiplatform projects.",
+  "keys": {
+    "races": [
+      "data/serialization",
+      "mobile/cross-platform"
+    ],
+    "lanes": [
+      "data/serialization",
+      "mobile/cross-platform"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Kotlin/kotlinx.serialization",
+    "sha": "6f6a2e66c3dbf4a34e86a030368ecb0f7a734d22",
+    "file_url": "https://cdn.jsdelivr.net/gh/Kotlin/kotlinx.serialization@6f6a2e66c3dbf4a34e86a030368ecb0f7a734d22/{path}"
+  },
+  "facts": {
+    "lang": "Kotlin",
+    "license": "Apache-2.0",
+    "stars": 5949,
+    "size_mb": 11,
+    "created_at": "2017-07-20T11:25:23Z",
+    "last_commit_at": "2026-10-23T06:19:55Z",
+    "releases": 39,
+    "tags": 65,
+    "archived": false,
+    "release": {
+      "tag": "v1.12.0",
+      "at": "2026-10-19T18:36:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

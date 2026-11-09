@@ -1,0 +1,61 @@
+{
+  "id": "gh:postcss/postcss",
+  "kind": "repo",
+  "url": "https://github.com/postcss/postcss",
+  "title": "postcss",
+  "why": "Parses CSS into an AST that JS plugins rewrite, which is the base other styling tools build on.",
+  "keys": {
+    "races": [
+      "languages/compilers",
+      "web/css"
+    ],
+    "lanes": [
+      "languages/compilers",
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/postcss/postcss",
+    "sha": "17e54b7fb503b5fda847da4feb030d28c880a324",
+    "file_url": "https://cdn.jsdelivr.net/gh/postcss/postcss@17e54b7fb503b5fda847da4feb030d28c880a324/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 28964,
+    "size_mb": 11,
+    "created_at": "2013-09-24T23:06:48Z",
+    "last_commit_at": "2026-11-07T22:58:55Z",
+    "releases": 294,
+    "tags": 295,
+    "archived": false,
+    "release": {
+      "tag": "8.5.32",
+      "at": "2026-10-26T20:32:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d7b75aca907380f608892cc289e616f195427b99"
+  },
+  "id": "gh:newren/git-filter-repo",
+  "kind": "repo",
+  "url": "https://github.com/newren/git-filter-repo",
+  "title": "git-filter-repo",
+  "why": "Rewrites git history in one pass to drop files, rename paths or strip secrets, as a faster stand-in for filter-branch.",
+  "keys": {
+    "races": [
+      "dev-tools/vcs"
+    ],
+    "lanes": [
+      "dev-tools/vcs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/newren/git-filter-repo",
+    "sha": "d7b75aca907380f608892cc289e616f195427b99",
+    "file_url": "https://cdn.jsdelivr.net/gh/newren/git-filter-repo@d7b75aca907380f608892cc289e616f195427b99/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 13492,
+    "size_mb": 7,
+    "created_at": "2018-08-21T15:40:09Z",
+    "last_commit_at": "2026-07-09T22:00:31Z",
+    "releases": 14,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v2.47.0",
+      "at": "2024-12-04T02:57:48.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

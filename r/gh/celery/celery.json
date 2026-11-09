@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2fe0ead077408eae9c1ff883b9d995792fbc0170"
+  },
+  "id": "gh:celery/celery",
+  "kind": "repo",
+  "url": "https://github.com/celery/celery",
+  "title": "celery",
+  "why": "Python task queue that sends jobs to workers over AMQP, Redis or SQS, with scheduling and a Helm chart included.",
+  "keys": {
+    "races": [
+      "data/queues"
+    ],
+    "lanes": [
+      "data/queues"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/celery/celery",
+    "sha": "2fe0ead077408eae9c1ff883b9d995792fbc0170",
+    "file_url": "https://cdn.jsdelivr.net/gh/celery/celery@2fe0ead077408eae9c1ff883b9d995792fbc0170/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 29143,
+    "size_mb": 38,
+    "created_at": "2009-04-24T11:31:24Z",
+    "last_commit_at": "2026-11-08T06:14:30Z",
+    "releases": 73,
+    "tags": 265,
+    "archived": false,
+    "release": {
+      "tag": "v5.7.0",
+      "at": "2026-11-05T15:12:23.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

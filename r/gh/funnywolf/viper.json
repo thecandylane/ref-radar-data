@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:78ffab8729aeb227ab7056ad06140c070ebe2e79"
+  },
+  "id": "gh:funnywolf/viper",
+  "kind": "repo",
+  "url": "https://github.com/FunnyWolf/Viper",
+  "title": "Viper",
+  "why": "Runs over 100 post-exploitation modules mapped to MITRE ATT&CK through a visual interface, with a built-in LLM agent for automated decisions.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "agents/tools"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/FunnyWolf/Viper",
+    "sha": "78ffab8729aeb227ab7056ad06140c070ebe2e79",
+    "file_url": "https://cdn.jsdelivr.net/gh/FunnyWolf/Viper@78ffab8729aeb227ab7056ad06140c070ebe2e79/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "none",
+    "stars": 5348,
+    "size_mb": 70,
+    "created_at": "2020-05-29T12:53:42Z",
+    "last_commit_at": "2026-05-31T08:44:54Z",
+    "releases": 77,
+    "tags": 79,
+    "archived": false,
+    "release": {
+      "tag": "v3.1.11",
+      "at": "2026-03-31T10:09:38.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

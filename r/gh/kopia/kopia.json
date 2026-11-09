@@ -1,0 +1,63 @@
+{
+  "id": "gh:kopia/kopia",
+  "kind": "repo",
+  "url": "https://github.com/kopia/kopia",
+  "title": "kopia",
+  "why": "Backs up folders with incremental snapshots, deduplication and client-side encryption, through either a CLI or a GUI.",
+  "keys": {
+    "races": [
+      "data/storage"
+    ],
+    "lanes": [
+      "data/storage"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kopia/kopia",
+    "sha": "7498348d3cfb52c6ffd46bd2cdfef42987fcdf11",
+    "file_url": "https://cdn.jsdelivr.net/gh/kopia/kopia@7498348d3cfb52c6ffd46bd2cdfef42987fcdf11/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 14606,
+    "size_mb": 34,
+    "created_at": "2015-12-19T22:47:14Z",
+    "last_commit_at": "2026-11-03T05:32:28Z",
+    "releases": 86,
+    "tags": 90,
+    "archived": false,
+    "release": {
+      "tag": "v0.23.1",
+      "at": "2026-06-16T01:27:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

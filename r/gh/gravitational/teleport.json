@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:1283425b60ec5f60d509ba4c791183d452923ff7"
+  },
   "id": "gh:gravitational/teleport",
   "kind": "repo",
   "url": "https://github.com/gravitational/teleport",
@@ -36,13 +39,17 @@
   "facts": {
     "lang": "Go",
     "license": "AGPL-3.0",
-    "stars": 21063,
-    "size_mb": 1514,
+    "stars": 21078,
+    "size_mb": 1515,
     "created_at": "2015-03-02T19:36:00Z",
     "last_commit_at": "2026-08-25T16:35:10Z",
     "releases": 832,
     "tags": 7117,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v18.10.0",
+      "at": "2026-07-09T00:01:09.000Z"
+    }
   },
   "reuse": "copyleft",
   "maturity": "stable",

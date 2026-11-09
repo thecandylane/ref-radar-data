@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9052fcd035ab641a893576826b636774a8352cd2"
+  },
+  "id": "gh:web-infra-dev/rspack",
+  "kind": "repo",
+  "url": "https://github.com/web-infra-dev/rspack",
+  "title": "rspack",
+  "why": "Rust bundler that accepts webpack loaders and config, so existing web projects can switch over with a faster build.",
+  "keys": {
+    "races": [
+      "dev-tools/build",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "dev-tools/build",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/web-infra-dev/rspack",
+    "sha": "9052fcd035ab641a893576826b636774a8352cd2",
+    "file_url": "https://cdn.jsdelivr.net/gh/web-infra-dev/rspack@9052fcd035ab641a893576826b636774a8352cd2/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 12971,
+    "size_mb": 118,
+    "created_at": "2022-04-01T08:45:30Z",
+    "last_commit_at": "2026-11-08T04:01:19Z",
+    "releases": 246,
+    "tags": 410,
+    "archived": false,
+    "release": {
+      "tag": "v2.3.1",
+      "at": "2026-11-03T11:12:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

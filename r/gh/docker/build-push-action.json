@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c3c9e263c25d99ce0380d002d59b67737d91b0dc"
+  },
+  "id": "gh:docker/build-push-action",
+  "kind": "repo",
+  "url": "https://github.com/docker/build-push-action",
+  "title": "build-push-action",
+  "why": "GitHub workflow step that builds Docker images with Buildx and pushes them to Docker Hub or another registry.",
+  "keys": {
+    "races": [
+      "infra/ci-cd",
+      "infra/containers"
+    ],
+    "lanes": [
+      "infra/ci-cd",
+      "infra/containers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/docker/build-push-action",
+    "sha": "c3c9e263c25d99ce0380d002d59b67737d91b0dc",
+    "file_url": "https://cdn.jsdelivr.net/gh/docker/build-push-action@c3c9e263c25d99ce0380d002d59b67737d91b0dc/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 5432,
+    "size_mb": 80,
+    "created_at": "2020-02-17T11:35:27Z",
+    "last_commit_at": "2026-11-05T16:24:26Z",
+    "releases": 66,
+    "tags": 75,
+    "archived": false,
+    "release": {
+      "tag": "v7.4.0",
+      "at": "2026-09-15T08:22:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

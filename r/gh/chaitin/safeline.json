@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:9b72ba6ad4d7e042e7a79ee2e062305179312c98"
+  },
   "id": "gh:chaitin/safeline",
   "kind": "repo",
   "url": "https://github.com/chaitin/SafeLine",
@@ -34,13 +37,17 @@
   "facts": {
     "lang": "Go",
     "license": "GPL-3.0",
-    "stars": 23161,
+    "stars": 23201,
     "size_mb": 78,
     "created_at": "2023-04-12T11:30:14Z",
     "last_commit_at": "2026-10-22T02:30:55Z",
     "releases": 126,
     "tags": 131,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v9.4.3",
+      "at": "2026-10-21T10:03:32.000Z"
+    }
   },
   "reuse": "copyleft",
   "maturity": "stable",

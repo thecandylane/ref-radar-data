@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:439f3b79e1e8e95a26e2e196d68c5c81d74e682b"
+  },
+  "id": "gh:alexandreborges/malwoverview",
+  "kind": "repo",
+  "url": "https://github.com/alexandreborges/malwoverview",
+  "title": "malwoverview",
+  "why": "First response triage that queries VirusTotal, URLHaus, Shodan and other services about a sample, with YARA scanning and IOC extraction.",
+  "keys": {
+    "races": [
+      "cyber/threat-intel",
+      "cyber/reversing"
+    ],
+    "lanes": [
+      "cyber/threat-intel",
+      "cyber/reversing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/alexandreborges/malwoverview",
+    "sha": "439f3b79e1e8e95a26e2e196d68c5c81d74e682b",
+    "file_url": "https://cdn.jsdelivr.net/gh/alexandreborges/malwoverview@439f3b79e1e8e95a26e2e196d68c5c81d74e682b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 4139,
+    "size_mb": 46,
+    "created_at": "2018-09-08T02:08:49Z",
+    "last_commit_at": "2026-09-22T14:31:51Z",
+    "releases": 56,
+    "tags": 58,
+    "archived": false,
+    "release": {
+      "tag": "v8.2.0",
+      "at": "2026-09-22T14:21:52.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

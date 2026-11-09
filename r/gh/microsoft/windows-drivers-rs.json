@@ -1,0 +1,59 @@
+{
+  "id": "gh:microsoft/windows-drivers-rs",
+  "kind": "repo",
+  "url": "https://github.com/microsoft/windows-drivers-rs",
+  "title": "windows-drivers-rs",
+  "why": "Lets you write Windows drivers in Rust through crates built around WDK and WDF, with examples and tests to copy from.",
+  "keys": {
+    "races": [
+      "embedded/drivers"
+    ],
+    "lanes": [
+      "embedded/drivers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microsoft/windows-drivers-rs",
+    "sha": "04523040779d80125f280c4f9421f54a6059f470",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/windows-drivers-rs@04523040779d80125f280c4f9421f54a6059f470/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 1938,
+    "size_mb": 2,
+    "created_at": "2023-09-16T21:45:21Z",
+    "last_commit_at": "2026-11-05T00:32:44Z",
+    "releases": 38,
+    "tags": 40,
+    "archived": false,
+    "release": {
+      "tag": "wdk-build-v0.6.0",
+      "at": "2026-10-26T19:00:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

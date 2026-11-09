@@ -29,19 +29,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/azrtydxb/Fastllm-proxy",
-    "sha": "c38fb55327a03a8ef7fbfeeae67f349abd4aa53a",
-    "file_url": "https://cdn.jsdelivr.net/gh/azrtydxb/Fastllm-proxy@c38fb55327a03a8ef7fbfeeae67f349abd4aa53a/{path}"
+    "sha": "d0834dec1ee38ff6f48052073b058c4c3d1c526c",
+    "file_url": "https://cdn.jsdelivr.net/gh/azrtydxb/Fastllm-proxy@d0834dec1ee38ff6f48052073b058c4c3d1c526c/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 108,
+    "stars": 109,
     "size_mb": 38,
     "created_at": "2026-08-06T00:28:22Z",
-    "last_commit_at": "2026-11-02T12:56:05Z",
+    "last_commit_at": "2026-11-07T19:29:21Z",
     "releases": 3,
     "tags": 9,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v0.3.6",
+      "at": "2026-10-30T08:23:08.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "new",
@@ -51,7 +55,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   }

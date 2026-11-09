@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3bc7407cf2222d6a821dcc19c776e5a1b1cb9a9b"
+  },
+  "id": "gh:ticarpi/jwt_tool",
+  "kind": "repo",
+  "url": "https://github.com/ticarpi/jwt_tool",
+  "title": "jwt_tool",
+  "why": "Tests JSON Web Tokens by tweaking claims and headers or cracking secrets, with payload and wordlist files included.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ticarpi/jwt_tool",
+    "sha": "3bc7407cf2222d6a821dcc19c776e5a1b1cb9a9b",
+    "file_url": "https://cdn.jsdelivr.net/gh/ticarpi/jwt_tool@3bc7407cf2222d6a821dcc19c776e5a1b1cb9a9b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 6809,
+    "size_mb": 0,
+    "created_at": "2017-01-23T21:13:50Z",
+    "last_commit_at": "2025-05-01T11:44:01Z",
+    "releases": 12,
+    "tags": 12,
+    "archived": false,
+    "release": {
+      "tag": "v2.3.0",
+      "at": "2025-05-01T11:57:50.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

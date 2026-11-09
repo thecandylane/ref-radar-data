@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3d857e6158c0922510ca26c642ed15b2998fae8a"
+  },
+  "id": "gh:php/php-src",
+  "kind": "repo",
+  "url": "https://github.com/php/php-src",
+  "title": "php-src",
+  "why": "Source for the PHP interpreter, where the Zend engine, bundled extensions and server API layers live.",
+  "keys": {
+    "races": [
+      "languages/runtimes"
+    ],
+    "lanes": [
+      "languages/runtimes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/php/php-src",
+    "sha": "3d857e6158c0922510ca26c642ed15b2998fae8a",
+    "file_url": "https://cdn.jsdelivr.net/gh/php/php-src@3d857e6158c0922510ca26c642ed15b2998fae8a/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "BSD-3-Clause",
+    "stars": 41763,
+    "size_mb": 667,
+    "created_at": "2011-06-16T01:52:25Z",
+    "last_commit_at": "2026-11-08T07:45:01Z",
+    "releases": 70,
+    "tags": 1538,
+    "archived": false,
+    "release": {
+      "tag": "php-8.5.12",
+      "at": "2026-10-21T14:06:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

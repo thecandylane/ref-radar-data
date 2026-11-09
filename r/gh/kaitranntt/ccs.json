@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f45fa923f231ecb95b782d3a9edde3cad3476d48"
+  },
+  "id": "gh:kaitranntt/ccs",
+  "kind": "repo",
+  "url": "https://github.com/kaitranntt/ccs",
+  "title": "ccs",
+  "why": "Flip Claude Code among Claude, Gemini, Copilot and OpenRouter profiles via an OAuth proxy, managed from a React dashboard.",
+  "keys": {
+    "races": [
+      "llm-infra/gateways"
+    ],
+    "lanes": [
+      "llm-infra/gateways"
+    ],
+    "capabilities": [
+      "llm-infra/gateways/multi-account",
+      "llm-infra/gateways/api-proxy"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kaitranntt/ccs",
+    "sha": "f45fa923f231ecb95b782d3a9edde3cad3476d48",
+    "file_url": "https://cdn.jsdelivr.net/gh/kaitranntt/ccs@f45fa923f231ecb95b782d3a9edde3cad3476d48/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 2897,
+    "size_mb": 45,
+    "created_at": "2025-11-01T21:01:53Z",
+    "last_commit_at": "2026-11-04T20:09:05Z",
+    "releases": 982,
+    "tags": 990,
+    "archived": false,
+    "release": {
+      "tag": "v8.11.0",
+      "at": "2026-11-04T20:09:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:42c933a0f57ab1da4d26e111e5f4890118777549"
+  },
+  "id": "gh:alonemonkey/frida-ios-dump",
+  "kind": "repo",
+  "url": "https://github.com/AloneMonkey/frida-ios-dump",
+  "title": "frida-ios-dump",
+  "why": "Injects Frida into an app on a jailbroken device, reads the decrypted binaries from memory and packages an IPA over SSH.",
+  "keys": {
+    "races": [
+      "cyber/reversing",
+      "mobile/ios"
+    ],
+    "lanes": [
+      "cyber/reversing",
+      "mobile/ios"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AloneMonkey/frida-ios-dump",
+    "sha": "42c933a0f57ab1da4d26e111e5f4890118777549",
+    "file_url": "https://cdn.jsdelivr.net/gh/AloneMonkey/frida-ios-dump@42c933a0f57ab1da4d26e111e5f4890118777549/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 3991,
+    "size_mb": 1,
+    "created_at": "2017-11-30T17:10:52Z",
+    "last_commit_at": "2026-11-02T04:52:26Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

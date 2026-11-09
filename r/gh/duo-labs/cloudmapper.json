@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ec8fbf201b8b43e66720cd3ee9079a801e49c61c"
+  },
+  "id": "gh:duo-labs/cloudmapper",
+  "kind": "repo",
+  "url": "https://github.com/duo-labs/cloudmapper",
+  "title": "cloudmapper",
+  "why": "Collects data from an Amazon Web Services account and draws it as a network diagram, with an auditor for security issues.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "infra/observability"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/duo-labs/cloudmapper",
+    "sha": "ec8fbf201b8b43e66720cd3ee9079a801e49c61c",
+    "file_url": "https://cdn.jsdelivr.net/gh/duo-labs/cloudmapper@ec8fbf201b8b43e66720cd3ee9079a801e49c61c/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "BSD-3-Clause",
+    "stars": 6287,
+    "size_mb": 11,
+    "created_at": "2018-01-19T17:55:17Z",
+    "last_commit_at": "2023-11-30T22:26:56Z",
+    "releases": 26,
+    "tags": 26,
+    "archived": false,
+    "release": {
+      "tag": "2.10.0",
+      "at": "2021-11-04T19:36:32.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

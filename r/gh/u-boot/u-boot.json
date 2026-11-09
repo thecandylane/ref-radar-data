@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d1d45c926a571fb6c1e6d7105c280833646915ea"
+  },
+  "id": "gh:u-boot/u-boot",
+  "kind": "repo",
+  "url": "https://github.com/u-boot/u-boot",
+  "title": "u-boot",
+  "why": "Das U-Boot source tree organized by arch, board, drivers, cmd and fs, configured through Kconfig and configs folders.",
+  "keys": {
+    "races": [
+      "embedded/drivers",
+      "embedded/firmware"
+    ],
+    "lanes": [
+      "embedded/drivers",
+      "embedded/firmware"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/u-boot/u-boot",
+    "sha": "d1d45c926a571fb6c1e6d7105c280833646915ea",
+    "file_url": "https://raw.githubusercontent.com/u-boot/u-boot/d1d45c926a571fb6c1e6d7105c280833646915ea/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 5319,
+    "size_mb": 331,
+    "created_at": "2014-11-12T13:29:02Z",
+    "last_commit_at": "2026-11-07T18:04:01Z",
+    "releases": 0,
+    "tags": 537,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

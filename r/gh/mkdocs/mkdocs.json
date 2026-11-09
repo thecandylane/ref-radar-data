@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2862536793b3c67d9d83c33e0dd6d50a791928f8"
+  },
+  "id": "gh:mkdocs/mkdocs",
+  "kind": "repo",
+  "url": "https://github.com/mkdocs/mkdocs",
+  "title": "mkdocs",
+  "why": "Turns Markdown files into a static HTML documentation site, configured through a single YAML file with third-party add-ons.",
+  "keys": {
+    "races": [
+      "dev-tools/docs",
+      "web/static-sites"
+    ],
+    "lanes": [
+      "dev-tools/docs",
+      "web/static-sites"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mkdocs/mkdocs",
+    "sha": "2862536793b3c67d9d83c33e0dd6d50a791928f8",
+    "file_url": "https://cdn.jsdelivr.net/gh/mkdocs/mkdocs@2862536793b3c67d9d83c33e0dd6d50a791928f8/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-2-Clause",
+    "stars": 22539,
+    "size_mb": 32,
+    "created_at": "2014-01-11T21:05:21Z",
+    "last_commit_at": "2025-10-20T13:17:06Z",
+    "releases": 15,
+    "tags": 61,
+    "archived": false,
+    "release": {
+      "tag": "1.6.1",
+      "at": "2024-08-30T12:23:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

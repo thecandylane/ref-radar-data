@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cdaf61e1bd0cf3820d11d72b43bb460816aebbd3"
+  },
+  "id": "gh:nvidia/auto-ontology",
+  "kind": "repo",
+  "url": "https://github.com/NVIDIA/auto-ontology",
+  "title": "auto-ontology",
+  "why": "Builds a semantic graph layer over data so agents get deterministic queries and better context retrieval, with an MCP server and skills folder.",
+  "keys": {
+    "races": [
+      "llm-infra/rag",
+      "agents/tools"
+    ],
+    "lanes": [
+      "llm-infra/rag",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "llm-infra/rag/knowledge-platforms",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NVIDIA/auto-ontology",
+    "sha": "cdaf61e1bd0cf3820d11d72b43bb460816aebbd3",
+    "file_url": "https://cdn.jsdelivr.net/gh/NVIDIA/auto-ontology@cdaf61e1bd0cf3820d11d72b43bb460816aebbd3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 9904,
+    "size_mb": 21,
+    "created_at": "2026-04-27T21:45:56Z",
+    "last_commit_at": "2026-11-06T16:45:57Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3e6969c553d1c43e3653b99de295b1e1eda202b2"
+  },
+  "id": "gh:praetorian-inc/julius",
+  "kind": "repo",
+  "url": "https://github.com/praetorian-inc/julius",
+  "title": "julius",
+  "why": "Fingerprints which LLM server answers on an IP and port, matching probes against 60+ services including Ollama and vLLM.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/agent-security"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/agent-security"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/praetorian-inc/julius",
+    "sha": "3e6969c553d1c43e3653b99de295b1e1eda202b2",
+    "file_url": "https://cdn.jsdelivr.net/gh/praetorian-inc/julius@3e6969c553d1c43e3653b99de295b1e1eda202b2/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 255,
+    "size_mb": 0,
+    "created_at": "2026-01-12T22:56:03Z",
+    "last_commit_at": "2026-10-30T13:42:18Z",
+    "releases": 43,
+    "tags": 53,
+    "archived": false,
+    "release": {
+      "tag": "v1.6.0",
+      "at": "2026-10-30T13:45:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-04T03:53:37.633Z"
+  }
+}

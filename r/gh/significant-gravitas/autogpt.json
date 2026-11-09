@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:13ac38c5b6583bd01b0a6142b0060fc03e102b6e"
+  },
   "id": "gh:significant-gravitas/autogpt",
   "kind": "repo",
   "url": "https://github.com/Significant-Gravitas/AutoGPT",
@@ -26,19 +29,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Significant-Gravitas/AutoGPT",
-    "sha": "07212df377c4ea0ac5ed6a7c9c8ff72203564650",
-    "file_url": "https://raw.githubusercontent.com/Significant-Gravitas/AutoGPT/07212df377c4ea0ac5ed6a7c9c8ff72203564650/{path}"
+    "sha": "13ac38c5b6583bd01b0a6142b0060fc03e102b6e",
+    "file_url": "https://raw.githubusercontent.com/Significant-Gravitas/AutoGPT/13ac38c5b6583bd01b0a6142b0060fc03e102b6e/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 187888,
-    "size_mb": 609,
+    "stars": 187936,
+    "size_mb": 629,
     "created_at": "2023-03-16T09:21:07Z",
-    "last_commit_at": "2026-11-01T13:03:00Z",
-    "releases": 127,
-    "tags": 129,
-    "archived": false
+    "last_commit_at": "2026-11-05T21:18:08Z",
+    "releases": 129,
+    "tags": 131,
+    "archived": false,
+    "release": {
+      "tag": "autogpt-platform-beta-v0.11.1",
+      "at": "2026-11-06T03:36:16.000Z"
+    }
   },
   "reuse": "study",
   "maturity": "stable",

@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:25d63d471a91cf9c2141bbe8dab6802eb73c2567"
+  },
+  "id": "gh:react/react-native",
+  "kind": "repo",
+  "url": "https://github.com/react/react-native",
+  "title": "react-native",
+  "why": "Write one React codebase that ships as native Android and iOS apps, with the reusable pieces split into packages.",
+  "keys": {
+    "races": [
+      "mobile/android",
+      "mobile/cross-platform",
+      "mobile/ios"
+    ],
+    "lanes": [
+      "mobile/android",
+      "mobile/cross-platform",
+      "mobile/ios"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/react/react-native",
+    "sha": "25d63d471a91cf9c2141bbe8dab6802eb73c2567",
+    "file_url": "https://cdn.jsdelivr.net/gh/react/react-native@25d63d471a91cf9c2141bbe8dab6802eb73c2567/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 126875,
+    "size_mb": 970,
+    "created_at": "2015-01-09T18:10:16Z",
+    "last_commit_at": "2026-11-07T02:36:39Z",
+    "releases": 483,
+    "tags": 699,
+    "archived": false,
+    "release": {
+      "tag": "v0.88.1",
+      "at": "2026-10-27T17:39:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

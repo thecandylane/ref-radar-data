@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:52816568e32d47cb887d358fde173d5a4a6a550a"
+  },
+  "id": "gh:fitzgen/bumpalo",
+  "kind": "repo",
+  "url": "https://github.com/fitzgen/bumpalo",
+  "title": "bumpalo",
+  "why": "Rust bump arena for quick allocation, with benches, tests and a valgrind suppression file in the repo.",
+  "keys": {
+    "races": [
+      "systems/memory"
+    ],
+    "lanes": [
+      "systems/memory"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fitzgen/bumpalo",
+    "sha": "52816568e32d47cb887d358fde173d5a4a6a550a",
+    "file_url": "https://cdn.jsdelivr.net/gh/fitzgen/bumpalo@52816568e32d47cb887d358fde173d5a4a6a550a/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 2372,
+    "size_mb": 1,
+    "created_at": "2018-11-20T01:04:24Z",
+    "last_commit_at": "2026-10-16T20:35:03Z",
+    "releases": 0,
+    "tags": 55,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

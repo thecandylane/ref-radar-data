@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0b1914e0e634444286b26f31306b6ecd2ae0d856"
+  },
+  "id": "gh:hashicorp/vault",
+  "kind": "repo",
+  "url": "https://github.com/hashicorp/vault",
+  "title": "vault",
+  "why": "Central store for secrets that also encrypts data for other apps and gates privileged access, written in Go with an sdk and web ui.",
+  "keys": {
+    "races": [
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/iam",
+      "cyber/identity/secrets-management"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "sdk",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hashicorp/vault",
+    "sha": "0b1914e0e634444286b26f31306b6ecd2ae0d856",
+    "file_url": "https://cdn.jsdelivr.net/gh/hashicorp/vault@0b1914e0e634444286b26f31306b6ecd2ae0d856/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "NOASSERTION",
+    "stars": 36483,
+    "size_mb": 356,
+    "created_at": "2015-02-25T00:15:59Z",
+    "last_commit_at": "2026-11-07T00:25:57Z",
+    "releases": 188,
+    "tags": 490,
+    "archived": false,
+    "release": {
+      "tag": "v2.2.1",
+      "at": "2026-10-22T21:59:36.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

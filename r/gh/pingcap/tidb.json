@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a4ac9ef7680564e0150c1f9b8c6b62a551bf6c7b"
+  },
   "id": "gh:pingcap/tidb",
   "kind": "repo",
   "url": "https://github.com/pingcap/tidb",
@@ -36,19 +39,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/pingcap/tidb",
-    "sha": "49ad420278001b896de85fd7985b35ff49be877f",
-    "file_url": "https://raw.githubusercontent.com/pingcap/tidb/49ad420278001b896de85fd7985b35ff49be877f/{path}"
+    "sha": "a4ac9ef7680564e0150c1f9b8c6b62a551bf6c7b",
+    "file_url": "https://raw.githubusercontent.com/pingcap/tidb/a4ac9ef7680564e0150c1f9b8c6b62a551bf6c7b/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 40702,
-    "size_mb": 831,
+    "stars": 40719,
+    "size_mb": 833,
     "created_at": "2015-09-06T04:01:52Z",
-    "last_commit_at": "2026-11-03T06:27:58Z",
+    "last_commit_at": "2026-11-07T22:52:21Z",
     "releases": 217,
-    "tags": 759,
-    "archived": false
+    "tags": 762,
+    "archived": false,
+    "release": {
+      "tag": "v7.5.8",
+      "at": "2026-09-17T05:57:53.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

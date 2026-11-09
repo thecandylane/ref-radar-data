@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:96b24b48a7f26594f1126eabef8ad00301ba28a0"
+  },
+  "id": "gh:its-a-feature/mythic",
+  "kind": "repo",
+  "url": "https://github.com/its-a-feature/Mythic",
+  "title": "Mythic",
+  "why": "A collaborative red teaming framework where agents and C2 services run as Docker containers behind a React UI.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/its-a-feature/Mythic",
+    "sha": "96b24b48a7f26594f1126eabef8ad00301ba28a0",
+    "file_url": "https://cdn.jsdelivr.net/gh/its-a-feature/Mythic@96b24b48a7f26594f1126eabef8ad00301ba28a0/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "NOASSERTION",
+    "stars": 4898,
+    "size_mb": 897,
+    "created_at": "2018-07-05T02:09:59Z",
+    "last_commit_at": "2026-10-11T15:24:27Z",
+    "releases": 12,
+    "tags": 316,
+    "archived": false,
+    "release": {
+      "tag": "v3.4.0.5",
+      "at": "2025-10-10T01:31:56.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-04T04:36:42.614Z"
+  }
+}

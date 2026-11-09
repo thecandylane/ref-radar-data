@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:34019fa3f2958b0ecf398353327aeaf9110e98f2"
+  },
+  "id": "gh:apple/foundationdb",
+  "kind": "repo",
+  "url": "https://github.com/apple/foundationdb",
+  "title": "foundationdb",
+  "why": "Key-value store giving ACID transactions across a cluster, with language bindings, backup tools and layers for building other databases.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apple/foundationdb",
+    "sha": "34019fa3f2958b0ecf398353327aeaf9110e98f2",
+    "file_url": "https://cdn.jsdelivr.net/gh/apple/foundationdb@34019fa3f2958b0ecf398353327aeaf9110e98f2/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 16847,
+    "size_mb": 214,
+    "created_at": "2017-12-14T01:40:42Z",
+    "last_commit_at": "2026-11-06T19:33:23Z",
+    "releases": 325,
+    "tags": 340,
+    "archived": false,
+    "release": {
+      "tag": "7.3.77",
+      "at": "2026-04-16T19:24:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

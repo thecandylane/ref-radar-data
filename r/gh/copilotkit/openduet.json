@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:f52288fff5ccdbd3de428d573d9f026fce5ff480"
+  },
   "id": "gh:copilotkit/openduet",
   "kind": "repo",
   "url": "https://github.com/CopilotKit/OpenDuet",
@@ -24,19 +27,20 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/CopilotKit/OpenDuet",
-    "sha": "677e0fcd148d80b99dd788c6d6f9c1c9f40a72db",
-    "file_url": "https://cdn.jsdelivr.net/gh/CopilotKit/OpenDuet@677e0fcd148d80b99dd788c6d6f9c1c9f40a72db/{path}"
+    "sha": "f52288fff5ccdbd3de428d573d9f026fce5ff480",
+    "file_url": "https://cdn.jsdelivr.net/gh/CopilotKit/OpenDuet@f52288fff5ccdbd3de428d573d9f026fce5ff480/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 1874,
-    "size_mb": 159,
+    "stars": 1989,
+    "size_mb": 160,
     "created_at": "2026-10-21T19:43:59Z",
     "last_commit_at": "2026-10-31T21:26:41Z",
     "releases": 0,
     "tags": 0,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "copy",
   "maturity": "new",

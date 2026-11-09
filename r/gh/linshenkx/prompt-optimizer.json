@@ -28,19 +28,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/linshenkx/prompt-optimizer",
-    "sha": "5951bd427ee51f273415f1f63a87fc6620e47210",
-    "file_url": "https://cdn.jsdelivr.net/gh/linshenkx/prompt-optimizer@5951bd427ee51f273415f1f63a87fc6620e47210/{path}"
+    "sha": "82a40b91ae9a0583f27bec121da03a157aacd42f",
+    "file_url": "https://cdn.jsdelivr.net/gh/linshenkx/prompt-optimizer@82a40b91ae9a0583f27bec121da03a157aacd42f/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 40433,
-    "size_mb": 49,
+    "stars": 40876,
+    "size_mb": 48,
     "created_at": "2025-02-12T06:06:49Z",
-    "last_commit_at": "2026-11-03T08:58:35Z",
-    "releases": 60,
-    "tags": 63,
-    "archived": false
+    "last_commit_at": "2026-11-06T15:29:36Z",
+    "releases": 61,
+    "tags": 64,
+    "archived": false,
+    "release": {
+      "tag": "v2.15.1",
+      "at": "2026-11-03T14:46:27.000Z"
+    }
   },
   "reuse": "study",
   "maturity": "stable",

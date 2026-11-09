@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a5db82f06c1da0dfac28e283a15d19d37a3f2cf2"
+  },
+  "id": "gh:boundaryml/baml",
+  "kind": "repo",
+  "url": "https://github.com/BoundaryML/baml",
+  "title": "baml",
+  "why": "A dedicated language for defining LLM calls that return structured data, with a Rust engine and guardrails.",
+  "keys": {
+    "races": [
+      "agents/frameworks"
+    ],
+    "lanes": [
+      "agents/frameworks"
+    ],
+    "capabilities": [
+      "agents/frameworks/structured-io"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/BoundaryML/baml",
+    "sha": "a5db82f06c1da0dfac28e283a15d19d37a3f2cf2",
+    "file_url": "https://raw.githubusercontent.com/BoundaryML/baml/a5db82f06c1da0dfac28e283a15d19d37a3f2cf2/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 9492,
+    "size_mb": 710,
+    "created_at": "2023-10-06T18:57:41Z",
+    "last_commit_at": "2026-11-08T02:16:16Z",
+    "releases": 695,
+    "tags": 1457,
+    "archived": false,
+    "release": {
+      "tag": "baml-language-0.25.3-nightly.20261106.a",
+      "at": "2026-11-07T09:03:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

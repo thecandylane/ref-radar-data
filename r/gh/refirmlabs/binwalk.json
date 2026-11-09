@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:26713972e3f9f52dc37d4a421c4554b0bd9e82ef"
+  },
+  "id": "gh:refirmlabs/binwalk",
+  "kind": "repo",
+  "url": "https://github.com/ReFirmLabs/binwalk",
+  "title": "binwalk",
+  "why": "Finds and extracts files hidden inside other files, mainly firmware images, with entropy analysis, in a Rust rewrite.",
+  "keys": {
+    "races": [
+      "cyber/reversing",
+      "embedded/firmware"
+    ],
+    "lanes": [
+      "cyber/reversing",
+      "embedded/firmware"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ReFirmLabs/binwalk",
+    "sha": "26713972e3f9f52dc37d4a421c4554b0bd9e82ef",
+    "file_url": "https://cdn.jsdelivr.net/gh/ReFirmLabs/binwalk@26713972e3f9f52dc37d4a421c4554b0bd9e82ef/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 14631,
+    "size_mb": 52,
+    "created_at": "2013-11-15T20:45:40Z",
+    "last_commit_at": "2026-08-11T15:27:26Z",
+    "releases": 11,
+    "tags": 12,
+    "archived": false,
+    "release": {
+      "tag": "v3.1.0",
+      "at": "2024-10-31T14:54:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

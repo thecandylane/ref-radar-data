@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0e6b480f858c69862ffb6001d96e9eef74599a6e"
+  },
+  "id": "gh:espressif/esp-idf",
+  "kind": "repo",
+  "url": "https://github.com/espressif/esp-idf",
+  "title": "esp-idf",
+  "why": "Espressif's framework for firmware on its chips, with components, examples, CMake builds and install and export scripts.",
+  "keys": {
+    "races": [
+      "embedded/firmware"
+    ],
+    "lanes": [
+      "embedded/firmware"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/espressif/esp-idf",
+    "sha": "0e6b480f858c69862ffb6001d96e9eef74599a6e",
+    "file_url": "https://raw.githubusercontent.com/espressif/esp-idf/0e6b480f858c69862ffb6001d96e9eef74599a6e/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "Apache-2.0",
+    "stars": 19462,
+    "size_mb": 452,
+    "created_at": "2016-08-17T10:40:35Z",
+    "last_commit_at": "2026-11-02T10:45:46Z",
+    "releases": 165,
+    "tags": 193,
+    "archived": false,
+    "release": {
+      "tag": "v6.1",
+      "at": "2026-08-27T01:56:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

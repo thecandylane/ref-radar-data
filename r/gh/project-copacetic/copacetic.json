@@ -1,0 +1,81 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f91268d5470c38bc94c7ab69d53a3cc4d8a6cfaa"
+  },
+  "id": "gh:project-copacetic/copacetic",
+  "kind": "repo",
+  "url": "https://github.com/project-copacetic/copacetic",
+  "title": "copacetic",
+  "why": "Patches vulnerable packages inside a container image directly from scanner output, with no rebuild from source.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "infra/containers"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "infra/containers"
+    ],
+    "capabilities": [
+      "cyber/appsec/auto-remediation"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/project-copacetic/copacetic",
+    "sha": "f91268d5470c38bc94c7ab69d53a3cc4d8a6cfaa",
+    "file_url": "https://cdn.jsdelivr.net/gh/project-copacetic/copacetic@f91268d5470c38bc94c7ab69d53a3cc4d8a6cfaa/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 1746,
+    "size_mb": 30,
+    "created_at": "2023-01-11T18:56:42Z",
+    "last_commit_at": "2026-11-05T20:09:50Z",
+    "releases": 28,
+    "tags": 28,
+    "archived": false,
+    "release": {
+      "tag": "v0.15.0",
+      "at": "2026-09-04T02:44:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-04T04:27:32.501Z"
+  }
+}

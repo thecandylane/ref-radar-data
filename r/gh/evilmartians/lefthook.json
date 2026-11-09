@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:13d66a090ac6e73f3ff44652761facb02b00e91c"
+  },
+  "id": "gh:evilmartians/lefthook",
+  "kind": "repo",
+  "url": "https://github.com/evilmartians/lefthook",
+  "title": "lefthook",
+  "why": "Manages Git hooks from a single config file and runs the checks you list, in a Go binary with a JSON schema for validation.",
+  "keys": {
+    "races": [
+      "dev-tools/vcs"
+    ],
+    "lanes": [
+      "dev-tools/vcs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/evilmartians/lefthook",
+    "sha": "13d66a090ac6e73f3ff44652761facb02b00e91c",
+    "file_url": "https://cdn.jsdelivr.net/gh/evilmartians/lefthook@13d66a090ac6e73f3ff44652761facb02b00e91c/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 9013,
+    "size_mb": 97,
+    "created_at": "2019-02-05T14:00:56Z",
+    "last_commit_at": "2026-11-06T08:06:35Z",
+    "releases": 228,
+    "tags": 229,
+    "archived": false,
+    "release": {
+      "tag": "v2.2.2",
+      "at": "2026-10-13T09:20:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

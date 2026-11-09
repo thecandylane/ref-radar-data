@@ -1,0 +1,65 @@
+{
+  "id": "gh:huggingface/transformers",
+  "kind": "repo",
+  "url": "https://github.com/huggingface/transformers",
+  "title": "transformers",
+  "why": "Shared model definitions in PyTorch, with a model hub and pretrained weights for language, vision and speech work.",
+  "keys": {
+    "races": [
+      "llm-infra/inference",
+      "media/speech",
+      "ml/training",
+      "ml/vision"
+    ],
+    "lanes": [
+      "llm-infra/inference",
+      "media/speech",
+      "ml/training",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/huggingface/transformers",
+    "sha": "58d05ca5724a434979a9fb26d4ed65dce856b854",
+    "file_url": "https://cdn.jsdelivr.net/gh/huggingface/transformers@58d05ca5724a434979a9fb26d4ed65dce856b854/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 168643,
+    "size_mb": 544,
+    "created_at": "2018-10-29T13:56:00Z",
+    "last_commit_at": "2026-11-07T20:57:00Z",
+    "releases": 282,
+    "tags": 299,
+    "archived": false,
+    "release": {
+      "tag": "v5.22.2",
+      "at": "2026-11-06T15:43:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

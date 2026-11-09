@@ -28,19 +28,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/e2b-dev/E2B",
-    "sha": "8cc9ed1e30a57d89cefaec112680567d62f21112",
-    "file_url": "https://cdn.jsdelivr.net/gh/e2b-dev/E2B@8cc9ed1e30a57d89cefaec112680567d62f21112/{path}"
+    "sha": "b1f9a3e1ad88151dca200e3f925b8b01182ee445",
+    "file_url": "https://cdn.jsdelivr.net/gh/e2b-dev/E2B@b1f9a3e1ad88151dca200e3f925b8b01182ee445/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 14684,
+    "stars": 14765,
     "size_mb": 128,
     "created_at": "2023-03-04T13:41:18Z",
-    "last_commit_at": "2026-11-02T19:01:54Z",
-    "releases": 669,
-    "tags": 777,
-    "archived": false
+    "last_commit_at": "2026-11-06T16:50:59Z",
+    "releases": 675,
+    "tags": 783,
+    "archived": false,
+    "release": {
+      "tag": "@e2b/python-sdk@2.63.0",
+      "at": "2026-11-04T16:41:55.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

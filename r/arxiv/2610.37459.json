@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "page": "https://web.archive.org/web/20261102215542/https://arxiv.org/abs/2610.37459"
+  },
   "id": "arxiv:2610.37459",
   "kind": "paper",
   "url": "https://arxiv.org/abs/2610.37459",
@@ -6,12 +9,12 @@
   "why": "Clinician-reviewed skills lifted coding agents' reward by 0.136 on 28 EHR derivation tasks, mostly from specification completeness.",
   "keys": {
     "races": [
-      "agents/skills",
-      "llm-infra/evals"
+      "llm-infra/evals",
+      "agents/skills"
     ],
     "lanes": [
-      "agents/skills",
-      "llm-infra/evals"
+      "llm-infra/evals",
+      "agents/skills"
     ],
     "capabilities": []
   },

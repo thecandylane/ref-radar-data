@@ -1,0 +1,63 @@
+{
+  "id": "gh:rr-debugger/rr",
+  "kind": "repo",
+  "url": "https://github.com/rr-debugger/rr",
+  "title": "rr",
+  "why": "Records a Linux program run once and replays it under gdb, so you can step backwards through a failure.",
+  "keys": {
+    "races": [
+      "cyber/reversing",
+      "dev-tools/debugging"
+    ],
+    "lanes": [
+      "cyber/reversing",
+      "dev-tools/debugging"
+    ],
+    "capabilities": [
+      "cyber/reversing/debuggers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rr-debugger/rr",
+    "sha": "116719af0a37781ef8d2f6d6d4c4fbcd769a31f1",
+    "file_url": "https://cdn.jsdelivr.net/gh/rr-debugger/rr@116719af0a37781ef8d2f6d6d4c4fbcd769a31f1/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 10740,
+    "size_mb": 27,
+    "created_at": "2011-08-25T18:59:32Z",
+    "last_commit_at": "2026-11-02T06:44:49Z",
+    "releases": 23,
+    "tags": 42,
+    "archived": false,
+    "release": {
+      "tag": "5.10.0",
+      "at": "2026-10-15T12:10:10.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

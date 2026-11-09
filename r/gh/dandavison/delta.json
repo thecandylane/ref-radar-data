@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3c2269c6b845913965575f11b0196d70ef5352f3"
+  },
+  "id": "gh:dandavison/delta",
+  "kind": "repo",
+  "url": "https://github.com/dandavison/delta",
+  "title": "dandavison/delta",
+  "why": "Colors git diffs, grep and blame output with syntax highlighting, and ships themes you load from gitconfig.",
+  "keys": {
+    "races": [
+      "dev-tools/vcs"
+    ],
+    "lanes": [
+      "dev-tools/vcs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dandavison/delta",
+    "sha": "3c2269c6b845913965575f11b0196d70ef5352f3",
+    "file_url": "https://cdn.jsdelivr.net/gh/dandavison/delta@3c2269c6b845913965575f11b0196d70ef5352f3/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 32688,
+    "size_mb": 11,
+    "created_at": "2019-06-24T15:00:13Z",
+    "last_commit_at": "2026-10-05T00:00:43Z",
+    "releases": 64,
+    "tags": 69,
+    "archived": false,
+    "release": {
+      "tag": "0.20.1",
+      "at": "2026-10-04T19:38:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

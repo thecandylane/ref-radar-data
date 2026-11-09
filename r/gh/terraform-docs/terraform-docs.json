@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b17ec1bebe08758be2110de4894742bdae515e17"
+  },
+  "id": "gh:terraform-docs/terraform-docs",
+  "kind": "repo",
+  "url": "https://github.com/terraform-docs/terraform-docs",
+  "title": "terraform-docs",
+  "why": "Writes README tables for Terraform modules in several formats, runnable as a CLI or pre-commit hook.",
+  "keys": {
+    "races": [
+      "infra/iac",
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "infra/iac",
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/terraform-docs/terraform-docs",
+    "sha": "b17ec1bebe08758be2110de4894742bdae515e17",
+    "file_url": "https://cdn.jsdelivr.net/gh/terraform-docs/terraform-docs@b17ec1bebe08758be2110de4894742bdae515e17/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 4838,
+    "size_mb": 3,
+    "created_at": "2016-06-12T16:46:22Z",
+    "last_commit_at": "2026-08-01T08:55:53Z",
+    "releases": 0,
+    "tags": 41,
+    "archived": false,
+    "release": {
+      "tag": "v0.24.0",
+      "at": "2026-05-10T23:19:35.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

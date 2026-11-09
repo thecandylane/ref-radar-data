@@ -1,0 +1,59 @@
+{
+  "id": "gh:sonarsource/sonarqube",
+  "kind": "repo",
+  "url": "https://github.com/SonarSource/sonarqube",
+  "title": "sonarqube",
+  "why": "Code-quality server that runs static analysis and tracks findings, with a plugin API and sonar-ws web services, in Java.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "dev-tools/code-review"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "dev-tools/code-review"
+    ],
+    "capabilities": [
+      "cyber/appsec/static-analysis"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SonarSource/sonarqube",
+    "sha": "889adecb940704890871048f99ec3b3a172a8761",
+    "file_url": "https://cdn.jsdelivr.net/gh/SonarSource/sonarqube@889adecb940704890871048f99ec3b3a172a8761/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "LGPL-3.0",
+    "stars": 11160,
+    "size_mb": 948,
+    "created_at": "2011-01-05T11:05:17Z",
+    "last_commit_at": "2026-11-06T20:06:04Z",
+    "releases": 79,
+    "tags": 268,
+    "archived": false,
+    "release": {
+      "tag": "26.11.0.134175",
+      "at": "2026-11-04T15:13:10.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

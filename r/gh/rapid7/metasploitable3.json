@@ -1,0 +1,55 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b3442cc893fe4fa5a63a8ec95267ab4ee9881c5c"
+  },
+  "id": "gh:rapid7/metasploitable3",
+  "kind": "repo",
+  "url": "https://github.com/rapid7/metasploitable3",
+  "title": "metasploitable3",
+  "why": "Deliberately vulnerable VM built with Packer, Vagrant and Chef, for practising attacks in a lab.",
+  "keys": {
+    "races": [
+      "learning/security-labs"
+    ],
+    "lanes": [
+      "learning/security-labs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rapid7/metasploitable3",
+    "sha": "b3442cc893fe4fa5a63a8ec95267ab4ee9881c5c",
+    "file_url": "https://raw.githubusercontent.com/rapid7/metasploitable3/b3442cc893fe4fa5a63a8ec95267ab4ee9881c5c/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "NOASSERTION",
+    "stars": 5778,
+    "size_mb": 248,
+    "created_at": "2016-08-29T19:41:22Z",
+    "last_commit_at": "2025-02-13T14:49:36Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

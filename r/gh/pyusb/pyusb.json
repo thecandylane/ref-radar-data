@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3241c0e6a7debafd7597925e8403d9d3ea02ed93"
+  },
+  "id": "gh:pyusb/pyusb",
+  "kind": "repo",
+  "url": "https://github.com/pyusb/pyusb",
+  "title": "pyusb",
+  "why": "Python module for reading and writing USB hardware, kept in a single usb package.",
+  "keys": {
+    "races": [
+      "embedded/drivers"
+    ],
+    "lanes": [
+      "embedded/drivers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pyusb/pyusb",
+    "sha": "3241c0e6a7debafd7597925e8403d9d3ea02ed93",
+    "file_url": "https://cdn.jsdelivr.net/gh/pyusb/pyusb@3241c0e6a7debafd7597925e8403d9d3ea02ed93/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 2316,
+    "size_mb": 1,
+    "created_at": "2011-09-02T18:36:18Z",
+    "last_commit_at": "2026-02-12T15:08:32Z",
+    "releases": 6,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.1",
+      "at": "2025-01-08T23:50:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

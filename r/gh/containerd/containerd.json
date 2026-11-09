@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:79e23749d4840f5f12d7b4fc54147479f2254f96"
+  },
   "id": "gh:containerd/containerd",
   "kind": "repo",
   "url": "https://github.com/containerd/containerd",
@@ -36,19 +39,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/containerd/containerd",
-    "sha": "aefce4e7cdbf9a8ce754cd4edb1de5d44f0c704d",
-    "file_url": "https://cdn.jsdelivr.net/gh/containerd/containerd@aefce4e7cdbf9a8ce754cd4edb1de5d44f0c704d/{path}"
+    "sha": "79e23749d4840f5f12d7b4fc54147479f2254f96",
+    "file_url": "https://cdn.jsdelivr.net/gh/containerd/containerd@79e23749d4840f5f12d7b4fc54147479f2254f96/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 21453,
+    "stars": 21464,
     "size_mb": 140,
     "created_at": "2015-11-13T00:27:43Z",
-    "last_commit_at": "2026-11-02T17:22:46Z",
+    "last_commit_at": "2026-11-07T19:25:17Z",
     "releases": 320,
     "tags": 333,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v2.4.2",
+      "at": "2026-10-13T22:35:06.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -58,7 +65,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 10,
     "votes": {},
     "ranks": {}
   }

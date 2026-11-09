@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:08aa5114730064b86e62d15bbc1fa7e6fdf94f57"
+  },
+  "id": "gh:corazawaf/coraza",
+  "kind": "repo",
+  "url": "https://github.com/corazawaf/coraza",
+  "title": "coraza",
+  "why": "Web application firewall library for Go that reads ModSecurity rules and the OWASP Core Rule Set.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "infra/networking"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/corazawaf/coraza",
+    "sha": "08aa5114730064b86e62d15bbc1fa7e6fdf94f57",
+    "file_url": "https://cdn.jsdelivr.net/gh/corazawaf/coraza@08aa5114730064b86e62d15bbc1fa7e6fdf94f57/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 4005,
+    "size_mb": 31,
+    "created_at": "2020-05-27T17:06:51Z",
+    "last_commit_at": "2026-10-29T10:40:12Z",
+    "releases": 43,
+    "tags": 43,
+    "archived": false,
+    "release": {
+      "tag": "v3.8.1",
+      "at": "2026-10-02T13:52:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a YARA rule for offensive tools matched"
+    ],
+    "scanned_at": "2026-11-04T00:18:28.019Z"
+  }
+}

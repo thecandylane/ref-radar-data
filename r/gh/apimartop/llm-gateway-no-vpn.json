@@ -1,0 +1,55 @@
+{
+  "id": "gh:apimartop/llm-gateway-no-vpn",
+  "kind": "repo",
+  "url": "https://github.com/apimartop/llm-gateway-no-vpn",
+  "title": "llm-gateway-no-vpn",
+  "why": "Route table, request parameters and curl and Python quickstarts for one OpenAI-compatible endpoint, with submit-then-poll video jobs.",
+  "keys": {
+    "races": [
+      "llm-infra/gateways"
+    ],
+    "lanes": [
+      "llm-infra/gateways"
+    ],
+    "capabilities": [
+      "llm-infra/gateways/llm-gateway",
+      "llm-infra/gateways/model-routing"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apimartop/llm-gateway-no-vpn",
+    "sha": "02a3b5ee5008f742f9990a936cda7f3516ad8052",
+    "file_url": "https://cdn.jsdelivr.net/gh/apimartop/llm-gateway-no-vpn@02a3b5ee5008f742f9990a936cda7f3516ad8052/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 69,
+    "size_mb": 6,
+    "created_at": "2026-10-02T10:06:15Z",
+    "last_commit_at": "2026-11-07T13:06:22Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

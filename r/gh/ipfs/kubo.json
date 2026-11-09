@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:833e04a240d8c533509ddaaa3c202b39b0bb3024"
+  },
+  "id": "gh:ipfs/kubo",
+  "kind": "repo",
+  "url": "https://github.com/ipfs/kubo",
+  "title": "kubo",
+  "why": "Go implementation of IPFS: run a daemon to publish and fetch content-addressed files via CLI, HTTP gateway or RPC API.",
+  "keys": {
+    "races": [
+      "data/storage"
+    ],
+    "lanes": [
+      "data/storage"
+    ],
+    "capabilities": [
+      "data/storage/object-storage"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ipfs/kubo",
+    "sha": "833e04a240d8c533509ddaaa3c202b39b0bb3024",
+    "file_url": "https://cdn.jsdelivr.net/gh/ipfs/kubo@833e04a240d8c533509ddaaa3c202b39b0bb3024/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "NOASSERTION",
+    "stars": 17177,
+    "size_mb": 60,
+    "created_at": "2014-06-26T08:14:34Z",
+    "last_commit_at": "2026-09-27T18:55:16Z",
+    "releases": 135,
+    "tags": 223,
+    "archived": false,
+    "release": {
+      "tag": "v0.43.1",
+      "at": "2026-09-15T00:52:17.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

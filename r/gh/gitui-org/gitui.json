@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d7214eccb3cac52ce3f8d9ca18f218671821eeee"
+  },
+  "id": "gh:gitui-org/gitui",
+  "kind": "repo",
+  "url": "https://github.com/gitui-org/gitui",
+  "title": "gitui",
+  "why": "Git client for the terminal written in Rust, with async git operations plus key bindings and themes you can change.",
+  "keys": {
+    "races": [
+      "dev-tools/vcs",
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "dev-tools/vcs",
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gitui-org/gitui",
+    "sha": "d7214eccb3cac52ce3f8d9ca18f218671821eeee",
+    "file_url": "https://cdn.jsdelivr.net/gh/gitui-org/gitui@d7214eccb3cac52ce3f8d9ca18f218671821eeee/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 22635,
+    "size_mb": 64,
+    "created_at": "2020-03-16T14:38:01Z",
+    "last_commit_at": "2026-10-06T07:08:04Z",
+    "releases": 67,
+    "tags": 69,
+    "archived": false,
+    "release": {
+      "tag": "v0.28.1",
+      "at": "2026-03-24T23:26:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

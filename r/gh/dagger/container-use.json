@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2e43e625e95216b719ec9338f4034fd3a0be2734"
+  },
+  "id": "gh:dagger/container-use",
+  "kind": "repo",
+  "url": "https://github.com/dagger/container-use",
+  "title": "container-use",
+  "why": "Gives each coding agent its own containerized environment, so several can work side by side on one project without clashing.",
+  "keys": {
+    "races": [
+      "agents/sandboxes",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/sandboxes",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/sandboxes/code-sandboxes",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dagger/container-use",
+    "sha": "2e43e625e95216b719ec9338f4034fd3a0be2734",
+    "file_url": "https://cdn.jsdelivr.net/gh/dagger/container-use@2e43e625e95216b719ec9338f4034fd3a0be2734/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 4087,
+    "size_mb": 3,
+    "created_at": "2025-05-23T23:18:43Z",
+    "last_commit_at": "2026-08-12T16:30:35Z",
+    "releases": 14,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.2",
+      "at": "2025-08-19T22:31:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

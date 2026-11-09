@@ -1,0 +1,61 @@
+{
+  "id": "gh:maplibre/maplibre-gl-js",
+  "kind": "repo",
+  "url": "https://github.com/maplibre/maplibre-gl-js",
+  "title": "maplibre-gl-js",
+  "why": "WebGL2 renderer for vector tile maps running in browsers, with ARCHITECTURE.md and developer-guides that explain the codebase.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "games/graphics"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/maplibre/maplibre-gl-js",
+    "sha": "6b3a1e600ee8923d1d5936cf7ce607c3de952c64",
+    "file_url": "https://raw.githubusercontent.com/maplibre/maplibre-gl-js/6b3a1e600ee8923d1d5936cf7ce607c3de952c64/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 12036,
+    "size_mb": 1054,
+    "created_at": "2020-12-08T22:42:56Z",
+    "last_commit_at": "2026-11-07T22:53:50Z",
+    "releases": 189,
+    "tags": 190,
+    "archived": false,
+    "release": {
+      "tag": "v6.17.0",
+      "at": "2026-11-07T22:58:55.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

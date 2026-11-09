@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:db8c8aaa9255d81310c6a2a5562248717ccf0a98"
+  },
+  "id": "gh:jenkinsci/jenkins",
+  "kind": "repo",
+  "url": "https://github.com/jenkinsci/jenkins",
+  "title": "jenkins",
+  "why": "Automation server in Java for continuous integration and delivery, with pipelines as code defined in a Jenkinsfile.",
+  "keys": {
+    "races": [
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jenkinsci/jenkins",
+    "sha": "db8c8aaa9255d81310c6a2a5562248717ccf0a98",
+    "file_url": "https://cdn.jsdelivr.net/gh/jenkinsci/jenkins@db8c8aaa9255d81310c6a2a5562248717ccf0a98/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "MIT",
+    "stars": 26740,
+    "size_mb": 170,
+    "created_at": "2010-11-22T21:21:23Z",
+    "last_commit_at": "2026-11-07T17:48:17Z",
+    "releases": 533,
+    "tags": 1940,
+    "archived": false,
+    "release": {
+      "tag": "jenkins-2.580.2",
+      "at": "2026-10-28T16:26:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

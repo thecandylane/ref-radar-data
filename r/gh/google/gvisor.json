@@ -28,19 +28,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/google/gvisor",
-    "sha": "ac7b4e0fdc7dc4674453438e5e15fc069895620c",
-    "file_url": "https://cdn.jsdelivr.net/gh/google/gvisor@ac7b4e0fdc7dc4674453438e5e15fc069895620c/{path}"
+    "sha": "90d4e2253f004cdc73a35dbc4050eab3e9a8495d",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/gvisor@90d4e2253f004cdc73a35dbc4050eab3e9a8495d/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 19855,
-    "size_mb": 1369,
+    "stars": 19915,
+    "size_mb": 1371,
     "created_at": "2018-04-26T21:28:49Z",
-    "last_commit_at": "2026-11-03T02:56:28Z",
+    "last_commit_at": "2026-11-08T06:42:56Z",
     "releases": 11,
     "tags": 286,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "release-20261102.0",
+      "at": "2026-11-02T22:00:15.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -50,7 +54,7 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 66,
+    "star_delta_7d": 68,
     "votes": {},
     "ranks": {}
   }

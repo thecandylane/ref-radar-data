@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:634db3373563e6c2a778a8ccf13a72752fc8106c"
+  },
   "id": "gh:anchore/grype",
   "kind": "repo",
   "url": "https://github.com/anchore/grype",
@@ -34,19 +37,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/anchore/grype",
-    "sha": "cb4a51d7fe3a32a66ef90f8ad1e9f17790123407",
-    "file_url": "https://cdn.jsdelivr.net/gh/anchore/grype@cb4a51d7fe3a32a66ef90f8ad1e9f17790123407/{path}"
+    "sha": "634db3373563e6c2a778a8ccf13a72752fc8106c",
+    "file_url": "https://cdn.jsdelivr.net/gh/anchore/grype@634db3373563e6c2a778a8ccf13a72752fc8106c/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 13166,
+    "stars": 13209,
     "size_mb": 11,
     "created_at": "2020-05-26T13:44:38Z",
-    "last_commit_at": "2026-11-02T17:08:49Z",
-    "releases": 207,
-    "tags": 215,
-    "archived": false
+    "last_commit_at": "2026-11-06T15:37:58Z",
+    "releases": 208,
+    "tags": 216,
+    "archived": false,
+    "release": {
+      "tag": "v0.121.2",
+      "at": "2026-11-05T21:22:53.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

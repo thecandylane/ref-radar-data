@@ -28,19 +28,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/openinterpreter/openinterpreter",
-    "sha": "ac1fcc8fe57aba51fcc3c79afd57a0883237fe87",
-    "file_url": "https://cdn.jsdelivr.net/gh/openinterpreter/openinterpreter@ac1fcc8fe57aba51fcc3c79afd57a0883237fe87/{path}"
+    "sha": "f12ce327eeee679d2f2f22ce23018b0db9ae092f",
+    "file_url": "https://cdn.jsdelivr.net/gh/openinterpreter/openinterpreter@f12ce327eeee679d2f2f22ce23018b0db9ae092f/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 68784,
-    "size_mb": 285,
+    "stars": 68834,
+    "size_mb": 278,
     "created_at": "2023-07-14T07:10:44Z",
-    "last_commit_at": "2026-11-01T09:59:54Z",
-    "releases": 75,
-    "tags": 96,
-    "archived": false
+    "last_commit_at": "2026-11-07T18:18:43Z",
+    "releases": 76,
+    "tags": 97,
+    "archived": false,
+    "release": {
+      "tag": "rust-v0.0.59",
+      "at": "2026-11-04T03:22:02.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

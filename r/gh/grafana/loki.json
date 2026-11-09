@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c6529cc1ef64401a54ba29d26ace7ff5bbad1416"
+  },
   "id": "gh:grafana/loki",
   "kind": "repo",
   "url": "https://github.com/grafana/loki",
@@ -32,19 +35,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/grafana/loki",
-    "sha": "227434a52b3911f954bcca1c3f592c6fa8481a73",
-    "file_url": "https://raw.githubusercontent.com/grafana/loki/227434a52b3911f954bcca1c3f592c6fa8481a73/{path}"
+    "sha": "c6529cc1ef64401a54ba29d26ace7ff5bbad1416",
+    "file_url": "https://raw.githubusercontent.com/grafana/loki/c6529cc1ef64401a54ba29d26ace7ff5bbad1416/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "AGPL-3.0",
-    "stars": 29113,
-    "size_mb": 561,
+    "stars": 29136,
+    "size_mb": 562,
     "created_at": "2018-04-16T09:22:48Z",
-    "last_commit_at": "2026-11-03T07:38:45Z",
-    "releases": 139,
-    "tags": 401,
-    "archived": false
+    "last_commit_at": "2026-11-07T21:29:18Z",
+    "releases": 143,
+    "tags": 405,
+    "archived": false,
+    "release": {
+      "tag": "v3.7.9",
+      "at": "2026-10-20T22:53:57.000Z"
+    }
   },
   "reuse": "copyleft",
   "maturity": "stable",
@@ -54,7 +61,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 28,
     "votes": {},
     "ranks": {}
   }

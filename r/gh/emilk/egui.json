@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fc9d66dda742d722eedaa8684d23f86369cf8e5f"
+  },
+  "id": "gh:emilk/egui",
+  "kind": "repo",
+  "url": "https://github.com/emilk/egui",
+  "title": "egui",
+  "why": "Rust GUI where a button is just an if on clicked, with no callbacks, and eframe ships it to web, Linux, Mac, Windows and Android.",
+  "keys": {
+    "races": [
+      "desktop/native-ui",
+      "games/engines"
+    ],
+    "lanes": [
+      "desktop/native-ui",
+      "games/engines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/emilk/egui",
+    "sha": "fc9d66dda742d722eedaa8684d23f86369cf8e5f",
+    "file_url": "https://cdn.jsdelivr.net/gh/emilk/egui@fc9d66dda742d722eedaa8684d23f86369cf8e5f/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 32108,
+    "size_mb": 94,
+    "created_at": "2019-01-13T15:39:15Z",
+    "last_commit_at": "2026-11-06T17:12:54Z",
+    "releases": 46,
+    "tags": 67,
+    "archived": false,
+    "release": {
+      "tag": "0.37.0",
+      "at": "2026-10-15T15:49:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a0bd80d9cbb7fb712e36c1d584eb33c5c8a7e4e6"
+  },
+  "id": "gh:erlang/otp",
+  "kind": "repo",
+  "url": "https://github.com/erlang/otp",
+  "title": "otp",
+  "why": "Erlang's virtual machine and standard libraries in one tree, with erts and lib as the places to start.",
+  "keys": {
+    "races": [
+      "languages/runtimes"
+    ],
+    "lanes": [
+      "languages/runtimes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/erlang/otp",
+    "sha": "a0bd80d9cbb7fb712e36c1d584eb33c5c8a7e4e6",
+    "file_url": "https://raw.githubusercontent.com/erlang/otp/a0bd80d9cbb7fb712e36c1d584eb33c5c8a7e4e6/{path}"
+  },
+  "facts": {
+    "lang": "Erlang",
+    "license": "Apache-2.0",
+    "stars": 12357,
+    "size_mb": 630,
+    "created_at": "2009-11-16T17:17:57Z",
+    "last_commit_at": "2026-11-06T21:43:03Z",
+    "releases": 386,
+    "tags": 576,
+    "archived": false,
+    "release": {
+      "tag": "OTP-29.1.2",
+      "at": "2026-10-14T15:30:35.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

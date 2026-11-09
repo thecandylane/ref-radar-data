@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1826a3795ead8c62e56e81497edd824efb1d5472"
+  },
+  "id": "gh:mage-ai/mage-ai",
+  "kind": "repo",
+  "url": "https://github.com/mage-ai/mage-ai",
+  "title": "mage-ai",
+  "why": "Python data pipeline tool covering ETL, ELT and reverse ETL, with SQL, Spark and dbt support and a kube folder for deploys.",
+  "keys": {
+    "races": [
+      "data/pipelines"
+    ],
+    "lanes": [
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mage-ai/mage-ai",
+    "sha": "1826a3795ead8c62e56e81497edd824efb1d5472",
+    "file_url": "https://raw.githubusercontent.com/mage-ai/mage-ai/1826a3795ead8c62e56e81497edd824efb1d5472/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 8844,
+    "size_mb": 243,
+    "created_at": "2022-05-16T22:11:39Z",
+    "last_commit_at": "2026-10-23T20:06:31Z",
+    "releases": 61,
+    "tags": 62,
+    "archived": false,
+    "release": {
+      "tag": "0.9.80",
+      "at": "2026-10-09T21:41:32.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

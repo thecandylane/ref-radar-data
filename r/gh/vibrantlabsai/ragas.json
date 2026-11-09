@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:298b68274234c060deacab3cf5fb52aa3a20e885"
+  },
+  "id": "gh:vibrantlabsai/ragas",
+  "kind": "repo",
+  "url": "https://github.com/vibrantlabsai/ragas",
+  "title": "ragas",
+  "why": "Evaluation toolkit for LLM applications, with examples and docs folders for adding it to your own pipeline.",
+  "keys": {
+    "races": [
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vibrantlabsai/ragas",
+    "sha": "298b68274234c060deacab3cf5fb52aa3a20e885",
+    "file_url": "https://cdn.jsdelivr.net/gh/vibrantlabsai/ragas@298b68274234c060deacab3cf5fb52aa3a20e885/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 16259,
+    "size_mb": 46,
+    "created_at": "2023-05-08T17:48:04Z",
+    "last_commit_at": "2026-02-24T07:47:18Z",
+    "releases": 89,
+    "tags": 90,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.3",
+      "at": "2026-01-13T17:47:29.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

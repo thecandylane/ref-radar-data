@@ -1,0 +1,55 @@
+{
+  "id": "gh:kedro-org/kedro",
+  "kind": "repo",
+  "url": "https://github.com/kedro-org/kedro",
+  "title": "kedro",
+  "why": "Structures data science code into modular, reproducible Python pipelines using software engineering practices.",
+  "keys": {
+    "races": [
+      "data/pipelines"
+    ],
+    "lanes": [
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kedro-org/kedro",
+    "sha": "5a98aa58b7ac815de130fd7f56e23fb28245f5fe",
+    "file_url": "https://cdn.jsdelivr.net/gh/kedro-org/kedro@5a98aa58b7ac815de130fd7f56e23fb28245f5fe/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 11046,
+    "size_mb": 246,
+    "created_at": "2019-04-18T10:29:56Z",
+    "last_commit_at": "2026-11-06T15:06:19Z",
+    "releases": 73,
+    "tags": 79,
+    "archived": false,
+    "release": {
+      "tag": "1.7.0",
+      "at": "2026-09-28T16:13:19.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

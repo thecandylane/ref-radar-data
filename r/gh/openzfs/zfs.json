@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:924b8c89c04e324649855b05986f686b58ca4cb9"
+  },
+  "id": "gh:openzfs/zfs",
+  "kind": "repo",
+  "url": "https://github.com/openzfs/zfs",
+  "title": "zfs",
+  "why": "OpenZFS source for Linux and FreeBSD covering the kernel module, userland commands and a large test suite.",
+  "keys": {
+    "races": [
+      "data/storage"
+    ],
+    "lanes": [
+      "data/storage"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openzfs/zfs",
+    "sha": "924b8c89c04e324649855b05986f686b58ca4cb9",
+    "file_url": "https://cdn.jsdelivr.net/gh/openzfs/zfs@924b8c89c04e324649855b05986f686b58ca4cb9/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 12551,
+    "size_mb": 159,
+    "created_at": "2009-12-14T20:20:34Z",
+    "last_commit_at": "2026-11-07T20:13:34Z",
+    "releases": 134,
+    "tags": 165,
+    "archived": false,
+    "release": {
+      "tag": "zfs-2.4.4",
+      "at": "2026-08-21T23:34:10.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

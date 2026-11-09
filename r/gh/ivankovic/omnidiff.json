@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7d27fe8b27236a43c44b24e81da4c3fbb0cd8408"
+  },
+  "id": "gh:ivankovic/omnidiff",
+  "kind": "repo",
+  "url": "https://github.com/ivankovic/omnidiff",
+  "title": "omnidiff",
+  "why": "Creates syntax-aware, structural diffs of code changes instead of plain line diffs, making code review more accurate.",
+  "keys": {
+    "races": [
+      "dev-tools/code-review",
+      "dev-tools/vcs"
+    ],
+    "lanes": [
+      "dev-tools/code-review",
+      "dev-tools/vcs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ivankovic/omnidiff",
+    "sha": "7d27fe8b27236a43c44b24e81da4c3fbb0cd8408",
+    "file_url": "https://raw.githubusercontent.com/ivankovic/omnidiff/7d27fe8b27236a43c44b24e81da4c3fbb0cd8408/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "NOASSERTION",
+    "stars": 1254,
+    "size_mb": 204,
+    "created_at": "2025-10-17T11:25:02Z",
+    "last_commit_at": "2026-11-07T15:38:52Z",
+    "releases": 16,
+    "tags": 16,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.0",
+      "at": "2026-11-01T10:58:09.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "scan_partial": true
+}

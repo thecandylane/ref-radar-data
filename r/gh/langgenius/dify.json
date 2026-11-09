@@ -7,13 +7,13 @@
   "keys": {
     "races": [
       "agents/frameworks",
-      "agents/skills",
-      "llm-infra/rag"
+      "llm-infra/rag",
+      "agents/skills"
     ],
     "lanes": [
       "agents/frameworks",
-      "agents/skills",
-      "llm-infra/rag"
+      "llm-infra/rag",
+      "agents/skills"
     ],
     "capabilities": [
       "agents/frameworks/agent-workflows",
@@ -33,19 +33,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/langgenius/dify",
-    "sha": "8ba1adfbc414292c4b4e84a8514e0262cc3257b5",
-    "file_url": "https://cdn.jsdelivr.net/gh/langgenius/dify@8ba1adfbc414292c4b4e84a8514e0262cc3257b5/{path}"
+    "sha": "fe54b2ab67da1ef702e5e81429f5eaf1c2810533",
+    "file_url": "https://cdn.jsdelivr.net/gh/langgenius/dify@fe54b2ab67da1ef702e5e81429f5eaf1c2810533/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 160308,
-    "size_mb": 664,
+    "stars": 160645,
+    "size_mb": 679,
     "created_at": "2023-04-12T07:40:24Z",
-    "last_commit_at": "2026-11-03T08:51:15Z",
-    "releases": 171,
-    "tags": 179,
-    "archived": false
+    "last_commit_at": "2026-11-08T07:58:06Z",
+    "releases": 172,
+    "tags": 180,
+    "archived": false,
+    "release": {
+      "tag": "1.19.0",
+      "at": "2026-11-04T07:36:16.000Z"
+    }
   },
   "reuse": "study",
   "maturity": "stable",

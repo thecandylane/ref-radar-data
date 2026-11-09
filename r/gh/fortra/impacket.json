@@ -1,0 +1,57 @@
+{
+  "id": "gh:fortra/impacket",
+  "kind": "repo",
+  "url": "https://github.com/fortra/impacket",
+  "title": "impacket",
+  "why": "Python classes for SMB, MSRPC, Kerberos and other network protocols, with pass-the-hash and example scripts.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "infra/networking"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fortra/impacket",
+    "sha": "0b3ef2b979ba0f52dfc852dd41e0f90ce7b3bc42",
+    "file_url": "https://cdn.jsdelivr.net/gh/fortra/impacket@0b3ef2b979ba0f52dfc852dd41e0f90ce7b3bc42/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 16240,
+    "size_mb": 12,
+    "created_at": "2015-04-15T14:04:07Z",
+    "last_commit_at": "2026-11-04T17:26:24Z",
+    "releases": 16,
+    "tags": 23,
+    "archived": false,
+    "release": {
+      "tag": "impacket_0_13_1",
+      "at": "2026-05-19T15:39:49.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:6c9f6e6c6db43f766fce97c80c57fa123a0fdc31"
+  },
   "id": "gh:vuejs/vitepress",
   "kind": "repo",
   "url": "https://github.com/vuejs/vitepress",
@@ -28,19 +31,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/vuejs/vitepress",
-    "sha": "00c9d790543790e054b145db4e00e009f25c15f3",
-    "file_url": "https://cdn.jsdelivr.net/gh/vuejs/vitepress@00c9d790543790e054b145db4e00e009f25c15f3/{path}"
+    "sha": "6c9f6e6c6db43f766fce97c80c57fa123a0fdc31",
+    "file_url": "https://cdn.jsdelivr.net/gh/vuejs/vitepress@6c9f6e6c6db43f766fce97c80c57fa123a0fdc31/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 18455,
+    "stars": 18471,
     "size_mb": 19,
     "created_at": "2020-04-30T23:16:17Z",
-    "last_commit_at": "2026-10-29T18:19:33Z",
+    "last_commit_at": "2026-11-05T05:00:25Z",
     "releases": 190,
     "tags": 254,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v2.0.0-alpha.21",
+      "at": "2026-10-25T12:58:44.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -50,7 +57,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 18,
     "votes": {},
     "ranks": {}
   }

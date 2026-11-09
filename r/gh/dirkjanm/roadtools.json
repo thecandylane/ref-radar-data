@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f7b0c4750197d939b77d39bc63d020017cf17030"
+  },
+  "id": "gh:dirkjanm/roadtools",
+  "kind": "repo",
+  "url": "https://github.com/dirkjanm/ROADtools",
+  "title": "ROADtools",
+  "why": "Collects and inspects Azure AD and Entra data through Microsoft Graph, with roadrecon, roadtx and roadlib modules for offense or defense.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/iam"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dirkjanm/ROADtools",
+    "sha": "f7b0c4750197d939b77d39bc63d020017cf17030",
+    "file_url": "https://cdn.jsdelivr.net/gh/dirkjanm/ROADtools@f7b0c4750197d939b77d39bc63d020017cf17030/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 2757,
+    "size_mb": 3,
+    "created_at": "2020-03-28T09:56:08Z",
+    "last_commit_at": "2026-10-22T08:04:43Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-03T20:25:22.796Z"
+  }
+}

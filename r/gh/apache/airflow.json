@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:57793d01d9b43d6642476100b293f801b7c07d00"
+  },
   "id": "gh:apache/airflow",
   "kind": "repo",
   "url": "https://github.com/apache/airflow",
@@ -22,19 +25,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/airflow",
-    "sha": "03b0af96e50aa5a46b0bb7150106b51b0b755c52",
-    "file_url": "https://raw.githubusercontent.com/apache/airflow/03b0af96e50aa5a46b0bb7150106b51b0b755c52/{path}"
+    "sha": "57793d01d9b43d6642476100b293f801b7c07d00",
+    "file_url": "https://raw.githubusercontent.com/apache/airflow/57793d01d9b43d6642476100b293f801b7c07d00/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 47351,
-    "size_mb": 780,
+    "stars": 47418,
+    "size_mb": 791,
     "created_at": "2015-04-13T18:04:58Z",
-    "last_commit_at": "2026-11-03T04:37:51Z",
-    "releases": 127,
-    "tags": 10741,
-    "archived": false
+    "last_commit_at": "2026-11-08T02:52:12Z",
+    "releases": 128,
+    "tags": 10783,
+    "archived": false,
+    "release": {
+      "tag": "3.4.0",
+      "at": "2026-11-06T13:08:22.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

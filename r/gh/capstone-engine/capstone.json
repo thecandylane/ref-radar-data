@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:04fd70b5456c20fc27d1f2b62d6ed0820fc6b081"
+  },
+  "id": "gh:capstone-engine/capstone",
+  "kind": "repo",
+  "url": "https://github.com/capstone-engine/capstone",
+  "title": "capstone",
+  "why": "Disassembly library covering ARM, x86, MIPS, RISC-V and many more instruction sets, with bindings and a cstool utility.",
+  "keys": {
+    "races": [
+      "cyber/reversing"
+    ],
+    "lanes": [
+      "cyber/reversing"
+    ],
+    "capabilities": [
+      "cyber/reversing/disassemblers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/capstone-engine/capstone",
+    "sha": "04fd70b5456c20fc27d1f2b62d6ed0820fc6b081",
+    "file_url": "https://cdn.jsdelivr.net/gh/capstone-engine/capstone@04fd70b5456c20fc27d1f2b62d6ed0820fc6b081/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 9171,
+    "size_mb": 72,
+    "created_at": "2013-11-27T02:32:11Z",
+    "last_commit_at": "2026-11-04T14:55:58Z",
+    "releases": 49,
+    "tags": 56,
+    "archived": false,
+    "release": {
+      "tag": "6.0.0-Alpha11",
+      "at": "2026-09-21T17:53:59.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

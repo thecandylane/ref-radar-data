@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3011c66d1c0010de802f77a1b3e20f6bab2faaa6"
+  },
+  "id": "gh:trusted-ai/adversarial-robustness-toolbox",
+  "kind": "repo",
+  "url": "https://github.com/Trusted-AI/adversarial-robustness-toolbox",
+  "title": "adversarial-robustness-toolbox",
+  "why": "Python library for testing machine learning models against evasion, poisoning, extraction and inference attacks, for red and blue teams.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "cyber/agent-security"
+    ],
+    "lanes": [
+      "ml/training",
+      "cyber/agent-security"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Trusted-AI/adversarial-robustness-toolbox",
+    "sha": "3011c66d1c0010de802f77a1b3e20f6bab2faaa6",
+    "file_url": "https://raw.githubusercontent.com/Trusted-AI/adversarial-robustness-toolbox/3011c66d1c0010de802f77a1b3e20f6bab2faaa6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 6304,
+    "size_mb": 734,
+    "created_at": "2018-03-15T14:40:43Z",
+    "last_commit_at": "2026-11-04T13:58:36Z",
+    "releases": 64,
+    "tags": 67,
+    "archived": false,
+    "release": {
+      "tag": "1.20.1",
+      "at": "2025-07-07T19:58:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

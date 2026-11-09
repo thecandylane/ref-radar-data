@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:9e4ee7c8b029c5e801474e9d1a026748eab692d4"
+  },
   "id": "gh:danielbilek/writemd",
   "kind": "repo",
   "url": "https://github.com/danielbilek/writemd",
@@ -40,7 +43,11 @@
     "last_commit_at": "2026-08-12T15:46:00Z",
     "releases": 3,
     "tags": 3,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v1.0.1",
+      "at": "2026-08-12T15:50:43.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "new",

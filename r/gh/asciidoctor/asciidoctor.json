@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:dc37f7ca8c0852abf4408cf3c6ae1c9b5ec30d01"
+  },
+  "id": "gh:asciidoctor/asciidoctor",
+  "kind": "repo",
+  "url": "https://github.com/asciidoctor/asciidoctor",
+  "title": "asciidoctor",
+  "why": "Ruby gem that parses AsciiDoc into a document model and writes HTML, DocBook or man pages from the command line.",
+  "keys": {
+    "races": [
+      "dev-tools/docs",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "dev-tools/docs",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.adoc",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/asciidoctor/asciidoctor",
+    "sha": "dc37f7ca8c0852abf4408cf3c6ae1c9b5ec30d01",
+    "file_url": "https://cdn.jsdelivr.net/gh/asciidoctor/asciidoctor@dc37f7ca8c0852abf4408cf3c6ae1c9b5ec30d01/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "NOASSERTION",
+    "stars": 5227,
+    "size_mb": 19,
+    "created_at": "2012-06-01T19:09:20Z",
+    "last_commit_at": "2026-11-07T19:00:46Z",
+    "releases": 54,
+    "tags": 76,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.26",
+      "at": "2025-10-24T01:52:31.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

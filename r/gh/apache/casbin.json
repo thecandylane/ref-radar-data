@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c92cc6a070e65dc621210c8d451de3092683cd1c"
+  },
   "id": "gh:apache/casbin",
   "kind": "repo",
   "url": "https://github.com/apache/casbin",
@@ -24,19 +27,23 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/casbin",
-    "sha": "d3b265982d1e69f2facd830f2ad9401a0202fb01",
-    "file_url": "https://cdn.jsdelivr.net/gh/apache/casbin@d3b265982d1e69f2facd830f2ad9401a0202fb01/{path}"
+    "sha": "c92cc6a070e65dc621210c8d451de3092683cd1c",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/casbin@c92cc6a070e65dc621210c8d451de3092683cd1c/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 20477,
+    "stars": 20486,
     "size_mb": 7,
     "created_at": "2017-04-08T07:51:23Z",
-    "last_commit_at": "2026-11-02T12:55:20Z",
+    "last_commit_at": "2026-11-04T17:03:28Z",
     "releases": 338,
     "tags": 339,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v3.11.0",
+      "at": "2026-08-20T02:57:58.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

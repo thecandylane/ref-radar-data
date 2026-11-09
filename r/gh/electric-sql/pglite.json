@@ -1,0 +1,59 @@
+{
+  "id": "gh:electric-sql/pglite",
+  "kind": "repo",
+  "url": "https://github.com/electric-sql/pglite",
+  "title": "pglite",
+  "why": "Postgres compiled to WebAssembly that embeds in a TypeScript app, with reactive bindings and workspace packages.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/electric-sql/pglite",
+    "sha": "bac163ecc92e968adda68864b74b7e3d65a68e97",
+    "file_url": "https://cdn.jsdelivr.net/gh/electric-sql/pglite@bac163ecc92e968adda68864b74b7e3d65a68e97/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 16247,
+    "size_mb": 33,
+    "created_at": "2024-02-19T14:37:38Z",
+    "last_commit_at": "2026-11-03T12:26:57Z",
+    "releases": 557,
+    "tags": 592,
+    "archived": false,
+    "release": {
+      "tag": "@electric-sql/pglite-utils@0.0.6",
+      "at": "2026-11-03T12:36:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}

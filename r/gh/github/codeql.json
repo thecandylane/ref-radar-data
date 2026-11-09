@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:96852dad0ad1e629c6c1e1e19e45de4057bf1399"
+  },
+  "id": "gh:github/codeql",
+  "kind": "repo",
+  "url": "https://github.com/github/codeql",
+  "title": "codeql",
+  "why": "Per-language query libraries for cpp, csharp, go, java, javascript, python, ruby, rust and swift that code scanning runs to find vulnerabilities.",
+  "keys": {
+    "races": [
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/static-analysis",
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/github/codeql",
+    "sha": "96852dad0ad1e629c6c1e1e19e45de4057bf1399",
+    "file_url": "https://raw.githubusercontent.com/github/codeql/96852dad0ad1e629c6c1e1e19e45de4057bf1399/{path}"
+  },
+  "facts": {
+    "lang": "CodeQL",
+    "license": "MIT",
+    "stars": 10331,
+    "size_mb": 525,
+    "created_at": "2018-07-31T16:35:51Z",
+    "last_commit_at": "2026-11-06T14:19:04Z",
+    "releases": 0,
+    "tags": 179,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  }
+}
