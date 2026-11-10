@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:155f6f76c7ba9d19b5656c4ab1f320a949a3ca4c"
+  },
+  "id": "gh:curl/curl",
+  "kind": "repo",
+  "url": "https://github.com/curl/curl",
+  "title": "curl",
+  "why": "C library and command-line client that moves data over many protocols, from HTTP and FTP to MQTT and WebSocket.",
+  "keys": {
+    "races": [
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/curl/curl",
+    "sha": "155f6f76c7ba9d19b5656c4ab1f320a949a3ca4c",
+    "file_url": "https://cdn.jsdelivr.net/gh/curl/curl@155f6f76c7ba9d19b5656c4ab1f320a949a3ca4c/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 43460,
+    "size_mb": 148,
+    "created_at": "2010-03-18T22:32:22Z",
+    "last_commit_at": "2026-11-10T08:52:57Z",
+    "releases": 99,
+    "tags": 220,
+    "archived": false,
+    "release": {
+      "tag": "curl-8_23_0",
+      "at": "2026-10-14T06:05:46.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

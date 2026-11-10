@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:06f89f19864595ac22e44d952655d13f27e0aaac"
+  },
+  "id": "gh:nextgenusfs/funannotate",
+  "kind": "repo",
+  "url": "https://github.com/nextgenusfs/funannotate",
+  "title": "funannotate",
+  "why": "Chains gene model prediction and annotation steps into one pipeline for eukaryotic genomes, ready for NCBI submission.",
+  "keys": {
+    "races": [
+      "data/pipelines"
+    ],
+    "lanes": [
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nextgenusfs/funannotate",
+    "sha": "06f89f19864595ac22e44d952655d13f27e0aaac",
+    "file_url": "https://cdn.jsdelivr.net/gh/nextgenusfs/funannotate@06f89f19864595ac22e44d952655d13f27e0aaac/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-2-Clause",
+    "stars": 403,
+    "size_mb": 38,
+    "created_at": "2015-12-18T20:21:15Z",
+    "last_commit_at": "2026-11-05T00:49:08Z",
+    "releases": 84,
+    "tags": 115,
+    "archived": false,
+    "release": {
+      "tag": "v1.9.1",
+      "at": "2026-11-05T00:51:47.000Z"
+    },
+    "doi": "10.5281/zenodo.1134477",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

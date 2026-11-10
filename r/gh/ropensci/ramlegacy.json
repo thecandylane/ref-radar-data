@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cb6f34535be2c79583dc9d07de53c1263f7995e5"
+  },
+  "id": "gh:ropensci/ramlegacy",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/ramlegacy",
+  "title": "ramlegacy",
+  "why": "Fetches fisheries stock assessment data into R from the RAM Legacy compilation, caching each version it downloads.",
+  "keys": {
+    "races": [
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/ramlegacy",
+    "sha": "cb6f34535be2c79583dc9d07de53c1263f7995e5",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/ramlegacy@cb6f34535be2c79583dc9d07de53c1263f7995e5/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 5,
+    "size_mb": 50,
+    "created_at": "2018-09-03T19:55:57Z",
+    "last_commit_at": "2019-12-09T14:27:53Z",
+    "releases": 1,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.0",
+      "at": "2019-04-14T19:16:40.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

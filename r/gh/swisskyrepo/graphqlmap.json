@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:59305d7570c8fbbb04a324e869ec9a196c150936"
+  },
+  "id": "gh:swisskyrepo/graphqlmap",
+  "kind": "repo",
+  "url": "https://github.com/swisskyrepo/GraphQLmap",
+  "title": "GraphQLmap",
+  "why": "Interactive console for probing a GraphQL endpoint with SQL and NoSQL injection payloads plus fuzzing.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/swisskyrepo/GraphQLmap",
+    "sha": "59305d7570c8fbbb04a324e869ec9a196c150936",
+    "file_url": "https://cdn.jsdelivr.net/gh/swisskyrepo/GraphQLmap@59305d7570c8fbbb04a324e869ec9a196c150936/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1697,
+    "size_mb": 0,
+    "created_at": "2019-06-21T14:38:47Z",
+    "last_commit_at": "2023-03-11T22:34:56Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

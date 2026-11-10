@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:dd33dfc0d32aa3f8a0f12804841c7cb80ae6c082"
+  },
+  "id": "gh:e-sensing/sits",
+  "kind": "repo",
+  "url": "https://github.com/e-sensing/sits",
+  "title": "sits",
+  "why": "R toolkit for classifying land cover from satellite image time series, pulling data cubes through STAC catalogs.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "ml/vision"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/e-sensing/sits",
+    "sha": "dd33dfc0d32aa3f8a0f12804841c7cb80ae6c082",
+    "file_url": "https://cdn.jsdelivr.net/gh/e-sensing/sits@dd33dfc0d32aa3f8a0f12804841c7cb80ae6c082/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-2.0",
+    "stars": 550,
+    "size_mb": 289,
+    "created_at": "2017-07-27T13:32:40Z",
+    "last_commit_at": "2026-01-14T18:08:19Z",
+    "releases": 49,
+    "tags": 50,
+    "archived": false,
+    "release": {
+      "tag": "v1.5.4",
+      "at": "2026-01-14T18:11:27.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

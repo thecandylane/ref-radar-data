@@ -1,0 +1,57 @@
+{
+  "id": "gh:bioconductor/cigarillo",
+  "kind": "repo",
+  "url": "https://github.com/Bioconductor/cigarillo",
+  "title": "cigarillo",
+  "why": "Bioconductor core package with C code for working with CIGAR strings efficiently, plus a vignette.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Bioconductor/cigarillo",
+    "sha": "5add90b609ca0ffa6e22d9d98a2ee1ca32fd902c",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/cigarillo@5add90b609ca0ffa6e22d9d98a2ee1ca32fd902c/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2025-09-10T04:46:28Z",
+    "last_commit_at": "2026-09-02T00:44:59Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "gh:comfy-org/comfyui",
+  "kind": "repo",
+  "url": "https://github.com/Comfy-Org/ComfyUI",
+  "title": "ComfyUI",
+  "why": "Builds diffusion model workflows by wiring nodes into a graph, served locally with an API and backend.",
+  "keys": {
+    "races": [
+      "llm-infra/inference",
+      "media/video"
+    ],
+    "lanes": [
+      "llm-infra/inference",
+      "media/video"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Comfy-Org/ComfyUI",
+    "sha": "1332fabfcc507aa7c548cd5152071ed494c207e8",
+    "file_url": "https://cdn.jsdelivr.net/gh/Comfy-Org/ComfyUI@1332fabfcc507aa7c548cd5152071ed494c207e8/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 146070,
+    "size_mb": 105,
+    "created_at": "2023-01-17T03:15:56Z",
+    "last_commit_at": "2026-11-10T07:58:39Z",
+    "releases": 165,
+    "tags": 220,
+    "archived": false,
+    "release": {
+      "tag": "v0.44.0",
+      "at": "2026-11-04T01:12:27.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

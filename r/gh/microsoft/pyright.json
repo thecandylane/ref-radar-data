@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b57fefae2650597bd1a0f7fb3ce821015c25d317"
+  },
   "id": "gh:microsoft/pyright",
   "kind": "repo",
   "url": "https://github.com/microsoft/pyright",
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 15735,
+    "stars": 15736,
     "size_mb": 137,
     "created_at": "2019-03-12T03:38:46Z",
-    "last_commit_at": "2026-11-07T00:45:28Z",
+    "last_commit_at": "2026-11-10T01:06:32Z",
     "releases": 495,
     "tags": 495,
     "archived": false,
@@ -55,5 +58,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

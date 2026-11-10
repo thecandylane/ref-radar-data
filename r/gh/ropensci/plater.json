@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c11002c79884ba4b455c2b10da8949f9654d2536"
+  },
+  "id": "gh:ropensci/plater",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/plater",
+  "title": "plater",
+  "why": "Reads microtiter plate layouts from files and reshapes them into tidy R data frames for analysis.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/plater",
+    "sha": "c11002c79884ba4b455c2b10da8949f9654d2536",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/plater@c11002c79884ba4b455c2b10da8949f9654d2536/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 26,
+    "size_mb": 1,
+    "created_at": "2015-03-26T21:00:04Z",
+    "last_commit_at": "2024-10-25T18:48:45Z",
+    "releases": 1,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0.9000",
+      "at": "2016-10-27T21:36:01.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

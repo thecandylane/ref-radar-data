@@ -1,0 +1,61 @@
+{
+  "id": "gh:google/osv.dev",
+  "kind": "repo",
+  "url": "https://github.com/google/osv.dev",
+  "title": "osv.dev",
+  "why": "Known-vulnerability lookup backed by an open database and triage service, with vulnfeeds converters and an AGENTS.md for agents.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "cyber/supply-chain"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "cyber/supply-chain"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google/osv.dev",
+    "sha": "b7449847246af793439d06284d340af40cdae854",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/osv.dev@b7449847246af793439d06284d340af40cdae854/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 3051,
+    "size_mb": 104,
+    "created_at": "2021-01-08T02:14:10Z",
+    "last_commit_at": "2026-11-10T05:50:24Z",
+    "releases": 17,
+    "tags": 213,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.3",
+      "at": "2026-04-22T01:47:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

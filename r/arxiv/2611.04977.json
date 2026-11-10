@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.04977",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.04977",
+  "title": "GeoFaham: Domain-Specialized Multi-Agent Geospatial Analytics for Disaster Response",
+  "why": "Splits disaster analytics among specialist agents covering vector, imagery and raster work, scoring 0.940 against 0.879 with 7.5 times fewer tokens.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "agents/orchestration"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "agents/orchestration"
+    ],
+    "capabilities": [
+      "agents/orchestration/agent-teams"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.04977"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

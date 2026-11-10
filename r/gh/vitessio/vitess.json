@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:86a183cf51764440b075f467886616fa5b9ab43b"
+  },
   "id": "gh:vitessio/vitess",
   "kind": "repo",
   "url": "https://github.com/vitessio/vitess",
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 21406,
+    "stars": 21411,
     "size_mb": 546,
     "created_at": "2013-06-27T21:20:28Z",
-    "last_commit_at": "2026-11-08T01:28:55Z",
+    "last_commit_at": "2026-11-10T03:02:07Z",
     "releases": 169,
     "tags": 303,
     "archived": false,
@@ -55,5 +58,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

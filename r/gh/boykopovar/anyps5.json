@@ -1,0 +1,65 @@
+{
+  "id": "gh:boykopovar/anyps5",
+  "kind": "repo",
+  "url": "https://github.com/boykopovar/AnyPS5",
+  "title": "AnyPS5",
+  "why": "Converts PS5 executables into Linux and Windows builds, translating graphics to Vulkan through SPIR-V.",
+  "keys": {
+    "races": [
+      "games/graphics",
+      "systems/os"
+    ],
+    "lanes": [
+      "games/graphics",
+      "systems/os"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/boykopovar/AnyPS5",
+    "sha": "acf04f85adc06c52524850e709253e232a1e5e02",
+    "file_url": "https://cdn.jsdelivr.net/gh/boykopovar/AnyPS5@acf04f85adc06c52524850e709253e232a1e5e02/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-2.0",
+    "stars": 52767,
+    "size_mb": 213,
+    "created_at": "2026-08-03T21:30:25Z",
+    "last_commit_at": "2026-11-10T08:47:34Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.4",
+      "at": "2026-10-30T23:09:14.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "contains raw shellcode bytes"
+    ],
+    "scanned_at": "2026-11-08T00:07:15.811Z"
+  }
+}

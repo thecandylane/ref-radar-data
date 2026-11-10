@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ee5bfb5041bb3e4a49d591c72308aae3c81ecdde"
+  },
   "id": "gh:herdrdev/herdr",
   "kind": "repo",
   "url": "https://github.com/herdrdev/herdr",
@@ -41,7 +44,7 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 49563,
+    "stars": 49863,
     "size_mb": 49,
     "created_at": "2026-03-27T17:54:33Z",
     "last_commit_at": "2026-10-29T12:56:49Z",
@@ -61,10 +64,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 2146,
     "votes": {},
     "ranks": {}
   },
+  "tier": "curated",
+  "hot": true,
   "risk": {
     "level": "caution",
     "signals": [

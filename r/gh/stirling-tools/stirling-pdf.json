@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d74543712c8214548b823859c8dba4cf2e52a875"
+  },
+  "id": "gh:stirling-tools/stirling-pdf",
+  "kind": "repo",
+  "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+  "title": "Stirling-PDF",
+  "why": "Self-hosted PDF editor with merging, conversion and OCR tools, run from Docker in a web app.",
+  "keys": {
+    "races": [
+      "infra/hosting"
+    ],
+    "lanes": [
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Stirling-Tools/Stirling-PDF",
+    "sha": "d74543712c8214548b823859c8dba4cf2e52a875",
+    "file_url": "https://cdn.jsdelivr.net/gh/Stirling-Tools/Stirling-PDF@d74543712c8214548b823859c8dba4cf2e52a875/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 96196,
+    "size_mb": 670,
+    "created_at": "2023-01-27T18:22:42Z",
+    "last_commit_at": "2026-11-09T21:15:31Z",
+    "releases": 194,
+    "tags": 194,
+    "archived": false,
+    "release": {
+      "tag": "v3.3.0",
+      "at": "2026-11-05T08:24:34.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

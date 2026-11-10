@@ -1,0 +1,62 @@
+{
+  "id": "gh:martinvild/machine-learning",
+  "kind": "repo",
+  "url": "https://github.com/MartinVild/Machine-Learning",
+  "title": "Machine-Learning",
+  "why": "Python scripts that train deep ensemble models on cross-section data, assess predictions and run SHAP analysis.",
+  "keys": {
+    "races": [
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Readme.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MartinVild/Machine-Learning",
+    "sha": "88447ae07a89b586ce51be34d62866af5f4f505d",
+    "file_url": "https://cdn.jsdelivr.net/gh/MartinVild/Machine-Learning@88447ae07a89b586ce51be34d62866af5f4f505d/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "none",
+    "stars": 1,
+    "size_mb": 79,
+    "created_at": "2025-08-01T15:46:13Z",
+    "last_commit_at": "2026-02-06T13:30:51Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "1.0",
+      "at": "2025-10-15T13:18:35.000Z"
+    },
+    "doi": "10.5281/zenodo.17359932",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

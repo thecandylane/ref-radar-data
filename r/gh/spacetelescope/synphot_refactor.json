@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f1ff399c9c040b10088b01ee58e2fe5faf9a76f3"
+  },
+  "id": "gh:spacetelescope/synphot_refactor",
+  "kind": "repo",
+  "url": "https://github.com/spacetelescope/synphot_refactor",
+  "title": "synphot_refactor",
+  "why": "Computes synthetic photometry on top of Astropy, built as the Bioconductor-adjacent refactor of synphot.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/spacetelescope/synphot_refactor",
+    "sha": "f1ff399c9c040b10088b01ee58e2fe5faf9a76f3",
+    "file_url": "https://cdn.jsdelivr.net/gh/spacetelescope/synphot_refactor@f1ff399c9c040b10088b01ee58e2fe5faf9a76f3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 41,
+    "size_mb": 11,
+    "created_at": "2013-05-14T17:52:00Z",
+    "last_commit_at": "2026-11-02T20:06:13Z",
+    "releases": 25,
+    "tags": 28,
+    "archived": false,
+    "release": {
+      "tag": "1.8.0",
+      "at": "2026-10-20T18:04:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

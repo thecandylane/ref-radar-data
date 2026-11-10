@@ -1,0 +1,67 @@
+{
+  "id": "gh:huskerminion/techo5-dot",
+  "kind": "repo",
+  "url": "https://github.com/HuskerMinion/techo5-dot",
+  "title": "techo5-dot",
+  "why": "Swaps Fire OS on the Echo Dot for Alpine Linux, turning it into a voice satellite for Home Assistant with signed updates.",
+  "keys": {
+    "races": [
+      "embedded/firmware"
+    ],
+    "lanes": [
+      "embedded/firmware"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/HuskerMinion/techo5-dot",
+    "sha": "7f91b238b91956f9da64bbc7ec3c1501ea3e7fe4",
+    "file_url": "https://cdn.jsdelivr.net/gh/HuskerMinion/techo5-dot@7f91b238b91956f9da64bbc7ec3c1501ea3e7fe4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 245,
+    "size_mb": 1,
+    "created_at": "2026-09-16T15:54:17Z",
+    "last_commit_at": "2026-11-08T21:15:47Z",
+    "releases": 122,
+    "tags": 122,
+    "archived": false,
+    "release": {
+      "tag": "dot-v1.0.61",
+      "at": "2026-11-09T15:55:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-02T08:38:47.716Z"
+  }
+}

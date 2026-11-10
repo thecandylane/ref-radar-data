@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:89ae4d3537c2abbf072da3118408bce9450c6146"
+  },
   "id": "gh:google/adk-python",
   "kind": "repo",
   "url": "https://github.com/google/adk-python",
@@ -34,10 +37,10 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 22155,
-    "size_mb": 94,
+    "stars": 22171,
+    "size_mb": 93,
     "created_at": "2025-04-01T20:44:40Z",
-    "last_commit_at": "2026-11-09T06:23:29Z",
+    "last_commit_at": "2026-11-10T08:17:37Z",
     "releases": 92,
     "tags": 93,
     "archived": false,
@@ -57,5 +60,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

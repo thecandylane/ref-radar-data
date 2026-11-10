@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.02440",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.02440",
+  "title": "Harvesting SWE Benchmarks from Wild Vibe Coding Sessions",
+  "why": "Turns vibe-coding session logs and commits into executable engineering tasks, with CropChat holding 242 tasks from 61 public repositories.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "agents/coding"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.02440"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

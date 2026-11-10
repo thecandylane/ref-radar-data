@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0ca552913948e444853d3bce99f2f3f2477f17c7"
+  },
+  "id": "gh:gaoyifan/china-operator-ip",
+  "kind": "repo",
+  "url": "https://github.com/gaoyifan/china-operator-ip",
+  "title": "china-operator-ip",
+  "why": "Daily built IPv4 and IPv6 address lists for Chinese network operators, generated from BGP and ASN data by a Rust program.",
+  "keys": {
+    "races": [
+      "infra/networking",
+      "data/datasets"
+    ],
+    "lanes": [
+      "infra/networking",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gaoyifan/china-operator-ip",
+    "sha": "0ca552913948e444853d3bce99f2f3f2477f17c7",
+    "file_url": "https://cdn.jsdelivr.net/gh/gaoyifan/china-operator-ip@0ca552913948e444853d3bce99f2f3f2477f17c7/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 3705,
+    "size_mb": 6,
+    "created_at": "2017-01-19T10:11:16Z",
+    "last_commit_at": "2026-10-30T02:28:35Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

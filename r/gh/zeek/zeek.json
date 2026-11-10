@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:be78bf98d6227e02992cf73c12acad81f9ee0471"
+  },
   "id": "gh:zeek/zeek",
   "kind": "repo",
   "url": "https://github.com/zeek/zeek",
@@ -34,10 +37,10 @@
   "facts": {
     "lang": "C++",
     "license": "NOASSERTION",
-    "stars": 8199,
-    "size_mb": 280,
+    "stars": 8209,
+    "size_mb": 281,
     "created_at": "2012-07-06T20:30:16Z",
-    "last_commit_at": "2026-11-05T19:42:29Z",
+    "last_commit_at": "2026-11-10T00:34:29Z",
     "releases": 115,
     "tags": 223,
     "archived": false,
@@ -57,5 +60,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

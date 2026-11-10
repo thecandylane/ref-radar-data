@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.06829",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.06829",
+  "title": "Enabling AWS Cloud FPGA Development Using High-Level Vitis HLS",
+  "why": "Toolchain taking ML models from PyTorch through Vitis HLS to AWS F2 FPGA images, with four test levels so coding agents can debug designs.",
+  "keys": {
+    "races": [
+      "engineering/hdl",
+      "agents/coding"
+    ],
+    "lanes": [
+      "engineering/hdl",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.06829"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:09d59588e0b8a28c1b22df77ed467be719809390"
-  },
   "id": "gh:apimartrvgd4/llm-gateway-sdk-node",
   "kind": "repo",
   "url": "https://github.com/apimartrvgd4/llm-gateway-sdk-node",
@@ -27,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apimartrvgd4/llm-gateway-sdk-node",
-    "sha": "09d59588e0b8a28c1b22df77ed467be719809390",
-    "file_url": "https://cdn.jsdelivr.net/gh/apimartrvgd4/llm-gateway-sdk-node@09d59588e0b8a28c1b22df77ed467be719809390/{path}"
+    "sha": "67f9d65fa622da85f58c8406106dca4ad9dd8625",
+    "file_url": "https://cdn.jsdelivr.net/gh/apimartrvgd4/llm-gateway-sdk-node@67f9d65fa622da85f58c8406106dca4ad9dd8625/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -36,7 +33,7 @@
     "stars": 56,
     "size_mb": 6,
     "created_at": "2026-10-02T10:07:13Z",
-    "last_commit_at": "2026-11-08T13:28:57Z",
+    "last_commit_at": "2026-11-09T16:26:39Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -53,5 +50,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

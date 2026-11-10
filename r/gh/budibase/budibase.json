@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e29a27ac946c043fe7455af64b7f12b9031df72b"
+  },
+  "id": "gh:budibase/budibase",
+  "kind": "repo",
+  "url": "https://github.com/Budibase/budibase",
+  "title": "budibase",
+  "why": "Low-code platform for internal tools that builds workflow automations and AI agents on top of your data, model agnostic.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "agents/frameworks"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "agents/frameworks"
+    ],
+    "capabilities": [
+      "agents/assistants/task-automation",
+      "agents/frameworks/agent-workflows"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Budibase/budibase",
+    "sha": "e29a27ac946c043fe7455af64b7f12b9031df72b",
+    "file_url": "https://cdn.jsdelivr.net/gh/Budibase/budibase@e29a27ac946c043fe7455af64b7f12b9031df72b/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 28396,
+    "size_mb": 781,
+    "created_at": "2019-06-07T11:03:41Z",
+    "last_commit_at": "2026-11-10T09:01:48Z",
+    "releases": 996,
+    "tags": 3430,
+    "archived": false,
+    "release": {
+      "tag": "v3.50.0",
+      "at": "2026-10-19T08:09:46.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

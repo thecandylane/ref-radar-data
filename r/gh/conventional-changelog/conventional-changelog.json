@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0cdedf882b7d2c86ea8e03ce0c4fafc597fa2108"
+  },
+  "id": "gh:conventional-changelog/conventional-changelog",
+  "kind": "repo",
+  "url": "https://github.com/conventional-changelog/conventional-changelog",
+  "title": "conventional-changelog",
+  "why": "Turns git commit messages into changelogs and release notes, organized as a pnpm workspace of packages.",
+  "keys": {
+    "races": [
+      "dev-tools/vcs",
+      "dev-tools/docs",
+      "agents/skills"
+    ],
+    "lanes": [
+      "dev-tools/vcs",
+      "dev-tools/docs",
+      "agents/skills"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/conventional-changelog/conventional-changelog",
+    "sha": "0cdedf882b7d2c86ea8e03ce0c4fafc597fa2108",
+    "file_url": "https://cdn.jsdelivr.net/gh/conventional-changelog/conventional-changelog@0cdedf882b7d2c86ea8e03ce0c4fafc597fa2108/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "ISC",
+    "stars": 8529,
+    "size_mb": 9,
+    "created_at": "2014-01-04T21:18:33Z",
+    "last_commit_at": "2026-11-01T19:14:51Z",
+    "releases": 255,
+    "tags": 885,
+    "archived": false,
+    "release": {
+      "tag": "template-v1.4.1",
+      "at": "2026-11-01T19:52:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

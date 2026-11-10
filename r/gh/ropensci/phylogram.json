@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9b7ce7672a048937d702d27205d5d212bf802305"
+  },
+  "id": "gh:ropensci/phylogram",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/phylogram",
+  "title": "phylogram",
+  "why": "R package that builds and converts dendrograms from sequence data for evolutionary analysis.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/phylogram",
+    "sha": "9b7ce7672a048937d702d27205d5d212bf802305",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/phylogram@9b7ce7672a048937d702d27205d5d212bf802305/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 12,
+    "size_mb": 1,
+    "created_at": "2017-01-17T02:07:39Z",
+    "last_commit_at": "2019-12-09T21:21:51Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v2.1.0",
+      "at": "2018-06-20T11:12:09.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

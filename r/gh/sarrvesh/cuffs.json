@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1034fe26e12f6f0defa309e09fef92a52e89b7f7"
+  },
+  "id": "gh:sarrvesh/cuffs",
+  "kind": "repo",
+  "url": "https://github.com/sarrvesh/cuFFS",
+  "title": "cuFFS",
+  "why": "Runs rotation measure synthesis on the GPU from a C code base built with CMake and driven by a parameter file.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sarrvesh/cuFFS",
+    "sha": "1034fe26e12f6f0defa309e09fef92a52e89b7f7",
+    "file_url": "https://cdn.jsdelivr.net/gh/sarrvesh/cuFFS@1034fe26e12f6f0defa309e09fef92a52e89b7f7/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-2.0",
+    "stars": 8,
+    "size_mb": 4,
+    "created_at": "2015-07-10T23:41:45Z",
+    "last_commit_at": "2019-05-10T14:08:45Z",
+    "releases": 1,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.5",
+      "at": "2018-09-11T10:11:53.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ce9a4d27d2f18d391c141ebdc8cb82fa5f6b88e3"
+  },
   "id": "gh:ghostpack/certify",
   "kind": "repo",
   "url": "https://github.com/GhostPack/Certify",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "C#",
     "license": "NOASSERTION",
-    "stars": 2048,
+    "stars": 2049,
     "size_mb": 0,
     "created_at": "2021-06-09T22:03:30Z",
     "last_commit_at": "2026-09-30T19:23:11Z",
@@ -51,6 +54,7 @@
     "votes": {},
     "ranks": {}
   },
+  "tier": "curated",
   "risk": {
     "level": "caution",
     "signals": [

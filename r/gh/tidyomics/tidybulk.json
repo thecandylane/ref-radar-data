@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:979b92dd68e320a3b906169fc2fddeeafc52d62a"
+  },
+  "id": "gh:tidyomics/tidybulk",
+  "kind": "repo",
+  "url": "https://github.com/tidyomics/tidybulk",
+  "title": "tidybulk",
+  "why": "Runs bulk and pseudobulk RNA-seq steps such as differential expression, PCA and GSEA on tidy tibbles in R.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tidyomics/tidybulk",
+    "sha": "979b92dd68e320a3b906169fc2fddeeafc52d62a",
+    "file_url": "https://cdn.jsdelivr.net/gh/tidyomics/tidybulk@979b92dd68e320a3b906169fc2fddeeafc52d62a/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 181,
+    "size_mb": 124,
+    "created_at": "2019-08-28T23:46:30Z",
+    "last_commit_at": "2026-11-08T23:23:07Z",
+    "releases": 17,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "v1.19.1",
+      "at": "2025-03-17T22:51:57.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

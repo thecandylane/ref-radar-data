@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:681dd2e87e2d67ba007d49b9a420792c16d5aa08"
+  },
+  "id": "gh:michaelsbradleyjr/nim-notcurses",
+  "kind": "repo",
+  "url": "https://github.com/michaelsbradleyjr/nim-notcurses",
+  "title": "nim-notcurses",
+  "why": "Gives Nim programs two ways into Notcurses, the raw C API wrapper or a higher-level Nim API, in TUI, CLI or direct mode.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/michaelsbradleyjr/nim-notcurses",
+    "sha": "681dd2e87e2d67ba007d49b9a420792c16d5aa08",
+    "file_url": "https://cdn.jsdelivr.net/gh/michaelsbradleyjr/nim-notcurses@681dd2e87e2d67ba007d49b9a420792c16d5aa08/{path}"
+  },
+  "facts": {
+    "lang": "Nim",
+    "license": "NOASSERTION",
+    "stars": 34,
+    "size_mb": 1,
+    "created_at": "2021-08-07T21:36:38Z",
+    "last_commit_at": "2023-07-12T22:26:19Z",
+    "releases": 0,
+    "tags": 26,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

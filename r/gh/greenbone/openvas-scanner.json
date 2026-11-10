@@ -1,0 +1,63 @@
+{
+  "id": "gh:greenbone/openvas-scanner",
+  "kind": "repo",
+  "url": "https://github.com/greenbone/openvas-scanner",
+  "title": "openvas-scanner",
+  "why": "The scanner component of Greenbone Community Edition, which runs NASL vulnerability tests against hosts from C and Rust code.",
+  "keys": {
+    "races": [
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/greenbone/openvas-scanner",
+    "sha": "90def70456780c1c16f8de052025ef1d67be86f7",
+    "file_url": "https://cdn.jsdelivr.net/gh/greenbone/openvas-scanner@90def70456780c1c16f8de052025ef1d67be86f7/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "GPL-2.0",
+    "stars": 4936,
+    "size_mb": 46,
+    "created_at": "2018-01-22T07:49:57Z",
+    "last_commit_at": "2026-11-10T06:27:59Z",
+    "releases": 233,
+    "tags": 315,
+    "archived": false,
+    "release": {
+      "tag": "v23.52.9",
+      "at": "2026-11-05T12:40:13.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

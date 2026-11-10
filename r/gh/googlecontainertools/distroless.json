@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c3bf6a1d94037418960aa093212f11a943334266"
+  },
   "id": "gh:googlecontainertools/distroless",
   "kind": "repo",
   "url": "https://github.com/GoogleContainerTools/distroless",
@@ -30,10 +33,10 @@
   "facts": {
     "lang": "Starlark",
     "license": "Apache-2.0",
-    "stars": 23213,
+    "stars": 23216,
     "size_mb": 10,
     "created_at": "2017-04-18T22:02:38Z",
-    "last_commit_at": "2026-11-08T22:44:13Z",
+    "last_commit_at": "2026-11-09T22:01:33Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -50,5 +53,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

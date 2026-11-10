@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:5945009f26c923c2fd1cc9c600d48a05e1eae7a7"
+  },
   "id": "gh:huggingface/datasets",
   "kind": "repo",
   "url": "https://github.com/huggingface/datasets",
@@ -34,16 +37,16 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 22121,
+    "stars": 22123,
     "size_mb": 114,
     "created_at": "2020-03-26T09:23:22Z",
-    "last_commit_at": "2026-11-06T11:16:04Z",
-    "releases": 123,
-    "tags": 128,
+    "last_commit_at": "2026-11-09T21:41:38Z",
+    "releases": 124,
+    "tags": 129,
     "archived": false,
     "release": {
-      "tag": "5.1.0",
-      "at": "2026-10-05T15:39:37.000Z"
+      "tag": "5.2.0",
+      "at": "2026-11-09T21:40:43.000Z"
     }
   },
   "reuse": "copy",
@@ -57,5 +60,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

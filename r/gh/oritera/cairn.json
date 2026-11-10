@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8e7e0ea67552383851dfcabfba0c4e9c8d007878"
+  },
+  "id": "gh:oritera/cairn",
+  "kind": "repo",
+  "url": "https://github.com/oritera/Cairn",
+  "title": "Cairn",
+  "why": "Agents share one graph of facts, intents and hints to search for a path to a goal, with no predefined roles, MCP tools or RAG.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "agents/orchestration"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "agents/orchestration"
+    ],
+    "capabilities": [
+      "cyber/offensive/ai-pentesting",
+      "agents/orchestration/agent-teams"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/oritera/Cairn",
+    "sha": "8e7e0ea67552383851dfcabfba0c4e9c8d007878",
+    "file_url": "https://cdn.jsdelivr.net/gh/oritera/Cairn@8e7e0ea67552383851dfcabfba0c4e9c8d007878/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 5016,
+    "size_mb": 5,
+    "created_at": "2026-04-19T03:28:41Z",
+    "last_commit_at": "2026-09-07T15:22:56Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.1",
+      "at": "2026-05-10T06:50:18.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-10T01:40:34.449Z"
+  }
+}

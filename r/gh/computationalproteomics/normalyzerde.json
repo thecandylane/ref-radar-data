@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:172959e0bd190b656dd78f94e7cf3799df61f06d"
+  },
+  "id": "gh:computationalproteomics/normalyzerde",
+  "kind": "repo",
+  "url": "https://github.com/ComputationalProteomics/NormalyzerDE",
+  "title": "NormalyzerDE",
+  "why": "Normalizes proteomics data in R and checks outliers and batch effects before differential expression with limma.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ComputationalProteomics/NormalyzerDE",
+    "sha": "172959e0bd190b656dd78f94e7cf3799df61f06d",
+    "file_url": "https://cdn.jsdelivr.net/gh/ComputationalProteomics/NormalyzerDE@172959e0bd190b656dd78f94e7cf3799df61f06d/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 26,
+    "size_mb": 8,
+    "created_at": "2018-03-28T09:38:27Z",
+    "last_commit_at": "2026-04-22T14:56:31Z",
+    "releases": 2,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "1.23.2",
+      "at": "2024-05-18T18:58:54.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

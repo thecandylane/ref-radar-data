@@ -1,0 +1,55 @@
+{
+  "id": "gh:containerd/.project",
+  "kind": "repo",
+  "url": "https://github.com/containerd/.project",
+  "title": ".project",
+  "why": "Governance, maintainers and security policy for the containerd project, for finding who decides what and how to report issues.",
+  "keys": {
+    "races": [
+      "infra/containers",
+      "practice/process"
+    ],
+    "lanes": [
+      "infra/containers",
+      "practice/process"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/containerd/.project",
+    "sha": "92c830ef35a1762f525c6f3ce86a890a5aed5b62",
+    "file_url": "https://cdn.jsdelivr.net/gh/containerd/.project@92c830ef35a1762f525c6f3ce86a890a5aed5b62/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "Apache-2.0",
+    "stars": 80,
+    "size_mb": 1,
+    "created_at": "2018-04-02T17:32:14Z",
+    "last_commit_at": "2026-10-29T17:02:48Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

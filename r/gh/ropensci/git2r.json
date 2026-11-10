@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5dd3d5270beb7072d5411935ddc4ff203ea2d6b8"
+  },
+  "id": "gh:ropensci/git2r",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/git2r",
+  "title": "git2r",
+  "why": "Run git operations inside R sessions through bindings to libgit2, with no separate git client needed.",
+  "keys": {
+    "races": [
+      "dev-tools/vcs"
+    ],
+    "lanes": [
+      "dev-tools/vcs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/git2r",
+    "sha": "5dd3d5270beb7072d5411935ddc4ff203ea2d6b8",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/git2r@5dd3d5270beb7072d5411935ddc4ff203ea2d6b8/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-2.0",
+    "stars": 222,
+    "size_mb": 12,
+    "created_at": "2013-12-28T15:06:53Z",
+    "last_commit_at": "2026-02-22T19:05:40Z",
+    "releases": 32,
+    "tags": 32,
+    "archived": false,
+    "release": {
+      "tag": "v0.35.0",
+      "at": "2024-10-21T05:21:37.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

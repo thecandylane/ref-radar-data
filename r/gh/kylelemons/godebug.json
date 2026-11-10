@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e693023230a4a8be4e28c9bd02f467b0534ac08b"
+  },
+  "id": "gh:kylelemons/godebug",
+  "kind": "repo",
+  "url": "https://github.com/kylelemons/godebug",
+  "title": "godebug",
+  "why": "Prints Go data structures as indented, readable text for tests and debugging, compact by default or one item per line for diffs.",
+  "keys": {
+    "races": [
+      "dev-tools/debugging",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/debugging",
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kylelemons/godebug",
+    "sha": "e693023230a4a8be4e28c9bd02f467b0534ac08b",
+    "file_url": "https://cdn.jsdelivr.net/gh/kylelemons/godebug@e693023230a4a8be4e28c9bd02f467b0534ac08b/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 356,
+    "size_mb": 0,
+    "created_at": "2013-01-05T16:08:06Z",
+    "last_commit_at": "2020-11-07T06:19:27Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2019-05-05T01:19:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

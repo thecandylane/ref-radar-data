@@ -1,0 +1,53 @@
+{
+  "id": "gh:crossplane/release",
+  "kind": "repo",
+  "url": "https://github.com/crossplane/release",
+  "title": "crossplane/release",
+  "why": "Workflows and docs the Crossplane project uses to manage its releases.",
+  "keys": {
+    "races": [
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/crossplane/release",
+    "sha": "451aead749ff4e8a2ac48c2feb55add506782d2d",
+    "file_url": "https://cdn.jsdelivr.net/gh/crossplane/release@451aead749ff4e8a2ac48c2feb55add506782d2d/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "Apache-2.0",
+    "stars": 4,
+    "size_mb": 0,
+    "created_at": "2024-01-04T22:01:51Z",
+    "last_commit_at": "2026-07-06T20:15:09Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

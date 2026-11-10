@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:743dc0db91338beeec6841bf49d75a13966bcb40"
+  },
+  "id": "gh:ropensci/medrxivr",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/medrxivr",
+  "title": "medrxivr",
+  "why": "Accesses and searches medRxiv and bioRxiv preprint records for systematic reviews and evidence synthesis.",
+  "keys": {
+    "races": [
+      "data/search",
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/search",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/medrxivr",
+    "sha": "743dc0db91338beeec6841bf49d75a13966bcb40",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/medrxivr@743dc0db91338beeec6841bf49d75a13966bcb40/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 65,
+    "size_mb": 2,
+    "created_at": "2020-02-17T12:20:00Z",
+    "last_commit_at": "2026-08-09T14:36:06Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "snapshot",
+      "at": "2026-05-06T18:25:49.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

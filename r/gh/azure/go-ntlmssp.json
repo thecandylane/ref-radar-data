@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:22eaf2c1df4fac22f6f48b99457611a67d74f522"
+  },
+  "id": "gh:azure/go-ntlmssp",
+  "kind": "repo",
+  "url": "https://github.com/Azure/go-ntlmssp",
+  "title": "go-ntlmssp",
+  "why": "Go package that adds NTLM and Negotiate authentication to HTTP clients, with end-to-end tests in the repo.",
+  "keys": {
+    "races": [
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/iam"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Azure/go-ntlmssp",
+    "sha": "22eaf2c1df4fac22f6f48b99457611a67d74f522",
+    "file_url": "https://cdn.jsdelivr.net/gh/Azure/go-ntlmssp@22eaf2c1df4fac22f6f48b99457611a67d74f522/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 204,
+    "size_mb": 0,
+    "created_at": "2015-10-17T04:17:33Z",
+    "last_commit_at": "2026-11-09T09:02:04Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.1",
+      "at": "2026-04-23T07:58:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "contains raw shellcode bytes"
+    ],
+    "scanned_at": "2026-11-08T10:02:13.074Z"
+  }
+}

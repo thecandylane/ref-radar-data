@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:96eef3cb9a8f06804d2f61f465d20212af6ee90e"
+  },
+  "id": "gh:annotated-types/annotated-types",
+  "kind": "repo",
+  "url": "https://github.com/annotated-types/annotated-types",
+  "title": "annotated-types",
+  "why": "Gives typing.Annotated a shared set of reusable constraint types, so validation libraries read the same metadata.",
+  "keys": {
+    "races": [
+      "languages/type-systems"
+    ],
+    "lanes": [
+      "languages/type-systems"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/annotated-types/annotated-types",
+    "sha": "96eef3cb9a8f06804d2f61f465d20212af6ee90e",
+    "file_url": "https://cdn.jsdelivr.net/gh/annotated-types/annotated-types@96eef3cb9a8f06804d2f61f465d20212af6ee90e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 616,
+    "size_mb": 0,
+    "created_at": "2022-05-02T17:36:21Z",
+    "last_commit_at": "2026-10-27T10:46:55Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v0.8.0",
+      "at": "2026-07-23T20:15:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

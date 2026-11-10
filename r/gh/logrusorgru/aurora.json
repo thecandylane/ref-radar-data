@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:aba8852339efa8191c87f3d72fb1095f60bb33da"
+  },
+  "id": "gh:logrusorgru/aurora",
+  "kind": "repo",
+  "url": "https://github.com/logrusorgru/aurora",
+  "title": "aurora",
+  "why": "Adds ANSI colors and formats such as bold and underline to Go output through Printf and Sprintf, plus 8-bit colors and hyperlinks in v4.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/logrusorgru/aurora",
+    "sha": "aba8852339efa8191c87f3d72fb1095f60bb33da",
+    "file_url": "https://cdn.jsdelivr.net/gh/logrusorgru/aurora@aba8852339efa8191c87f3d72fb1095f60bb33da/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Unlicense",
+    "stars": 1492,
+    "size_mb": 0,
+    "created_at": "2016-11-06T22:37:12Z",
+    "last_commit_at": "2026-10-24T05:27:04Z",
+    "releases": 0,
+    "tags": 8,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

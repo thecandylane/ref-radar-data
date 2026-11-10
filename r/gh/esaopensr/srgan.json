@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:36e2584960d1fb0bf3ca1678ebd9e949d17bb78f"
+  },
+  "id": "gh:esaopensr/srgan",
+  "kind": "repo",
+  "url": "https://github.com/ESAOpenSR/SRGAN",
+  "title": "SRGAN",
+  "why": "Implements several super-resolution GANs for sharpening remote sensing imagery, swappable for different satellite sources.",
+  "keys": {
+    "races": [
+      "ml/vision",
+      "ml/training",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "ml/vision",
+      "ml/training",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ESAOpenSR/SRGAN",
+    "sha": "36e2584960d1fb0bf3ca1678ebd9e949d17bb78f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ESAOpenSR/SRGAN@36e2584960d1fb0bf3ca1678ebd9e949d17bb78f/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "Apache-2.0",
+    "stars": 55,
+    "size_mb": 61,
+    "created_at": "2025-10-11T13:06:55Z",
+    "last_commit_at": "2026-11-07T15:17:49Z",
+    "releases": 12,
+    "tags": 16,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2026-11-05T17:36:41.000Z"
+    },
+    "doi": "10.21105/joss.11254",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

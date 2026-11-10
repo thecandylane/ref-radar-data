@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c3d6bb7f11d9cdf103c93748c2c3209084d89996"
+  },
   "id": "gh:milind-soni/openmausbot",
   "kind": "repo",
   "url": "https://github.com/milind-soni/OpenMausBot",
@@ -48,16 +51,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 18983,
-    "size_mb": 473,
+    "stars": 20225,
+    "size_mb": 480,
     "created_at": "2026-08-11T18:58:55Z",
-    "last_commit_at": "2026-11-09T04:53:35Z",
-    "releases": 107,
-    "tags": 107,
+    "last_commit_at": "2026-11-10T09:20:52Z",
+    "releases": 108,
+    "tags": 108,
     "archived": false,
     "release": {
-      "tag": "v0.1.150",
-      "at": "2026-11-09T03:26:23.000Z"
+      "tag": "v0.1.151",
+      "at": "2026-11-09T22:56:49.000Z"
     }
   },
   "reuse": "copy",
@@ -68,10 +71,11 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8077,
+    "star_delta_7d": 8752,
     "votes": {},
     "ranks": {}
   },
+  "tier": "curated",
   "hot": true,
   "risk": {
     "level": "caution",

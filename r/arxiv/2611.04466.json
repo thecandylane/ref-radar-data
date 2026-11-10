@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.04466",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.04466",
+  "title": "From Watching to Steering: Enabling Human-Coding Agent Collaboration through Execution Traces",
+  "why": "Visualizes an OpenCode agent's execution trace so a person can fork from a prior step and correct it, then distills the fix into a reusable skill.",
+  "keys": {
+    "races": [
+      "agents/skills",
+      "agents/coding"
+    ],
+    "lanes": [
+      "agents/skills",
+      "agents/coding"
+    ],
+    "capabilities": [
+      "agents/coding/long-running"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.04466"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

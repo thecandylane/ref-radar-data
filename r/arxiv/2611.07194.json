@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.07194",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.07194",
+  "title": "SeVerus: Context-Aware, Gamified Benchmarking for Rust Verification",
+  "why": "Benchmark that strips proof context from Verus projects level by level, so you can see how far a coding agent really gets.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "agents/coding",
+      "languages/type-systems"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "agents/coding",
+      "languages/type-systems"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.07194"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

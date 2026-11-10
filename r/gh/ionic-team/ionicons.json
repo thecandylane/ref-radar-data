@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d1e2c48641fd5f4910ee42a144dc1c84b1a9a4ee"
+  },
+  "id": "gh:ionic-team/ionicons",
+  "kind": "repo",
+  "url": "https://github.com/ionic-team/ionicons",
+  "title": "ionicons",
+  "why": "Icon set built with Stencil and shipped as web components, usable in Ionic and other web apps.",
+  "keys": {
+    "races": [
+      "web/ui-components"
+    ],
+    "lanes": [
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ionic-team/ionicons",
+    "sha": "d1e2c48641fd5f4910ee42a144dc1c84b1a9a4ee",
+    "file_url": "https://cdn.jsdelivr.net/gh/ionic-team/ionicons@d1e2c48641fd5f4910ee42a144dc1c84b1a9a4ee/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 18243,
+    "size_mb": 28,
+    "created_at": "2013-10-10T14:34:18Z",
+    "last_commit_at": "2026-07-28T20:36:24Z",
+    "releases": 77,
+    "tags": 139,
+    "archived": false,
+    "release": {
+      "tag": "v8.1.0",
+      "at": "2026-07-28T20:45:13.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1487da3773b0db3977353c9e379ad74124002c43"
+  },
+  "id": "gh:pyca/pyopenssl",
+  "kind": "repo",
+  "url": "https://github.com/pyca/pyopenssl",
+  "title": "pyopenssl",
+  "why": "Python wrapper over OpenSSL for TLS and SSL connections, from the pyca cryptography family.",
+  "keys": {
+    "races": [
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/secrets-management"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pyca/pyopenssl",
+    "sha": "1487da3773b0db3977353c9e379ad74124002c43",
+    "file_url": "https://cdn.jsdelivr.net/gh/pyca/pyopenssl@1487da3773b0db3977353c9e379ad74124002c43/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 945,
+    "size_mb": 11,
+    "created_at": "2014-01-09T20:10:36Z",
+    "last_commit_at": "2026-10-28T09:46:56Z",
+    "releases": 0,
+    "tags": 43,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

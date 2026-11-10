@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b72dff08588532f96bd072f2f1005e227d8e4ed8"
+  },
+  "id": "gh:rodluger/starry",
+  "kind": "repo",
+  "url": "https://github.com/rodluger/starry",
+  "title": "starry",
+  "why": "Maps stars and planets from time series, such as starspots and exoplanet transits, in Python with notebooks and docs.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rodluger/starry",
+    "sha": "b72dff08588532f96bd072f2f1005e227d8e4ed8",
+    "file_url": "https://cdn.jsdelivr.net/gh/rodluger/starry@b72dff08588532f96bd072f2f1005e227d8e4ed8/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 159,
+    "size_mb": 173,
+    "created_at": "2018-02-07T13:54:20Z",
+    "last_commit_at": "2022-07-14T15:38:11Z",
+    "releases": 10,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.0",
+      "at": "2021-10-13T22:21:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

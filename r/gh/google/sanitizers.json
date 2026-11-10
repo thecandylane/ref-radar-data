@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ef7181a81333263bae3725d9e769d4d61d626aab"
+  },
   "id": "gh:google/sanitizers",
   "kind": "repo",
   "url": "https://github.com/google/sanitizers",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 12520,
+    "stars": 12523,
     "size_mb": 48,
     "created_at": "2014-09-03T23:49:51Z",
     "last_commit_at": "2026-11-08T21:07:07Z",
@@ -50,5 +53,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

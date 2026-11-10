@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:76d26381b9bfcb6f8d235f2837c363873ac82394"
+  },
+  "id": "gh:e-m-b-a/emba",
+  "kind": "repo",
+  "url": "https://github.com/e-m-b-a/emba",
+  "title": "emba",
+  "why": "Scans firmware images for vulnerabilities and produces an SBOM, driven by scan profiles and a Docker setup.",
+  "keys": {
+    "races": [
+      "cyber/reversing",
+      "embedded/firmware",
+      "cyber/supply-chain"
+    ],
+    "lanes": [
+      "cyber/reversing",
+      "embedded/firmware",
+      "cyber/supply-chain"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/e-m-b-a/emba",
+    "sha": "76d26381b9bfcb6f8d235f2837c363873ac82394",
+    "file_url": "https://cdn.jsdelivr.net/gh/e-m-b-a/emba@76d26381b9bfcb6f8d235f2837c363873ac82394/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "GPL-3.0",
+    "stars": 3753,
+    "size_mb": 136,
+    "created_at": "2020-08-25T07:59:12Z",
+    "last_commit_at": "2026-11-10T08:57:07Z",
+    "releases": 28,
+    "tags": 28,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.5-ice-edt",
+      "at": "2026-11-03T09:20:59.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2611.09802",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.09802",
+  "title": "When Instruction Files Go Stale: Documentation Debt and Hidden Cost in Coding Agents",
+  "why": "Shows what a stale AGENTS.md or CLAUDE.md costs: 732 trajectories where agents followed a stale test command and made extra tool calls.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "agents/skills",
+      "agents/coding"
+    ],
+    "lanes": [
+      "agents/memory",
+      "agents/skills",
+      "agents/coding"
+    ],
+    "capabilities": [
+      "agents/memory/project-memory",
+      "agents/skills/agent-configs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.09802"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

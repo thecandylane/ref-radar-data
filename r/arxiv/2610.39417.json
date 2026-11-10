@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2610.39417",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.39417",
+  "title": "Well-Specified and Well-Tested? Assessing SWE-bench-Style Datasets with a Self-Evolving Agent",
+  "why": "Judges whether SWE-bench-style issues are clearly specified and well tested, using an evolving experience bank, across eight programming languages.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "data/datasets",
+      "agents/coding"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "data/datasets",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.39417"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

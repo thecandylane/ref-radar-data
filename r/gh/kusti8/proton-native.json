@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ab482b120542951628292211b989e504fa4a3985"
+  },
+  "id": "gh:kusti8/proton-native",
+  "kind": "repo",
+  "url": "https://github.com/kusti8/proton-native",
+  "title": "proton-native",
+  "why": "Build cross platform desktop apps from React components that render natively, with examples and docs.",
+  "keys": {
+    "races": [
+      "desktop/native-ui",
+      "mobile/cross-platform"
+    ],
+    "lanes": [
+      "desktop/native-ui",
+      "mobile/cross-platform"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kusti8/proton-native",
+    "sha": "ab482b120542951628292211b989e504fa4a3985",
+    "file_url": "https://cdn.jsdelivr.net/gh/kusti8/proton-native@ab482b120542951628292211b989e504fa4a3985/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 10863,
+    "size_mb": 7,
+    "created_at": "2017-11-21T22:56:18Z",
+    "last_commit_at": "2021-01-20T03:20:26Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

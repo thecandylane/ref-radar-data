@@ -1,0 +1,61 @@
+{
+  "id": "gh:torchgeo/torchgeo",
+  "kind": "repo",
+  "url": "https://github.com/torchgeo/torchgeo",
+  "title": "torchgeo",
+  "why": "PyTorch datasets, samplers and pretrained models for satellite imagery and other remote sensing data.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "ml/vision",
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "ml/vision",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/torchgeo/torchgeo",
+    "sha": "8b5d4163459582bcd7f39f82ed23e5c8a27914a1",
+    "file_url": "https://raw.githubusercontent.com/torchgeo/torchgeo/8b5d4163459582bcd7f39f82ed23e5c8a27914a1/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 4239,
+    "size_mb": 376,
+    "created_at": "2021-05-21T05:58:56Z",
+    "last_commit_at": "2026-11-06T21:52:10Z",
+    "releases": 22,
+    "tags": 22,
+    "archived": false,
+    "release": {
+      "tag": "v0.10.1",
+      "at": "2026-09-29T08:57:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

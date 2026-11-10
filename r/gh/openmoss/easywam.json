@@ -1,0 +1,61 @@
+{
+  "id": "gh:openmoss/easywam",
+  "kind": "repo",
+  "url": "https://github.com/OpenMOSS/EasyWAM",
+  "title": "EasyWAM",
+  "why": "Trains, fine-tunes with LoRA and evaluates World Action Models for robotics in one codebase, with configs and experiments folders.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "embedded/robotics",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "ml/training",
+      "embedded/robotics",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OpenMOSS/EasyWAM",
+    "sha": "d7c7c5a8d018f7d140678a30ce266dc716d50bc1",
+    "file_url": "https://cdn.jsdelivr.net/gh/OpenMOSS/EasyWAM@d7c7c5a8d018f7d140678a30ce266dc716d50bc1/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 407,
+    "size_mb": 4,
+    "created_at": "2026-08-26T15:08:36Z",
+    "last_commit_at": "2026-11-08T13:55:31Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

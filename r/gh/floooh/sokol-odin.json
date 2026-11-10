@@ -1,0 +1,53 @@
+{
+  "id": "gh:floooh/sokol-odin",
+  "kind": "repo",
+  "url": "https://github.com/floooh/sokol-odin",
+  "title": "sokol-odin",
+  "why": "Gives Odin programs the sokol headers through a sokol package, with build_shaders.sh for shaders and examples.",
+  "keys": {
+    "races": [
+      "games/graphics"
+    ],
+    "lanes": [
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/floooh/sokol-odin",
+    "sha": "60dd3a7c55246cca9a6cf2d34664a8861414f0fe",
+    "file_url": "https://cdn.jsdelivr.net/gh/floooh/sokol-odin@60dd3a7c55246cca9a6cf2d34664a8861414f0fe/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "Zlib",
+    "stars": 289,
+    "size_mb": 6,
+    "created_at": "2022-06-27T16:21:21Z",
+    "last_commit_at": "2026-11-08T15:06:30Z",
+    "releases": 0,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ccfc0e8411811324dd4533a43f171bf3af031339"
+  },
+  "id": "gh:floooh/pacman.c",
+  "kind": "repo",
+  "url": "https://github.com/floooh/pacman.c",
+  "title": "pacman.c",
+  "why": "Recreates the Pacman arcade game in plain C99 as a compact, single-file reference implementation built on the sokol headers.",
+  "keys": {
+    "races": [
+      "games/graphics"
+    ],
+    "lanes": [
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/floooh/pacman.c",
+    "sha": "ccfc0e8411811324dd4533a43f171bf3af031339",
+    "file_url": "https://cdn.jsdelivr.net/gh/floooh/pacman.c@ccfc0e8411811324dd4533a43f171bf3af031339/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 596,
+    "size_mb": 3,
+    "created_at": "2020-11-19T16:08:36Z",
+    "last_commit_at": "2026-10-29T18:26:01Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

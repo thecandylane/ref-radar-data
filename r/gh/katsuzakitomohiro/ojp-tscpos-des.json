@@ -1,0 +1,62 @@
+{
+  "id": "gh:katsuzakitomohiro/ojp-tscpos-des",
+  "kind": "repo",
+  "url": "https://github.com/katsuzakitomohiro/ojp-tscpos-des",
+  "title": "ojp-tscpos-des",
+  "why": "MATLAB code and data for sizing and scheduling a demand-side energy system with mixed-integer linear programming.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/katsuzakitomohiro/ojp-tscpos-des",
+    "sha": "8946be36643e22b67ba175fd3deae61506c9add4",
+    "file_url": "https://cdn.jsdelivr.net/gh/katsuzakitomohiro/ojp-tscpos-des@8946be36643e22b67ba175fd3deae61506c9add4/{path}"
+  },
+  "facts": {
+    "lang": "MATLAB",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 1,
+    "created_at": "2025-06-30T08:15:13Z",
+    "last_commit_at": "2025-09-10T02:53:20Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.3",
+      "at": "2025-09-10T02:57:55.000Z"
+    },
+    "doi": "10.5281/zenodo.15790318",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

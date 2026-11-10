@@ -1,0 +1,55 @@
+{
+  "id": "gh:floooh/cimgui-sokol-starterkit",
+  "kind": "repo",
+  "url": "https://github.com/floooh/cimgui-sokol-starterkit",
+  "title": "cimgui-sokol-starterkit",
+  "why": "Gives you a bare Dear ImGui example already wired to sokol, enough to build immediately on Windows, Linux or macOS.",
+  "keys": {
+    "races": [
+      "games/graphics",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "games/graphics",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/floooh/cimgui-sokol-starterkit",
+    "sha": "437ccb3255b4e4e787455d5da1cf1f49da6ddee5",
+    "file_url": "https://cdn.jsdelivr.net/gh/floooh/cimgui-sokol-starterkit@437ccb3255b4e4e787455d5da1cf1f49da6ddee5/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 281,
+    "size_mb": 8,
+    "created_at": "2020-10-30T16:43:58Z",
+    "last_commit_at": "2026-11-03T23:15:46Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

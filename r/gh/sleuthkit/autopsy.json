@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cb3dacdcad67abe7cf863c74f10dcdb8e25a5c21"
+  },
+  "id": "gh:sleuthkit/autopsy",
+  "kind": "repo",
+  "url": "https://github.com/sleuthkit/autopsy",
+  "title": "autopsy",
+  "why": "Desktop GUI over The Sleuth Kit for examining a computer or memory card, with plugin modules in Java and Python.",
+  "keys": {
+    "races": [
+      "cyber/detection"
+    ],
+    "lanes": [
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.txt",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sleuthkit/autopsy",
+    "sha": "cb3dacdcad67abe7cf863c74f10dcdb8e25a5c21",
+    "file_url": "https://raw.githubusercontent.com/sleuthkit/autopsy/cb3dacdcad67abe7cf863c74f10dcdb8e25a5c21/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "none",
+    "stars": 3432,
+    "size_mb": 2402,
+    "created_at": "2011-10-05T02:11:11Z",
+    "last_commit_at": "2026-05-04T17:07:28Z",
+    "releases": 28,
+    "tags": 58,
+    "archived": false,
+    "release": {
+      "tag": "autopsy-4.23.1",
+      "at": "2026-05-07T15:23:27.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

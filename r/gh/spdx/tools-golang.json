@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:81fb821d6949d730bd1fd7ed1e6f30ba30945ab5"
+  },
+  "id": "gh:spdx/tools-golang",
+  "kind": "repo",
+  "url": "https://github.com/spdx/tools-golang",
+  "title": "tools-golang",
+  "why": "Go packages for reading, writing and converting SPDX files in JSON, YAML, RDF and tag-value form, plus a license diff.",
+  "keys": {
+    "races": [
+      "cyber/supply-chain",
+      "data/serialization"
+    ],
+    "lanes": [
+      "cyber/supply-chain",
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/spdx/tools-golang",
+    "sha": "81fb821d6949d730bd1fd7ed1e6f30ba30945ab5",
+    "file_url": "https://cdn.jsdelivr.net/gh/spdx/tools-golang@81fb821d6949d730bd1fd7ed1e6f30ba30945ab5/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "NOASSERTION",
+    "stars": 171,
+    "size_mb": 1,
+    "created_at": "2019-01-10T21:31:26Z",
+    "last_commit_at": "2026-10-30T14:28:53Z",
+    "releases": 16,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.7",
+      "at": "2026-01-12T21:38:28.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

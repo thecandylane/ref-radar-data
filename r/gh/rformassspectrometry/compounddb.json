@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7daa5754dffffde823e42268a9bd3dc6a1a9ddd8"
+  },
+  "id": "gh:rformassspectrometry/compounddb",
+  "kind": "repo",
+  "url": "https://github.com/rformassspectrometry/CompoundDb",
+  "title": "CompoundDb",
+  "why": "Builds a chemical compound database for mass spectrometry annotation, then queries it from R.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rformassspectrometry/CompoundDb",
+    "sha": "7daa5754dffffde823e42268a9bd3dc6a1a9ddd8",
+    "file_url": "https://cdn.jsdelivr.net/gh/rformassspectrometry/CompoundDb@7daa5754dffffde823e42268a9bd3dc6a1a9ddd8/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 20,
+    "size_mb": 16,
+    "created_at": "2017-10-27T08:48:25Z",
+    "last_commit_at": "2026-03-19T08:10:35Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:dc932f69bddb2ac7939a8789bd843fc47a99b699"
+  },
+  "id": "gh:ipea/geobr",
+  "kind": "repo",
+  "url": "https://github.com/ipea/geobr",
+  "title": "geobr",
+  "why": "Fetches official Brazilian boundaries and other spatial datasets into R or Python, with a QGIS plugin too.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ipea/geobr",
+    "sha": "dc932f69bddb2ac7939a8789bd843fc47a99b699",
+    "file_url": "https://cdn.jsdelivr.net/gh/ipea/geobr@dc932f69bddb2ac7939a8789bd843fc47a99b699/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 971,
+    "size_mb": 56,
+    "created_at": "2019-03-22T22:15:22Z",
+    "last_commit_at": "2026-11-09T01:24:42Z",
+    "releases": 24,
+    "tags": 30,
+    "archived": false,
+    "release": {
+      "tag": "v2.1.0",
+      "at": "2026-09-20T03:15:51.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

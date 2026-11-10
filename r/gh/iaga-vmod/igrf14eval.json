@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2899280ffbec7cae12e19fbcaa04ed9609092729"
+  },
+  "id": "gh:iaga-vmod/igrf14eval",
+  "kind": "repo",
+  "url": "https://github.com/IAGA-VMOD/IGRF14eval",
+  "title": "IGRF14eval",
+  "why": "Notebooks and scripts for submitting and evaluating candidate models of the IGRF-14 geomagnetic reference field.",
+  "keys": {
+    "races": [
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/IAGA-VMOD/IGRF14eval",
+    "sha": "2899280ffbec7cae12e19fbcaa04ed9609092729",
+    "file_url": "https://cdn.jsdelivr.net/gh/IAGA-VMOD/IGRF14eval@2899280ffbec7cae12e19fbcaa04ed9609092729/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 21,
+    "size_mb": 54,
+    "created_at": "2024-02-13T20:21:12Z",
+    "last_commit_at": "2025-04-09T12:30:32Z",
+    "releases": 1,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "2024-11-22-v2",
+      "at": "2024-11-22T16:03:02.000Z"
+    },
+    "doi": "10.5281/zenodo.14205633",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6a1079e3b2389ad2b486af575a94faf09c35a057"
+  },
+  "id": "gh:crablang/crab",
+  "kind": "repo",
+  "url": "https://github.com/crablang/crab",
+  "title": "crab",
+  "why": "Community fork of the Rust compiler and standard library, kept going without the usual bureaucracy.",
+  "keys": {
+    "races": [
+      "languages/compilers"
+    ],
+    "lanes": [
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/crablang/crab",
+    "sha": "6a1079e3b2389ad2b486af575a94faf09c35a057",
+    "file_url": "https://raw.githubusercontent.com/crablang/crab/6a1079e3b2389ad2b486af575a94faf09c35a057/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "NOASSERTION",
+    "stars": 5059,
+    "size_mb": 926,
+    "created_at": "2023-04-11T17:25:41Z",
+    "last_commit_at": "2024-08-19T16:21:29Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

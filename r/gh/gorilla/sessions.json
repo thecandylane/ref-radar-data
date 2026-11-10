@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bb4cd60c952a9ce48ea0dc6cc7b282ff79c38263"
+  },
+  "id": "gh:gorilla/sessions",
+  "kind": "repo",
+  "url": "https://github.com/gorilla/sessions",
+  "title": "sessions",
+  "why": "Provides cookie and filesystem session storage for Go web apps, with infrastructure for custom backends.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "cyber/identity"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "cyber/identity"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gorilla/sessions",
+    "sha": "bb4cd60c952a9ce48ea0dc6cc7b282ff79c38263",
+    "file_url": "https://cdn.jsdelivr.net/gh/gorilla/sessions@bb4cd60c952a9ce48ea0dc6cc7b282ff79c38263/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "BSD-3-Clause",
+    "stars": 3150,
+    "size_mb": 0,
+    "created_at": "2012-10-02T21:33:02Z",
+    "last_commit_at": "2024-08-20T14:07:20Z",
+    "releases": 9,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v1.4.0",
+      "at": "2024-08-20T14:12:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

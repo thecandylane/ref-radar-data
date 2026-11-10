@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.09808",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.09808",
+  "title": "Agents on the Patch Path: Mining AI-Associated Security Remediation in GitHub Security Advisories",
+  "why": "Counts how often coding agents show up in GitHub Security Advisory fixes: 469 advisories across 189 repositories, with Claude seen most.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "agents/coding",
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/auto-remediation"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.09808"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:367c0e23a633b32bf17a900251e596b819d92bb1"
+  },
+  "id": "gh:veneris-group/tod-location-rectification",
+  "kind": "repo",
+  "url": "https://github.com/Veneris-Group/TOD-Location-Rectification",
+  "title": "TOD-Location-Rectification",
+  "why": "Research scripts that trace data dependency to locate TOD flaws in Ponzi scheme contracts and rewrite them.",
+  "keys": {
+    "races": [
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/auto-remediation"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Veneris-Group/TOD-Location-Rectification",
+    "sha": "367c0e23a633b32bf17a900251e596b819d92bb1",
+    "file_url": "https://cdn.jsdelivr.net/gh/Veneris-Group/TOD-Location-Rectification@367c0e23a633b32bf17a900251e596b819d92bb1/{path}"
+  },
+  "facts": {
+    "lang": "Solidity",
+    "license": "none",
+    "stars": 7,
+    "size_mb": 0,
+    "created_at": "2021-12-20T06:12:58Z",
+    "last_commit_at": "2023-12-19T22:44:57Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

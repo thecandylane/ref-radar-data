@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3075fa4e558b527c337a4f2f51d2bfba14a5e2a4"
+  },
+  "id": "gh:pyscf/pyscf",
+  "kind": "repo",
+  "url": "https://github.com/pyscf/pyscf",
+  "title": "pyscf",
+  "why": "Quantum chemistry from plain Python calls, with examples and an agent-recipes folder for driving calculations.",
+  "keys": {
+    "races": [
+      "engineering/chemistry"
+    ],
+    "lanes": [
+      "engineering/chemistry"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pyscf/pyscf",
+    "sha": "3075fa4e558b527c337a4f2f51d2bfba14a5e2a4",
+    "file_url": "https://cdn.jsdelivr.net/gh/pyscf/pyscf@3075fa4e558b527c337a4f2f51d2bfba14a5e2a4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 1720,
+    "size_mb": 92,
+    "created_at": "2014-05-02T18:42:25Z",
+    "last_commit_at": "2026-11-10T07:55:10Z",
+    "releases": 61,
+    "tags": 85,
+    "archived": false,
+    "release": {
+      "tag": "v2.15.0",
+      "at": "2026-11-05T05:34:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

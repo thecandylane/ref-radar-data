@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bb91a05077afa6601a3d7538c4cbbdbf0abe7ed9"
+  },
+  "id": "gh:slsa-framework/slsa-github-generator",
+  "kind": "repo",
+  "url": "https://github.com/slsa-framework/slsa-github-generator",
+  "title": "slsa-github-generator",
+  "why": "Generates SLSA provenance for builds in GitHub Actions, in any language, so consumers can verify how an artifact was built.",
+  "keys": {
+    "races": [
+      "cyber/supply-chain",
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "cyber/supply-chain",
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/slsa-framework/slsa-github-generator",
+    "sha": "bb91a05077afa6601a3d7538c4cbbdbf0abe7ed9",
+    "file_url": "https://cdn.jsdelivr.net/gh/slsa-framework/slsa-github-generator@bb91a05077afa6601a3d7538c4cbbdbf0abe7ed9/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 609,
+    "size_mb": 39,
+    "created_at": "2022-03-28T15:57:17Z",
+    "last_commit_at": "2026-08-07T03:19:49Z",
+    "releases": 37,
+    "tags": 39,
+    "archived": false,
+    "release": {
+      "tag": "v2.1.0",
+      "at": "2025-02-24T19:32:29.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

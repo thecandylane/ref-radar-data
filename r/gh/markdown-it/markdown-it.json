@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a8c00d474ec9b304fad9b71c16d6fa8b4909279e"
+  },
+  "id": "gh:markdown-it/markdown-it",
+  "kind": "repo",
+  "url": "https://github.com/markdown-it/markdown-it",
+  "title": "markdown-it",
+  "why": "Parses Markdown to HTML under the CommonMark spec, supporting syntax plugins and small additions such as automatic URL linking.",
+  "keys": {
+    "races": [
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/markdown-it/markdown-it",
+    "sha": "a8c00d474ec9b304fad9b71c16d6fa8b4909279e",
+    "file_url": "https://cdn.jsdelivr.net/gh/markdown-it/markdown-it@a8c00d474ec9b304fad9b71c16d6fa8b4909279e/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 22034,
+    "size_mb": 4,
+    "created_at": "2014-12-19T22:54:53Z",
+    "last_commit_at": "2026-10-16T00:27:59Z",
+    "releases": 0,
+    "tags": 89,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

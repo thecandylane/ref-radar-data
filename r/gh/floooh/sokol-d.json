@@ -1,0 +1,60 @@
+{
+  "id": "gh:floooh/sokol-d",
+  "kind": "repo",
+  "url": "https://github.com/floooh/sokol-d",
+  "title": "sokol-d",
+  "why": "Lets D language code call into the sokol headers, with cross-platform support reaching emscripten and wasm targets.",
+  "keys": {
+    "races": [
+      "games/graphics"
+    ],
+    "lanes": [
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/floooh/sokol-d",
+    "sha": "1783462b7647a1e1ae4a5e7c12c1a9c63ef71565",
+    "file_url": "https://cdn.jsdelivr.net/gh/floooh/sokol-d@1783462b7647a1e1ae4a5e7c12c1a9c63ef71565/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "Zlib",
+    "stars": 29,
+    "size_mb": 8,
+    "created_at": "2023-12-11T19:41:35Z",
+    "last_commit_at": "2026-11-08T15:01:55Z",
+    "releases": 31,
+    "tags": 32,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.8",
+      "at": "2026-10-23T18:57:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

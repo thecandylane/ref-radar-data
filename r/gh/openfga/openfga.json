@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ff8394da6ca3a14583668d5dd7f02aeacb5da47b"
+  },
   "id": "gh:openfga/openfga",
   "kind": "repo",
   "url": "https://github.com/openfga/openfga",
@@ -42,10 +45,10 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 6118,
+    "stars": 6125,
     "size_mb": 60,
     "created_at": "2022-06-08T18:47:15Z",
-    "last_commit_at": "2026-11-07T00:08:35Z",
+    "last_commit_at": "2026-11-09T16:39:19Z",
     "releases": 121,
     "tags": 124,
     "archived": false,
@@ -65,5 +68,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

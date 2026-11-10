@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:47a80936a5e6e419e48601747f48c8ccd647a40a"
+  },
+  "id": "gh:ropensci/mbquartr",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/mbquartR",
+  "title": "mbquartR",
+  "why": "Converts Manitoba legal land descriptions to coordinates and back using Original Survey data covering over 900,000 parcels.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/mbquartR",
+    "sha": "47a80936a5e6e419e48601747f48c8ccd647a40a",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/mbquartR@47a80936a5e6e419e48601747f48c8ccd647a40a/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "size_mb": 5,
+    "created_at": "2024-06-04T21:56:28Z",
+    "last_commit_at": "2026-04-01T20:14:05Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "data-backup",
+      "at": "2024-06-20T14:26:36.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

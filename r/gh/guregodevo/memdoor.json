@@ -1,0 +1,76 @@
+{
+  "id": "gh:guregodevo/memdoor",
+  "kind": "repo",
+  "url": "https://github.com/guregodevo/memdoor",
+  "title": "memdoor",
+  "why": "Single-binary Go agent that codes locally or over SSH and reruns durable workflows from CI or cron.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/assistants"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/assistants"
+    ],
+    "capabilities": [
+      "agents/coding/cli-agents",
+      "agents/assistants/task-automation"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/guregodevo/memdoor",
+    "sha": "662efb2fc88a71b94fef951c4230abf46865e37b",
+    "file_url": "https://cdn.jsdelivr.net/gh/guregodevo/memdoor@662efb2fc88a71b94fef951c4230abf46865e37b/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 384,
+    "size_mb": 8,
+    "created_at": "2026-10-05T20:04:16Z",
+    "last_commit_at": "2026-11-09T22:04:06Z",
+    "releases": 97,
+    "tags": 268,
+    "archived": false,
+    "release": {
+      "tag": "v1.814.0",
+      "at": "2026-11-09T22:07:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-02T08:33:28.021Z"
+  }
+}

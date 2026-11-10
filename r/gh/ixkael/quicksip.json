@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:79c0ed44494b0369d5ca860418538740be471d8a"
+  },
+  "id": "gh:ixkael/quicksip",
+  "kind": "repo",
+  "url": "https://github.com/ixkael/QuickSip",
+  "title": "QuickSip",
+  "why": "Turns seeing, sky noise and airmass from multi-epoch survey images into Healpix maps with flexible weighting schemes.",
+  "keys": {
+    "races": [
+      "data/pipelines",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/pipelines",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ixkael/QuickSip",
+    "sha": "79c0ed44494b0369d5ca860418538740be471d8a",
+    "file_url": "https://cdn.jsdelivr.net/gh/ixkael/QuickSip@79c0ed44494b0369d5ca860418538740be471d8a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 5,
+    "size_mb": 0,
+    "created_at": "2016-03-16T13:39:57Z",
+    "last_commit_at": "2017-08-03T16:09:18Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

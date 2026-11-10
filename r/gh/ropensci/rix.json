@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7c8a3f78d569e3d87ef7e851f235e3d015746fb3"
+  },
+  "id": "gh:ropensci/rix",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/rix",
+  "title": "rix",
+  "why": "Generates Nix expressions for reproducible R environments, so a project's dependencies pin down exactly with Nix.",
+  "keys": {
+    "races": [
+      "infra/iac"
+    ],
+    "lanes": [
+      "infra/iac"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/rix",
+    "sha": "7c8a3f78d569e3d87ef7e851f235e3d015746fb3",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/rix@7c8a3f78d569e3d87ef7e851f235e3d015746fb3/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 384,
+    "size_mb": 16,
+    "created_at": "2023-07-14T20:29:27Z",
+    "last_commit_at": "2026-10-29T20:54:15Z",
+    "releases": 4,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.1",
+      "at": "2023-10-06T03:54:18.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

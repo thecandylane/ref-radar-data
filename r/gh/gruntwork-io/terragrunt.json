@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:bce50e6e9bd6340b0cec4fe7d03c7cf11218d63b"
+  },
   "id": "gh:gruntwork-io/terragrunt",
   "kind": "repo",
   "url": "https://github.com/gruntwork-io/terragrunt",
@@ -37,9 +40,9 @@
     "lang": "Go",
     "license": "MIT",
     "stars": 9917,
-    "size_mb": 78,
+    "size_mb": 80,
     "created_at": "2016-05-23T22:17:48Z",
-    "last_commit_at": "2026-11-06T21:53:35Z",
+    "last_commit_at": "2026-11-09T21:14:27Z",
     "releases": 954,
     "tags": 961,
     "archived": false,
@@ -59,5 +62,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

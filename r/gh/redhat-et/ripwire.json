@@ -1,0 +1,70 @@
+{
+  "id": "gh:redhat-et/ripwire",
+  "kind": "repo",
+  "url": "https://github.com/redhat-et/ripwire",
+  "title": "ripwire",
+  "why": "Finds code and checks blast radius for coding agents through a C++ CLI and MCP server, sending signatures instead of bodies.",
+  "keys": {
+    "races": [
+      "agents/code-intel",
+      "agents/tools",
+      "agents/context"
+    ],
+    "lanes": [
+      "agents/code-intel",
+      "agents/tools",
+      "agents/context"
+    ],
+    "capabilities": [
+      "agents/code-intel/code-search",
+      "agents/code-intel/code-graphs",
+      "agents/tools/mcp-servers",
+      "agents/context/output-compression"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/redhat-et/ripwire",
+    "sha": "824847bd9e50b05ab0a0d3677bfc62e3b6f20a03",
+    "file_url": "https://raw.githubusercontent.com/redhat-et/ripwire/824847bd9e50b05ab0a0d3677bfc62e3b6f20a03/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 2534,
+    "size_mb": 107,
+    "created_at": "2026-07-29T15:58:33Z",
+    "last_commit_at": "2026-11-10T06:05:55Z",
+    "releases": 24,
+    "tags": 25,
+    "archived": false,
+    "release": {
+      "tag": "v0.6.10",
+      "at": "2026-11-08T08:24:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

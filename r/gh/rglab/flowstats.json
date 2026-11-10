@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fabb13191a2567e41a89691cab31507d4cbddc7a"
+  },
+  "id": "gh:rglab/flowstats",
+  "kind": "repo",
+  "url": "https://github.com/RGLab/flowStats",
+  "title": "flowStats",
+  "why": "Bioconductor-based routines for analysing flow cytometry data, with vignettes and sample data in the repo.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "DESCRIPTION",
+      "kind": "path"
+    },
+    {
+      "locator": "vignettes",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/RGLab/flowStats",
+    "sha": "fabb13191a2567e41a89691cab31507d4cbddc7a",
+    "file_url": "https://cdn.jsdelivr.net/gh/RGLab/flowStats@fabb13191a2567e41a89691cab31507d4cbddc7a/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 15,
+    "size_mb": 4,
+    "created_at": "2012-02-24T21:35:17Z",
+    "last_commit_at": "2023-07-19T00:39:40Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "bioc_3.13",
+      "at": "2020-11-18T05:47:00.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

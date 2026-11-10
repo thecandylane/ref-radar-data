@@ -1,0 +1,55 @@
+{
+  "id": "gh:gigirassy/instafix",
+  "kind": "repo",
+  "url": "https://github.com/gigirassy/InstaFix",
+  "title": "InstaFix",
+  "why": "Gives Instagram links a working embed card in Discord and Telegram, run as a Go service from Docker with Caddy.",
+  "keys": {
+    "races": [
+      "infra/hosting",
+      "infra/containers"
+    ],
+    "lanes": [
+      "infra/hosting",
+      "infra/containers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gigirassy/InstaFix",
+    "sha": "f2d9a345ce4a8ccb15681eab20ae2491bf06bd85",
+    "file_url": "https://cdn.jsdelivr.net/gh/gigirassy/InstaFix@f2d9a345ce4a8ccb15681eab20ae2491bf06bd85/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 6,
+    "size_mb": 2,
+    "created_at": "2025-09-07T02:01:15Z",
+    "last_commit_at": "2026-03-05T01:38:00Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

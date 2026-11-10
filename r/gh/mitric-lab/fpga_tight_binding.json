@@ -1,0 +1,64 @@
+{
+  "id": "gh:mitric-lab/fpga_tight_binding",
+  "kind": "repo",
+  "url": "https://github.com/mitric-lab/fpga_tight_binding",
+  "title": "fpga_tight_binding",
+  "why": "Implements Extended Huckel Theory and DFTB0 Hamiltonian generation directly on an FPGA, running the design on a Digilent Arty A7-100 board.",
+  "keys": {
+    "races": [
+      "engineering/hdl",
+      "engineering/chemistry"
+    ],
+    "lanes": [
+      "engineering/hdl",
+      "engineering/chemistry"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mitric-lab/fpga_tight_binding",
+    "sha": "6bbf20f08b37017afa3b2acc898c438d634cde35",
+    "file_url": "https://cdn.jsdelivr.net/gh/mitric-lab/fpga_tight_binding@6bbf20f08b37017afa3b2acc898c438d634cde35/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 0,
+    "size_mb": 2,
+    "created_at": "2026-08-06T11:51:49Z",
+    "last_commit_at": "2026-08-06T11:51:53Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-08-06T11:52:34.000Z"
+    },
+    "doi": "10.5281/zenodo.21822195",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

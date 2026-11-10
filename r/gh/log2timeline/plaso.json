@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ba5c5f13f579a4f2a6227f3bbcaa213d459b91b4"
+  },
+  "id": "gh:log2timeline/plaso",
+  "kind": "repo",
+  "url": "https://github.com/log2timeline/plaso",
+  "title": "plaso",
+  "why": "Parses forensic data from many sources into one timeline that an investigator can search and filter.",
+  "keys": {
+    "races": [
+      "cyber/detection"
+    ],
+    "lanes": [
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/log2timeline/plaso",
+    "sha": "ba5c5f13f579a4f2a6227f3bbcaa213d459b91b4",
+    "file_url": "https://raw.githubusercontent.com/log2timeline/plaso/ba5c5f13f579a4f2a6227f3bbcaa213d459b91b4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 2188,
+    "size_mb": 247,
+    "created_at": "2014-09-08T23:29:28Z",
+    "last_commit_at": "2026-11-07T11:35:36Z",
+    "releases": 52,
+    "tags": 52,
+    "archived": false,
+    "release": {
+      "tag": "20261027",
+      "at": "2026-10-27T10:23:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

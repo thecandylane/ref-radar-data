@@ -1,0 +1,97 @@
+{
+  "label": "compromised",
+  "labels": [
+    "compromised"
+  ],
+  "trap": {
+    "signs": [
+      {
+        "rule": "T12",
+        "path": "cli/hooks/sqliteRuntime.js",
+        "note": "a script an install hook runs that does a worm's work (publishes, harvests secrets or registers runners)",
+        "mark": "compromised"
+      }
+    ],
+    "files": [
+      "cli/hooks/sqliteRuntime.js"
+    ],
+    "marks": [
+      "compromised"
+    ]
+  },
+  "archive": {
+    "swh": "swh:1:rev:1fe586bb1cf35e1ed0cb2150a8ef7d1db040b21d"
+  },
+  "id": "gh:decolua/9router",
+  "kind": "repo",
+  "url": "https://github.com/decolua/9router",
+  "title": "9router",
+  "why": "Routes Claude Code, Cursor or Cline through one gateway to 40+ providers, falling back to another when one runs out.",
+  "keys": {
+    "races": [
+      "llm-infra/gateways",
+      "agents/context"
+    ],
+    "lanes": [
+      "llm-infra/gateways",
+      "agents/context"
+    ],
+    "capabilities": [
+      "llm-infra/gateways/llm-gateway",
+      "llm-infra/gateways/free-providers",
+      "llm-infra/gateways/model-routing",
+      "agents/context/output-compression"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/decolua/9router",
+    "sha": "1fe586bb1cf35e1ed0cb2150a8ef7d1db040b21d",
+    "file_url": "https://cdn.jsdelivr.net/gh/decolua/9router@1fe586bb1cf35e1ed0cb2150a8ef7d1db040b21d/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 32197,
+    "size_mb": 18,
+    "created_at": "2026-01-05T02:59:30Z",
+    "last_commit_at": "2026-11-08T11:48:45Z",
+    "releases": 73,
+    "tags": 95,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.35",
+      "at": "2026-07-16T11:14:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a YARA rule for offensive tools matched"
+    ],
+    "scanned_at": "2026-11-04T03:53:01.566Z"
+  }
+}

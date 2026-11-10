@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d689933ff579d839c676c82b231f8e98326c5f04"
+  },
+  "id": "gh:0x4m4/hexstrike-ai",
+  "kind": "repo",
+  "url": "https://github.com/0x4m4/hexstrike-ai",
+  "title": "hexstrike-ai",
+  "why": "MCP server exposing 150+ security tools to clients like Claude Desktop and Cursor, with a decision engine choosing tools per target.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "agents/tools",
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "agents/tools",
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/offensive/ai-pentesting",
+      "agents/tools/mcp-servers",
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/0x4m4/hexstrike-ai",
+    "sha": "d689933ff579d839c676c82b231f8e98326c5f04",
+    "file_url": "https://cdn.jsdelivr.net/gh/0x4m4/hexstrike-ai@d689933ff579d839c676c82b231f8e98326c5f04/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 13488,
+    "size_mb": 2,
+    "created_at": "2025-07-10T17:53:18Z",
+    "last_commit_at": "2026-08-03T14:33:01Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f99b4927ca0b0c75eb4910ecd718da00957f9491"
+  },
+  "id": "gh:magento/devdocs",
+  "kind": "repo",
+  "url": "https://github.com/magento/devdocs",
+  "title": "devdocs",
+  "why": "Archived source of the Magento developer documentation site, with markdown linting and a Docker build setup.",
+  "keys": {
+    "races": [
+      "dev-tools/docs",
+      "web/static-sites"
+    ],
+    "lanes": [
+      "dev-tools/docs",
+      "web/static-sites"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/magento/devdocs",
+    "sha": "f99b4927ca0b0c75eb4910ecd718da00957f9491",
+    "file_url": "https://raw.githubusercontent.com/magento/devdocs/f99b4927ca0b0c75eb4910ecd718da00957f9491/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "OSL-3.0",
+    "stars": 677,
+    "size_mb": 548,
+    "created_at": "2014-03-10T20:54:08Z",
+    "last_commit_at": "2024-11-15T22:59:04Z",
+    "releases": 0,
+    "tags": 62,
+    "archived": true,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

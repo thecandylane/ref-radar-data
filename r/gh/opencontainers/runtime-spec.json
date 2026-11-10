@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:469dd5b6233c9d0137d16be792978aebb302666e"
+  },
+  "id": "gh:opencontainers/runtime-spec",
+  "kind": "repo",
+  "url": "https://github.com/opencontainers/runtime-spec",
+  "title": "runtime-spec",
+  "why": "Spells out the bundle layout and config an OCI runtime such as runc must honor, with Linux, Windows and VM sections.",
+  "keys": {
+    "races": [
+      "infra/containers",
+      "infra/isolation"
+    ],
+    "lanes": [
+      "infra/containers",
+      "infra/isolation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/opencontainers/runtime-spec",
+    "sha": "469dd5b6233c9d0137d16be792978aebb302666e",
+    "file_url": "https://cdn.jsdelivr.net/gh/opencontainers/runtime-spec@469dd5b6233c9d0137d16be792978aebb302666e/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 3703,
+    "size_mb": 2,
+    "created_at": "2015-06-05T23:30:10Z",
+    "last_commit_at": "2026-11-07T20:11:49Z",
+    "releases": 21,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.0",
+      "at": "2025-11-04T09:30:02.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:de0ec6bf03e21e6ab33849ee01f42c4f5f379dc4"
+  },
+  "id": "gh:rodluger/everest",
+  "kind": "repo",
+  "url": "https://github.com/rodluger/everest",
+  "title": "everest",
+  "why": "De-trends K2 light curves to pull exoplanet transit and photometry signals out of Kepler data.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rodluger/everest",
+    "sha": "de0ec6bf03e21e6ab33849ee01f42c4f5f379dc4",
+    "file_url": "https://cdn.jsdelivr.net/gh/rodluger/everest@de0ec6bf03e21e6ab33849ee01f42c4f5f379dc4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 44,
+    "size_mb": 158,
+    "created_at": "2016-04-19T16:59:59Z",
+    "last_commit_at": "2019-08-12T13:26:27Z",
+    "releases": 7,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "2.1.0",
+      "at": "2018-07-01T14:34:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

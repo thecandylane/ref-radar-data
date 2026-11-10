@@ -1,0 +1,45 @@
+{
+  "id": "arxiv:2611.03219",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.03219",
+  "title": "Can Coding Agents Sustain Continual Evolution without Forgetting?",
+  "why": "Shows that coding-agent harnesses evolved on one dataset forget earlier ones, with SWE-Bench dropping from 94.0% to 32.0% across later evolution rounds.",
+  "keys": {
+    "races": [
+      "agents/optimization",
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "agents/optimization",
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "capabilities": [
+      "agents/optimization/harness-optimization"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.03219"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

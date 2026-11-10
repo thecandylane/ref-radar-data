@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:436cada570b9e1830a9725245849bdcd6baa1e12"
+  },
+  "id": "gh:joblib/joblib",
+  "kind": "repo",
+  "url": "https://github.com/joblib/joblib",
+  "title": "joblib",
+  "why": "Caches function results on disk and runs Python functions in parallel, so repeated heavy computations are skipped.",
+  "keys": {
+    "races": [
+      "practice/performance",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "practice/performance",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/joblib/joblib",
+    "sha": "436cada570b9e1830a9725245849bdcd6baa1e12",
+    "file_url": "https://cdn.jsdelivr.net/gh/joblib/joblib@436cada570b9e1830a9725245849bdcd6baa1e12/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 4416,
+    "size_mb": 5,
+    "created_at": "2010-05-07T06:48:26Z",
+    "last_commit_at": "2026-11-10T09:13:43Z",
+    "releases": 10,
+    "tags": 90,
+    "archived": false,
+    "release": {
+      "tag": "1.6.0",
+      "at": "2026-08-31T09:39:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

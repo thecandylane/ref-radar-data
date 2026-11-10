@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d01bd2cb49739dc6b3c660f65e43a5d17f6169b5"
+  },
   "id": "gh:kestra-io/kestra",
   "kind": "repo",
   "url": "https://github.com/kestra-io/kestra",
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 30175,
+    "stars": 30188,
     "size_mb": 152,
     "created_at": "2019-08-24T13:56:15Z",
-    "last_commit_at": "2026-11-09T09:10:01Z",
+    "last_commit_at": "2026-11-10T08:44:27Z",
     "releases": 510,
     "tags": 620,
     "archived": false,
@@ -55,5 +58,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

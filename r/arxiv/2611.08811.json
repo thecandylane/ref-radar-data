@@ -1,0 +1,44 @@
+{
+  "archive": {
+    "page": "https://web.archive.org/web/20261109220004/https://arxiv.org/abs/2611.08811"
+  },
+  "id": "arxiv:2611.08811",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.08811",
+  "title": "I Think, Therefore I Attack: Evaluating Thought Injection Attacks on Reasoning Agents",
+  "why": "Measures how reasoning models fall for injected text styled like their own thoughts, with attack success rates up to 50% in a cyber range.",
+  "keys": {
+    "races": [
+      "cyber/agent-security",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "cyber/agent-security",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.08811"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

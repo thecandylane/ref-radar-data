@@ -1,0 +1,66 @@
+{
+  "id": "gh:kodendaal/shipspace-ga",
+  "kind": "repo",
+  "url": "https://github.com/kodendaal/ShipSpace-GA",
+  "title": "ShipSpace-GA",
+  "why": "Generates internal arrangements for 3D ships with generate.py, plus validate.py and tests to check the results.",
+  "keys": {
+    "races": [
+      "engineering/cad"
+    ],
+    "lanes": [
+      "engineering/cad"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kodendaal/ShipSpace-GA",
+    "sha": "78405b9521ced91594e3892b0484eb1a2aa8abad",
+    "file_url": "https://cdn.jsdelivr.net/gh/kodendaal/ShipSpace-GA@78405b9521ced91594e3892b0484eb1a2aa8abad/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "size_mb": 15,
+    "created_at": "2026-10-06T19:02:56Z",
+    "last_commit_at": "2026-11-03T12:52:50Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.1",
+      "at": "2026-11-03T09:40:52.000Z"
+    },
+    "doi": "10.5281/zenodo.23913344",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

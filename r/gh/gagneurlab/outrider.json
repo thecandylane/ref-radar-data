@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b5dabe389fbcbead6de7d8c0287a194dcba8fe41"
+  },
+  "id": "gh:gagneurlab/outrider",
+  "kind": "repo",
+  "url": "https://github.com/gagneurlab/OUTRIDER",
+  "title": "OUTRIDER",
+  "why": "Flags genes with aberrant expression counts in RNA-seq data, an R framework for diagnosing Mendelian disease cases.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gagneurlab/OUTRIDER",
+    "sha": "b5dabe389fbcbead6de7d8c0287a194dcba8fe41",
+    "file_url": "https://cdn.jsdelivr.net/gh/gagneurlab/OUTRIDER@b5dabe389fbcbead6de7d8c0287a194dcba8fe41/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 58,
+    "size_mb": 11,
+    "created_at": "2018-03-23T17:42:32Z",
+    "last_commit_at": "2026-02-10T08:24:34Z",
+    "releases": 9,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "1.28.1",
+      "at": "2026-02-11T09:33:58.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

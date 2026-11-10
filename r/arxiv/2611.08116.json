@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.08116",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.08116",
+  "title": "Create Your Own Work Stack: Deploying Self-hosted AI and Tooling in a Tech Startup",
+  "why": "Field report on a hybrid setup where commercial agents keep complex tasks and local models take coordination work with self-hosted tools.",
+  "keys": {
+    "races": [
+      "infra/hosting",
+      "llm-infra/inference",
+      "agents/coding"
+    ],
+    "lanes": [
+      "infra/hosting",
+      "llm-infra/inference",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.08116"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

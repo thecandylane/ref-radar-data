@@ -1,0 +1,66 @@
+{
+  "id": "gh:coreruleset/go-ftw",
+  "kind": "repo",
+  "url": "https://github.com/coreruleset/go-ftw",
+  "title": "go-ftw",
+  "why": "Sends test requests to a WAF and checks its log for the expected hits, as a Go command-line tool.",
+  "keys": {
+    "races": [
+      "dev-tools/testing",
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "dev-tools/testing",
+      "cyber/appsec"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/coreruleset/go-ftw",
+    "sha": "5530c85774192e5e6ae8eef23b0efec32e0f06fd",
+    "file_url": "https://cdn.jsdelivr.net/gh/coreruleset/go-ftw@5530c85774192e5e6ae8eef23b0efec32e0f06fd/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 192,
+    "size_mb": 2,
+    "created_at": "2020-12-31T23:09:12Z",
+    "last_commit_at": "2026-11-06T06:23:05Z",
+    "releases": 51,
+    "tags": 52,
+    "archived": false,
+    "release": {
+      "tag": "v2.6.2",
+      "at": "2026-10-26T19:56:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

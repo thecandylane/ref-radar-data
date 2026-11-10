@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9e331a07d480658b8962e59bfd9d92f49dc86deb"
+  },
+  "id": "gh:ropensci/virtuoso",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/virtuoso",
+  "title": "virtuoso",
+  "why": "Connects R sessions to a Virtuoso Open Source database instance to run queries against it.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/virtuoso",
+    "sha": "9e331a07d480658b8962e59bfd9d92f49dc86deb",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/virtuoso@9e331a07d480658b8962e59bfd9d92f49dc86deb/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 10,
+    "size_mb": 1,
+    "created_at": "2018-11-02T21:21:45Z",
+    "last_commit_at": "2025-04-29T13:21:46Z",
+    "releases": 2,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "0.1.4",
+      "at": "2020-01-10T21:08:21.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

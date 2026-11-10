@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6853993ed60ffb212671aa7a1d6b79714f07c2db"
+  },
+  "id": "gh:cantera/cantera",
+  "kind": "repo",
+  "url": "https://github.com/Cantera/cantera",
+  "title": "cantera",
+  "why": "Calculate reaction kinetics, thermodynamics and transport properties from C++, Python or other interfaces.",
+  "keys": {
+    "races": [
+      "engineering/process"
+    ],
+    "lanes": [
+      "engineering/process"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Cantera/cantera",
+    "sha": "6853993ed60ffb212671aa7a1d6b79714f07c2db",
+    "file_url": "https://cdn.jsdelivr.net/gh/Cantera/cantera@6853993ed60ffb212671aa7a1d6b79714f07c2db/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 884,
+    "size_mb": 59,
+    "created_at": "2015-03-26T16:54:16Z",
+    "last_commit_at": "2026-11-01T20:37:20Z",
+    "releases": 21,
+    "tags": 46,
+    "archived": false,
+    "release": {
+      "tag": "v3.2.0",
+      "at": "2025-11-18T00:13:14.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "gh:flipperdevices/flipper-application-catalog",
+  "kind": "repo",
+  "url": "https://github.com/flipperdevices/flipper-application-catalog",
+  "title": "flipper-application-catalog",
+  "why": "Catalog repo where Flipper Zero apps are listed as FAPs under applications, built with ufbt, with an AGENTS.md for contributors.",
+  "keys": {
+    "races": [
+      "embedded/firmware"
+    ],
+    "lanes": [
+      "embedded/firmware"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/flipperdevices/flipper-application-catalog",
+    "sha": "b18e8c4bae9eb670940064f11c20e6187b00bab2",
+    "file_url": "https://cdn.jsdelivr.net/gh/flipperdevices/flipper-application-catalog@b18e8c4bae9eb670940064f11c20e6187b00bab2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 1215,
+    "size_mb": 2,
+    "created_at": "2022-10-23T15:33:47Z",
+    "last_commit_at": "2026-11-07T00:57:20Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

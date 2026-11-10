@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b9a3c0a62b334e23c477605d766d4054ff3bf847"
+  },
+  "id": "gh:battmoteam/battmo",
+  "kind": "repo",
+  "url": "https://github.com/BattMoTeam/BattMo",
+  "title": "BattMo",
+  "why": "MATLAB models of batteries and electrolysers, with parameter data, examples and tests, built on continuum physics.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/BattMoTeam/BattMo",
+    "sha": "b9a3c0a62b334e23c477605d766d4054ff3bf847",
+    "file_url": "https://cdn.jsdelivr.net/gh/BattMoTeam/BattMo@b9a3c0a62b334e23c477605d766d4054ff3bf847/{path}"
+  },
+  "facts": {
+    "lang": "MATLAB",
+    "license": "GPL-3.0",
+    "stars": 62,
+    "size_mb": 245,
+    "created_at": "2021-09-24T15:03:02Z",
+    "last_commit_at": "2026-10-06T10:47:02Z",
+    "releases": 11,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.1",
+      "at": "2026-10-06T10:49:11.000Z"
+    },
+    "doi": "10.21105/joss.11114",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

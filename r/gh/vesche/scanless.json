@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3da40e9c19153563b5ef190a23405cb3c6bf1a70"
+  },
+  "id": "gh:vesche/scanless",
+  "kind": "repo",
+  "url": "https://github.com/vesche/scanless",
+  "title": "scanless",
+  "why": "Queries online port scanners from the command line and scrapes their results, so you skip running scans yourself.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vesche/scanless",
+    "sha": "3da40e9c19153563b5ef190a23405cb3c6bf1a70",
+    "file_url": "https://cdn.jsdelivr.net/gh/vesche/scanless@3da40e9c19153563b5ef190a23405cb3c6bf1a70/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Unlicense",
+    "stars": 1123,
+    "size_mb": 0,
+    "created_at": "2017-05-05T02:53:01Z",
+    "last_commit_at": "2023-08-07T15:12:42Z",
+    "releases": 9,
+    "tags": 12,
+    "archived": true,
+    "release": {
+      "tag": "v2.2.1",
+      "at": "2023-03-23T18:46:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "gh:gatewai-dev/framefields",
+  "kind": "repo",
+  "url": "https://github.com/gatewai-dev/framefields",
+  "title": "framefields",
+  "why": "Write video and images as TypeScript code and render them natively on WebGPU, with setup for agents such as Claude Code and Codex.",
+  "keys": {
+    "races": [
+      "media/video",
+      "games/graphics"
+    ],
+    "lanes": [
+      "media/video",
+      "games/graphics"
+    ],
+    "capabilities": [
+      "media/video/code-video"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gatewai-dev/framefields",
+    "sha": "9dd978f58c6b0026949b54b04823f7bdaba1ed19",
+    "file_url": "https://cdn.jsdelivr.net/gh/gatewai-dev/framefields@9dd978f58c6b0026949b54b04823f7bdaba1ed19/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 513,
+    "size_mb": 11,
+    "created_at": "2026-10-02T20:52:53Z",
+    "last_commit_at": "2026-11-07T07:47:57Z",
+    "releases": 0,
+    "tags": 7,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-10-31T08:12:22.820Z"
+  }
+}

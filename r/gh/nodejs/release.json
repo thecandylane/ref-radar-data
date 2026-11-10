@@ -1,0 +1,55 @@
+{
+  "id": "gh:nodejs/release",
+  "kind": "repo",
+  "url": "https://github.com/nodejs/Release",
+  "title": "nodejs/Release",
+  "why": "Working group home for Node.js release policy, with the schedule, codenames and a script that generates the release plan.",
+  "keys": {
+    "races": [
+      "practice/process",
+      "languages/runtimes"
+    ],
+    "lanes": [
+      "practice/process",
+      "languages/runtimes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nodejs/Release",
+    "sha": "6065a837c0c151577f449c666fec019069ffba77",
+    "file_url": "https://cdn.jsdelivr.net/gh/nodejs/Release@6065a837c0c151577f449c666fec019069ffba77/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "none",
+    "stars": 4388,
+    "size_mb": 1,
+    "created_at": "2015-04-05T12:39:53Z",
+    "last_commit_at": "2026-11-02T14:51:01Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

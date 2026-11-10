@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d3521c26008fff720aac6b0135218e66fed1bf84"
+  },
+  "id": "gh:rnabioco/clustifyr",
+  "kind": "repo",
+  "url": "https://github.com/rnabioco/clustifyr",
+  "title": "clustifyr",
+  "why": "Assigns identities to clusters in single-cell RNA-seq data from bulk profiles or marker genes, as an R package.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rnabioco/clustifyr",
+    "sha": "d3521c26008fff720aac6b0135218e66fed1bf84",
+    "file_url": "https://cdn.jsdelivr.net/gh/rnabioco/clustifyr@d3521c26008fff720aac6b0135218e66fed1bf84/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "MIT",
+    "stars": 127,
+    "size_mb": 62,
+    "created_at": "2018-06-21T13:27:55Z",
+    "last_commit_at": "2025-04-16T20:21:04Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v1.5.0",
+      "at": "2021-05-21T09:14:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

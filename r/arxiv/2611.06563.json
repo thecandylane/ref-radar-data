@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.06563",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.06563",
+  "title": "EPISTEME: Trustworthy Coding Agents Through Tool Call Intent",
+  "why": "Makes coding agents declare why each tool call runs, then checks the claim against its effects, exposing 90% of reward-hacking runs.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "cyber/agent-security"
+    ],
+    "lanes": [
+      "agents/coding",
+      "cyber/agent-security"
+    ],
+    "capabilities": [
+      "cyber/agent-security/runtime-guardrails"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.06563"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

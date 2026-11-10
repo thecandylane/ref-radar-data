@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9bd5c2c8b59a6c5e71190009da4e3844d00883af"
+  },
+  "id": "gh:ropensci/openalexr",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/openalexR",
+  "title": "openalexR",
+  "why": "Fetches bibliographic and bibliometric records from OpenAlex for science mapping work in R.",
+  "keys": {
+    "races": [
+      "data/datasets",
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/datasets",
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/openalexR",
+    "sha": "9bd5c2c8b59a6c5e71190009da4e3844d00883af",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/openalexR@9bd5c2c8b59a6c5e71190009da4e3844d00883af/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 151,
+    "size_mb": 67,
+    "created_at": "2022-02-08T15:21:19Z",
+    "last_commit_at": "2026-10-15T19:59:02Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v3.1.2",
+      "at": "2026-10-13T18:28:06.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

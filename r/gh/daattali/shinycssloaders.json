@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d5f79afb1a2ea9fe6d16239a80de15a3b454d154"
+  },
+  "id": "gh:daattali/shinycssloaders",
+  "kind": "repo",
+  "url": "https://github.com/daattali/shinycssloaders",
+  "title": "shinycssloaders",
+  "why": "Puts loading animations on Shiny outputs during recalculation, with CSS-based styling.",
+  "keys": {
+    "races": [
+      "web/ui-components",
+      "web/css"
+    ],
+    "lanes": [
+      "web/ui-components",
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/daattali/shinycssloaders",
+    "sha": "d5f79afb1a2ea9fe6d16239a80de15a3b454d154",
+    "file_url": "https://cdn.jsdelivr.net/gh/daattali/shinycssloaders@d5f79afb1a2ea9fe6d16239a80de15a3b454d154/{path}"
+  },
+  "facts": {
+    "lang": "CSS",
+    "license": "NOASSERTION",
+    "stars": 421,
+    "size_mb": 1,
+    "created_at": "2017-05-04T06:28:33Z",
+    "last_commit_at": "2025-08-14T12:36:56Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "1.1.0",
+      "at": "2024-07-30T19:15:42.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

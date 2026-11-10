@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0d9567f08c0c23e8f604b2cad3d49450c93cfb40"
+  },
+  "id": "gh:keystone-engine/keystone",
+  "kind": "repo",
+  "url": "https://github.com/keystone-engine/keystone",
+  "title": "keystone-engine/keystone",
+  "why": "Assembler framework that turns instructions for Arm, Mips, PowerPC, Sparc and x86 into machine code, with language bindings.",
+  "keys": {
+    "races": [
+      "cyber/reversing",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "cyber/reversing",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/keystone-engine/keystone",
+    "sha": "0d9567f08c0c23e8f604b2cad3d49450c93cfb40",
+    "file_url": "https://cdn.jsdelivr.net/gh/keystone-engine/keystone@0d9567f08c0c23e8f604b2cad3d49450c93cfb40/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-2.0",
+    "stars": 2656,
+    "size_mb": 32,
+    "created_at": "2016-04-28T13:00:37Z",
+    "last_commit_at": "2026-07-18T21:28:10Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "0.9.2",
+      "at": "2020-06-21T14:12:19.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

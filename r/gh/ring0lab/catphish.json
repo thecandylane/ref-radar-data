@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:768d2136dd6148ca200460e319bc08d8d58bab07"
+  },
+  "id": "gh:ring0lab/catphish",
+  "kind": "repo",
+  "url": "https://github.com/ring0lab/catphish",
+  "title": "catphish",
+  "why": "Automates phishing campaigns for red team engagements and corporate espionage exercises, from a Ruby tool.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ring0lab/catphish",
+    "sha": "768d2136dd6148ca200460e319bc08d8d58bab07",
+    "file_url": "https://cdn.jsdelivr.net/gh/ring0lab/catphish@768d2136dd6148ca200460e319bc08d8d58bab07/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "none",
+    "stars": 636,
+    "size_mb": 0,
+    "created_at": "2016-10-24T22:48:51Z",
+    "last_commit_at": "2017-11-11T05:04:36Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

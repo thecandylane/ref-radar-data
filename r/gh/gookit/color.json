@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:168ab0df80e1f703bd71ac46c3de94351a2604ca"
+  },
+  "id": "gh:gookit/color",
+  "kind": "repo",
+  "url": "https://github.com/gookit/color",
+  "title": "color",
+  "why": "Colors Go terminal output with 16, 256 and RGB modes, Print and Sprintf style calls, and detection for Windows.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gookit/color",
+    "sha": "168ab0df80e1f703bd71ac46c3de94351a2604ca",
+    "file_url": "https://cdn.jsdelivr.net/gh/gookit/color@168ab0df80e1f703bd71ac46c3de94351a2604ca/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 1608,
+    "size_mb": 4,
+    "created_at": "2018-07-01T07:28:17Z",
+    "last_commit_at": "2026-11-07T12:18:37Z",
+    "releases": 35,
+    "tags": 46,
+    "archived": false,
+    "release": {
+      "tag": "v1.6.3",
+      "at": "2026-10-15T12:04:32.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

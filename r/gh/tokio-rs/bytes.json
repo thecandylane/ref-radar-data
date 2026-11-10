@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:62207901b65e4fc51459b2d558fad8aa882f5d33"
+  },
+  "id": "gh:tokio-rs/bytes",
+  "kind": "repo",
+  "url": "https://github.com/tokio-rs/bytes",
+  "title": "bytes",
+  "why": "Rust byte-buffer types for network code, with benches and tests, from the tokio project.",
+  "keys": {
+    "races": [
+      "systems/memory"
+    ],
+    "lanes": [
+      "systems/memory"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tokio-rs/bytes",
+    "sha": "62207901b65e4fc51459b2d558fad8aa882f5d33",
+    "file_url": "https://cdn.jsdelivr.net/gh/tokio-rs/bytes@62207901b65e4fc51459b2d558fad8aa882f5d33/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 2272,
+    "size_mb": 3,
+    "created_at": "2015-01-30T08:05:46Z",
+    "last_commit_at": "2026-11-09T21:21:55Z",
+    "releases": 29,
+    "tags": 44,
+    "archived": false,
+    "release": {
+      "tag": "v1.12.1",
+      "at": "2026-07-08T10:02:04.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

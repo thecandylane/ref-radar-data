@@ -1,0 +1,68 @@
+{
+  "id": "gh:tw93/mole",
+  "kind": "repo",
+  "url": "https://github.com/tw93/Mole",
+  "title": "Mole",
+  "why": "Cleans up and optimizes a Mac from the command line, with native apps for Mac and Windows too.",
+  "keys": {
+    "races": [
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tw93/Mole",
+    "sha": "dff4a1a90f4d1c5c31e6b304238542f7bb0f4833",
+    "file_url": "https://cdn.jsdelivr.net/gh/tw93/Mole@dff4a1a90f4d1c5c31e6b304238542f7bb0f4833/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "GPL-3.0",
+    "stars": 74477,
+    "size_mb": 320,
+    "created_at": "2025-09-23T06:38:40Z",
+    "last_commit_at": "2026-11-10T07:51:07Z",
+    "releases": 100,
+    "tags": 246,
+    "archived": false,
+    "release": {
+      "tag": "V1.70.0",
+      "at": "2026-11-08T09:55:08.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

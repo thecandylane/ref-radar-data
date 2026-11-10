@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.08417",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.08417",
+  "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
+  "why": "Pairs community reports and automated oracle checks with human-gated repairs for Terminal-Bench 2.0, and those repairs changed accuracy and ranking.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "agents/coding"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.08417"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

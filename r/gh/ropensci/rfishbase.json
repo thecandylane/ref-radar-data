@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8cba2ae9c20c95f51c099032fd941dab968a0cae"
+  },
+  "id": "gh:ropensci/rfishbase",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/rfishbase",
+  "title": "rfishbase",
+  "why": "Fetches fish species data from the fishbase.org database into R for analysis.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/databases",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/rfishbase",
+    "sha": "8cba2ae9c20c95f51c099032fd941dab968a0cae",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/rfishbase@8cba2ae9c20c95f51c099032fd941dab968a0cae/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 127,
+    "size_mb": 271,
+    "created_at": "2011-11-18T01:03:37Z",
+    "last_commit_at": "2026-09-05T02:20:26Z",
+    "releases": 12,
+    "tags": 19,
+    "archived": false,
+    "release": {
+      "tag": "slb-21.08",
+      "at": "2021-09-08T00:33:50.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

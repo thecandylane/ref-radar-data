@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1d7f85ff9838211e7aa27a051cde444a9a5894f9"
+  },
+  "id": "gh:ropensci/rfema",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/rfema",
+  "title": "rfema",
+  "why": "Pulls FEMA flood insurance and disaster aid data into R through the agency's API.",
+  "keys": {
+    "races": [
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/rfema",
+    "sha": "1d7f85ff9838211e7aa27a051cde444a9a5894f9",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/rfema@1d7f85ff9838211e7aa27a051cde444a9a5894f9/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 11,
+    "size_mb": 1,
+    "created_at": "2021-09-14T19:34:19Z",
+    "last_commit_at": "2025-08-09T15:25:29Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2022-01-25T16:45:52.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

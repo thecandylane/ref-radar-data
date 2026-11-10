@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.08318",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.08318",
+  "title": "Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement",
+  "why": "Shows that a self-improving robot coding agent overfits to exposed benchmark criteria, and that its skills transfer poorly across tasks.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "agents/coding",
+      "embedded/robotics"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "agents/coding",
+      "embedded/robotics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.08318"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:8dad25dce26c3fd0787ff5c8790714bc6159dabe"
+  },
   "id": "gh:behaviortree/behaviortree.cpp",
   "kind": "repo",
   "url": "https://github.com/BehaviorTree/BehaviorTree.CPP",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 4290,
+    "stars": 4291,
     "size_mb": 14,
     "created_at": "2018-10-16T16:19:58Z",
     "last_commit_at": "2026-11-08T09:40:04Z",
@@ -55,5 +58,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

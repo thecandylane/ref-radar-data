@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b771ea18afb9e6b625906a641d2d331e6d0c282b"
+  },
+  "id": "gh:rack/rack-attack",
+  "kind": "repo",
+  "url": "https://github.com/rack/rack-attack",
+  "title": "rack-attack",
+  "why": "Throttles abusive requests and blocks bad clients in front of a Ruby Rack app, configured as middleware rules.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rack/rack-attack",
+    "sha": "b771ea18afb9e6b625906a641d2d331e6d0c282b",
+    "file_url": "https://cdn.jsdelivr.net/gh/rack/rack-attack@b771ea18afb9e6b625906a641d2d331e6d0c282b/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "MIT",
+    "stars": 5767,
+    "size_mb": 1,
+    "created_at": "2012-07-29T02:19:18Z",
+    "last_commit_at": "2026-07-02T20:27:07Z",
+    "releases": 25,
+    "tags": 50,
+    "archived": false,
+    "release": {
+      "tag": "v6.8.0",
+      "at": "2025-10-14T14:22:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

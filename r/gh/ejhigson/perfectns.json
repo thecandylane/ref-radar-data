@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f20339281bfa45797fcd7815ed3aeab4101d9e95"
+  },
+  "id": "gh:ejhigson/perfectns",
+  "kind": "repo",
+  "url": "https://github.com/ejhigson/perfectns",
+  "title": "perfectns",
+  "why": "Pure Python nested sampling code, standard and dynamic, for Bayesian inference tests where likelihood and prior are spherically symmetric.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ejhigson/perfectns",
+    "sha": "f20339281bfa45797fcd7815ed3aeab4101d9e95",
+    "file_url": "https://cdn.jsdelivr.net/gh/ejhigson/perfectns@f20339281bfa45797fcd7815ed3aeab4101d9e95/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 5,
+    "size_mb": 0,
+    "created_at": "2017-12-13T17:56:28Z",
+    "last_commit_at": "2020-05-03T11:14:48Z",
+    "releases": 8,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "v2.1.3",
+      "at": "2019-08-17T09:52:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

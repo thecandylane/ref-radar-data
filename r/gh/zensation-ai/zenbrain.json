@@ -1,0 +1,71 @@
+{
+  "id": "gh:zensation-ai/zenbrain",
+  "kind": "repo",
+  "url": "https://github.com/zensation-ai/zenbrain",
+  "title": "zenbrain",
+  "why": "Lets an agent remember across sessions with FSRS-style spaced repetition and memory consolidation, in TypeScript or through an MCP server.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/memory",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/memory/long-term-memory",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zensation-ai/zenbrain",
+    "sha": "33cce73e5bd69c8ffc333f481c05afb90fdd1bb9",
+    "file_url": "https://cdn.jsdelivr.net/gh/zensation-ai/zenbrain@33cce73e5bd69c8ffc333f481c05afb90fdd1bb9/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 29,
+    "size_mb": 37,
+    "created_at": "2026-03-23T19:51:02Z",
+    "last_commit_at": "2026-11-07T13:26:13Z",
+    "releases": 24,
+    "tags": 25,
+    "archived": false,
+    "release": {
+      "tag": "v0.6.1",
+      "at": "2026-10-31T12:23:49.000Z"
+    },
+    "doi": "10.5281/zenodo.22162063"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

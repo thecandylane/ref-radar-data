@@ -1,0 +1,63 @@
+{
+  "id": "gh:schemathesis/schemathesis",
+  "kind": "repo",
+  "url": "https://github.com/schemathesis/schemathesis",
+  "title": "schemathesis",
+  "why": "Property-based testing for OpenAPI, GraphQL and gRPC services that generates requests from the schema to expose API bugs.",
+  "keys": {
+    "races": [
+      "dev-tools/testing",
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "dev-tools/testing",
+      "cyber/appsec"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/schemathesis/schemathesis",
+    "sha": "b5104cf6bf3a47222a1d25c018ab1bd52bb91ef6",
+    "file_url": "https://cdn.jsdelivr.net/gh/schemathesis/schemathesis@b5104cf6bf3a47222a1d25c018ab1bd52bb91ef6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 3763,
+    "size_mb": 134,
+    "created_at": "2019-08-19T11:13:01Z",
+    "last_commit_at": "2026-11-10T08:53:39Z",
+    "releases": 507,
+    "tags": 509,
+    "archived": false,
+    "release": {
+      "tag": "v4.33.1",
+      "at": "2026-11-04T15:29:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

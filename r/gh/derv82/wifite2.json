@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:43c4d2c520e45cfb828a430741b915ca4f5d7128"
+  },
+  "id": "gh:derv82/wifite2",
+  "kind": "repo",
+  "url": "https://github.com/derv82/wifite2",
+  "title": "wifite2",
+  "why": "Rewrites the original wifite wireless network auditor, automating Wi-Fi password attacks for security testing.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/derv82/wifite2",
+    "sha": "43c4d2c520e45cfb828a430741b915ca4f5d7128",
+    "file_url": "https://cdn.jsdelivr.net/gh/derv82/wifite2@43c4d2c520e45cfb828a430741b915ca4f5d7128/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-2.0",
+    "stars": 8256,
+    "size_mb": 1,
+    "created_at": "2015-05-30T06:09:52Z",
+    "last_commit_at": "2026-08-05T17:25:59Z",
+    "releases": 10,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "2.2.5",
+      "at": "2018-09-03T17:49:38.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

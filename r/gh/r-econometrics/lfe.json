@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6b2fc531b4cd9c19747c2d22a65a76236590f8a7"
+  },
+  "id": "gh:r-econometrics/lfe",
+  "kind": "repo",
+  "url": "https://github.com/r-econometrics/lfe",
+  "title": "lfe",
+  "why": "Econometrics R package lfe kept here as CRAN source, with compiled code in src and benchmarks alongside.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/r-econometrics/lfe",
+    "sha": "6b2fc531b4cd9c19747c2d22a65a76236590f8a7",
+    "file_url": "https://cdn.jsdelivr.net/gh/r-econometrics/lfe@6b2fc531b4cd9c19747c2d22a65a76236590f8a7/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 1,
+    "created_at": "2023-04-05T19:40:48Z",
+    "last_commit_at": "2023-12-29T18:55:30Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2a96be4be728c7b8c4210456379e1e3779818db1"
+  },
+  "id": "gh:ropensci/reviser",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/reviser",
+  "title": "reviser",
+  "why": "Helps analysts see how published time series get revised, with tools for revision patterns, nowcasting and forecasting.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/reviser",
+    "sha": "2a96be4be728c7b8c4210456379e1e3779818db1",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/reviser@2a96be4be728c7b8c4210456379e1e3779818db1/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 11,
+    "size_mb": 22,
+    "created_at": "2024-09-03T14:21:31Z",
+    "last_commit_at": "2026-09-14T09:52:25Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.1",
+      "at": "2026-09-14T09:49:48.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

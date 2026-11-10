@@ -1,0 +1,60 @@
+{
+  "id": "gh:asterinas/asterinas",
+  "kind": "repo",
+  "url": "https://github.com/asterinas/asterinas",
+  "title": "asterinas",
+  "why": "Rust kernel with a small ostd layer underneath, so memory safety holds across the rest of the kernel code.",
+  "keys": {
+    "races": [
+      "systems/os",
+      "infra/isolation"
+    ],
+    "lanes": [
+      "systems/os",
+      "infra/isolation"
+    ],
+    "capabilities": [
+      "infra/isolation/application-kernels"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/asterinas/asterinas",
+    "sha": "dc583d659489f7e195779bfa6d3e845ea6ea0782",
+    "file_url": "https://cdn.jsdelivr.net/gh/asterinas/asterinas@dc583d659489f7e195779bfa6d3e845ea6ea0782/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MPL-2.0",
+    "stars": 5083,
+    "size_mb": 19,
+    "created_at": "2022-05-17T18:48:52Z",
+    "last_commit_at": "2026-11-10T07:38:20Z",
+    "releases": 6,
+    "tags": 40,
+    "archived": false,
+    "release": {
+      "tag": "v0.19.0",
+      "at": "2026-10-12T21:37:46.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

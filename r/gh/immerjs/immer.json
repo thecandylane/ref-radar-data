@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:75a290e44ba14bd723c8ef8546b6559c8ef3ae88"
+  },
+  "id": "gh:immerjs/immer",
+  "kind": "repo",
+  "url": "https://github.com/immerjs/immer",
+  "title": "immer",
+  "why": "Lets reducers update state by plain mutation while an immutable copy is produced underneath, handy with Redux.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/immerjs/immer",
+    "sha": "75a290e44ba14bd723c8ef8546b6559c8ef3ae88",
+    "file_url": "https://cdn.jsdelivr.net/gh/immerjs/immer@75a290e44ba14bd723c8ef8546b6559c8ef3ae88/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 29004,
+    "size_mb": 8,
+    "created_at": "2017-12-29T12:25:47Z",
+    "last_commit_at": "2026-10-22T11:22:16Z",
+    "releases": 147,
+    "tags": 182,
+    "archived": false,
+    "release": {
+      "tag": "v11.2.9",
+      "at": "2026-10-22T11:23:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:051c5599bb49a2504789ea92c884b988d85e816d"
+  },
+  "id": "gh:ecumene/rust-sloth",
+  "kind": "repo",
+  "url": "https://github.com/ecumene/rust-sloth",
+  "title": "rust-sloth",
+  "why": "Renders 3D models in the terminal with a software rasterizer written in Rust, shipping sample models and a webify variant.",
+  "keys": {
+    "races": [
+      "games/graphics",
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "games/graphics",
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ecumene/rust-sloth",
+    "sha": "051c5599bb49a2504789ea92c884b988d85e816d",
+    "file_url": "https://cdn.jsdelivr.net/gh/ecumene/rust-sloth@051c5599bb49a2504789ea92c884b988d85e816d/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "ISC",
+    "stars": 828,
+    "size_mb": 47,
+    "created_at": "2019-03-11T03:16:47Z",
+    "last_commit_at": "2024-01-28T02:42:10Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

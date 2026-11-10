@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:223cd0c774f77f9c3daf7f8823d7fb7592165038"
+  },
+  "id": "gh:ropensci/roptram",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/rOPTRAM",
+  "title": "rOPTRAM",
+  "why": "Gets you soil moisture estimates from the OPTRAM algorithm in R, with vignettes to walk through the workflow.",
+  "keys": {
+    "races": [
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/rOPTRAM",
+    "sha": "223cd0c774f77f9c3daf7f8823d7fb7592165038",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/rOPTRAM@223cd0c774f77f9c3daf7f8823d7fb7592165038/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 14,
+    "size_mb": 61,
+    "created_at": "2024-06-06T12:46:15Z",
+    "last_commit_at": "2026-11-09T15:08:07Z",
+    "releases": 1,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.3",
+      "at": "2024-08-07T19:05:23.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

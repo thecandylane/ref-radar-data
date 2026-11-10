@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:55bdf63809b6e32d1d42685a879618f128cc6b6b"
+  },
+  "id": "gh:rformassspectrometry/ptmods",
+  "kind": "repo",
+  "url": "https://github.com/rformassspectrometry/PTMods",
+  "title": "PTMods",
+  "why": "Reference data on amino acid modifications as an R package, handy when annotating proteomics results from mass spectrometry.",
+  "keys": {
+    "races": [
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rformassspectrometry/PTMods",
+    "sha": "55bdf63809b6e32d1d42685a879618f128cc6b6b",
+    "file_url": "https://cdn.jsdelivr.net/gh/rformassspectrometry/PTMods@55bdf63809b6e32d1d42685a879618f128cc6b6b/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 11,
+    "size_mb": 1,
+    "created_at": "2014-04-14T17:47:50Z",
+    "last_commit_at": "2026-11-09T15:28:10Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

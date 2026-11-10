@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a931e685eadf1973dc2722898f9f5add896792cd"
+  },
+  "id": "gh:odrannnn/metroidprimeport",
+  "kind": "repo",
+  "url": "https://github.com/Odrannnn/MetroidPrimePort",
+  "title": "MetroidPrimePort",
+  "why": "Native Metroid Prime port made from the PrimeDecomp decompilation and drawn through SDL3 and WebGPU, with no emulator and no game assets.",
+  "keys": {
+    "races": [
+      "games/graphics",
+      "mobile/android"
+    ],
+    "lanes": [
+      "games/graphics",
+      "mobile/android"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Odrannnn/MetroidPrimePort",
+    "sha": "a931e685eadf1973dc2722898f9f5add896792cd",
+    "file_url": "https://cdn.jsdelivr.net/gh/Odrannnn/MetroidPrimePort@a931e685eadf1973dc2722898f9f5add896792cd/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 679,
+    "size_mb": 188,
+    "created_at": "2026-09-19T14:13:16Z",
+    "last_commit_at": "2026-11-09T20:05:55Z",
+    "releases": 52,
+    "tags": 53,
+    "archived": false,
+    "release": {
+      "tag": "v0.44.0",
+      "at": "2026-11-09T18:48:24.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

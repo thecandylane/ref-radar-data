@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3dcdd520bf27bbe9af0a5d9f993ed03f53a6f988"
+  },
+  "id": "gh:go-git/go-billy",
+  "kind": "repo",
+  "url": "https://github.com/go-git/go-billy",
+  "title": "go-billy",
+  "why": "Defines a single filesystem interface for Go so code can target the OS, an in-memory store or other backends interchangeably.",
+  "keys": {
+    "races": [
+      "data/storage"
+    ],
+    "lanes": [
+      "data/storage"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/go-git/go-billy",
+    "sha": "3dcdd520bf27bbe9af0a5d9f993ed03f53a6f988",
+    "file_url": "https://cdn.jsdelivr.net/gh/go-git/go-billy@3dcdd520bf27bbe9af0a5d9f993ed03f53a6f988/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 433,
+    "size_mb": 1,
+    "created_at": "2020-03-09T18:35:04Z",
+    "last_commit_at": "2026-11-09T13:47:49Z",
+    "releases": 39,
+    "tags": 40,
+    "archived": false,
+    "release": {
+      "tag": "v5.9.2",
+      "at": "2026-10-02T16:00:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

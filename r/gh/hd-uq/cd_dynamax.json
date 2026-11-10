@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7e61d12c91597e196f941062c258375d839e2040"
+  },
+  "id": "gh:hd-uq/cd_dynamax",
+  "kind": "repo",
+  "url": "https://github.com/hd-UQ/cd_dynamax",
+  "title": "cd_dynamax",
+  "why": "Fits parameters of continuous-time dynamical systems to noisy partial data sampled at irregular times, extending dynamax.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hd-UQ/cd_dynamax",
+    "sha": "7e61d12c91597e196f941062c258375d839e2040",
+    "file_url": "https://cdn.jsdelivr.net/gh/hd-UQ/cd_dynamax@7e61d12c91597e196f941062c258375d839e2040/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 25,
+    "size_mb": 390,
+    "created_at": "2024-03-29T18:17:35Z",
+    "last_commit_at": "2026-10-30T04:42:28Z",
+    "releases": 12,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.0",
+      "at": "2026-10-14T08:48:28.000Z"
+    },
+    "doi": "10.21105/joss.10778",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

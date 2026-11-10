@@ -1,0 +1,59 @@
+{
+  "id": "gh:ufrisk/memprocfs",
+  "kind": "repo",
+  "url": "https://github.com/ufrisk/MemProcFS",
+  "title": "MemProcFS",
+  "why": "Exposes physical memory and processes as a virtual file system, with C#, Java, Python and Rust APIs for memory forensics.",
+  "keys": {
+    "races": [
+      "cyber/reversing",
+      "cyber/detection"
+    ],
+    "lanes": [
+      "cyber/reversing",
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ufrisk/MemProcFS",
+    "sha": "b64cfafed636ceb8e692b00214ddc1723f5e8b46",
+    "file_url": "https://cdn.jsdelivr.net/gh/ufrisk/MemProcFS@b64cfafed636ceb8e692b00214ddc1723f5e8b46/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "AGPL-3.0",
+    "stars": 4411,
+    "size_mb": 14,
+    "created_at": "2018-11-18T18:19:49Z",
+    "last_commit_at": "2026-11-07T10:48:19Z",
+    "releases": 12,
+    "tags": 57,
+    "archived": false,
+    "release": {
+      "tag": "v5.19",
+      "at": "2026-10-05T17:38:01.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

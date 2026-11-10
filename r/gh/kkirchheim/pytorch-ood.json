@@ -1,0 +1,68 @@
+{
+  "id": "gh:kkirchheim/pytorch-ood",
+  "kind": "repo",
+  "url": "https://github.com/kkirchheim/pytorch-ood",
+  "title": "pytorch-ood",
+  "why": "Collects out-of-distribution detectors for PyTorch models, alongside anomaly and novelty detection, with notebooks to try.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "ml/vision"
+    ],
+    "lanes": [
+      "ml/training",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kkirchheim/pytorch-ood",
+    "sha": "969f1ca8bdfd7e55caf1295238aa94612f82b86d",
+    "file_url": "https://cdn.jsdelivr.net/gh/kkirchheim/pytorch-ood@969f1ca8bdfd7e55caf1295238aa94612f82b86d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 354,
+    "size_mb": 5,
+    "created_at": "2022-08-22T15:31:36Z",
+    "last_commit_at": "2026-11-08T16:40:58Z",
+    "releases": 15,
+    "tags": 25,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.0",
+      "at": "2026-10-05T08:35:21.000Z"
+    },
+    "doi": "10.21105/joss.10806",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

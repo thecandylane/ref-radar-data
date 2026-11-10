@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.08452",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.08452",
+  "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+  "why": "Agent workflow that packages ML papers with launchers and a reproduction guide, lifting mean reproduction success from 76.4% to 92.6%.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "agents/coding"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.08452"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

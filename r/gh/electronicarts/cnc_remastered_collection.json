@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f1f0d42bc2dcd06d5d1df943c6150ab34bf307ae"
+  },
+  "id": "gh:electronicarts/cnc_remastered_collection",
+  "kind": "repo",
+  "url": "https://github.com/electronicarts/CnC_Remastered_Collection",
+  "title": "CnC_Remastered_Collection",
+  "why": "Open-source C++ code for the Tiberian Dawn and Red Alert real-time strategy games, plus a map editor, now archived.",
+  "keys": {
+    "races": [
+      "games/engines"
+    ],
+    "lanes": [
+      "games/engines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/electronicarts/CnC_Remastered_Collection",
+    "sha": "f1f0d42bc2dcd06d5d1df943c6150ab34bf307ae",
+    "file_url": "https://cdn.jsdelivr.net/gh/electronicarts/CnC_Remastered_Collection@f1f0d42bc2dcd06d5d1df943c6150ab34bf307ae/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 21377,
+    "size_mb": 8,
+    "created_at": "2020-03-30T17:48:04Z",
+    "last_commit_at": "2025-01-16T18:53:23Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": true,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

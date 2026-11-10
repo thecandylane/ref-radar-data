@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bf37d54560a62b50da72e8fda56abf04f23b5fd2"
+  },
+  "id": "gh:grapheneos/hardened_malloc",
+  "kind": "repo",
+  "url": "https://github.com/GrapheneOS/hardened_malloc",
+  "title": "hardened_malloc",
+  "why": "Allocator you preload on glibc or musl Linux, or build into Android Bionic, adding slab allocation and quarantine against heap bugs.",
+  "keys": {
+    "races": [
+      "systems/memory",
+      "mobile/android"
+    ],
+    "lanes": [
+      "systems/memory",
+      "mobile/android"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/GrapheneOS/hardened_malloc",
+    "sha": "bf37d54560a62b50da72e8fda56abf04f23b5fd2",
+    "file_url": "https://cdn.jsdelivr.net/gh/GrapheneOS/hardened_malloc@bf37d54560a62b50da72e8fda56abf04f23b5fd2/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 2062,
+    "size_mb": 1,
+    "created_at": "2018-08-23T04:43:10Z",
+    "last_commit_at": "2026-10-18T16:31:29Z",
+    "releases": 14,
+    "tags": 927,
+    "archived": false,
+    "release": {
+      "tag": "14",
+      "at": "2026-02-22T22:46:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-04T01:06:50.299Z"
+  }
+}

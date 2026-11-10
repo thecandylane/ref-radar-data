@@ -1,0 +1,70 @@
+{
+  "id": "gh:ipa-lab/hackingbuddygpt",
+  "kind": "repo",
+  "url": "https://github.com/ipa-lab/hackingBuddyGPT",
+  "title": "hackingBuddyGPT",
+  "why": "Write a new LLM pentest use-case in a few dozen lines, with run limits on rounds, tokens and cost and an OpenTelemetry trace.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "agents/frameworks",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "agents/frameworks",
+      "llm-infra/evals"
+    ],
+    "capabilities": [
+      "cyber/offensive/ai-pentesting"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ipa-lab/hackingBuddyGPT",
+    "sha": "e23d918592556f71b8e3b2ee152449e82fa14794",
+    "file_url": "https://cdn.jsdelivr.net/gh/ipa-lab/hackingBuddyGPT@e23d918592556f71b8e3b2ee152449e82fa14794/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1317,
+    "size_mb": 6,
+    "created_at": "2023-08-02T08:30:25Z",
+    "last_commit_at": "2026-10-24T15:28:18Z",
+    "releases": 5,
+    "tags": 6,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-10T01:41:57.330Z"
+  }
+}

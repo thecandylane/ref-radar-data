@@ -1,0 +1,63 @@
+{
+  "id": "gh:a-shygun/terrascope",
+  "kind": "repo",
+  "url": "https://github.com/a-shygun/Terrascope",
+  "title": "Terrascope",
+  "why": "Terminal world map drawn in Braille characters with live weather, aircraft and earthquake layers in a Python curses TUI.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "desktop/terminal-ui",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/a-shygun/Terrascope",
+    "sha": "0a68b3547e4ddf733a5162b9d9f21276b8baa381",
+    "file_url": "https://cdn.jsdelivr.net/gh/a-shygun/Terrascope@0a68b3547e4ddf733a5162b9d9f21276b8baa381/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 424,
+    "size_mb": 77,
+    "created_at": "2026-09-28T21:19:26Z",
+    "last_commit_at": "2026-10-26T18:30:47Z",
+    "releases": 6,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-10-21T23:41:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

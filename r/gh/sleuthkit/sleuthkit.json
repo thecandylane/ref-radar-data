@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0c3cc1eab2285d7d22ceecaf48194ebc7d8c0da1"
+  },
+  "id": "gh:sleuthkit/sleuthkit",
+  "kind": "repo",
+  "url": "https://github.com/sleuthkit/sleuthkit",
+  "title": "sleuthkit",
+  "why": "Digs evidence out of disk volumes and file systems with command line tools, or embeds as a C library in larger forensics tools.",
+  "keys": {
+    "races": [
+      "cyber/detection"
+    ],
+    "lanes": [
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sleuthkit/sleuthkit",
+    "sha": "0c3cc1eab2285d7d22ceecaf48194ebc7d8c0da1",
+    "file_url": "https://cdn.jsdelivr.net/gh/sleuthkit/sleuthkit@0c3cc1eab2285d7d22ceecaf48194ebc7d8c0da1/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 3188,
+    "size_mb": 68,
+    "created_at": "2011-10-12T14:26:49Z",
+    "last_commit_at": "2026-10-27T18:44:47Z",
+    "releases": 26,
+    "tags": 68,
+    "archived": false,
+    "release": {
+      "tag": "sleuthkit-4.15.0",
+      "at": "2026-04-15T18:09:44.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

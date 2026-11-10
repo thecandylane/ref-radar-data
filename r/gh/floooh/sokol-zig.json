@@ -1,0 +1,57 @@
+{
+  "id": "gh:floooh/sokol-zig",
+  "kind": "repo",
+  "url": "https://github.com/floooh/sokol-zig",
+  "title": "sokol-zig",
+  "why": "Lets Zig programs call the sokol headers, with a build.zig and build.zig.zon so it installs as a Zig package.",
+  "keys": {
+    "races": [
+      "games/graphics"
+    ],
+    "lanes": [
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/floooh/sokol-zig",
+    "sha": "39ae45eeb22ecdd06d4c96d77cd74a98a3ab1e75",
+    "file_url": "https://cdn.jsdelivr.net/gh/floooh/sokol-zig@39ae45eeb22ecdd06d4c96d77cd74a98a3ab1e75/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "Zlib",
+    "stars": 744,
+    "size_mb": 6,
+    "created_at": "2018-05-31T17:10:41Z",
+    "last_commit_at": "2026-11-08T15:03:45Z",
+    "releases": 0,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

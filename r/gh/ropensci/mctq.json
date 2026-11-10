@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f871eb3a79e3a118d65959b213e119b1873f4d7d"
+  },
+  "id": "gh:ropensci/mctq",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/mctq",
+  "title": "mctq",
+  "why": "Computes chronotype and other circadian-rhythm variables from Munich ChronoType Questionnaire responses.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/mctq",
+    "sha": "f871eb3a79e3a118d65959b213e119b1873f4d7d",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/mctq@f871eb3a79e3a118d65959b213e119b1873f4d7d/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 15,
+    "size_mb": 5,
+    "created_at": "2020-12-30T20:06:29Z",
+    "last_commit_at": "2025-01-04T07:52:31Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.2",
+      "at": "2023-02-20T20:17:39.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

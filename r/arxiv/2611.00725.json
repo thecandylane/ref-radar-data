@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.00725",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.00725",
+  "title": "The Long Con on the Web: Earn-then-Exploit Fraud Attacks against Coding Agents",
+  "why": "Red-team study of a website that earns a coding agent's trust with verifiable help, then issues instructions, with a 71.4% average attack success rate.",
+  "keys": {
+    "races": [
+      "cyber/agent-security",
+      "agents/coding"
+    ],
+    "lanes": [
+      "cyber/agent-security",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.00725"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

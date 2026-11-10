@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bc602488b44e978da3266841e913af17577ec0fd"
+  },
+  "id": "gh:d4vinci/scrapling",
+  "kind": "repo",
+  "url": "https://github.com/D4Vinci/Scrapling",
+  "title": "Scrapling",
+  "why": "Python scraper that scales from one request to a full crawl, with stealth fetching, xpath selectors and an MCP server for AI data extraction.",
+  "keys": {
+    "races": [
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/web-access",
+      "agents/tools/browser-automation",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/D4Vinci/Scrapling",
+    "sha": "bc602488b44e978da3266841e913af17577ec0fd",
+    "file_url": "https://cdn.jsdelivr.net/gh/D4Vinci/Scrapling@bc602488b44e978da3266841e913af17577ec0fd/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 100797,
+    "size_mb": 16,
+    "created_at": "2024-10-13T20:29:53Z",
+    "last_commit_at": "2026-11-09T10:36:34Z",
+    "releases": 55,
+    "tags": 55,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.1",
+      "at": "2026-11-04T20:29:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

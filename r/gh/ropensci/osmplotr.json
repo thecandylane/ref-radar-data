@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f5ab52f2b16aa5bf9b30ea0f4d31ece7b51370bd"
+  },
+  "id": "gh:ropensci/osmplotr",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/osmplotr",
+  "title": "osmplotr",
+  "why": "Plots OpenStreetMap objects fetched through the Overpass API from R, with highlighting of clusters.",
+  "keys": {
+    "races": [
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/osmplotr",
+    "sha": "f5ab52f2b16aa5bf9b30ea0f4d31ece7b51370bd",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/osmplotr@f5ab52f2b16aa5bf9b30ea0f4d31ece7b51370bd/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 143,
+    "size_mb": 34,
+    "created_at": "2016-01-25T20:31:06Z",
+    "last_commit_at": "2026-11-06T12:01:40Z",
+    "releases": 10,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.3",
+      "at": "2021-03-29T10:24:15.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

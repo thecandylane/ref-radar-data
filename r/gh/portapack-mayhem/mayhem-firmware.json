@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:834076356ef40c1cd5160a920ce6d912e83db427"
+  },
+  "id": "gh:portapack-mayhem/mayhem-firmware",
+  "kind": "repo",
+  "url": "https://github.com/portapack-mayhem/mayhem-firmware",
+  "title": "mayhem-firmware",
+  "why": "Provides the firmware for the HackRF plus PortaPack H1, H2, H4 and H4M handheld software defined radio.",
+  "keys": {
+    "races": [
+      "embedded/firmware"
+    ],
+    "lanes": [
+      "embedded/firmware"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/portapack-mayhem/mayhem-firmware",
+    "sha": "834076356ef40c1cd5160a920ce6d912e83db427",
+    "file_url": "https://raw.githubusercontent.com/portapack-mayhem/mayhem-firmware/834076356ef40c1cd5160a920ce6d912e83db427/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-3.0",
+    "stars": 5532,
+    "size_mb": 430,
+    "created_at": "2020-03-29T13:51:34Z",
+    "last_commit_at": "2026-11-08T10:38:21Z",
+    "releases": 764,
+    "tags": 767,
+    "archived": false,
+    "release": {
+      "tag": "v2.4.0",
+      "at": "2026-03-24T09:54:49.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

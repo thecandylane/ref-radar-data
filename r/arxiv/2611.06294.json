@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.06294",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.06294",
+  "title": "A.S.E 2.0: Understanding How Repository Context Impacts the Security of LLM-Generated Code",
+  "why": "Benchmark asking whether repository context makes LLM-generated code exploitable, with tasks run in Docker and proof-of-concept exploits.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "cyber/appsec",
+      "agents/coding"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "cyber/appsec",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.06294"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

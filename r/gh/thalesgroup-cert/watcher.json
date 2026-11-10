@@ -1,0 +1,59 @@
+{
+  "id": "gh:thalesgroup-cert/watcher",
+  "kind": "repo",
+  "url": "https://github.com/thalesgroup-cert/Watcher",
+  "title": "Watcher",
+  "why": "Django and React platform that watches certificate transparency streams and OSINT for phishing domains, feeding MISP and TheHive.",
+  "keys": {
+    "races": [
+      "cyber/threat-intel",
+      "cyber/detection"
+    ],
+    "lanes": [
+      "cyber/threat-intel",
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/thalesgroup-cert/Watcher",
+    "sha": "e0c4cc6e1be6d3f6206ca14776b847cdf5b1d252",
+    "file_url": "https://cdn.jsdelivr.net/gh/thalesgroup-cert/Watcher@e0c4cc6e1be6d3f6206ca14776b847cdf5b1d252/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "AGPL-3.0",
+    "stars": 1445,
+    "size_mb": 117,
+    "created_at": "2020-09-01T14:33:21Z",
+    "last_commit_at": "2026-10-19T14:55:55Z",
+    "releases": 41,
+    "tags": 41,
+    "archived": false,
+    "release": {
+      "tag": "v3.7.0",
+      "at": "2026-10-19T15:17:26.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:412e7f0a4b0588fe884a02b344ac66a06538475b"
+  },
+  "id": "gh:yt-dlp/yt-dlp",
+  "kind": "repo",
+  "url": "https://github.com/yt-dlp/yt-dlp",
+  "title": "yt-dlp",
+  "why": "Downloads audio and video from the sites in supportedsites.md on the command line, with SponsorBlock support.",
+  "keys": {
+    "races": [
+      "media/video"
+    ],
+    "lanes": [
+      "media/video"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/yt-dlp/yt-dlp",
+    "sha": "412e7f0a4b0588fe884a02b344ac66a06538475b",
+    "file_url": "https://cdn.jsdelivr.net/gh/yt-dlp/yt-dlp@412e7f0a4b0588fe884a02b344ac66a06538475b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Unlicense",
+    "stars": 206584,
+    "size_mb": 64,
+    "created_at": "2020-10-26T04:22:55Z",
+    "last_commit_at": "2026-11-04T07:16:26Z",
+    "releases": 138,
+    "tags": 142,
+    "archived": false,
+    "release": {
+      "tag": "2026.10.26",
+      "at": "2026-10-26T22:25:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

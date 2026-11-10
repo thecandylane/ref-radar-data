@@ -1,0 +1,53 @@
+{
+  "id": "gh:huber-group-embl/arrayqualitymetrics",
+  "kind": "repo",
+  "url": "https://github.com/Huber-group-EMBL/arrayQualityMetrics",
+  "title": "arrayQualityMetrics",
+  "why": "Checks the quality of microarray experiments in R and writes up a report, packaged for Bioconductor.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Huber-group-EMBL/arrayQualityMetrics",
+    "sha": "0119fd74725eba19718282b146ac341b57385dbd",
+    "file_url": "https://cdn.jsdelivr.net/gh/Huber-group-EMBL/arrayQualityMetrics@0119fd74725eba19718282b146ac341b57385dbd/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 1,
+    "size_mb": 71,
+    "created_at": "2017-10-04T08:29:00Z",
+    "last_commit_at": "2026-10-28T21:50:31Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3dff6a2d9da218464bad93ca33c7c7b65438f061"
+  },
+  "id": "gh:blacklanternsecurity/baddns",
+  "kind": "repo",
+  "url": "https://github.com/blacklanternsecurity/baddns",
+  "title": "baddns",
+  "why": "Python scanner that tests subdomains for takeover risk and DNS misconfigurations, with docs and an agent guidance file.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "cyber/offensive"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/blacklanternsecurity/baddns",
+    "sha": "3dff6a2d9da218464bad93ca33c7c7b65438f061",
+    "file_url": "https://cdn.jsdelivr.net/gh/blacklanternsecurity/baddns@3dff6a2d9da218464bad93ca33c7c7b65438f061/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 450,
+    "size_mb": 6,
+    "created_at": "2023-07-31T17:52:37Z",
+    "last_commit_at": "2026-10-26T14:26:56Z",
+    "releases": 8,
+    "tags": 23,
+    "archived": false,
+    "release": {
+      "tag": "2.4.0",
+      "at": "2026-06-09T17:16:28.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

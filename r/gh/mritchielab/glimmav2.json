@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a93f7fca6b63cdb1f4f74889aa3883334631dca8"
+  },
+  "id": "gh:mritchielab/glimmav2",
+  "kind": "repo",
+  "url": "https://github.com/mritchielab/GlimmaV2",
+  "title": "GlimmaV2",
+  "why": "R package with a JavaScript front end for exploring differential expression results through interactive plots.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mritchielab/GlimmaV2",
+    "sha": "a93f7fca6b63cdb1f4f74889aa3883334631dca8",
+    "file_url": "https://cdn.jsdelivr.net/gh/mritchielab/GlimmaV2@a93f7fca6b63cdb1f4f74889aa3883334631dca8/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "LGPL-3.0",
+    "stars": 35,
+    "size_mb": 35,
+    "created_at": "2020-03-26T07:43:21Z",
+    "last_commit_at": "2026-04-30T14:24:25Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v2.0",
+      "at": "2020-12-07T23:50:39.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

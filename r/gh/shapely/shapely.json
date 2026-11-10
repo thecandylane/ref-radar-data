@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ad12da53dfb0becb6c49283d5cca54e905ca9ef0"
+  },
+  "id": "gh:shapely/shapely",
+  "kind": "repo",
+  "url": "https://github.com/shapely/shapely",
+  "title": "shapely",
+  "why": "Geometry toolkit for Python spatial work that builds and analyzes geometric objects, with benchmarks and a meson build.",
+  "keys": {
+    "races": [
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/shapely/shapely",
+    "sha": "ad12da53dfb0becb6c49283d5cca54e905ca9ef0",
+    "file_url": "https://cdn.jsdelivr.net/gh/shapely/shapely@ad12da53dfb0becb6c49283d5cca54e905ca9ef0/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 4541,
+    "size_mb": 6,
+    "created_at": "2011-12-31T19:43:11Z",
+    "last_commit_at": "2026-11-06T21:19:33Z",
+    "releases": 28,
+    "tags": 118,
+    "archived": false,
+    "release": {
+      "tag": "2.2.0",
+      "at": "2026-10-07T09:20:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-04T01:12:10.489Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.08666",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.08666",
+  "title": "Pdb or Not to Be: Comparing Debugging Interfaces With Pass$_{X}$@$k$",
+  "why": "Compares debugger-only and bash-only coding agents on 500 SWE-bench Verified instances, with a cross-agent pass@k estimator.",
+  "keys": {
+    "races": [
+      "dev-tools/debugging",
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "dev-tools/debugging",
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.08666"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

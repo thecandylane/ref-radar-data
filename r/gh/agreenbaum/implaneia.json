@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4c7dfd9df6e6b14002266ecc984214e95f8a4ef8"
+  },
+  "id": "gh:agreenbaum/implaneia",
+  "kind": "repo",
+  "url": "https://github.com/agreenbaum/ImPlaneIA",
+  "title": "ImPlaneIA",
+  "why": "Fits image plane fringes and calibrates NRM data from several instruments, with notebooks and example data included.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/agreenbaum/ImPlaneIA",
+    "sha": "4c7dfd9df6e6b14002266ecc984214e95f8a4ef8",
+    "file_url": "https://cdn.jsdelivr.net/gh/agreenbaum/ImPlaneIA@4c7dfd9df6e6b14002266ecc984214e95f8a4ef8/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 5,
+    "size_mb": 5,
+    "created_at": "2016-04-11T23:01:56Z",
+    "last_commit_at": "2019-09-23T16:31:44Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2019-01-03T15:24:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

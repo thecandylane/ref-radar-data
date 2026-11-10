@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d24fc011d4c4de8a3779a7e4682dd73875c9cd12"
+  },
+  "id": "gh:poissonconsulting/chk",
+  "kind": "repo",
+  "url": "https://github.com/poissonconsulting/chk",
+  "title": "chk",
+  "why": "R helpers for validating function arguments, so package developers get clear errors on bad user input.",
+  "keys": {
+    "races": [
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/poissonconsulting/chk",
+    "sha": "d24fc011d4c4de8a3779a7e4682dd73875c9cd12",
+    "file_url": "https://cdn.jsdelivr.net/gh/poissonconsulting/chk@d24fc011d4c4de8a3779a7e4682dd73875c9cd12/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 50,
+    "size_mb": 12,
+    "created_at": "2019-07-31T16:42:59Z",
+    "last_commit_at": "2026-10-14T23:43:34Z",
+    "releases": 7,
+    "tags": 80,
+    "archived": false,
+    "release": {
+      "tag": "v0.11.0",
+      "at": "2026-09-02T21:20:11.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "gh:microsoft/go-mssqldb",
+  "kind": "repo",
+  "url": "https://github.com/microsoft/go-mssqldb",
+  "title": "go-mssqldb",
+  "why": "Connects Go programs to SQL Server, Azure SQL Database, Managed Instance and Synapse, with Windows, Kerberos and Azure AD authentication.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "cyber/identity"
+    ],
+    "lanes": [
+      "data/databases",
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/iam"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microsoft/go-mssqldb",
+    "sha": "6c346b78c201e490ca2585f0987ddd8f6b4f06a3",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/go-mssqldb@6c346b78c201e490ca2585f0987ddd8f6b4f06a3/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "BSD-3-Clause",
+    "stars": 416,
+    "size_mb": 7,
+    "created_at": "2022-03-30T14:10:52Z",
+    "last_commit_at": "2026-11-04T00:50:14Z",
+    "releases": 16,
+    "tags": 42,
+    "archived": false,
+    "release": {
+      "tag": "v1.11.2",
+      "at": "2026-09-23T07:04:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

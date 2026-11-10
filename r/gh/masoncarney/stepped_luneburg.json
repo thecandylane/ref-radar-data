@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:728323f6331cc90cf8d97e9702a958ef553a284e"
+  },
+  "id": "gh:masoncarney/stepped_luneburg",
+  "kind": "repo",
+  "url": "https://github.com/masoncarney/stepped_luneburg",
+  "title": "stepped_luneburg",
+  "why": "Traces rays through a stepped Luneburg lens in Python, with scripts and a paper folder for the model.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/masoncarney/stepped_luneburg",
+    "sha": "728323f6331cc90cf8d97e9702a958ef553a284e",
+    "file_url": "https://cdn.jsdelivr.net/gh/masoncarney/stepped_luneburg@728323f6331cc90cf8d97e9702a958ef553a284e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 5,
+    "size_mb": 2,
+    "created_at": "2018-05-31T12:30:45Z",
+    "last_commit_at": "2018-10-04T12:04:06Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

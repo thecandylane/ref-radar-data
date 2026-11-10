@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d0ba9162f7d5c0af978a58445e533df6cce8225d"
+  },
+  "id": "gh:r-lum/luminescence",
+  "kind": "repo",
+  "url": "https://github.com/R-Lum/Luminescence",
+  "title": "Luminescence",
+  "why": "Analyses and plots luminescence dating data such as OSL and TL measurements in R, including XSYG files.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/R-Lum/Luminescence",
+    "sha": "d0ba9162f7d5c0af978a58445e533df6cce8225d",
+    "file_url": "https://cdn.jsdelivr.net/gh/R-Lum/Luminescence@d0ba9162f7d5c0af978a58445e533df6cce8225d/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 19,
+    "size_mb": 2157,
+    "created_at": "2014-08-20T15:16:21Z",
+    "last_commit_at": "2026-11-09T17:24:13Z",
+    "releases": 61,
+    "tags": 61,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.1",
+      "at": "2026-09-18T08:20:45.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

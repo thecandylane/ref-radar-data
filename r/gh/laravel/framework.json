@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:7d6d8e86138e9dcc250a29bd72cfe5d5dd7b3d6c"
+  },
   "id": "gh:laravel/framework",
   "kind": "repo",
   "url": "https://github.com/laravel/framework",
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "PHP",
     "license": "MIT",
-    "stars": 34996,
+    "stars": 34994,
     "size_mb": 106,
     "created_at": "2013-01-10T21:27:28Z",
-    "last_commit_at": "2026-11-08T14:40:55Z",
+    "last_commit_at": "2026-11-09T20:49:59Z",
     "releases": 988,
     "tags": 1311,
     "archived": false,
@@ -55,5 +58,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

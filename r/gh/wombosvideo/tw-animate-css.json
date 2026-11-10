@@ -1,0 +1,60 @@
+{
+  "id": "gh:wombosvideo/tw-animate-css",
+  "kind": "repo",
+  "url": "https://github.com/Wombosvideo/tw-animate-css",
+  "title": "tw-animate-css",
+  "why": "Drop-in animation utilities for projects moved to TailwindCSS v4.0, replacing tailwindcss-animate.",
+  "keys": {
+    "races": [
+      "web/css"
+    ],
+    "lanes": [
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Wombosvideo/tw-animate-css",
+    "sha": "1fc30d2b5ad6ab18baf7897828e44ab20a0a62ed",
+    "file_url": "https://cdn.jsdelivr.net/gh/Wombosvideo/tw-animate-css@1fc30d2b5ad6ab18baf7897828e44ab20a0a62ed/{path}"
+  },
+  "facts": {
+    "lang": "CSS",
+    "license": "MIT",
+    "stars": 818,
+    "size_mb": 0,
+    "created_at": "2025-01-28T13:35:25Z",
+    "last_commit_at": "2026-02-28T13:22:19Z",
+    "releases": 22,
+    "tags": 22,
+    "archived": false,
+    "release": {
+      "tag": "v1.4.0",
+      "at": "2025-09-24T05:25:35.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

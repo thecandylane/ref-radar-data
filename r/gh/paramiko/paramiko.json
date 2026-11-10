@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0e9ccb91e0f9a68f2587233d523ad7fe46e730fe"
+  },
+  "id": "gh:paramiko/paramiko",
+  "kind": "repo",
+  "url": "https://github.com/paramiko/paramiko",
+  "title": "paramiko",
+  "why": "Implements the SSHv2 protocol natively in Python, the library behind many Python remote-access tools.",
+  "keys": {
+    "races": [
+      "infra/networking",
+      "cyber/identity"
+    ],
+    "lanes": [
+      "infra/networking",
+      "cyber/identity"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/paramiko/paramiko",
+    "sha": "0e9ccb91e0f9a68f2587233d523ad7fe46e730fe",
+    "file_url": "https://cdn.jsdelivr.net/gh/paramiko/paramiko@0e9ccb91e0f9a68f2587233d523ad7fe46e730fe/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "LGPL-2.1",
+    "stars": 9898,
+    "size_mb": 7,
+    "created_at": "2009-02-02T03:41:08Z",
+    "last_commit_at": "2026-10-18T02:36:52Z",
+    "releases": 0,
+    "tags": 195,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

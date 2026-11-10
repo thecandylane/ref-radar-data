@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ca01aeae1c77bb086ef757611dea6377b8d1168b"
+  },
+  "id": "gh:digininja/cewl",
+  "kind": "repo",
+  "url": "https://github.com/digininja/CeWL",
+  "title": "CeWL",
+  "why": "Ruby script that generates a custom word list, with a Dockerfile and compose file to run it.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/digininja/CeWL",
+    "sha": "ca01aeae1c77bb086ef757611dea6377b8d1168b",
+    "file_url": "https://cdn.jsdelivr.net/gh/digininja/CeWL@ca01aeae1c77bb086ef757611dea6377b8d1168b/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "none",
+    "stars": 2879,
+    "size_mb": 0,
+    "created_at": "2016-04-22T12:08:54Z",
+    "last_commit_at": "2026-06-24T10:11:55Z",
+    "releases": 20,
+    "tags": 22,
+    "archived": false,
+    "release": {
+      "tag": "6.2.1",
+      "at": "2024-07-30T12:16:46.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

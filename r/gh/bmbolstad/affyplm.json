@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:31ba047388bd3394300eab56a7343558ed724e57"
+  },
+  "id": "gh:bmbolstad/affyplm",
+  "kind": "repo",
+  "url": "https://github.com/bmbolstad/affyPLM",
+  "title": "affyPLM",
+  "why": "R package for affy probe-level models, with the fitting routines written in C under src.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bmbolstad/affyPLM",
+    "sha": "31ba047388bd3394300eab56a7343558ed724e57",
+    "file_url": "https://cdn.jsdelivr.net/gh/bmbolstad/affyPLM@31ba047388bd3394300eab56a7343558ed724e57/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 3,
+    "created_at": "2014-08-31T21:43:02Z",
+    "last_commit_at": "2026-04-28T12:30:18Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.05797",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.05797",
+  "title": "DARE: Difficulty Analysis for Repair Enhancement",
+  "why": "Predicts how hard a repair task is for coding agents from 151 static features and picks matching support, across 2,594 tasks.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "agents/coding"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.05797"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

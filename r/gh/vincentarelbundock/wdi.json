@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7280dfa32b2e7175013f3be5b7189d4ea0257f78"
+  },
+  "id": "gh:vincentarelbundock/wdi",
+  "kind": "repo",
+  "url": "https://github.com/vincentarelbundock/WDI",
+  "title": "WDI",
+  "why": "Pulls World Bank indicator series straight into R, so analysis scripts need no manual data downloads.",
+  "keys": {
+    "races": [
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vincentarelbundock/WDI",
+    "sha": "7280dfa32b2e7175013f3be5b7189d4ea0257f78",
+    "file_url": "https://cdn.jsdelivr.net/gh/vincentarelbundock/WDI@7280dfa32b2e7175013f3be5b7189d4ea0257f78/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 253,
+    "size_mb": 12,
+    "created_at": "2012-04-01T03:25:32Z",
+    "last_commit_at": "2026-08-19T19:44:44Z",
+    "releases": 2,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "2.7.0",
+      "at": "2020-06-23T17:08:06.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

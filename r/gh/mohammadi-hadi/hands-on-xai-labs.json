@@ -1,0 +1,64 @@
+{
+  "id": "gh:mohammadi-hadi/hands-on-xai-labs",
+  "kind": "repo",
+  "url": "https://github.com/mohammadi-hadi/hands-on-xai-labs",
+  "title": "hands-on-xai-labs",
+  "why": "Colab notebooks to work through SHAP and mechanistic interpretability on LLMs, with exercises you can try.",
+  "keys": {
+    "races": [
+      "learning/courses",
+      "learning/exercises"
+    ],
+    "lanes": [
+      "learning/courses",
+      "learning/exercises"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mohammadi-hadi/hands-on-xai-labs",
+    "sha": "a5c643a7a5094920f03525222d2cd2a777b8e541",
+    "file_url": "https://cdn.jsdelivr.net/gh/mohammadi-hadi/hands-on-xai-labs@a5c643a7a5094920f03525222d2cd2a777b8e541/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 8,
+    "created_at": "2026-08-05T07:51:27Z",
+    "last_commit_at": "2026-11-03T17:52:36Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.3",
+      "at": "2026-10-04T19:08:23.000Z"
+    },
+    "doi": "10.5281/zenodo.21804605",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8de36f89b36396a8ba5ec6fb7c586d2f72d7f276"
+  },
+  "id": "gh:rethinkdb/rethinkdb",
+  "kind": "repo",
+  "url": "https://github.com/rethinkdb/rethinkdb",
+  "title": "rethinkdb",
+  "why": "C++ database server for realtime apps, with a configure script, demos, snap packaging and Windows notes.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rethinkdb/rethinkdb",
+    "sha": "8de36f89b36396a8ba5ec6fb7c586d2f72d7f276",
+    "file_url": "https://cdn.jsdelivr.net/gh/rethinkdb/rethinkdb@8de36f89b36396a8ba5ec6fb7c586d2f72d7f276/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 27008,
+    "size_mb": 277,
+    "created_at": "2012-10-30T05:37:47Z",
+    "last_commit_at": "2026-11-07T14:49:02Z",
+    "releases": 72,
+    "tags": 143,
+    "archived": false,
+    "release": {
+      "tag": "v2.4.4",
+      "at": "2023-12-11T01:42:50.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

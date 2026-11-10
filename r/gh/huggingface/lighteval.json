@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b97a6533bec22c4184b88526366fdf5d73d502c9"
+  },
   "id": "gh:huggingface/lighteval",
   "kind": "repo",
   "url": "https://github.com/huggingface/lighteval",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 2582,
+    "stars": 2583,
     "size_mb": 8,
     "created_at": "2024-01-26T13:15:39Z",
     "last_commit_at": "2026-10-29T14:15:10Z",
@@ -55,5 +58,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

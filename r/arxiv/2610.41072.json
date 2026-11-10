@@ -1,0 +1,39 @@
+{
+  "id": "arxiv:2610.41072",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.41072",
+  "title": "LanG 2.0: Energy-Efficient Agentic AI for Semi-Automated Security Operations at Scale",
+  "why": "Security operations agent that correlates alerts, writes detection rules with human approval, and runs on small local models to save energy.",
+  "keys": {
+    "races": [
+      "cyber/detection"
+    ],
+    "lanes": [
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.41072"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

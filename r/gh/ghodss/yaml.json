@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d8423dcdf3440d0a5baffc6f90a11e4128545620"
+  },
+  "id": "gh:ghodss/yaml",
+  "kind": "repo",
+  "url": "https://github.com/ghodss/yaml",
+  "title": "yaml",
+  "why": "Converts YAML to JSON and back in Go, so structs marshal and unmarshal YAML through their existing json tags.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ghodss/yaml",
+    "sha": "d8423dcdf3440d0a5baffc6f90a11e4128545620",
+    "file_url": "https://cdn.jsdelivr.net/gh/ghodss/yaml@d8423dcdf3440d0a5baffc6f90a11e4128545620/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "NOASSERTION",
+    "stars": 1064,
+    "size_mb": 0,
+    "created_at": "2014-12-01T02:37:07Z",
+    "last_commit_at": "2022-01-18T16:44:31Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2017-03-28T22:41:51.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

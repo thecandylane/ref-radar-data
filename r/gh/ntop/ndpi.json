@@ -1,0 +1,67 @@
+{
+  "id": "gh:ntop/ndpi",
+  "kind": "repo",
+  "url": "https://github.com/ntop/nDPI",
+  "title": "nDPI",
+  "why": "C library that identifies protocols and applications in traffic by deep packet inspection, with Python and Wireshark pieces.",
+  "keys": {
+    "races": [
+      "infra/networking",
+      "cyber/detection"
+    ],
+    "lanes": [
+      "infra/networking",
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ntop/nDPI",
+    "sha": "6b38c1c258e9e25beb044f7c60974953fc66de43",
+    "file_url": "https://cdn.jsdelivr.net/gh/ntop/nDPI@6b38c1c258e9e25beb044f7c60974953fc66de43/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "LGPL-3.0",
+    "stars": 4670,
+    "size_mb": 262,
+    "created_at": "2015-04-19T04:56:52Z",
+    "last_commit_at": "2026-11-10T08:39:10Z",
+    "releases": 18,
+    "tags": 22,
+    "archived": false,
+    "release": {
+      "tag": "6.0",
+      "at": "2026-08-28T10:01:19.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

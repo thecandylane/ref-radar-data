@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2d844130f5c9dd336114cf4efee4a8e4818fc793"
+  },
+  "id": "gh:opf/openproject",
+  "kind": "repo",
+  "url": "https://github.com/opf/openproject",
+  "title": "openproject",
+  "why": "Self-hostable project management with Gantt charts, boards and issue tracking, plus BCF and IFC support for building projects.",
+  "keys": {
+    "races": [
+      "practice/process",
+      "engineering/bim"
+    ],
+    "lanes": [
+      "practice/process",
+      "engineering/bim"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/opf/openproject",
+    "sha": "2d844130f5c9dd336114cf4efee4a8e4818fc793",
+    "file_url": "https://raw.githubusercontent.com/opf/openproject/2d844130f5c9dd336114cf4efee4a8e4818fc793/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "GPL-3.0",
+    "stars": 17211,
+    "size_mb": 3075,
+    "created_at": "2012-11-28T09:59:11Z",
+    "last_commit_at": "2026-11-10T09:17:09Z",
+    "releases": 206,
+    "tags": 335,
+    "archived": false,
+    "release": {
+      "tag": "v17.9.7",
+      "at": "2026-11-09T08:19:46.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

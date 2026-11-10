@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.03551",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.03551",
+  "title": "Can LLM Agents Be Forward-Deployed Engineers? Requirement Discovery and Delivery for Enterprise Text-to-SQL",
+  "why": "Tests 15 models acting as forward-deployed engineers on an enterprise text-to-SQL job, where only 25% of delivery runs pass every acceptance criterion.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "agents/coding",
+      "ml/training"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "agents/coding",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.03551"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.09769",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.09769",
+  "title": "AnimWeb-Bench: Benchmarking Animated Webpage Code Generation from Videos",
+  "why": "Scores whether models and coding agents can reproduce page animations from a reference video, across 124 real-world webpages.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "web/css",
+      "agents/coding"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "web/css",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.09769"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

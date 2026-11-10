@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:69e3120d760e30f418a51f96a748bfdc7d8a794e"
+  },
   "id": "gh:heroiclabs/nakama",
   "kind": "repo",
   "url": "https://github.com/heroiclabs/nakama",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 13692,
+    "stars": 13698,
     "size_mb": 159,
     "created_at": "2017-01-13T17:15:12Z",
     "last_commit_at": "2026-11-05T09:55:10Z",
@@ -57,5 +60,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

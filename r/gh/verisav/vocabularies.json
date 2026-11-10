@@ -1,0 +1,59 @@
+{
+  "id": "gh:verisav/vocabularies",
+  "kind": "repo",
+  "url": "https://github.com/Verisav/vocabularies",
+  "title": "vocabularies",
+  "why": "RDF and OWL vocabularies with SHACL shapes for Digital Product Passports, returns and warranties, published through W3ID and LOV.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Verisav/vocabularies",
+    "sha": "e7fb061691cfb5aee1543988412b81534778bcff",
+    "file_url": "https://cdn.jsdelivr.net/gh/Verisav/vocabularies@e7fb061691cfb5aee1543988412b81534778bcff/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2025-12-22T10:29:45Z",
+    "last_commit_at": "2026-05-21T19:05:26Z",
+    "releases": 4,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v1.5.2",
+      "at": "2026-05-21T06:15:54.000Z"
+    },
+    "doi": "10.5281/zenodo.18016853"
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

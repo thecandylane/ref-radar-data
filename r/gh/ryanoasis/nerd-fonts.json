@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:adbd16ab7ca911eaca7ce3b0f2b7994207c7ecae"
+  },
+  "id": "gh:ryanoasis/nerd-fonts",
+  "kind": "repo",
+  "url": "https://github.com/ryanoasis/nerd-fonts",
+  "title": "nerd-fonts",
+  "why": "Patches fonts with thousands of icon glyphs for terminals and statuslines, and ships ready-made patched families.",
+  "keys": {
+    "races": [
+      "design/tools",
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "design/tools",
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ryanoasis/nerd-fonts",
+    "sha": "adbd16ab7ca911eaca7ce3b0f2b7994207c7ecae",
+    "file_url": "https://raw.githubusercontent.com/ryanoasis/nerd-fonts/adbd16ab7ca911eaca7ce3b0f2b7994207c7ecae/{path}"
+  },
+  "facts": {
+    "lang": "CSS",
+    "license": "NOASSERTION",
+    "stars": 65180,
+    "size_mb": 28663,
+    "created_at": "2014-12-05T04:31:17Z",
+    "last_commit_at": "2026-10-17T22:03:51Z",
+    "releases": 40,
+    "tags": 41,
+    "archived": false,
+    "release": {
+      "tag": "v3.5.1",
+      "at": "2026-08-21T15:21:46.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

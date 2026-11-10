@@ -1,0 +1,63 @@
+{
+  "id": "gh:cosscom/ui",
+  "kind": "repo",
+  "url": "https://github.com/cosscom/ui",
+  "title": "cosscom/ui",
+  "why": "Cal.com's design system as React components on Radix, Base UI, Tailwind and shadcn, inside a Turbo monorepo.",
+  "keys": {
+    "races": [
+      "web/ui-components",
+      "web/css"
+    ],
+    "lanes": [
+      "web/ui-components",
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cosscom/ui",
+    "sha": "fe6ffa81f434a4afe1c01564c13bb237564c42e2",
+    "file_url": "https://cdn.jsdelivr.net/gh/cosscom/ui@fe6ffa81f434a4afe1c01564c13bb237564c42e2/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 10809,
+    "size_mb": 27,
+    "created_at": "2024-10-15T10:05:35Z",
+    "last_commit_at": "2026-11-08T16:28:59Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

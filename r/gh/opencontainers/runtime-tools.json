@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bd3b0bd00f44e15f0f1ff4130c61dbea1b1c56cc"
+  },
+  "id": "gh:opencontainers/runtime-tools",
+  "kind": "repo",
+  "url": "https://github.com/opencontainers/runtime-tools",
+  "title": "runtime-tools",
+  "why": "Generates OCI runtime configs and validates runtimes against the spec, handy when testing a runc-style implementation.",
+  "keys": {
+    "races": [
+      "infra/containers"
+    ],
+    "lanes": [
+      "infra/containers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/opencontainers/runtime-tools",
+    "sha": "bd3b0bd00f44e15f0f1ff4130c61dbea1b1c56cc",
+    "file_url": "https://cdn.jsdelivr.net/gh/opencontainers/runtime-tools@bd3b0bd00f44e15f0f1ff4130c61dbea1b1c56cc/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 495,
+    "size_mb": 11,
+    "created_at": "2016-01-13T20:10:21Z",
+    "last_commit_at": "2026-10-17T09:08:56Z",
+    "releases": 9,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v0.9.0",
+      "at": "2019-03-13T08:07:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

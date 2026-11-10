@@ -1,0 +1,68 @@
+{
+  "id": "gh:gfelber/vagd",
+  "kind": "repo",
+  "url": "https://github.com/gfelber/vagd",
+  "title": "vagd",
+  "why": "Spins up a QEMU or Docker/Podman sandbox and wires pwntools' GDB integration straight into it for CTF pwnable debugging.",
+  "keys": {
+    "races": [
+      "learning/security-labs",
+      "cyber/reversing"
+    ],
+    "lanes": [
+      "learning/security-labs",
+      "cyber/reversing"
+    ],
+    "capabilities": [
+      "cyber/reversing/debuggers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gfelber/vagd",
+    "sha": "022e4044cb63e48a42df6e1f3e27b7e7e6673500",
+    "file_url": "https://cdn.jsdelivr.net/gh/gfelber/vagd@022e4044cb63e48a42df6e1f3e27b7e7e6673500/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 40,
+    "size_mb": 0,
+    "created_at": "2023-02-24T19:53:24Z",
+    "last_commit_at": "2026-10-26T08:38:34Z",
+    "releases": 0,
+    "tags": 96,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-07T00:10:46.462Z"
+  }
+}

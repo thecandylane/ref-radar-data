@@ -1,0 +1,67 @@
+{
+  "id": "gh:diyanbogdanov/emend",
+  "kind": "repo",
+  "url": "https://github.com/diyanbogdanov/emend",
+  "title": "emend",
+  "why": "Takes a dependency upgrade, locates the lines it breaks, repairs them, and re-runs compile and tests to confirm nothing regressed.",
+  "keys": {
+    "races": [
+      "agents/coding"
+    ],
+    "lanes": [
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/diyanbogdanov/emend",
+    "sha": "f8b72b08e3ac44ad8627335a20c00944d62a6762",
+    "file_url": "https://cdn.jsdelivr.net/gh/diyanbogdanov/emend@f8b72b08e3ac44ad8627335a20c00944d62a6762/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 52,
+    "size_mb": 2,
+    "created_at": "2026-08-13T12:41:58Z",
+    "last_commit_at": "2026-10-07T16:29:00Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.1",
+      "at": "2026-10-07T16:29:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-10-31T08:09:45.392Z"
+  }
+}

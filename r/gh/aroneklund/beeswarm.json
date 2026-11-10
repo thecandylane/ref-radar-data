@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d641db509e7a3f9c8e76147bf779fcb141cdba51"
+  },
+  "id": "gh:aroneklund/beeswarm",
+  "kind": "repo",
+  "url": "https://github.com/aroneklund/beeswarm",
+  "title": "beeswarm",
+  "why": "Adds bee swarm plots to R for showing every data point in a group.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/aroneklund/beeswarm",
+    "sha": "d641db509e7a3f9c8e76147bf779fcb141cdba51",
+    "file_url": "https://cdn.jsdelivr.net/gh/aroneklund/beeswarm@d641db509e7a3f9c8e76147bf779fcb141cdba51/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 43,
+    "size_mb": 0,
+    "created_at": "2015-07-30T09:20:49Z",
+    "last_commit_at": "2023-01-21T21:58:03Z",
+    "releases": 5,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.0",
+      "at": "2017-05-30T09:58:07.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

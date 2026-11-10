@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8b617e72415fb23a0ced8ec1c91d21f04e042fc5"
+  },
+  "id": "gh:jokergoo/interactivecomplexheatmap",
+  "kind": "repo",
+  "url": "https://github.com/jokergoo/InteractiveComplexHeatmap",
+  "title": "InteractiveComplexHeatmap",
+  "why": "Turns complex heatmaps in R into interactive views where you can select cells and see linked output.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jokergoo/InteractiveComplexHeatmap",
+    "sha": "8b617e72415fb23a0ced8ec1c91d21f04e042fc5",
+    "file_url": "https://cdn.jsdelivr.net/gh/jokergoo/InteractiveComplexHeatmap@8b617e72415fb23a0ced8ec1c91d21f04e042fc5/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 144,
+    "size_mb": 8,
+    "created_at": "2020-12-09T12:08:06Z",
+    "last_commit_at": "2026-01-30T08:56:11Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fa98a053ce8d0549410778d4d04b51f1facf965f"
+  },
+  "id": "gh:marionebl/svg-term-cli",
+  "kind": "repo",
+  "url": "https://github.com/marionebl/svg-term-cli",
+  "title": "svg-term-cli",
+  "why": "Turns recorded terminal sessions into animated SVG that embeds in a README without any video file.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui",
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "desktop/terminal-ui",
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/marionebl/svg-term-cli",
+    "sha": "fa98a053ce8d0549410778d4d04b51f1facf965f",
+    "file_url": "https://cdn.jsdelivr.net/gh/marionebl/svg-term-cli@fa98a053ce8d0549410778d4d04b51f1facf965f/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 4248,
+    "size_mb": 0,
+    "created_at": "2017-11-25T16:08:35Z",
+    "last_commit_at": "2019-07-14T11:13:45Z",
+    "releases": 0,
+    "tags": 18,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

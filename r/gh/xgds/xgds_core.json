@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7c2f8d56ca56321f6a9331cda38b40b503fade04"
+  },
+  "id": "gh:xgds/xgds_core",
+  "kind": "repo",
+  "url": "https://github.com/xgds/xgds_core",
+  "title": "xgds_core",
+  "why": "Shared Python package for the xgds toolkit that bundles its common functionality and documentation.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/xgds/xgds_core",
+    "sha": "7c2f8d56ca56321f6a9331cda38b40b503fade04",
+    "file_url": "https://cdn.jsdelivr.net/gh/xgds/xgds_core@7c2f8d56ca56321f6a9331cda38b40b503fade04/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 2,
+    "size_mb": 3,
+    "created_at": "2015-12-09T17:08:04Z",
+    "last_commit_at": "2019-06-07T00:34:53Z",
+    "releases": 1,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "subsea_cruise_a",
+      "at": "2019-03-26T00:57:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:eae3c1840ec4adda88a4af683ad0f60bb690e7c2"
+  },
+  "id": "gh:gorilla/securecookie",
+  "kind": "repo",
+  "url": "https://github.com/gorilla/securecookie",
+  "title": "securecookie",
+  "why": "Encodes cookie values validated with HMAC and optionally encrypted, so forged cookies can't be used in Go.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "cyber/identity"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "cyber/identity"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gorilla/securecookie",
+    "sha": "eae3c1840ec4adda88a4af683ad0f60bb690e7c2",
+    "file_url": "https://cdn.jsdelivr.net/gh/gorilla/securecookie@eae3c1840ec4adda88a4af683ad0f60bb690e7c2/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "BSD-3-Clause",
+    "stars": 732,
+    "size_mb": 0,
+    "created_at": "2012-10-02T21:33:33Z",
+    "last_commit_at": "2023-10-18T11:18:40Z",
+    "releases": 2,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.2",
+      "at": "2023-11-05T02:03:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

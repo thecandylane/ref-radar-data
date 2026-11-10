@@ -1,0 +1,63 @@
+{
+  "id": "gh:open-metadata/openmetadata",
+  "kind": "repo",
+  "url": "https://github.com/open-metadata/OpenMetadata",
+  "title": "OpenMetadata",
+  "why": "Data catalog with lineage, quality and governance that also exposes an MCP server so agents can query metadata.",
+  "keys": {
+    "races": [
+      "data/analytics",
+      "llm-infra/rag",
+      "agents/tools"
+    ],
+    "lanes": [
+      "data/analytics",
+      "llm-infra/rag",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "llm-infra/rag/knowledge-platforms",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/open-metadata/OpenMetadata",
+    "sha": "8a6ecf5d1525c9d6c502e67b0d5652e2df768215",
+    "file_url": "https://raw.githubusercontent.com/open-metadata/OpenMetadata/8a6ecf5d1525c9d6c502e67b0d5652e2df768215/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 15730,
+    "size_mb": 3539,
+    "created_at": "2021-08-01T21:17:17Z",
+    "last_commit_at": "2026-11-10T09:07:37Z",
+    "releases": 232,
+    "tags": 240,
+    "archived": false,
+    "release": {
+      "tag": "2.0.7-release",
+      "at": "2026-10-27T06:36:02.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

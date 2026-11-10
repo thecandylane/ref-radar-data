@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d3d0a4d525e87204010d10162b01a921b05a6149"
+  },
+  "id": "gh:ropensci/robotstxt",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/robotstxt",
+  "title": "robotstxt",
+  "why": "Checks from R whether a bot may fetch a path under a site's robots.txt rules before a crawler or scraper runs.",
+  "keys": {
+    "races": [
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/web-access"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/robotstxt",
+    "sha": "d3d0a4d525e87204010d10162b01a921b05a6149",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/robotstxt@d3d0a4d525e87204010d10162b01a921b05a6149/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 69,
+    "size_mb": 3,
+    "created_at": "2015-12-01T15:51:07Z",
+    "last_commit_at": "2024-11-15T19:32:37Z",
+    "releases": 7,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.15",
+      "at": "2024-08-31T14:27:05.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

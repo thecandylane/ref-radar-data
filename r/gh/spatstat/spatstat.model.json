@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:53228b8f56b61ffd04ff91fc3f0a42428de49322"
+  },
+  "id": "gh:spatstat/spatstat.model",
+  "kind": "repo",
+  "url": "https://github.com/spatstat/spatstat.model",
+  "title": "spatstat.model",
+  "why": "Fits parametric models to spatial point patterns in R, with diagnostics, confidence intervals and inference for the fits.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/spatstat/spatstat.model",
+    "sha": "53228b8f56b61ffd04ff91fc3f0a42428de49322",
+    "file_url": "https://cdn.jsdelivr.net/gh/spatstat/spatstat.model@53228b8f56b61ffd04ff91fc3f0a42428de49322/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 7,
+    "size_mb": 3,
+    "created_at": "2022-05-23T06:12:38Z",
+    "last_commit_at": "2026-08-24T07:59:00Z",
+    "releases": 13,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "V3.7-2",
+      "at": "2026-07-28T05:48:02.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:de15fd2efb709ea4528d894ab857ac145f3dc277"
+  },
+  "id": "gh:shikijs/shiki",
+  "kind": "repo",
+  "url": "https://github.com/shikijs/shiki",
+  "title": "shiki",
+  "why": "Highlights code syntax with the same TextMate grammar engine that editors use, for embedding in docs and markdown.",
+  "keys": {
+    "races": [
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/shikijs/shiki",
+    "sha": "de15fd2efb709ea4528d894ab857ac145f3dc277",
+    "file_url": "https://cdn.jsdelivr.net/gh/shikijs/shiki@de15fd2efb709ea4528d894ab857ac145f3dc277/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 13922,
+    "size_mb": 16,
+    "created_at": "2018-10-29T22:16:21Z",
+    "last_commit_at": "2026-11-02T06:02:56Z",
+    "releases": 161,
+    "tags": 197,
+    "archived": false,
+    "release": {
+      "tag": "v4.6.0",
+      "at": "2026-11-02T04:32:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

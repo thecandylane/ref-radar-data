@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8dbfbba4d8ed508df16a0684ea7213533abf9ac3"
+  },
+  "id": "gh:floooh/sokol-nim",
+  "kind": "repo",
+  "url": "https://github.com/floooh/sokol-nim",
+  "title": "sokol-nim",
+  "why": "Lets Nim code use the sokol headers through bindings in src, installed with a sokol.nimble file, with examples.",
+  "keys": {
+    "races": [
+      "games/graphics"
+    ],
+    "lanes": [
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/floooh/sokol-nim",
+    "sha": "8dbfbba4d8ed508df16a0684ea7213533abf9ac3",
+    "file_url": "https://cdn.jsdelivr.net/gh/floooh/sokol-nim@8dbfbba4d8ed508df16a0684ea7213533abf9ac3/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 104,
+    "size_mb": 7,
+    "created_at": "2018-02-09T17:15:29Z",
+    "last_commit_at": "2026-11-08T15:01:16Z",
+    "releases": 0,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2610.40901",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.40901",
+  "title": "TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research",
+  "why": "Workbench that gives coding agents shared tools for reproducing time series forecasting papers, cutting fresh tokens per task by 11-66%.",
+  "keys": {
+    "races": [
+      "agents/orchestration",
+      "agents/coding"
+    ],
+    "lanes": [
+      "agents/orchestration",
+      "agents/coding"
+    ],
+    "capabilities": [
+      "agents/orchestration/harness-adapters"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.40901"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

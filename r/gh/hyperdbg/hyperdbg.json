@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d2c224fbe285aff31e372f71038a4bebd4f3f67c"
+  },
+  "id": "gh:hyperdbg/hyperdbg",
+  "kind": "repo",
+  "url": "https://github.com/HyperDbg/HyperDbg",
+  "title": "HyperDbg",
+  "why": "A hypervisor-based debugger for kernel and user code that sees what anti-debug tricks hide, for binary and malware analysis.",
+  "keys": {
+    "races": [
+      "cyber/reversing"
+    ],
+    "lanes": [
+      "cyber/reversing"
+    ],
+    "capabilities": [
+      "cyber/reversing/debuggers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/HyperDbg/HyperDbg",
+    "sha": "d2c224fbe285aff31e372f71038a4bebd4f3f67c",
+    "file_url": "https://cdn.jsdelivr.net/gh/HyperDbg/HyperDbg@d2c224fbe285aff31e372f71038a4bebd4f3f67c/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-3.0",
+    "stars": 4193,
+    "size_mb": 47,
+    "created_at": "2020-01-01T12:34:32Z",
+    "last_commit_at": "2026-11-01T23:38:01Z",
+    "releases": 40,
+    "tags": 41,
+    "archived": false,
+    "release": {
+      "tag": "v0.25",
+      "at": "2026-11-01T23:42:53.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

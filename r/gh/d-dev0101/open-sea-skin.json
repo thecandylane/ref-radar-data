@@ -1,0 +1,57 @@
+{
+  "id": "gh:d-dev0101/open-sea-skin",
+  "kind": "repo",
+  "url": "https://github.com/d-dev0101/open-sea-skin",
+  "title": "open-sea-skin",
+  "why": "Renders an animated ocean scene with waves, sunset lighting and glass panels using WebGPU and Three.js as a DeepSeek Harness theme.",
+  "keys": {
+    "races": [
+      "games/graphics"
+    ],
+    "lanes": [
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/d-dev0101/open-sea-skin",
+    "sha": "5a969094a275768f88703776f44d3d9dd7f4c765",
+    "file_url": "https://cdn.jsdelivr.net/gh/d-dev0101/open-sea-skin@5a969094a275768f88703776f44d3d9dd7f4c765/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 390,
+    "size_mb": 79,
+    "created_at": "2026-08-14T22:19:03Z",
+    "last_commit_at": "2026-11-08T15:35:18Z",
+    "releases": 10,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.8",
+      "at": "2026-11-08T15:37:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

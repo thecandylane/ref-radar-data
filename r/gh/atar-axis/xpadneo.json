@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:39625746fff63c997eeb53fe3a6fc1a3de08702e"
-  },
   "id": "gh:atar-axis/xpadneo",
   "kind": "repo",
   "url": "https://github.com/atar-axis/xpadneo",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/atar-axis/xpadneo",
-    "sha": "39625746fff63c997eeb53fe3a6fc1a3de08702e",
-    "file_url": "https://cdn.jsdelivr.net/gh/atar-axis/xpadneo@39625746fff63c997eeb53fe3a6fc1a3de08702e/{path}"
+    "sha": "56b538d951300bf804f6631738603c5eb14c04f0",
+    "file_url": "https://cdn.jsdelivr.net/gh/atar-axis/xpadneo@56b538d951300bf804f6631738603c5eb14c04f0/{path}"
   },
   "facts": {
     "lang": "C",
@@ -58,5 +55,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

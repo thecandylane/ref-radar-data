@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:3f0066fbd3bd738dcf0f114273a828189277b86f"
+  },
   "id": "gh:playcanvas/engine",
   "kind": "repo",
   "url": "https://github.com/playcanvas/engine",
@@ -34,16 +37,16 @@
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 17246,
-    "size_mb": 688,
+    "stars": 17257,
+    "size_mb": 692,
     "created_at": "2014-05-12T11:24:30Z",
-    "last_commit_at": "2026-11-09T02:14:59Z",
-    "releases": 469,
-    "tags": 1144,
+    "last_commit_at": "2026-11-10T02:14:52Z",
+    "releases": 470,
+    "tags": 1147,
     "archived": false,
     "release": {
-      "tag": "v2.23.3",
-      "at": "2026-10-15T15:44:13.000Z"
+      "tag": "v2.24.0",
+      "at": "2026-11-09T16:22:16.000Z"
     }
   },
   "reuse": "copy",
@@ -57,5 +60,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

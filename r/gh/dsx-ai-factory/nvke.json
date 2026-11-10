@@ -1,0 +1,58 @@
+{
+  "id": "gh:dsx-ai-factory/nvke",
+  "kind": "repo",
+  "url": "https://github.com/dsx-ai-factory/nvke",
+  "title": "nvke",
+  "why": "Manages GPU Kubernetes clusters on bare metal through Cluster API, written in Go with an AGENTS.md for coding agents.",
+  "keys": {
+    "races": [
+      "infra/kubernetes",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "infra/kubernetes",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dsx-ai-factory/nvke",
+    "sha": "8cf1dd3faf89d118a1f2caffa99ec597de7236e5",
+    "file_url": "https://cdn.jsdelivr.net/gh/dsx-ai-factory/nvke@8cf1dd3faf89d118a1f2caffa99ec597de7236e5/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 1068,
+    "size_mb": 134,
+    "created_at": "2026-08-04T15:42:58Z",
+    "last_commit_at": "2026-11-10T02:45:19Z",
+    "releases": 8,
+    "tags": 189,
+    "archived": false,
+    "release": {
+      "tag": "v0.23.1",
+      "at": "2026-11-03T23:54:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

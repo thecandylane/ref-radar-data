@@ -1,0 +1,69 @@
+{
+  "id": "gh:keyvaluesoftwaresystems/agent-opfor",
+  "kind": "repo",
+  "url": "https://github.com/KeyValueSoftwareSystems/agent-opfor",
+  "title": "agent-opfor",
+  "why": "Red-teams AI agents, LLM apps, and MCP servers against OWASP LLM and Agentic AI Top 10 attacks, scoring each response with an LLM judge.",
+  "keys": {
+    "races": [
+      "cyber/agent-security",
+      "agents/tools",
+      "agents/skills"
+    ],
+    "lanes": [
+      "cyber/agent-security",
+      "agents/tools",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/KeyValueSoftwareSystems/agent-opfor",
+    "sha": "fcb9e941d2f3b308dc51aec04883f3bc0240db85",
+    "file_url": "https://cdn.jsdelivr.net/gh/KeyValueSoftwareSystems/agent-opfor@fcb9e941d2f3b308dc51aec04883f3bc0240db85/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 584,
+    "size_mb": 10,
+    "created_at": "2026-04-06T12:40:22Z",
+    "last_commit_at": "2026-08-13T09:02:46Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.10.2",
+      "at": "2026-08-10T05:48:01.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-04T05:46:31.876Z"
+  }
+}

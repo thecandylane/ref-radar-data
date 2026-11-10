@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:540a99c0f406541f6c21d45bfa63f8f7a0b4f1db"
+  },
+  "id": "gh:fariasf/astro-critters",
+  "kind": "repo",
+  "url": "https://github.com/fariasf/astro-critters",
+  "title": "astro-critters",
+  "why": "Inlines critical CSS in an Astro build by plugging the critters library in as an integration.",
+  "keys": {
+    "races": [
+      "web/css",
+      "web/static-sites"
+    ],
+    "lanes": [
+      "web/css",
+      "web/static-sites"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fariasf/astro-critters",
+    "sha": "540a99c0f406541f6c21d45bfa63f8f7a0b4f1db",
+    "file_url": "https://cdn.jsdelivr.net/gh/fariasf/astro-critters@540a99c0f406541f6c21d45bfa63f8f7a0b4f1db/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 1,
+    "created_at": "2023-08-07T17:57:09Z",
+    "last_commit_at": "2023-05-21T14:28:11Z",
+    "releases": 0,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

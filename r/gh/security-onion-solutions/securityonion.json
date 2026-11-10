@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:eb17d45a4cd54233eaa8eebd528df47cea1efea2"
+  },
+  "id": "gh:security-onion-solutions/securityonion",
+  "kind": "repo",
+  "url": "https://github.com/Security-Onion-Solutions/securityonion",
+  "title": "securityonion",
+  "why": "Installable ISO bundling Suricata, Zeek, Kibana and case management so a team can hunt threats without wiring the tools together.",
+  "keys": {
+    "races": [
+      "cyber/detection",
+      "infra/observability"
+    ],
+    "lanes": [
+      "cyber/detection",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Security-Onion-Solutions/securityonion",
+    "sha": "eb17d45a4cd54233eaa8eebd528df47cea1efea2",
+    "file_url": "https://cdn.jsdelivr.net/gh/Security-Onion-Solutions/securityonion@eb17d45a4cd54233eaa8eebd528df47cea1efea2/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "NOASSERTION",
+    "stars": 4979,
+    "size_mb": 73,
+    "created_at": "2018-02-05T17:30:31Z",
+    "last_commit_at": "2026-11-02T16:40:30Z",
+    "releases": 127,
+    "tags": 131,
+    "archived": false,
+    "release": {
+      "tag": "3.4.0-20261102",
+      "at": "2026-11-02T16:41:48.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

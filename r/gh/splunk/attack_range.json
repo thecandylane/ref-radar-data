@@ -1,0 +1,73 @@
+{
+  "id": "gh:splunk/attack_range",
+  "kind": "repo",
+  "url": "https://github.com/splunk/attack_range",
+  "title": "attack_range",
+  "why": "Stands up vulnerable, instrumented lab environments locally or in the cloud, then simulates attacks and sends the data to Splunk.",
+  "keys": {
+    "races": [
+      "cyber/detection",
+      "learning/security-labs"
+    ],
+    "lanes": [
+      "cyber/detection",
+      "learning/security-labs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/splunk/attack_range",
+    "sha": "7eaa3c06c025da108f8d9a3798185d68ad66d3dc",
+    "file_url": "https://cdn.jsdelivr.net/gh/splunk/attack_range@7eaa3c06c025da108f8d9a3798185d68ad66d3dc/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 2581,
+    "size_mb": 59,
+    "created_at": "2019-05-04T02:46:46Z",
+    "last_commit_at": "2026-11-03T13:14:38Z",
+    "releases": 12,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v5.0.0",
+      "at": "2026-02-09T12:47:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-04T04:35:40.376Z"
+  }
+}

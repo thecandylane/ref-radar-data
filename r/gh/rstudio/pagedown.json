@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:847c9eac1795d4c6af272ad6b8437ec7f3c63fdb"
+  },
+  "id": "gh:rstudio/pagedown",
+  "kind": "repo",
+  "url": "https://github.com/rstudio/pagedown",
+  "title": "pagedown",
+  "why": "Turns R Markdown into paginated pages ready for printing or PDF, styled with CSS paged media.",
+  "keys": {
+    "races": [
+      "dev-tools/docs",
+      "web/css"
+    ],
+    "lanes": [
+      "dev-tools/docs",
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rstudio/pagedown",
+    "sha": "847c9eac1795d4c6af272ad6b8437ec7f3c63fdb",
+    "file_url": "https://cdn.jsdelivr.net/gh/rstudio/pagedown@847c9eac1795d4c6af272ad6b8437ec7f3c63fdb/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 927,
+    "size_mb": 4,
+    "created_at": "2018-09-27T13:58:17Z",
+    "last_commit_at": "2026-10-27T09:51:03Z",
+    "releases": 25,
+    "tags": 25,
+    "archived": false,
+    "release": {
+      "tag": "v0.25",
+      "at": "2026-08-28T13:53:45.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

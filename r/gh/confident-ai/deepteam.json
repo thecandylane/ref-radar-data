@@ -1,0 +1,65 @@
+{
+  "id": "gh:confident-ai/deepteam",
+  "kind": "repo",
+  "url": "https://github.com/confident-ai/deepteam",
+  "title": "deepteam",
+  "why": "Probes a model or agent for security and safety weaknesses from Python, with guardrails and red teaming examples included.",
+  "keys": {
+    "races": [
+      "cyber/agent-security",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "cyber/agent-security",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/confident-ai/deepteam",
+    "sha": "6306f0ff319a932955399405af82f78ee91e9370",
+    "file_url": "https://cdn.jsdelivr.net/gh/confident-ai/deepteam@6306f0ff319a932955399405af82f78ee91e9370/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 3094,
+    "size_mb": 103,
+    "created_at": "2025-03-05T06:34:21Z",
+    "last_commit_at": "2026-10-23T11:32:00Z",
+    "releases": 3,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.9",
+      "at": "2025-11-12T14:18:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-03T20:24:30.420Z"
+  }
+}

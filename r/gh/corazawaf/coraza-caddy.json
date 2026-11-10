@@ -1,0 +1,58 @@
+{
+  "id": "gh:corazawaf/coraza-caddy",
+  "kind": "repo",
+  "url": "https://github.com/corazawaf/coraza-caddy",
+  "title": "coraza-caddy",
+  "why": "Adds a web application firewall to Caddy using Coraza and the core rule set, with e2e and FTW tests.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "infra/networking"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/corazawaf/coraza-caddy",
+    "sha": "5d6d37ab2162f09ae4e3fd6c3d6bca45747910ad",
+    "file_url": "https://cdn.jsdelivr.net/gh/corazawaf/coraza-caddy@5d6d37ab2162f09ae4e3fd6c3d6bca45747910ad/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 698,
+    "size_mb": 13,
+    "created_at": "2021-06-21T02:01:19Z",
+    "last_commit_at": "2026-10-28T03:33:42Z",
+    "releases": 18,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "v2.6.2",
+      "at": "2026-10-08T11:22:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

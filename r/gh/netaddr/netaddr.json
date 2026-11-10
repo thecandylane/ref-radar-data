@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d340feab548d948c5dc92cedcb05c69f57f9386e"
+  },
+  "id": "gh:netaddr/netaddr",
+  "kind": "repo",
+  "url": "https://github.com/netaddr/netaddr",
+  "title": "netaddr",
+  "why": "Manipulates IPv4, IPv6, CIDR and MAC addresses in Python, including lookups against the OUI database.",
+  "keys": {
+    "races": [
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/netaddr/netaddr",
+    "sha": "d340feab548d948c5dc92cedcb05c69f57f9386e",
+    "file_url": "https://cdn.jsdelivr.net/gh/netaddr/netaddr@d340feab548d948c5dc92cedcb05c69f57f9386e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 830,
+    "size_mb": 18,
+    "created_at": "2010-05-24T23:14:56Z",
+    "last_commit_at": "2024-05-29T19:15:01Z",
+    "releases": 7,
+    "tags": 41,
+    "archived": false,
+    "release": {
+      "tag": "1.3.0",
+      "at": "2024-05-28T21:32:50.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

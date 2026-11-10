@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:527e0c8d097164053f2ccd00e668124056e64e8b"
+  },
+  "id": "gh:rizinorg/rizin",
+  "kind": "repo",
+  "url": "https://github.com/rizinorg/rizin",
+  "title": "rizin",
+  "why": "Command-line toolkit for taking binaries apart, with program analysis and debugging, built from the librz libraries and binrz tools with Meson.",
+  "keys": {
+    "races": [
+      "cyber/reversing"
+    ],
+    "lanes": [
+      "cyber/reversing"
+    ],
+    "capabilities": [
+      "cyber/reversing/debuggers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rizinorg/rizin",
+    "sha": "527e0c8d097164053f2ccd00e668124056e64e8b",
+    "file_url": "https://cdn.jsdelivr.net/gh/rizinorg/rizin@527e0c8d097164053f2ccd00e668124056e64e8b/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "LGPL-3.0",
+    "stars": 4171,
+    "size_mb": 167,
+    "created_at": "2020-09-30T09:15:56Z",
+    "last_commit_at": "2026-11-09T22:40:24Z",
+    "releases": 29,
+    "tags": 31,
+    "archived": false,
+    "release": {
+      "tag": "v0.9.1",
+      "at": "2026-06-29T17:48:24.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "contains raw shellcode bytes",
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-03T18:46:59.900Z"
+  }
+}

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a3f2f834a1b97dd42fab1193814179ac2e96d7cd"
-  },
   "id": "gh:aowang-ai/jev-trade",
   "kind": "repo",
   "url": "https://github.com/aowang-ai/jev-trade",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/aowang-ai/jev-trade",
-    "sha": "a3f2f834a1b97dd42fab1193814179ac2e96d7cd",
-    "file_url": "https://cdn.jsdelivr.net/gh/aowang-ai/jev-trade@a3f2f834a1b97dd42fab1193814179ac2e96d7cd/{path}"
+    "sha": "2006aa8aae52f8b6ff95358d18e177071718407d",
+    "file_url": "https://cdn.jsdelivr.net/gh/aowang-ai/jev-trade@2006aa8aae52f8b6ff95358d18e177071718407d/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -57,5 +54,6 @@
     "star_delta_7d": 2,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

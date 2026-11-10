@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:990860a01ca865774b0e77b5de9af76b54947900"
+  },
+  "id": "gh:dylanpdx/vxreddit",
+  "kind": "repo",
+  "url": "https://github.com/dylanpdx/vxReddit",
+  "title": "vxReddit",
+  "why": "Gives Reddit links a better embed on Discord and Telegram, deployable via a serverless config or a systemd service.",
+  "keys": {
+    "races": [
+      "infra/serverless"
+    ],
+    "lanes": [
+      "infra/serverless"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dylanpdx/vxReddit",
+    "sha": "990860a01ca865774b0e77b5de9af76b54947900",
+    "file_url": "https://cdn.jsdelivr.net/gh/dylanpdx/vxReddit@990860a01ca865774b0e77b5de9af76b54947900/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "WTFPL",
+    "stars": 112,
+    "size_mb": 0,
+    "created_at": "2022-10-23T01:09:34Z",
+    "last_commit_at": "2026-09-21T00:23:24Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:e1f94ecc55022fc3751df2f6f3413c02cc41824d"
+  },
   "id": "gh:rizinorg/cutter",
   "kind": "repo",
   "url": "https://github.com/rizinorg/cutter",
@@ -38,7 +41,7 @@
   "facts": {
     "lang": "C++",
     "license": "GPL-3.0",
-    "stars": 20180,
+    "stars": 20187,
     "size_mb": 16,
     "created_at": "2017-09-25T09:50:51Z",
     "last_commit_at": "2026-11-03T14:51:27Z",
@@ -61,5 +64,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

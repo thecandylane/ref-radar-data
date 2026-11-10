@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ce3bf745eb2d2dbc14a50bf2446783f691ac4353"
+  },
+  "id": "gh:memononen/nanovg",
+  "kind": "repo",
+  "url": "https://github.com/memononen/nanovg",
+  "title": "memononen/nanovg",
+  "why": "Draws antialiased 2D vector graphics on top of OpenGL, aimed at building UI widgets and chart-style visualizations.",
+  "keys": {
+    "races": [
+      "games/graphics"
+    ],
+    "lanes": [
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/memononen/nanovg",
+    "sha": "ce3bf745eb2d2dbc14a50bf2446783f691ac4353",
+    "file_url": "https://cdn.jsdelivr.net/gh/memononen/nanovg@ce3bf745eb2d2dbc14a50bf2446783f691ac4353/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "Zlib",
+    "stars": 5737,
+    "size_mb": 3,
+    "created_at": "2013-11-12T07:45:10Z",
+    "last_commit_at": "2026-02-19T13:29:32Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

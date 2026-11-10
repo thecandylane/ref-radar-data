@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:947872c7225bdc06cd97122cfb68f50c1826c732"
+  },
+  "id": "gh:rcastelo/qpgraph",
+  "kind": "repo",
+  "url": "https://github.com/rcastelo/qpgraph",
+  "title": "qpgraph",
+  "why": "Estimates gene networks and eQTL networks from expression and genotyping data, with C code under src.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rcastelo/qpgraph",
+    "sha": "947872c7225bdc06cd97122cfb68f50c1826c732",
+    "file_url": "https://cdn.jsdelivr.net/gh/rcastelo/qpgraph@947872c7225bdc06cd97122cfb68f50c1826c732/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 3,
+    "size_mb": 9,
+    "created_at": "2017-09-01T10:40:24Z",
+    "last_commit_at": "2026-06-10T10:05:52Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

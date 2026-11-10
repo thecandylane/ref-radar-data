@@ -1,0 +1,64 @@
+{
+  "id": "gh:ropensci-review-tools/pkgmatch",
+  "kind": "repo",
+  "url": "https://github.com/ropensci-review-tools/pkgmatch",
+  "title": "pkgmatch",
+  "why": "Finds R packages by describing what you need or by pointing at a package, ranking matches with BM25 text search.",
+  "keys": {
+    "races": [
+      "data/search",
+      "agents/code-intel"
+    ],
+    "lanes": [
+      "data/search",
+      "agents/code-intel"
+    ],
+    "capabilities": [
+      "agents/code-intel/code-search"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci-review-tools/pkgmatch",
+    "sha": "726000f90a983425d7e63636addfe4951b047fa3",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci-review-tools/pkgmatch@726000f90a983425d7e63636addfe4951b047fa3/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 10,
+    "size_mb": 3,
+    "created_at": "2024-08-14T12:43:16Z",
+    "last_commit_at": "2026-10-09T11:36:32Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.4",
+      "at": "2026-06-22T10:36:26.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

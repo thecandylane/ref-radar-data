@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7207a05b1b1674893eae2944b828406341701c27"
+  },
+  "id": "gh:onera/paradigm",
+  "kind": "repo",
+  "url": "https://github.com/onera/paradigm",
+  "title": "paradigm",
+  "why": "C library with Cython bindings that splits and handles meshes across many parallel processes for simulation codes.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/onera/paradigm",
+    "sha": "7207a05b1b1674893eae2944b828406341701c27",
+    "file_url": "https://cdn.jsdelivr.net/gh/onera/paradigm@7207a05b1b1674893eae2944b828406341701c27/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "LGPL-3.0",
+    "stars": 13,
+    "size_mb": 39,
+    "created_at": "2024-07-24T08:03:37Z",
+    "last_commit_at": "2026-10-19T09:41:54Z",
+    "releases": 1,
+    "tags": 80,
+    "archived": false,
+    "release": {
+      "tag": "paradigm-2.9.0",
+      "at": "2026-10-21T12:25:51.000Z"
+    },
+    "doi": "10.21105/joss.10483",
+    "citations": {
+      "count": 1,
+      "by": "Crossref",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:674fa27bb97bde75b492a5d262cef2ce321c6c3c"
+  },
+  "id": "gh:cmap/cmapr",
+  "kind": "repo",
+  "url": "https://github.com/cmap/cmapR",
+  "title": "cmapR",
+  "why": "Loads, slices and writes annotated data matrices in R, built for CMap and Bioconductor workflows.",
+  "keys": {
+    "races": [
+      "data/analytics",
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/analytics",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cmap/cmapR",
+    "sha": "674fa27bb97bde75b492a5d262cef2ce321c6c3c",
+    "file_url": "https://cdn.jsdelivr.net/gh/cmap/cmapR@674fa27bb97bde75b492a5d262cef2ce321c6c3c/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "BSD-3-Clause",
+    "stars": 95,
+    "size_mb": 9,
+    "created_at": "2017-03-28T19:39:01Z",
+    "last_commit_at": "2021-10-13T00:33:35Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

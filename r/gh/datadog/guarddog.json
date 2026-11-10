@@ -1,0 +1,61 @@
+{
+  "id": "gh:datadog/guarddog",
+  "kind": "repo",
+  "url": "https://github.com/DataDog/guarddog",
+  "title": "guarddog",
+  "why": "Scans PyPI and npm packages with detection rules to spot malicious ones, and documents how to write your own rules.",
+  "keys": {
+    "races": [
+      "cyber/supply-chain",
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/supply-chain",
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/static-analysis"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/DataDog/guarddog",
+    "sha": "e5271b716a8e2d1fa80a9b24ae9932b91d4ae51f",
+    "file_url": "https://cdn.jsdelivr.net/gh/DataDog/guarddog@e5271b716a8e2d1fa80a9b24ae9932b91d4ae51f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 1248,
+    "size_mb": 16,
+    "created_at": "2022-06-14T14:51:28Z",
+    "last_commit_at": "2026-11-02T20:51:01Z",
+    "releases": 66,
+    "tags": 74,
+    "archived": false,
+    "release": {
+      "tag": "v3.2.0",
+      "at": "2026-08-12T11:10:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

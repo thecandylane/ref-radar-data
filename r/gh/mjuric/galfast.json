@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b9900900657c9709dc8130285819b3bce6a3b2c1"
+  },
+  "id": "gh:mjuric/galfast",
+  "kind": "repo",
+  "url": "https://github.com/mjuric/galfast",
+  "title": "galfast",
+  "why": "Generates mock catalogs of the Milky Way in C++, built with CMake, with data, docs and tests folders alongside.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mjuric/galfast",
+    "sha": "b9900900657c9709dc8130285819b3bce6a3b2c1",
+    "file_url": "https://raw.githubusercontent.com/mjuric/galfast/b9900900657c9709dc8130285819b3bce6a3b2c1/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-2.0",
+    "stars": 3,
+    "size_mb": 69,
+    "created_at": "2012-04-09T22:01:33Z",
+    "last_commit_at": "2016-02-18T00:28:50Z",
+    "releases": 0,
+    "tags": 4,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

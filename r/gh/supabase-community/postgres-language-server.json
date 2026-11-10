@@ -1,0 +1,66 @@
+{
+  "id": "gh:supabase-community/postgres-language-server",
+  "kind": "repo",
+  "url": "https://github.com/supabase-community/postgres-language-server",
+  "title": "postgres-language-server",
+  "why": "Brings Postgres awareness to editors over the language server protocol, implemented in Rust with TypeScript packages.",
+  "keys": {
+    "races": [
+      "dev-tools/editors",
+      "data/databases"
+    ],
+    "lanes": [
+      "dev-tools/editors",
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/supabase-community/postgres-language-server",
+    "sha": "38f6ac908da8cd93ecd1a762023abbd075745cbf",
+    "file_url": "https://cdn.jsdelivr.net/gh/supabase-community/postgres-language-server@38f6ac908da8cd93ecd1a762023abbd075745cbf/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 5262,
+    "size_mb": 43,
+    "created_at": "2023-05-17T19:23:15Z",
+    "last_commit_at": "2026-11-09T17:45:59Z",
+    "releases": 46,
+    "tags": 48,
+    "archived": false,
+    "release": {
+      "tag": "0.28.2",
+      "at": "2026-10-14T06:24:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

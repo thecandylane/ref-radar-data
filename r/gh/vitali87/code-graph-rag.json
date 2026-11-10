@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:22444ca64a6d0b246f00996f47ec376f32267264"
+  },
   "id": "gh:vitali87/code-graph-rag",
   "kind": "repo",
   "url": "https://github.com/vitali87/code-graph-rag",
@@ -39,15 +42,15 @@
     "lang": "Python",
     "license": "MIT",
     "stars": 5347,
-    "size_mb": 590,
+    "size_mb": 589,
     "created_at": "2025-06-16T14:31:57Z",
-    "last_commit_at": "2026-11-09T00:22:57Z",
-    "releases": 39,
-    "tags": 1165,
+    "last_commit_at": "2026-11-09T21:16:37Z",
+    "releases": 40,
+    "tags": 1168,
     "archived": false,
     "release": {
-      "tag": "v0.6.0",
-      "at": "2026-11-08T13:07:04.000Z"
+      "tag": "v0.6.30",
+      "at": "2026-11-09T16:53:05.000Z"
     }
   },
   "reuse": "copy",
@@ -58,8 +61,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 37,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated",
+  "hot": true
 }

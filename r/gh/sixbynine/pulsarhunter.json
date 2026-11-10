@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9e87c36c158994a136f4d64f20428df7825ab9af"
+  },
+  "id": "gh:sixbynine/pulsarhunter",
+  "kind": "repo",
+  "url": "https://github.com/SixByNine/pulsarhunter",
+  "title": "pulsarhunter",
+  "why": "Java pulsar search code with the JReaper tool, plus build scripts and recipes for processing observations.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SixByNine/pulsarhunter",
+    "sha": "9e87c36c158994a136f4d64f20428df7825ab9af",
+    "file_url": "https://cdn.jsdelivr.net/gh/SixByNine/pulsarhunter@9e87c36c158994a136f4d64f20428df7825ab9af/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "GPL-2.0",
+    "stars": 3,
+    "size_mb": 1,
+    "created_at": "2009-01-12T23:14:51Z",
+    "last_commit_at": "2012-10-02T05:30:28Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

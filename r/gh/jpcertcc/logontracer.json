@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:638c1a4e6095cbf530ada057e7403ff8636f601c"
+  },
+  "id": "gh:jpcertcc/logontracer",
+  "kind": "repo",
+  "url": "https://github.com/JPCERTCC/LogonTracer",
+  "title": "LogonTracer",
+  "why": "Graphs Windows event logs from Active Directory so an analyst can spot suspicious logons, with sigma rules and Docker setups.",
+  "keys": {
+    "races": [
+      "cyber/detection"
+    ],
+    "lanes": [
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/JPCERTCC/LogonTracer",
+    "sha": "638c1a4e6095cbf530ada057e7403ff8636f601c",
+    "file_url": "https://cdn.jsdelivr.net/gh/JPCERTCC/LogonTracer@638c1a4e6095cbf530ada057e7403ff8636f601c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 3303,
+    "size_mb": 13,
+    "created_at": "2017-11-24T06:07:49Z",
+    "last_commit_at": "2026-08-02T02:31:30Z",
+    "releases": 21,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.0",
+      "at": "2026-04-22T15:21:00.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:28687b437c4bcc406d700e7edbc2c2a52d27adc8"
+  },
+  "id": "gh:go-ole/go-ole",
+  "kind": "repo",
+  "url": "https://github.com/go-ole/go-ole",
+  "title": "go-ole",
+  "why": "Calls Windows COM and OLE objects from Go, with idispatch wrappers, safearray handling and oleutil helpers.",
+  "keys": {
+    "races": [
+      "systems/os"
+    ],
+    "lanes": [
+      "systems/os"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/go-ole/go-ole",
+    "sha": "28687b437c4bcc406d700e7edbc2c2a52d27adc8",
+    "file_url": "https://cdn.jsdelivr.net/gh/go-ole/go-ole@28687b437c4bcc406d700e7edbc2c2a52d27adc8/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 1327,
+    "size_mb": 1,
+    "created_at": "2011-01-21T12:45:20Z",
+    "last_commit_at": "2026-10-12T16:23:11Z",
+    "releases": 7,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.0",
+      "at": "2023-08-15T20:28:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

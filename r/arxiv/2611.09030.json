@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.09030",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.09030",
+  "title": "A Controlled Study of Models, Skills, Feedback, and Curriculum in Agentic Robotics",
+  "why": "Controlled simulation study of coding agents writing robot policies, varying model, skills, feedback and curriculum over 28K rollouts.",
+  "keys": {
+    "races": [
+      "embedded/robotics",
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "embedded/robotics",
+      "agents/coding",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.09030"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

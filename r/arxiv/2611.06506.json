@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.06506",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.06506",
+  "title": "Trace2Eval: Contextualized Evaluation of Coding Agents from Real-World Traces",
+  "why": "Builds coding-agent benchmarks from real user traces by recovering the query, restoring the workspace and scoring artifacts with calibrated rubrics.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "agents/coding"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.06506"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

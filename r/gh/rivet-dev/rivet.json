@@ -1,0 +1,58 @@
+{
+  "id": "gh:rivet-dev/rivet",
+  "kind": "repo",
+  "url": "https://github.com/rivet-dev/rivet",
+  "title": "rivet",
+  "why": "Runs agent workloads as actors on serverless infrastructure in Rust, with SDKs for TypeScript, Python and Swift.",
+  "keys": {
+    "races": [
+      "infra/serverless",
+      "agents/orchestration"
+    ],
+    "lanes": [
+      "infra/serverless",
+      "agents/orchestration"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rivet-dev/rivet",
+    "sha": "8e0ac0785c85cb28839bb7c7189a75a8368dd33c",
+    "file_url": "https://cdn.jsdelivr.net/gh/rivet-dev/rivet@8e0ac0785c85cb28839bb7c7189a75a8368dd33c/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 6825,
+    "size_mb": 416,
+    "created_at": "2023-06-16T11:51:15Z",
+    "last_commit_at": "2026-11-10T01:36:12Z",
+    "releases": 135,
+    "tags": 136,
+    "archived": false,
+    "release": {
+      "tag": "v3.0.7",
+      "at": "2026-11-09T21:58:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "gh:mirohallo/stochastic-amplif-model",
+  "kind": "repo",
+  "url": "https://github.com/MiroHallo/stochastic-amplif-model",
+  "title": "stochastic-amplif-model",
+  "why": "Monte Carlo perturbation of a transfer function to model site amplification and its uncertainty for seismic hazard work, in MATLAB.",
+  "keys": {
+    "races": [
+      "engineering/subsurface",
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/subsurface",
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MiroHallo/stochastic-amplif-model",
+    "sha": "091bccaf9734dbde0c7b3336e25952d78b7015dd",
+    "file_url": "https://cdn.jsdelivr.net/gh/MiroHallo/stochastic-amplif-model@091bccaf9734dbde0c7b3336e25952d78b7015dd/{path}"
+  },
+  "facts": {
+    "lang": "MATLAB",
+    "license": "GPL-3.0",
+    "stars": 2,
+    "size_mb": 24,
+    "created_at": "2026-04-08T08:52:57Z",
+    "last_commit_at": "2026-05-18T01:29:01Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v1.4.1",
+      "at": "2026-04-20T03:16:41.000Z"
+    },
+    "doi": "10.5281/zenodo.19657192",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.03575",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.03575",
+  "title": "VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably",
+  "why": "Benchmark that scores coding agents on both task tests and executable harm tests, exposing side effects like deleted files that success metrics miss.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "agents/coding",
+      "cyber/agent-security"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "agents/coding",
+      "cyber/agent-security"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.03575"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

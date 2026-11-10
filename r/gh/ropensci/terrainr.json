@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:333db1ceedea5d1cf8cc8050a6dcb6bfeb66707f"
+  },
+  "id": "gh:ropensci/terrainr",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/terrainr",
+  "title": "terrainr",
+  "why": "R workflow for terrain: download USGS National Map DEMs, georeference and merge rasters, then render in Unity 3D.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/terrainr",
+    "sha": "333db1ceedea5d1cf8cc8050a6dcb6bfeb66707f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/terrainr@333db1ceedea5d1cf8cc8050a6dcb6bfeb66707f/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 78,
+    "size_mb": 47,
+    "created_at": "2020-09-08T15:10:39Z",
+    "last_commit_at": "2025-07-25T11:56:04Z",
+    "releases": 17,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.5",
+      "at": "2023-10-04T13:14:54.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

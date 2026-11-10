@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9a5996a9e7112a7df905530b6abb65ac180cc43a"
+  },
+  "id": "gh:ropensci/phonfieldwork",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/phonfieldwork",
+  "title": "phonfieldwork",
+  "why": "R package that converts between annotation formats such as Praat TextGrid, ELAN, EXMARaLDA and Audacity labels for fieldwork recordings.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/phonfieldwork",
+    "sha": "9a5996a9e7112a7df905530b6abb65ac180cc43a",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/phonfieldwork@9a5996a9e7112a7df905530b6abb65ac180cc43a/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "GPL-2.0",
+    "stars": 20,
+    "size_mb": 66,
+    "created_at": "2019-06-27T08:17:57Z",
+    "last_commit_at": "2024-07-29T17:18:30Z",
+    "releases": 12,
+    "tags": 12,
+    "archived": false,
+    "release": {
+      "tag": "v0.0.17",
+      "at": "2024-07-29T17:59:26.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

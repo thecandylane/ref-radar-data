@@ -1,0 +1,62 @@
+{
+  "id": "gh:alucardiio-yt/aio-mod-updater",
+  "kind": "repo",
+  "url": "https://github.com/alucardiio-yt/AIO-MOD-Updater",
+  "title": "AIO-MOD-Updater",
+  "why": "Switch app that runs payload-based updates, browses files and installs over USB with MTP, set up by copying one folder to the microSD card.",
+  "keys": {
+    "races": [
+      "desktop/packaging",
+      "embedded/firmware"
+    ],
+    "lanes": [
+      "desktop/packaging",
+      "embedded/firmware"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/alucardiio-yt/AIO-MOD-Updater",
+    "sha": "ce1e2f4c72b35a064f47995d1e80a0cb8948bb0e",
+    "file_url": "https://cdn.jsdelivr.net/gh/alucardiio-yt/AIO-MOD-Updater@ce1e2f4c72b35a064f47995d1e80a0cb8948bb0e/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-3.0",
+    "stars": 94,
+    "size_mb": 5,
+    "created_at": "2026-03-06T03:58:17Z",
+    "last_commit_at": "2026-11-09T07:58:11Z",
+    "releases": 8,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "v5.3",
+      "at": "2026-11-09T08:00:52.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

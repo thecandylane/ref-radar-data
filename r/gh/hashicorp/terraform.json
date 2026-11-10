@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:eb0970714fb46d61775d003f8db43642814f6f78"
+  },
   "id": "gh:hashicorp/terraform",
   "kind": "repo",
   "url": "https://github.com/hashicorp/terraform",
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "Go",
     "license": "NOASSERTION",
-    "stars": 50174,
-    "size_mb": 354,
+    "stars": 50188,
+    "size_mb": 353,
     "created_at": "2014-03-13T22:25:48Z",
-    "last_commit_at": "2026-11-06T17:20:49Z",
+    "last_commit_at": "2026-11-09T21:57:40Z",
     "releases": 452,
     "tags": 483,
     "archived": false,
@@ -55,5 +58,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:35b3dbec3a5a6102889772c2c46c8ee493564572"
+  },
+  "id": "gh:pyca/bcrypt",
+  "kind": "repo",
+  "url": "https://github.com/pyca/bcrypt",
+  "title": "bcrypt",
+  "why": "Hashes and checks passwords with bcrypt from Python, for applications and servers that keep user logins.",
+  "keys": {
+    "races": [
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/identity"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pyca/bcrypt",
+    "sha": "35b3dbec3a5a6102889772c2c46c8ee493564572",
+    "file_url": "https://cdn.jsdelivr.net/gh/pyca/bcrypt@35b3dbec3a5a6102889772c2c46c8ee493564572/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 1508,
+    "size_mb": 1,
+    "created_at": "2013-05-11T02:03:55Z",
+    "last_commit_at": "2026-11-09T04:15:36Z",
+    "releases": 0,
+    "tags": 28,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:63f7d710f0d921e0e950befdae6342a13e8d609f"
+  },
+  "id": "gh:tweber-ill/ill_mirror-takin2-mnsi",
+  "kind": "repo",
+  "url": "https://github.com/tweber-ill/ill_mirror-takin2-mnsi",
+  "title": "ill_mirror-takin2-mnsi",
+  "why": "Mirror of an ILL repo with C++ source, data and eval folders for the takin2 MnSi work.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tweber-ill/ill_mirror-takin2-mnsi",
+    "sha": "63f7d710f0d921e0e950befdae6342a13e8d609f",
+    "file_url": "https://cdn.jsdelivr.net/gh/tweber-ill/ill_mirror-takin2-mnsi@63f7d710f0d921e0e950befdae6342a13e8d609f/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-2.0",
+    "stars": 0,
+    "size_mb": 2,
+    "created_at": "2020-06-25T22:54:42Z",
+    "last_commit_at": "2026-11-10T07:10:07Z",
+    "releases": 16,
+    "tags": 16,
+    "archived": false,
+    "release": {
+      "tag": "ver-1.1.5",
+      "at": "2022-12-22T19:06:58.000Z"
+    },
+    "doi": "10.5281/zenodo.6481422"
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

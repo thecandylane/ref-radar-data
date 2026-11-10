@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:e57eda6102a19444538ebd611d39534fad65b663"
-  },
   "id": "gh:cathrynlavery/diagram-design",
   "kind": "repo",
   "url": "https://github.com/cathrynlavery/diagram-design",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/cathrynlavery/diagram-design",
-    "sha": "e57eda6102a19444538ebd611d39534fad65b663",
-    "file_url": "https://cdn.jsdelivr.net/gh/cathrynlavery/diagram-design@e57eda6102a19444538ebd611d39534fad65b663/{path}"
+    "sha": "6a7f19fcc132b39b126bea90167679b46b14bcc4",
+    "file_url": "https://cdn.jsdelivr.net/gh/cathrynlavery/diagram-design@6a7f19fcc132b39b126bea90167679b46b14bcc4/{path}"
   },
   "facts": {
     "lang": "HTML",
     "license": "MIT",
-    "stars": 65971,
+    "stars": 66184,
     "size_mb": 38,
     "created_at": "2026-04-16T18:01:16Z",
-    "last_commit_at": "2026-11-09T03:16:50Z",
+    "last_commit_at": "2026-11-09T22:22:38Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -52,9 +49,10 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 1798,
+    "star_delta_7d": 1701,
     "votes": {},
     "ranks": {}
   },
+  "tier": "curated",
   "hot": true
 }

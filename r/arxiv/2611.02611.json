@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.02611",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.02611",
+  "title": "Where Does MCP Security End? A Three-Tier Mitigation Mapping Framework for the OWASP MCP Top 10",
+  "why": "Maps the OWASP MCP Top 10 onto server, gateway and protocol tiers so MCP server builders know which risks they can fix themselves.",
+  "keys": {
+    "races": [
+      "cyber/agent-security",
+      "agents/tools"
+    ],
+    "lanes": [
+      "cyber/agent-security",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.02611"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

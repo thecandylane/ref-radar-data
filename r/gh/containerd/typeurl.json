@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:56bbe3e3f34dc22ad5135eaf4d4044306401e03d"
+  },
+  "id": "gh:containerd/typeurl",
+  "kind": "repo",
+  "url": "https://github.com/containerd/typeurl",
+  "title": "typeurl",
+  "why": "Registers Go types under a type URL so they marshal into protobuf.Any and unmarshal back, via types.go.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/containerd/typeurl",
+    "sha": "56bbe3e3f34dc22ad5135eaf4d4044306401e03d",
+    "file_url": "https://cdn.jsdelivr.net/gh/containerd/typeurl@56bbe3e3f34dc22ad5135eaf4d4044306401e03d/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 55,
+    "size_mb": 0,
+    "created_at": "2017-09-11T20:24:33Z",
+    "last_commit_at": "2026-06-09T09:02:36Z",
+    "releases": 7,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "v2.3.0",
+      "at": "2026-05-27T21:25:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

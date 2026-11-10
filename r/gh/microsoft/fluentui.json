@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:19e2d5cd2bf81a2406327709b8856242ec38a966"
+  },
+  "id": "gh:microsoft/fluentui",
+  "kind": "repo",
+  "url": "https://github.com/microsoft/fluentui",
+  "title": "fluentui",
+  "why": "Microsoft React and web component packages for building apps, with AGENTS.md and CLAUDE.md steering agent work.",
+  "keys": {
+    "races": [
+      "web/ui-components"
+    ],
+    "lanes": [
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microsoft/fluentui",
+    "sha": "19e2d5cd2bf81a2406327709b8856242ec38a966",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/fluentui@19e2d5cd2bf81a2406327709b8856242ec38a966/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 20398,
+    "size_mb": 852,
+    "created_at": "2016-06-06T15:03:44Z",
+    "last_commit_at": "2026-11-10T04:11:25Z",
+    "releases": 1000,
+    "tags": 34868,
+    "archived": false,
+    "release": {
+      "tag": "@fluentui/react-provider_v9.22.23",
+      "at": "2026-10-29T01:05:26.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

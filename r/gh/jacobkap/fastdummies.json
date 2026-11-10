@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c37445de14dc3b6ad3ce892307f6f4d4cbcc908a"
+  },
+  "id": "gh:jacobkap/fastdummies",
+  "kind": "repo",
+  "url": "https://github.com/jacobkap/fastDummies",
+  "title": "fastDummies",
+  "why": "Turns categorical columns into dummy variables in R and adds dummy rows, a fast data preparation step before modelling.",
+  "keys": {
+    "races": [
+      "data/pipelines",
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/pipelines",
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jacobkap/fastDummies",
+    "sha": "c37445de14dc3b6ad3ce892307f6f4d4cbcc908a",
+    "file_url": "https://cdn.jsdelivr.net/gh/jacobkap/fastDummies@c37445de14dc3b6ad3ce892307f6f4d4cbcc908a/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 42,
+    "size_mb": 47,
+    "created_at": "2017-04-20T19:32:18Z",
+    "last_commit_at": "2026-04-22T15:25:39Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

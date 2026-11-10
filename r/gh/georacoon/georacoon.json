@@ -1,0 +1,66 @@
+{
+  "id": "gh:georacoon/georacoon",
+  "kind": "repo",
+  "url": "https://github.com/GeoRacoon/GeoRacoon",
+  "title": "GeoRacoon",
+  "why": "Python library that runs convolution and model fitting on raster data in parallel, with asv benchmarks and a JOSS paper.",
+  "keys": {
+    "races": [
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/GeoRacoon/GeoRacoon",
+    "sha": "9657df183349c13d6e82e01148252cdb770dc5b0",
+    "file_url": "https://cdn.jsdelivr.net/gh/GeoRacoon/GeoRacoon@9657df183349c13d6e82e01148252cdb770dc5b0/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 20,
+    "size_mb": 187,
+    "created_at": "2025-08-04T11:00:13Z",
+    "last_commit_at": "2026-10-08T11:43:48Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "1.1.0",
+      "at": "2026-10-08T11:54:42.000Z"
+    },
+    "doi": "10.21105/joss.10797",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

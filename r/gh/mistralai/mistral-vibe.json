@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:338ad4bf0f73c4dd879d667cf7ab011555ae1751"
+  },
+  "id": "gh:mistralai/mistral-vibe",
+  "kind": "repo",
+  "url": "https://github.com/mistralai/mistral-vibe",
+  "title": "mistral-vibe",
+  "why": "Mistral's terminal coding agent, shipped as a Python package with an ACP server build, pyinstaller bundles and a Nix flake.",
+  "keys": {
+    "races": [
+      "agents/coding"
+    ],
+    "lanes": [
+      "agents/coding"
+    ],
+    "capabilities": [
+      "agents/coding/cli-agents"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mistralai/mistral-vibe",
+    "sha": "338ad4bf0f73c4dd879d667cf7ab011555ae1751",
+    "file_url": "https://cdn.jsdelivr.net/gh/mistralai/mistral-vibe@338ad4bf0f73c4dd879d667cf7ab011555ae1751/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 5356,
+    "size_mb": 27,
+    "created_at": "2025-12-08T18:56:59Z",
+    "last_commit_at": "2026-11-09T17:54:17Z",
+    "releases": 100,
+    "tags": 100,
+    "archived": false,
+    "release": {
+      "tag": "v3.1.1",
+      "at": "2026-11-09T17:56:02.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

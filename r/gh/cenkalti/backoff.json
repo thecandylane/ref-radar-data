@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ce2ae81589e4316be0722e20928b2f9a6d28335a"
+  },
+  "id": "gh:cenkalti/backoff",
+  "kind": "repo",
+  "url": "https://github.com/cenkalti/backoff",
+  "title": "backoff",
+  "why": "Go retry helper with exponential backoff, plus ticker and timer variants for loops.",
+  "keys": {
+    "races": [
+      "practice/reliability"
+    ],
+    "lanes": [
+      "practice/reliability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cenkalti/backoff",
+    "sha": "ce2ae81589e4316be0722e20928b2f9a6d28335a",
+    "file_url": "https://cdn.jsdelivr.net/gh/cenkalti/backoff@ce2ae81589e4316be0722e20928b2f9a6d28335a/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 4096,
+    "size_mb": 0,
+    "created_at": "2014-02-26T00:00:16Z",
+    "last_commit_at": "2026-11-07T15:43:51Z",
+    "releases": 0,
+    "tags": 35,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

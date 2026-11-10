@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a6d70c8a14f414503c9650d15e41e750a0c5b3c8"
+  },
+  "id": "gh:bmbolstad/affyio",
+  "kind": "repo",
+  "url": "https://github.com/bmbolstad/affyio",
+  "title": "affyio",
+  "why": "Small C and R package for reading Affymetrix array data files into R.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bmbolstad/affyio",
+    "sha": "a6d70c8a14f414503c9650d15e41e750a0c5b3c8",
+    "file_url": "https://cdn.jsdelivr.net/gh/bmbolstad/affyio@a6d70c8a14f414503c9650d15e41e750a0c5b3c8/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 4,
+    "size_mb": 0,
+    "created_at": "2014-08-31T21:46:01Z",
+    "last_commit_at": "2026-04-28T12:30:01Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

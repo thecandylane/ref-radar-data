@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8306f67f5c9e3179893040c7787ec1cfebbe3604"
+  },
+  "id": "gh:mrtommyb/ktransit",
+  "kind": "repo",
+  "url": "https://github.com/mrtommyb/ktransit",
+  "title": "ktransit",
+  "why": "Models the light-curve dip of an exoplanet transiting its star, as a simple Python tool.",
+  "keys": {
+    "races": [
+      "engineering/simulation",
+      "data/analytics"
+    ],
+    "lanes": [
+      "engineering/simulation",
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mrtommyb/ktransit",
+    "sha": "8306f67f5c9e3179893040c7787ec1cfebbe3604",
+    "file_url": "https://cdn.jsdelivr.net/gh/mrtommyb/ktransit@8306f67f5c9e3179893040c7787ec1cfebbe3604/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "GPL-3.0",
+    "stars": 50,
+    "size_mb": 0,
+    "created_at": "2013-06-18T19:04:06Z",
+    "last_commit_at": "2018-04-23T19:09:12Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cfc0b30b6106a118021f6c72f9aa85191bfb3fdb"
+  },
+  "id": "gh:sem-in-r/seminr",
+  "kind": "repo",
+  "url": "https://github.com/sem-in-r/seminr",
+  "title": "seminr",
+  "why": "Builds models of constructs in R through a domain-specific language, estimated by covariance-based methods or partial least squares.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sem-in-r/seminr",
+    "sha": "cfc0b30b6106a118021f6c72f9aa85191bfb3fdb",
+    "file_url": "https://cdn.jsdelivr.net/gh/sem-in-r/seminr@cfc0b30b6106a118021f6c72f9aa85191bfb3fdb/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 79,
+    "size_mb": 10,
+    "created_at": "2016-10-11T04:58:23Z",
+    "last_commit_at": "2026-10-20T08:43:52Z",
+    "releases": 3,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v2.6.0",
+      "at": "2026-10-14T08:48:24.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:51ef3de413d8f673690b2c7d47a73928f59b92df"
+  },
+  "id": "gh:crossterm-rs/examples",
+  "kind": "repo",
+  "url": "https://github.com/crossterm-rs/examples",
+  "title": "examples",
+  "why": "Sample Rust programs for the crossterm library, including a snake game and a first depth search, to copy terminal handling from.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/crossterm-rs/examples",
+    "sha": "51ef3de413d8f673690b2c7d47a73928f59b92df",
+    "file_url": "https://cdn.jsdelivr.net/gh/crossterm-rs/examples@51ef3de413d8f673690b2c7d47a73928f59b92df/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 6,
+    "size_mb": 0,
+    "created_at": "2019-09-25T07:26:29Z",
+    "last_commit_at": "2019-12-10T20:11:46Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": true,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

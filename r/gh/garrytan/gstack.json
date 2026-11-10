@@ -1,0 +1,65 @@
+{
+  "id": "gh:garrytan/gstack",
+  "kind": "repo",
+  "url": "https://github.com/garrytan/gstack",
+  "title": "gstack",
+  "why": "Packages Garry Tan's Claude Code setup as 23 slash-command skills covering CEO, design, QA, release and other team roles.",
+  "keys": {
+    "races": [
+      "agents/skills",
+      "agents/coding"
+    ],
+    "lanes": [
+      "agents/skills",
+      "agents/coding"
+    ],
+    "capabilities": [
+      "agents/skills/agent-configs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/garrytan/gstack",
+    "sha": "3c7ff030b2c0eb16a4ae34328e89e1ea24da52bc",
+    "file_url": "https://cdn.jsdelivr.net/gh/garrytan/gstack@3c7ff030b2c0eb16a4ae34328e89e1ea24da52bc/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 141014,
+    "size_mb": 262,
+    "created_at": "2026-03-11T21:22:45Z",
+    "last_commit_at": "2026-11-10T07:58:50Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v1.99.0.0",
+      "at": "2026-11-10T01:29:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:83c03d317378f86f0a012f7c4cd48b6243c7e69b"
+  },
+  "id": "gh:zai-org/glm-5",
+  "kind": "repo",
+  "url": "https://github.com/zai-org/GLM-5",
+  "title": "GLM-5",
+  "why": "Open model release aimed at long-horizon agentic coding, with example code and a skills folder in the repo.",
+  "keys": {
+    "races": [
+      "ml/open-models",
+      "agents/coding"
+    ],
+    "lanes": [
+      "ml/open-models",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zai-org/GLM-5",
+    "sha": "83c03d317378f86f0a012f7c4cd48b6243c7e69b",
+    "file_url": "https://cdn.jsdelivr.net/gh/zai-org/GLM-5@83c03d317378f86f0a012f7c4cd48b6243c7e69b/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "Apache-2.0",
+    "stars": 7444,
+    "size_mb": 11,
+    "created_at": "2026-02-09T08:17:02Z",
+    "last_commit_at": "2026-10-15T01:36:08Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

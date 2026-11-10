@@ -1,0 +1,56 @@
+{
+  "id": "gh:jniedballa/camtrapr",
+  "kind": "repo",
+  "url": "https://github.com/jniedballa/camtrapR",
+  "title": "camtrapR",
+  "why": "Organises camera trap records for wildlife studies in R and prepares them for occupancy and spatial capture-recapture models.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jniedballa/camtrapR",
+    "sha": "e66f4eec8e0f3db81509b15ebc6432e92ad389c0",
+    "file_url": "https://cdn.jsdelivr.net/gh/jniedballa/camtrapR@e66f4eec8e0f3db81509b15ebc6432e92ad389c0/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 45,
+    "size_mb": 65,
+    "created_at": "2018-09-07T12:36:39Z",
+    "last_commit_at": "2026-10-03T05:28:37Z",
+    "releases": 3,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "camtrapR_v3.1.0",
+      "at": "2026-07-28T10:36:27.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

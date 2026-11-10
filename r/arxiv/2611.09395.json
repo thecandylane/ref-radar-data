@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.09395",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.09395",
+  "title": "Tracybot: Preserving Developer Intent by Tracing Agent-Generated Code to Prompts",
+  "why": "Maps line-level changes from agent-generated code to the planning and build prompts behind them, for code review in VS Code.",
+  "keys": {
+    "races": [
+      "dev-tools/vcs",
+      "agents/coding"
+    ],
+    "lanes": [
+      "dev-tools/vcs",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.09395"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

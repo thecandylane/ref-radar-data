@@ -1,0 +1,74 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2785600585d28f54833df2679b0399cdf8fd52ad"
+  },
+  "id": "gh:rabbitstack/fibratus",
+  "kind": "repo",
+  "url": "https://github.com/rabbitstack/fibratus",
+  "title": "fibratus",
+  "why": "Windows security sensor that watches kernel events through ETW and matches them against a folder of detection rules in realtime.",
+  "keys": {
+    "races": [
+      "cyber/detection",
+      "infra/observability"
+    ],
+    "lanes": [
+      "cyber/detection",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rabbitstack/fibratus",
+    "sha": "2785600585d28f54833df2679b0399cdf8fd52ad",
+    "file_url": "https://cdn.jsdelivr.net/gh/rabbitstack/fibratus@2785600585d28f54833df2679b0399cdf8fd52ad/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "NOASSERTION",
+    "stars": 2567,
+    "size_mb": 42,
+    "created_at": "2016-03-25T11:28:46Z",
+    "last_commit_at": "2026-11-09T19:17:45Z",
+    "releases": 28,
+    "tags": 31,
+    "archived": false,
+    "release": {
+      "tag": "v3.1.1",
+      "at": "2026-08-19T16:53:23.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3dfbc2db650ff47cf10d8cbf089881405f08e6f4"
+  },
+  "id": "gh:tylous/sniffair",
+  "kind": "repo",
+  "url": "https://github.com/Tylous/SniffAir",
+  "title": "SniffAir",
+  "why": "Loads wireless capture data, whether from pcap files or sniffed live, into a queryable SQL database with modules for staging wireless attacks.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "infra/networking"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Tylous/SniffAir",
+    "sha": "3dfbc2db650ff47cf10d8cbf089881405f08e6f4",
+    "file_url": "https://cdn.jsdelivr.net/gh/Tylous/SniffAir@3dfbc2db650ff47cf10d8cbf089881405f08e6f4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1244,
+    "size_mb": 12,
+    "created_at": "2017-02-20T18:32:32Z",
+    "last_commit_at": "2020-10-14T04:00:26Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "V3.0",
+      "at": "2018-09-07T02:48:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

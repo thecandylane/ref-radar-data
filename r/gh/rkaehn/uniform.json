@@ -1,0 +1,65 @@
+{
+  "id": "gh:rkaehn/uniform",
+  "kind": "repo",
+  "url": "https://github.com/rkaehn/uniform",
+  "title": "uniform",
+  "why": "Renders interface layouts with Metal on Apple platforms and WebGPU on the web, using constraint-based layout computed in fixed-point arithmetic.",
+  "keys": {
+    "races": [
+      "desktop/native-ui",
+      "games/graphics",
+      "web/ui-components"
+    ],
+    "lanes": [
+      "desktop/native-ui",
+      "games/graphics",
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rkaehn/uniform",
+    "sha": "7ee5239b3e5f0f78082c43b7566bba5badefb891",
+    "file_url": "https://cdn.jsdelivr.net/gh/rkaehn/uniform@7ee5239b3e5f0f78082c43b7566bba5badefb891/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 34,
+    "size_mb": 5,
+    "created_at": "2026-07-16T10:40:18Z",
+    "last_commit_at": "2026-11-08T04:08:34Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.1",
+      "at": "2026-10-29T08:49:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

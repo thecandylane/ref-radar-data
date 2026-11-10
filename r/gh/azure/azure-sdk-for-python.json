@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:23ba0ef99c916c6c01a8099397f7cf074fcff979"
+  },
+  "id": "gh:azure/azure-sdk-for-python",
+  "kind": "repo",
+  "url": "https://github.com/Azure/azure-sdk-for-python",
+  "title": "azure-sdk-for-python",
+  "why": "Where Azure's Python client libraries get built, grouped under sdk, with an AGENTS.md for coding agents.",
+  "keys": {
+    "races": [
+      "infra/iac"
+    ],
+    "lanes": [
+      "infra/iac"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "sdk",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Azure/azure-sdk-for-python",
+    "sha": "23ba0ef99c916c6c01a8099397f7cf074fcff979",
+    "file_url": "https://raw.githubusercontent.com/Azure/azure-sdk-for-python/23ba0ef99c916c6c01a8099397f7cf074fcff979/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 5621,
+    "size_mb": 1061,
+    "created_at": "2012-04-24T16:46:12Z",
+    "last_commit_at": "2026-11-10T07:56:43Z",
+    "releases": 1000,
+    "tags": 5598,
+    "archived": false,
+    "release": {
+      "tag": "azure-mgmt-chaos_3.0.0",
+      "at": "2026-11-09T18:29:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

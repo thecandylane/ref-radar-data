@@ -1,0 +1,62 @@
+{
+  "id": "gh:coreos/rpm-ostree",
+  "kind": "repo",
+  "url": "https://github.com/coreos/rpm-ostree",
+  "title": "rpm-ostree",
+  "why": "Lets Fedora and CentOS hosts layer extra packages over an ostree image while upgrades stay atomic.",
+  "keys": {
+    "races": [
+      "systems/os",
+      "infra/containers"
+    ],
+    "lanes": [
+      "systems/os",
+      "infra/containers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/coreos/rpm-ostree",
+    "sha": "044f62272152338a4abfc20abd434a9249223a54",
+    "file_url": "https://cdn.jsdelivr.net/gh/coreos/rpm-ostree@044f62272152338a4abfc20abd434a9249223a54/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 1033,
+    "size_mb": 18,
+    "created_at": "2013-12-22T03:16:38Z",
+    "last_commit_at": "2026-11-07T13:08:32Z",
+    "releases": 86,
+    "tags": 154,
+    "archived": false,
+    "release": {
+      "tag": "v2026.3",
+      "at": "2026-09-10T17:15:17.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

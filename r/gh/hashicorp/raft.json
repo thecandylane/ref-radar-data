@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a5b469295ddc9924541477eafe34bf59a8571063"
+  },
+  "id": "gh:hashicorp/raft",
+  "kind": "repo",
+  "url": "https://github.com/hashicorp/raft",
+  "title": "raft",
+  "why": "Implements the Raft consensus protocol in Go, used to keep a log consistent across machines that might fail.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "practice/reliability"
+    ],
+    "lanes": [
+      "data/databases",
+      "practice/reliability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hashicorp/raft",
+    "sha": "a5b469295ddc9924541477eafe34bf59a8571063",
+    "file_url": "https://cdn.jsdelivr.net/gh/hashicorp/raft@a5b469295ddc9924541477eafe34bf59a8571063/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MPL-2.0",
+    "stars": 9165,
+    "size_mb": 2,
+    "created_at": "2013-11-05T00:41:20Z",
+    "last_commit_at": "2026-10-12T06:33:16Z",
+    "releases": 27,
+    "tags": 31,
+    "archived": false,
+    "release": {
+      "tag": "v1.8.0",
+      "at": "2026-09-16T14:45:55.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

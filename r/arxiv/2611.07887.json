@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.07887",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.07887",
+  "title": "A Low Similarity Score Does Not Show Independence after Source-Conditioned Repository Rewriting",
+  "why": "Tests whether a low code-similarity score proves independence, by having a coding agent rewrite copyleft repositories until one shows up.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "cyber/supply-chain"
+    ],
+    "lanes": [
+      "agents/coding",
+      "cyber/supply-chain"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.07887"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

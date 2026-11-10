@@ -1,0 +1,77 @@
+{
+  "id": "gh:checkmarx/kics",
+  "kind": "repo",
+  "url": "https://github.com/Checkmarx/kics",
+  "title": "kics",
+  "why": "Scans infrastructure-as-code for misconfigurations and compliance issues, with its checks written as Open Policy Agent queries.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "infra/iac"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "infra/iac"
+    ],
+    "capabilities": [
+      "cyber/appsec/static-analysis"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Checkmarx/kics",
+    "sha": "d9c53b0146500e61a598516fa85f1a1f175e7798",
+    "file_url": "https://cdn.jsdelivr.net/gh/Checkmarx/kics@d9c53b0146500e61a598516fa85f1a1f175e7798/{path}"
+  },
+  "facts": {
+    "lang": "Open Policy Agent",
+    "license": "Apache-2.0",
+    "stars": 2731,
+    "size_mb": 1047,
+    "created_at": "2020-07-08T21:46:15Z",
+    "last_commit_at": "2026-11-09T17:44:05Z",
+    "releases": 101,
+    "tags": 157,
+    "archived": false,
+    "release": {
+      "tag": "v2.2.1",
+      "at": "2026-11-09T13:23:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

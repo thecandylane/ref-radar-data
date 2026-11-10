@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:13749699f3e1e59383447d4ef669b88dea49403b"
+  },
+  "id": "gh:vndee/llm-sandbox",
+  "kind": "repo",
+  "url": "https://github.com/vndee/llm-sandbox",
+  "title": "llm-sandbox",
+  "why": "Executes LLM-generated code inside a sandbox from a Python library, with examples and benchmarks included.",
+  "keys": {
+    "races": [
+      "agents/sandboxes",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/sandboxes",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/sandboxes/code-sandboxes",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vndee/llm-sandbox",
+    "sha": "13749699f3e1e59383447d4ef669b88dea49403b",
+    "file_url": "https://cdn.jsdelivr.net/gh/vndee/llm-sandbox@13749699f3e1e59383447d4ef669b88dea49403b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1144,
+    "size_mb": 10,
+    "created_at": "2024-06-27T03:58:23Z",
+    "last_commit_at": "2026-11-06T03:21:05Z",
+    "releases": 47,
+    "tags": 47,
+    "archived": false,
+    "release": {
+      "tag": "0.3.46",
+      "at": "2026-10-16T03:25:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

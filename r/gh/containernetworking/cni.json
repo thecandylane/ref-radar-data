@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:42e11794c073c4a7f3db324a33d266bdd0344e58"
+  },
+  "id": "gh:containernetworking/cni",
+  "kind": "repo",
+  "url": "https://github.com/containernetworking/cni",
+  "title": "cni",
+  "why": "Defines how container runtimes call network plugins, with a spec, a Go library and a cnitool command.",
+  "keys": {
+    "races": [
+      "infra/containers",
+      "infra/networking",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "infra/containers",
+      "infra/networking",
+      "infra/kubernetes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/containernetworking/cni",
+    "sha": "42e11794c073c4a7f3db324a33d266bdd0344e58",
+    "file_url": "https://cdn.jsdelivr.net/gh/containernetworking/cni@42e11794c073c4a7f3db324a33d266bdd0344e58/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 6156,
+    "size_mb": 4,
+    "created_at": "2015-04-05T03:35:49Z",
+    "last_commit_at": "2026-10-26T15:48:03Z",
+    "releases": 26,
+    "tags": 52,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.1",
+      "at": "2026-09-03T20:19:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

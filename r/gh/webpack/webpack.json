@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:2dfc8df1d6e1437cacc811516bc45e430fc7990d"
+  },
   "id": "gh:webpack/webpack",
   "kind": "repo",
   "url": "https://github.com/webpack/webpack",
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 65996,
-    "size_mb": 159,
+    "stars": 65997,
+    "size_mb": 160,
     "created_at": "2012-03-10T10:08:14Z",
-    "last_commit_at": "2026-11-09T09:14:01Z",
+    "last_commit_at": "2026-11-09T23:32:09Z",
     "releases": 471,
     "tags": 679,
     "archived": false,
@@ -55,5 +58,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

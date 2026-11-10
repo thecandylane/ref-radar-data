@@ -1,0 +1,44 @@
+{
+  "id": "arxiv:2611.06039",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.06039",
+  "title": "Securing Web Agents with the Compile-Then-Execute Paradigm",
+  "why": "Web agent that compiles the request into a Python program before touching the site, so injected page text cannot hijack control flow.",
+  "keys": {
+    "races": [
+      "cyber/agent-security",
+      "agents/tools"
+    ],
+    "lanes": [
+      "cyber/agent-security",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "cyber/agent-security/runtime-guardrails",
+      "agents/tools/web-access"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.06039"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:88db64687355e49d27c434c3da078ede61508dcd"
+  },
+  "id": "gh:csoneson/icobra",
+  "kind": "repo",
+  "url": "https://github.com/csoneson/iCOBRA",
+  "title": "iCOBRA",
+  "why": "Calculates and plots performance metrics for methods that rank or assign features, treating the task as both ranking and classification.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/csoneson/iCOBRA",
+    "sha": "88db64687355e49d27c434c3da078ede61508dcd",
+    "file_url": "https://cdn.jsdelivr.net/gh/csoneson/iCOBRA@88db64687355e49d27c434c3da078ede61508dcd/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 18,
+    "size_mb": 21,
+    "created_at": "2015-10-12T13:53:25Z",
+    "last_commit_at": "2026-05-14T06:29:43Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

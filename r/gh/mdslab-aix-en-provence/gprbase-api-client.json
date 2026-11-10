@@ -1,0 +1,62 @@
+{
+  "id": "gh:mdslab-aix-en-provence/gprbase-api-client",
+  "kind": "repo",
+  "url": "https://github.com/MDSLab-Aix-en-Provence/gprbase-api-client",
+  "title": "gprbase-api-client",
+  "why": "Single-file GPRbase clients that list and filter ground penetrating radar datasets, and generate APA and BibTeX citations.",
+  "keys": {
+    "races": [
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MDSLab-Aix-en-Provence/gprbase-api-client",
+    "sha": "2500fa8ec40cef5e4c2535cddbf902dca9703d4b",
+    "file_url": "https://cdn.jsdelivr.net/gh/MDSLab-Aix-en-Provence/gprbase-api-client@2500fa8ec40cef5e4c2535cddbf902dca9703d4b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-08-19T08:20:18Z",
+    "last_commit_at": "2026-08-24T12:11:54Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2026-08-24T12:13:25.000Z"
+    },
+    "doi": "10.5281/zenodo.22010033",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d44d4f6e66232d716af82f00a063759e9d0e50d6"
+  },
+  "id": "gh:doctest/doctest",
+  "kind": "repo",
+  "url": "https://github.com/doctest/doctest",
+  "title": "doctest",
+  "why": "Single-header C++ testing framework covering C++11 through C++23, with CMake, Bazel and Meson build files.",
+  "keys": {
+    "races": [
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/doctest/doctest",
+    "sha": "d44d4f6e66232d716af82f00a063759e9d0e50d6",
+    "file_url": "https://cdn.jsdelivr.net/gh/doctest/doctest@d44d4f6e66232d716af82f00a063759e9d0e50d6/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 6908,
+    "size_mb": 7,
+    "created_at": "2014-08-05T21:43:51Z",
+    "last_commit_at": "2026-03-27T11:21:56Z",
+    "releases": 49,
+    "tags": 49,
+    "archived": false,
+    "release": {
+      "tag": "v2.5.3",
+      "at": "2026-07-06T21:59:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

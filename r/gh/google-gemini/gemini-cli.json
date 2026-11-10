@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:1fe22af5f800d8c3024e9968d35bb75bd09e6b79"
+  },
   "id": "gh:google-gemini/gemini-cli",
   "kind": "repo",
   "url": "https://github.com/google-gemini/gemini-cli",
@@ -37,10 +40,10 @@
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 108799,
+    "stars": 108750,
     "size_mb": 103,
     "created_at": "2025-04-17T17:04:31Z",
-    "last_commit_at": "2026-11-06T21:43:53Z",
+    "last_commit_at": "2026-11-09T22:27:15Z",
     "releases": 685,
     "tags": 703,
     "archived": false,
@@ -60,5 +63,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

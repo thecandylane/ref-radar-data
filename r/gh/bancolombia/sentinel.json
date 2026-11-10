@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:300214cb322673c04ac72bceeec88882f8dc7c0c"
+  },
+  "id": "gh:bancolombia/sentinel",
+  "kind": "repo",
+  "url": "https://github.com/bancolombia/sentinel",
+  "title": "sentinel",
+  "why": "Python log-analysis library with notebooks and examples for spotting anomalies across services.",
+  "keys": {
+    "races": [
+      "infra/observability",
+      "data/analytics"
+    ],
+    "lanes": [
+      "infra/observability",
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bancolombia/sentinel",
+    "sha": "300214cb322673c04ac72bceeec88882f8dc7c0c",
+    "file_url": "https://cdn.jsdelivr.net/gh/bancolombia/sentinel@300214cb322673c04ac72bceeec88882f8dc7c0c/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "Apache-2.0",
+    "stars": 9,
+    "size_mb": 28,
+    "created_at": "2026-02-20T13:15:59Z",
+    "last_commit_at": "2026-10-01T16:00:38Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.3",
+      "at": "2026-11-02T22:39:31.000Z"
+    },
+    "doi": "10.21105/joss.11275",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

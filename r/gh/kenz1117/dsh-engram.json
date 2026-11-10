@@ -1,0 +1,68 @@
+{
+  "id": "gh:kenz1117/dsh-engram",
+  "kind": "repo",
+  "url": "https://github.com/kenz1117/dsh-engram",
+  "title": "dsh-engram",
+  "why": "Gives DeepSeek Harness a memory that persists across sessions, searched by FTS5 plus local vectors with a provenance audit and no API keys.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "llm-infra/rag",
+      "agents/coding"
+    ],
+    "lanes": [
+      "agents/memory",
+      "llm-infra/rag",
+      "agents/coding"
+    ],
+    "capabilities": [
+      "agents/memory/long-term-memory",
+      "llm-infra/rag/vector-search",
+      "agents/coding/plugin-architectures"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kenz1117/dsh-engram",
+    "sha": "b20f7200e832140e08a582bed12c53dda49fcf22",
+    "file_url": "https://cdn.jsdelivr.net/gh/kenz1117/dsh-engram@b20f7200e832140e08a582bed12c53dda49fcf22/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 66,
+    "size_mb": 22,
+    "created_at": "2026-09-01T08:00:04Z",
+    "last_commit_at": "2026-11-07T04:48:25Z",
+    "releases": 48,
+    "tags": 60,
+    "archived": false,
+    "release": {
+      "tag": "v0.13.9",
+      "at": "2026-11-07T04:49:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

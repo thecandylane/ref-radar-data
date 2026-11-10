@@ -1,0 +1,68 @@
+{
+  "id": "gh:davide-grheco/datasplits.jl",
+  "kind": "repo",
+  "url": "https://github.com/davide-grheco/DataSplits.jl",
+  "title": "DataSplits.jl",
+  "why": "Implements several algorithms for splitting a dataset into train and test partitions, as a Julia package.",
+  "keys": {
+    "races": [
+      "data/datasets",
+      "ml/training"
+    ],
+    "lanes": [
+      "data/datasets",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/davide-grheco/DataSplits.jl",
+    "sha": "56cc13d15a6c7b638d0947a82a0de8f2ac359ed5",
+    "file_url": "https://cdn.jsdelivr.net/gh/davide-grheco/DataSplits.jl@56cc13d15a6c7b638d0947a82a0de8f2ac359ed5/{path}"
+  },
+  "facts": {
+    "lang": "Julia",
+    "license": "MIT",
+    "stars": 6,
+    "size_mb": 3,
+    "created_at": "2025-07-16T08:21:05Z",
+    "last_commit_at": "2026-10-13T09:28:07Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.1",
+      "at": "2026-10-15T09:59:30.000Z"
+    },
+    "doi": "10.21105/joss.11066",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

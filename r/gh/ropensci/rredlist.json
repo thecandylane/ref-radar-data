@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b79f10f287b004cbfa765da170df7a3154efc08f"
+  },
+  "id": "gh:ropensci/rredlist",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/rredlist",
+  "title": "rredlist",
+  "why": "Pulls species conservation status from the IUCN Red List into R through its API.",
+  "keys": {
+    "races": [
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/rredlist",
+    "sha": "b79f10f287b004cbfa765da170df7a3154efc08f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/rredlist@b79f10f287b004cbfa765da170df7a3154efc08f/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 65,
+    "size_mb": 2,
+    "created_at": "2016-01-22T23:11:17Z",
+    "last_commit_at": "2025-09-04T13:32:27Z",
+    "releases": 11,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.1",
+      "at": "2025-09-04T13:31:36.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

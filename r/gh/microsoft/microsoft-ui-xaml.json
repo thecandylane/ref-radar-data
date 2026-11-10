@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:cb1b8a602c97c7e046fd9e936f355a3a51cb24f4"
+  },
   "id": "gh:microsoft/microsoft-ui-xaml",
   "kind": "repo",
   "url": "https://github.com/microsoft/microsoft-ui-xaml",
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 8588,
-    "size_mb": 488,
+    "stars": 8592,
+    "size_mb": 489,
     "created_at": "2018-07-26T18:45:29Z",
-    "last_commit_at": "2026-11-09T06:44:44Z",
+    "last_commit_at": "2026-11-10T09:16:19Z",
     "releases": 151,
     "tags": 170,
     "archived": false,
@@ -55,5 +58,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

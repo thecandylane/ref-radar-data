@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ebdda6bbd503bfa5a96d008a6c037cd0baa1e507"
+  },
+  "id": "gh:ropensci/textreuse",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/textreuse",
+  "title": "textreuse",
+  "why": "Finds reused passages and measures similarity between documents in R, with compiled code in src for speed.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/textreuse",
+    "sha": "ebdda6bbd503bfa5a96d008a6c037cd0baa1e507",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/textreuse@ebdda6bbd503bfa5a96d008a6c037cd0baa1e507/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 200,
+    "size_mb": 4,
+    "created_at": "2015-03-14T22:05:51Z",
+    "last_commit_at": "2026-07-25T01:12:17Z",
+    "releases": 4,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.2",
+      "at": "2026-07-24T22:59:39.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

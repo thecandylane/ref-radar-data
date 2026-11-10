@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3b76454408bb083152f40da12931c57e9385bac6"
+  },
+  "id": "gh:dai-shi/react-tracked",
+  "kind": "repo",
+  "url": "https://github.com/dai-shi/react-tracked",
+  "title": "react-tracked",
+  "why": "Tracks which state a React component reads using Proxies, so useState, Redux or Zustand updates re-render less.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dai-shi/react-tracked",
+    "sha": "3b76454408bb083152f40da12931c57e9385bac6",
+    "file_url": "https://cdn.jsdelivr.net/gh/dai-shi/react-tracked@3b76454408bb083152f40da12931c57e9385bac6/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 2820,
+    "size_mb": 10,
+    "created_at": "2019-06-12T11:25:51Z",
+    "last_commit_at": "2025-05-23T06:47:43Z",
+    "releases": 0,
+    "tags": 49,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

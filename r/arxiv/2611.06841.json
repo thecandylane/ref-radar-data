@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.06841",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.06841",
+  "title": "ServerBench: How can your coding agents design specialized LLM serving systems?",
+  "why": "Benchmark where coding agents design LLM serving systems, with stateful replay and independent verification of each submitted system.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "agents/coding",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "agents/coding",
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.06841"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

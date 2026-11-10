@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:99ebbc3790bb36b1ba6e4990d7f9f6a64c261c6e"
+  },
+  "id": "gh:wrathematics/ngram",
+  "kind": "repo",
+  "url": "https://github.com/wrathematics/ngram",
+  "title": "ngram",
+  "why": "Splits text into n-grams from R with a C core, aimed at text mining.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wrathematics/ngram",
+    "sha": "99ebbc3790bb36b1ba6e4990d7f9f6a64c261c6e",
+    "file_url": "https://cdn.jsdelivr.net/gh/wrathematics/ngram@99ebbc3790bb36b1ba6e4990d7f9f6a64c261c6e/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 74,
+    "size_mb": 2,
+    "created_at": "2014-05-06T15:28:07Z",
+    "last_commit_at": "2023-12-10T18:39:46Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v3.2.0",
+      "at": "2021-11-01T13:13:07.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "gh:rybbit-io/rybbit",
+  "kind": "repo",
+  "url": "https://github.com/rybbit-io/rybbit",
+  "title": "rybbit",
+  "why": "Runs product and web analytics on your own server with ClickHouse and Docker compose, as a privacy-friendly Google Analytics replacement.",
+  "keys": {
+    "races": [
+      "data/analytics",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "data/analytics",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rybbit-io/rybbit",
+    "sha": "4288204761ed2fc801fcaa0b3bbfacd1b8cc3936",
+    "file_url": "https://cdn.jsdelivr.net/gh/rybbit-io/rybbit@4288204761ed2fc801fcaa0b3bbfacd1b8cc3936/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "AGPL-3.0",
+    "stars": 13257,
+    "size_mb": 489,
+    "created_at": "2025-01-14T17:31:13Z",
+    "last_commit_at": "2026-11-04T06:20:00Z",
+    "releases": 36,
+    "tags": 43,
+    "archived": false,
+    "release": {
+      "tag": "v2.9.2",
+      "at": "2026-10-24T02:45:42.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

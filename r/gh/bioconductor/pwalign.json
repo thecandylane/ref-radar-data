@@ -1,0 +1,57 @@
+{
+  "id": "gh:bioconductor/pwalign",
+  "kind": "repo",
+  "url": "https://github.com/Bioconductor/pwalign",
+  "title": "pwalign",
+  "why": "Pairwise sequence alignment routines for Bioconductor, with compiled code behind the R functions.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Bioconductor/pwalign",
+    "sha": "f1991c73415ec8720cbdb57673fe57cd12715c23",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/pwalign@f1991c73415ec8720cbdb57673fe57cd12715c23/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2024-03-20T16:07:07Z",
+    "last_commit_at": "2026-05-22T06:10:02Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

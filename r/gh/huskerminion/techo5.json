@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:08646053f596e9ad9870d68796fc9745960aff0f"
+  },
   "id": "gh:huskerminion/techo5",
   "kind": "repo",
   "url": "https://github.com/HuskerMinion/techo5",
@@ -36,16 +39,16 @@
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 600,
-    "size_mb": 28,
+    "stars": 612,
+    "size_mb": 36,
     "created_at": "2026-09-14T23:30:01Z",
-    "last_commit_at": "2026-11-09T01:11:39Z",
-    "releases": 156,
-    "tags": 453,
+    "last_commit_at": "2026-11-10T01:08:46Z",
+    "releases": 157,
+    "tags": 456,
     "archived": false,
     "release": {
-      "tag": "v1.6.33",
-      "at": "2026-11-09T01:09:38.000Z"
+      "tag": "v1.6.34",
+      "at": "2026-11-09T15:54:30.000Z"
     }
   },
   "reuse": "copy",
@@ -60,6 +63,7 @@
     "votes": {},
     "ranks": {}
   },
+  "tier": "curated",
   "hot": true,
   "risk": {
     "level": "caution",

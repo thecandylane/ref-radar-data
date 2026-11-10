@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:da9dbc9cfe77d8a4620b921a24d613cf8837a4e0"
+  },
+  "id": "gh:ropensci/rangr",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/rangr",
+  "title": "rangr",
+  "why": "Lets you run species range dynamics simulations from an R package with vignettes and sample data.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/rangr",
+    "sha": "da9dbc9cfe77d8a4620b921a24d613cf8837a4e0",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/rangr@da9dbc9cfe77d8a4620b921a24d613cf8837a4e0/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 3,
+    "size_mb": 14,
+    "created_at": "2023-05-26T15:19:43Z",
+    "last_commit_at": "2026-08-19T14:25:37Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.10",
+      "at": "2026-08-24T14:41:25.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

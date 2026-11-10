@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cad6be0514c3248b9465e48f1cfd2f6a4c3dfb6f"
+  },
+  "id": "gh:saezlab/progeny",
+  "kind": "repo",
+  "url": "https://github.com/saezlab/progeny",
+  "title": "progeny",
+  "why": "Infers pathway activity from gene expression in R using pathway responsive gene signatures.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/saezlab/progeny",
+    "sha": "cad6be0514c3248b9465e48f1cfd2f6a4c3dfb6f",
+    "file_url": "https://cdn.jsdelivr.net/gh/saezlab/progeny@cad6be0514c3248b9465e48f1cfd2f6a4c3dfb6f/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "Apache-2.0",
+    "stars": 131,
+    "size_mb": 49,
+    "created_at": "2016-09-08T14:29:06Z",
+    "last_commit_at": "2023-01-30T10:01:10Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

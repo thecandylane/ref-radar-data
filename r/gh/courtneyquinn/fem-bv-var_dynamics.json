@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:be80f67f3b49fd6510d739aeeb4e6415a0a5c15a"
+  },
+  "id": "gh:courtneyquinn/fem-bv-var_dynamics",
+  "kind": "repo",
+  "url": "https://github.com/CourtneyQuinn/FEM-BV-VAR_dynamics",
+  "title": "FEM-BV-VAR_dynamics",
+  "why": "Python routines that fit FEM-BV-VAR models of the North Atlantic Oscillation and compute their dynamical properties.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CourtneyQuinn/FEM-BV-VAR_dynamics",
+    "sha": "be80f67f3b49fd6510d739aeeb4e6415a0a5c15a",
+    "file_url": "https://cdn.jsdelivr.net/gh/CourtneyQuinn/FEM-BV-VAR_dynamics@be80f67f3b49fd6510d739aeeb4e6415a0a5c15a/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 2,
+    "size_mb": 0,
+    "created_at": "2020-09-18T05:21:57Z",
+    "last_commit_at": "2020-09-18T05:38:03Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.0",
+      "at": "2020-09-18T05:36:05.000Z"
+    },
+    "doi": "10.5281/zenodo.4035644",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

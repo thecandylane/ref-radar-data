@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.04367",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.04367",
+  "title": "Do Coding Agents Follow AGENTS.md? The Effect of Policy Wording on Instruction Compliance",
+  "why": "Tests whether coding agents actually follow a policy in AGENTS.md, finding conditional wording obeyed less than prescriptive or explanatory phrasing.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/skills/agent-configs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.04367"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

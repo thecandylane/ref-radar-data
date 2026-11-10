@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:084df5a7d2af76b38719af5851b114ad9ecf4d60"
+  },
+  "id": "gh:legolason/pyqsofit",
+  "kind": "repo",
+  "url": "https://github.com/legolason/PyQSOFit",
+  "title": "PyQSOFit",
+  "why": "Fits quasar spectra from Python notebooks, with example data and a source folder holding the fitting code.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/legolason/PyQSOFit",
+    "sha": "084df5a7d2af76b38719af5851b114ad9ecf4d60",
+    "file_url": "https://raw.githubusercontent.com/legolason/PyQSOFit/084df5a7d2af76b38719af5851b114ad9ecf4d60/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "GPL-3.0",
+    "stars": 85,
+    "size_mb": 418,
+    "created_at": "2018-08-30T20:52:08Z",
+    "last_commit_at": "2025-03-18T01:34:16Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v",
+      "at": "2023-08-04T10:20:17.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

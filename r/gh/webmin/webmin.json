@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:792e4d3006a3522fe80d3cf2fffe149bf2227dfd"
+  },
   "id": "gh:webmin/webmin",
   "kind": "repo",
   "url": "https://github.com/webmin/webmin",
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "HTML",
     "license": "BSD-3-Clause",
-    "stars": 6129,
+    "stars": 6133,
     "size_mb": 121,
     "created_at": "2009-07-20T22:03:42Z",
-    "last_commit_at": "2026-11-09T01:36:42Z",
+    "last_commit_at": "2026-11-10T05:41:51Z",
     "releases": 97,
     "tags": 97,
     "archived": false,
@@ -55,5 +58,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

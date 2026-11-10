@@ -1,0 +1,61 @@
+{
+  "id": "gh:ai-job-search-dev/ai-job-search",
+  "kind": "repo",
+  "url": "https://github.com/ai-job-search-dev/ai-job-search",
+  "title": "ai-job-search",
+  "why": "Claude Code setup that evaluates job postings, tailors LaTeX CVs, drafts cover letters and preps interviews on your own machine.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/assistants/personal-agents",
+      "agents/skills/agent-configs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ai-job-search-dev/ai-job-search",
+    "sha": "87d18571398f4afc367845c2dc2415be0868865f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ai-job-search-dev/ai-job-search@87d18571398f4afc367845c2dc2415be0868865f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 70952,
+    "size_mb": 6,
+    "created_at": "2026-03-18T14:33:04Z",
+    "last_commit_at": "2026-11-09T20:17:38Z",
+    "releases": 13,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v1.7.5",
+      "at": "2026-11-09T06:04:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

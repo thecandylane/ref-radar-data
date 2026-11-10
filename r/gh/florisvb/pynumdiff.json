@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:844adb9aa592e64143ba2b0cbd5df780a116fe71"
+  },
+  "id": "gh:florisvb/pynumdiff",
+  "kind": "repo",
+  "url": "https://github.com/florisvb/PyNumDiff",
+  "title": "PyNumDiff",
+  "why": "Computes numerical derivatives where the data is noisy, a case ordinary finite differences handle poorly.",
+  "keys": {
+    "races": [
+      "engineering/simulation",
+      "data/analytics"
+    ],
+    "lanes": [
+      "engineering/simulation",
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/florisvb/PyNumDiff",
+    "sha": "844adb9aa592e64143ba2b0cbd5df780a116fe71",
+    "file_url": "https://cdn.jsdelivr.net/gh/florisvb/PyNumDiff@844adb9aa592e64143ba2b0cbd5df780a116fe71/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "NOASSERTION",
+    "stars": 139,
+    "size_mb": 342,
+    "created_at": "2018-11-29T18:39:02Z",
+    "last_commit_at": "2026-11-03T17:31:36Z",
+    "releases": 11,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "v0.3",
+      "at": "2026-09-18T20:16:32.000Z"
+    },
+    "doi": "10.21105/joss.11172",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

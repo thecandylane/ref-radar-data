@@ -1,0 +1,69 @@
+{
+  "id": "gh:mobile-next/mobile-mcp",
+  "kind": "repo",
+  "url": "https://github.com/mobile-next/mobile-mcp",
+  "title": "mobile-mcp",
+  "why": "Gives agents an Appium alternative for mobile testing: drives iOS and Android apps over MCP on simulators and emulators.",
+  "keys": {
+    "races": [
+      "mobile/android",
+      "mobile/ios",
+      "agents/tools",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "mobile/android",
+      "mobile/ios",
+      "agents/tools",
+      "dev-tools/testing"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers",
+      "dev-tools/testing/e2e-testing"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mobile-next/mobile-mcp",
+    "sha": "3b51952bcd83955f3a743f731f5a9beaebecdab7",
+    "file_url": "https://cdn.jsdelivr.net/gh/mobile-next/mobile-mcp@3b51952bcd83955f3a743f731f5a9beaebecdab7/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 10464,
+    "size_mb": 4,
+    "created_at": "2025-03-28T16:21:06Z",
+    "last_commit_at": "2026-11-07T08:39:19Z",
+    "releases": 66,
+    "tags": 69,
+    "archived": false,
+    "release": {
+      "tag": "1.0.16",
+      "at": "2026-11-02T16:03:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

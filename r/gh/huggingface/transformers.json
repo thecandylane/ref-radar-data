@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:58d05ca5724a434979a9fb26d4ed65dce856b854"
+  },
   "id": "gh:huggingface/transformers",
   "kind": "repo",
   "url": "https://github.com/huggingface/transformers",
@@ -38,10 +41,10 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 168684,
-    "size_mb": 545,
+    "stars": 168727,
+    "size_mb": 549,
     "created_at": "2018-10-29T13:56:00Z",
-    "last_commit_at": "2026-11-09T08:50:03Z",
+    "last_commit_at": "2026-11-10T06:09:08Z",
     "releases": 282,
     "tags": 299,
     "archived": false,
@@ -61,5 +64,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

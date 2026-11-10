@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bc262d7bc6fde9b7231b6129da57a973d11493fb"
+  },
+  "id": "gh:adeverse/adephylo",
+  "kind": "repo",
+  "url": "https://github.com/adeverse/adephylo",
+  "title": "adephylo",
+  "why": "Explores trait data on phylogenetic trees in R before you run comparative methods.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/adeverse/adephylo",
+    "sha": "bc262d7bc6fde9b7231b6129da57a973d11493fb",
+    "file_url": "https://cdn.jsdelivr.net/gh/adeverse/adephylo@bc262d7bc6fde9b7231b6129da57a973d11493fb/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 10,
+    "size_mb": 1,
+    "created_at": "2015-08-25T10:29:53Z",
+    "last_commit_at": "2025-03-14T10:45:35Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v1.1-17",
+      "at": "2025-03-17T08:14:13.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

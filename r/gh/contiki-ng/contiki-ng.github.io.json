@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c2f5e7e70d7ca41a888436d356e5b192bfd2a3fc"
+  },
+  "id": "gh:contiki-ng/contiki-ng.github.io",
+  "kind": "repo",
+  "url": "https://github.com/contiki-ng/contiki-ng.github.io",
+  "title": "contiki-ng.github.io",
+  "why": "Source of the Contiki-NG project site, including its testbed pages plus setups, logs and runs.",
+  "keys": {
+    "races": [
+      "embedded/rtos"
+    ],
+    "lanes": [
+      "embedded/rtos"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "index.html",
+      "kind": "path"
+    },
+    {
+      "locator": "testbed",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/contiki-ng/contiki-ng.github.io",
+    "sha": "c2f5e7e70d7ca41a888436d356e5b192bfd2a3fc",
+    "file_url": "https://raw.githubusercontent.com/contiki-ng/contiki-ng.github.io/c2f5e7e70d7ca41a888436d356e5b192bfd2a3fc/{path}"
+  },
+  "facts": {
+    "lang": "CSS",
+    "license": "none",
+    "stars": 1,
+    "size_mb": 3726,
+    "created_at": "2017-10-25T09:31:55Z",
+    "last_commit_at": "2025-10-01T14:22:19Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "gh:ontologiaterritorial/puerto_umbral",
+  "kind": "repo",
+  "url": "https://github.com/OntologiaTerritorial/puerto_umbral",
+  "title": "puerto_umbral",
+  "why": "R Shiny simulator for territorial geotensors on a SQLite experiment database, with a WebGL map app and a field-data mobile app.",
+  "keys": {
+    "races": [
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OntologiaTerritorial/puerto_umbral",
+    "sha": "416509bab65793c8f6194dcaf691d55a26fc62ad",
+    "file_url": "https://cdn.jsdelivr.net/gh/OntologiaTerritorial/puerto_umbral@416509bab65793c8f6194dcaf691d55a26fc62ad/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 245,
+    "created_at": "2026-07-05T23:07:40Z",
+    "last_commit_at": "2026-09-12T16:52:08Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.1",
+      "at": "2026-07-05T23:22:41.000Z"
+    },
+    "doi": "10.5281/zenodo.21207952",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-10"
+    }
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

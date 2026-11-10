@@ -1,0 +1,60 @@
+{
+  "id": "gh:igoraugustohh/the-order-1886-pc-port",
+  "kind": "repo",
+  "url": "https://github.com/IgorAugustoHH/The-Order-1886-PC-Port",
+  "title": "The-Order-1886-PC-Port",
+  "why": "Runs The Order: 1886 natively on Windows by translating PS4 system calls and GPU commands to Vulkan, with DLSS support.",
+  "keys": {
+    "races": [
+      "games/engines",
+      "games/graphics"
+    ],
+    "lanes": [
+      "games/engines",
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/IgorAugustoHH/The-Order-1886-PC-Port",
+    "sha": "ceebdf36cd893fca1670ac72c69b900ee2e046ff",
+    "file_url": "https://cdn.jsdelivr.net/gh/IgorAugustoHH/The-Order-1886-PC-Port@ceebdf36cd893fca1670ac72c69b900ee2e046ff/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-2.0",
+    "stars": 183,
+    "size_mb": 14,
+    "created_at": "2026-10-07T10:25:37Z",
+    "last_commit_at": "2026-11-01T10:00:41Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "scan_partial": true
+}

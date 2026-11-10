@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d922417cd1ef690e66c008a3c3612f683e8e433a"
+  },
+  "id": "gh:nilbuild/developer-roadmap",
+  "kind": "repo",
+  "url": "https://github.com/nilbuild/developer-roadmap",
+  "title": "developer-roadmap",
+  "why": "Visual learning paths for frontend, backend, devops and other developer specialties, kept as editable roadmaps.",
+  "keys": {
+    "races": [
+      "learning/courses"
+    ],
+    "lanes": [
+      "learning/courses"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nilbuild/developer-roadmap",
+    "sha": "d922417cd1ef690e66c008a3c3612f683e8e433a",
+    "file_url": "https://cdn.jsdelivr.net/gh/nilbuild/developer-roadmap@d922417cd1ef690e66c008a3c3612f683e8e433a/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 371708,
+    "size_mb": 356,
+    "created_at": "2017-03-15T13:45:52Z",
+    "last_commit_at": "2026-11-10T08:10:55Z",
+    "releases": 1,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "4.0",
+      "at": "2023-01-05T18:38:46.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

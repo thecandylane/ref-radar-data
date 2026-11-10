@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:74a44c1d5694324b7fb9ba5ee9271a3096da9387"
+  },
   "id": "gh:tauri-apps/plugins-workspace",
   "kind": "repo",
   "url": "https://github.com/tauri-apps/plugins-workspace",
@@ -34,10 +37,10 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 1843,
+    "stars": 1844,
     "size_mb": 21,
     "created_at": "2022-01-22T17:40:21Z",
-    "last_commit_at": "2026-11-09T09:13:28Z",
+    "last_commit_at": "2026-11-10T08:14:29Z",
     "releases": 1000,
     "tags": 2172,
     "archived": false,
@@ -57,5 +60,6 @@
     "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
-  }
+  },
+  "tier": "curated"
 }

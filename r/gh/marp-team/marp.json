@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:95263d5a0df563633ef6611c986b34b55f936eaa"
+  },
+  "id": "gh:marp-team/marp",
+  "kind": "repo",
+  "url": "https://github.com/marp-team/marp",
+  "title": "marp",
+  "why": "Turns Markdown files into slide decks, acting as the entry point into the wider Marp presentation ecosystem.",
+  "keys": {
+    "races": [
+      "dev-tools/docs",
+      "dev-tools/editors"
+    ],
+    "lanes": [
+      "dev-tools/docs",
+      "dev-tools/editors"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/marp-team/marp",
+    "sha": "95263d5a0df563633ef6611c986b34b55f936eaa",
+    "file_url": "https://cdn.jsdelivr.net/gh/marp-team/marp@95263d5a0df563633ef6611c986b34b55f936eaa/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 12737,
+    "size_mb": 5,
+    "created_at": "2018-03-25T12:47:38Z",
+    "last_commit_at": "2026-11-07T09:29:46Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

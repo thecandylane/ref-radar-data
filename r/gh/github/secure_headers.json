@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7d322e3fda43512395e2d9a4e79cb0a5b9c1c99f"
+  },
+  "id": "gh:github/secure_headers",
+  "kind": "repo",
+  "url": "https://github.com/github/secure_headers",
+  "title": "secure_headers",
+  "why": "Sets CSP, HSTS and other security headers on Rack apps with safe defaults, so one config covers a Ruby site.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/github/secure_headers",
+    "sha": "7d322e3fda43512395e2d9a4e79cb0a5b9c1c99f",
+    "file_url": "https://cdn.jsdelivr.net/gh/github/secure_headers@7d322e3fda43512395e2d9a4e79cb0a5b9c1c99f/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "MIT",
+    "stars": 3232,
+    "size_mb": 11,
+    "created_at": "2012-12-12T01:41:57Z",
+    "last_commit_at": "2026-11-09T18:35:09Z",
+    "releases": 52,
+    "tags": 95,
+    "archived": false,
+    "release": {
+      "tag": "v7.3.0",
+      "at": "2026-06-03T11:47:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

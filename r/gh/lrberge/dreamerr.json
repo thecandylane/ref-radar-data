@@ -1,0 +1,56 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ee0086ecfeafd932a2d8600511e67862e9c02c08"
+  },
+  "id": "gh:lrberge/dreamerr",
+  "kind": "repo",
+  "url": "https://github.com/lrberge/dreamerr",
+  "title": "dreamerr",
+  "why": "Checks function arguments in R with a single line and replaces cryptic errors with messages naming the argument and expected type.",
+  "keys": {
+    "races": [
+      "dev-tools/debugging"
+    ],
+    "lanes": [
+      "dev-tools/debugging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lrberge/dreamerr",
+    "sha": "ee0086ecfeafd932a2d8600511e67862e9c02c08",
+    "file_url": "https://cdn.jsdelivr.net/gh/lrberge/dreamerr@ee0086ecfeafd932a2d8600511e67862e9c02c08/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 28,
+    "size_mb": 4,
+    "created_at": "2020-04-10T10:10:41Z",
+    "last_commit_at": "2025-04-18T13:52:27Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

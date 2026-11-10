@@ -1,0 +1,67 @@
+{
+  "id": "gh:donchitos/claude-code-game-studios",
+  "kind": "repo",
+  "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "title": "Claude-Code-Game-Studios",
+  "why": "Sets up a Claude Code session as a game studio with directors, leads and specialists, plus Godot, Unity and Unreal agent sets.",
+  "keys": {
+    "races": [
+      "games/engines",
+      "agents/orchestration",
+      "agents/skills"
+    ],
+    "lanes": [
+      "games/engines",
+      "agents/orchestration",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/orchestration/agent-teams",
+      "agents/skills/agent-configs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+    "sha": "05ad7c8a5b8aa2aa86bbd3439ae7cf7295cac418",
+    "file_url": "https://cdn.jsdelivr.net/gh/Donchitos/Claude-Code-Game-Studios@05ad7c8a5b8aa2aa86bbd3439ae7cf7295cac418/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "MIT",
+    "stars": 37788,
+    "size_mb": 5,
+    "created_at": "2026-02-12T05:21:38Z",
+    "last_commit_at": "2026-11-09T12:39:37Z",
+    "releases": 11,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.0",
+      "at": "2026-11-09T15:24:15.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

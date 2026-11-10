@@ -1,0 +1,59 @@
+{
+  "id": "gh:huahuai23/ruiqi",
+  "kind": "repo",
+  "url": "https://github.com/HUAHUAI23/RuiQi",
+  "title": "RuiQi",
+  "why": "Go backend that wires Coraza WAF into HAProxy over SPOA, with a web folder for the front end and geo-ip data.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "infra/networking"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/HUAHUAI23/RuiQi",
+    "sha": "32b359fda6ff0ce5eaa41d3123045ca5a0c89da5",
+    "file_url": "https://cdn.jsdelivr.net/gh/HUAHUAI23/RuiQi@32b359fda6ff0ce5eaa41d3123045ca5a0c89da5/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 12,
+    "size_mb": 103,
+    "created_at": "2025-06-04T02:27:50Z",
+    "last_commit_at": "2025-06-02T15:09:18Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

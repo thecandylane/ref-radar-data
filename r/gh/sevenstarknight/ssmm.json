@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9017732674cabe790325fc676c92987f6a4e32ba"
+  },
+  "id": "gh:sevenstarknight/ssmm",
+  "kind": "repo",
+  "url": "https://github.com/sevenstarknight/SSMM",
+  "title": "SSMM",
+  "why": "MATLAB code that classifies variable star signatures with slotted symbolic Markov models, for astronomy.",
+  "keys": {
+    "races": [
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sevenstarknight/SSMM",
+    "sha": "9017732674cabe790325fc676c92987f6a4e32ba",
+    "file_url": "https://cdn.jsdelivr.net/gh/sevenstarknight/SSMM@9017732674cabe790325fc676c92987f6a4e32ba/{path}"
+  },
+  "facts": {
+    "lang": "MATLAB",
+    "license": "GPL-3.0",
+    "stars": 1,
+    "size_mb": 9,
+    "created_at": "2017-03-03T19:21:17Z",
+    "last_commit_at": "2019-03-18T15:10:25Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

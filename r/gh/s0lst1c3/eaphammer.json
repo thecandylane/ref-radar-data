@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:91e8956f640b13dbf58589430cf69b1541f9528b"
+  },
+  "id": "gh:s0lst1c3/eaphammer",
+  "kind": "repo",
+  "url": "https://github.com/s0lst1c3/eaphammer",
+  "title": "eaphammer",
+  "why": "Targets WPA2-Enterprise networks with evil-twin access points and pivots through hostile portal attacks for authorized wireless testing.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/s0lst1c3/eaphammer",
+    "sha": "91e8956f640b13dbf58589430cf69b1541f9528b",
+    "file_url": "https://cdn.jsdelivr.net/gh/s0lst1c3/eaphammer@91e8956f640b13dbf58589430cf69b1541f9528b/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-3.0",
+    "stars": 2607,
+    "size_mb": 6,
+    "created_at": "2017-02-04T01:03:39Z",
+    "last_commit_at": "2024-09-22T22:36:17Z",
+    "releases": 18,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v1.14.1",
+      "at": "2024-09-22T22:40:38.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:228791fb499afffb54b46200aca536f79142f117"
+  },
+  "id": "gh:karpathy/autoresearch",
+  "kind": "repo",
+  "url": "https://github.com/karpathy/autoresearch",
+  "title": "autoresearch",
+  "why": "An agent edits the training script, runs each experiment by itself on one GPU and keeps what improves, steered by program.md.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "ml/training"
+    ],
+    "lanes": [
+      "agents/coding",
+      "ml/training"
+    ],
+    "capabilities": [
+      "agents/coding/long-running"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/karpathy/autoresearch",
+    "sha": "228791fb499afffb54b46200aca536f79142f117",
+    "file_url": "https://cdn.jsdelivr.net/gh/karpathy/autoresearch@228791fb499afffb54b46200aca536f79142f117/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 99720,
+    "size_mb": 1,
+    "created_at": "2026-03-06T22:00:43Z",
+    "last_commit_at": "2026-03-26T00:07:37Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

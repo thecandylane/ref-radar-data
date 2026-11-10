@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1ae4ddc3b21a6c21f290a1634c8be04afb9210c4"
+  },
+  "id": "gh:browserslist/browserslist",
+  "kind": "repo",
+  "url": "https://github.com/browserslist/browserslist",
+  "title": "browserslist",
+  "why": "Declares which browsers a front-end project targets in one config, so Autoprefixer and babel-preset-env agree on support.",
+  "keys": {
+    "races": [
+      "web/css",
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "web/css",
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/browserslist/browserslist",
+    "sha": "1ae4ddc3b21a6c21f290a1634c8be04afb9210c4",
+    "file_url": "https://cdn.jsdelivr.net/gh/browserslist/browserslist@1ae4ddc3b21a6c21f290a1634c8be04afb9210c4/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 13586,
+    "size_mb": 5,
+    "created_at": "2014-12-13T19:35:45Z",
+    "last_commit_at": "2026-11-05T23:27:04Z",
+    "releases": 35,
+    "tags": 221,
+    "archived": false,
+    "release": {
+      "tag": "4.29.5",
+      "at": "2026-10-26T18:47:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}
