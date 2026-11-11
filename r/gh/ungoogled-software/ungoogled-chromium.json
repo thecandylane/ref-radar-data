@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:f5d393f22a60fa4f79f42dbb26acd0bcc01995ae"
+  },
   "id": "gh:ungoogled-software/ungoogled-chromium",
   "kind": "repo",
   "url": "https://github.com/ungoogled-software/ungoogled-chromium",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "Python",
     "license": "BSD-3-Clause",
-    "stars": 28209,
+    "stars": 28220,
     "size_mb": 19,
     "created_at": "2015-06-12T22:24:24Z",
     "last_commit_at": "2026-11-09T21:10:22Z",
@@ -54,5 +57,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "curated",
+  "pack": {
+    "sha": "f5d393f22a60fa4f79f42dbb26acd0bcc01995ae",
+    "v": 3
+  }
 }

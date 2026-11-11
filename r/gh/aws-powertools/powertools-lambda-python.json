@@ -24,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/aws-powertools/powertools-lambda-python",
-    "sha": "111f93bd81b2673e913e1f78268477ce06d49616",
-    "file_url": "https://cdn.jsdelivr.net/gh/aws-powertools/powertools-lambda-python@111f93bd81b2673e913e1f78268477ce06d49616/{path}"
+    "sha": "bf907487e5e2ece3088a7753c9004989fbfd8ac0",
+    "file_url": "https://cdn.jsdelivr.net/gh/aws-powertools/powertools-lambda-python@bf907487e5e2ece3088a7753c9004989fbfd8ac0/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -33,13 +33,13 @@
     "stars": 3304,
     "size_mb": 33,
     "created_at": "2019-11-15T12:26:12Z",
-    "last_commit_at": "2026-11-09T21:37:43Z",
-    "releases": 182,
-    "tags": 186,
+    "last_commit_at": "2026-11-10T12:10:31Z",
+    "releases": 183,
+    "tags": 187,
     "archived": false,
     "release": {
-      "tag": "v3.39.0",
-      "at": "2026-11-03T13:56:00.000Z"
+      "tag": "v3.40.0",
+      "at": "2026-11-10T13:33:23.000Z"
     }
   },
   "reuse": "copy",
@@ -50,9 +50,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 2,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "bf907487e5e2ece3088a7753c9004989fbfd8ac0",
+    "v": 3
+  }
 }

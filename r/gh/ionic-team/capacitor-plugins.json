@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:87c0bb8045db2b4560d3db4b7d8e565c23ec1736"
+  },
+  "id": "gh:ionic-team/capacitor-plugins",
+  "kind": "repo",
+  "url": "https://github.com/ionic-team/capacitor-plugins",
+  "title": "capacitor-plugins",
+  "why": "Official Capacitor plugins for camera, push notifications, share and other native device features on iOS, Android and PWA.",
+  "keys": {
+    "races": [
+      "mobile/cross-platform",
+      "mobile/ios",
+      "mobile/android"
+    ],
+    "lanes": [
+      "mobile/cross-platform",
+      "mobile/ios",
+      "mobile/android"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ionic-team/capacitor-plugins",
+    "sha": "87c0bb8045db2b4560d3db4b7d8e565c23ec1736",
+    "file_url": "https://cdn.jsdelivr.net/gh/ionic-team/capacitor-plugins@87c0bb8045db2b4560d3db4b7d8e565c23ec1736/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "none",
+    "stars": 688,
+    "size_mb": 8,
+    "created_at": "2020-07-08T23:18:43Z",
+    "last_commit_at": "2026-10-02T16:06:22Z",
+    "releases": 1000,
+    "tags": 1655,
+    "archived": false,
+    "release": {
+      "tag": "@capacitor/share@8.0.3",
+      "at": "2026-10-02T16:06:26.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "87c0bb8045db2b4560d3db4b7d8e565c23ec1736",
+    "v": 3
+  }
+}

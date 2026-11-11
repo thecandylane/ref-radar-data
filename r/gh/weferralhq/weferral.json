@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cfaf9a093b31912970a17d4169ba57706212d9d6"
+  },
+  "id": "gh:weferralhq/weferral",
+  "kind": "repo",
+  "url": "https://github.com/WeferralHq/weferral",
+  "title": "weferral",
+  "why": "Affiliate management software in JavaScript under an MIT license, aimed at teams who want to customize their own program.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/WeferralHq/weferral",
+    "sha": "cfaf9a093b31912970a17d4169ba57706212d9d6",
+    "file_url": "https://cdn.jsdelivr.net/gh/WeferralHq/weferral@cfaf9a093b31912970a17d4169ba57706212d9d6/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 289,
+    "size_mb": 4,
+    "created_at": "2020-12-03T12:01:27Z",
+    "last_commit_at": "2024-06-27T23:13:06Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "cfaf9a093b31912970a17d4169ba57706212d9d6",
+    "v": 3
+  }
+}

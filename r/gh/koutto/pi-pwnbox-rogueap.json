@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:159de8e7d30c8f730403700858f9ad1f4ef804b9"
+  },
+  "id": "gh:koutto/pi-pwnbox-rogueap",
+  "kind": "repo",
+  "url": "https://github.com/koutto/pi-pwnbox-rogueap",
+  "title": "pi-pwnbox-rogueap",
+  "why": "Turns a Raspberry Pi into a pwnbox or rogue access point for WiFi hacking, with cheatsheets and a mind map bundled in.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "infra/networking"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/koutto/pi-pwnbox-rogueap",
+    "sha": "159de8e7d30c8f730403700858f9ad1f4ef804b9",
+    "file_url": "https://cdn.jsdelivr.net/gh/koutto/pi-pwnbox-rogueap@159de8e7d30c8f730403700858f9ad1f4ef804b9/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "GPL-3.0",
+    "stars": 2116,
+    "size_mb": 7,
+    "created_at": "2020-10-20T18:35:27Z",
+    "last_commit_at": "2026-06-08T19:19:29Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "159de8e7d30c8f730403700858f9ad1f4ef804b9",
+    "v": 3
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-10T01:04:49.273Z"
+  }
+}

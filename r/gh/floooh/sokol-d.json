@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:1783462b7647a1e1ae4a5e7c12c1a9c63ef71565"
+  },
   "id": "gh:floooh/sokol-d",
   "kind": "repo",
   "url": "https://github.com/floooh/sokol-d",
@@ -35,7 +38,7 @@
     "stars": 29,
     "size_mb": 8,
     "created_at": "2023-12-11T19:41:35Z",
-    "last_commit_at": "2026-11-08T15:01:55Z",
+    "last_commit_at": "2026-11-10T18:36:49Z",
     "releases": 31,
     "tags": 32,
     "archived": false,
@@ -56,5 +59,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "1783462b7647a1e1ae4a5e7c12c1a9c63ef71565",
+    "v": 3
+  }
 }

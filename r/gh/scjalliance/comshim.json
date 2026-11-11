@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9fa4e0fd1400d15b80c2364d06e8e50d8cf0bb24"
+  },
+  "id": "gh:scjalliance/comshim",
+  "kind": "repo",
+  "url": "https://github.com/scjalliance/comshim",
+  "title": "comshim",
+  "why": "Keeps a Go process attached to the Windows COM runtime through a reference counter, so goroutines can call COM safely.",
+  "keys": {
+    "races": [
+      "languages/runtimes"
+    ],
+    "lanes": [
+      "languages/runtimes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/scjalliance/comshim",
+    "sha": "9fa4e0fd1400d15b80c2364d06e8e50d8cf0bb24",
+    "file_url": "https://cdn.jsdelivr.net/gh/scjalliance/comshim@9fa4e0fd1400d15b80c2364d06e8e50d8cf0bb24/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 24,
+    "size_mb": 0,
+    "created_at": "2016-05-22T01:26:21Z",
+    "last_commit_at": "2026-08-08T21:21:02Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9fa4e0fd1400d15b80c2364d06e8e50d8cf0bb24",
+    "v": 3
+  }
+}

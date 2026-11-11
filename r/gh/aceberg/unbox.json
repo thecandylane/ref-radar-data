@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:9ab9683b852bad479c8d9d1264e119c810540228"
+  },
   "id": "gh:aceberg/unbox",
   "kind": "repo",
   "url": "https://github.com/aceberg/unbox",
@@ -30,8 +33,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/aceberg/unbox",
-    "sha": "f080a5ad17db72580511977309745ca57562692f",
-    "file_url": "https://cdn.jsdelivr.net/gh/aceberg/unbox@f080a5ad17db72580511977309745ca57562692f/{path}"
+    "sha": "9ab9683b852bad479c8d9d1264e119c810540228",
+    "file_url": "https://cdn.jsdelivr.net/gh/aceberg/unbox@9ab9683b852bad479c8d9d1264e119c810540228/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -60,5 +63,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "9ab9683b852bad479c8d9d1264e119c810540228",
+    "v": 3
+  }
 }

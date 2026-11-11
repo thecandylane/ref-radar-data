@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:92c830ef35a1762f525c6f3ce86a890a5aed5b62"
+  },
   "id": "gh:containerd/.project",
   "kind": "repo",
   "url": "https://github.com/containerd/.project",
@@ -51,5 +54,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "92c830ef35a1762f525c6f3ce86a890a5aed5b62",
+    "v": 3
+  }
 }

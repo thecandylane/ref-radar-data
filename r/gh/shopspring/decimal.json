@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a5eee101f66d97f2d1bde1b6d1ebea3a93897354"
+  },
   "id": "gh:shopspring/decimal",
   "kind": "repo",
   "url": "https://github.com/shopspring/decimal",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "Go",
     "license": "NOASSERTION",
-    "stars": 7513,
+    "stars": 7519,
     "size_mb": 0,
     "created_at": "2015-02-25T20:12:57Z",
     "last_commit_at": "2026-11-01T01:46:52Z",
@@ -54,5 +57,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "a5eee101f66d97f2d1bde1b6d1ebea3a93897354",
+    "v": 3
+  }
 }

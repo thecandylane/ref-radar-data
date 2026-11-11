@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d357725082245ff90f5cf8800a3fc297b1f2319a"
+  },
+  "id": "gh:kjd/idna",
+  "kind": "repo",
+  "url": "https://github.com/kjd/idna",
+  "title": "idna",
+  "why": "Encodes and decodes internationalized domain names in Python under IDNA 2008, with UTS #46 mapping as an option.",
+  "keys": {
+    "races": [
+      "infra/networking",
+      "data/serialization"
+    ],
+    "lanes": [
+      "infra/networking",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kjd/idna",
+    "sha": "d357725082245ff90f5cf8800a3fc297b1f2319a",
+    "file_url": "https://cdn.jsdelivr.net/gh/kjd/idna@d357725082245ff90f5cf8800a3fc297b1f2319a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 302,
+    "size_mb": 2,
+    "created_at": "2013-05-27T22:22:13Z",
+    "last_commit_at": "2026-10-31T15:25:49Z",
+    "releases": 14,
+    "tags": 43,
+    "archived": false,
+    "release": {
+      "tag": "v3.20",
+      "at": "2026-09-17T14:11:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d357725082245ff90f5cf8800a3fc297b1f2319a",
+    "v": 3
+  }
+}

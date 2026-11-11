@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b18e8c4bae9eb670940064f11c20e6187b00bab2"
+  },
   "id": "gh:flipperdevices/flipper-application-catalog",
   "kind": "repo",
   "url": "https://github.com/flipperdevices/flipper-application-catalog",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": "Python",
     "license": "none",
-    "stars": 1215,
+    "stars": 1216,
     "size_mb": 2,
     "created_at": "2022-10-23T15:33:47Z",
     "last_commit_at": "2026-11-07T00:57:20Z",
@@ -49,5 +52,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "b18e8c4bae9eb670940064f11c20e6187b00bab2",
+    "v": 3
+  }
 }

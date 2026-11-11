@@ -5,7 +5,7 @@
   "id": "gh:serde-rs/serde",
   "kind": "repo",
   "url": "https://github.com/serde-rs/serde",
-  "title": "serde",
+  "title": "serde-rs/serde",
   "why": "Derive-based serialization for Rust types that works with no-std and many data formats through one pair of traits.",
   "keys": {
     "races": [
@@ -31,10 +31,10 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 11062,
+    "stars": 11073,
     "size_mb": 9,
     "created_at": "2013-11-13T15:22:58Z",
-    "last_commit_at": "2026-10-16T03:31:33Z",
+    "last_commit_at": "2026-11-11T02:18:13Z",
     "releases": 322,
     "tags": 323,
     "archived": false,
@@ -51,9 +51,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 140,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "0db9b3b504bcb0a7fa9cf001429869519afd3e9a",
+    "v": 3
+  },
+  "hot": true
 }

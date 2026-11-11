@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:29824d5625ede419ac8cdae418c8f4c72c6270f7"
+  },
   "id": "gh:elder-plinius/t3mp3st",
   "kind": "repo",
   "url": "https://github.com/elder-plinius/T3MP3ST",
@@ -37,7 +40,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 7003,
+    "stars": 7015,
     "size_mb": 3,
     "created_at": "2026-07-02T17:53:55Z",
     "last_commit_at": "2026-09-08T03:04:14Z",
@@ -62,6 +65,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "29824d5625ede419ac8cdae418c8f4c72c6270f7",
+    "v": 3
+  },
   "risk": {
     "level": "caution",
     "signals": [

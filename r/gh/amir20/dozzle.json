@@ -1,0 +1,68 @@
+{
+  "id": "gh:amir20/dozzle",
+  "kind": "repo",
+  "url": "https://github.com/amir20/dozzle",
+  "title": "dozzle",
+  "why": "Streams container logs live to a browser across Docker, Swarm and K8s hosts, with a Go backend and Vue frontend.",
+  "keys": {
+    "races": [
+      "infra/observability",
+      "infra/containers",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "infra/observability",
+      "infra/containers",
+      "infra/kubernetes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/amir20/dozzle",
+    "sha": "5497af7ec3ebf22bb47c40c13f886ed39712ebc8",
+    "file_url": "https://cdn.jsdelivr.net/gh/amir20/dozzle@5497af7ec3ebf22bb47c40c13f886ed39712ebc8/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 14901,
+    "size_mb": 176,
+    "created_at": "2018-10-30T00:05:23Z",
+    "last_commit_at": "2026-11-09T19:58:35Z",
+    "releases": 540,
+    "tags": 593,
+    "archived": false,
+    "release": {
+      "tag": "v11.4.2",
+      "at": "2026-11-08T16:10:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5497af7ec3ebf22bb47c40c13f886ed39712ebc8",
+    "v": 3
+  }
+}

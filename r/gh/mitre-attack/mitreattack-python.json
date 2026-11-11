@@ -1,0 +1,61 @@
+{
+  "id": "gh:mitre-attack/mitreattack-python",
+  "kind": "repo",
+  "url": "https://github.com/mitre-attack/mitreattack-python",
+  "title": "mitreattack-python",
+  "why": "Python module for loading and querying MITRE ATT&CK data, handy for building cyber threat intelligence tooling.",
+  "keys": {
+    "races": [
+      "cyber/threat-intel"
+    ],
+    "lanes": [
+      "cyber/threat-intel"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mitre-attack/mitreattack-python",
+    "sha": "2548d0ae164461b5fb00f21f7ac0f3fe1b09d683",
+    "file_url": "https://cdn.jsdelivr.net/gh/mitre-attack/mitreattack-python@2548d0ae164461b5fb00f21f7ac0f3fe1b09d683/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "Apache-2.0",
+    "stars": 762,
+    "size_mb": 15,
+    "created_at": "2020-12-11T14:05:58Z",
+    "last_commit_at": "2026-11-05T16:48:53Z",
+    "releases": 40,
+    "tags": 88,
+    "archived": false,
+    "release": {
+      "tag": "v6.4.0",
+      "at": "2026-11-05T16:48:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2548d0ae164461b5fb00f21f7ac0f3fe1b09d683",
+    "v": 3
+  },
+  "scan_partial": true
+}

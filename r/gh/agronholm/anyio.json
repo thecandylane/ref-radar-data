@@ -1,0 +1,66 @@
+{
+  "id": "gh:agronholm/anyio",
+  "kind": "repo",
+  "url": "https://github.com/agronholm/anyio",
+  "title": "anyio",
+  "why": "Lets Python code run unchanged on asyncio or Trio through one concurrency and networking API, with AGENTS.md guidance.",
+  "keys": {
+    "races": [
+      "languages/runtimes",
+      "infra/networking"
+    ],
+    "lanes": [
+      "languages/runtimes",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/agronholm/anyio",
+    "sha": "104ef39010deb51a7059e05a69295aedc3f9db0e",
+    "file_url": "https://cdn.jsdelivr.net/gh/agronholm/anyio@104ef39010deb51a7059e05a69295aedc3f9db0e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 2568,
+    "size_mb": 3,
+    "created_at": "2018-08-19T21:07:18Z",
+    "last_commit_at": "2026-11-11T09:51:52Z",
+    "releases": 25,
+    "tags": 73,
+    "archived": false,
+    "release": {
+      "tag": "4.16.0",
+      "at": "2026-11-01T11:20:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "104ef39010deb51a7059e05a69295aedc3f9db0e",
+    "v": 3
+  }
+}

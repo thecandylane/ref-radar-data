@@ -1,0 +1,47 @@
+{
+  "id": "arxiv:2611.07464",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.07464",
+  "title": "FINCOSMOS: An Open-World Evaluation Paradigm for Agents in Finance",
+  "why": "Grades financial agents on the open Web with a simulated user holding a hidden strategy, checking point-in-time data and backtests by program.",
+  "keys": {
+    "races": [
+      "finance/trading",
+      "llm-infra/evals",
+      "agents/memory"
+    ],
+    "lanes": [
+      "finance/trading",
+      "llm-infra/evals",
+      "agents/memory"
+    ],
+    "capabilities": [
+      "finance/trading/trading-agents",
+      "finance/trading/backtesting",
+      "agents/memory/long-term-memory"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.07464"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

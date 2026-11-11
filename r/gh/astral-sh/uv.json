@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:3e2f08f8e75624ec942f864cd56b816885b80b7c"
+  },
   "id": "gh:astral-sh/uv",
   "kind": "repo",
   "url": "https://github.com/astral-sh/uv",
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 91841,
-    "size_mb": 226,
+    "stars": 91935,
+    "size_mb": 225,
     "created_at": "2023-10-02T20:24:11Z",
-    "last_commit_at": "2026-11-10T01:16:46Z",
+    "last_commit_at": "2026-11-11T02:51:11Z",
     "releases": 330,
     "tags": 330,
     "archived": false,
@@ -56,5 +59,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "3e2f08f8e75624ec942f864cd56b816885b80b7c",
+    "v": 3
+  }
 }

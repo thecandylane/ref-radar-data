@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:5e3d7261f203bbd94a91fa10856d29aad0bfaeae"
+  },
   "id": "gh:andrewyng/openworker",
   "kind": "repo",
   "url": "https://github.com/andrewyng/openworker",
@@ -36,10 +39,10 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 18928,
+    "stars": 18966,
     "size_mb": 35,
     "created_at": "2026-07-20T01:52:32Z",
-    "last_commit_at": "2026-11-08T13:35:04Z",
+    "last_commit_at": "2026-11-11T04:17:42Z",
     "releases": 9,
     "tags": 12,
     "archived": false,
@@ -60,5 +63,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "5e3d7261f203bbd94a91fa10856d29aad0bfaeae",
+    "v": 3
+  }
 }

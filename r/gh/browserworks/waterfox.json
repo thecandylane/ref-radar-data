@@ -1,0 +1,60 @@
+{
+  "id": "gh:browserworks/waterfox",
+  "kind": "repo",
+  "url": "https://github.com/BrowserWorks/waterfox",
+  "title": "waterfox",
+  "why": "Firefox-based tree with Waterfox branding, features and packaging layered on Mozilla platform code, built with the mach commands.",
+  "keys": {
+    "races": [
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/BrowserWorks/waterfox",
+    "sha": "9230b1e71d7856ab94c7c619832be653bf7f1d4f",
+    "file_url": "https://raw.githubusercontent.com/BrowserWorks/waterfox/9230b1e71d7856ab94c7c619832be653bf7f1d4f/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "NOASSERTION",
+    "stars": 6367,
+    "size_mb": 6716,
+    "created_at": "2014-10-13T12:37:53Z",
+    "last_commit_at": "2026-11-06T16:23:59Z",
+    "releases": 157,
+    "tags": 157,
+    "archived": false,
+    "release": {
+      "tag": "6.7.8",
+      "at": "2026-11-07T13:03:57.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9230b1e71d7856ab94c7c619832be653bf7f1d4f",
+    "v": 3
+  }
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b76be96aaf5f152a5fb3112dde85c723c45539e7"
+  },
   "id": "gh:firebase/agent-skills",
   "kind": "repo",
   "url": "https://github.com/firebase/agent-skills",
@@ -51,5 +54,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "b76be96aaf5f152a5fb3112dde85c723c45539e7",
+    "v": 3
+  }
 }

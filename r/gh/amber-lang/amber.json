@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:6b0a048f9771d84c6a3fc0d28fdfe423d0df4a92"
+  },
   "id": "gh:amber-lang/amber",
   "kind": "repo",
   "url": "https://github.com/amber-lang/amber",
@@ -56,5 +59,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "6b0a048f9771d84c6a3fc0d28fdfe423d0df4a92",
+    "v": 3
+  }
 }

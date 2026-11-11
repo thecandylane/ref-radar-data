@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.12386",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.12386",
+  "title": "Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks",
+  "why": "Honeypot traps that reveal which LLM and harness is behind an agentic attack, reaching 90% top-1 accuracy across 15 models.",
+  "keys": {
+    "races": [
+      "cyber/threat-intel",
+      "cyber/detection"
+    ],
+    "lanes": [
+      "cyber/threat-intel",
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.12386"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

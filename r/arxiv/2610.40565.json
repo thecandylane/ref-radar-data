@@ -1,0 +1,46 @@
+{
+  "archive": {
+    "page": "https://web.archive.org/web/20261031002253/https://arxiv.org/abs/2610.40565"
+  },
+  "id": "arxiv:2610.40565",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2610.40565",
+  "title": "Gym-Anything for Robotics: Scaling physical simulations with digital agents",
+  "why": "Coding agents build robotics simulations inside an adversarial creation-audit loop, so the work stops depending on expert effort.",
+  "keys": {
+    "races": [
+      "agents/optimization",
+      "embedded/robotics"
+    ],
+    "lanes": [
+      "agents/optimization",
+      "embedded/robotics"
+    ],
+    "capabilities": [
+      "agents/optimization/rl-environments"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2610.40565"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

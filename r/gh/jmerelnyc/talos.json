@@ -1,0 +1,63 @@
+{
+  "id": "gh:jmerelnyc/talos",
+  "kind": "repo",
+  "url": "https://github.com/jmerelnyc/Talos",
+  "title": "jmerelnyc/Talos",
+  "why": "Shares a spare GPU with the Talos network, running open-model jobs through a local Ollama and tracking uptime over a WebSocket.",
+  "keys": {
+    "races": [
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "llm-infra/inference"
+    ],
+    "capabilities": [
+      "llm-infra/inference/distributed-inference"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "sdk",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jmerelnyc/Talos",
+    "sha": "7842735986fef56874cba7a7f7c3589a15750450",
+    "file_url": "https://cdn.jsdelivr.net/gh/jmerelnyc/Talos@7842735986fef56874cba7a7f7c3589a15750450/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 629,
+    "size_mb": 0,
+    "created_at": "2026-07-02T14:43:11Z",
+    "last_commit_at": "2026-07-08T09:18:17Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7842735986fef56874cba7a7f7c3589a15750450",
+    "v": 3
+  }
+}

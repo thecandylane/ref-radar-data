@@ -1,0 +1,66 @@
+{
+  "id": "gh:paperless-ngx/paperless-ngx",
+  "kind": "repo",
+  "url": "https://github.com/paperless-ngx/paperless-ngx",
+  "title": "paperless-ngx",
+  "why": "Scan, OCR and index paper documents into a searchable archive, run as a Django and Angular app.",
+  "keys": {
+    "races": [
+      "data/storage",
+      "data/search"
+    ],
+    "lanes": [
+      "data/storage",
+      "data/search"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/paperless-ngx/paperless-ngx",
+    "sha": "936b1b3bfa3b83fd5c1762bdc8e8e2953c5bace2",
+    "file_url": "https://cdn.jsdelivr.net/gh/paperless-ngx/paperless-ngx@936b1b3bfa3b83fd5c1762bdc8e8e2953c5bace2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 48005,
+    "size_mb": 231,
+    "created_at": "2022-02-12T21:56:52Z",
+    "last_commit_at": "2026-11-11T03:13:20Z",
+    "releases": 170,
+    "tags": 241,
+    "archived": false,
+    "release": {
+      "tag": "v3.4.2",
+      "at": "2026-11-03T21:57:15.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "936b1b3bfa3b83fd5c1762bdc8e8e2953c5bace2",
+    "v": 3
+  }
+}

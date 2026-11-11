@@ -42,7 +42,12 @@
       "tag": "pkg1.7",
       "at": "2023-03-20T14:31:53.000Z"
     },
-    "doi": "10.5281/zenodo.597359"
+    "doi": "10.5281/zenodo.597359",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-11"
+    }
   },
   "reuse": "copyleft",
   "maturity": "quiet",
@@ -56,5 +61,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "4e0ee7cdd9fc9a8ac9170c0c3496536ef0378cb7",
+    "v": 3
+  }
 }

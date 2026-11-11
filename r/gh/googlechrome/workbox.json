@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4ea3138a120fd2c87389b54130e25f47e0fd7089"
+  },
+  "id": "gh:googlechrome/workbox",
+  "kind": "repo",
+  "url": "https://github.com/GoogleChrome/workbox",
+  "title": "workbox",
+  "why": "Service worker libraries that make a Progressive Web App work offline-first, split into packages you adopt one at a time.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/GoogleChrome/workbox",
+    "sha": "4ea3138a120fd2c87389b54130e25f47e0fd7089",
+    "file_url": "https://cdn.jsdelivr.net/gh/GoogleChrome/workbox@4ea3138a120fd2c87389b54130e25f47e0fd7089/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 13042,
+    "size_mb": 24,
+    "created_at": "2016-04-04T15:55:19Z",
+    "last_commit_at": "2026-09-02T14:12:28Z",
+    "releases": 92,
+    "tags": 104,
+    "archived": false,
+    "release": {
+      "tag": "v7.4.1",
+      "at": "2026-05-05T08:33:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4ea3138a120fd2c87389b54130e25f47e0fd7089",
+    "v": 3
+  }
+}

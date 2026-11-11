@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:0119fd74725eba19718282b146ac341b57385dbd"
+  },
   "id": "gh:huber-group-embl/arrayqualitymetrics",
   "kind": "repo",
   "url": "https://github.com/Huber-group-EMBL/arrayQualityMetrics",
@@ -49,5 +52,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "0119fd74725eba19718282b146ac341b57385dbd",
+    "v": 3
+  }
 }

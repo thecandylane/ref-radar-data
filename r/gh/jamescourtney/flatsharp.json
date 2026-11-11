@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8da3938633b626e8bc65bbcf61872979f8dc8fa5"
+  },
+  "id": "gh:jamescourtney/flatsharp",
+  "kind": "repo",
+  "url": "https://github.com/jamescourtney/FlatSharp",
+  "title": "FlatSharp",
+  "why": "Serializes FlatBuffers data in C# using fbs schemas, with grpc support and benchmarks included in the repo.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jamescourtney/FlatSharp",
+    "sha": "8da3938633b626e8bc65bbcf61872979f8dc8fa5",
+    "file_url": "https://cdn.jsdelivr.net/gh/jamescourtney/FlatSharp@8da3938633b626e8bc65bbcf61872979f8dc8fa5/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "Apache-2.0",
+    "stars": 574,
+    "size_mb": 17,
+    "created_at": "2018-10-09T06:18:27Z",
+    "last_commit_at": "2026-06-25T06:29:04Z",
+    "releases": 43,
+    "tags": 46,
+    "archived": false,
+    "release": {
+      "tag": "7.9.0",
+      "at": "2025-05-26T08:55:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8da3938633b626e8bc65bbcf61872979f8dc8fa5",
+    "v": 3
+  }
+}

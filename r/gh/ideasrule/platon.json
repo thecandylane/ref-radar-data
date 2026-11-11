@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7091e184da8e8177af164b8eb78a63ea24879649"
+  },
+  "id": "gh:ideasrule/platon",
+  "kind": "repo",
+  "url": "https://github.com/ideasrule/platon",
+  "title": "platon",
+  "why": "Computes transmission spectra of exoplanets in Python, with readthedocs config, examples and tests.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ideasrule/platon",
+    "sha": "7091e184da8e8177af164b8eb78a63ea24879649",
+    "file_url": "https://cdn.jsdelivr.net/gh/ideasrule/platon@7091e184da8e8177af164b8eb78a63ea24879649/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 38,
+    "size_mb": 39,
+    "created_at": "2018-04-25T17:26:17Z",
+    "last_commit_at": "2026-03-03T22:23:01Z",
+    "releases": 12,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v6.2.0",
+      "at": "2024-10-30T20:59:14.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7091e184da8e8177af164b8eb78a63ea24879649",
+    "v": 3
+  }
+}

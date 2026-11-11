@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ae0eca3d3282fe74c05d966e346c6e1395f435dc"
+  },
   "id": "gh:beeware/briefcase",
   "kind": "repo",
   "url": "https://github.com/beeware/briefcase",
@@ -52,9 +55,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "ae0eca3d3282fe74c05d966e346c6e1395f435dc",
+    "v": 3
+  }
 }

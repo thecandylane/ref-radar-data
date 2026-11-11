@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:30e5b1c5603d27f723c98abf1b35255ca42df2aa"
+  },
   "id": "gh:ropensci/osmdata",
   "kind": "repo",
   "url": "https://github.com/ropensci/osmdata",
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "R",
     "license": "none",
-    "stars": 343,
+    "stars": 344,
     "size_mb": 8,
     "created_at": "2016-10-16T19:18:41Z",
-    "last_commit_at": "2026-10-20T10:42:30Z",
+    "last_commit_at": "2026-11-10T17:16:16Z",
     "releases": 29,
     "tags": 31,
     "archived": false,
@@ -56,5 +59,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "30e5b1c5603d27f723c98abf1b35255ca42df2aa",
+    "v": 3
+  }
 }

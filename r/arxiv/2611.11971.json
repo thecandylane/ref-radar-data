@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.11971",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.11971",
+  "title": "Harness Matters: Measuring and Dissecting Security Resilience in Web Agents",
+  "why": "Measures how web-agent harness design, not just the backend model, shapes resistance to malicious prompts, injection and deceptive pages.",
+  "keys": {
+    "races": [
+      "cyber/agent-security",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "cyber/agent-security",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.11971"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

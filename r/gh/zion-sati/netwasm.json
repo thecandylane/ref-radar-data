@@ -34,16 +34,16 @@
   "facts": {
     "lang": "C#",
     "license": "NOASSERTION",
-    "stars": 321,
-    "size_mb": 26,
+    "stars": 325,
+    "size_mb": 27,
     "created_at": "2026-08-10T10:46:35Z",
-    "last_commit_at": "2026-11-10T05:11:20Z",
-    "releases": 81,
-    "tags": 82,
+    "last_commit_at": "2026-11-11T03:04:26Z",
+    "releases": 86,
+    "tags": 87,
     "archived": false,
     "release": {
-      "tag": "v0.12.0",
-      "at": "2026-11-10T07:07:16.000Z"
+      "tag": "v0.12.2",
+      "at": "2026-11-11T06:09:08.000Z"
     }
   },
   "reuse": "study",
@@ -59,6 +59,9 @@
     "ranks": {}
   },
   "tier": "curated",
-  "hot": true,
+  "pack": {
+    "sha": "0c018f7f361a83995ad48852770cbc673f4b2add",
+    "v": 3
+  },
   "scan_partial": true
 }

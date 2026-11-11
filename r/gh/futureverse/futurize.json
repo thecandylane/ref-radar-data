@@ -1,0 +1,55 @@
+{
+  "id": "gh:futureverse/futurize",
+  "kind": "repo",
+  "url": "https://github.com/futureverse/futurize",
+  "title": "futurize",
+  "why": "Transpiles common R calls into parallel versions with one function, on top of the future package.",
+  "keys": {
+    "races": [
+      "practice/performance",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "practice/performance",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/futureverse/futurize",
+    "sha": "5b2e3f1be0351db7a49cc85826273b57b0429670",
+    "file_url": "https://cdn.jsdelivr.net/gh/futureverse/futurize@5b2e3f1be0351db7a49cc85826273b57b0429670/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "Apache-2.0",
+    "stars": 32,
+    "size_mb": 7,
+    "created_at": "2025-03-23T03:48:42Z",
+    "last_commit_at": "2026-11-07T18:21:04Z",
+    "releases": 0,
+    "tags": 7,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

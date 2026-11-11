@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:494f90256d470530c1884d0d094433cd574b5806"
+  },
+  "id": "gh:openxla/xla",
+  "kind": "repo",
+  "url": "https://github.com/openxla/xla",
+  "title": "xla",
+  "why": "Compiler source in C++ built with Bazel, where AGENTS.md is the first file a coding agent should open.",
+  "keys": {
+    "races": [
+      "languages/compilers"
+    ],
+    "lanes": [
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openxla/xla",
+    "sha": "494f90256d470530c1884d0d094433cd574b5806",
+    "file_url": "https://raw.githubusercontent.com/openxla/xla/494f90256d470530c1884d0d094433cd574b5806/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 4663,
+    "size_mb": 443,
+    "created_at": "2022-08-09T15:30:01Z",
+    "last_commit_at": "2026-11-11T09:50:03Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "494f90256d470530c1884d0d094433cd574b5806",
+    "v": 3
+  },
+  "scan_partial": true
+}

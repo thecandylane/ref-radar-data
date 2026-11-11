@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:e6768018190369dc3ca634955fc68cd0b5758624"
+  },
   "id": "gh:redpanda-data/connect",
   "kind": "repo",
   "url": "https://github.com/redpanda-data/connect",
@@ -38,10 +41,10 @@
   "facts": {
     "lang": "Go",
     "license": "none",
-    "stars": 8797,
+    "stars": 8798,
     "size_mb": 55,
     "created_at": "2016-03-22T01:18:48Z",
-    "last_commit_at": "2026-11-09T17:18:02Z",
+    "last_commit_at": "2026-11-10T20:20:35Z",
     "releases": 561,
     "tags": 800,
     "archived": false,
@@ -58,9 +61,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 5,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "e6768018190369dc3ca634955fc68cd0b5758624",
+    "v": 3
+  }
 }

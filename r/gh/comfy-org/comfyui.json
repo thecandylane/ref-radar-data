@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:1332fabfcc507aa7c548cd5152071ed494c207e8"
+  },
   "id": "gh:comfy-org/comfyui",
   "kind": "repo",
   "url": "https://github.com/Comfy-Org/ComfyUI",
@@ -34,16 +37,16 @@
   "facts": {
     "lang": "Python",
     "license": "GPL-3.0",
-    "stars": 146070,
+    "stars": 146281,
     "size_mb": 105,
     "created_at": "2023-01-17T03:15:56Z",
-    "last_commit_at": "2026-11-10T07:58:39Z",
-    "releases": 165,
-    "tags": 220,
+    "last_commit_at": "2026-11-11T05:42:39Z",
+    "releases": 166,
+    "tags": 223,
     "archived": false,
     "release": {
-      "tag": "v0.44.0",
-      "at": "2026-11-04T01:12:27.000Z"
+      "tag": "v0.45.0",
+      "at": "2026-11-10T21:42:42.000Z"
     }
   },
   "reuse": "copyleft",
@@ -58,5 +61,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "1332fabfcc507aa7c548cd5152071ed494c207e8",
+    "v": 3
+  }
 }

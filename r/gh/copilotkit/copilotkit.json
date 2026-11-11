@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c7815d9ac96f48fb3a64ad8c18e176a870c81763"
+  },
   "id": "gh:copilotkit/copilotkit",
   "kind": "repo",
   "url": "https://github.com/CopilotKit/CopilotKit",
@@ -36,16 +39,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 38589,
-    "size_mb": 895,
+    "stars": 38629,
+    "size_mb": 896,
     "created_at": "2023-06-19T04:08:31Z",
-    "last_commit_at": "2026-11-10T07:41:58Z",
+    "last_commit_at": "2026-11-11T09:18:22Z",
     "releases": 1000,
-    "tags": 1519,
+    "tags": 1520,
     "archived": false,
     "release": {
-      "tag": "v1.85.0",
-      "at": "2026-11-06T15:47:49.000Z"
+      "tag": "v1.86.0",
+      "at": "2026-11-11T06:09:44.000Z"
     }
   },
   "reuse": "copy",
@@ -60,5 +63,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "c7815d9ac96f48fb3a64ad8c18e176a870c81763",
+    "v": 3
+  }
 }

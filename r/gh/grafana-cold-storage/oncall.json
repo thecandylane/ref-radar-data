@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:af0fbd40558c9a63bcf438589894c440fc434a54"
+  },
+  "id": "gh:grafana-cold-storage/oncall",
+  "kind": "repo",
+  "url": "https://github.com/grafana-cold-storage/oncall",
+  "title": "oncall",
+  "why": "On-call scheduling and alerting with Slack and Telegram integration, shipped with a Grafana plugin, Helm and Terraform; archived.",
+  "keys": {
+    "races": [
+      "practice/reliability",
+      "infra/observability"
+    ],
+    "lanes": [
+      "practice/reliability",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/grafana-cold-storage/oncall",
+    "sha": "af0fbd40558c9a63bcf438589894c440fc434a54",
+    "file_url": "https://cdn.jsdelivr.net/gh/grafana-cold-storage/oncall@af0fbd40558c9a63bcf438589894c440fc434a54/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 3880,
+    "size_mb": 139,
+    "created_at": "2022-06-01T14:05:22Z",
+    "last_commit_at": "2026-03-24T09:22:42Z",
+    "releases": 380,
+    "tags": 643,
+    "archived": true,
+    "release": {
+      "tag": "v1.16.11",
+      "at": "2026-02-11T19:00:14.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "af0fbd40558c9a63bcf438589894c440fc434a54",
+    "v": 3
+  }
+}

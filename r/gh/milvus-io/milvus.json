@@ -47,16 +47,16 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 46629,
-    "size_mb": 371,
+    "stars": 46639,
+    "size_mb": 372,
     "created_at": "2019-09-16T06:43:43Z",
-    "last_commit_at": "2026-11-10T08:58:00Z",
-    "releases": 181,
+    "last_commit_at": "2026-11-11T09:45:59Z",
+    "releases": 182,
     "tags": 255,
     "archived": false,
     "release": {
-      "tag": "v3.0.5",
-      "at": "2026-10-30T10:43:28.000Z"
+      "tag": "v3.0.6",
+      "at": "2026-11-11T08:06:25.000Z"
     }
   },
   "reuse": "copy",
@@ -67,9 +67,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 55,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "46f3354858e6e84a06105bd1a2302672b623708d",
+    "v": 3
+  }
 }

@@ -1,0 +1,36 @@
+{
+  "id": "link:kasmweb.com",
+  "kind": "link",
+  "url": "https://kasmweb.com/",
+  "title": "Kasm Workspaces | The Container Streaming Platform",
+  "why": "Streams containerized desktops and browsers to a web page, with remote browser isolation for zero-trust and OSINT work.",
+  "keys": {
+    "races": [
+      "infra/isolation",
+      "cyber/threat-intel"
+    ],
+    "lanes": [
+      "infra/isolation",
+      "cyber/threat-intel"
+    ],
+    "capabilities": []
+  },
+  "read": [],
+  "fetch": {
+    "type": "http",
+    "url": "https://kasmweb.com/"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

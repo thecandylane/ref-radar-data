@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b1770f5b0be397bd4ddc2c976ab6548a7a1eeb7f"
+  },
   "id": "gh:corazawaf/coraza-proxy-wasm",
   "kind": "repo",
   "url": "https://github.com/corazawaf/coraza-proxy-wasm",
@@ -58,5 +61,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "b1770f5b0be397bd4ddc2c976ab6548a7a1eeb7f",
+    "v": 3
+  }
 }

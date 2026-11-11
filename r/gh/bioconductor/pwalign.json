@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:f1991c73415ec8720cbdb57673fe57cd12715c23"
+  },
   "id": "gh:bioconductor/pwalign",
   "kind": "repo",
   "url": "https://github.com/Bioconductor/pwalign",
@@ -53,5 +56,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "f1991c73415ec8720cbdb57673fe57cd12715c23",
+    "v": 3
+  }
 }

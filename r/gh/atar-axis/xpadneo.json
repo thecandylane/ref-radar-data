@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:56b538d951300bf804f6631738603c5eb14c04f0"
+  },
   "id": "gh:atar-axis/xpadneo",
   "kind": "repo",
   "url": "https://github.com/atar-axis/xpadneo",
@@ -52,9 +55,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 3,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "56b538d951300bf804f6631738603c5eb14c04f0",
+    "v": 3
+  }
 }

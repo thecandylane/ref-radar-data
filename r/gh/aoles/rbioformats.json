@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:08f56a4f88367325b63cde83b210fe6826d766f4"
+  },
+  "id": "gh:aoles/rbioformats",
+  "kind": "repo",
+  "url": "https://github.com/aoles/RBioFormats",
+  "title": "RBioFormats",
+  "why": "Read bio image files into R through the Bio-Formats library using a Java bridge.",
+  "keys": {
+    "races": [
+      "data/serialization",
+      "ml/vision"
+    ],
+    "lanes": [
+      "data/serialization",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/aoles/RBioFormats",
+    "sha": "08f56a4f88367325b63cde83b210fe6826d766f4",
+    "file_url": "https://cdn.jsdelivr.net/gh/aoles/RBioFormats@08f56a4f88367325b63cde83b210fe6826d766f4/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 27,
+    "size_mb": 120,
+    "created_at": "2014-09-11T15:08:23Z",
+    "last_commit_at": "2024-05-01T00:09:24Z",
+    "releases": 0,
+    "tags": 29,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "08f56a4f88367325b63cde83b210fe6826d766f4",
+    "v": 3
+  }
+}

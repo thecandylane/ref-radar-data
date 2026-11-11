@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:3a8e1fc8613fec024b7628b640fcab6d34ae34a8"
+  },
   "id": "gh:ropensci/skynet",
   "kind": "repo",
   "url": "https://github.com/ropensci/skynet",
@@ -49,5 +52,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "3a8e1fc8613fec024b7628b640fcab6d34ae34a8",
+    "v": 3
+  }
 }

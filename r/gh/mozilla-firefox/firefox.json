@@ -1,0 +1,57 @@
+{
+  "id": "gh:mozilla-firefox/firefox",
+  "kind": "repo",
+  "url": "https://github.com/mozilla-firefox/firefox",
+  "title": "firefox",
+  "why": "Source tree behind Firefox, with Source Docs and Nightly builds for contributors who need to build and test the browser.",
+  "keys": {
+    "races": [
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mozilla-firefox/firefox",
+    "sha": "7d1680b9a0d4a02087c52c3a9f050e88df389eae",
+    "file_url": "https://raw.githubusercontent.com/mozilla-firefox/firefox/7d1680b9a0d4a02087c52c3a9f050e88df389eae/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "NOASSERTION",
+    "stars": 13801,
+    "size_mb": 5543,
+    "created_at": "2024-07-30T01:51:51Z",
+    "last_commit_at": "2026-11-11T05:35:21Z",
+    "releases": 0,
+    "tags": 8093,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7d1680b9a0d4a02087c52c3a9f050e88df389eae",
+    "v": 3
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:911b2d48ce934da183556983ec60b2069faa46fb"
+  },
+  "id": "gh:jsbsim-team/jsbsim",
+  "kind": "repo",
+  "url": "https://github.com/JSBSim-Team/jsbsim",
+  "title": "jsbsim",
+  "why": "Models flight dynamics and control for aircraft, usable through its own scripting as well as Python and MATLAB bindings.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/JSBSim-Team/jsbsim",
+    "sha": "911b2d48ce934da183556983ec60b2069faa46fb",
+    "file_url": "https://cdn.jsdelivr.net/gh/JSBSim-Team/jsbsim@911b2d48ce934da183556983ec60b2069faa46fb/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "LGPL-2.1",
+    "stars": 2340,
+    "size_mb": 52,
+    "created_at": "2017-12-17T20:18:32Z",
+    "last_commit_at": "2026-10-29T09:47:21Z",
+    "releases": 25,
+    "tags": 25,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.3",
+      "at": "2026-10-16T00:47:58.000Z"
+    },
+    "doi": "10.21105/joss.11129",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-11"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "911b2d48ce934da183556983ec60b2069faa46fb",
+    "v": 3
+  },
+  "scan_partial": true
+}

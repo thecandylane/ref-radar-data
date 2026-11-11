@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:bafcf7348607c89f30ff9fde8e59d20b76baa86f"
+  },
   "id": "gh:cactus-compute/cactus",
   "kind": "repo",
   "url": "https://github.com/cactus-compute/cactus",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 14628,
+    "stars": 14656,
     "size_mb": 5,
     "created_at": "2026-02-24T04:50:47Z",
     "last_commit_at": "2026-11-07T20:33:33Z",
@@ -55,5 +58,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "bafcf7348607c89f30ff9fde8e59d20b76baa86f",
+    "v": 3
+  }
 }

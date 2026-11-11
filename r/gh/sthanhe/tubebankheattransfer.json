@@ -39,7 +39,12 @@
       "tag": "v1.1",
       "at": "2025-08-05T19:08:01.000Z"
     },
-    "doi": "10.5281/zenodo.15576951"
+    "doi": "10.5281/zenodo.15576951",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-11"
+    }
   },
   "reuse": "copyleft",
   "maturity": "quiet",
@@ -53,5 +58,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "22680879f5df9f611571609537205c0564553b02",
+    "v": 3
+  }
 }

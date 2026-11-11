@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:02232925fa543cb3ba167fbc7ea423e6a1ba1dbe"
+  },
   "id": "gh:alvistack/ansible-role-crun",
   "kind": "repo",
   "url": "https://github.com/alvistack/ansible-role-crun",
@@ -54,5 +57,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "02232925fa543cb3ba167fbc7ea423e6a1ba1dbe",
+    "v": 3
+  }
 }

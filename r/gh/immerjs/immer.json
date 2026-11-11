@@ -35,16 +35,16 @@
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 29004,
+    "stars": 29003,
     "size_mb": 8,
     "created_at": "2017-12-29T12:25:47Z",
-    "last_commit_at": "2026-10-22T11:22:16Z",
-    "releases": 147,
-    "tags": 182,
+    "last_commit_at": "2026-11-10T14:46:10Z",
+    "releases": 148,
+    "tags": 183,
     "archived": false,
     "release": {
-      "tag": "v11.2.9",
-      "at": "2026-10-22T11:23:25.000Z"
+      "tag": "v11.2.10",
+      "at": "2026-11-10T14:41:29.000Z"
     }
   },
   "reuse": "copy",
@@ -59,5 +59,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "75a290e44ba14bd723c8ef8546b6559c8ef3ae88",
+    "v": 3
+  }
 }

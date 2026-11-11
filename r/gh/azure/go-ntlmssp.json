@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:22eaf2c1df4fac22f6f48b99457611a67d74f522"
-  },
   "id": "gh:azure/go-ntlmssp",
   "kind": "repo",
   "url": "https://github.com/Azure/go-ntlmssp",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Azure/go-ntlmssp",
-    "sha": "22eaf2c1df4fac22f6f48b99457611a67d74f522",
-    "file_url": "https://cdn.jsdelivr.net/gh/Azure/go-ntlmssp@22eaf2c1df4fac22f6f48b99457611a67d74f522/{path}"
+    "sha": "6ec8542908d0c278b72b8bd7fcc21a21d88478a1",
+    "file_url": "https://cdn.jsdelivr.net/gh/Azure/go-ntlmssp@6ec8542908d0c278b72b8bd7fcc21a21d88478a1/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -40,7 +37,7 @@
     "stars": 204,
     "size_mb": 0,
     "created_at": "2015-10-17T04:17:33Z",
-    "last_commit_at": "2026-11-09T09:02:04Z",
+    "last_commit_at": "2026-11-11T09:25:45Z",
     "releases": 3,
     "tags": 3,
     "archived": false,
@@ -62,11 +59,15 @@
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "6ec8542908d0c278b72b8bd7fcc21a21d88478a1",
+    "v": 3
+  },
   "risk": {
     "level": "caution",
     "signals": [
       "contains raw shellcode bytes"
     ],
-    "scanned_at": "2026-11-08T10:02:13.074Z"
+    "scanned_at": "2026-11-10T12:15:21.375Z"
   }
 }

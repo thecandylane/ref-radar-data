@@ -35,16 +35,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/alibaba/open-code-review",
-    "sha": "34517e30100214a335a654e0ae5834da9fd5f9b1",
-    "file_url": "https://cdn.jsdelivr.net/gh/alibaba/open-code-review@34517e30100214a335a654e0ae5834da9fd5f9b1/{path}"
+    "sha": "e170728a2f05cada736aa481ce7ef26bbbadd3fb",
+    "file_url": "https://cdn.jsdelivr.net/gh/alibaba/open-code-review@e170728a2f05cada736aa481ce7ef26bbbadd3fb/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 49749,
-    "size_mb": 56,
+    "stars": 49820,
+    "size_mb": 55,
     "created_at": "2026-05-18T02:16:36Z",
-    "last_commit_at": "2026-11-10T08:13:10Z",
+    "last_commit_at": "2026-11-11T09:55:19Z",
     "releases": 145,
     "tags": 163,
     "archived": false,
@@ -61,10 +61,14 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 424,
+    "star_delta_7d": 429,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "e170728a2f05cada736aa481ce7ef26bbbadd3fb",
+    "v": 3
+  },
   "hot": true
 }

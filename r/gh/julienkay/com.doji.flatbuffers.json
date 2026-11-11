@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:db2c80ece1b809d34f4fc76bd5dcaa9bf44bc94c"
+  },
+  "id": "gh:julienkay/com.doji.flatbuffers",
+  "kind": "repo",
+  "url": "https://github.com/julienkay/com.doji.flatbuffers",
+  "title": "com.doji.flatbuffers",
+  "why": "Packages the FlatBuffers C# library under the com.doji name with a projects folder for testing.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/julienkay/com.doji.flatbuffers",
+    "sha": "db2c80ece1b809d34f4fc76bd5dcaa9bf44bc94c",
+    "file_url": "https://cdn.jsdelivr.net/gh/julienkay/com.doji.flatbuffers@db2c80ece1b809d34f4fc76bd5dcaa9bf44bc94c/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "MIT",
+    "stars": 4,
+    "size_mb": 0,
+    "created_at": "2024-09-19T20:09:35Z",
+    "last_commit_at": "2024-09-20T13:08:22Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "db2c80ece1b809d34f4fc76bd5dcaa9bf44bc94c",
+    "v": 3
+  }
+}

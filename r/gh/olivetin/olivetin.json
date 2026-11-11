@@ -1,0 +1,62 @@
+{
+  "id": "gh:olivetin/olivetin",
+  "kind": "repo",
+  "url": "https://github.com/OliveTin/OliveTin",
+  "title": "OliveTin",
+  "why": "Exposes predefined shell commands as buttons in a web interface so other people can run them safely, configured in config.yaml.",
+  "keys": {
+    "races": [
+      "infra/hosting"
+    ],
+    "lanes": [
+      "infra/hosting"
+    ],
+    "capabilities": [
+      "infra/hosting/control-panels"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OliveTin/OliveTin",
+    "sha": "9ce8b0ef12ce419b2ea212660218057d0d27eb34",
+    "file_url": "https://cdn.jsdelivr.net/gh/OliveTin/OliveTin@9ce8b0ef12ce419b2ea212660218057d0d27eb34/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "AGPL-3.0",
+    "stars": 3880,
+    "size_mb": 30,
+    "created_at": "2021-05-07T16:57:44Z",
+    "last_commit_at": "2026-10-24T09:58:14Z",
+    "releases": 149,
+    "tags": 157,
+    "archived": false,
+    "release": {
+      "tag": "3000.21.0",
+      "at": "2026-10-24T10:14:29.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9ce8b0ef12ce419b2ea212660218057d0d27eb34",
+    "v": 3
+  }
+}

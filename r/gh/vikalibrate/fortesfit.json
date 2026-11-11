@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0681b8792a374a6bd79dcfe7b03e76ea6b4b2b97"
+  },
+  "id": "gh:vikalibrate/fortesfit",
+  "kind": "repo",
+  "url": "https://github.com/vikalibrate/FortesFit",
+  "title": "FortesFit",
+  "why": "Fits an observed SED with several model components at once, as a Python package with docs and a fortesfit module.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vikalibrate/FortesFit",
+    "sha": "0681b8792a374a6bd79dcfe7b03e76ea6b4b2b97",
+    "file_url": "https://cdn.jsdelivr.net/gh/vikalibrate/FortesFit@0681b8792a374a6bd79dcfe7b03e76ea6b4b2b97/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 18,
+    "size_mb": 1,
+    "created_at": "2016-12-10T17:42:50Z",
+    "last_commit_at": "2020-11-02T11:18:09Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0681b8792a374a6bd79dcfe7b03e76ea6b4b2b97",
+    "v": 3
+  }
+}

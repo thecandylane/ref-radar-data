@@ -37,16 +37,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 51022,
+    "stars": 51024,
     "size_mb": 571,
     "created_at": "2015-03-04T00:46:28Z",
-    "last_commit_at": "2026-11-10T02:21:03Z",
-    "releases": 408,
-    "tags": 926,
+    "last_commit_at": "2026-11-11T04:28:40Z",
+    "releases": 409,
+    "tags": 927,
     "archived": false,
     "release": {
-      "tag": "v16.2.1",
-      "at": "2026-10-28T16:25:10.000Z"
+      "tag": "v16.3.0",
+      "at": "2026-11-10T20:03:59.000Z"
     }
   },
   "reuse": "copy",
@@ -57,9 +57,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 6,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "e967b1e39b05a70d139081a26d95048e8dc36ccf",
+    "v": 3
+  }
 }

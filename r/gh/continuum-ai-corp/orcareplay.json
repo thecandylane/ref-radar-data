@@ -1,0 +1,95 @@
+{
+  "label": "agent-trap",
+  "labels": [
+    "agent-trap"
+  ],
+  "trap": {
+    "signs": [
+      {
+        "rule": "T5c",
+        "path": "packages/cli/quickstart/trace/fs/HEAD",
+        "note": "an embedded bare git repository whose config or hooks run a program",
+        "mark": "agent-trap"
+      }
+    ],
+    "files": [
+      "packages/cli/quickstart/trace/fs/HEAD"
+    ],
+    "marks": [
+      "agent-trap"
+    ]
+  },
+  "id": "gh:continuum-ai-corp/orcareplay",
+  "kind": "repo",
+  "url": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+  "title": "OrcaReplay",
+  "why": "Records an agent run so you can replay or fork it and debug the trace with a different model.",
+  "keys": {
+    "races": [
+      "agents/sandboxes",
+      "infra/observability",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/sandboxes",
+      "infra/observability",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/sandboxes/run-replay",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+    "sha": "a9178ca26af95cfd3231b8eb2da4ae11dbbd0a84",
+    "file_url": "https://cdn.jsdelivr.net/gh/Continuum-AI-Corp/OrcaReplay@a9178ca26af95cfd3231b8eb2da4ae11dbbd0a84/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 512,
+    "size_mb": 5,
+    "created_at": "2026-08-29T08:41:53Z",
+    "last_commit_at": "2026-10-01T09:18:53Z",
+    "releases": 0,
+    "tags": 13,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a9178ca26af95cfd3231b8eb2da4ae11dbbd0a84",
+    "v": 3
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-10T10:34:27.250Z"
+  }
+}

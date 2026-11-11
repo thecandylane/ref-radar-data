@@ -1,0 +1,61 @@
+{
+  "id": "gh:morglod/mox",
+  "kind": "repo",
+  "url": "https://github.com/Morglod/mox",
+  "title": "mox",
+  "why": "Statically typed low-level language with compile-time code execution and generation, three backends (x86_64 JIT, LLVM, C) and built-in 3D math.",
+  "keys": {
+    "races": [
+      "languages/compilers"
+    ],
+    "lanes": [
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Morglod/mox",
+    "sha": "526d765a7a338e1a0c6168c077c1aefd50a51caa",
+    "file_url": "https://cdn.jsdelivr.net/gh/Morglod/mox@526d765a7a338e1a0c6168c077c1aefd50a51caa/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 74,
+    "size_mb": 16,
+    "created_at": "2026-08-24T22:05:48Z",
+    "last_commit_at": "2026-10-19T13:05:36Z",
+    "releases": 11,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "0.2.0",
+      "at": "2026-10-19T13:04:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "526d765a7a338e1a0c6168c077c1aefd50a51caa",
+    "v": 3
+  },
+  "scan_partial": true
+}

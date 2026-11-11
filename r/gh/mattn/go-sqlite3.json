@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:93c7e0a2ec6762a38ab371755d49a2b3f4a12e67"
+  },
+  "id": "gh:mattn/go-sqlite3",
+  "kind": "repo",
+  "url": "https://github.com/mattn/go-sqlite3",
+  "title": "go-sqlite3",
+  "why": "Go database/sql driver that bundles SQLite through cgo, with build tags for FTS5, vtable and other options.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mattn/go-sqlite3",
+    "sha": "93c7e0a2ec6762a38ab371755d49a2b3f4a12e67",
+    "file_url": "https://cdn.jsdelivr.net/gh/mattn/go-sqlite3@93c7e0a2ec6762a38ab371755d49a2b3f4a12e67/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 9275,
+    "size_mb": 48,
+    "created_at": "2011-11-11T12:36:50Z",
+    "last_commit_at": "2026-11-11T01:04:43Z",
+    "releases": 10,
+    "tags": 68,
+    "archived": false,
+    "release": {
+      "tag": "v1.14.53",
+      "at": "2026-11-05T15:04:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "93c7e0a2ec6762a38ab371755d49a2b3f4a12e67",
+    "v": 3
+  }
+}

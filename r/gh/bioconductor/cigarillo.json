@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:5add90b609ca0ffa6e22d9d98a2ee1ca32fd902c"
+  },
   "id": "gh:bioconductor/cigarillo",
   "kind": "repo",
   "url": "https://github.com/Bioconductor/cigarillo",
@@ -53,5 +56,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "5add90b609ca0ffa6e22d9d98a2ee1ca32fd902c",
+    "v": 3
+  }
 }

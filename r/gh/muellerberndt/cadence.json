@@ -1,0 +1,67 @@
+{
+  "id": "gh:muellerberndt/cadence",
+  "kind": "repo",
+  "url": "https://github.com/muellerberndt/cadence",
+  "title": "cadence",
+  "why": "Python library for composing brain-like regions that learn online with local updates instead of backpropagation.",
+  "keys": {
+    "races": [
+      "embedded/robotics",
+      "ml/training"
+    ],
+    "lanes": [
+      "embedded/robotics",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/muellerberndt/cadence",
+    "sha": "f84125e13939313fde6d815aca0e113aca864990",
+    "file_url": "https://cdn.jsdelivr.net/gh/muellerberndt/cadence@f84125e13939313fde6d815aca0e113aca864990/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 622,
+    "size_mb": 151,
+    "created_at": "2026-09-07T10:20:11Z",
+    "last_commit_at": "2026-11-11T04:18:18Z",
+    "releases": 68,
+    "tags": 87,
+    "archived": false,
+    "release": {
+      "tag": "v0.97.0",
+      "at": "2026-11-11T00:36:43.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f84125e13939313fde6d815aca0e113aca864990",
+    "v": 3
+  },
+  "scan_partial": true
+}

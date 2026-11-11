@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:1fe24410b16a468fbab39a437a07048daba32322"
+  },
   "id": "gh:augani/dory",
   "kind": "repo",
   "url": "https://github.com/Augani/dory",
@@ -35,7 +38,7 @@
   "facts": {
     "lang": "Swift",
     "license": "GPL-3.0",
-    "stars": 1638,
+    "stars": 1637,
     "size_mb": 316,
     "created_at": "2026-06-19T00:54:29Z",
     "last_commit_at": "2026-08-29T19:36:05Z",
@@ -60,5 +63,9 @@
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "1fe24410b16a468fbab39a437a07048daba32322",
+    "v": 3
+  },
   "scan_partial": true
 }

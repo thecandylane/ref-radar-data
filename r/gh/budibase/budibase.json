@@ -40,16 +40,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 28396,
-    "size_mb": 781,
+    "stars": 28398,
+    "size_mb": 782,
     "created_at": "2019-06-07T11:03:41Z",
-    "last_commit_at": "2026-11-10T09:01:48Z",
-    "releases": 996,
-    "tags": 3430,
+    "last_commit_at": "2026-11-10T16:27:18Z",
+    "releases": 999,
+    "tags": 3433,
     "archived": false,
     "release": {
-      "tag": "v3.50.0",
-      "at": "2026-10-19T08:09:46.000Z"
+      "tag": "v4.0.0",
+      "at": "2026-11-10T16:40:12.000Z"
     }
   },
   "reuse": "study",
@@ -64,5 +64,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "e29a27ac946c043fe7455af64b7f12b9031df72b",
+    "v": 3
+  }
 }

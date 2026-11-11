@@ -43,7 +43,12 @@
       "tag": "v0.2.6",
       "at": "2026-09-29T15:05:53.000Z"
     },
-    "doi": "10.21105/joss.11121"
+    "doi": "10.21105/joss.11121",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-11"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -57,5 +62,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "377ba5e5f7bb9fef337375dd2246ac39e15fce02",
+    "v": 3
+  }
 }

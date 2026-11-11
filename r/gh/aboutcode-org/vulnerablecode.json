@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:8af2bd39510f909c852c5cc086e9b56addc8c50a"
+    "swh": "swh:1:rev:9e1aeb7dba1a4c951ea1c7739dad59c13167e4d0"
   },
   "id": "gh:aboutcode-org/vulnerablecode",
   "kind": "repo",
@@ -29,8 +29,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/aboutcode-org/vulnerablecode",
-    "sha": "8af2bd39510f909c852c5cc086e9b56addc8c50a",
-    "file_url": "https://cdn.jsdelivr.net/gh/aboutcode-org/vulnerablecode@8af2bd39510f909c852c5cc086e9b56addc8c50a/{path}"
+    "sha": "9e1aeb7dba1a4c951ea1c7739dad59c13167e4d0",
+    "file_url": "https://cdn.jsdelivr.net/gh/aboutcode-org/vulnerablecode@9e1aeb7dba1a4c951ea1c7739dad59c13167e4d0/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -60,5 +60,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "scan_partial": true
+  "pack": {
+    "sha": "9e1aeb7dba1a4c951ea1c7739dad59c13167e4d0",
+    "v": 3
+  }
 }

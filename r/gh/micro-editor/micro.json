@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c9ba51d68e073c55b1c8c1e892a8c8abf025f38f"
+  },
   "id": "gh:micro-editor/micro",
   "kind": "repo",
   "url": "https://github.com/micro-editor/micro",
@@ -42,7 +45,7 @@
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 29867,
+    "stars": 29886,
     "size_mb": 14,
     "created_at": "2016-03-11T02:06:28Z",
     "last_commit_at": "2026-11-08T14:56:56Z",
@@ -62,9 +65,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 59,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "c9ba51d68e073c55b1c8c1e892a8c8abf025f38f",
+    "v": 3
+  }
 }

@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a4779514d0014bd175c2c9dc2f8e0c477489227e"
+  },
+  "id": "gh:valentint/tclust",
+  "kind": "repo",
+  "url": "https://github.com/valentint/tclust",
+  "title": "tclust",
+  "why": "Cluster data in R while trimming outliers, so a few bad points do not distort the groups.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/valentint/tclust",
+    "sha": "a4779514d0014bd175c2c9dc2f8e0c477489227e",
+    "file_url": "https://cdn.jsdelivr.net/gh/valentint/tclust@a4779514d0014bd175c2c9dc2f8e0c477489227e/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 5,
+    "size_mb": 4,
+    "created_at": "2023-03-23T09:29:56Z",
+    "last_commit_at": "2026-09-21T19:40:35Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "1.5-7",
+      "at": "2024-03-20T16:34:51.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a4779514d0014bd175c2c9dc2f8e0c477489227e",
+    "v": 3
+  }
+}

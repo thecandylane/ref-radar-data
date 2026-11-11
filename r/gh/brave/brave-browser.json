@@ -1,0 +1,62 @@
+{
+  "id": "gh:brave/brave-browser",
+  "kind": "repo",
+  "url": "https://github.com/brave/brave-browser",
+  "title": "brave-browser",
+  "why": "Tracker of issues, releases and wiki for the Brave browser on Android, iOS and desktop, while the source lives in brave-core.",
+  "keys": {
+    "races": [
+      "mobile/android",
+      "mobile/ios"
+    ],
+    "lanes": [
+      "mobile/android",
+      "mobile/ios"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/brave/brave-browser",
+    "sha": "4ac8903810b9235ffe6b37ffa9e8db26891207f9",
+    "file_url": "https://cdn.jsdelivr.net/gh/brave/brave-browser@4ac8903810b9235ffe6b37ffa9e8db26891207f9/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "MPL-2.0",
+    "stars": 24178,
+    "size_mb": 39,
+    "created_at": "2017-11-09T23:44:38Z",
+    "last_commit_at": "2026-11-11T00:03:52Z",
+    "releases": 1000,
+    "tags": 12455,
+    "archived": false,
+    "release": {
+      "tag": "v1.99.56",
+      "at": "2026-11-10T03:53:58.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4ac8903810b9235ffe6b37ffa9e8db26891207f9",
+    "v": 3
+  }
+}

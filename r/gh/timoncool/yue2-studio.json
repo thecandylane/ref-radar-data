@@ -1,0 +1,79 @@
+{
+  "id": "gh:timoncool/yue2-studio",
+  "kind": "repo",
+  "url": "https://github.com/timoncool/YuE2-Studio",
+  "title": "YuE2-Studio",
+  "why": "Tauri-based Windows app that runs YuE2 music generation locally on your GPU, with sheet music and an auto-updating installer.",
+  "keys": {
+    "races": [
+      "llm-infra/inference",
+      "desktop/app-shells",
+      "desktop/packaging"
+    ],
+    "lanes": [
+      "llm-infra/inference",
+      "desktop/app-shells",
+      "desktop/packaging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/timoncool/YuE2-Studio",
+    "sha": "b4b6d362effd5ce2f53bec753fc04ada9a81ff50",
+    "file_url": "https://cdn.jsdelivr.net/gh/timoncool/YuE2-Studio@b4b6d362effd5ce2f53bec753fc04ada9a81ff50/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 2055,
+    "size_mb": 138,
+    "created_at": "2026-09-22T23:06:11Z",
+    "last_commit_at": "2026-11-10T11:11:55Z",
+    "releases": 42,
+    "tags": 42,
+    "archived": false,
+    "release": {
+      "tag": "v3.8.5",
+      "at": "2026-11-06T01:04:48.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b4b6d362effd5ce2f53bec753fc04ada9a81ff50",
+    "v": 3
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "contains raw shellcode bytes"
+    ],
+    "scanned_at": "2026-11-02T08:36:08.131Z"
+  }
+}

@@ -40,16 +40,16 @@
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 153221,
-    "size_mb": 112,
+    "stars": 153554,
+    "size_mb": 113,
     "created_at": "2025-08-04T14:16:16Z",
-    "last_commit_at": "2026-11-10T02:19:52Z",
-    "releases": 84,
-    "tags": 85,
+    "last_commit_at": "2026-11-11T07:11:31Z",
+    "releases": 85,
+    "tags": 86,
     "archived": false,
     "release": {
-      "tag": "v4.0.28",
-      "at": "2026-11-08T15:56:25.000Z"
+      "tag": "v4.0.29",
+      "at": "2026-11-10T15:29:53.000Z"
     }
   },
   "reuse": "copy",
@@ -60,9 +60,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 1845,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "2186b3052549710e947a865e70927023d3f6100e",
+    "v": 3
+  },
+  "hot": true
 }

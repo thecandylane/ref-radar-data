@@ -51,16 +51,16 @@
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 36148,
-    "size_mb": 231,
+    "stars": 36155,
+    "size_mb": 233,
     "created_at": "2026-04-21T08:27:02Z",
-    "last_commit_at": "2026-11-10T08:59:01Z",
-    "releases": 361,
-    "tags": 621,
+    "last_commit_at": "2026-11-11T07:28:05Z",
+    "releases": 363,
+    "tags": 623,
     "archived": false,
     "release": {
-      "tag": "studio-v2.59.0",
-      "at": "2026-11-10T04:20:48.000Z"
+      "tag": "studio-v2.60.0",
+      "at": "2026-11-11T02:09:16.000Z"
     }
   },
   "reuse": "copy",
@@ -71,10 +71,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 83,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "5f372e2229826a00b3a368ec1a1da9d1a1782147",
+    "v": 3
+  },
   "scan_partial": true
 }

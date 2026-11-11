@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c903da48c97bc02f5cdfeff2ebcde00a82dfec8e"
+  },
   "id": "gh:crosstalk-solutions/project-nomad",
   "kind": "repo",
   "url": "https://github.com/Crosstalk-Solutions/project-nomad",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 43070,
+    "stars": 43172,
     "size_mb": 16,
     "created_at": "2025-06-24T15:35:01Z",
     "last_commit_at": "2026-11-09T04:03:59Z",
@@ -56,5 +59,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "c903da48c97bc02f5cdfeff2ebcde00a82dfec8e",
+    "v": 3
+  }
 }

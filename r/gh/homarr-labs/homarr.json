@@ -1,0 +1,68 @@
+{
+  "id": "gh:homarr-labs/homarr",
+  "kind": "repo",
+  "url": "https://github.com/homarr-labs/homarr",
+  "title": "homarr",
+  "why": "Self-hosted dashboard that wires 80+ integrations into one drag and drop page with built-in authentication and no YAML.",
+  "keys": {
+    "races": [
+      "infra/hosting"
+    ],
+    "lanes": [
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/homarr-labs/homarr",
+    "sha": "dfcaa9b0f83c3e658c451ae437021ee3b5e05ffa",
+    "file_url": "https://cdn.jsdelivr.net/gh/homarr-labs/homarr@dfcaa9b0f83c3e658c451ae437021ee3b5e05ffa/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 5336,
+    "size_mb": 326,
+    "created_at": "2023-12-08T21:34:43Z",
+    "last_commit_at": "2026-11-11T09:08:17Z",
+    "releases": 150,
+    "tags": 152,
+    "archived": false,
+    "release": {
+      "tag": "v2.12.0",
+      "at": "2026-11-06T23:03:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dfcaa9b0f83c3e658c451ae437021ee3b5e05ffa",
+    "v": 3
+  }
+}

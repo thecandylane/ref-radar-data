@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a7dbf4de8763432c32867de4cba64926587cfca6"
+  },
   "id": "gh:postcss/autoprefixer",
   "kind": "repo",
   "url": "https://github.com/postcss/autoprefixer",
@@ -52,9 +55,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": -2,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "a7dbf4de8763432c32867de4cba64926587cfca6",
+    "v": 3
+  }
 }

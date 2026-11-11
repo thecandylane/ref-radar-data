@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:e5271b716a8e2d1fa80a9b24ae9932b91d4ae51f"
+  },
   "id": "gh:datadog/guarddog",
   "kind": "repo",
   "url": "https://github.com/DataDog/guarddog",
@@ -57,5 +60,9 @@
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "e5271b716a8e2d1fa80a9b24ae9932b91d4ae51f",
+    "v": 3
+  },
   "scan_partial": true
 }

@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5fcb4f456485d22dc8fcca653e0241241d560687"
+  },
+  "id": "gh:ivastar/clear",
+  "kind": "repo",
+  "url": "https://github.com/ivastar/clear",
+  "title": "clear",
+  "why": "Scripts and notebooks for the CLEAR collaboration grizli reduction pipeline, from retrieving data to alignment.",
+  "keys": {
+    "races": [
+      "data/pipelines"
+    ],
+    "lanes": [
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ivastar/clear",
+    "sha": "5fcb4f456485d22dc8fcca653e0241241d560687",
+    "file_url": "https://cdn.jsdelivr.net/gh/ivastar/clear@5fcb4f456485d22dc8fcca653e0241241d560687/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 446,
+    "created_at": "2016-01-28T20:05:33Z",
+    "last_commit_at": "2022-02-24T12:46:23Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5fcb4f456485d22dc8fcca653e0241241d560687",
+    "v": 3
+  }
+}

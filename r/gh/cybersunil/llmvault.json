@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c300ed563dd14cfce8426f33d7dde7bc554ad259"
+  },
   "id": "gh:cybersunil/llmvault",
   "kind": "repo",
   "url": "https://github.com/CyberSunil/LLMVault",
@@ -55,6 +58,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "c300ed563dd14cfce8426f33d7dde7bc554ad259",
+    "v": 3
+  },
   "risk": {
     "level": "caution",
     "signals": [

@@ -6,6 +6,8 @@ body:
     attributes:
       value: |
         ref-radar lists prior art that coding agents can read and reuse. A daily job adds your suggestion to the review queue and comments here. The issue closes when the suggestion is accepted or turned down.
+
+        If accepted, your GitHub login is shown as its finder. To hide it, sign in at https://ref.lookit.space/add and tick the box, or run `ref credit off`.
   - type: input
     id: url
     attributes:

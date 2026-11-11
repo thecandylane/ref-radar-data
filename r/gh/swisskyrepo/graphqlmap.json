@@ -52,5 +52,16 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "59305d7570c8fbbb04a324e869ec9a196c150936",
+    "v": 3
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-10T11:47:26.794Z"
+  }
 }

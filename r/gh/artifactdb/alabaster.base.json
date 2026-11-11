@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:3d58a7dc755af30e0efcd3380e2d01b04629a832"
+  },
   "id": "gh:artifactdb/alabaster.base",
   "kind": "repo",
   "url": "https://github.com/ArtifactDB/alabaster.base",
@@ -53,5 +56,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "3d58a7dc755af30e0efcd3380e2d01b04629a832",
+    "v": 3
+  }
 }

@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7ed097c26bbe9af0df0e724ac3b720f534cdc510"
+  },
+  "id": "gh:ireis/prf",
+  "kind": "repo",
+  "url": "https://github.com/ireis/PRF",
+  "title": "PRF",
+  "why": "Random forest variant that carries measurement uncertainty through training, so noisy datasets give better predictions.",
+  "keys": {
+    "races": [
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ireis/PRF",
+    "sha": "7ed097c26bbe9af0df0e724ac3b720f534cdc510",
+    "file_url": "https://cdn.jsdelivr.net/gh/ireis/PRF@7ed097c26bbe9af0df0e724ac3b720f534cdc510/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 131,
+    "size_mb": 15,
+    "created_at": "2018-09-11T08:45:53Z",
+    "last_commit_at": "2023-12-02T11:37:54Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7ed097c26bbe9af0df0e724ac3b720f534cdc510",
+    "v": 3
+  }
+}

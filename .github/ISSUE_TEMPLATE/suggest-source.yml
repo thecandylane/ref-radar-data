@@ -1,5 +1,5 @@
 name: Suggest a source
-description: Suggest an RSS feed or a JSON API for the nightly radar to read.
+description: Suggest a site, an RSS feed or a JSON API for the nightly radar to read.
 title: "Suggest a source"
 body:
   - type: markdown
@@ -7,7 +7,7 @@ body:
       value: |
         The nightly job reads a fixed list of places. Suggest one more. A daily job adds your suggestion to the review queue and comments here. Nothing is fetched until it is accepted, and an accepted feed still only fills the review queue.
 
-        An RSS or Atom feed is read as it stands. Only GitHub repository links and arXiv paper links in it are kept, up to the daily cap. A JSON API is recorded and does not run until a typed fetcher is written for it.
+        Only the URL is required. An RSS or Atom feed, or a web page that lists links, is read as it stands: only the GitHub repository links and arXiv paper links in it are kept, up to the daily cap. A JSON API is recorded and does not run until a typed fetcher is written for it. Leave "What it returns" empty and a URL that looks like a feed is read as one, and any other as a page. A source carries no public credit.
   - type: input
     id: url
     attributes:
@@ -22,21 +22,22 @@ body:
       label: What it returns
       options:
         - An RSS or Atom feed
+        - A web page that lists links
         - A JSON API
     validations:
-      required: true
+      required: false
   - type: input
     id: cap
     attributes:
       label: Suggested daily cap
-      description: How many new links to take from it in one night, from 1 to 10.
+      description: How many new links to take from it in one night, from 1 to 10. Empty means 5.
       placeholder: "5"
     validations:
-      required: true
+      required: false
   - type: textarea
     id: returns
     attributes:
       label: What an agent would find there
-      description: What the feed or API lists, and why it is worth reading every night.
+      description: What it lists, and why it is worth reading every night.
     validations:
-      required: true
+      required: false

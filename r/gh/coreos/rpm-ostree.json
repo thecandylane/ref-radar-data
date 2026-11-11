@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:044f62272152338a4abfc20abd434a9249223a54"
+  },
   "id": "gh:coreos/rpm-ostree",
   "kind": "repo",
   "url": "https://github.com/coreos/rpm-ostree",
@@ -58,5 +61,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "044f62272152338a4abfc20abd434a9249223a54",
+    "v": 3
+  }
 }

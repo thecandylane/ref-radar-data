@@ -1,0 +1,60 @@
+{
+  "id": "gh:doi-usgs/egret",
+  "kind": "repo",
+  "url": "https://github.com/DOI-USGS/EGRET",
+  "title": "EGRET",
+  "why": "Analyse long-term water quality and streamflow trends in R using the WRTDS weighted regression method.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/DOI-USGS/EGRET",
+    "sha": "86c681a96ac27207b8112654694515ab47fdfe71",
+    "file_url": "https://cdn.jsdelivr.net/gh/DOI-USGS/EGRET@86c681a96ac27207b8112654694515ab47fdfe71/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 101,
+    "size_mb": 563,
+    "created_at": "2013-01-14T19:45:02Z",
+    "last_commit_at": "2026-10-23T17:21:11Z",
+    "releases": 22,
+    "tags": 23,
+    "archived": false,
+    "release": {
+      "tag": "v3.0.12",
+      "at": "2026-07-31T16:17:33.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "86c681a96ac27207b8112654694515ab47fdfe71",
+    "v": 3
+  }
+}

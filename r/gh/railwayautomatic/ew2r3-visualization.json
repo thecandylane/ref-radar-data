@@ -36,7 +36,12 @@
     "tags": 3,
     "archived": false,
     "release": null,
-    "doi": "10.5281/zenodo.21762453"
+    "doi": "10.5281/zenodo.21762453",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-11"
+    }
   },
   "reuse": "study",
   "maturity": "new",
@@ -50,5 +55,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "4eadd279e289ba2adfaa2976b1dedd40f14be17b",
+    "v": 3
+  }
 }

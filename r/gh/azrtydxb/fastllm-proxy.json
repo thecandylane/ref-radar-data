@@ -29,8 +29,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/azrtydxb/Fastllm-proxy",
-    "sha": "d0834dec1ee38ff6f48052073b058c4c3d1c526c",
-    "file_url": "https://cdn.jsdelivr.net/gh/azrtydxb/Fastllm-proxy@d0834dec1ee38ff6f48052073b058c4c3d1c526c/{path}"
+    "sha": "81a6fc805051acf65e9a206fa516a8966f267a80",
+    "file_url": "https://cdn.jsdelivr.net/gh/azrtydxb/Fastllm-proxy@81a6fc805051acf65e9a206fa516a8966f267a80/{path}"
   },
   "facts": {
     "lang": "Rust",
@@ -55,9 +55,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 1,
+    "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "81a6fc805051acf65e9a206fa516a8966f267a80",
+    "v": 3
+  }
 }

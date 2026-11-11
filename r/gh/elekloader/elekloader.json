@@ -1,0 +1,67 @@
+{
+  "id": "gh:elekloader/elekloader",
+  "kind": "repo",
+  "url": "https://github.com/elekloader/elekloader",
+  "title": "elekloader",
+  "why": "Patches mods into Elektron firmware to produce a custom OS image from the stock file you own, plus an SDK.",
+  "keys": {
+    "races": [
+      "embedded/firmware"
+    ],
+    "lanes": [
+      "embedded/firmware"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/elekloader/elekloader",
+    "sha": "8daa2ea2a42e21abc439c37ba5d03fabcd5bcc03",
+    "file_url": "https://cdn.jsdelivr.net/gh/elekloader/elekloader@8daa2ea2a42e21abc439c37ba5d03fabcd5bcc03/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-2.0",
+    "stars": 125,
+    "size_mb": 6,
+    "created_at": "2026-09-26T02:50:26Z",
+    "last_commit_at": "2026-11-10T23:27:16Z",
+    "releases": 25,
+    "tags": 26,
+    "archived": false,
+    "release": {
+      "tag": "v0.10.0",
+      "at": "2026-11-09T13:58:57.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8daa2ea2a42e21abc439c37ba5d03fabcd5bcc03",
+    "v": 3
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-10T10:41:32.938Z"
+  }
+}

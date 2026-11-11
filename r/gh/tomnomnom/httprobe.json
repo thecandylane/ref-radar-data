@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0745f649beb01c3cf712e0c52f9760d8a92cfdc2"
+  },
+  "id": "gh:tomnomnom/httprobe",
+  "kind": "repo",
+  "url": "https://github.com/tomnomnom/httprobe",
+  "title": "httprobe",
+  "why": "Pipe in domains and it prints only the hosts answering over HTTP or HTTPS, a quick first step in recon.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tomnomnom/httprobe",
+    "sha": "0745f649beb01c3cf712e0c52f9760d8a92cfdc2",
+    "file_url": "https://cdn.jsdelivr.net/gh/tomnomnom/httprobe@0745f649beb01c3cf712e0c52f9760d8a92cfdc2/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 3121,
+    "size_mb": 0,
+    "created_at": "2017-01-31T10:30:03Z",
+    "last_commit_at": "2022-06-09T16:23:42Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.2",
+      "at": "2022-06-09T16:22:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0745f649beb01c3cf712e0c52f9760d8a92cfdc2",
+    "v": 3
+  }
+}

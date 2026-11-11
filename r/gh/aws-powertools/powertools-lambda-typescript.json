@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:8d2d556e0c6e04d6fc003b970787d8a1296a38d9"
+    "swh": "swh:1:rev:f0f8e432a3b2d7c792816c68fcf32c8d8d4e2820"
   },
   "id": "gh:aws-powertools/powertools-lambda-typescript",
   "kind": "repo",
@@ -31,8 +31,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/aws-powertools/powertools-lambda-typescript",
-    "sha": "8d2d556e0c6e04d6fc003b970787d8a1296a38d9",
-    "file_url": "https://cdn.jsdelivr.net/gh/aws-powertools/powertools-lambda-typescript@8d2d556e0c6e04d6fc003b970787d8a1296a38d9/{path}"
+    "sha": "f0f8e432a3b2d7c792816c68fcf32c8d8d4e2820",
+    "file_url": "https://cdn.jsdelivr.net/gh/aws-powertools/powertools-lambda-typescript@f0f8e432a3b2d7c792816c68fcf32c8d8d4e2820/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -40,7 +40,7 @@
     "stars": 1797,
     "size_mb": 50,
     "created_at": "2020-10-19T20:09:37Z",
-    "last_commit_at": "2026-11-09T13:16:47Z",
+    "last_commit_at": "2026-11-11T08:59:24Z",
     "releases": 101,
     "tags": 146,
     "archived": false,
@@ -57,9 +57,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "f0f8e432a3b2d7c792816c68fcf32c8d8d4e2820",
+    "v": 3
+  }
 }

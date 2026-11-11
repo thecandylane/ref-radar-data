@@ -1,0 +1,61 @@
+{
+  "id": "gh:chromium/chromium",
+  "kind": "repo",
+  "url": "https://github.com/chromium/chromium",
+  "title": "chromium",
+  "why": "Upstream Chromium source mirror, where docs/README.md and the directory layout guide explain where product code lives.",
+  "keys": {
+    "races": [
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/chromium/chromium",
+    "sha": "a1ebdbe91c3de5b2bf06c0c326cd9d07f752a223",
+    "file_url": "https://raw.githubusercontent.com/chromium/chromium/a1ebdbe91c3de5b2bf06c0c326cd9d07f752a223/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "BSD-3-Clause",
+    "stars": 25299,
+    "size_mb": 66584,
+    "created_at": "2018-02-05T20:55:32Z",
+    "last_commit_at": "2026-11-11T09:56:21Z",
+    "releases": 0,
+    "tags": 39942,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a1ebdbe91c3de5b2bf06c0c326cd9d07f752a223",
+    "v": 3
+  }
+}

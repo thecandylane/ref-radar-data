@@ -1,0 +1,79 @@
+{
+  "id": "gh:sunrisesillneversee/agent-universe",
+  "kind": "repo",
+  "url": "https://github.com/SunrisesIllNeverSee/agent-universe",
+  "title": "agent-universe",
+  "why": "Registry and marketplace where agents register and operators pay, with trust tiers and an MCP server for governance rules.",
+  "keys": {
+    "races": [
+      "agents/orchestration",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/orchestration",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/orchestration/agent-networks",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SunrisesIllNeverSee/agent-universe",
+    "sha": "de0b8837e035e9c4b42ff4502e84ca683051b75c",
+    "file_url": "https://cdn.jsdelivr.net/gh/SunrisesIllNeverSee/agent-universe@de0b8837e035e9c4b42ff4502e84ca683051b75c/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 10,
+    "created_at": "2026-03-20T12:02:15Z",
+    "last_commit_at": "2026-11-10T23:15:13Z",
+    "releases": 2,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "civitae-mcp-v0.4.0",
+      "at": "2026-10-02T15:02:28.000Z"
+    },
+    "doi": "10.5281/zenodo.21071165",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-11"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "de0b8837e035e9c4b42ff4502e84ca683051b75c",
+    "v": 3
+  }
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:05ad7c8a5b8aa2aa86bbd3439ae7cf7295cac418"
+  },
   "id": "gh:donchitos/claude-code-game-studios",
   "kind": "repo",
   "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
@@ -39,7 +42,7 @@
   "facts": {
     "lang": "Shell",
     "license": "MIT",
-    "stars": 37788,
+    "stars": 38239,
     "size_mb": 5,
     "created_at": "2026-02-12T05:21:38Z",
     "last_commit_at": "2026-11-09T12:39:37Z",
@@ -63,5 +66,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "05ad7c8a5b8aa2aa86bbd3439ae7cf7295cac418",
+    "v": 3
+  }
 }

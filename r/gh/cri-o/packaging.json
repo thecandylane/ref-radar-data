@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d6c9b5ae8ab3d2532d6640ad87ae47bca5eaebdf"
+  },
   "id": "gh:cri-o/packaging",
   "kind": "repo",
   "url": "https://github.com/cri-o/packaging",
@@ -51,5 +54,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "d6c9b5ae8ab3d2532d6640ad87ae47bca5eaebdf",
+    "v": 3
+  }
 }

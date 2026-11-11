@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:016697fb84b076c6fe1d5f8d582d341dcf53766f"
+  },
   "id": "gh:bugtraceai/bugtraceai",
   "kind": "repo",
   "url": "https://github.com/BugTraceAI/BugTraceAI",
@@ -36,7 +39,7 @@
   "facts": {
     "lang": "Shell",
     "license": "Apache-2.0",
-    "stars": 372,
+    "stars": 376,
     "size_mb": 95,
     "created_at": "2026-02-11T21:11:57Z",
     "last_commit_at": "2026-10-19T10:28:01Z",
@@ -61,6 +64,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "016697fb84b076c6fe1d5f8d582d341dcf53766f",
+    "v": 3
+  },
   "risk": {
     "level": "caution",
     "signals": [

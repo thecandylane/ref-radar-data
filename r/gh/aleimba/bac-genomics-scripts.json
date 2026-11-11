@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1b2388fb9f5870a4aafa3e070823f9286178d3b1"
+  },
+  "id": "gh:aleimba/bac-genomics-scripts",
+  "kind": "repo",
+  "url": "https://github.com/aleimba/bac-genomics-scripts",
+  "title": "bac-genomics-scripts",
+  "why": "Perl scripts for bacterial genomics tasks like FASTQ stats, MLST, sequence conversion and NCBI downloads.",
+  "keys": {
+    "races": [
+      "data/pipelines",
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/pipelines",
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/aleimba/bac-genomics-scripts",
+    "sha": "1b2388fb9f5870a4aafa3e070823f9286178d3b1",
+    "file_url": "https://cdn.jsdelivr.net/gh/aleimba/bac-genomics-scripts@1b2388fb9f5870a4aafa3e070823f9286178d3b1/{path}"
+  },
+  "facts": {
+    "lang": "Perl",
+    "license": "GPL-3.0",
+    "stars": 49,
+    "size_mb": 3,
+    "created_at": "2014-01-09T08:24:59Z",
+    "last_commit_at": "2017-02-16T12:05:40Z",
+    "releases": 1,
+    "tags": 52,
+    "archived": false,
+    "release": {
+      "tag": "bovine_ecoli_mastitis",
+      "at": "2016-12-21T14:35:44.000Z"
+    },
+    "doi": "10.5281/zenodo.215824",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-11"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1b2388fb9f5870a4aafa3e070823f9286178d3b1",
+    "v": 3
+  }
+}

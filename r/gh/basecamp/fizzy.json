@@ -1,0 +1,68 @@
+{
+  "id": "gh:basecamp/fizzy",
+  "kind": "repo",
+  "url": "https://github.com/basecamp/fizzy",
+  "title": "fizzy",
+  "why": "Rails and Hotwire kanban app whose repo ships AGENTS.md and STYLE.md, showing how a Ruby codebase is documented for agents.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/basecamp/fizzy",
+    "sha": "3cc736b0cd58e71aa8ff0601653bd9950b1eb216",
+    "file_url": "https://cdn.jsdelivr.net/gh/basecamp/fizzy@3cc736b0cd58e71aa8ff0601653bd9950b1eb216/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "NOASSERTION",
+    "stars": 8291,
+    "size_mb": 66,
+    "created_at": "2024-06-21T15:43:29Z",
+    "last_commit_at": "2026-11-11T10:00:44Z",
+    "releases": 1000,
+    "tags": 1351,
+    "archived": false,
+    "release": {
+      "tag": "fizzy@259c624",
+      "at": "2026-11-11T07:27:52.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3cc736b0cd58e71aa8ff0601653bd9950b1eb216",
+    "v": 3
+  }
+}

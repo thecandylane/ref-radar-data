@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:f6bf00fe1e17d44dfc42051873a880794fd5ca0c"
+  },
   "id": "gh:alucardiio-yt/aio-mod-updater",
   "kind": "repo",
   "url": "https://github.com/alucardiio-yt/AIO-MOD-Updater",
@@ -28,13 +31,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/alucardiio-yt/AIO-MOD-Updater",
-    "sha": "ce1e2f4c72b35a064f47995d1e80a0cb8948bb0e",
-    "file_url": "https://cdn.jsdelivr.net/gh/alucardiio-yt/AIO-MOD-Updater@ce1e2f4c72b35a064f47995d1e80a0cb8948bb0e/{path}"
+    "sha": "f6bf00fe1e17d44dfc42051873a880794fd5ca0c",
+    "file_url": "https://cdn.jsdelivr.net/gh/alucardiio-yt/AIO-MOD-Updater@f6bf00fe1e17d44dfc42051873a880794fd5ca0c/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "GPL-3.0",
-    "stars": 94,
+    "stars": 95,
     "size_mb": 5,
     "created_at": "2026-03-06T03:58:17Z",
     "last_commit_at": "2026-11-09T07:58:11Z",
@@ -58,5 +61,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "f6bf00fe1e17d44dfc42051873a880794fd5ca0c",
+    "v": 3
+  }
 }

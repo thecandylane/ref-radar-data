@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:618434bcf6ef31e2f54a9c0561bf897be12468e0"
+  },
+  "id": "gh:bioconductor/uniprot.ws",
+  "kind": "repo",
+  "url": "https://github.com/Bioconductor/UniProt.ws",
+  "title": "UniProt.ws",
+  "why": "Queries UniProt web services from R, packaged as a Bioconductor core package with vignettes and tests.",
+  "keys": {
+    "races": [
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Bioconductor/UniProt.ws",
+    "sha": "618434bcf6ef31e2f54a9c0561bf897be12468e0",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/UniProt.ws@618434bcf6ef31e2f54a9c0561bf897be12468e0/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 10,
+    "size_mb": 2,
+    "created_at": "2017-09-01T20:25:00Z",
+    "last_commit_at": "2026-07-21T18:43:28Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "618434bcf6ef31e2f54a9c0561bf897be12468e0",
+    "v": 3
+  }
+}

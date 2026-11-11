@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2606.03979",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2606.03979",
+  "title": "Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories",
+  "why": "Proposes a sleep phase where a model distills short-term memories into long-term parameters, then dreams up synthetic data with RL to self-improve.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "ml/training"
+    ],
+    "lanes": [
+      "agents/memory",
+      "ml/training"
+    ],
+    "capabilities": [
+      "agents/memory/long-term-memory"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2606.03979"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "gh:millillion/lasm",
+  "kind": "repo",
+  "url": "https://github.com/Millillion/lasm",
+  "title": "lasm",
+  "why": "Compiles Lean programs to run on Node, Bun, Deno and Cloudflare Workers through WebAssembly, for formally verified full-stack code at the edge.",
+  "keys": {
+    "races": [
+      "languages/compilers",
+      "languages/runtimes",
+      "infra/serverless"
+    ],
+    "lanes": [
+      "languages/compilers",
+      "languages/runtimes",
+      "infra/serverless"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Millillion/lasm",
+    "sha": "f7f43d9c7032a9676a3bfcec5d6325c31f3b9671",
+    "file_url": "https://raw.githubusercontent.com/Millillion/lasm/f7f43d9c7032a9676a3bfcec5d6325c31f3b9671/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 105,
+    "size_mb": 108,
+    "created_at": "2026-09-23T15:24:52Z",
+    "last_commit_at": "2026-11-11T05:16:03Z",
+    "releases": 23,
+    "tags": 30,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.0",
+      "at": "2026-11-11T05:58:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f7f43d9c7032a9676a3bfcec5d6325c31f3b9671",
+    "v": 3
+  },
+  "scan_partial": true
+}

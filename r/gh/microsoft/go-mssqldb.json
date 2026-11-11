@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:6c346b78c201e490ca2585f0987ddd8f6b4f06a3"
+  },
   "id": "gh:microsoft/go-mssqldb",
   "kind": "repo",
   "url": "https://github.com/microsoft/go-mssqldb",
@@ -60,5 +63,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "6c346b78c201e490ca2585f0987ddd8f6b4f06a3",
+    "v": 3
+  }
 }

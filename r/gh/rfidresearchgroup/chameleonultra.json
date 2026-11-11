@@ -1,0 +1,69 @@
+{
+  "id": "gh:rfidresearchgroup/chameleonultra",
+  "kind": "repo",
+  "url": "https://github.com/RfidResearchGroup/ChameleonUltra",
+  "title": "ChameleonUltra",
+  "why": "Provides RFID and NFC card emulation on NRF52840 hardware, and can read, write and decrypt Mifare, NTAG and Ultralight cards.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "embedded/firmware"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "embedded/firmware"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/RfidResearchGroup/ChameleonUltra",
+    "sha": "4c5bc2cb6b023d23f7bbc383c9b2b5e39f95419e",
+    "file_url": "https://cdn.jsdelivr.net/gh/RfidResearchGroup/ChameleonUltra@4c5bc2cb6b023d23f7bbc383c9b2b5e39f95419e/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-3.0",
+    "stars": 3212,
+    "size_mb": 106,
+    "created_at": "2022-12-22T22:53:04Z",
+    "last_commit_at": "2026-11-11T06:45:26Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v2.3.0",
+      "at": "2026-10-24T09:49:04.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4c5bc2cb6b023d23f7bbc383c9b2b5e39f95419e",
+    "v": 3
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "contains raw shellcode bytes"
+    ],
+    "scanned_at": "2026-11-04T10:19:11.017Z"
+  }
+}

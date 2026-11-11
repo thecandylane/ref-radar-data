@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c4ca36a6b966c338cb8306e704dd203ae54f3711"
+  },
   "id": "gh:abuzar-ansarii/pocketstrike",
   "kind": "repo",
   "url": "https://github.com/AbuZar-Ansarii/PocketStrike",
@@ -42,7 +45,7 @@
   "facts": {
     "lang": "Dart",
     "license": "MIT",
-    "stars": 173,
+    "stars": 172,
     "size_mb": 2,
     "created_at": "2026-08-27T06:08:29Z",
     "last_commit_at": "2026-08-27T07:06:14Z",
@@ -66,5 +69,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "c4ca36a6b966c338cb8306e704dd203ae54f3711",
+    "v": 3
+  }
 }

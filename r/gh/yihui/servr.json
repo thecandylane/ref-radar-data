@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0a698a55120a073d9bef18103cb25cb2f4a00091"
+  },
+  "id": "gh:yihui/servr",
+  "kind": "repo",
+  "url": "https://github.com/yihui/servr",
+  "title": "servr",
+  "why": "Start a web server from R to serve files over HTTP, with websocket support for the browser.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/yihui/servr",
+    "sha": "0a698a55120a073d9bef18103cb25cb2f4a00091",
+    "file_url": "https://cdn.jsdelivr.net/gh/yihui/servr@0a698a55120a073d9bef18103cb25cb2f4a00091/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 291,
+    "size_mb": 0,
+    "created_at": "2013-09-13T04:43:46Z",
+    "last_commit_at": "2026-11-01T20:15:43Z",
+    "releases": 34,
+    "tags": 34,
+    "archived": false,
+    "release": {
+      "tag": "v0.33",
+      "at": "2026-06-16T15:08:54.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0a698a55120a073d9bef18103cb25cb2f4a00091",
+    "v": 3
+  }
+}

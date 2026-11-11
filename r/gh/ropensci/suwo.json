@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:49ce46868bf8c3f60817f2de6db0b03896664285"
+  },
+  "id": "gh:ropensci/suwo",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/suwo",
+  "title": "suwo",
+  "why": "Queries and downloads media files from nature repositories directly in R.",
+  "keys": {
+    "races": [
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/suwo",
+    "sha": "49ce46868bf8c3f60817f2de6db0b03896664285",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/suwo@49ce46868bf8c3f60817f2de6db0b03896664285/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 9,
+    "size_mb": 54,
+    "created_at": "2022-12-08T20:37:25Z",
+    "last_commit_at": "2026-10-09T17:35:23Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "49ce46868bf8c3f60817f2de6db0b03896664285",
+    "v": 3
+  },
+  "scan_partial": true
+}

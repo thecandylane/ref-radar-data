@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:67455f2987aed222da40d82b0c6d07aeb2cb515c"
+  },
+  "id": "gh:rstudio/packrat",
+  "kind": "repo",
+  "url": "https://github.com/rstudio/packrat",
+  "title": "packrat",
+  "why": "Keeps R project dependencies in a project-local library with fixed versions, and restores them on another machine.",
+  "keys": {
+    "races": [
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rstudio/packrat",
+    "sha": "67455f2987aed222da40d82b0c6d07aeb2cb515c",
+    "file_url": "https://cdn.jsdelivr.net/gh/rstudio/packrat@67455f2987aed222da40d82b0c6d07aeb2cb515c/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 409,
+    "size_mb": 12,
+    "created_at": "2013-10-08T21:29:27Z",
+    "last_commit_at": "2026-10-30T21:11:49Z",
+    "releases": 12,
+    "tags": 19,
+    "archived": false,
+    "release": {
+      "tag": "v0.9.3",
+      "at": "2025-06-16T20:57:31.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "67455f2987aed222da40d82b0c6d07aeb2cb515c",
+    "v": 3
+  }
+}

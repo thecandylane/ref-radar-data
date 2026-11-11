@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a6e7cf2be55bc8735b7be3ab6e42fc9c3f3e62c0"
+  },
+  "id": "gh:go-ole/test-com-server",
+  "kind": "repo",
+  "url": "https://github.com/go-ole/test-com-server",
+  "title": "test-com-server",
+  "why": "A .NET COM server whose only job is serving as a fixture when testing the Go COM binding library.",
+  "keys": {
+    "races": [
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/go-ole/test-com-server",
+    "sha": "a6e7cf2be55bc8735b7be3ab6e42fc9c3f3e62c0",
+    "file_url": "https://cdn.jsdelivr.net/gh/go-ole/test-com-server@a6e7cf2be55bc8735b7be3ab6e42fc9c3f3e62c0/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "MIT",
+    "stars": 4,
+    "size_mb": 0,
+    "created_at": "2015-05-12T06:34:50Z",
+    "last_commit_at": "2026-03-29T22:23:25Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.0",
+      "at": "2026-03-29T19:30:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a6e7cf2be55bc8735b7be3ab6e42fc9c3f3e62c0",
+    "v": 3
+  }
+}

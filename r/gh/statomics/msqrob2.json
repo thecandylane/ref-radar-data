@@ -1,0 +1,57 @@
+{
+  "id": "gh:statomics/msqrob2",
+  "kind": "repo",
+  "url": "https://github.com/statOmics/msqrob2",
+  "title": "msqrob2",
+  "why": "Fit MSqRob models in R to find differentially expressed proteins in Features data.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/statOmics/msqrob2",
+    "sha": "adfd6edaf6b2367b8899107c7a2db781888ccc04",
+    "file_url": "https://cdn.jsdelivr.net/gh/statOmics/msqrob2@adfd6edaf6b2367b8899107c7a2db781888ccc04/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 16,
+    "size_mb": 179,
+    "created_at": "2019-12-11T22:50:01Z",
+    "last_commit_at": "2026-11-09T13:40:42Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "adfd6edaf6b2367b8899107c7a2db781888ccc04",
+    "v": 3
+  }
+}

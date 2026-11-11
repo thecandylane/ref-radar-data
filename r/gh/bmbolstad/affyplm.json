@@ -34,14 +34,14 @@
     "stars": 0,
     "size_mb": 3,
     "created_at": "2014-08-31T21:43:02Z",
-    "last_commit_at": "2026-04-28T12:30:18Z",
+    "last_commit_at": "2026-11-11T03:10:35Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
     "release": null
   },
   "reuse": "study",
-  "maturity": "quiet",
+  "maturity": "unreleased",
   "status": null,
   "stats": {
     "picks": {},
@@ -52,5 +52,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "31ba047388bd3394300eab56a7343558ed724e57",
+    "v": 3
+  }
 }

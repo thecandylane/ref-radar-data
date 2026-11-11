@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.11571",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.11571",
+  "title": "Treating the Model as an Untrusted Component: Deterministic Policy Enforcement, Human Approval and Taint Tracking Against Prompt Injection in Tool-Using Agents, with Validation on Open-Weights Models",
+  "why": "Puts a task-bound monitor outside the model to gate tool calls, with a notebook that reruns the open-weights evaluation.",
+  "keys": {
+    "races": [
+      "cyber/agent-security",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "cyber/agent-security",
+      "llm-infra/evals"
+    ],
+    "capabilities": [
+      "cyber/agent-security/runtime-guardrails"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.11571"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

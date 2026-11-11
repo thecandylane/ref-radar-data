@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:8b18f07cd2a13d39ca354c426e30dd23131063ea"
+  },
   "id": "gh:epiforecasts/scoringutils",
   "kind": "repo",
   "url": "https://github.com/epiforecasts/scoringutils",
@@ -29,7 +32,7 @@
     "lang": "R",
     "license": "NOASSERTION",
     "stars": 65,
-    "size_mb": 137,
+    "size_mb": 138,
     "created_at": "2020-02-14T12:16:42Z",
     "last_commit_at": "2026-11-08T13:35:24Z",
     "releases": 12,
@@ -52,5 +55,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "8b18f07cd2a13d39ca354c426e30dd23131063ea",
+    "v": 3
+  }
 }

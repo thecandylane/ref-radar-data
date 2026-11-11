@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:374c0630326ea61be9adca8d7de3c96f083c00df"
+  },
+  "id": "gh:jiafeimiao-k-cat/discimagestudio",
+  "kind": "repo",
+  "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+  "title": "DiscImageStudio",
+  "why": "Windows app in C# that turns a picture into disc data so a burned CD, DVD or BD-R shows the image, with track pitch calibration.",
+  "keys": {
+    "races": [
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+    "sha": "374c0630326ea61be9adca8d7de3c96f083c00df",
+    "file_url": "https://cdn.jsdelivr.net/gh/JiaFeiMiao-K-Cat/DiscImageStudio@374c0630326ea61be9adca8d7de3c96f083c00df/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "GPL-3.0",
+    "stars": 9404,
+    "size_mb": 60,
+    "created_at": "2026-08-23T03:40:14Z",
+    "last_commit_at": "2026-11-10T07:15:41Z",
+    "releases": 13,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v1.5.0",
+      "at": "2026-11-07T02:12:23.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "374c0630326ea61be9adca8d7de3c96f083c00df",
+    "v": 3
+  },
+  "scan_partial": true
+}

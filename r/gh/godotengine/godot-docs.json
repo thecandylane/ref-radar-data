@@ -1,0 +1,59 @@
+{
+  "id": "gh:godotengine/godot-docs",
+  "kind": "repo",
+  "url": "https://github.com/godotengine/godot-docs",
+  "title": "godot-docs",
+  "why": "reStructuredText source of the Godot manual and class reference, built with Sphinx for Read the Docs.",
+  "keys": {
+    "races": [
+      "games/engines",
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "games/engines",
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/godotengine/godot-docs",
+    "sha": "0709b93758c40d26c91e1d9e4f3afd262c4ed386",
+    "file_url": "https://raw.githubusercontent.com/godotengine/godot-docs/0709b93758c40d26c91e1d9e4f3afd262c4ed386/{path}"
+  },
+  "facts": {
+    "lang": "reStructuredText",
+    "license": "NOASSERTION",
+    "stars": 5899,
+    "size_mb": 648,
+    "created_at": "2015-12-12T15:02:06Z",
+    "last_commit_at": "2026-11-10T17:26:47Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0709b93758c40d26c91e1d9e4f3afd262c4ed386",
+    "v": 3
+  }
+}

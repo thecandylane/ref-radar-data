@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.12177",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.12177",
+  "title": "Embodied First Exam",
+  "why": "Tests whether coding agents can control robots, on 1,156 tasks across 47 robots, where each agent picks direct control, code or policy training.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "embedded/robotics",
+      "agents/coding"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "embedded/robotics",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.12177"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

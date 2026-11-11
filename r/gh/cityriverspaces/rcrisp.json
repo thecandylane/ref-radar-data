@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:03fa30690503bd832f6afab63c60b5f2ee57a316"
+  },
   "id": "gh:cityriverspaces/rcrisp",
   "kind": "repo",
   "url": "https://github.com/CityRiverSpaces/rcrisp",
@@ -52,5 +55,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "03fa30690503bd832f6afab63c60b5f2ee57a316",
+    "v": 3
+  }
 }

@@ -1,0 +1,74 @@
+{
+  "id": "gh:cortexkit/magic-context",
+  "kind": "repo",
+  "url": "https://github.com/cortexkit/magic-context",
+  "title": "magic-context",
+  "why": "Keeps a coding agent's single session going by managing context and memory in the background, cache-aware, for OpenCode and pi.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "agents/context"
+    ],
+    "lanes": [
+      "agents/memory",
+      "agents/context"
+    ],
+    "capabilities": [
+      "agents/memory/long-term-memory",
+      "agents/context/context-compaction"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cortexkit/magic-context",
+    "sha": "d8071604fc5d546500133923195eb95773e818e0",
+    "file_url": "https://cdn.jsdelivr.net/gh/cortexkit/magic-context@d8071604fc5d546500133923195eb95773e818e0/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 2507,
+    "size_mb": 180,
+    "created_at": "2026-03-26T12:27:01Z",
+    "last_commit_at": "2026-11-11T01:54:04Z",
+    "releases": 282,
+    "tags": 305,
+    "archived": false,
+    "release": {
+      "tag": "v0.49.50",
+      "at": "2026-11-10T23:31:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d8071604fc5d546500133923195eb95773e818e0",
+    "v": 3
+  },
+  "scan_partial": true
+}

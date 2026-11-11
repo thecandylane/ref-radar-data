@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2ecbec20a4311dbfbfee36fa787354c727e5838e"
+  },
+  "id": "gh:rorynolan/strex",
+  "kind": "repo",
+  "url": "https://github.com/rorynolan/strex",
+  "title": "strex",
+  "why": "Fills gaps in stringr and stringi with extra R string manipulation helpers, documented with a pkgdown site.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rorynolan/strex",
+    "sha": "2ecbec20a4311dbfbfee36fa787354c727e5838e",
+    "file_url": "https://cdn.jsdelivr.net/gh/rorynolan/strex@2ecbec20a4311dbfbfee36fa787354c727e5838e/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 40,
+    "size_mb": 8,
+    "created_at": "2018-08-29T12:58:42Z",
+    "last_commit_at": "2026-07-05T01:42:37Z",
+    "releases": 13,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.0",
+      "at": "2024-01-31T17:41:42.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2ecbec20a4311dbfbfee36fa787354c727e5838e",
+    "v": 3
+  }
+}

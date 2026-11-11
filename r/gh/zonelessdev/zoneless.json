@@ -1,0 +1,66 @@
+{
+  "id": "gh:zonelessdev/zoneless",
+  "kind": "repo",
+  "url": "https://github.com/zonelessdev/zoneless",
+  "title": "zoneless",
+  "why": "Takes USDC on Solana behind a Stripe-compatible API, covering subscriptions and marketplace payouts on your own servers.",
+  "keys": {
+    "races": [
+      "finance/accounting",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "finance/accounting",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zonelessdev/zoneless",
+    "sha": "5febc1a9d27ed7824a4c5d04e8e8b4c4c0fefab5",
+    "file_url": "https://cdn.jsdelivr.net/gh/zonelessdev/zoneless@5febc1a9d27ed7824a4c5d04e8e8b4c4c0fefab5/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 581,
+    "size_mb": 7,
+    "created_at": "2026-03-23T13:06:49Z",
+    "last_commit_at": "2026-09-30T11:38:27Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.0",
+      "at": "2026-03-23T13:23:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5febc1a9d27ed7824a4c5d04e8e8b4c4c0fefab5",
+    "v": 3
+  }
+}

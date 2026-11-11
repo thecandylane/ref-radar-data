@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c40611f66e75d2b35a5be5eb821af83b8d509a78"
+  },
+  "id": "gh:mayer79/confintr",
+  "kind": "repo",
+  "url": "https://github.com/mayer79/confintr",
+  "title": "confintr",
+  "why": "Calculates confidence intervals in R, bootstrap ones included, with vignettes and reverse dependency checks in revdep.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mayer79/confintr",
+    "sha": "c40611f66e75d2b35a5be5eb821af83b8d509a78",
+    "file_url": "https://cdn.jsdelivr.net/gh/mayer79/confintr@c40611f66e75d2b35a5be5eb821af83b8d509a78/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-2.0",
+    "stars": 20,
+    "size_mb": 1,
+    "created_at": "2020-05-16T12:51:20Z",
+    "last_commit_at": "2025-04-06T09:26:27Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "1.0.2",
+      "at": "2023-06-04T18:37:19.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c40611f66e75d2b35a5be5eb821af83b8d509a78",
+    "v": 3
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "gh:ukgovernmentbeis/inspect_evals",
+  "kind": "repo",
+  "url": "https://github.com/UKGovernmentBEIS/inspect_evals",
+  "title": "inspect_evals",
+  "why": "Ready-made benchmark tasks to run against models through Inspect AI, so you skip writing evaluation harnesses from scratch.",
+  "keys": {
+    "races": [
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/UKGovernmentBEIS/inspect_evals",
+    "sha": "525aed6adb2f687b2892479074207bb88bdd275a",
+    "file_url": "https://raw.githubusercontent.com/UKGovernmentBEIS/inspect_evals/525aed6adb2f687b2892479074207bb88bdd275a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 738,
+    "size_mb": 318,
+    "created_at": "2024-10-02T08:10:35Z",
+    "last_commit_at": "2026-11-11T06:27:30Z",
+    "releases": 34,
+    "tags": 50,
+    "archived": false,
+    "release": {
+      "tag": "v0.28.0",
+      "at": "2026-11-09T01:38:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "525aed6adb2f687b2892479074207bb88bdd275a",
+    "v": 3
+  },
+  "scan_partial": true
+}

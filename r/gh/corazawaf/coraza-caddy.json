@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:5d6d37ab2162f09ae4e3fd6c3d6bca45747910ad"
+  },
   "id": "gh:corazawaf/coraza-caddy",
   "kind": "repo",
   "url": "https://github.com/corazawaf/coraza-caddy",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 698,
+    "stars": 699,
     "size_mb": 13,
     "created_at": "2021-06-21T02:01:19Z",
     "last_commit_at": "2026-10-28T03:33:42Z",
@@ -54,5 +57,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "5d6d37ab2162f09ae4e3fd6c3d6bca45747910ad",
+    "v": 3
+  }
 }

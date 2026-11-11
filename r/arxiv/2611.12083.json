@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.12083",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.12083",
+  "title": "SWE-Time: Benchmarking Temporal Repository Understanding",
+  "why": "Benchmarks whether coding agents grasp how a repository changed over time, with 1,661 cases drawn from 65 GitHub repositories.",
+  "keys": {
+    "races": [
+      "agents/code-intel",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "agents/code-intel",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.12083"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

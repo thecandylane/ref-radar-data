@@ -1,0 +1,61 @@
+{
+  "id": "gh:kyotofin/tax-doc-classifier",
+  "kind": "repo",
+  "url": "https://github.com/kyotofin/tax-doc-classifier",
+  "title": "tax-doc-classifier",
+  "why": "Labels IRS tax pages by form and page kind for about $0.001 each, graded with a strict 0.95 confidence cutoff.",
+  "keys": {
+    "races": [
+      "finance/accounting"
+    ],
+    "lanes": [
+      "finance/accounting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kyotofin/tax-doc-classifier",
+    "sha": "3e95a77f763c6becb78472f8b2ce2f54237f9214",
+    "file_url": "https://cdn.jsdelivr.net/gh/kyotofin/tax-doc-classifier@3e95a77f763c6becb78472f8b2ce2f54237f9214/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 519,
+    "size_mb": 2,
+    "created_at": "2026-09-18T14:40:45Z",
+    "last_commit_at": "2026-09-20T10:34:44Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3e95a77f763c6becb78472f8b2ce2f54237f9214",
+    "v": 3
+  }
+}

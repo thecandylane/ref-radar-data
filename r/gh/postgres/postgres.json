@@ -35,12 +35,12 @@
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 22769,
-    "size_mb": 806,
+    "stars": 22784,
+    "size_mb": 805,
     "created_at": "2010-09-21T11:35:45Z",
-    "last_commit_at": "2026-11-10T08:20:56Z",
+    "last_commit_at": "2026-11-11T07:32:33Z",
     "releases": 0,
-    "tags": 694,
+    "tags": 700,
     "archived": false,
     "release": null
   },
@@ -52,9 +52,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 80,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "b5545d3f5f924289051eb8221c88e72563771928",
+    "v": 3
+  },
+  "hot": true
 }

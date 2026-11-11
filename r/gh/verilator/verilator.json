@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:757455a2aef14d6213d1203c5498ff7f3f7d9616"
+  },
+  "id": "gh:verilator/verilator",
+  "kind": "repo",
+  "url": "https://github.com/verilator/verilator",
+  "title": "verilator",
+  "why": "Lint SystemVerilog and compile it into C++ or SystemC models for fast RTL simulation.",
+  "keys": {
+    "races": [
+      "engineering/hdl",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "engineering/hdl",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/verilator/verilator",
+    "sha": "757455a2aef14d6213d1203c5498ff7f3f7d9616",
+    "file_url": "https://cdn.jsdelivr.net/gh/verilator/verilator@757455a2aef14d6213d1203c5498ff7f3f7d9616/{path}"
+  },
+  "facts": {
+    "lang": "SystemVerilog",
+    "license": "NOASSERTION",
+    "stars": 4075,
+    "size_mb": 85,
+    "created_at": "2019-06-13T22:38:59Z",
+    "last_commit_at": "2026-11-11T09:43:14Z",
+    "releases": 0,
+    "tags": 172,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "757455a2aef14d6213d1203c5498ff7f3f7d9616",
+    "v": 3
+  },
+  "scan_partial": true
+}

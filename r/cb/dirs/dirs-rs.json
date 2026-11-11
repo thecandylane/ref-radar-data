@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:793c8a97bea55669a806499839abd7b1d844279f"
+  },
   "id": "cb:dirs/dirs-rs",
   "kind": "repo",
   "url": "https://codeberg.org/dirs/dirs-rs",
@@ -52,5 +55,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "793c8a97bea55669a806499839abd7b1d844279f",
+    "v": 3
+  }
 }

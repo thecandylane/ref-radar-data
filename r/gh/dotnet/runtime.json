@@ -35,16 +35,16 @@
   "facts": {
     "lang": "C#",
     "license": "MIT",
-    "stars": 18422,
-    "size_mb": 1232,
+    "stars": 18423,
+    "size_mb": 1230,
     "created_at": "2019-09-24T23:36:39Z",
-    "last_commit_at": "2026-11-10T08:55:39Z",
-    "releases": 183,
-    "tags": 215,
+    "last_commit_at": "2026-11-11T09:12:30Z",
+    "releases": 189,
+    "tags": 219,
     "archived": false,
     "release": {
-      "tag": "v10.0.13",
-      "at": "2026-10-13T22:30:11.000Z"
+      "tag": "v10.0.15",
+      "at": "2026-11-10T17:15:38.000Z"
     }
   },
   "reuse": "copy",
@@ -55,9 +55,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 19,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "b0643c8d83462ab9c5ca0b43ed4ef8fac4a00038",
+    "v": 3
+  }
 }

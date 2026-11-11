@@ -31,16 +31,16 @@
   "facts": {
     "lang": "Go",
     "license": "GPL-3.0",
-    "stars": 1820,
+    "stars": 1822,
     "size_mb": 156,
     "created_at": "2020-01-25T08:55:08Z",
-    "last_commit_at": "2026-11-08T13:28:17Z",
-    "releases": 432,
-    "tags": 499,
+    "last_commit_at": "2026-11-10T12:28:14Z",
+    "releases": 433,
+    "tags": 500,
     "archived": false,
     "release": {
-      "tag": "v5.8.0",
-      "at": "2026-11-08T13:28:26.000Z"
+      "tag": "v5.8.1",
+      "at": "2026-11-10T12:28:25.000Z"
     }
   },
   "reuse": "copyleft",
@@ -56,6 +56,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "6d2efa1877a936fd226a53c344c8359b0dac8bc4",
+    "v": 3
+  },
   "risk": {
     "level": "caution",
     "signals": [

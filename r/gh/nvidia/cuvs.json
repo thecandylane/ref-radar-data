@@ -33,12 +33,12 @@
   "facts": {
     "lang": "Cuda",
     "license": "Apache-2.0",
-    "stars": 892,
+    "stars": 893,
     "size_mb": 34,
     "created_at": "2023-11-20T15:42:25Z",
-    "last_commit_at": "2026-11-09T19:40:02Z",
+    "last_commit_at": "2026-11-11T01:43:01Z",
     "releases": 21,
-    "tags": 37,
+    "tags": 38,
     "archived": false,
     "release": {
       "tag": "v26.10.00",
@@ -53,9 +53,13 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 6,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "3dd91b03ddb53151bc698390c17fe591243e1105",
+    "v": 3
+  }
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:f3ad0d729bcc518b62db897d5bdb864efa97bfcc"
+  },
   "id": "gh:artursepp/quantinveststrats",
   "kind": "repo",
   "url": "https://github.com/ArturSepp/QuantInvestStrats",
@@ -30,16 +33,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ArturSepp/QuantInvestStrats",
-    "sha": "45de5666efd32b213e125e17e3270633a60beda9",
-    "file_url": "https://cdn.jsdelivr.net/gh/ArturSepp/QuantInvestStrats@45de5666efd32b213e125e17e3270633a60beda9/{path}"
+    "sha": "f3ad0d729bcc518b62db897d5bdb864efa97bfcc",
+    "file_url": "https://cdn.jsdelivr.net/gh/ArturSepp/QuantInvestStrats@f3ad0d729bcc518b62db897d5bdb864efa97bfcc/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 650,
+    "stars": 652,
     "size_mb": 183,
     "created_at": "2022-12-30T16:57:52Z",
-    "last_commit_at": "2026-11-10T05:46:15Z",
+    "last_commit_at": "2026-11-10T12:54:13Z",
     "releases": 38,
     "tags": 70,
     "archived": false,
@@ -66,5 +69,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "f3ad0d729bcc518b62db897d5bdb864efa97bfcc",
+    "v": 3
+  }
 }

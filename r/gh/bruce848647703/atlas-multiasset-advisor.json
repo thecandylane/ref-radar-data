@@ -1,0 +1,59 @@
+{
+  "id": "gh:bruce848647703/atlas-multiasset-advisor",
+  "kind": "repo",
+  "url": "https://github.com/Bruce848647703/Atlas-MultiAsset-Advisor",
+  "title": "Atlas-MultiAsset-Advisor",
+  "why": "DeepSeek agent that profiles investor risk, allocates across assets and evolves its own factors, with a Streamlit dashboard.",
+  "keys": {
+    "races": [
+      "finance/quant"
+    ],
+    "lanes": [
+      "finance/quant"
+    ],
+    "capabilities": [
+      "finance/quant/portfolio-optimization"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Bruce848647703/Atlas-MultiAsset-Advisor",
+    "sha": "b8711cf61f8bbc27d3a893ec3ee0514556baeec9",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bruce848647703/Atlas-MultiAsset-Advisor@b8711cf61f8bbc27d3a893ec3ee0514556baeec9/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 76,
+    "size_mb": 1,
+    "created_at": "2026-08-28T05:56:11Z",
+    "last_commit_at": "2026-11-10T03:39:16Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b8711cf61f8bbc27d3a893ec3ee0514556baeec9",
+    "v": 3
+  }
+}

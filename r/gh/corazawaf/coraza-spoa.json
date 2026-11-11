@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c9b34f409e04cfb60219602bd1ad711afd15eaa3"
+  },
   "id": "gh:corazawaf/coraza-spoa",
   "kind": "repo",
   "url": "https://github.com/corazawaf/coraza-spoa",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 200,
+    "stars": 201,
     "size_mb": 1,
     "created_at": "2022-03-16T07:37:41Z",
     "last_commit_at": "2026-10-23T06:58:20Z",
@@ -58,5 +61,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "c9b34f409e04cfb60219602bd1ad711afd15eaa3",
+    "v": 3
+  }
 }

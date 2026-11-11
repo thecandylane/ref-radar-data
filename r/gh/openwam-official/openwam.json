@@ -1,0 +1,60 @@
+{
+  "id": "gh:openwam-official/openwam",
+  "kind": "repo",
+  "url": "https://github.com/OpenWAM-Official/OpenWAM",
+  "title": "OpenWAM",
+  "why": "Compose architectures, backbones, datasets and training settings through Hydra YAML configs to compare world-action model pretraining choices.",
+  "keys": {
+    "races": [
+      "embedded/robotics",
+      "ml/training"
+    ],
+    "lanes": [
+      "embedded/robotics",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OpenWAM-Official/OpenWAM",
+    "sha": "3950b6d9ea848dc980a82a89b4554af2c082544a",
+    "file_url": "https://cdn.jsdelivr.net/gh/OpenWAM-Official/OpenWAM@3950b6d9ea848dc980a82a89b4554af2c082544a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 1191,
+    "size_mb": 17,
+    "created_at": "2026-09-06T06:21:09Z",
+    "last_commit_at": "2026-11-10T05:50:27Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3950b6d9ea848dc980a82a89b4554af2c082544a",
+    "v": 3
+  },
+  "scan_partial": true
+}

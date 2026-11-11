@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:da25d5cd06db21cb33b100661cea0d9b89d457a3"
+  },
   "id": "gh:firecrawl/cli",
   "kind": "repo",
   "url": "https://github.com/firecrawl/cli",
@@ -36,7 +39,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "none",
-    "stars": 682,
+    "stars": 683,
     "size_mb": 2,
     "created_at": "2026-01-07T22:19:37Z",
     "last_commit_at": "2026-11-09T20:01:06Z",
@@ -60,5 +63,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "da25d5cd06db21cb33b100661cea0d9b89d457a3",
+    "v": 3
+  }
 }

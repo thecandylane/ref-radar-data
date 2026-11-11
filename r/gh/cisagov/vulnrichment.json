@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c18917de70e2ba488e99dd210b75f07837f9dbf5"
+  },
   "id": "gh:cisagov/vulnrichment",
   "kind": "repo",
   "url": "https://github.com/cisagov/vulnrichment",
@@ -33,9 +36,9 @@
     "lang": null,
     "license": "CC0-1.0",
     "stars": 880,
-    "size_mb": 390,
+    "size_mb": 399,
     "created_at": "2024-04-24T16:15:29Z",
-    "last_commit_at": "2026-11-09T20:17:56Z",
+    "last_commit_at": "2026-11-10T21:17:57Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -54,5 +57,9 @@
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "c18917de70e2ba488e99dd210b75f07837f9dbf5",
+    "v": 3
+  },
   "scan_partial": true
 }

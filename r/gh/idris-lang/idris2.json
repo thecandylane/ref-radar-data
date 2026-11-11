@@ -1,0 +1,67 @@
+{
+  "id": "gh:idris-lang/idris2",
+  "kind": "repo",
+  "url": "https://github.com/idris-lang/Idris2",
+  "title": "Idris2",
+  "why": "Compiler for a language with dependent types, bootstrapped through Chez or Racket, with libs and tests alongside.",
+  "keys": {
+    "races": [
+      "languages/compilers",
+      "languages/type-systems"
+    ],
+    "lanes": [
+      "languages/compilers",
+      "languages/type-systems"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/idris-lang/Idris2",
+    "sha": "708075dc52d8433a2662bc3aabf59c6e96eb0742",
+    "file_url": "https://cdn.jsdelivr.net/gh/idris-lang/Idris2@708075dc52d8433a2662bc3aabf59c6e96eb0742/{path}"
+  },
+  "facts": {
+    "lang": "Idris",
+    "license": "NOASSERTION",
+    "stars": 3110,
+    "size_mb": 140,
+    "created_at": "2020-05-17T23:25:25Z",
+    "last_commit_at": "2026-11-09T01:16:13Z",
+    "releases": 6,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v0.8.0",
+      "at": "2025-10-31T17:22:26.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "708075dc52d8433a2662bc3aabf59c6e96eb0742",
+    "v": 3
+  },
+  "scan_partial": true
+}

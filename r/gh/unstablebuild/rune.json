@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:743b40710495ea4e93ef69695b746195f18e4c0f"
+  },
   "id": "gh:unstablebuild/rune",
   "kind": "repo",
   "url": "https://github.com/unstablebuild/rune",
@@ -42,7 +45,7 @@
   "facts": {
     "lang": "Go",
     "license": "GPL-3.0",
-    "stars": 1699,
+    "stars": 1738,
     "size_mb": 156,
     "created_at": "2026-09-10T10:50:03Z",
     "last_commit_at": "2026-11-08T23:07:24Z",
@@ -62,11 +65,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 240,
+    "star_delta_7d": 275,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "743b40710495ea4e93ef69695b746195f18e4c0f",
+    "v": 3
+  },
   "hot": true,
   "scan_partial": true
 }

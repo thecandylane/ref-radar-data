@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:393fe7b5f1ae13ca55231a10abced08e17e8f0e4"
+  },
+  "id": "gh:explosion/srsly",
+  "kind": "repo",
+  "url": "https://github.com/explosion/srsly",
+  "title": "srsly",
+  "why": "Reads and writes JSON, MessagePack, YAML and pickle from Python behind one set of helper functions.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/explosion/srsly",
+    "sha": "393fe7b5f1ae13ca55231a10abced08e17e8f0e4",
+    "file_url": "https://cdn.jsdelivr.net/gh/explosion/srsly@393fe7b5f1ae13ca55231a10abced08e17e8f0e4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 489,
+    "size_mb": 1,
+    "created_at": "2018-12-01T03:21:56Z",
+    "last_commit_at": "2026-11-03T23:20:59Z",
+    "releases": 37,
+    "tags": 44,
+    "archived": false,
+    "release": {
+      "tag": "v3.0.1",
+      "at": "2026-11-03T23:14:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "393fe7b5f1ae13ca55231a10abced08e17e8f0e4",
+    "v": 3
+  }
+}

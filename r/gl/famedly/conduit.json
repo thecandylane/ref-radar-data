@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e11ecbeca0e66058f3a4716e00a2dbd9737cff24"
+  },
+  "id": "gl:famedly/conduit",
+  "kind": "repo",
+  "url": "https://gitlab.com/famedly/conduit",
+  "title": "conduit",
+  "why": "Matrix chat server written in Rust, with Nix, Debian and example config files for a self-hosted setup.",
+  "keys": {
+    "races": [
+      "infra/hosting"
+    ],
+    "lanes": [
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://gitlab.com/famedly/conduit",
+    "sha": "e11ecbeca0e66058f3a4716e00a2dbd9737cff24",
+    "file_url": "https://gitlab.com/famedly/conduit/-/raw/e11ecbeca0e66058f3a4716e00a2dbd9737cff24/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 963,
+    "size_mb": 0,
+    "created_at": "2020-10-28T16:21:53Z",
+    "last_commit_at": "2026-11-02T22:04:57.000Z",
+    "releases": 25,
+    "tags": 25,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e11ecbeca0e66058f3a4716e00a2dbd9737cff24",
+    "v": 3
+  }
+}

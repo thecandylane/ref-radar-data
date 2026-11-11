@@ -43,16 +43,16 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 3377,
+    "stars": 3385,
     "size_mb": 100,
     "created_at": "2025-07-09T01:30:55Z",
-    "last_commit_at": "2026-11-10T00:14:30Z",
-    "releases": 127,
-    "tags": 200,
+    "last_commit_at": "2026-11-10T20:28:53Z",
+    "releases": 129,
+    "tags": 204,
     "archived": false,
     "release": {
-      "tag": "cluster-v0.2.19",
-      "at": "2026-11-09T13:28:24.000Z"
+      "tag": "omnarad-v0.2.20",
+      "at": "2026-11-10T22:04:54.000Z"
     }
   },
   "reuse": "copy",
@@ -63,10 +63,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 31,
+    "star_delta_7d": 34,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "5e220c21da1d98c69b89df9f3e691e90e5bcb52a",
+    "v": 3
+  },
   "scan_partial": true
 }

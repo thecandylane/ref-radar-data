@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.11861",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.11861",
+  "title": "Scaling Adaptive Prompt Injection Attacks with Agent Swarms",
+  "why": "Uses non-malicious random actions as adversarial goals, so it measures instruction-hierarchy robustness apart from security knowledge.",
+  "keys": {
+    "races": [
+      "cyber/agent-security",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "cyber/agent-security",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.11861"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

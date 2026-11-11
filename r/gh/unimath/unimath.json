@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:7a4b03cce49449f45ce0d4285615165172f50546"
+  },
   "id": "gh:unimath/unimath",
   "kind": "repo",
   "url": "https://github.com/UniMath/UniMath",
@@ -39,7 +42,12 @@
       "tag": "v20260603",
       "at": "2026-06-03T19:35:54.000Z"
     },
-    "doi": "10.5281/zenodo.10849216"
+    "doi": "10.5281/zenodo.10849216",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-11"
+    }
   },
   "reuse": "study",
   "maturity": "stable",
@@ -53,5 +61,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "7a4b03cce49449f45ce0d4285615165172f50546",
+    "v": 3
+  }
 }

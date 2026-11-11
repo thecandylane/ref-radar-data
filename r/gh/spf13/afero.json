@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d2bffea700c045694727c3172ad6521da4e218b0"
+  },
+  "id": "gh:spf13/afero",
+  "kind": "repo",
+  "url": "https://github.com/spf13/afero",
+  "title": "afero",
+  "why": "Swaps real, in-memory, read-only and zip or sftp filesystems behind one Go interface, which makes file code easy to test.",
+  "keys": {
+    "races": [
+      "data/storage"
+    ],
+    "lanes": [
+      "data/storage"
+    ],
+    "capabilities": [
+      "data/storage/object-storage"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/spf13/afero",
+    "sha": "d2bffea700c045694727c3172ad6521da4e218b0",
+    "file_url": "https://cdn.jsdelivr.net/gh/spf13/afero@d2bffea700c045694727c3172ad6521da4e218b0/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 6722,
+    "size_mb": 1,
+    "created_at": "2014-10-28T14:19:05Z",
+    "last_commit_at": "2026-10-22T22:34:58Z",
+    "releases": 30,
+    "tags": 41,
+    "archived": false,
+    "release": {
+      "tag": "v1.15.0",
+      "at": "2025-09-08T16:41:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d2bffea700c045694727c3172ad6521da4e218b0",
+    "v": 3
+  }
+}

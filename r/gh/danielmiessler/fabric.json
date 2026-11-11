@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:64f7ba73a8211b900044ab4b1d9553e1a2da8222"
+  },
   "id": "gh:danielmiessler/fabric",
   "kind": "repo",
   "url": "https://github.com/danielmiessler/Fabric",
@@ -40,7 +43,7 @@
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 44590,
+    "stars": 44603,
     "size_mb": 167,
     "created_at": "2024-01-03T23:18:31Z",
     "last_commit_at": "2026-11-10T04:14:55Z",
@@ -64,5 +67,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "64f7ba73a8211b900044ab4b1d9553e1a2da8222",
+    "v": 3
+  }
 }

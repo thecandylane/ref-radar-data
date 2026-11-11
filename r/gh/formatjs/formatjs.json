@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:3294d013f0379b1bc1c8ec4ae1fd22cfbd94f3dc"
+  },
   "id": "gh:formatjs/formatjs",
   "kind": "repo",
   "url": "https://github.com/formatjs/formatjs",
@@ -38,10 +41,10 @@
   "facts": {
     "lang": "TypeScript",
     "license": "none",
-    "stars": 14752,
+    "stars": 14754,
     "size_mb": 101,
     "created_at": "2014-04-24T17:28:36Z",
-    "last_commit_at": "2026-11-10T07:07:59Z",
+    "last_commit_at": "2026-11-11T09:47:07Z",
     "releases": 1000,
     "tags": 5144,
     "archived": false,
@@ -62,5 +65,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "3294d013f0379b1bc1c8ec4ae1fd22cfbd94f3dc",
+    "v": 3
+  }
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:5ed4cbb08c95f1797fc948993c1235ff8921b580"
+  },
   "id": "gh:containernetworking/plugins",
   "kind": "repo",
   "url": "https://github.com/containernetworking/plugins",
@@ -59,6 +62,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "5ed4cbb08c95f1797fc948993c1235ff8921b580",
+    "v": 3
+  },
   "risk": {
     "level": "caution",
     "signals": [

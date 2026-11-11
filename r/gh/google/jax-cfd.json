@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:abc66018ad8181834e42f7ec49f5bd575b2fcef7"
+  },
+  "id": "gh:google/jax-cfd",
+  "kind": "repo",
+  "url": "https://github.com/google/jax-cfd",
+  "title": "jax-cfd",
+  "why": "Write CFD solvers in JAX and work through them in notebooks, with the numerics expressed as array code.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google/jax-cfd",
+    "sha": "abc66018ad8181834e42f7ec49f5bd575b2fcef7",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/jax-cfd@abc66018ad8181834e42f7ec49f5bd575b2fcef7/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "Apache-2.0",
+    "stars": 968,
+    "size_mb": 6,
+    "created_at": "2021-03-22T17:46:12Z",
+    "last_commit_at": "2026-10-25T05:41:18Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "0.2.1",
+      "at": "2024-05-13T15:46:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "abc66018ad8181834e42f7ec49f5bd575b2fcef7",
+    "v": 3
+  },
+  "scan_partial": true
+}

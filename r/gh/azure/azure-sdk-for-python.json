@@ -35,16 +35,16 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 5621,
+    "stars": 5622,
     "size_mb": 1061,
     "created_at": "2012-04-24T16:46:12Z",
-    "last_commit_at": "2026-11-10T07:56:43Z",
+    "last_commit_at": "2026-11-11T03:59:53Z",
     "releases": 1000,
-    "tags": 5598,
+    "tags": 5602,
     "archived": false,
     "release": {
-      "tag": "azure-mgmt-chaos_3.0.0",
-      "at": "2026-11-09T18:29:51.000Z"
+      "tag": "azure-search-documents_12.1.0",
+      "at": "2026-11-10T23:54:58.000Z"
     }
   },
   "reuse": "copy",
@@ -59,5 +59,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "23ba0ef99c916c6c01a8099397f7cf074fcff979",
+    "v": 3
+  }
 }

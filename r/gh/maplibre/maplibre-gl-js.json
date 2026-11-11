@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:6b3a1e600ee8923d1d5936cf7ce607c3de952c64"
+  },
   "id": "gh:maplibre/maplibre-gl-js",
   "kind": "repo",
   "url": "https://github.com/maplibre/maplibre-gl-js",
@@ -34,10 +37,10 @@
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 12055,
-    "size_mb": 1057,
+    "stars": 12066,
+    "size_mb": 1058,
     "created_at": "2020-12-08T22:42:56Z",
-    "last_commit_at": "2026-11-10T08:29:57Z",
+    "last_commit_at": "2026-11-11T08:29:15Z",
     "releases": 189,
     "tags": 190,
     "archived": false,
@@ -54,9 +57,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 49,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "6b3a1e600ee8923d1d5936cf7ce607c3de952c64",
+    "v": 3
+  },
+  "hot": true
 }

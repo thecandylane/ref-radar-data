@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:81712b0407c4c746b86b34b8365a797fb1238536"
+  },
+  "id": "gh:koralium/koralium",
+  "kind": "repo",
+  "url": "https://github.com/koralium/Koralium",
+  "title": "Koralium",
+  "why": "Lets a .NET Core app answer SQL queries through a Presto-compatible endpoint, with a TypeScript client for the front end.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "data/databases",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/koralium/Koralium",
+    "sha": "81712b0407c4c746b86b34b8365a797fb1238536",
+    "file_url": "https://cdn.jsdelivr.net/gh/koralium/Koralium@81712b0407c4c746b86b34b8365a797fb1238536/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "Apache-2.0",
+    "stars": 13,
+    "size_mb": 8,
+    "created_at": "2020-09-11T07:36:30Z",
+    "last_commit_at": "2024-04-16T09:26:50Z",
+    "releases": 63,
+    "tags": 63,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.3",
+      "at": "2023-08-11T14:31:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "81712b0407c4c746b86b34b8365a797fb1238536",
+    "v": 3
+  }
+}

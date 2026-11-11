@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:bbef3b6cd600cf81a020bc61c213c5cf6a090c9a"
+  },
   "id": "gh:novuhq/novu",
   "kind": "repo",
   "url": "https://github.com/novuhq/novu",
@@ -42,10 +45,10 @@
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 40314,
-    "size_mb": 517,
+    "stars": 40319,
+    "size_mb": 518,
     "created_at": "2021-08-26T15:22:44Z",
-    "last_commit_at": "2026-11-09T16:17:57Z",
+    "last_commit_at": "2026-11-11T06:15:53Z",
     "releases": 153,
     "tags": 299,
     "archived": false,
@@ -66,5 +69,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "bbef3b6cd600cf81a020bc61c213c5cf6a090c9a",
+    "v": 3
+  }
 }

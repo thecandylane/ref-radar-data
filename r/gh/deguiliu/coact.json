@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b22a6e015c5b200d63f74c8fd036e72cae469280"
+  },
   "id": "gh:deguiliu/coact",
   "kind": "repo",
   "url": "https://github.com/DeguiLiu/coact",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 113,
+    "stars": 114,
     "size_mb": 2,
     "created_at": "2026-08-08T13:43:43Z",
     "last_commit_at": "2026-11-09T06:25:08Z",
@@ -58,5 +61,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "b22a6e015c5b200d63f74c8fd036e72cae469280",
+    "v": 3
+  }
 }

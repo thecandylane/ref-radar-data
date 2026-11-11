@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:45ba97b7b535ad26dd555c33c963c6224a9af23c"
+  },
+  "id": "gh:barentsen/dave",
+  "kind": "repo",
+  "url": "https://github.com/barentsen/dave",
+  "title": "dave",
+  "why": "Python pipeline that vets K2 planet candidates, with folders for detrending, BLS searches, trapezoid fits and pixel-file conversion.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/barentsen/dave",
+    "sha": "45ba97b7b535ad26dd555c33c963c6224a9af23c",
+    "file_url": "https://cdn.jsdelivr.net/gh/barentsen/dave@45ba97b7b535ad26dd555c33c963c6224a9af23c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 6,
+    "size_mb": 49,
+    "created_at": "2015-08-31T23:32:16Z",
+    "last_commit_at": "2019-12-29T16:32:30Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "45ba97b7b535ad26dd555c33c963c6224a9af23c",
+    "v": 3
+  }
+}

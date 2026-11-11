@@ -1,0 +1,67 @@
+{
+  "id": "gh:electron/rebuild",
+  "kind": "repo",
+  "url": "https://github.com/electron/rebuild",
+  "title": "rebuild",
+  "why": "Recompiles your native modules whenever Electron changes, so the binaries match the version you actually installed.",
+  "keys": {
+    "races": [
+      "desktop/app-shells",
+      "desktop/packaging"
+    ],
+    "lanes": [
+      "desktop/app-shells",
+      "desktop/packaging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/electron/rebuild",
+    "sha": "7a27439d2951e8c927292e72908da62e12bb9040",
+    "file_url": "https://cdn.jsdelivr.net/gh/electron/rebuild@7a27439d2951e8c927292e72908da62e12bb9040/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1123,
+    "size_mb": 4,
+    "created_at": "2015-05-04T08:43:21Z",
+    "last_commit_at": "2026-11-01T09:24:58Z",
+    "releases": 55,
+    "tags": 105,
+    "archived": false,
+    "release": {
+      "tag": "v4.2.1",
+      "at": "2026-10-06T22:33:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7a27439d2951e8c927292e72908da62e12bb9040",
+    "v": 3
+  },
+  "scan_partial": true
+}

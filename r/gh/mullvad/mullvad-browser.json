@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d5689fcc530bdab99e14b601920513742f2528e9"
+  },
   "id": "gh:mullvad/mullvad-browser",
   "kind": "repo",
   "url": "https://github.com/mullvad/mullvad-browser",
@@ -28,16 +31,16 @@
   "facts": {
     "lang": "Shell",
     "license": "none",
-    "stars": 2647,
-    "size_mb": 6067,
+    "stars": 2652,
+    "size_mb": 6083,
     "created_at": "2022-09-21T13:16:25Z",
     "last_commit_at": "2026-10-13T11:06:38Z",
-    "releases": 119,
-    "tags": 404,
+    "releases": 120,
+    "tags": 407,
     "archived": false,
     "release": {
-      "tag": "16.0",
-      "at": "2026-10-29T15:50:26.000Z"
+      "tag": "16.0.1",
+      "at": "2026-11-10T14:57:41.000Z"
     }
   },
   "reuse": "study",
@@ -52,5 +55,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "curated",
+  "pack": {
+    "sha": "d5689fcc530bdab99e14b601920513742f2528e9",
+    "v": 3
+  }
 }

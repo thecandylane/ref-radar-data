@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:e002252dc42906ccb18c48b68712692b4d02c284"
+  },
   "id": "gh:ruby/rbs",
   "kind": "repo",
   "url": "https://github.com/ruby/rbs",
@@ -56,9 +59,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 2,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "e002252dc42906ccb18c48b68712692b4d02c284",
+    "v": 3
+  }
 }

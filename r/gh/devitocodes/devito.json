@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:33633a083a7541b4358776eef0216ef21c760e3f"
+  },
+  "id": "gh:devitocodes/devito",
+  "kind": "repo",
+  "url": "https://github.com/devitocodes/devito",
+  "title": "devito",
+  "why": "Write finite-difference operators symbolically and have them compiled into stencil code, used for seismic FWI and RTM.",
+  "keys": {
+    "races": [
+      "engineering/subsurface",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "engineering/subsurface",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/devitocodes/devito",
+    "sha": "33633a083a7541b4358776eef0216ef21c760e3f",
+    "file_url": "https://cdn.jsdelivr.net/gh/devitocodes/devito@33633a083a7541b4358776eef0216ef21c760e3f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 719,
+    "size_mb": 310,
+    "created_at": "2016-03-23T18:59:49Z",
+    "last_commit_at": "2026-11-09T12:30:14Z",
+    "releases": 50,
+    "tags": 51,
+    "archived": false,
+    "release": {
+      "tag": "v4.8.23",
+      "at": "2026-08-07T18:33:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "33633a083a7541b4358776eef0216ef21c760e3f",
+    "v": 3
+  },
+  "scan_partial": true
+}

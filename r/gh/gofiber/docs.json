@@ -2,7 +2,7 @@
   "id": "gh:gofiber/docs",
   "kind": "repo",
   "url": "https://github.com/gofiber/docs",
-  "title": "docs",
+  "title": "gofiber/docs",
   "why": "Docusaurus site source for the Fiber docs, with versioned docs for the contrib, storage and template packages.",
   "keys": {
     "races": [
@@ -37,7 +37,7 @@
     "stars": 219,
     "size_mb": 54,
     "created_at": "2020-02-05T21:35:47Z",
-    "last_commit_at": "2026-11-09T16:47:51Z",
+    "last_commit_at": "2026-11-11T09:39:36Z",
     "releases": 1,
     "tags": 1,
     "archived": false,
@@ -58,5 +58,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "0c5ba9d732a9b044017552fb93c59ada037843f1",
+    "v": 3
+  }
 }

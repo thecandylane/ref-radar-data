@@ -1,0 +1,72 @@
+{
+  "id": "gh:karakeep-app/karakeep",
+  "kind": "repo",
+  "url": "https://github.com/karakeep-app/karakeep",
+  "title": "karakeep",
+  "why": "Saves links, notes and images and tags them with AI, with Next.js and React Native clients in one pnpm monorepo.",
+  "keys": {
+    "races": [
+      "infra/hosting",
+      "web/frameworks",
+      "mobile/cross-platform"
+    ],
+    "lanes": [
+      "infra/hosting",
+      "web/frameworks",
+      "mobile/cross-platform"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/karakeep-app/karakeep",
+    "sha": "88a9ff9cfdfa2b99da4d6a700ea2d0055bd3639d",
+    "file_url": "https://cdn.jsdelivr.net/gh/karakeep-app/karakeep@88a9ff9cfdfa2b99da4d6a700ea2d0055bd3639d/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "AGPL-3.0",
+    "stars": 30452,
+    "size_mb": 143,
+    "created_at": "2024-02-06T12:28:31Z",
+    "last_commit_at": "2026-11-10T07:07:47Z",
+    "releases": 53,
+    "tags": 219,
+    "archived": false,
+    "release": {
+      "tag": "v0.34.1",
+      "at": "2026-10-22T06:42:02.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "88a9ff9cfdfa2b99da4d6a700ea2d0055bd3639d",
+    "v": 3
+  }
+}

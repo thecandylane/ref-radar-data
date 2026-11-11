@@ -1,0 +1,76 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:499762cd36b35c31c2ae860f3d17d2086464411a"
+  },
+  "id": "gh:avelino/awesome-go",
+  "kind": "repo",
+  "url": "https://github.com/avelino/awesome-go",
+  "title": "awesome-go",
+  "why": "cause why not have a curated list of go frameworks within a curated list , Curation inside Curation inside Curation!!!",
+  "keys": {
+    "races": [
+      "infra/ci-cd",
+      "data/databases",
+      "desktop/native-ui",
+      "data/serialization",
+      "dev-tools/testing",
+      "dev-tools/vcs",
+      "media/video"
+    ],
+    "lanes": [
+      "infra/ci-cd",
+      "data/databases",
+      "desktop/native-ui",
+      "data/serialization",
+      "dev-tools/testing",
+      "dev-tools/vcs",
+      "media/video"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/avelino/awesome-go",
+    "sha": "499762cd36b35c31c2ae860f3d17d2086464411a",
+    "file_url": "https://cdn.jsdelivr.net/gh/avelino/awesome-go@499762cd36b35c31c2ae860f3d17d2086464411a/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 193237,
+    "size_mb": 13,
+    "created_at": "2014-07-06T13:42:15Z",
+    "last_commit_at": "2026-11-10T23:01:18Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "499762cd36b35c31c2ae860f3d17d2086464411a",
+    "v": 3
+  }
+}

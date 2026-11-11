@@ -1,0 +1,63 @@
+{
+  "id": "gh:kissqy/microduck-kissqy",
+  "kind": "repo",
+  "url": "https://github.com/kissqy/Microduck-kissqy",
+  "title": "Microduck-kissqy",
+  "why": "Build guide and system image for a Feetech HD1910 duck robot that walks on ready-made movement models, so no training is needed.",
+  "keys": {
+    "races": [
+      "embedded/robotics",
+      "embedded/firmware"
+    ],
+    "lanes": [
+      "embedded/robotics",
+      "embedded/firmware"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kissqy/Microduck-kissqy",
+    "sha": "be7b1a02fc6a76cf54303bdd82dfc70269524ea7",
+    "file_url": "https://raw.githubusercontent.com/kissqy/Microduck-kissqy/be7b1a02fc6a76cf54303bdd82dfc70269524ea7/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "NOASSERTION",
+    "stars": 478,
+    "size_mb": 378,
+    "created_at": "2026-10-07T05:06:37Z",
+    "last_commit_at": "2026-11-09T17:31:16Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "public-image-r1",
+      "at": "2026-10-12T06:07:10.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "be7b1a02fc6a76cf54303bdd82dfc70269524ea7",
+    "v": 3
+  },
+  "scan_partial": true
+}

@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.05320",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.05320",
+  "title": "PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data",
+  "why": "Has a coding agent rebuild a robot task in simulation from one calibration episode, then renders photographic video so a policy trains without teleoperation.",
+  "keys": {
+    "races": [
+      "embedded/robotics",
+      "media/video"
+    ],
+    "lanes": [
+      "embedded/robotics",
+      "media/video"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.05320"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

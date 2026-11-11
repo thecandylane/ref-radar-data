@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:5a1b81dda77fa176aa3127f3cbd2c9e644065cce"
+  },
   "id": "gh:bioconductor/ucsc.utils",
   "kind": "repo",
   "url": "https://github.com/Bioconductor/UCSC.utils",
@@ -49,5 +52,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "5a1b81dda77fa176aa3127f3cbd2c9e644065cce",
+    "v": 3
+  }
 }

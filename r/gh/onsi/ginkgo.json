@@ -1,0 +1,73 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7035669bb55680e18e1bf5c1aac7b0fd9ea25c73"
+  },
+  "id": "gh:onsi/ginkgo",
+  "kind": "repo",
+  "url": "https://github.com/onsi/ginkgo",
+  "title": "ginkgo",
+  "why": "Writes Go tests in the BDD style and runs them through its own ginkgo command, with table and reporting helpers.",
+  "keys": {
+    "races": [
+      "dev-tools/testing",
+      "agents/skills"
+    ],
+    "lanes": [
+      "dev-tools/testing",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "dev-tools/testing/integration-testing",
+      "agents/skills/plugin-specs",
+      "agents/skills/engineering-skills"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/onsi/ginkgo",
+    "sha": "7035669bb55680e18e1bf5c1aac7b0fd9ea25c73",
+    "file_url": "https://cdn.jsdelivr.net/gh/onsi/ginkgo@7035669bb55680e18e1bf5c1aac7b0fd9ea25c73/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 9076,
+    "size_mb": 9,
+    "created_at": "2013-08-23T20:53:05Z",
+    "last_commit_at": "2026-11-02T19:13:26Z",
+    "releases": 115,
+    "tags": 122,
+    "archived": false,
+    "release": {
+      "tag": "v2.34.0",
+      "at": "2026-11-02T19:13:29.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7035669bb55680e18e1bf5c1aac7b0fd9ea25c73",
+    "v": 3
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.11581",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.11581",
+  "title": "Same Error, Different Recovery: How Delivery Changes LLM Agent Behavior",
+  "why": "Compares where a tool error appears in the conversation, and shows a new user turn keeping the failed exchange lifts recovery on ToolMaze.",
+  "keys": {
+    "races": [
+      "llm-infra/inference",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "llm-infra/inference",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.11581"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

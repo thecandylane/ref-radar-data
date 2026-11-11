@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:84b9df8082f07fe2b14610961793259b3886408f"
+  },
   "id": "gh:allenpan-git/simplequant",
   "kind": "repo",
   "url": "https://github.com/AllenPan-Git/SimpleQuant",
@@ -26,22 +29,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/AllenPan-Git/SimpleQuant",
-    "sha": "ca2ae88daa436e9b2c3a8a942384e1208b606e60",
-    "file_url": "https://cdn.jsdelivr.net/gh/AllenPan-Git/SimpleQuant@ca2ae88daa436e9b2c3a8a942384e1208b606e60/{path}"
+    "sha": "84b9df8082f07fe2b14610961793259b3886408f",
+    "file_url": "https://cdn.jsdelivr.net/gh/AllenPan-Git/SimpleQuant@84b9df8082f07fe2b14610961793259b3886408f/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "GPL-3.0",
-    "stars": 129,
+    "stars": 130,
     "size_mb": 25,
     "created_at": "2026-10-01T06:45:16Z",
-    "last_commit_at": "2026-11-10T04:11:50Z",
-    "releases": 39,
-    "tags": 39,
+    "last_commit_at": "2026-11-10T15:32:45Z",
+    "releases": 40,
+    "tags": 40,
     "archived": false,
     "release": {
-      "tag": "v3.2.1",
-      "at": "2026-11-10T04:44:21.000Z"
+      "tag": "v3.2.2",
+      "at": "2026-11-10T16:05:23.000Z"
     }
   },
   "reuse": "copyleft",
@@ -57,11 +60,15 @@
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "84b9df8082f07fe2b14610961793259b3886408f",
+    "v": 3
+  },
   "risk": {
     "level": "caution",
     "signals": [
       "offensive or proof-of-concept code"
     ],
-    "scanned_at": "2026-11-06T10:21:49.271Z"
+    "scanned_at": "2026-11-10T12:04:34.263Z"
   }
 }

@@ -1,0 +1,60 @@
+{
+  "id": "gh:r-spatial/rgee",
+  "kind": "repo",
+  "url": "https://github.com/r-spatial/rgee",
+  "title": "rgee",
+  "why": "Calls Google Earth Engine from R scripts for spatial analysis, with a paper, vignettes and a pkgdown site.",
+  "keys": {
+    "races": [
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/r-spatial/rgee",
+    "sha": "3a8507324ac063b1b2ad3e1e65053b555418ddd7",
+    "file_url": "https://cdn.jsdelivr.net/gh/r-spatial/rgee@3a8507324ac063b1b2ad3e1e65053b555418ddd7/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 778,
+    "size_mb": 33,
+    "created_at": "2019-09-03T05:38:52Z",
+    "last_commit_at": "2026-11-09T02:01:02Z",
+    "releases": 15,
+    "tags": 40,
+    "archived": false,
+    "release": {
+      "tag": "v.1.1.3",
+      "at": "2022-03-14T03:42:07.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3a8507324ac063b1b2ad3e1e65053b555418ddd7",
+    "v": 3
+  }
+}

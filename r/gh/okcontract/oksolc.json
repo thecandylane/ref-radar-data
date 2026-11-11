@@ -1,0 +1,73 @@
+{
+  "id": "gh:okcontract/oksolc",
+  "kind": "repo",
+  "url": "https://github.com/okcontract/oksolc",
+  "title": "oksolc",
+  "why": "Compiles Solidity in Zig, cutting compilation time 5x while staying byte-for-byte compatible with solc output.",
+  "keys": {
+    "races": [
+      "languages/compilers",
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "languages/compilers",
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/okcontract/oksolc",
+    "sha": "4c94a99257342477ef58cc6fd418cc964c70d3c5",
+    "file_url": "https://cdn.jsdelivr.net/gh/okcontract/oksolc@4c94a99257342477ef58cc6fd418cc964c70d3c5/{path}"
+  },
+  "facts": {
+    "lang": "Zig",
+    "license": "GPL-3.0",
+    "stars": 114,
+    "size_mb": 14,
+    "created_at": "2026-09-17T15:08:00Z",
+    "last_commit_at": "2026-11-03T04:48:15Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.4",
+      "at": "2026-11-03T06:04:55.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4c94a99257342477ef58cc6fd418cc964c70d3c5",
+    "v": 3
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "contains raw shellcode bytes"
+    ],
+    "scanned_at": "2026-11-04T10:13:07.410Z"
+  }
+}

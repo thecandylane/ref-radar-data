@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5dcd31fecb52995216db1a589798660da8dc72a3"
+  },
+  "id": "gh:saezlab/mistyr",
+  "kind": "repo",
+  "url": "https://github.com/saezlab/mistyR",
+  "title": "mistyR",
+  "why": "Models intercellular relationships from spatial transcriptomics data with one model per view, in R.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/saezlab/mistyR",
+    "sha": "5dcd31fecb52995216db1a589798660da8dc72a3",
+    "file_url": "https://cdn.jsdelivr.net/gh/saezlab/mistyR@5dcd31fecb52995216db1a589798660da8dc72a3/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 76,
+    "size_mb": 129,
+    "created_at": "2019-03-15T14:05:18Z",
+    "last_commit_at": "2026-01-15T09:52:33Z",
+    "releases": 13,
+    "tags": 20,
+    "archived": false,
+    "release": {
+      "tag": "v1.16.0",
+      "at": "2025-06-06T08:57:39.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5dcd31fecb52995216db1a589798660da8dc72a3",
+    "v": 3
+  }
+}

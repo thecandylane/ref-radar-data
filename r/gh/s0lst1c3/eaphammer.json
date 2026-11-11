@@ -31,7 +31,7 @@
   "facts": {
     "lang": "C",
     "license": "GPL-3.0",
-    "stars": 2607,
+    "stars": 2609,
     "size_mb": 6,
     "created_at": "2017-02-04T01:03:39Z",
     "last_commit_at": "2024-09-22T22:36:17Z",
@@ -55,5 +55,17 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "91e8956f640b13dbf58589430cf69b1541f9528b",
+    "v": 3
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "contains raw shellcode bytes",
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-10T11:44:23.959Z"
+  }
 }

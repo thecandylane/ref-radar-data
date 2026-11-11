@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.03634",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.03634",
+  "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+  "why": "153 dockerized website replicas with 3,518 tasks give GUI web agents a stable place to be evaluated and trained with reinforcement learning.",
+  "keys": {
+    "races": [
+      "agents/optimization",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "agents/optimization",
+      "llm-infra/evals"
+    ],
+    "capabilities": [
+      "agents/optimization/rl-environments"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.03634"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

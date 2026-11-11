@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:5206a950b715e0cabe7043ea0b2304332b91494e"
+  },
   "id": "gh:emilkowalski/skills",
   "kind": "repo",
   "url": "https://github.com/emilkowalski/skills",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "Markdown",
     "license": "MIT",
-    "stars": 55561,
+    "stars": 55960,
     "size_mb": 0,
     "created_at": "2026-03-16T13:52:31Z",
     "last_commit_at": "2026-11-09T12:07:26Z",
@@ -53,5 +56,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "5206a950b715e0cabe7043ea0b2304332b91494e",
+    "v": 3
+  }
 }

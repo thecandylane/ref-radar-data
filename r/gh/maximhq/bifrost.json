@@ -41,16 +41,16 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 9469,
-    "size_mb": 1224,
+    "stars": 9495,
+    "size_mb": 1231,
     "created_at": "2025-03-19T07:21:26Z",
-    "last_commit_at": "2026-11-10T07:38:04Z",
+    "last_commit_at": "2026-11-11T07:44:36Z",
     "releases": 1000,
-    "tags": 2443,
+    "tags": 2444,
     "archived": false,
     "release": {
-      "tag": "transports/v2.5.1",
-      "at": "2026-11-10T08:07:52.000Z"
+      "tag": "ent-v2.5.1-base",
+      "at": "2026-11-10T15:07:06.000Z"
     }
   },
   "reuse": "copy",
@@ -61,9 +61,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 152,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "ac1eb6fb58c36f00dcc506740bef12d3fac7db1a",
+    "v": 3
+  }
 }

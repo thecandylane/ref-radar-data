@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a2c169fa502a53f1f2a1da25b1cd16b9c731af39"
+  },
   "id": "gh:callstack/agent-device",
   "kind": "repo",
   "url": "https://github.com/callstack/agent-device",
@@ -43,12 +46,12 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 5319,
-    "size_mb": 235,
+    "stars": 5327,
+    "size_mb": 236,
     "created_at": "2026-01-30T18:41:54Z",
-    "last_commit_at": "2026-11-09T11:20:48Z",
+    "last_commit_at": "2026-11-11T10:03:48Z",
     "releases": 155,
-    "tags": 220,
+    "tags": 221,
     "archived": false,
     "release": {
       "tag": "v0.21.36",
@@ -68,5 +71,9 @@
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "a2c169fa502a53f1f2a1da25b1cd16b9c731af39",
+    "v": 3
+  },
   "scan_partial": true
 }

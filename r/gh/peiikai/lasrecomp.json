@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:579fdad6d736c8fbf1d21943593731eb926b6659"
+  },
+  "id": "gh:peiikai/lasrecomp",
+  "kind": "repo",
+  "url": "https://github.com/peiikai/LASRecomp",
+  "title": "LASRecomp",
+  "why": "Recompiles the Switch build of Link's Awakening into a native app instead of emulating it, with an SDL 3 runtime on top.",
+  "keys": {
+    "races": [
+      "games/engines",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "games/engines",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/peiikai/LASRecomp",
+    "sha": "579fdad6d736c8fbf1d21943593731eb926b6659",
+    "file_url": "https://cdn.jsdelivr.net/gh/peiikai/LASRecomp@579fdad6d736c8fbf1d21943593731eb926b6659/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 2317,
+    "size_mb": 17,
+    "created_at": "2026-10-08T22:42:12Z",
+    "last_commit_at": "2026-11-06T05:35:14Z",
+    "releases": 11,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "beta_5.4",
+      "at": "2026-10-29T17:34:40.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "579fdad6d736c8fbf1d21943593731eb926b6659",
+    "v": 3
+  },
+  "scan_partial": true
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:061d1a2313192812fea0646b03a0ff27dfaf54cc"
+  },
   "id": "gh:floooh/qoiview",
   "kind": "repo",
   "url": "https://github.com/floooh/qoiview",
@@ -49,5 +52,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "061d1a2313192812fea0646b03a0ff27dfaf54cc",
+    "v": 3
+  }
 }

@@ -24,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ARM-software/CMSIS_6",
-    "sha": "cdb18c7b06604360dccbe43c6ae948ac7adb1616",
-    "file_url": "https://cdn.jsdelivr.net/gh/ARM-software/CMSIS_6@cdb18c7b06604360dccbe43c6ae948ac7adb1616/{path}"
+    "sha": "36f9414e1898b2b050bb60ceca6902533fdb2243",
+    "file_url": "https://cdn.jsdelivr.net/gh/ARM-software/CMSIS_6@36f9414e1898b2b050bb60ceca6902533fdb2243/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "Apache-2.0",
-    "stars": 486,
+    "stars": 487,
     "size_mb": 42,
     "created_at": "2023-03-08T14:36:54Z",
     "last_commit_at": "2026-11-10T08:13:58Z",
@@ -50,9 +50,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 4,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "36f9414e1898b2b050bb60ceca6902533fdb2243",
+    "v": 3
+  }
 }

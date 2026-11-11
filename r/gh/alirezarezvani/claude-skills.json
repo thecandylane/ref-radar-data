@@ -33,16 +33,16 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 29561,
+    "stars": 29619,
     "size_mb": 24,
     "created_at": "2025-10-19T04:04:05Z",
-    "last_commit_at": "2026-11-10T07:11:14Z",
-    "releases": 18,
-    "tags": 19,
+    "last_commit_at": "2026-11-11T06:17:37Z",
+    "releases": 19,
+    "tags": 20,
     "archived": false,
     "release": {
-      "tag": "v2.14.10",
-      "at": "2026-11-10T07:11:29.000Z"
+      "tag": "v2.14.11",
+      "at": "2026-11-11T06:17:51.000Z"
     }
   },
   "reuse": "copy",
@@ -53,9 +53,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 365,
+    "star_delta_7d": 360,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "8f082544116fc0d014188e521ca40304cdfc86b0",
+    "v": 3
+  }
 }

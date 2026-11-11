@@ -1,0 +1,45 @@
+{
+  "id": "arxiv:2611.03534",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.03534",
+  "title": "An Agentic Framework for Automated Power System Studies and Grid Connection Assessment",
+  "why": "Pairs a regulation knowledge system with an engineering agent that relies on solvers, scored on a suite of 519 power-system tasks.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "llm-infra/rag",
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "llm-infra/rag",
+      "engineering/simulation"
+    ],
+    "capabilities": [
+      "llm-infra/rag/knowledge-platforms"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.03534"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

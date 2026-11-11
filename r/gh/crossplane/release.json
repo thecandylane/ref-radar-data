@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:451aead749ff4e8a2ac48c2feb55add506782d2d"
+  },
   "id": "gh:crossplane/release",
   "kind": "repo",
   "url": "https://github.com/crossplane/release",
@@ -49,5 +52,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "451aead749ff4e8a2ac48c2feb55add506782d2d",
+    "v": 3
+  }
 }

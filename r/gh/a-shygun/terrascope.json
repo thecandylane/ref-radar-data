@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:0a68b3547e4ddf733a5162b9d9f21276b8baa381"
+  },
   "id": "gh:a-shygun/terrascope",
   "kind": "repo",
   "url": "https://github.com/a-shygun/Terrascope",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 424,
+    "stars": 427,
     "size_mb": 77,
     "created_at": "2026-09-28T21:19:26Z",
     "last_commit_at": "2026-10-26T18:30:47Z",
@@ -59,5 +62,9 @@
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "0a68b3547e4ddf733a5162b9d9f21276b8baa381",
+    "v": 3
+  },
   "scan_partial": true
 }
