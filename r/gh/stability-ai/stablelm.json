@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:93eea082c49c61e64da1a0e1092fe82cc74b46d3"
+  },
+  "id": "gh:stability-ai/stablelm",
+  "kind": "repo",
+  "url": "https://github.com/Stability-AI/StableLM",
+  "title": "StableLM",
+  "why": "Releases Stability AI's StableLM family of open language models for others to run and fine-tune.",
+  "keys": {
+    "races": [
+      "ml/open-models",
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/open-models",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Stability-AI/StableLM",
+    "sha": "93eea082c49c61e64da1a0e1092fe82cc74b46d3",
+    "file_url": "https://cdn.jsdelivr.net/gh/Stability-AI/StableLM@93eea082c49c61e64da1a0e1092fe82cc74b46d3/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "Apache-2.0",
+    "stars": 15649,
+    "size_mb": 0,
+    "created_at": "2023-04-19T14:02:16Z",
+    "last_commit_at": "2024-04-08T19:25:59Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "93eea082c49c61e64da1a0e1092fe82cc74b46d3",
+    "v": 3
+  }
+}

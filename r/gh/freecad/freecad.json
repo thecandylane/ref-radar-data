@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:95862d43357485584a5f8ba9f4d5b3decfcf87c7"
-  },
   "id": "gh:freecad/freecad",
   "kind": "repo",
   "url": "https://github.com/FreeCAD/FreeCAD",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/FreeCAD/FreeCAD",
-    "sha": "95862d43357485584a5f8ba9f4d5b3decfcf87c7",
-    "file_url": "https://raw.githubusercontent.com/FreeCAD/FreeCAD/95862d43357485584a5f8ba9f4d5b3decfcf87c7/{path}"
+    "sha": "f1c522733da73db3e220e450460a2ac32cdee3f4",
+    "file_url": "https://raw.githubusercontent.com/FreeCAD/FreeCAD/f1c522733da73db3e220e450460a2ac32cdee3f4/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "LGPL-2.1",
-    "stars": 35352,
+    "stars": 35375,
     "size_mb": 2918,
     "created_at": "2012-09-09T08:25:02Z",
-    "last_commit_at": "2026-11-11T09:34:14Z",
+    "last_commit_at": "2026-11-12T08:53:59Z",
     "releases": 131,
     "tags": 143,
     "archived": false,
@@ -57,14 +54,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 244,
+    "star_delta_7d": 230,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "95862d43357485584a5f8ba9f4d5b3decfcf87c7",
-    "v": 3
-  },
   "hot": true
 }

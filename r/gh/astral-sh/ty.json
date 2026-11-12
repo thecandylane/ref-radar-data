@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1b1d9c40e9d9ca08e0028d672c6b0c1eff34796a"
-  },
   "id": "gh:astral-sh/ty",
   "kind": "repo",
   "url": "https://github.com/astral-sh/ty",
@@ -25,22 +22,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/astral-sh/ty",
-    "sha": "1b1d9c40e9d9ca08e0028d672c6b0c1eff34796a",
-    "file_url": "https://cdn.jsdelivr.net/gh/astral-sh/ty@1b1d9c40e9d9ca08e0028d672c6b0c1eff34796a/{path}"
+    "sha": "99766aa137791b1d5ff3346f578b9fdcabeca5df",
+    "file_url": "https://cdn.jsdelivr.net/gh/astral-sh/ty@99766aa137791b1d5ff3346f578b9fdcabeca5df/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 20057,
+    "stars": 20065,
     "size_mb": 8,
     "created_at": "2025-05-02T16:37:51Z",
-    "last_commit_at": "2026-11-11T07:03:48Z",
-    "releases": 141,
-    "tags": 141,
+    "last_commit_at": "2026-11-11T13:56:49Z",
+    "releases": 142,
+    "tags": 142,
     "archived": false,
     "release": {
-      "tag": "0.0.100",
-      "at": "2026-11-09T20:17:53.000Z"
+      "tag": "0.0.101",
+      "at": "2026-11-11T13:54:34.000Z"
     }
   },
   "reuse": "copy",
@@ -51,13 +48,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 36,
+    "star_delta_7d": 42,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "1b1d9c40e9d9ca08e0028d672c6b0c1eff34796a",
+    "sha": "99766aa137791b1d5ff3346f578b9fdcabeca5df",
     "v": 3
   }
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:e6768018190369dc3ca634955fc68cd0b5758624"
-  },
   "id": "gh:redpanda-data/connect",
   "kind": "repo",
   "url": "https://github.com/redpanda-data/connect",
@@ -35,8 +32,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/redpanda-data/connect",
-    "sha": "e6768018190369dc3ca634955fc68cd0b5758624",
-    "file_url": "https://cdn.jsdelivr.net/gh/redpanda-data/connect@e6768018190369dc3ca634955fc68cd0b5758624/{path}"
+    "sha": "515fea903a5bad85bec26948cbdf79845e79ec55",
+    "file_url": "https://cdn.jsdelivr.net/gh/redpanda-data/connect@515fea903a5bad85bec26948cbdf79845e79ec55/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -44,7 +41,7 @@
     "stars": 8798,
     "size_mb": 55,
     "created_at": "2016-03-22T01:18:48Z",
-    "last_commit_at": "2026-11-10T20:20:35Z",
+    "last_commit_at": "2026-11-12T00:02:12Z",
     "releases": 561,
     "tags": 800,
     "archived": false,
@@ -65,9 +62,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "e6768018190369dc3ca634955fc68cd0b5758624",
-    "v": 3
-  }
+  "tier": "curated"
 }

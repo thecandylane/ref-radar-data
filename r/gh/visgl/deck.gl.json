@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:cb10dff090f12385091f6dd28647b1618cf7e826"
-  },
   "id": "gh:visgl/deck.gl",
   "kind": "repo",
   "url": "https://github.com/visgl/deck.gl",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/visgl/deck.gl",
-    "sha": "cb10dff090f12385091f6dd28647b1618cf7e826",
-    "file_url": "https://cdn.jsdelivr.net/gh/visgl/deck.gl@cb10dff090f12385091f6dd28647b1618cf7e826/{path}"
+    "sha": "c76df16f4ce3821f28a18134d792e7a926045865",
+    "file_url": "https://cdn.jsdelivr.net/gh/visgl/deck.gl@c76df16f4ce3821f28a18134d792e7a926045865/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 14751,
-    "size_mb": 1148,
+    "stars": 14752,
+    "size_mb": 1147,
     "created_at": "2015-12-15T08:38:29Z",
-    "last_commit_at": "2026-11-11T00:02:01Z",
+    "last_commit_at": "2026-11-11T16:52:12Z",
     "releases": 315,
     "tags": 706,
     "archived": false,
@@ -53,13 +50,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 19,
+    "star_delta_7d": 15,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "cb10dff090f12385091f6dd28647b1618cf7e826",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:79e23749d4840f5f12d7b4fc54147479f2254f96"
+    "swh": "swh:1:rev:bc6efe74c55e588dded980f941a7b1ddd2f6e24d"
   },
   "id": "gh:containerd/containerd",
   "kind": "repo",
@@ -39,16 +39,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/containerd/containerd",
-    "sha": "79e23749d4840f5f12d7b4fc54147479f2254f96",
-    "file_url": "https://cdn.jsdelivr.net/gh/containerd/containerd@79e23749d4840f5f12d7b4fc54147479f2254f96/{path}"
+    "sha": "bc6efe74c55e588dded980f941a7b1ddd2f6e24d",
+    "file_url": "https://cdn.jsdelivr.net/gh/containerd/containerd@bc6efe74c55e588dded980f941a7b1ddd2f6e24d/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 21475,
+    "stars": 21479,
     "size_mb": 141,
     "created_at": "2015-11-13T00:27:43Z",
-    "last_commit_at": "2026-11-11T06:27:26Z",
+    "last_commit_at": "2026-11-11T19:00:08Z",
     "releases": 320,
     "tags": 333,
     "archived": false,
@@ -71,7 +71,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "79e23749d4840f5f12d7b4fc54147479f2254f96",
+    "sha": "bc6efe74c55e588dded980f941a7b1ddd2f6e24d",
     "v": 3
   }
 }

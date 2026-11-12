@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:bbf5b75229225beddcd9a856782f13e01b11a6c8"
-  },
   "id": "gh:knative/serving",
   "kind": "repo",
   "url": "https://github.com/knative/serving",
@@ -35,8 +32,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/knative/serving",
-    "sha": "bbf5b75229225beddcd9a856782f13e01b11a6c8",
-    "file_url": "https://cdn.jsdelivr.net/gh/knative/serving@bbf5b75229225beddcd9a856782f13e01b11a6c8/{path}"
+    "sha": "7eea6058b04db467518669513da847c5c22f5c73",
+    "file_url": "https://cdn.jsdelivr.net/gh/knative/serving@7eea6058b04db467518669513da847c5c22f5c73/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -44,7 +41,7 @@
     "stars": 6124,
     "size_mb": 112,
     "created_at": "2018-01-24T22:07:44Z",
-    "last_commit_at": "2026-11-11T02:26:21Z",
+    "last_commit_at": "2026-11-11T13:40:22Z",
     "releases": 173,
     "tags": 275,
     "archived": false,
@@ -65,9 +62,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "bbf5b75229225beddcd9a856782f13e01b11a6c8",
-    "v": 3
-  }
+  "tier": "curated"
 }

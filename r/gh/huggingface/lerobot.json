@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9e5ee9859480e425a97a6836bb3fee479539beb5"
-  },
   "id": "gh:huggingface/lerobot",
   "kind": "repo",
   "url": "https://github.com/huggingface/lerobot",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/huggingface/lerobot",
-    "sha": "9e5ee9859480e425a97a6836bb3fee479539beb5",
-    "file_url": "https://cdn.jsdelivr.net/gh/huggingface/lerobot@9e5ee9859480e425a97a6836bb3fee479539beb5/{path}"
+    "sha": "e581c1d5701f846788662079d4ac08835c96def9",
+    "file_url": "https://cdn.jsdelivr.net/gh/huggingface/lerobot@e581c1d5701f846788662079d4ac08835c96def9/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 28810,
-    "size_mb": 258,
+    "stars": 28831,
+    "size_mb": 259,
     "created_at": "2024-01-26T15:50:41Z",
-    "last_commit_at": "2026-11-10T15:01:27Z",
+    "last_commit_at": "2026-11-11T15:47:19Z",
     "releases": 12,
     "tags": 12,
     "archived": false,
@@ -57,14 +54,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 132,
+    "star_delta_7d": 138,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "9e5ee9859480e425a97a6836bb3fee479539beb5",
-    "v": 3
-  },
   "hot": true
 }

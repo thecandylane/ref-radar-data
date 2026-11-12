@@ -24,18 +24,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/brave/brave-browser",
-    "sha": "4ac8903810b9235ffe6b37ffa9e8db26891207f9",
-    "file_url": "https://cdn.jsdelivr.net/gh/brave/brave-browser@4ac8903810b9235ffe6b37ffa9e8db26891207f9/{path}"
+    "sha": "cbd0ce86f584738540cd4a31287b5eff0fa95027",
+    "file_url": "https://cdn.jsdelivr.net/gh/brave/brave-browser@cbd0ce86f584738540cd4a31287b5eff0fa95027/{path}"
   },
   "facts": {
     "lang": null,
     "license": "MPL-2.0",
-    "stars": 24178,
+    "stars": 24185,
     "size_mb": 39,
     "created_at": "2017-11-09T23:44:38Z",
-    "last_commit_at": "2026-11-11T00:03:52Z",
+    "last_commit_at": "2026-11-12T00:03:41Z",
     "releases": 1000,
-    "tags": 12455,
+    "tags": 12461,
     "archived": false,
     "release": {
       "tag": "v1.99.56",
@@ -56,7 +56,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "4ac8903810b9235ffe6b37ffa9e8db26891207f9",
+    "sha": "cbd0ce86f584738540cd4a31287b5eff0fa95027",
     "v": 3
   }
 }

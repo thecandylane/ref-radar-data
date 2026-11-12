@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:090bbfcd2afb62af12c5244946b853eacaf56fe2"
-  },
   "id": "gh:rocq-prover/rocq",
   "kind": "repo",
   "url": "https://github.com/rocq-prover/rocq",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/rocq-prover/rocq",
-    "sha": "090bbfcd2afb62af12c5244946b853eacaf56fe2",
-    "file_url": "https://cdn.jsdelivr.net/gh/rocq-prover/rocq@090bbfcd2afb62af12c5244946b853eacaf56fe2/{path}"
+    "sha": "e991573614cc7879af441c8adb5420266fdd1803",
+    "file_url": "https://cdn.jsdelivr.net/gh/rocq-prover/rocq@e991573614cc7879af441c8adb5420266fdd1803/{path}"
   },
   "facts": {
     "lang": "OCaml",
     "license": "LGPL-2.1",
-    "stars": 5667,
+    "stars": 5669,
     "size_mb": 214,
     "created_at": "2011-02-17T05:49:37Z",
-    "last_commit_at": "2026-11-11T09:57:25Z",
+    "last_commit_at": "2026-11-11T20:32:07Z",
     "releases": 71,
     "tags": 153,
     "archived": false,
@@ -59,9 +56,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "090bbfcd2afb62af12c5244946b853eacaf56fe2",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:2cd558e102ff56a4a32e8d6967f43b0a1d1b41ec"
-  },
   "id": "gh:dokku/dokku",
   "kind": "repo",
   "url": "https://github.com/dokku/dokku",
@@ -25,13 +22,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/dokku/dokku",
-    "sha": "2cd558e102ff56a4a32e8d6967f43b0a1d1b41ec",
-    "file_url": "https://cdn.jsdelivr.net/gh/dokku/dokku@2cd558e102ff56a4a32e8d6967f43b0a1d1b41ec/{path}"
+    "sha": "bf03afb9810caea112f2ea2e203b21da4f84c382",
+    "file_url": "https://cdn.jsdelivr.net/gh/dokku/dokku@bf03afb9810caea112f2ea2e203b21da4f84c382/{path}"
   },
   "facts": {
     "lang": "Shell",
     "license": "MIT",
-    "stars": 32225,
+    "stars": 32226,
     "size_mb": 27,
     "created_at": "2013-06-08T10:26:57Z",
     "last_commit_at": "2026-11-10T20:47:21Z",
@@ -51,13 +48,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 5,
+    "star_delta_7d": 6,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "2cd558e102ff56a4a32e8d6967f43b0a1d1b41ec",
+    "sha": "bf03afb9810caea112f2ea2e203b21da4f84c382",
     "v": 3
   }
 }

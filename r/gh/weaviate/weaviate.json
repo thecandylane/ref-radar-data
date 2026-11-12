@@ -30,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/weaviate/weaviate",
-    "sha": "9e152c7cbcf4a679338c7e389b9095d95d669ee3",
-    "file_url": "https://cdn.jsdelivr.net/gh/weaviate/weaviate@9e152c7cbcf4a679338c7e389b9095d95d669ee3/{path}"
+    "sha": "5f96160d65ef1e25112544ba4ef712afd876cc27",
+    "file_url": "https://cdn.jsdelivr.net/gh/weaviate/weaviate@5f96160d65ef1e25112544ba4ef712afd876cc27/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "NOASSERTION",
-    "stars": 16943,
-    "size_mb": 1148,
+    "stars": 16944,
+    "size_mb": 1151,
     "created_at": "2016-03-30T15:03:17Z",
-    "last_commit_at": "2026-11-11T09:57:28Z",
+    "last_commit_at": "2026-11-11T12:37:55Z",
     "releases": 615,
     "tags": 633,
     "archived": false,
@@ -60,9 +60,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "9e152c7cbcf4a679338c7e389b9095d95d669ee3",
-    "v": 3
-  }
+  "tier": "curated"
 }

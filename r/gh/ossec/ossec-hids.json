@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ca81c080adfd1f678a19ed90318a75a273236328"
-  },
   "id": "gh:ossec/ossec-hids",
   "kind": "repo",
   "url": "https://github.com/ossec/ossec-hids",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ossec/ossec-hids",
-    "sha": "ca81c080adfd1f678a19ed90318a75a273236328",
-    "file_url": "https://cdn.jsdelivr.net/gh/ossec/ossec-hids@ca81c080adfd1f678a19ed90318a75a273236328/{path}"
+    "sha": "7508eef5a8b9d6bc99061f8fe8ed8658341229fe",
+    "file_url": "https://cdn.jsdelivr.net/gh/ossec/ossec-hids@7508eef5a8b9d6bc99061f8fe8ed8658341229fe/{path}"
   },
   "facts": {
     "lang": "C",
@@ -40,7 +37,7 @@
     "stars": 5069,
     "size_mb": 24,
     "created_at": "2013-09-17T17:07:58Z",
-    "last_commit_at": "2026-11-07T17:38:38Z",
+    "last_commit_at": "2026-11-12T01:18:04Z",
     "releases": 37,
     "tags": 54,
     "archived": false,
@@ -61,9 +58,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "ca81c080adfd1f678a19ed90318a75a273236328",
-    "v": 3
-  }
+  "tier": "curated"
 }

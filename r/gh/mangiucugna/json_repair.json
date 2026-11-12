@@ -28,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/mangiucugna/json_repair",
-    "sha": "ceefae0d668e529afc279026c5a8588559bd5806",
-    "file_url": "https://cdn.jsdelivr.net/gh/mangiucugna/json_repair@ceefae0d668e529afc279026c5a8588559bd5806/{path}"
+    "sha": "10d9802ec571358807e9e3f052764b3998259085",
+    "file_url": "https://cdn.jsdelivr.net/gh/mangiucugna/json_repair@10d9802ec571358807e9e3f052764b3998259085/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
     "stars": 5137,
-    "size_mb": 7,
+    "size_mb": 8,
     "created_at": "2023-09-06T18:28:42Z",
-    "last_commit_at": "2026-11-10T04:26:27Z",
+    "last_commit_at": "2026-11-12T05:38:12Z",
     "releases": 188,
     "tags": 189,
     "archived": false,
@@ -58,9 +58,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "ceefae0d668e529afc279026c5a8588559bd5806",
-    "v": 3
-  }
+  "tier": "curated"
 }

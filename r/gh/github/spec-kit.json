@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ec9a6f3b94c0aa856f77e550785a1ddde1993de1"
-  },
   "id": "gh:github/spec-kit",
   "kind": "repo",
   "url": "https://github.com/github/spec-kit",
@@ -33,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/github/spec-kit",
-    "sha": "ec9a6f3b94c0aa856f77e550785a1ddde1993de1",
-    "file_url": "https://cdn.jsdelivr.net/gh/github/spec-kit@ec9a6f3b94c0aa856f77e550785a1ddde1993de1/{path}"
+    "sha": "979b0a3c1277283371c9901ad0eed04b64a99997",
+    "file_url": "https://cdn.jsdelivr.net/gh/github/spec-kit@979b0a3c1277283371c9901ad0eed04b64a99997/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 149274,
+    "stars": 149428,
     "size_mb": 23,
     "created_at": "2025-08-21T22:54:31Z",
-    "last_commit_at": "2026-11-10T23:14:56Z",
+    "last_commit_at": "2026-11-11T22:53:41Z",
     "releases": 243,
     "tags": 245,
     "archived": false,
@@ -63,9 +60,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "ec9a6f3b94c0aa856f77e550785a1ddde1993de1",
-    "v": 3
-  }
+  "tier": "curated"
 }

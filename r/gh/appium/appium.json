@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:2109f8ca84e7f57944ee83ac337f7e2f586953b0"
-  },
   "id": "gh:appium/appium",
   "kind": "repo",
   "url": "https://github.com/appium/appium",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/appium/appium",
-    "sha": "2109f8ca84e7f57944ee83ac337f7e2f586953b0",
-    "file_url": "https://cdn.jsdelivr.net/gh/appium/appium@2109f8ca84e7f57944ee83ac337f7e2f586953b0/{path}"
+    "sha": "d27977d33c3c5c00fcfc05801b08e70e3ab73017",
+    "file_url": "https://cdn.jsdelivr.net/gh/appium/appium@d27977d33c3c5c00fcfc05801b08e70e3ab73017/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 22208,
+    "stars": 22210,
     "size_mb": 263,
     "created_at": "2013-01-09T22:49:50Z",
-    "last_commit_at": "2026-11-05T12:59:07Z",
+    "last_commit_at": "2026-11-12T07:03:49Z",
     "releases": 1000,
     "tags": 2395,
     "archived": false,
@@ -61,13 +58,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 29,
+    "star_delta_7d": 27,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "2109f8ca84e7f57944ee83ac337f7e2f586953b0",
+    "sha": "d27977d33c3c5c00fcfc05801b08e70e3ab73017",
     "v": 3
   }
 }

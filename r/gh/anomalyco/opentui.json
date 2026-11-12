@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:cd23e757cc5d28c03ee58c606e81de7a6be2afe8"
-  },
   "id": "gh:anomalyco/opentui",
   "kind": "repo",
   "url": "https://github.com/anomalyco/opentui",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/anomalyco/opentui",
-    "sha": "cd23e757cc5d28c03ee58c606e81de7a6be2afe8",
-    "file_url": "https://cdn.jsdelivr.net/gh/anomalyco/opentui@cd23e757cc5d28c03ee58c606e81de7a6be2afe8/{path}"
+    "sha": "ea1127e9bf4562cd0020bf6d421e806a222bd040",
+    "file_url": "https://cdn.jsdelivr.net/gh/anomalyco/opentui@ea1127e9bf4562cd0020bf6d421e806a222bd040/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 13787,
-    "size_mb": 87,
+    "stars": 13799,
+    "size_mb": 94,
     "created_at": "2025-07-21T09:35:54Z",
-    "last_commit_at": "2026-11-11T08:28:50Z",
+    "last_commit_at": "2026-11-11T22:10:03Z",
     "releases": 124,
     "tags": 347,
     "archived": false,
@@ -55,13 +52,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 80,
+    "star_delta_7d": 87,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "cd23e757cc5d28c03ee58c606e81de7a6be2afe8",
+    "sha": "ea1127e9bf4562cd0020bf6d421e806a222bd040",
     "v": 3
   }
 }

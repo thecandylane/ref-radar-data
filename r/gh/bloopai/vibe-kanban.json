@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:08064e043c2d78ad123b473257ed867e7ce74768"
-  },
   "id": "gh:bloopai/vibe-kanban",
   "kind": "repo",
   "url": "https://github.com/BloopAI/vibe-kanban",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/BloopAI/vibe-kanban",
-    "sha": "08064e043c2d78ad123b473257ed867e7ce74768",
-    "file_url": "https://cdn.jsdelivr.net/gh/BloopAI/vibe-kanban@08064e043c2d78ad123b473257ed867e7ce74768/{path}"
+    "sha": "b09ba13695e52a1ec7ffb67ecc611435ac67c3f2",
+    "file_url": "https://cdn.jsdelivr.net/gh/BloopAI/vibe-kanban@b09ba13695e52a1ec7ffb67ecc611435ac67c3f2/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 28650,
+    "stars": 28661,
     "size_mb": 102,
     "created_at": "2025-06-14T19:10:21Z",
-    "last_commit_at": "2026-11-10T13:07:42Z",
+    "last_commit_at": "2026-11-12T07:48:40Z",
     "releases": 284,
     "tags": 452,
     "archived": false,
@@ -67,7 +64,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "08064e043c2d78ad123b473257ed867e7ce74768",
+    "sha": "b09ba13695e52a1ec7ffb67ecc611435ac67c3f2",
     "v": 3
   }
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ac1eb6fb58c36f00dcc506740bef12d3fac7db1a"
-  },
   "id": "gh:maximhq/bifrost",
   "kind": "repo",
   "url": "https://github.com/maximhq/bifrost",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/maximhq/bifrost",
-    "sha": "ac1eb6fb58c36f00dcc506740bef12d3fac7db1a",
-    "file_url": "https://raw.githubusercontent.com/maximhq/bifrost/ac1eb6fb58c36f00dcc506740bef12d3fac7db1a/{path}"
+    "sha": "ff2e69f7f0143ab79c9de5258b90bd9c70cf347b",
+    "file_url": "https://raw.githubusercontent.com/maximhq/bifrost/ff2e69f7f0143ab79c9de5258b90bd9c70cf347b/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 9495,
-    "size_mb": 1231,
+    "stars": 9511,
+    "size_mb": 1236,
     "created_at": "2025-03-19T07:21:26Z",
-    "last_commit_at": "2026-11-11T07:44:36Z",
+    "last_commit_at": "2026-11-11T14:18:33Z",
     "releases": 1000,
     "tags": 2444,
     "archived": false,
@@ -61,13 +58,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 152,
+    "star_delta_7d": 131,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "ac1eb6fb58c36f00dcc506740bef12d3fac7db1a",
-    "v": 3
-  }
+  "tier": "curated"
 }

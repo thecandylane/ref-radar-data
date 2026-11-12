@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:6ab1337ebd0620c7b325e197958f8f6217c974ab"
-  },
   "id": "gh:storybookjs/storybook",
   "kind": "repo",
   "url": "https://github.com/storybookjs/storybook",
@@ -29,18 +26,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/storybookjs/storybook",
-    "sha": "6ab1337ebd0620c7b325e197958f8f6217c974ab",
-    "file_url": "https://cdn.jsdelivr.net/gh/storybookjs/storybook@6ab1337ebd0620c7b325e197958f8f6217c974ab/{path}"
+    "sha": "69b9e07a0c3cb996c2a026dde1d2f5c4dcd55624",
+    "file_url": "https://cdn.jsdelivr.net/gh/storybookjs/storybook@69b9e07a0c3cb996c2a026dde1d2f5c4dcd55624/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 91525,
+    "stars": 91542,
     "size_mb": 1121,
     "created_at": "2016-03-18T04:23:44Z",
-    "last_commit_at": "2026-11-11T09:56:37Z",
+    "last_commit_at": "2026-11-12T09:00:49Z",
     "releases": 1000,
-    "tags": 2226,
+    "tags": 2227,
     "archived": false,
     "release": {
       "tag": "v10.6.7",
@@ -55,14 +52,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 77,
+    "star_delta_7d": 79,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "6ab1337ebd0620c7b325e197958f8f6217c974ab",
-    "v": 3
-  },
   "hot": true
 }

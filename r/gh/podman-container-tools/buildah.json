@@ -34,8 +34,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/podman-container-tools/buildah",
-    "sha": "4805059452f550012ac4d2cb929790cb3b5be06f",
-    "file_url": "https://cdn.jsdelivr.net/gh/podman-container-tools/buildah@4805059452f550012ac4d2cb929790cb3b5be06f/{path}"
+    "sha": "cd4117974dc609530fb90fb25a99cb9c37869e5f",
+    "file_url": "https://cdn.jsdelivr.net/gh/podman-container-tools/buildah@cd4117974dc609530fb90fb25a99cb9c37869e5f/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -43,13 +43,13 @@
     "stars": 9179,
     "size_mb": 96,
     "created_at": "2017-01-26T16:59:13Z",
-    "last_commit_at": "2026-11-09T18:23:06Z",
-    "releases": 223,
-    "tags": 239,
+    "last_commit_at": "2026-11-11T19:12:20Z",
+    "releases": 225,
+    "tags": 241,
     "archived": false,
     "release": {
-      "tag": "v1.46.0",
-      "at": "2026-10-21T14:43:03.000Z"
+      "tag": "v1.46.1",
+      "at": "2026-11-11T16:23:39.000Z"
     }
   },
   "reuse": "copy",
@@ -60,13 +60,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "4805059452f550012ac4d2cb929790cb3b5be06f",
-    "v": 3
-  }
+  "tier": "curated"
 }

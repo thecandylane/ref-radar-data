@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:7a7ac96e96e0f9b4ba3eee80de3f4d255698170b"
-  },
   "id": "gh:benfred/py-spy",
   "kind": "repo",
   "url": "https://github.com/benfred/py-spy",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/benfred/py-spy",
-    "sha": "7a7ac96e96e0f9b4ba3eee80de3f4d255698170b",
-    "file_url": "https://cdn.jsdelivr.net/gh/benfred/py-spy@7a7ac96e96e0f9b4ba3eee80de3f4d255698170b/{path}"
+    "sha": "c53bfe136535cb525a35ded61e9afac35754e522",
+    "file_url": "https://cdn.jsdelivr.net/gh/benfred/py-spy@c53bfe136535cb525a35ded61e9afac35754e522/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 15639,
+    "stars": 15643,
     "size_mb": 4,
     "created_at": "2018-08-01T02:22:15Z",
     "last_commit_at": "2026-11-09T19:54:24Z",
@@ -63,7 +60,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "7a7ac96e96e0f9b4ba3eee80de3f4d255698170b",
+    "sha": "c53bfe136535cb525a35ded61e9afac35754e522",
     "v": 3
   }
 }

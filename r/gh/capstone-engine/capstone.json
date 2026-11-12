@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:04fd70b5456c20fc27d1f2b62d6ed0820fc6b081"
-  },
   "id": "gh:capstone-engine/capstone",
   "kind": "repo",
   "url": "https://github.com/capstone-engine/capstone",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/capstone-engine/capstone",
-    "sha": "04fd70b5456c20fc27d1f2b62d6ed0820fc6b081",
-    "file_url": "https://cdn.jsdelivr.net/gh/capstone-engine/capstone@04fd70b5456c20fc27d1f2b62d6ed0820fc6b081/{path}"
+    "sha": "823242a51299ce5a8bac79c0914278419fe4f7a6",
+    "file_url": "https://cdn.jsdelivr.net/gh/capstone-engine/capstone@823242a51299ce5a8bac79c0914278419fe4f7a6/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "none",
-    "stars": 9179,
+    "stars": 9183,
     "size_mb": 72,
     "created_at": "2013-11-27T02:32:11Z",
     "last_commit_at": "2026-11-10T22:08:03Z",
@@ -63,7 +60,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "04fd70b5456c20fc27d1f2b62d6ed0820fc6b081",
+    "sha": "823242a51299ce5a8bac79c0914278419fe4f7a6",
     "v": 3
   }
 }

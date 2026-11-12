@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:b81b40e4500c09e82c8148f1880b5ed0261c1672"
-  },
   "id": "gh:asyncfuncai/deepwiki-open",
   "kind": "repo",
   "url": "https://github.com/AsyncFuncAI/deepwiki-open",
@@ -33,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/AsyncFuncAI/deepwiki-open",
-    "sha": "b81b40e4500c09e82c8148f1880b5ed0261c1672",
-    "file_url": "https://cdn.jsdelivr.net/gh/AsyncFuncAI/deepwiki-open@b81b40e4500c09e82c8148f1880b5ed0261c1672/{path}"
+    "sha": "524878468a7ba3dfe9be284980a799a2f011ffff",
+    "file_url": "https://cdn.jsdelivr.net/gh/AsyncFuncAI/deepwiki-open@524878468a7ba3dfe9be284980a799a2f011ffff/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 18402,
+    "stars": 18410,
     "size_mb": 5,
     "created_at": "2025-04-30T06:01:29Z",
-    "last_commit_at": "2026-11-10T08:13:03Z",
+    "last_commit_at": "2026-11-12T01:48:21Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -56,13 +53,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 35,
+    "star_delta_7d": 40,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "b81b40e4500c09e82c8148f1880b5ed0261c1672",
+    "sha": "524878468a7ba3dfe9be284980a799a2f011ffff",
     "v": 3
   }
 }

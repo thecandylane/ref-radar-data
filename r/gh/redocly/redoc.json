@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:acf2656eac7783bee82b71c4b5105d1a3a61b6be"
-  },
   "id": "gh:redocly/redoc",
   "kind": "repo",
   "url": "https://github.com/Redocly/redoc",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Redocly/redoc",
-    "sha": "acf2656eac7783bee82b71c4b5105d1a3a61b6be",
-    "file_url": "https://cdn.jsdelivr.net/gh/Redocly/redoc@acf2656eac7783bee82b71c4b5105d1a3a61b6be/{path}"
+    "sha": "85b36169426246c07a1a9019bab10702b9cf48af",
+    "file_url": "https://cdn.jsdelivr.net/gh/Redocly/redoc@85b36169426246c07a1a9019bab10702b9cf48af/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -57,13 +54,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 7,
+    "star_delta_7d": 3,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "acf2656eac7783bee82b71c4b5105d1a3a61b6be",
-    "v": 3
-  }
+  "tier": "curated"
 }

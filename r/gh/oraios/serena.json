@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ede329aaf0c824bea75455a2926f01420d7aa620"
-  },
   "id": "gh:oraios/serena",
   "kind": "repo",
   "url": "https://github.com/oraios/serena",
@@ -34,13 +31,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/oraios/serena",
-    "sha": "ede329aaf0c824bea75455a2926f01420d7aa620",
-    "file_url": "https://cdn.jsdelivr.net/gh/oraios/serena@ede329aaf0c824bea75455a2926f01420d7aa620/{path}"
+    "sha": "6e5c3776d4e67befaab7c290bc29b0279c98d1ed",
+    "file_url": "https://cdn.jsdelivr.net/gh/oraios/serena@6e5c3776d4e67befaab7c290bc29b0279c98d1ed/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 31291,
+    "stars": 31315,
     "size_mb": 13,
     "created_at": "2025-03-23T22:35:24Z",
     "last_commit_at": "2026-11-09T17:38:55Z",
@@ -60,13 +57,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 212,
+    "star_delta_7d": 203,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "ede329aaf0c824bea75455a2926f01420d7aa620",
-    "v": 3
-  }
+  "hot": true
 }

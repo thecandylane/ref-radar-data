@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:18160658fdffaccb9194f1622c8a375ada908a29"
+  },
   "id": "gh:auscaster/frantic-board",
   "kind": "repo",
   "url": "https://github.com/auscaster/frantic-board",
@@ -26,16 +29,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/auscaster/frantic-board",
-    "sha": "2c495594f04c1697fae9ebdde9ef04e1a6588a35",
-    "file_url": "https://cdn.jsdelivr.net/gh/auscaster/frantic-board@2c495594f04c1697fae9ebdde9ef04e1a6588a35/{path}"
+    "sha": "18160658fdffaccb9194f1622c8a375ada908a29",
+    "file_url": "https://cdn.jsdelivr.net/gh/auscaster/frantic-board@18160658fdffaccb9194f1622c8a375ada908a29/{path}"
   },
   "facts": {
     "lang": "Shell",
     "license": "MIT",
-    "stars": 943,
+    "stars": 970,
     "size_mb": 1,
     "created_at": "2026-06-11T11:18:38Z",
-    "last_commit_at": "2026-11-11T06:36:37Z",
+    "last_commit_at": "2026-11-12T07:19:22Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -55,7 +58,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "2c495594f04c1697fae9ebdde9ef04e1a6588a35",
+    "sha": "18160658fdffaccb9194f1622c8a375ada908a29",
     "v": 3
   }
 }

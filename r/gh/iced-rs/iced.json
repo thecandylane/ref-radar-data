@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:8ff48c42b0d5188223501ea1ccc506fd5beaf36a"
-  },
   "id": "gh:iced-rs/iced",
   "kind": "repo",
   "url": "https://github.com/iced-rs/iced",
@@ -29,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/iced-rs/iced",
-    "sha": "8ff48c42b0d5188223501ea1ccc506fd5beaf36a",
-    "file_url": "https://cdn.jsdelivr.net/gh/iced-rs/iced@8ff48c42b0d5188223501ea1ccc506fd5beaf36a/{path}"
+    "sha": "c3d2cfd0a8503fd4b13754467953b427be259c55",
+    "file_url": "https://cdn.jsdelivr.net/gh/iced-rs/iced@c3d2cfd0a8503fd4b13754467953b427be259c55/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 31996,
+    "stars": 32009,
     "size_mb": 23,
     "created_at": "2019-07-15T22:34:46Z",
     "last_commit_at": "2026-11-11T04:11:50Z",
@@ -55,13 +52,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 87,
+    "star_delta_7d": 91,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "8ff48c42b0d5188223501ea1ccc506fd5beaf36a",
-    "v": 3
-  }
+  "tier": "curated"
 }

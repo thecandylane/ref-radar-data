@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a247a81d32f05aca22ced14536ca0e6cfdaa1794"
-  },
   "id": "gh:treeverse/lakefs",
   "kind": "repo",
   "url": "https://github.com/treeverse/lakeFS",
@@ -37,13 +34,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/treeverse/lakeFS",
-    "sha": "a247a81d32f05aca22ced14536ca0e6cfdaa1794",
-    "file_url": "https://cdn.jsdelivr.net/gh/treeverse/lakeFS@a247a81d32f05aca22ced14536ca0e6cfdaa1794/{path}"
+    "sha": "20cbb145c6345336ea30ad3a272d0664ca5a949e",
+    "file_url": "https://cdn.jsdelivr.net/gh/treeverse/lakeFS@20cbb145c6345336ea30ad3a272d0664ca5a949e/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "NOASSERTION",
-    "stars": 5584,
+    "stars": 5585,
     "size_mb": 173,
     "created_at": "2019-09-12T11:46:28Z",
     "last_commit_at": "2026-11-10T15:58:48Z",
@@ -67,9 +64,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "a247a81d32f05aca22ced14536ca0e6cfdaa1794",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -26,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/home-assistant/core",
-    "sha": "47ffe7523cc35a27d9c63d7bf89319b75e8f9f00",
-    "file_url": "https://raw.githubusercontent.com/home-assistant/core/47ffe7523cc35a27d9c63d7bf89319b75e8f9f00/{path}"
+    "sha": "113b4f0679bdd805c2b26d241dc19fa134c18ee1",
+    "file_url": "https://raw.githubusercontent.com/home-assistant/core/113b4f0679bdd805c2b26d241dc19fa134c18ee1/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 92185,
+    "stars": 92257,
     "size_mb": 918,
     "created_at": "2013-09-17T07:29:48Z",
-    "last_commit_at": "2026-11-11T08:12:48Z",
+    "last_commit_at": "2026-11-12T09:03:02Z",
     "releases": 1000,
     "tags": 1669,
     "archived": false,
@@ -56,9 +56,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "47ffe7523cc35a27d9c63d7bf89319b75e8f9f00",
-    "v": 3
-  }
+  "tier": "curated"
 }

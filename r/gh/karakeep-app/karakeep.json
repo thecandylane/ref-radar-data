@@ -34,16 +34,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/karakeep-app/karakeep",
-    "sha": "88a9ff9cfdfa2b99da4d6a700ea2d0055bd3639d",
-    "file_url": "https://cdn.jsdelivr.net/gh/karakeep-app/karakeep@88a9ff9cfdfa2b99da4d6a700ea2d0055bd3639d/{path}"
+    "sha": "f7119ca01004f4840b8a7189d2899945ea3966a3",
+    "file_url": "https://cdn.jsdelivr.net/gh/karakeep-app/karakeep@f7119ca01004f4840b8a7189d2899945ea3966a3/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 30452,
+    "stars": 30473,
     "size_mb": 143,
     "created_at": "2024-02-06T12:28:31Z",
-    "last_commit_at": "2026-11-10T07:07:47Z",
+    "last_commit_at": "2026-11-11T20:53:28Z",
     "releases": 53,
     "tags": 219,
     "archived": false,
@@ -64,9 +64,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "88a9ff9cfdfa2b99da4d6a700ea2d0055bd3639d",
-    "v": 3
-  }
+  "tier": "curated"
 }

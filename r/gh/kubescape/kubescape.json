@@ -36,16 +36,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/kubescape/kubescape",
-    "sha": "fed07219f7e70412791c93024ef05c2d4696fbe0",
-    "file_url": "https://cdn.jsdelivr.net/gh/kubescape/kubescape@fed07219f7e70412791c93024ef05c2d4696fbe0/{path}"
+    "sha": "0700a9bef6e9607360cf0484d61a96a63d1ab645",
+    "file_url": "https://cdn.jsdelivr.net/gh/kubescape/kubescape@0700a9bef6e9607360cf0484d61a96a63d1ab645/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 11858,
+    "stars": 11860,
     "size_mb": 128,
     "created_at": "2021-08-12T10:39:29Z",
-    "last_commit_at": "2026-11-11T07:15:10Z",
+    "last_commit_at": "2026-11-12T09:17:55Z",
     "releases": 227,
     "tags": 570,
     "archived": false,
@@ -66,9 +66,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "fed07219f7e70412791c93024ef05c2d4696fbe0",
-    "v": 3
-  }
+  "tier": "curated"
 }

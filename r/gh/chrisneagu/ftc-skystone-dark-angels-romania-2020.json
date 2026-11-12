@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b5132793582a84d335b0dd042c7062d8344020ce"
+  },
+  "id": "gh:chrisneagu/ftc-skystone-dark-angels-romania-2020",
+  "kind": "repo",
+  "url": "https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020",
+  "title": "FTC-Skystone-Dark-Angels-Romania-2020",
+  "why": "Android app source for driving FIRST Tech Challenge robots, with a TeamCode folder for your own op modes and Blocks or OnBot Java tools.",
+  "keys": {
+    "races": [
+      "embedded/robotics",
+      "mobile/android"
+    ],
+    "lanes": [
+      "embedded/robotics",
+      "mobile/android"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020",
+    "sha": "b5132793582a84d335b0dd042c7062d8344020ce",
+    "file_url": "https://cdn.jsdelivr.net/gh/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020@b5132793582a84d335b0dd042c7062d8344020ce/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "none",
+    "stars": 324,
+    "size_mb": 78,
+    "created_at": "2021-03-08T11:34:11Z",
+    "last_commit_at": "2021-03-08T11:45:12Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b5132793582a84d335b0dd042c7062d8344020ce",
+    "v": 3
+  }
+}

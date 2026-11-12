@@ -36,16 +36,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/opencost/opencost",
-    "sha": "17daaa72c27cb12c490ce6e15d096554b274f322",
-    "file_url": "https://raw.githubusercontent.com/opencost/opencost/17daaa72c27cb12c490ce6e15d096554b274f322/{path}"
+    "sha": "29c932c9867394d4fba07999a65d7b81490b19e5",
+    "file_url": "https://raw.githubusercontent.com/opencost/opencost/29c932c9867394d4fba07999a65d7b81490b19e5/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 6809,
+    "stars": 6812,
     "size_mb": 80,
     "created_at": "2019-03-27T21:49:05Z",
-    "last_commit_at": "2026-11-10T14:55:32Z",
+    "last_commit_at": "2026-11-11T15:48:01Z",
     "releases": 77,
     "tags": 610,
     "archived": false,
@@ -66,9 +66,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "17daaa72c27cb12c490ce6e15d096554b274f322",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:968e4f86e5446136a795b60f18b8d0c78b8341fa"
-  },
   "id": "gh:metabase/metabase",
   "kind": "repo",
   "url": "https://github.com/metabase/metabase",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/metabase/metabase",
-    "sha": "968e4f86e5446136a795b60f18b8d0c78b8341fa",
-    "file_url": "https://raw.githubusercontent.com/metabase/metabase/968e4f86e5446136a795b60f18b8d0c78b8341fa/{path}"
+    "sha": "c6238517cad2717ec37fbd76c440a6a8788aea1a",
+    "file_url": "https://raw.githubusercontent.com/metabase/metabase/c6238517cad2717ec37fbd76c440a6a8788aea1a/{path}"
   },
   "facts": {
     "lang": "Clojure",
     "license": "NOASSERTION",
-    "stars": 50274,
-    "size_mb": 2503,
+    "stars": 50297,
+    "size_mb": 2510,
     "created_at": "2015-02-02T19:25:47Z",
-    "last_commit_at": "2026-11-11T09:54:39Z",
+    "last_commit_at": "2026-11-12T08:36:19Z",
     "releases": 852,
     "tags": 2491,
     "archived": false,
@@ -60,9 +57,5 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "968e4f86e5446136a795b60f18b8d0c78b8341fa",
-    "v": 3
-  },
   "hot": true
 }

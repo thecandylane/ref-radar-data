@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:55d39d0d0ec6b9ee566afa75d4b834e1ae66ecc8"
-  },
   "id": "gh:webassembly/binaryen",
   "kind": "repo",
   "url": "https://github.com/WebAssembly/binaryen",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/WebAssembly/binaryen",
-    "sha": "55d39d0d0ec6b9ee566afa75d4b834e1ae66ecc8",
-    "file_url": "https://cdn.jsdelivr.net/gh/WebAssembly/binaryen@55d39d0d0ec6b9ee566afa75d4b834e1ae66ecc8/{path}"
+    "sha": "4d8a21477cd6fe730226f1832d3d5617e75f97c4",
+    "file_url": "https://cdn.jsdelivr.net/gh/WebAssembly/binaryen@4d8a21477cd6fe730226f1832d3d5617e75f97c4/{path}"
   },
   "facts": {
     "lang": "WebAssembly",
@@ -38,7 +35,7 @@
     "stars": 8679,
     "size_mb": 155,
     "created_at": "2015-10-29T20:26:28Z",
-    "last_commit_at": "2026-11-11T01:51:23Z",
+    "last_commit_at": "2026-11-12T08:50:41Z",
     "releases": 130,
     "tags": 228,
     "archived": false,
@@ -55,13 +52,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 4,
+    "star_delta_7d": 3,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "55d39d0d0ec6b9ee566afa75d4b834e1ae66ecc8",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:83773823c79bb1beff1f2b62ec881e47e947e859"
+  },
+  "id": "gh:trufflesecurity/force-push-scanner",
+  "kind": "repo",
+  "url": "https://github.com/trufflesecurity/force-push-scanner",
+  "title": "force-push-scanner",
+  "why": "Finds leaked secrets in dangling commits left behind by force pushes, working from GH Archive data rather than clones.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "dev-tools/vcs"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "dev-tools/vcs"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/trufflesecurity/force-push-scanner",
+    "sha": "83773823c79bb1beff1f2b62ec881e47e947e859",
+    "file_url": "https://cdn.jsdelivr.net/gh/trufflesecurity/force-push-scanner@83773823c79bb1beff1f2b62ec881e47e947e859/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 492,
+    "size_mb": 1,
+    "created_at": "2025-06-26T13:24:32Z",
+    "last_commit_at": "2025-07-03T15:28:13Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "83773823c79bb1beff1f2b62ec881e47e947e859",
+    "v": 3
+  }
+}

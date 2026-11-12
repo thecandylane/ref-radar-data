@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a64d5c9f843f8ddcb692b8f7a16cc78c1eefad60"
-  },
   "id": "gh:lobehub/lobehub",
   "kind": "repo",
   "url": "https://github.com/lobehub/lobehub",
@@ -41,18 +38,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/lobehub/lobehub",
-    "sha": "a64d5c9f843f8ddcb692b8f7a16cc78c1eefad60",
-    "file_url": "https://raw.githubusercontent.com/lobehub/lobehub/a64d5c9f843f8ddcb692b8f7a16cc78c1eefad60/{path}"
+    "sha": "a91c042c8319caca82d9e6f8a990ae5f4d078f4c",
+    "file_url": "https://raw.githubusercontent.com/lobehub/lobehub/a91c042c8319caca82d9e6f8a990ae5f4d078f4c/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 84963,
-    "size_mb": 600,
+    "stars": 85117,
+    "size_mb": 602,
     "created_at": "2023-05-21T07:19:12Z",
-    "last_commit_at": "2026-11-11T09:51:49Z",
-    "releases": 904,
-    "tags": 3313,
+    "last_commit_at": "2026-11-12T09:15:02Z",
+    "releases": 915,
+    "tags": 3326,
     "archived": false,
     "release": {
       "tag": "v2.3.2",
@@ -67,14 +64,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 1137,
+    "star_delta_7d": 1140,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "a64d5c9f843f8ddcb692b8f7a16cc78c1eefad60",
-    "v": 3
-  },
   "hot": true
 }

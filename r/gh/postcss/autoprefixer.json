@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:a7dbf4de8763432c32867de4cba64926587cfca6"
+    "swh": "swh:1:rev:58135fad52420576fce568223603ab1e382329ea"
   },
   "id": "gh:postcss/autoprefixer",
   "kind": "repo",
@@ -29,8 +29,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/postcss/autoprefixer",
-    "sha": "a7dbf4de8763432c32867de4cba64926587cfca6",
-    "file_url": "https://cdn.jsdelivr.net/gh/postcss/autoprefixer@a7dbf4de8763432c32867de4cba64926587cfca6/{path}"
+    "sha": "58135fad52420576fce568223603ab1e382329ea",
+    "file_url": "https://cdn.jsdelivr.net/gh/postcss/autoprefixer@58135fad52420576fce568223603ab1e382329ea/{path}"
   },
   "facts": {
     "lang": "JavaScript",
@@ -55,13 +55,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": -2,
+    "star_delta_7d": -3,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "a7dbf4de8763432c32867de4cba64926587cfca6",
-    "v": 3
-  }
+  "tier": "curated"
 }

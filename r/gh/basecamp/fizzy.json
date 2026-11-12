@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:957830cd78a5a495c09754bd006a3e78a230c78f"
+  },
   "id": "gh:basecamp/fizzy",
   "kind": "repo",
   "url": "https://github.com/basecamp/fizzy",
@@ -30,22 +33,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/basecamp/fizzy",
-    "sha": "3cc736b0cd58e71aa8ff0601653bd9950b1eb216",
-    "file_url": "https://cdn.jsdelivr.net/gh/basecamp/fizzy@3cc736b0cd58e71aa8ff0601653bd9950b1eb216/{path}"
+    "sha": "957830cd78a5a495c09754bd006a3e78a230c78f",
+    "file_url": "https://cdn.jsdelivr.net/gh/basecamp/fizzy@957830cd78a5a495c09754bd006a3e78a230c78f/{path}"
   },
   "facts": {
     "lang": "Ruby",
     "license": "NOASSERTION",
-    "stars": 8291,
+    "stars": 8294,
     "size_mb": 66,
     "created_at": "2024-06-21T15:43:29Z",
     "last_commit_at": "2026-11-11T10:00:44Z",
     "releases": 1000,
-    "tags": 1351,
+    "tags": 1352,
     "archived": false,
     "release": {
-      "tag": "fizzy@259c624",
-      "at": "2026-11-11T07:27:52.000Z"
+      "tag": "fizzy@957830c",
+      "at": "2026-11-11T10:07:51.000Z"
     }
   },
   "reuse": "study",
@@ -62,7 +65,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "3cc736b0cd58e71aa8ff0601653bd9950b1eb216",
+    "sha": "957830cd78a5a495c09754bd006a3e78a230c78f",
     "v": 3
   }
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:25162c4fc05c2d2d019b0ffb5b6b2a9f315ec007"
-  },
   "id": "gh:stanfordnlp/dspy",
   "kind": "repo",
   "url": "https://github.com/stanfordnlp/dspy",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/stanfordnlp/dspy",
-    "sha": "25162c4fc05c2d2d019b0ffb5b6b2a9f315ec007",
-    "file_url": "https://cdn.jsdelivr.net/gh/stanfordnlp/dspy@25162c4fc05c2d2d019b0ffb5b6b2a9f315ec007/{path}"
+    "sha": "398396012371a95471c8e7be24a70e6660e87aa4",
+    "file_url": "https://cdn.jsdelivr.net/gh/stanfordnlp/dspy@398396012371a95471c8e7be24a70e6660e87aa4/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 39008,
-    "size_mb": 184,
+    "stars": 39016,
+    "size_mb": 183,
     "created_at": "2023-01-09T21:01:51Z",
-    "last_commit_at": "2026-11-10T17:48:41Z",
+    "last_commit_at": "2026-11-11T14:11:54Z",
     "releases": 115,
     "tags": 119,
     "archived": false,
@@ -59,9 +56,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "25162c4fc05c2d2d019b0ffb5b6b2a9f315ec007",
-    "v": 3
-  }
+  "tier": "curated"
 }

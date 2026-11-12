@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:0106d7ff734d68ffac8dda4daa5684dfc76dee8f"
-  },
   "id": "gh:projectdiscovery/httpx",
   "kind": "repo",
   "url": "https://github.com/projectdiscovery/httpx",
@@ -35,13 +32,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/projectdiscovery/httpx",
-    "sha": "0106d7ff734d68ffac8dda4daa5684dfc76dee8f",
-    "file_url": "https://cdn.jsdelivr.net/gh/projectdiscovery/httpx@0106d7ff734d68ffac8dda4daa5684dfc76dee8f/{path}"
+    "sha": "9b6d8077ef7afa119dd6d28eeaf78a6556557acc",
+    "file_url": "https://cdn.jsdelivr.net/gh/projectdiscovery/httpx@9b6d8077ef7afa119dd6d28eeaf78a6556557acc/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 10599,
+    "stars": 10601,
     "size_mb": 6,
     "created_at": "2020-05-28T22:51:24Z",
     "last_commit_at": "2026-11-09T10:30:02Z",
@@ -61,13 +58,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 22,
+    "star_delta_7d": 16,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "0106d7ff734d68ffac8dda4daa5684dfc76dee8f",
-    "v": 3
-  }
+  "tier": "curated"
 }

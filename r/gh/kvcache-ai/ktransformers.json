@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c9873312643b615a717832946fba0346e69ab035"
-  },
   "id": "gh:kvcache-ai/ktransformers",
   "kind": "repo",
   "url": "https://github.com/kvcache-ai/ktransformers",
@@ -27,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/kvcache-ai/ktransformers",
-    "sha": "c9873312643b615a717832946fba0346e69ab035",
-    "file_url": "https://cdn.jsdelivr.net/gh/kvcache-ai/ktransformers@c9873312643b615a717832946fba0346e69ab035/{path}"
+    "sha": "787258cc3cd76f2297bc223b97b4e4af4400622b",
+    "file_url": "https://cdn.jsdelivr.net/gh/kvcache-ai/ktransformers@787258cc3cd76f2297bc223b97b4e4af4400622b/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -53,13 +50,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 4,
+    "star_delta_7d": 2,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "c9873312643b615a717832946fba0346e69ab035",
-    "v": 3
-  }
+  "tier": "curated"
 }

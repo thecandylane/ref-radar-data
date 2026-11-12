@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:75a290e44ba14bd723c8ef8546b6559c8ef3ae88"
-  },
   "id": "gh:immerjs/immer",
   "kind": "repo",
   "url": "https://github.com/immerjs/immer",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/immerjs/immer",
-    "sha": "75a290e44ba14bd723c8ef8546b6559c8ef3ae88",
-    "file_url": "https://cdn.jsdelivr.net/gh/immerjs/immer@75a290e44ba14bd723c8ef8546b6559c8ef3ae88/{path}"
+    "sha": "784c86bb234e805566481c9425fcb2a3897e8bcc",
+    "file_url": "https://cdn.jsdelivr.net/gh/immerjs/immer@784c86bb234e805566481c9425fcb2a3897e8bcc/{path}"
   },
   "facts": {
     "lang": "JavaScript",
@@ -59,9 +56,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "75a290e44ba14bd723c8ef8546b6559c8ef3ae88",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ab54f1f0977489cd1876dbaa060d472df51b5fd2"
-  },
   "id": "gh:docker/cli",
   "kind": "repo",
   "url": "https://github.com/docker/cli",
@@ -37,8 +34,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/docker/cli",
-    "sha": "ab54f1f0977489cd1876dbaa060d472df51b5fd2",
-    "file_url": "https://cdn.jsdelivr.net/gh/docker/cli@ab54f1f0977489cd1876dbaa060d472df51b5fd2/{path}"
+    "sha": "06e6e1db50d902b7ada0acc93a8afe14e6b3c364",
+    "file_url": "https://cdn.jsdelivr.net/gh/docker/cli@06e6e1db50d902b7ada0acc93a8afe14e6b3c364/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -60,13 +57,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 9,
+    "star_delta_7d": 8,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "ab54f1f0977489cd1876dbaa060d472df51b5fd2",
+    "sha": "06e6e1db50d902b7ada0acc93a8afe14e6b3c364",
     "v": 3
   }
 }

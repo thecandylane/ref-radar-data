@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:f1647e8d0c1d280991f4d1b7d974c2704537fe66"
-  },
   "id": "gh:facebookresearch/sam3",
   "kind": "repo",
   "url": "https://github.com/facebookresearch/sam3",
@@ -27,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/facebookresearch/sam3",
-    "sha": "f1647e8d0c1d280991f4d1b7d974c2704537fe66",
-    "file_url": "https://cdn.jsdelivr.net/gh/facebookresearch/sam3@f1647e8d0c1d280991f4d1b7d974c2704537fe66/{path}"
+    "sha": "f92a5efc4001ebfe9d050d43e61f6fb10e02d73c",
+    "file_url": "https://cdn.jsdelivr.net/gh/facebookresearch/sam3@f92a5efc4001ebfe9d050d43e61f6fb10e02d73c/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 12265,
+    "stars": 12285,
     "size_mb": 61,
     "created_at": "2025-07-17T16:15:40Z",
     "last_commit_at": "2026-11-10T23:31:27Z",
@@ -50,14 +47,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 63,
+    "star_delta_7d": 73,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "f1647e8d0c1d280991f4d1b7d974c2704537fe66",
-    "v": 3
-  },
   "hot": true
 }

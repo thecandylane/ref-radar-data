@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:939be8144337e8a8caebc3113e54cc445f8170ae"
+    "swh": "swh:1:rev:d9c55cdd401f57bdc1de965e620852ddb87fd175"
   },
   "id": "gh:realm/swiftlint",
   "kind": "repo",
@@ -29,8 +29,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/realm/SwiftLint",
-    "sha": "939be8144337e8a8caebc3113e54cc445f8170ae",
-    "file_url": "https://cdn.jsdelivr.net/gh/realm/SwiftLint@939be8144337e8a8caebc3113e54cc445f8170ae/{path}"
+    "sha": "d9c55cdd401f57bdc1de965e620852ddb87fd175",
+    "file_url": "https://cdn.jsdelivr.net/gh/realm/SwiftLint@d9c55cdd401f57bdc1de965e620852ddb87fd175/{path}"
   },
   "facts": {
     "lang": "Swift",
@@ -55,13 +55,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 9,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "939be8144337e8a8caebc3113e54cc445f8170ae",
-    "v": 3
-  }
+  "tier": "curated"
 }

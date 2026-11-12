@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:a8f406182d811e8e373ff71b9dad971d361b904d"
+    "swh": "swh:1:rev:c7bcd11bbc81c1281480465b625540e8d443b402"
   },
   "id": "gh:firebase/firebaseui-flutter",
   "kind": "repo",
@@ -31,8 +31,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/firebase/FirebaseUI-Flutter",
-    "sha": "a8f406182d811e8e373ff71b9dad971d361b904d",
-    "file_url": "https://cdn.jsdelivr.net/gh/firebase/FirebaseUI-Flutter@a8f406182d811e8e373ff71b9dad971d361b904d/{path}"
+    "sha": "c7bcd11bbc81c1281480465b625540e8d443b402",
+    "file_url": "https://cdn.jsdelivr.net/gh/firebase/FirebaseUI-Flutter@c7bcd11bbc81c1281480465b625540e8d443b402/{path}"
   },
   "facts": {
     "lang": "Dart",
@@ -40,14 +40,14 @@
     "stars": 152,
     "size_mb": 11,
     "created_at": "2023-07-11T19:06:59Z",
-    "last_commit_at": "2024-02-20T16:02:43Z",
+    "last_commit_at": "2026-10-21T15:21:11Z",
     "releases": 0,
     "tags": 561,
     "archived": false,
     "release": null
   },
   "reuse": "copy",
-  "maturity": "quiet",
+  "maturity": "stable",
   "status": null,
   "stats": {
     "picks": {},
@@ -58,9 +58,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "a8f406182d811e8e373ff71b9dad971d361b904d",
-    "v": 3
-  }
+  "tier": "curated"
 }

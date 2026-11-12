@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e27ce5af83e2dac7e00ff4c6be1447c6c4241fde"
+  },
+  "id": "gh:sebastian-mora/awsssome_phish",
+  "kind": "repo",
+  "url": "https://github.com/sebastian-mora/awsssome_phish",
+  "title": "awsssome_phish",
+  "why": "Serverless API for phishing AWS SSO logins in red-team exercises, deployed from a serverless.yml with Python functions.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "infra/serverless"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "infra/serverless"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sebastian-mora/awsssome_phish",
+    "sha": "e27ce5af83e2dac7e00ff4c6be1447c6c4241fde",
+    "file_url": "https://cdn.jsdelivr.net/gh/sebastian-mora/awsssome_phish@e27ce5af83e2dac7e00ff4c6be1447c6c4241fde/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 32,
+    "size_mb": 0,
+    "created_at": "2021-06-23T17:52:30Z",
+    "last_commit_at": "2021-06-30T20:11:01Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e27ce5af83e2dac7e00ff4c6be1447c6c4241fde",
+    "v": 3
+  }
+}

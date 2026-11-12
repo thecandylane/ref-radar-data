@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:924b8c89c04e324649855b05986f686b58ca4cb9"
-  },
   "id": "gh:openzfs/zfs",
   "kind": "repo",
   "url": "https://github.com/openzfs/zfs",
@@ -33,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/openzfs/zfs",
-    "sha": "924b8c89c04e324649855b05986f686b58ca4cb9",
-    "file_url": "https://cdn.jsdelivr.net/gh/openzfs/zfs@924b8c89c04e324649855b05986f686b58ca4cb9/{path}"
+    "sha": "91bb4127d167893d770467b36f56bf159f9717dd",
+    "file_url": "https://cdn.jsdelivr.net/gh/openzfs/zfs@91bb4127d167893d770467b36f56bf159f9717dd/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 12557,
+    "stars": 12559,
     "size_mb": 160,
     "created_at": "2009-12-14T20:20:34Z",
-    "last_commit_at": "2026-11-11T01:39:20Z",
+    "last_commit_at": "2026-11-12T07:06:21Z",
     "releases": 134,
     "tags": 165,
     "archived": false,
@@ -63,9 +60,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "924b8c89c04e324649855b05986f686b58ca4cb9",
-    "v": 3
-  }
+  "tier": "curated"
 }

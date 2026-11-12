@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:3d34469165f0d604df3b48f1d5c776e9080f3da0"
-  },
   "id": "gh:gepa-ai/gepa",
   "kind": "repo",
   "url": "https://github.com/gepa-ai/gepa",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/gepa-ai/gepa",
-    "sha": "3d34469165f0d604df3b48f1d5c776e9080f3da0",
-    "file_url": "https://cdn.jsdelivr.net/gh/gepa-ai/gepa@3d34469165f0d604df3b48f1d5c776e9080f3da0/{path}"
+    "sha": "ce5b0d6e3d6af6c6dbec6de2c54536bbb961d309",
+    "file_url": "https://cdn.jsdelivr.net/gh/gepa-ai/gepa@ce5b0d6e3d6af6c6dbec6de2c54536bbb961d309/{path}"
   },
   "facts": {
     "lang": "Jupyter Notebook",
     "license": "MIT",
-    "stars": 7381,
+    "stars": 7398,
     "size_mb": 117,
     "created_at": "2025-08-05T09:26:27Z",
     "last_commit_at": "2026-11-09T09:07:36Z",
@@ -61,9 +58,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "3d34469165f0d604df3b48f1d5c776e9080f3da0",
-    "v": 3
-  }
+  "tier": "curated"
 }

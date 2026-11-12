@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:3e2f08f8e75624ec942f864cd56b816885b80b7c"
-  },
   "id": "gh:astral-sh/uv",
   "kind": "repo",
   "url": "https://github.com/astral-sh/uv",
@@ -29,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/astral-sh/uv",
-    "sha": "3e2f08f8e75624ec942f864cd56b816885b80b7c",
-    "file_url": "https://cdn.jsdelivr.net/gh/astral-sh/uv@3e2f08f8e75624ec942f864cd56b816885b80b7c/{path}"
+    "sha": "f45ea9bd5335a60832c10cfb359b8e58bc358810",
+    "file_url": "https://cdn.jsdelivr.net/gh/astral-sh/uv@f45ea9bd5335a60832c10cfb359b8e58bc358810/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 91935,
+    "stars": 91934,
     "size_mb": 225,
     "created_at": "2023-10-02T20:24:11Z",
     "last_commit_at": "2026-11-11T02:51:11Z",
@@ -61,7 +58,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "3e2f08f8e75624ec942f864cd56b816885b80b7c",
+    "sha": "f45ea9bd5335a60832c10cfb359b8e58bc358810",
     "v": 3
   }
 }

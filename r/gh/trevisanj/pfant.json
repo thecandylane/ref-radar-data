@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:49f397fa38a3e2917e4167a387bb716bd089638d"
+  },
+  "id": "gh:trevisanj/pfant",
+  "kind": "repo",
+  "url": "https://github.com/trevisanj/PFANT",
+  "title": "PFANT",
+  "why": "Fortran code that synthesizes stellar spectra, with data and docs folders for setting up a run.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/trevisanj/PFANT",
+    "sha": "49f397fa38a3e2917e4167a387bb716bd089638d",
+    "file_url": "https://cdn.jsdelivr.net/gh/trevisanj/PFANT@49f397fa38a3e2917e4167a387bb716bd089638d/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "GPL-3.0",
+    "stars": 4,
+    "size_mb": 125,
+    "created_at": "2015-03-14T17:54:44Z",
+    "last_commit_at": "2026-06-23T15:14:13Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "49f397fa38a3e2917e4167a387bb716bd089638d",
+    "v": 3
+  }
+}

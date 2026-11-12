@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:e49ac31411f63ab4ed0d802b7e15d95f6b827e47"
-  },
   "id": "gh:anomalyco/sst",
   "kind": "repo",
   "url": "https://github.com/anomalyco/sst",
@@ -43,13 +40,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/anomalyco/sst",
-    "sha": "e49ac31411f63ab4ed0d802b7e15d95f6b827e47",
-    "file_url": "https://cdn.jsdelivr.net/gh/anomalyco/sst@e49ac31411f63ab4ed0d802b7e15d95f6b827e47/{path}"
+    "sha": "6bb81a17bc1525978f6328a674abb3751836b8df",
+    "file_url": "https://cdn.jsdelivr.net/gh/anomalyco/sst@6bb81a17bc1525978f6328a674abb3751836b8df/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 26432,
+    "stars": 26436,
     "size_mb": 166,
     "created_at": "2020-08-04T20:28:14Z",
     "last_commit_at": "2026-11-10T16:03:40Z",
@@ -69,13 +66,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 21,
+    "star_delta_7d": 22,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "e49ac31411f63ab4ed0d802b7e15d95f6b827e47",
+    "sha": "6bb81a17bc1525978f6328a674abb3751836b8df",
     "v": 3
   }
 }

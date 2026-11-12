@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:91d822a4eea88f475fd4d1b91ee1f6cf7b955e9d"
-  },
   "id": "gh:opensearch-project/opensearch",
   "kind": "repo",
   "url": "https://github.com/opensearch-project/OpenSearch",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/opensearch-project/OpenSearch",
-    "sha": "91d822a4eea88f475fd4d1b91ee1f6cf7b955e9d",
-    "file_url": "https://raw.githubusercontent.com/opensearch-project/OpenSearch/91d822a4eea88f475fd4d1b91ee1f6cf7b955e9d/{path}"
+    "sha": "b632a0232d2b752722872142bc17dc9d47752273",
+    "file_url": "https://raw.githubusercontent.com/opensearch-project/OpenSearch/b632a0232d2b752722872142bc17dc9d47752273/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 13992,
+    "stars": 13997,
     "size_mb": 614,
     "created_at": "2021-01-29T22:10:00Z",
-    "last_commit_at": "2026-11-11T09:23:34Z",
+    "last_commit_at": "2026-11-12T03:21:58Z",
     "releases": 72,
     "tags": 79,
     "archived": false,
@@ -53,13 +50,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 40,
+    "star_delta_7d": 37,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "91d822a4eea88f475fd4d1b91ee1f6cf7b955e9d",
-    "v": 3
-  }
+  "tier": "curated"
 }

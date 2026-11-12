@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:3d857e6158c0922510ca26c642ed15b2998fae8a"
-  },
   "id": "gh:php/php-src",
   "kind": "repo",
   "url": "https://github.com/php/php-src",
@@ -25,18 +22,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/php/php-src",
-    "sha": "3d857e6158c0922510ca26c642ed15b2998fae8a",
-    "file_url": "https://cdn.jsdelivr.net/gh/php/php-src@3d857e6158c0922510ca26c642ed15b2998fae8a/{path}"
+    "sha": "bc2d2fcc7cb2b6ff921129ca2e962a783dca0448",
+    "file_url": "https://cdn.jsdelivr.net/gh/php/php-src@bc2d2fcc7cb2b6ff921129ca2e962a783dca0448/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "BSD-3-Clause",
-    "stars": 41773,
-    "size_mb": 668,
+    "stars": 41774,
+    "size_mb": 669,
     "created_at": "2011-06-16T01:52:25Z",
-    "last_commit_at": "2026-11-11T10:14:27Z",
+    "last_commit_at": "2026-11-12T08:18:38Z",
     "releases": 70,
-    "tags": 1539,
+    "tags": 1540,
     "archived": false,
     "release": {
       "tag": "php-8.5.12",
@@ -51,13 +48,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 13,
+    "star_delta_7d": 15,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "3d857e6158c0922510ca26c642ed15b2998fae8a",
-    "v": 3
-  }
+  "tier": "curated"
 }

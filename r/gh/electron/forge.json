@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:0369cc297f0294aa44cbfaec7175336ffd98e91f"
-  },
   "id": "gh:electron/forge",
   "kind": "repo",
   "url": "https://github.com/electron/forge",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/electron/forge",
-    "sha": "0369cc297f0294aa44cbfaec7175336ffd98e91f",
-    "file_url": "https://cdn.jsdelivr.net/gh/electron/forge@0369cc297f0294aa44cbfaec7175336ffd98e91f/{path}"
+    "sha": "5b902cd588780e7bc43bb72b975ab59943455bf2",
+    "file_url": "https://cdn.jsdelivr.net/gh/electron/forge@5b902cd588780e7bc43bb72b975ab59943455bf2/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -63,7 +60,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "0369cc297f0294aa44cbfaec7175336ffd98e91f",
+    "sha": "5b902cd588780e7bc43bb72b975ab59943455bf2",
     "v": 3
   }
 }

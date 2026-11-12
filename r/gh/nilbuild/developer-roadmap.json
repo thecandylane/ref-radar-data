@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d922417cd1ef690e66c008a3c3612f683e8e433a"
-  },
   "id": "gh:nilbuild/developer-roadmap",
   "kind": "repo",
   "url": "https://github.com/nilbuild/developer-roadmap",
@@ -25,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/nilbuild/developer-roadmap",
-    "sha": "d922417cd1ef690e66c008a3c3612f683e8e433a",
-    "file_url": "https://cdn.jsdelivr.net/gh/nilbuild/developer-roadmap@d922417cd1ef690e66c008a3c3612f683e8e433a/{path}"
+    "sha": "6b4fbd5f9a17d383e25c32e48d8149e307aa0711",
+    "file_url": "https://cdn.jsdelivr.net/gh/nilbuild/developer-roadmap@6b4fbd5f9a17d383e25c32e48d8149e307aa0711/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 371790,
+    "stars": 371868,
     "size_mb": 356,
     "created_at": "2017-03-15T13:45:52Z",
-    "last_commit_at": "2026-11-11T08:46:36Z",
+    "last_commit_at": "2026-11-12T08:37:16Z",
     "releases": 1,
     "tags": 4,
     "archived": false,
@@ -55,9 +52,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "d922417cd1ef690e66c008a3c3612f683e8e433a",
-    "v": 3
-  }
+  "tier": "curated"
 }

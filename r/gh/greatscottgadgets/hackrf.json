@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:468c5d93b66032c892c95bbf9ff15ff1b803e84f"
+    "swh": "swh:1:rev:3a63b29953a3b763f428821e02110def9fb1cade"
   },
   "id": "gh:greatscottgadgets/hackrf",
   "kind": "repo",
@@ -27,8 +27,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/greatscottgadgets/hackrf",
-    "sha": "468c5d93b66032c892c95bbf9ff15ff1b803e84f",
-    "file_url": "https://cdn.jsdelivr.net/gh/greatscottgadgets/hackrf@468c5d93b66032c892c95bbf9ff15ff1b803e84f/{path}"
+    "sha": "3a63b29953a3b763f428821e02110def9fb1cade",
+    "file_url": "https://cdn.jsdelivr.net/gh/greatscottgadgets/hackrf@3a63b29953a3b763f428821e02110def9fb1cade/{path}"
   },
   "facts": {
     "lang": "C",
@@ -57,9 +57,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "468c5d93b66032c892c95bbf9ff15ff1b803e84f",
-    "v": 3
-  }
+  "tier": "curated"
 }

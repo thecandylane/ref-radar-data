@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2919864b0aba2483aa22eb53c41153f6e08547b3"
+  },
+  "id": "gh:octoberfest7/teamsphisher",
+  "kind": "repo",
+  "url": "https://github.com/Octoberfest7/TeamsPhisher",
+  "title": "TeamsPhisher",
+  "why": "Sends phishing links through Microsoft Teams, filtering targets to accounts that exist and accept external messages, with a preview mode first.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.MD",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Octoberfest7/TeamsPhisher",
+    "sha": "2919864b0aba2483aa22eb53c41153f6e08547b3",
+    "file_url": "https://cdn.jsdelivr.net/gh/Octoberfest7/TeamsPhisher@2919864b0aba2483aa22eb53c41153f6e08547b3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 1128,
+    "size_mb": 1,
+    "created_at": "2023-07-03T02:19:47Z",
+    "last_commit_at": "2024-02-08T00:11:54Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2919864b0aba2483aa22eb53c41153f6e08547b3",
+    "v": 3
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-11T22:01:24.865Z"
+  }
+}

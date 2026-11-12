@@ -62,16 +62,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/gastownhall/beads",
-    "sha": "2edea9ced8c6f6124b6c157896ae53a0e09ff7be",
-    "file_url": "https://cdn.jsdelivr.net/gh/gastownhall/beads@2edea9ced8c6f6124b6c157896ae53a0e09ff7be/{path}"
+    "sha": "b31f9eebe9012b8f34b07b62deb08a2b48ea7407",
+    "file_url": "https://cdn.jsdelivr.net/gh/gastownhall/beads@b31f9eebe9012b8f34b07b62deb08a2b48ea7407/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 28668,
+    "stars": 28683,
     "size_mb": 204,
     "created_at": "2025-10-12T03:09:46Z",
-    "last_commit_at": "2026-11-10T06:47:16Z",
+    "last_commit_at": "2026-11-12T07:59:36Z",
     "releases": 111,
     "tags": 141,
     "archived": false,
@@ -92,9 +92,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "2edea9ced8c6f6124b6c157896ae53a0e09ff7be",
-    "v": 3
-  }
+  "tier": "curated"
 }

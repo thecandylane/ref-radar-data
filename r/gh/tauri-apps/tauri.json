@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ac1a94d5b4a35c28175e139e3f399a20853eb1bd"
-  },
   "id": "gh:tauri-apps/tauri",
   "kind": "repo",
   "url": "https://github.com/tauri-apps/tauri",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/tauri-apps/tauri",
-    "sha": "ac1a94d5b4a35c28175e139e3f399a20853eb1bd",
-    "file_url": "https://cdn.jsdelivr.net/gh/tauri-apps/tauri@ac1a94d5b4a35c28175e139e3f399a20853eb1bd/{path}"
+    "sha": "5edd31c8a8914674c217b21a660a914823da2dae",
+    "file_url": "https://cdn.jsdelivr.net/gh/tauri-apps/tauri@5edd31c8a8914674c217b21a660a914823da2dae/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 112746,
+    "stars": 112823,
     "size_mb": 111,
     "created_at": "2019-07-13T09:09:37Z",
-    "last_commit_at": "2026-11-10T14:34:10Z",
+    "last_commit_at": "2026-11-12T09:19:54Z",
     "releases": 0,
     "tags": 1961,
     "archived": false,
@@ -61,14 +58,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 263,
+    "star_delta_7d": 305,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "ac1a94d5b4a35c28175e139e3f399a20853eb1bd",
-    "v": 3
-  },
   "hot": true
 }

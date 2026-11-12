@@ -1,0 +1,64 @@
+{
+  "id": "gh:hotwired/turbo",
+  "kind": "repo",
+  "url": "https://github.com/hotwired/turbo",
+  "title": "turbo",
+  "why": "Sends HTML from the server for quick page loads, with frames, streams and native iOS and Android shells.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hotwired/turbo",
+    "sha": "f66db310d7c18be67cbfb1bcb2f06bb87a9ed26c",
+    "file_url": "https://cdn.jsdelivr.net/gh/hotwired/turbo@f66db310d7c18be67cbfb1bcb2f06bb87a9ed26c/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 7401,
+    "size_mb": 7,
+    "created_at": "2020-12-07T15:58:18Z",
+    "last_commit_at": "2026-11-12T09:07:55Z",
+    "releases": 52,
+    "tags": 194,
+    "archived": false,
+    "release": {
+      "tag": "v8.0.23",
+      "at": "2026-01-29T15:43:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f66db310d7c18be67cbfb1bcb2f06bb87a9ed26c",
+    "v": 3
+  }
+}

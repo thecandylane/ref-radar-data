@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:78facdfcc6b69b0801c349066b512bc4e7059f8c"
+    "swh": "swh:1:rev:ffd93096f122d1420c6f72dfc0d69fd9d3ae8d09"
   },
   "id": "gh:psviderski/uncloud",
   "kind": "repo",
@@ -39,13 +39,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/psviderski/uncloud",
-    "sha": "78facdfcc6b69b0801c349066b512bc4e7059f8c",
-    "file_url": "https://cdn.jsdelivr.net/gh/psviderski/uncloud@78facdfcc6b69b0801c349066b512bc4e7059f8c/{path}"
+    "sha": "ffd93096f122d1420c6f72dfc0d69fd9d3ae8d09",
+    "file_url": "https://cdn.jsdelivr.net/gh/psviderski/uncloud@ffd93096f122d1420c6f72dfc0d69fd9d3ae8d09/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 5607,
+    "stars": 5612,
     "size_mb": 9,
     "created_at": "2024-07-20T11:13:36Z",
     "last_commit_at": "2026-11-06T11:06:51Z",
@@ -69,9 +69,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "78facdfcc6b69b0801c349066b512bc4e7059f8c",
-    "v": 3
-  }
+  "tier": "curated"
 }

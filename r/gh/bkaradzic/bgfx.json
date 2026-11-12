@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:fddd7005693d4ce59abc48bc53049eab59dc2dd5"
-  },
   "id": "gh:bkaradzic/bgfx",
   "kind": "repo",
   "url": "https://github.com/bkaradzic/bgfx",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/bkaradzic/bgfx",
-    "sha": "fddd7005693d4ce59abc48bc53049eab59dc2dd5",
-    "file_url": "https://raw.githubusercontent.com/bkaradzic/bgfx/fddd7005693d4ce59abc48bc53049eab59dc2dd5/{path}"
+    "sha": "eebf5686a8c5f1c77e1af2dad17b5746ba17da8f",
+    "file_url": "https://raw.githubusercontent.com/bkaradzic/bgfx/eebf5686a8c5f1c77e1af2dad17b5746ba17da8f/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "BSD-2-Clause",
-    "stars": 17633,
-    "size_mb": 364,
+    "stars": 17636,
+    "size_mb": 365,
     "created_at": "2012-04-04T03:39:04Z",
-    "last_commit_at": "2026-11-10T19:50:53Z",
+    "last_commit_at": "2026-11-11T22:45:19Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -60,7 +57,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "fddd7005693d4ce59abc48bc53049eab59dc2dd5",
+    "sha": "eebf5686a8c5f1c77e1af2dad17b5746ba17da8f",
     "v": 3
   }
 }

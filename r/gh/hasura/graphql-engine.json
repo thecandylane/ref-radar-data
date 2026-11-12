@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:904a79e94d640fd03acc4b977791eeacf0f9d2aa"
-  },
   "id": "gh:hasura/graphql-engine",
   "kind": "repo",
   "url": "https://github.com/hasura/graphql-engine",
@@ -27,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/hasura/graphql-engine",
-    "sha": "904a79e94d640fd03acc4b977791eeacf0f9d2aa",
-    "file_url": "https://raw.githubusercontent.com/hasura/graphql-engine/904a79e94d640fd03acc4b977791eeacf0f9d2aa/{path}"
+    "sha": "96f68d0a35a2b3ee153ce67585d37efb3cfa6598",
+    "file_url": "https://raw.githubusercontent.com/hasura/graphql-engine/96f68d0a35a2b3ee153ce67585d37efb3cfa6598/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 32127,
+    "stars": 32126,
     "size_mb": 5156,
     "created_at": "2018-06-18T07:57:36Z",
     "last_commit_at": "2026-11-11T01:28:09Z",
@@ -53,13 +50,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 2,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "904a79e94d640fd03acc4b977791eeacf0f9d2aa",
-    "v": 3
-  }
+  "tier": "curated"
 }

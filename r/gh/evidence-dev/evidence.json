@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1e6a2da0ab2b6515faf1a6ee0d197aad42d41cbe"
-  },
   "id": "gh:evidence-dev/evidence",
   "kind": "repo",
   "url": "https://github.com/evidence-dev/evidence",
@@ -25,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/evidence-dev/evidence",
-    "sha": "1e6a2da0ab2b6515faf1a6ee0d197aad42d41cbe",
-    "file_url": "https://cdn.jsdelivr.net/gh/evidence-dev/evidence@1e6a2da0ab2b6515faf1a6ee0d197aad42d41cbe/{path}"
+    "sha": "8b14e158bdd5c379003674ee9c65dd81efb27657",
+    "file_url": "https://cdn.jsdelivr.net/gh/evidence-dev/evidence@8b14e158bdd5c379003674ee9c65dd81efb27657/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 7104,
-    "size_mb": 312,
+    "stars": 7113,
+    "size_mb": 313,
     "created_at": "2021-05-27T03:50:19Z",
-    "last_commit_at": "2026-11-11T01:54:01Z",
+    "last_commit_at": "2026-11-12T03:08:55Z",
     "releases": 949,
     "tags": 1115,
     "archived": false,
@@ -51,13 +48,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 19,
+    "star_delta_7d": 25,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "1e6a2da0ab2b6515faf1a6ee0d197aad42d41cbe",
-    "v": 3
-  }
+  "tier": "curated"
 }

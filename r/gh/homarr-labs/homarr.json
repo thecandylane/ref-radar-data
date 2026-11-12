@@ -30,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/homarr-labs/homarr",
-    "sha": "dfcaa9b0f83c3e658c451ae437021ee3b5e05ffa",
-    "file_url": "https://cdn.jsdelivr.net/gh/homarr-labs/homarr@dfcaa9b0f83c3e658c451ae437021ee3b5e05ffa/{path}"
+    "sha": "eca5d578811a3c3439186c72e550b3e30a310f67",
+    "file_url": "https://cdn.jsdelivr.net/gh/homarr-labs/homarr@eca5d578811a3c3439186c72e550b3e30a310f67/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 5336,
-    "size_mb": 326,
+    "stars": 5344,
+    "size_mb": 325,
     "created_at": "2023-12-08T21:34:43Z",
-    "last_commit_at": "2026-11-11T09:08:17Z",
+    "last_commit_at": "2026-11-11T17:06:10Z",
     "releases": 150,
     "tags": 152,
     "archived": false,
@@ -60,9 +60,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "dfcaa9b0f83c3e658c451ae437021ee3b5e05ffa",
-    "v": 3
-  }
+  "tier": "curated"
 }

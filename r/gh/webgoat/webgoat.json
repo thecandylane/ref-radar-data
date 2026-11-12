@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:be2c186b94201bcbdfa46c3a6f5f53dd83262d6a"
-  },
   "id": "gh:webgoat/webgoat",
   "kind": "repo",
   "url": "https://github.com/WebGoat/WebGoat",
@@ -33,13 +30,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/WebGoat/WebGoat",
-    "sha": "be2c186b94201bcbdfa46c3a6f5f53dd83262d6a",
-    "file_url": "https://cdn.jsdelivr.net/gh/WebGoat/WebGoat@be2c186b94201bcbdfa46c3a6f5f53dd83262d6a/{path}"
+    "sha": "4e98f1cbbf896fdd06edcc9930515ebe0ade7c69",
+    "file_url": "https://cdn.jsdelivr.net/gh/WebGoat/WebGoat@4e98f1cbbf896fdd06edcc9930515ebe0ade7c69/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "NOASSERTION",
-    "stars": 9475,
+    "stars": 9479,
     "size_mb": 106,
     "created_at": "2015-03-06T14:02:02Z",
     "last_commit_at": "2026-11-09T07:54:04Z",
@@ -63,9 +60,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "be2c186b94201bcbdfa46c3a6f5f53dd83262d6a",
-    "v": 3
-  }
+  "tier": "curated"
 }

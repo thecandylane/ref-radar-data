@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bc4d7cfa0e6cf733986689cdb8163e421c21bcbb"
+  },
+  "id": "gh:ropensci/treedata.table",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/treedata.table",
+  "title": "treedata.table",
+  "why": "Filter and reshape phylogenetic trees together with their trait data using data.table syntax in R.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/treedata.table",
+    "sha": "bc4d7cfa0e6cf733986689cdb8163e421c21bcbb",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/treedata.table@bc4d7cfa0e6cf733986689cdb8163e421c21bcbb/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 7,
+    "size_mb": 2,
+    "created_at": "2019-11-06T22:25:07Z",
+    "last_commit_at": "2025-10-06T16:34:08Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "bc4d7cfa0e6cf733986689cdb8163e421c21bcbb",
+    "v": 3
+  }
+}

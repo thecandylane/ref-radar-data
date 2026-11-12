@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9b323586902a59a5df074a610d5aaabcd9082fa5"
-  },
   "id": "gh:ionic-team/ionic-framework",
   "kind": "repo",
   "url": "https://github.com/ionic-team/ionic-framework",
@@ -31,22 +28,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ionic-team/ionic-framework",
-    "sha": "9b323586902a59a5df074a610d5aaabcd9082fa5",
-    "file_url": "https://cdn.jsdelivr.net/gh/ionic-team/ionic-framework@9b323586902a59a5df074a610d5aaabcd9082fa5/{path}"
+    "sha": "c6c7e6b82efba289b93404b6baf4c12fcf7b3fc7",
+    "file_url": "https://cdn.jsdelivr.net/gh/ionic-team/ionic-framework@c6c7e6b82efba289b93404b6baf4c12fcf7b3fc7/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 52751,
-    "size_mb": 1924,
+    "stars": 52752,
+    "size_mb": 1926,
     "created_at": "2013-08-20T23:06:02Z",
-    "last_commit_at": "2026-11-10T17:14:52Z",
-    "releases": 960,
-    "tags": 993,
+    "last_commit_at": "2026-11-11T19:32:27Z",
+    "releases": 961,
+    "tags": 994,
     "archived": false,
     "release": {
-      "tag": "v9.0.10",
-      "at": "2026-10-28T17:39:02.000Z"
+      "tag": "v9.0.11",
+      "at": "2026-11-11T18:19:25.000Z"
     }
   },
   "reuse": "copy",
@@ -57,13 +54,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 13,
+    "star_delta_7d": 10,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "9b323586902a59a5df074a610d5aaabcd9082fa5",
-    "v": 3
-  }
+  "tier": "curated"
 }

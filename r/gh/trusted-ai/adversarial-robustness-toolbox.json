@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:3011c66d1c0010de802f77a1b3e20f6bab2faaa6"
-  },
   "id": "gh:trusted-ai/adversarial-robustness-toolbox",
   "kind": "repo",
   "url": "https://github.com/Trusted-AI/adversarial-robustness-toolbox",
@@ -27,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Trusted-AI/adversarial-robustness-toolbox",
-    "sha": "3011c66d1c0010de802f77a1b3e20f6bab2faaa6",
-    "file_url": "https://raw.githubusercontent.com/Trusted-AI/adversarial-robustness-toolbox/3011c66d1c0010de802f77a1b3e20f6bab2faaa6/{path}"
+    "sha": "4de5d220631a2498d233ea4c76af477e020e4720",
+    "file_url": "https://raw.githubusercontent.com/Trusted-AI/adversarial-robustness-toolbox/4de5d220631a2498d233ea4c76af477e020e4720/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 6310,
+    "stars": 6312,
     "size_mb": 735,
     "created_at": "2018-03-15T14:40:43Z",
     "last_commit_at": "2026-11-09T12:05:50Z",
@@ -57,9 +54,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "3011c66d1c0010de802f77a1b3e20f6bab2faaa6",
-    "v": 3
-  }
+  "tier": "curated"
 }

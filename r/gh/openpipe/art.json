@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:057f1ba76be7e07c58217053e433a92ef63a20e8"
-  },
   "id": "gh:openpipe/art",
   "kind": "repo",
   "url": "https://github.com/OpenPipe/ART",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/OpenPipe/ART",
-    "sha": "057f1ba76be7e07c58217053e433a92ef63a20e8",
-    "file_url": "https://cdn.jsdelivr.net/gh/OpenPipe/ART@057f1ba76be7e07c58217053e433a92ef63a20e8/{path}"
+    "sha": "534620a41b82ed89667f4642cc0b8e1d00e2269b",
+    "file_url": "https://cdn.jsdelivr.net/gh/OpenPipe/ART@534620a41b82ed89667f4642cc0b8e1d00e2269b/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 10852,
+    "stars": 10854,
     "size_mb": 106,
     "created_at": "2025-03-10T18:25:47Z",
     "last_commit_at": "2026-11-10T20:49:54Z",
@@ -61,9 +58,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "057f1ba76be7e07c58217053e433a92ef63a20e8",
-    "v": 3
-  }
+  "tier": "curated"
 }

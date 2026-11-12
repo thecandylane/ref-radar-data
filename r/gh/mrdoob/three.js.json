@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:290b51f8f265d0ce471b87eae40ac7966a96e265"
-  },
   "id": "gh:mrdoob/three.js",
   "kind": "repo",
   "url": "https://github.com/mrdoob/three.js",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/mrdoob/three.js",
-    "sha": "290b51f8f265d0ce471b87eae40ac7966a96e265",
-    "file_url": "https://raw.githubusercontent.com/mrdoob/three.js/290b51f8f265d0ce471b87eae40ac7966a96e265/{path}"
+    "sha": "35ad9d55757da51772820507ed1ecabfc3baf589",
+    "file_url": "https://raw.githubusercontent.com/mrdoob/three.js/35ad9d55757da51772820507ed1ecabfc3baf589/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 118130,
-    "size_mb": 1663,
+    "stars": 118219,
+    "size_mb": 1664,
     "created_at": "2010-03-23T18:58:01Z",
-    "last_commit_at": "2026-11-11T10:17:54Z",
+    "last_commit_at": "2026-11-12T07:18:48Z",
     "releases": 179,
     "tags": 179,
     "archived": false,
@@ -55,14 +52,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 595,
+    "star_delta_7d": 612,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "290b51f8f265d0ce471b87eae40ac7966a96e265",
-    "v": 3
-  },
   "hot": true
 }

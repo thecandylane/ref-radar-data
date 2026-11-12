@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:4e5190c2ddb25ef4947272a254db448b9140e3cd"
+  },
   "id": "gh:reactive-resume/reactive-resume",
   "kind": "repo",
   "url": "https://github.com/reactive-resume/reactive-resume",
@@ -36,16 +39,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/reactive-resume/reactive-resume",
-    "sha": "fed8ab5aa02248b6d2198757d4608cf6a700aedf",
-    "file_url": "https://raw.githubusercontent.com/reactive-resume/reactive-resume/fed8ab5aa02248b6d2198757d4608cf6a700aedf/{path}"
+    "sha": "4e5190c2ddb25ef4947272a254db448b9140e3cd",
+    "file_url": "https://raw.githubusercontent.com/reactive-resume/reactive-resume/4e5190c2ddb25ef4947272a254db448b9140e3cd/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 45623,
+    "stars": 45653,
     "size_mb": 2239,
     "created_at": "2020-03-25T14:08:22Z",
-    "last_commit_at": "2026-11-08T20:43:35Z",
+    "last_commit_at": "2026-11-11T20:51:59Z",
     "releases": 156,
     "tags": 160,
     "archived": false,
@@ -66,9 +69,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "fed8ab5aa02248b6d2198757d4608cf6a700aedf",
-    "v": 3
-  }
+  "tier": "curated"
 }

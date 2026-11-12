@@ -1,0 +1,91 @@
+{
+  "label": "agent-trap",
+  "labels": [
+    "agent-trap"
+  ],
+  "trap": {
+    "signs": [
+      {
+        "rule": "T5",
+        "path": "hooks/hooks.json",
+        "note": "an auto-run entry that runs a file that fetches or decodes what it runs: hooks/guard-bash.sh",
+        "mark": "agent-trap"
+      },
+      {
+        "rule": "T5",
+        "path": "hooks/guard-bash.sh",
+        "note": "a file an auto-run entry runs that fetches or decodes what it runs",
+        "mark": "agent-trap"
+      }
+    ],
+    "files": [
+      "hooks/guard-bash.sh",
+      "hooks/hooks.json"
+    ],
+    "marks": [
+      "agent-trap"
+    ]
+  },
+  "id": "gh:rust-off-rails/rustoffrails",
+  "kind": "repo",
+  "url": "https://github.com/rust-off-rails/rustoffrails",
+  "title": "rustoffrails",
+  "why": "Rails-like conventions for Rust web apps with Axum, HTMX and SeaORM, delivered to coding agents as Markdown rules, hooks and skills.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "agents/skills"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/skills/plugin-specs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rust-off-rails/rustoffrails",
+    "sha": "8c41983133e9ba6545bd45436245443dacac0118",
+    "file_url": "https://cdn.jsdelivr.net/gh/rust-off-rails/rustoffrails@8c41983133e9ba6545bd45436245443dacac0118/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 53,
+    "size_mb": 4,
+    "created_at": "2026-10-13T00:41:48Z",
+    "last_commit_at": "2026-10-25T17:51:17Z",
+    "releases": 11,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.4",
+      "at": "2026-10-25T17:51:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8c41983133e9ba6545bd45436245443dacac0118",
+    "v": 3
+  }
+}

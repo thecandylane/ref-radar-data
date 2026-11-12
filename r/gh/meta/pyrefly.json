@@ -28,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/meta/pyrefly",
-    "sha": "472656ea103cdc7f1777f1f3d819813281050ae1",
-    "file_url": "https://cdn.jsdelivr.net/gh/meta/pyrefly@472656ea103cdc7f1777f1f3d819813281050ae1/{path}"
+    "sha": "9aefd027f35bf823c242de42cd636ae869f477f1",
+    "file_url": "https://cdn.jsdelivr.net/gh/meta/pyrefly@9aefd027f35bf823c242de42cd636ae869f477f1/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 7196,
-    "size_mb": 2208,
+    "stars": 7198,
+    "size_mb": 2219,
     "created_at": "2025-02-19T21:09:33Z",
-    "last_commit_at": "2026-11-11T08:44:28Z",
+    "last_commit_at": "2026-11-12T06:14:04Z",
     "releases": 76,
     "tags": 153,
     "archived": false,
@@ -54,13 +54,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 12,
+    "star_delta_7d": 15,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "472656ea103cdc7f1777f1f3d819813281050ae1",
-    "v": 3
-  }
+  "tier": "curated"
 }

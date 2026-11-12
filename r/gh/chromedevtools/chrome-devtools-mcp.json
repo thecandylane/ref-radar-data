@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1ab630aecc558ba1626851982cdec13f7c4659f6"
-  },
   "id": "gh:chromedevtools/chrome-devtools-mcp",
   "kind": "repo",
   "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
@@ -35,22 +32,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "sha": "1ab630aecc558ba1626851982cdec13f7c4659f6",
-    "file_url": "https://cdn.jsdelivr.net/gh/ChromeDevTools/chrome-devtools-mcp@1ab630aecc558ba1626851982cdec13f7c4659f6/{path}"
+    "sha": "83d2ba4dde9663a8cd0bdb8af6c99fea50726003",
+    "file_url": "https://cdn.jsdelivr.net/gh/ChromeDevTools/chrome-devtools-mcp@83d2ba4dde9663a8cd0bdb8af6c99fea50726003/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 55094,
-    "size_mb": 22,
+    "stars": 55135,
+    "size_mb": 13,
     "created_at": "2025-09-11T10:39:55Z",
-    "last_commit_at": "2026-11-11T09:50:01Z",
-    "releases": 64,
-    "tags": 64,
+    "last_commit_at": "2026-11-12T06:58:55Z",
+    "releases": 65,
+    "tags": 65,
     "archived": false,
     "release": {
-      "tag": "chrome-devtools-mcp-v1.12.0",
-      "at": "2026-10-22T13:47:54.000Z"
+      "tag": "chrome-devtools-mcp-v1.13.0",
+      "at": "2026-11-11T12:40:09.000Z"
     }
   },
   "reuse": "copy",
@@ -61,13 +58,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 335,
+    "star_delta_7d": 315,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "1ab630aecc558ba1626851982cdec13f7c4659f6",
+    "sha": "83d2ba4dde9663a8cd0bdb8af6c99fea50726003",
     "v": 3
   },
   "hot": true

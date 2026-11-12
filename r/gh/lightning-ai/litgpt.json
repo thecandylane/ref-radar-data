@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:4738993a5e0190b851162a52173729827d3884e7"
-  },
   "id": "gh:lightning-ai/litgpt",
   "kind": "repo",
   "url": "https://github.com/Lightning-AI/litgpt",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Lightning-AI/litgpt",
-    "sha": "4738993a5e0190b851162a52173729827d3884e7",
-    "file_url": "https://cdn.jsdelivr.net/gh/Lightning-AI/litgpt@4738993a5e0190b851162a52173729827d3884e7/{path}"
+    "sha": "5341568a65e918a85cb284fac038de2157eebf3f",
+    "file_url": "https://cdn.jsdelivr.net/gh/Lightning-AI/litgpt@5341568a65e918a85cb284fac038de2157eebf3f/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -55,13 +52,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 2,
+    "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "4738993a5e0190b851162a52173729827d3884e7",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:f0c10233335c90a21fd705e916900141f043258b"
-  },
   "id": "gh:ocaml/ocaml",
   "kind": "repo",
   "url": "https://github.com/ocaml/ocaml",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ocaml/ocaml",
-    "sha": "f0c10233335c90a21fd705e916900141f043258b",
-    "file_url": "https://cdn.jsdelivr.net/gh/ocaml/ocaml@f0c10233335c90a21fd705e916900141f043258b/{path}"
+    "sha": "ac53f0aae3008152f3b27c52ddd62793694406a9",
+    "file_url": "https://cdn.jsdelivr.net/gh/ocaml/ocaml@ac53f0aae3008152f3b27c52ddd62793694406a9/{path}"
   },
   "facts": {
     "lang": "OCaml",
     "license": "NOASSERTION",
-    "stars": 6630,
+    "stars": 6631,
     "size_mb": 410,
     "created_at": "2012-11-20T22:18:22Z",
-    "last_commit_at": "2026-11-10T15:55:29Z",
+    "last_commit_at": "2026-11-11T20:02:30Z",
     "releases": 46,
     "tags": 254,
     "archived": false,
@@ -57,9 +54,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "f0c10233335c90a21fd705e916900141f043258b",
-    "v": 3
-  }
+  "tier": "curated"
 }

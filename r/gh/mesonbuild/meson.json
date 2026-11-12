@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:fb511f0ab1793d08ac5e5aa95f30ac13b156759f"
-  },
   "id": "gh:mesonbuild/meson",
   "kind": "repo",
   "url": "https://github.com/mesonbuild/meson",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/mesonbuild/meson",
-    "sha": "fb511f0ab1793d08ac5e5aa95f30ac13b156759f",
-    "file_url": "https://cdn.jsdelivr.net/gh/mesonbuild/meson@fb511f0ab1793d08ac5e5aa95f30ac13b156759f/{path}"
+    "sha": "15a717f8b8ac52a613f903da0355e9993f4fbcd7",
+    "file_url": "https://cdn.jsdelivr.net/gh/mesonbuild/meson@15a717f8b8ac52a613f903da0355e9993f4fbcd7/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -55,9 +52,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "fb511f0ab1793d08ac5e5aa95f30ac13b156759f",
-    "v": 3
-  }
+  "tier": "curated"
 }

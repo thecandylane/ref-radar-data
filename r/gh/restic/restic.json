@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:dd09b6bd01af220b1d5d95c0d4d7d472e05e05c4"
+    "swh": "swh:1:rev:c734245fd3ae9bcac8ab3aaafb4482d4b5d0ae92"
   },
   "id": "gh:restic/restic",
   "kind": "repo",
@@ -33,13 +33,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/restic/restic",
-    "sha": "dd09b6bd01af220b1d5d95c0d4d7d472e05e05c4",
-    "file_url": "https://cdn.jsdelivr.net/gh/restic/restic@dd09b6bd01af220b1d5d95c0d4d7d472e05e05c4/{path}"
+    "sha": "c734245fd3ae9bcac8ab3aaafb4482d4b5d0ae92",
+    "file_url": "https://cdn.jsdelivr.net/gh/restic/restic@c734245fd3ae9bcac8ab3aaafb4482d4b5d0ae92/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "BSD-2-Clause",
-    "stars": 37150,
+    "stars": 37176,
     "size_mb": 67,
     "created_at": "2014-04-27T14:07:58Z",
     "last_commit_at": "2026-11-06T20:42:11Z",
@@ -59,14 +59,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 161,
+    "star_delta_7d": 164,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "dd09b6bd01af220b1d5d95c0d4d7d472e05e05c4",
-    "v": 3
-  },
   "hot": true
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1e18df64e5f1b8530ad03571c705efabefcaaff9"
-  },
   "id": "gh:grafana/grafana",
   "kind": "repo",
   "url": "https://github.com/grafana/grafana",
@@ -39,16 +36,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/grafana/grafana",
-    "sha": "1e18df64e5f1b8530ad03571c705efabefcaaff9",
-    "file_url": "https://raw.githubusercontent.com/grafana/grafana/1e18df64e5f1b8530ad03571c705efabefcaaff9/{path}"
+    "sha": "71686a7507066d36c0b3e51498ba9308a49cd783",
+    "file_url": "https://raw.githubusercontent.com/grafana/grafana/71686a7507066d36c0b3e51498ba9308a49cd783/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 77831,
-    "size_mb": 2079,
+    "stars": 77856,
+    "size_mb": 2084,
     "created_at": "2013-12-11T15:59:56Z",
-    "last_commit_at": "2026-11-11T10:05:37Z",
+    "last_commit_at": "2026-11-12T08:53:05Z",
     "releases": 666,
     "tags": 754,
     "archived": false,
@@ -65,14 +62,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 154,
+    "star_delta_7d": 148,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "1e18df64e5f1b8530ad03571c705efabefcaaff9",
-    "v": 3
-  },
   "hot": true
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:6055250f2135ecb3c9ac1830244a1c715caf701b"
-  },
   "id": "gh:scalar/scalar",
   "kind": "repo",
   "url": "https://github.com/scalar/scalar",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/scalar/scalar",
-    "sha": "6055250f2135ecb3c9ac1830244a1c715caf701b",
-    "file_url": "https://cdn.jsdelivr.net/gh/scalar/scalar@6055250f2135ecb3c9ac1830244a1c715caf701b/{path}"
+    "sha": "430a2cffe97f5b2822896b8ba0831d258f102305",
+    "file_url": "https://cdn.jsdelivr.net/gh/scalar/scalar@430a2cffe97f5b2822896b8ba0831d258f102305/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 16395,
-    "size_mb": 475,
+    "stars": 16399,
+    "size_mb": 481,
     "created_at": "2023-08-16T13:42:32Z",
-    "last_commit_at": "2026-11-10T22:11:08Z",
+    "last_commit_at": "2026-11-12T09:05:25Z",
     "releases": 145,
     "tags": 146,
     "archived": false,
@@ -55,13 +52,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 28,
+    "star_delta_7d": 23,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "6055250f2135ecb3c9ac1830244a1c715caf701b",
-    "v": 3
-  }
+  "tier": "curated"
 }

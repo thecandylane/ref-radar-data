@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:2dfc8df1d6e1437cacc811516bc45e430fc7990d"
-  },
   "id": "gh:webpack/webpack",
   "kind": "repo",
   "url": "https://github.com/webpack/webpack",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/webpack/webpack",
-    "sha": "2dfc8df1d6e1437cacc811516bc45e430fc7990d",
-    "file_url": "https://cdn.jsdelivr.net/gh/webpack/webpack@2dfc8df1d6e1437cacc811516bc45e430fc7990d/{path}"
+    "sha": "953049fbd083ca4d4af052f8ffeb65cb9dba45da",
+    "file_url": "https://raw.githubusercontent.com/webpack/webpack/953049fbd083ca4d4af052f8ffeb65cb9dba45da/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 65998,
+    "stars": 66000,
     "size_mb": 159,
     "created_at": "2012-03-10T10:08:14Z",
-    "last_commit_at": "2026-11-11T09:36:16Z",
+    "last_commit_at": "2026-11-12T06:05:27Z",
     "releases": 471,
     "tags": 679,
     "archived": false,
@@ -55,13 +52,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "2dfc8df1d6e1437cacc811516bc45e430fc7990d",
-    "v": 3
-  }
+  "tier": "curated"
 }

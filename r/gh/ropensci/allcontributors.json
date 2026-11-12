@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6adb8a3e98bafaf86cd7d79f17a39e95e5db8fea"
+  },
+  "id": "gh:ropensci/allcontributors",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/allcontributors",
+  "title": "allcontributors",
+  "why": "Builds an all-contributors style credits table for an R package's README, as a native R implementation of the all-contributors spec.",
+  "keys": {
+    "races": [
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/allcontributors",
+    "sha": "6adb8a3e98bafaf86cd7d79f17a39e95e5db8fea",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/allcontributors@6adb8a3e98bafaf86cd7d79f17a39e95e5db8fea/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 31,
+    "size_mb": 1,
+    "created_at": "2020-05-26T08:55:38Z",
+    "last_commit_at": "2026-11-06T11:19:28Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.3",
+      "at": "2026-04-02T10:43:58.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6adb8a3e98bafaf86cd7d79f17a39e95e5db8fea",
+    "v": 3
+  }
+}

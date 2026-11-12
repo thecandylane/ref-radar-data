@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5db80cc64b69377f65f11b64835b050e8d62b277"
-  },
   "id": "gh:xtekky/gpt4free",
   "kind": "repo",
   "url": "https://github.com/xtekky/gpt4free",
@@ -27,22 +24,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/xtekky/gpt4free",
-    "sha": "5db80cc64b69377f65f11b64835b050e8d62b277",
-    "file_url": "https://cdn.jsdelivr.net/gh/xtekky/gpt4free@5db80cc64b69377f65f11b64835b050e8d62b277/{path}"
+    "sha": "9059e300bdd71a02973107805933cd882040de4b",
+    "file_url": "https://cdn.jsdelivr.net/gh/xtekky/gpt4free@9059e300bdd71a02973107805933cd882040de4b/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "GPL-3.0",
-    "stars": 67031,
+    "stars": 67039,
     "size_mb": 242,
     "created_at": "2023-03-29T17:00:43Z",
-    "last_commit_at": "2026-11-03T02:49:12Z",
-    "releases": 582,
-    "tags": 600,
+    "last_commit_at": "2026-11-11T19:08:43Z",
+    "releases": 583,
+    "tags": 601,
     "archived": false,
     "release": {
-      "tag": "v8.9.2",
-      "at": "2026-11-02T10:04:28.000Z"
+      "tag": "v8.9.3",
+      "at": "2026-11-11T19:09:46.000Z"
     }
   },
   "reuse": "copyleft",
@@ -57,9 +54,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "5db80cc64b69377f65f11b64835b050e8d62b277",
-    "v": 3
-  }
+  "tier": "curated"
 }

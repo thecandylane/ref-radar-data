@@ -1,0 +1,57 @@
+{
+  "id": "gh:langtech-bsc/salamandra",
+  "kind": "repo",
+  "url": "https://github.com/langtech-bsc/salamandra",
+  "title": "salamandra",
+  "why": "Holds the pretraining scripts and configs behind the Salamandra family of language models built by the Barcelona Supercomputing Center.",
+  "keys": {
+    "races": [
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/langtech-bsc/salamandra",
+    "sha": "b85b206198c3f54bdd098d638a7d90d41434a17d",
+    "file_url": "https://cdn.jsdelivr.net/gh/langtech-bsc/salamandra@b85b206198c3f54bdd098d638a7d90d41434a17d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 33,
+    "size_mb": 16,
+    "created_at": "2024-12-11T07:22:49Z",
+    "last_commit_at": "2025-01-20T09:52:52Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b85b206198c3f54bdd098d638a7d90d41434a17d",
+    "v": 3
+  }
+}

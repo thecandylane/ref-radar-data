@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:85ad07ed6e3f2252e7f58c785268206d4b187545"
+    "swh": "swh:1:rev:f1bf5721718b4213145e66bc81f9a376e0053483"
   },
   "id": "gh:ansible/awx",
   "kind": "repo",
@@ -25,8 +25,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ansible/awx",
-    "sha": "85ad07ed6e3f2252e7f58c785268206d4b187545",
-    "file_url": "https://cdn.jsdelivr.net/gh/ansible/awx@85ad07ed6e3f2252e7f58c785268206d4b187545/{path}"
+    "sha": "f1bf5721718b4213145e66bc81f9a376e0053483",
+    "file_url": "https://cdn.jsdelivr.net/gh/ansible/awx@f1bf5721718b4213145e66bc81f9a376e0053483/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -51,13 +51,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "85ad07ed6e3f2252e7f58c785268206d4b187545",
+    "sha": "f1bf5721718b4213145e66bc81f9a376e0053483",
     "v": 3
   }
 }

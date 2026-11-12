@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:59d4d4ca53e6dd40bc7698a88bfc9fb09c8a7e2f"
+    "swh": "swh:1:rev:e9de42d3513e6bec8e39dbc02d2a2ca5876fe8ed"
   },
   "id": "gh:linkerd/linkerd2",
   "kind": "repo",
@@ -31,8 +31,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/linkerd/linkerd2",
-    "sha": "59d4d4ca53e6dd40bc7698a88bfc9fb09c8a7e2f",
-    "file_url": "https://cdn.jsdelivr.net/gh/linkerd/linkerd2@59d4d4ca53e6dd40bc7698a88bfc9fb09c8a7e2f/{path}"
+    "sha": "e9de42d3513e6bec8e39dbc02d2a2ca5876fe8ed",
+    "file_url": "https://cdn.jsdelivr.net/gh/linkerd/linkerd2@e9de42d3513e6bec8e39dbc02d2a2ca5876fe8ed/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -57,13 +57,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 9,
+    "star_delta_7d": 8,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "59d4d4ca53e6dd40bc7698a88bfc9fb09c8a7e2f",
-    "v": 3
-  }
+  "tier": "curated"
 }

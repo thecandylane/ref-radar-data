@@ -26,22 +26,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/taskforcesh/bullmq",
-    "sha": "2fcda038321191920b698f8582f898ef582cba52",
-    "file_url": "https://cdn.jsdelivr.net/gh/taskforcesh/bullmq@2fcda038321191920b698f8582f898ef582cba52/{path}"
+    "sha": "cb7a50ba42a7d403bccf57f270462476bba1762e",
+    "file_url": "https://cdn.jsdelivr.net/gh/taskforcesh/bullmq@cb7a50ba42a7d403bccf57f270462476bba1762e/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 9589,
+    "stars": 9590,
     "size_mb": 387,
     "created_at": "2018-12-19T21:46:28Z",
-    "last_commit_at": "2026-11-11T09:29:38Z",
+    "last_commit_at": "2026-11-12T08:41:17Z",
     "releases": 1000,
-    "tags": 1041,
+    "tags": 1042,
     "archived": false,
     "release": {
-      "tag": "v6.7.4",
-      "at": "2026-11-11T06:34:10.000Z"
+      "tag": "v6.7.5",
+      "at": "2026-11-11T21:22:22.000Z"
     }
   },
   "reuse": "copy",
@@ -52,13 +52,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 20,
+    "star_delta_7d": 19,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "2fcda038321191920b698f8582f898ef582cba52",
-    "v": 3
-  }
+  "tier": "curated"
 }

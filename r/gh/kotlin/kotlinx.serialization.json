@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:6f6a2e66c3dbf4a34e86a030368ecb0f7a734d22"
-  },
   "id": "gh:kotlin/kotlinx.serialization",
   "kind": "repo",
   "url": "https://github.com/Kotlin/kotlinx.serialization",
@@ -29,22 +26,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Kotlin/kotlinx.serialization",
-    "sha": "6f6a2e66c3dbf4a34e86a030368ecb0f7a734d22",
-    "file_url": "https://cdn.jsdelivr.net/gh/Kotlin/kotlinx.serialization@6f6a2e66c3dbf4a34e86a030368ecb0f7a734d22/{path}"
+    "sha": "0cd830bb43a2073114cba458e717f500e0ec0851",
+    "file_url": "https://cdn.jsdelivr.net/gh/Kotlin/kotlinx.serialization@0cd830bb43a2073114cba458e717f500e0ec0851/{path}"
   },
   "facts": {
     "lang": "Kotlin",
     "license": "Apache-2.0",
     "stars": 5952,
-    "size_mb": 11,
+    "size_mb": 12,
     "created_at": "2017-07-20T11:25:23Z",
-    "last_commit_at": "2026-10-23T06:19:55Z",
-    "releases": 39,
-    "tags": 65,
+    "last_commit_at": "2026-11-11T17:34:30Z",
+    "releases": 40,
+    "tags": 66,
     "archived": false,
     "release": {
-      "tag": "v1.12.0",
-      "at": "2026-10-19T18:36:22.000Z"
+      "tag": "v1.13.0",
+      "at": "2026-11-11T18:57:41.000Z"
     }
   },
   "reuse": "copy",
@@ -59,9 +56,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "6f6a2e66c3dbf4a34e86a030368ecb0f7a734d22",
-    "v": 3
-  }
+  "tier": "curated"
 }

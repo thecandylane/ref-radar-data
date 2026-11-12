@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:7519edef169ed03146ef668f79bae30cfcb67716"
-  },
   "id": "gh:hashicorp/packer",
   "kind": "repo",
   "url": "https://github.com/hashicorp/packer",
@@ -35,8 +32,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/hashicorp/packer",
-    "sha": "7519edef169ed03146ef668f79bae30cfcb67716",
-    "file_url": "https://cdn.jsdelivr.net/gh/hashicorp/packer@7519edef169ed03146ef668f79bae30cfcb67716/{path}"
+    "sha": "9a6ce6451c938686f06eb2ca7efecea440f9f462",
+    "file_url": "https://cdn.jsdelivr.net/gh/hashicorp/packer@9a6ce6451c938686f06eb2ca7efecea440f9f462/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -44,7 +41,7 @@
     "stars": 15821,
     "size_mb": 118,
     "created_at": "2013-03-23T05:43:03Z",
-    "last_commit_at": "2026-11-11T07:07:09Z",
+    "last_commit_at": "2026-11-12T08:32:09Z",
     "releases": 70,
     "tags": 148,
     "archived": false,
@@ -61,13 +58,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "7519edef169ed03146ef668f79bae30cfcb67716",
-    "v": 3
-  }
+  "tier": "curated"
 }

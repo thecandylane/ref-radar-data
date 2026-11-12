@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4bce0a43cd084cb86a94d64e2704b1ca9d711604"
+  },
+  "id": "gh:ggrajeda/spacexr",
+  "kind": "repo",
+  "url": "https://github.com/ggrajeda/spacexr",
+  "title": "spacexr",
+  "why": "Deconvolves cell type mixtures in spatial transcriptomics data with RCTD, learning profiles from single-cell RNA-seq references.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ggrajeda/spacexr",
+    "sha": "4bce0a43cd084cb86a94d64e2704b1ca9d711604",
+    "file_url": "https://cdn.jsdelivr.net/gh/ggrajeda/spacexr@4bce0a43cd084cb86a94d64e2704b1ca9d711604/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 6,
+    "size_mb": 554,
+    "created_at": "2025-03-22T21:11:49Z",
+    "last_commit_at": "2025-10-10T14:43:44Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4bce0a43cd084cb86a94d64e2704b1ca9d711604",
+    "v": 3
+  }
+}

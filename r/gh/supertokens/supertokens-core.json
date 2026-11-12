@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:8703a12c2159a148d5273cf1815b96da4412a4ce"
+    "swh": "swh:1:rev:661e173f407cd3dc4a78f59aac3d3ad1bb816c9c"
   },
   "id": "gh:supertokens/supertokens-core",
   "kind": "repo",
@@ -31,8 +31,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/supertokens/supertokens-core",
-    "sha": "8703a12c2159a148d5273cf1815b96da4412a4ce",
-    "file_url": "https://raw.githubusercontent.com/supertokens/supertokens-core/8703a12c2159a148d5273cf1815b96da4412a4ce/{path}"
+    "sha": "661e173f407cd3dc4a78f59aac3d3ad1bb816c9c",
+    "file_url": "https://raw.githubusercontent.com/supertokens/supertokens-core/661e173f407cd3dc4a78f59aac3d3ad1bb816c9c/{path}"
   },
   "facts": {
     "lang": "Java",
@@ -57,13 +57,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 7,
+    "star_delta_7d": 4,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "8703a12c2159a148d5273cf1815b96da4412a4ce",
-    "v": 3
-  }
+  "tier": "curated"
 }

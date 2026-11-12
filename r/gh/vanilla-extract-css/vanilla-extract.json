@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:4cc6b9c7221c52c091c6cb24e382b7d982f26c1b"
-  },
   "id": "gh:vanilla-extract-css/vanilla-extract",
   "kind": "repo",
   "url": "https://github.com/vanilla-extract-css/vanilla-extract",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/vanilla-extract-css/vanilla-extract",
-    "sha": "4cc6b9c7221c52c091c6cb24e382b7d982f26c1b",
-    "file_url": "https://cdn.jsdelivr.net/gh/vanilla-extract-css/vanilla-extract@4cc6b9c7221c52c091c6cb24e382b7d982f26c1b/{path}"
+    "sha": "5cd0a8f219ffcad064ed19f810e18d4dd39528ac",
+    "file_url": "https://cdn.jsdelivr.net/gh/vanilla-extract-css/vanilla-extract@5cd0a8f219ffcad064ed19f810e18d4dd39528ac/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -59,9 +56,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "4cc6b9c7221c52c091c6cb24e382b7d982f26c1b",
-    "v": 3
-  }
+  "tier": "curated"
 }

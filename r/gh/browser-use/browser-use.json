@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:b49a68e4060acb226da8f784194fef301c53a6d7"
-  },
   "id": "gh:browser-use/browser-use",
   "kind": "repo",
   "url": "https://github.com/browser-use/browser-use",
@@ -28,18 +25,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/browser-use/browser-use",
-    "sha": "b49a68e4060acb226da8f784194fef301c53a6d7",
-    "file_url": "https://cdn.jsdelivr.net/gh/browser-use/browser-use@b49a68e4060acb226da8f784194fef301c53a6d7/{path}"
+    "sha": "7fdd63c03fd342aab4fe44507c77c3221ffd43c6",
+    "file_url": "https://cdn.jsdelivr.net/gh/browser-use/browser-use@7fdd63c03fd342aab4fe44507c77c3221ffd43c6/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 120664,
-    "size_mb": 39,
+    "stars": 120792,
+    "size_mb": 40,
     "created_at": "2024-10-31T16:00:56Z",
     "last_commit_at": "2026-11-11T00:05:55Z",
-    "releases": 148,
-    "tags": 159,
+    "releases": 149,
+    "tags": 160,
     "archived": false,
     "release": {
       "tag": "1.0.2",
@@ -54,13 +51,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 682,
+    "star_delta_7d": 711,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "b49a68e4060acb226da8f784194fef301c53a6d7",
+    "sha": "7fdd63c03fd342aab4fe44507c77c3221ffd43c6",
     "v": 3
   },
   "hot": true

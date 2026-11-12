@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ca3f31b255dee9d046eba41cbdb2adcfc4297588"
-  },
   "id": "gh:django/django",
   "kind": "repo",
   "url": "https://github.com/django/django",
@@ -25,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/django/django",
-    "sha": "ca3f31b255dee9d046eba41cbdb2adcfc4297588",
-    "file_url": "https://cdn.jsdelivr.net/gh/django/django@ca3f31b255dee9d046eba41cbdb2adcfc4297588/{path}"
+    "sha": "5d6d1f051e0930537b8eda9760d05441d4279594",
+    "file_url": "https://cdn.jsdelivr.net/gh/django/django@5d6d1f051e0930537b8eda9760d05441d4279594/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "BSD-3-Clause",
-    "stars": 91756,
+    "stars": 91719,
     "size_mb": 278,
     "created_at": "2012-04-28T02:47:18Z",
-    "last_commit_at": "2026-11-11T07:21:15Z",
+    "last_commit_at": "2026-11-12T08:53:37Z",
     "releases": 0,
     "tags": 525,
     "archived": false,
@@ -48,13 +45,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 260,
+    "star_delta_7d": 206,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "ca3f31b255dee9d046eba41cbdb2adcfc4297588",
+    "sha": "5d6d1f051e0930537b8eda9760d05441d4279594",
     "v": 3
   },
   "hot": true

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:dc583d659489f7e195779bfa6d3e845ea6ea0782"
-  },
   "id": "gh:asterinas/asterinas",
   "kind": "repo",
   "url": "https://github.com/asterinas/asterinas",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/asterinas/asterinas",
-    "sha": "dc583d659489f7e195779bfa6d3e845ea6ea0782",
-    "file_url": "https://cdn.jsdelivr.net/gh/asterinas/asterinas@dc583d659489f7e195779bfa6d3e845ea6ea0782/{path}"
+    "sha": "bf5135f017cca68968e56dace3cabf2afe9a6550",
+    "file_url": "https://cdn.jsdelivr.net/gh/asterinas/asterinas@bf5135f017cca68968e56dace3cabf2afe9a6550/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MPL-2.0",
-    "stars": 5086,
+    "stars": 5088,
     "size_mb": 19,
     "created_at": "2022-05-17T18:48:52Z",
-    "last_commit_at": "2026-11-11T01:52:18Z",
+    "last_commit_at": "2026-11-12T08:44:10Z",
     "releases": 6,
     "tags": 40,
     "archived": false,
@@ -61,7 +58,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "dc583d659489f7e195779bfa6d3e845ea6ea0782",
+    "sha": "bf5135f017cca68968e56dace3cabf2afe9a6550",
     "v": 3
   }
 }

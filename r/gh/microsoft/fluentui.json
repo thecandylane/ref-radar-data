@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:19e2d5cd2bf81a2406327709b8856242ec38a966"
-  },
   "id": "gh:microsoft/fluentui",
   "kind": "repo",
   "url": "https://github.com/microsoft/fluentui",
@@ -33,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/microsoft/fluentui",
-    "sha": "19e2d5cd2bf81a2406327709b8856242ec38a966",
-    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/fluentui@19e2d5cd2bf81a2406327709b8856242ec38a966/{path}"
+    "sha": "c30fbd57369a6daa0550ce2eba6ae5c006d816bd",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/fluentui@c30fbd57369a6daa0550ce2eba6ae5c006d816bd/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 20399,
+    "stars": 20400,
     "size_mb": 855,
     "created_at": "2016-06-06T15:03:44Z",
-    "last_commit_at": "2026-11-10T22:16:20Z",
+    "last_commit_at": "2026-11-11T18:35:46Z",
     "releases": 1000,
     "tags": 34890,
     "archived": false,
@@ -63,9 +60,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "19e2d5cd2bf81a2406327709b8856242ec38a966",
-    "v": 3
-  }
+  "tier": "curated"
 }

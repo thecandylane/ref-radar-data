@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:91cdc7bbb4d85a3ecb4c8c640297d9c401ff4390"
-  },
   "id": "gh:hathach/tinyusb",
   "kind": "repo",
   "url": "https://github.com/hathach/tinyusb",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/hathach/tinyusb",
-    "sha": "91cdc7bbb4d85a3ecb4c8c640297d9c401ff4390",
-    "file_url": "https://cdn.jsdelivr.net/gh/hathach/tinyusb@91cdc7bbb4d85a3ecb4c8c640297d9c401ff4390/{path}"
+    "sha": "43991c20de9ac946d8061b1f8f4a87af8859c204",
+    "file_url": "https://cdn.jsdelivr.net/gh/hathach/tinyusb@43991c20de9ac946d8061b1f8f4a87af8859c204/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "MIT",
-    "stars": 7264,
-    "size_mb": 59,
+    "stars": 7268,
+    "size_mb": 60,
     "created_at": "2012-11-26T06:24:00Z",
-    "last_commit_at": "2026-11-11T09:51:00Z",
+    "last_commit_at": "2026-11-12T08:40:29Z",
     "releases": 18,
     "tags": 18,
     "archived": false,
@@ -61,13 +58,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 9,
+    "star_delta_7d": 11,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "91cdc7bbb4d85a3ecb4c8c640297d9c401ff4390",
-    "v": 3
-  }
+  "tier": "curated"
 }

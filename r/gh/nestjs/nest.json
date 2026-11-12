@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:7c9c794a44f6694aa0b9544fe84ab56207195e6c"
-  },
   "id": "gh:nestjs/nest",
   "kind": "repo",
   "url": "https://github.com/nestjs/nest",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/nestjs/nest",
-    "sha": "7c9c794a44f6694aa0b9544fe84ab56207195e6c",
-    "file_url": "https://cdn.jsdelivr.net/gh/nestjs/nest@7c9c794a44f6694aa0b9544fe84ab56207195e6c/{path}"
+    "sha": "956af70d8cdfee7c11e187eecdaee0972ae0a087",
+    "file_url": "https://cdn.jsdelivr.net/gh/nestjs/nest@956af70d8cdfee7c11e187eecdaee0972ae0a087/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 77048,
+    "stars": 77112,
     "size_mb": 482,
     "created_at": "2017-02-04T20:12:52Z",
-    "last_commit_at": "2026-11-10T19:06:29Z",
+    "last_commit_at": "2026-11-12T07:28:32Z",
     "releases": 176,
     "tags": 396,
     "archived": false,
@@ -55,13 +52,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 77,
+    "star_delta_7d": 135,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "7c9c794a44f6694aa0b9544fe84ab56207195e6c",
-    "v": 3
-  }
+  "tier": "curated"
 }

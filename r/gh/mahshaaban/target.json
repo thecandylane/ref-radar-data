@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9c6f869d794cfaff63310c5f79cea1e1095e2198"
+  },
+  "id": "gh:mahshaaban/target",
+  "kind": "repo",
+  "url": "https://github.com/MahShaaban/target",
+  "title": "target",
+  "why": "Combines ChIP-seq binding evidence to predict the joint function of transcription factors on gene regulation in R.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MahShaaban/target",
+    "sha": "9c6f869d794cfaff63310c5f79cea1e1095e2198",
+    "file_url": "https://cdn.jsdelivr.net/gh/MahShaaban/target@9c6f869d794cfaff63310c5f79cea1e1095e2198/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "GPL-3.0",
+    "stars": 5,
+    "size_mb": 5,
+    "created_at": "2019-08-28T05:37:02Z",
+    "last_commit_at": "2020-03-02T07:51:18Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9c6f869d794cfaff63310c5f79cea1e1095e2198",
+    "v": 3
+  }
+}

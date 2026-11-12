@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ff6ecfa971ebbc96beafedba247a2768aa568a5f"
-  },
   "id": "gh:ckan/ckan",
   "kind": "repo",
   "url": "https://github.com/ckan/ckan",
@@ -27,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ckan/ckan",
-    "sha": "ff6ecfa971ebbc96beafedba247a2768aa568a5f",
-    "file_url": "https://cdn.jsdelivr.net/gh/ckan/ckan@ff6ecfa971ebbc96beafedba247a2768aa568a5f/{path}"
+    "sha": "85e304013dc5d4fe20c86feb727ac239bd29816a",
+    "file_url": "https://cdn.jsdelivr.net/gh/ckan/ckan@85e304013dc5d4fe20c86feb727ac239bd29816a/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -59,7 +56,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "ff6ecfa971ebbc96beafedba247a2768aa568a5f",
+    "sha": "85e304013dc5d4fe20c86feb727ac239bd29816a",
     "v": 3
   }
 }

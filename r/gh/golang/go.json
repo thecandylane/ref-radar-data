@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:35455b81d3dcd923beec25b13489abbc8414221f"
-  },
   "id": "gh:golang/go",
   "kind": "repo",
   "url": "https://github.com/golang/go",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/golang/go",
-    "sha": "35455b81d3dcd923beec25b13489abbc8414221f",
-    "file_url": "https://raw.githubusercontent.com/golang/go/35455b81d3dcd923beec25b13489abbc8414221f/{path}"
+    "sha": "f37eedeb17ddc24aeeb66e69b9f94a99d23d5504",
+    "file_url": "https://raw.githubusercontent.com/golang/go/f37eedeb17ddc24aeeb66e69b9f94a99d23d5504/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "BSD-3-Clause",
-    "stars": 139896,
-    "size_mb": 457,
+    "stars": 139858,
+    "size_mb": 458,
     "created_at": "2014-08-19T04:33:40Z",
-    "last_commit_at": "2026-11-11T06:40:45Z",
+    "last_commit_at": "2026-11-12T01:54:05Z",
     "releases": 0,
     "tags": 502,
     "archived": false,
@@ -58,14 +55,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 332,
+    "star_delta_7d": 274,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "35455b81d3dcd923beec25b13489abbc8414221f",
-    "v": 3
-  },
   "hot": true
 }

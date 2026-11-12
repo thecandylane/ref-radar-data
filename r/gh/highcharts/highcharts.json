@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:00f3622b98504b82fc55ff4e0e3904691924b6d0"
-  },
   "id": "gh:highcharts/highcharts",
   "kind": "repo",
   "url": "https://github.com/highcharts/highcharts",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/highcharts/highcharts",
-    "sha": "00f3622b98504b82fc55ff4e0e3904691924b6d0",
-    "file_url": "https://cdn.jsdelivr.net/gh/highcharts/highcharts@00f3622b98504b82fc55ff4e0e3904691924b6d0/{path}"
+    "sha": "25a5ccbcfa435f90719b2a9790cd86ac5b0c8a41",
+    "file_url": "https://cdn.jsdelivr.net/gh/highcharts/highcharts@25a5ccbcfa435f90719b2a9790cd86ac5b0c8a41/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -52,9 +49,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "00f3622b98504b82fc55ff4e0e3904691924b6d0",
-    "v": 3
-  }
+  "tier": "curated"
 }

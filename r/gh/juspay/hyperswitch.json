@@ -26,18 +26,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/juspay/hyperswitch",
-    "sha": "08eed3cc9fe1fb9f615793fff64d52fb953d65e6",
-    "file_url": "https://raw.githubusercontent.com/juspay/hyperswitch/08eed3cc9fe1fb9f615793fff64d52fb953d65e6/{path}"
+    "sha": "995562f725851f4eda9dafc8eab088d856793e72",
+    "file_url": "https://raw.githubusercontent.com/juspay/hyperswitch/995562f725851f4eda9dafc8eab088d856793e72/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
     "stars": 45763,
-    "size_mb": 477,
+    "size_mb": 478,
     "created_at": "2022-10-17T11:18:28Z",
-    "last_commit_at": "2026-11-11T07:10:54Z",
+    "last_commit_at": "2026-11-12T07:56:38Z",
     "releases": 162,
-    "tags": 1632,
+    "tags": 1635,
     "archived": false,
     "release": {
       "tag": "v1.129.0",
@@ -56,9 +56,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "08eed3cc9fe1fb9f615793fff64d52fb953d65e6",
-    "v": 3
-  }
+  "tier": "curated"
 }

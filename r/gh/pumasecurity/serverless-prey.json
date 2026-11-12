@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:05a802b503635ecc21d402b3f3dbc3303ab4b1b8"
+  },
+  "id": "gh:pumasecurity/serverless-prey",
+  "kind": "repo",
+  "url": "https://github.com/pumasecurity/serverless-prey",
+  "title": "serverless-prey",
+  "why": "Reverse shell functions for Lambda, Azure and Google Cloud, written in HCL as separate cheetah, cougar and panther folders.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "infra/serverless"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "infra/serverless"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pumasecurity/serverless-prey",
+    "sha": "05a802b503635ecc21d402b3f3dbc3303ab4b1b8",
+    "file_url": "https://cdn.jsdelivr.net/gh/pumasecurity/serverless-prey@05a802b503635ecc21d402b3f3dbc3303ab4b1b8/{path}"
+  },
+  "facts": {
+    "lang": "HCL",
+    "license": "MPL-2.0",
+    "stars": 248,
+    "size_mb": 8,
+    "created_at": "2019-12-11T16:17:23Z",
+    "last_commit_at": "2025-07-17T20:48:22Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "05a802b503635ecc21d402b3f3dbc3303ab4b1b8",
+    "v": 3
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-11T22:05:54.138Z"
+  }
+}

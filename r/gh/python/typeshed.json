@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:dc4eed3c72ad447baae6ef5a73ac846b1c827e2a"
-  },
   "id": "gh:python/typeshed",
   "kind": "repo",
   "url": "https://github.com/python/typeshed",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/python/typeshed",
-    "sha": "dc4eed3c72ad447baae6ef5a73ac846b1c827e2a",
-    "file_url": "https://cdn.jsdelivr.net/gh/python/typeshed@dc4eed3c72ad447baae6ef5a73ac846b1c827e2a/{path}"
+    "sha": "98ab14707e0d52deabd05161328f4cfce3869d34",
+    "file_url": "https://cdn.jsdelivr.net/gh/python/typeshed@98ab14707e0d52deabd05161328f4cfce3869d34/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 5151,
+    "stars": 5152,
     "size_mb": 33,
     "created_at": "2015-03-05T04:51:28Z",
-    "last_commit_at": "2026-11-11T08:17:53Z",
+    "last_commit_at": "2026-11-11T15:11:13Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -56,9 +53,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "dc4eed3c72ad447baae6ef5a73ac846b1c827e2a",
-    "v": 3
-  }
+  "tier": "curated"
 }

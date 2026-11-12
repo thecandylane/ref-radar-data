@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:197a3d5dd5df79e97684532e190c3b59ab5abd05"
+  },
   "id": "gh:ropensci/unifir",
   "kind": "repo",
   "url": "https://github.com/ropensci/unifir",
@@ -52,5 +55,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "197a3d5dd5df79e97684532e190c3b59ab5abd05",
+    "v": 3
+  }
 }

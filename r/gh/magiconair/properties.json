@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:7bc746f67ddc32a90a2154f393e4b27750e678c3"
+  },
   "id": "gh:magiconair/properties",
   "kind": "repo",
   "url": "https://github.com/magiconair/properties",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": "Go",
     "license": "BSD-2-Clause",
-    "stars": 340,
+    "stars": 341,
     "size_mb": 0,
     "created_at": "2013-12-12T04:55:17Z",
     "last_commit_at": "2026-09-16T14:43:08Z",
@@ -52,5 +55,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "7bc746f67ddc32a90a2154f393e4b27750e678c3",
+    "v": 3
+  }
 }

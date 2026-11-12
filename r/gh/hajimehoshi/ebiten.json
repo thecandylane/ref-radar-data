@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5ffa21229119e57a721fbf3c0a70bb58382ec206"
-  },
   "id": "gh:hajimehoshi/ebiten",
   "kind": "repo",
   "url": "https://github.com/hajimehoshi/ebiten",
@@ -33,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/hajimehoshi/ebiten",
-    "sha": "5ffa21229119e57a721fbf3c0a70bb58382ec206",
-    "file_url": "https://cdn.jsdelivr.net/gh/hajimehoshi/ebiten@5ffa21229119e57a721fbf3c0a70bb58382ec206/{path}"
+    "sha": "48c5532034055d5e67af21d4bef46bad46f58897",
+    "file_url": "https://cdn.jsdelivr.net/gh/hajimehoshi/ebiten@48c5532034055d5e67af21d4bef46bad46f58897/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 13624,
+    "stars": 13626,
     "size_mb": 113,
     "created_at": "2013-06-16T15:13:01Z",
-    "last_commit_at": "2026-11-09T18:31:43Z",
+    "last_commit_at": "2026-11-11T16:28:53Z",
     "releases": 172,
     "tags": 373,
     "archived": false,
@@ -59,13 +56,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 17,
+    "star_delta_7d": 19,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "5ffa21229119e57a721fbf3c0a70bb58382ec206",
-    "v": 3
-  }
+  "tier": "curated"
 }

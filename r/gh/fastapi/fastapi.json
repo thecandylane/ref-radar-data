@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1ca09c13584ca45aa0921e5e40b31d49c5e3135a"
-  },
   "id": "gh:fastapi/fastapi",
   "kind": "repo",
   "url": "https://github.com/fastapi/fastapi",
@@ -25,22 +22,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/fastapi/fastapi",
-    "sha": "1ca09c13584ca45aa0921e5e40b31d49c5e3135a",
-    "file_url": "https://cdn.jsdelivr.net/gh/fastapi/fastapi@1ca09c13584ca45aa0921e5e40b31d49c5e3135a/{path}"
+    "sha": "5add7a458d629b07311d48261f696b5ac2bb9a5f",
+    "file_url": "https://cdn.jsdelivr.net/gh/fastapi/fastapi@5add7a458d629b07311d48261f696b5ac2bb9a5f/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 104692,
+    "stars": 104653,
     "size_mb": 59,
     "created_at": "2018-12-08T08:21:47Z",
-    "last_commit_at": "2026-11-10T19:21:20Z",
-    "releases": 346,
-    "tags": 351,
+    "last_commit_at": "2026-11-11T22:28:24Z",
+    "releases": 347,
+    "tags": 352,
     "archived": false,
     "release": {
-      "tag": "0.162.4",
-      "at": "2026-11-10T17:50:03.000Z"
+      "tag": "0.162.5",
+      "at": "2026-11-11T22:29:35.000Z"
     }
   },
   "reuse": "copy",
@@ -51,14 +48,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 297,
+    "star_delta_7d": 235,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "1ca09c13584ca45aa0921e5e40b31d49c5e3135a",
-    "v": 3
-  },
   "hot": true
 }

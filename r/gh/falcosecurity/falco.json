@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:b3c37fe82155ce58b6c4fb440b2a72559bb7453f"
+    "swh": "swh:1:rev:2be5618cad8beaabc2c1dc02ba5b3a5553ee923f"
   },
   "id": "gh:falcosecurity/falco",
   "kind": "repo",
@@ -27,13 +27,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/falcosecurity/falco",
-    "sha": "b3c37fe82155ce58b6c4fb440b2a72559bb7453f",
-    "file_url": "https://cdn.jsdelivr.net/gh/falcosecurity/falco@b3c37fe82155ce58b6c4fb440b2a72559bb7453f/{path}"
+    "sha": "2be5618cad8beaabc2c1dc02ba5b3a5553ee923f",
+    "file_url": "https://cdn.jsdelivr.net/gh/falcosecurity/falco@2be5618cad8beaabc2c1dc02ba5b3a5553ee923f/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "Apache-2.0",
-    "stars": 9571,
+    "stars": 9574,
     "size_mb": 23,
     "created_at": "2016-01-19T21:58:12Z",
     "last_commit_at": "2026-11-06T12:37:00Z",
@@ -57,9 +57,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "b3c37fe82155ce58b6c4fb440b2a72559bb7453f",
-    "v": 3
-  }
+  "tier": "curated"
 }

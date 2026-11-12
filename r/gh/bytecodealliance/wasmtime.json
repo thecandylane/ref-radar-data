@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:33b89be10f104c3b9b106d8c832728a829206690"
-  },
   "id": "gh:bytecodealliance/wasmtime",
   "kind": "repo",
   "url": "https://github.com/bytecodealliance/wasmtime",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/bytecodealliance/wasmtime",
-    "sha": "33b89be10f104c3b9b106d8c832728a829206690",
-    "file_url": "https://cdn.jsdelivr.net/gh/bytecodealliance/wasmtime@33b89be10f104c3b9b106d8c832728a829206690/{path}"
+    "sha": "266d7946f7783be62864cad5e553764b4c0a0f58",
+    "file_url": "https://cdn.jsdelivr.net/gh/bytecodealliance/wasmtime@266d7946f7783be62864cad5e553764b4c0a0f58/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 18845,
+    "stars": 18849,
     "size_mb": 168,
     "created_at": "2017-08-29T14:01:55Z",
-    "last_commit_at": "2026-11-11T00:46:44Z",
+    "last_commit_at": "2026-11-11T22:10:41Z",
     "releases": 233,
     "tags": 265,
     "archived": false,
@@ -61,13 +58,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 25,
+    "star_delta_7d": 26,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "33b89be10f104c3b9b106d8c832728a829206690",
+    "sha": "266d7946f7783be62864cad5e553764b4c0a0f58",
     "v": 3
   }
 }

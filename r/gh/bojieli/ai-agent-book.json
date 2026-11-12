@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:dbc046eb896ac4e39aa19c7774c8bf49583b89a6"
+  },
+  "id": "gh:bojieli/ai-agent-book",
+  "kind": "repo",
+  "url": "https://github.com/bojieli/ai-agent-book",
+  "title": "ai-agent-book",
+  "why": "Teaches AI agent engineering chapter by chapter, from context and memory to MCP tools and multi-agent coordination, with 109 runnable experiments.",
+  "keys": {
+    "races": [
+      "learning/courses",
+      "agents/context",
+      "agents/memory",
+      "llm-infra/rag",
+      "agents/coding",
+      "agents/orchestration"
+    ],
+    "lanes": [
+      "learning/courses",
+      "agents/context",
+      "agents/memory",
+      "llm-infra/rag",
+      "agents/coding",
+      "agents/orchestration"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bojieli/ai-agent-book",
+    "sha": "dbc046eb896ac4e39aa19c7774c8bf49583b89a6",
+    "file_url": "https://raw.githubusercontent.com/bojieli/ai-agent-book/dbc046eb896ac4e39aa19c7774c8bf49583b89a6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 57834,
+    "size_mb": 777,
+    "created_at": "2025-09-09T02:41:44Z",
+    "last_commit_at": "2026-09-30T03:03:28Z",
+    "releases": 1,
+    "tags": 3,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dbc046eb896ac4e39aa19c7774c8bf49583b89a6",
+    "v": 3
+  }
+}

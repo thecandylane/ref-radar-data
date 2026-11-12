@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:0a7c69ce22a4ca7b5082f9bfa5f8a61df7409859"
-  },
   "id": "gh:withastro/starlight",
   "kind": "repo",
   "url": "https://github.com/withastro/starlight",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/withastro/starlight",
-    "sha": "0a7c69ce22a4ca7b5082f9bfa5f8a61df7409859",
-    "file_url": "https://cdn.jsdelivr.net/gh/withastro/starlight@0a7c69ce22a4ca7b5082f9bfa5f8a61df7409859/{path}"
+    "sha": "36d00c1c7f1c0e5ea4783695fe741926e04fec26",
+    "file_url": "https://cdn.jsdelivr.net/gh/withastro/starlight@36d00c1c7f1c0e5ea4783695fe741926e04fec26/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 9546,
+    "stars": 9548,
     "size_mb": 36,
     "created_at": "2023-03-16T15:55:33Z",
-    "last_commit_at": "2026-11-11T10:15:01Z",
+    "last_commit_at": "2026-11-11T20:04:24Z",
     "releases": 234,
     "tags": 234,
     "archived": false,
@@ -61,9 +58,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "0a7c69ce22a4ca7b5082f9bfa5f8a61df7409859",
-    "v": 3
-  }
+  "tier": "curated"
 }

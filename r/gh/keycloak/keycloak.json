@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:accf2bd58e142e96750f47960fc49cc61d9fa146"
-  },
   "id": "gh:keycloak/keycloak",
   "kind": "repo",
   "url": "https://github.com/keycloak/keycloak",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/keycloak/keycloak",
-    "sha": "accf2bd58e142e96750f47960fc49cc61d9fa146",
-    "file_url": "https://cdn.jsdelivr.net/gh/keycloak/keycloak@accf2bd58e142e96750f47960fc49cc61d9fa146/{path}"
+    "sha": "59cb7eaf37ac7479360addb78df8c76c2d4412f5",
+    "file_url": "https://cdn.jsdelivr.net/gh/keycloak/keycloak@59cb7eaf37ac7479360addb78df8c76c2d4412f5/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 37816,
-    "size_mb": 614,
+    "stars": 37828,
+    "size_mb": 615,
     "created_at": "2013-07-02T13:38:51Z",
-    "last_commit_at": "2026-11-11T10:17:25Z",
+    "last_commit_at": "2026-11-12T09:01:08Z",
     "releases": 118,
     "tags": 331,
     "archived": false,
@@ -53,14 +50,10 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 122,
+    "star_delta_7d": 115,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "accf2bd58e142e96750f47960fc49cc61d9fa146",
-    "v": 3
-  },
   "hot": true
 }

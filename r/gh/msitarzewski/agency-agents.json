@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:b37b5bb33b78f2c1d6567d98e25ca818e3259219"
-  },
   "id": "gh:msitarzewski/agency-agents",
   "kind": "repo",
   "url": "https://github.com/msitarzewski/agency-agents",
@@ -30,13 +27,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/msitarzewski/agency-agents",
-    "sha": "b37b5bb33b78f2c1d6567d98e25ca818e3259219",
-    "file_url": "https://cdn.jsdelivr.net/gh/msitarzewski/agency-agents@b37b5bb33b78f2c1d6567d98e25ca818e3259219/{path}"
+    "sha": "8ae6164602c95ca78828b148b9052460ee426885",
+    "file_url": "https://cdn.jsdelivr.net/gh/msitarzewski/agency-agents@8ae6164602c95ca78828b148b9052460ee426885/{path}"
   },
   "facts": {
     "lang": "Shell",
     "license": "MIT",
-    "stars": 167717,
+    "stars": 167835,
     "size_mb": 5,
     "created_at": "2025-10-13T12:12:29Z",
     "last_commit_at": "2026-11-09T00:27:04Z",
@@ -57,9 +54,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "b37b5bb33b78f2c1d6567d98e25ca818e3259219",
-    "v": 3
-  }
+  "tier": "curated"
 }

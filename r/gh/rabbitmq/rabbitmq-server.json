@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:8c180aea271f5c46d2ce8aeddab66ed6a79f5994"
-  },
   "id": "gh:rabbitmq/rabbitmq-server",
   "kind": "repo",
   "url": "https://github.com/rabbitmq/rabbitmq-server",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/rabbitmq/rabbitmq-server",
-    "sha": "8c180aea271f5c46d2ce8aeddab66ed6a79f5994",
-    "file_url": "https://cdn.jsdelivr.net/gh/rabbitmq/rabbitmq-server@8c180aea271f5c46d2ce8aeddab66ed6a79f5994/{path}"
+    "sha": "564c0a2f7a67f29830b74866ed0196a0eb6cc62d",
+    "file_url": "https://cdn.jsdelivr.net/gh/rabbitmq/rabbitmq-server@564c0a2f7a67f29830b74866ed0196a0eb6cc62d/{path}"
   },
   "facts": {
     "lang": "JavaScript",
@@ -34,7 +31,7 @@
     "stars": 13964,
     "size_mb": 238,
     "created_at": "2010-09-20T10:29:16Z",
-    "last_commit_at": "2026-11-10T15:14:36Z",
+    "last_commit_at": "2026-11-11T17:01:39Z",
     "releases": 459,
     "tags": 572,
     "archived": false,
@@ -55,9 +52,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "8c180aea271f5c46d2ce8aeddab66ed6a79f5994",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -22,18 +22,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/pytorch/torchtitan",
-    "sha": "b4007ccd0654e2b4136bb5320107961072c4f5bc",
-    "file_url": "https://cdn.jsdelivr.net/gh/pytorch/torchtitan@b4007ccd0654e2b4136bb5320107961072c4f5bc/{path}"
+    "sha": "8e63247cd594725719e61ce598623a75128e7eff",
+    "file_url": "https://cdn.jsdelivr.net/gh/pytorch/torchtitan@8e63247cd594725719e61ce598623a75128e7eff/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "BSD-3-Clause",
-    "stars": 5893,
-    "size_mb": 202,
+    "stars": 5898,
+    "size_mb": 203,
     "created_at": "2023-12-13T01:51:37Z",
-    "last_commit_at": "2026-11-11T08:49:57Z",
+    "last_commit_at": "2026-11-12T08:18:10Z",
     "releases": 6,
-    "tags": 351,
+    "tags": 348,
     "archived": false,
     "release": {
       "tag": "v0.4.0",
@@ -48,13 +48,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 16,
+    "star_delta_7d": 17,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "b4007ccd0654e2b4136bb5320107961072c4f5bc",
-    "v": 3
-  }
+  "tier": "curated"
 }

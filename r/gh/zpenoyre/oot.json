@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cec87f6609ae8492e42bd04e9931e27cf3eff5b0"
+  },
+  "id": "gh:zpenoyre/oot",
+  "kind": "repo",
+  "url": "https://github.com/zpenoyre/OoT",
+  "title": "OoT",
+  "why": "Generates out-of-transit light curves from a small Python module, with an example notebook and plot.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zpenoyre/OoT",
+    "sha": "cec87f6609ae8492e42bd04e9931e27cf3eff5b0",
+    "file_url": "https://cdn.jsdelivr.net/gh/zpenoyre/OoT@cec87f6609ae8492e42bd04e9931e27cf3eff5b0/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 3,
+    "size_mb": 1,
+    "created_at": "2018-02-05T20:06:51Z",
+    "last_commit_at": "2019-03-21T15:01:06Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "cec87f6609ae8492e42bd04e9931e27cf3eff5b0",
+    "v": 3
+  }
+}

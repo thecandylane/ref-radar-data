@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:be918a96ba1f04855b757d11152cacdad2c007fb"
-  },
   "id": "gh:jacomyal/sigma.js",
   "kind": "repo",
   "url": "https://github.com/jacomyal/sigma.js",
@@ -29,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/jacomyal/sigma.js",
-    "sha": "be918a96ba1f04855b757d11152cacdad2c007fb",
-    "file_url": "https://cdn.jsdelivr.net/gh/jacomyal/sigma.js@be918a96ba1f04855b757d11152cacdad2c007fb/{path}"
+    "sha": "e7748c88c861f19cab00be80cb7f836c5fef61e8",
+    "file_url": "https://cdn.jsdelivr.net/gh/jacomyal/sigma.js@e7748c88c861f19cab00be80cb7f836c5fef61e8/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 12233,
+    "stars": 12234,
     "size_mb": 62,
     "created_at": "2012-03-11T15:17:40Z",
     "last_commit_at": "2026-11-10T11:26:18Z",
@@ -59,9 +56,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "be918a96ba1f04855b757d11152cacdad2c007fb",
-    "v": 3
-  }
+  "tier": "curated"
 }

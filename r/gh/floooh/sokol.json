@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:e7a48ed6251543eae8c5677f1cbe5fa4b2557573"
-  },
   "id": "gh:floooh/sokol",
   "kind": "repo",
   "url": "https://github.com/floooh/sokol",
@@ -27,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/floooh/sokol",
-    "sha": "e7a48ed6251543eae8c5677f1cbe5fa4b2557573",
-    "file_url": "https://cdn.jsdelivr.net/gh/floooh/sokol@e7a48ed6251543eae8c5677f1cbe5fa4b2557573/{path}"
+    "sha": "93aa187b5d387cc24b7290b3ca3f13f61e139e7c",
+    "file_url": "https://cdn.jsdelivr.net/gh/floooh/sokol@93aa187b5d387cc24b7290b3ca3f13f61e139e7c/{path}"
   },
   "facts": {
     "lang": "C",
@@ -50,13 +47,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 19,
+    "star_delta_7d": 16,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "e7a48ed6251543eae8c5677f1cbe5fa4b2557573",
-    "v": 3
-  }
+  "tier": "curated"
 }

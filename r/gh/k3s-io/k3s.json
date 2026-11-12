@@ -32,13 +32,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/k3s-io/k3s",
-    "sha": "f5cba99ac74b452d37233eadd18753015f672ad6",
-    "file_url": "https://cdn.jsdelivr.net/gh/k3s-io/k3s@f5cba99ac74b452d37233eadd18753015f672ad6/{path}"
+    "sha": "51d3b7043183cbd61381773e6345082bd4cf2280",
+    "file_url": "https://cdn.jsdelivr.net/gh/k3s-io/k3s@51d3b7043183cbd61381773e6345082bd4cf2280/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 34387,
+    "stars": 34400,
     "size_mb": 579,
     "created_at": "2018-05-31T01:37:46Z",
     "last_commit_at": "2026-11-10T04:18:15Z",
@@ -58,14 +58,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 56,
+    "star_delta_7d": 66,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "f5cba99ac74b452d37233eadd18753015f672ad6",
-    "v": 3
-  },
   "hot": true
 }

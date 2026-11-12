@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:4baebd6bef6489811d81766d78386114f2d1bea0"
-  },
   "id": "gh:apache/flink",
   "kind": "repo",
   "url": "https://github.com/apache/flink",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/flink",
-    "sha": "4baebd6bef6489811d81766d78386114f2d1bea0",
-    "file_url": "https://raw.githubusercontent.com/apache/flink/4baebd6bef6489811d81766d78386114f2d1bea0/{path}"
+    "sha": "0649cda25a7975cc6d173458d462850075b4a056",
+    "file_url": "https://raw.githubusercontent.com/apache/flink/0649cda25a7975cc6d173458d462850075b4a056/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 26463,
+    "stars": 26467,
     "size_mb": 547,
     "created_at": "2014-06-07T07:00:10Z",
-    "last_commit_at": "2026-11-11T09:48:47Z",
+    "last_commit_at": "2026-11-12T08:02:00Z",
     "releases": 0,
     "tags": 296,
     "archived": false,
@@ -56,7 +53,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "4baebd6bef6489811d81766d78386114f2d1bea0",
+    "sha": "0649cda25a7975cc6d173458d462850075b4a056",
     "v": 3
   }
 }

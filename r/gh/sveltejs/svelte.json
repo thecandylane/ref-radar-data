@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:7775f73b7cbe32de3bb566f3515113208887e961"
-  },
   "id": "gh:sveltejs/svelte",
   "kind": "repo",
   "url": "https://github.com/sveltejs/svelte",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/sveltejs/svelte",
-    "sha": "7775f73b7cbe32de3bb566f3515113208887e961",
-    "file_url": "https://cdn.jsdelivr.net/gh/sveltejs/svelte@7775f73b7cbe32de3bb566f3515113208887e961/{path}"
+    "sha": "ff7404cccd5f112b2e99d640d95b2e17974c1ae9",
+    "file_url": "https://cdn.jsdelivr.net/gh/sveltejs/svelte@ff7404cccd5f112b2e99d640d95b2e17974c1ae9/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 88746,
+    "stars": 88724,
     "size_mb": 122,
     "created_at": "2016-11-20T18:13:05Z",
-    "last_commit_at": "2026-11-11T09:45:06Z",
+    "last_commit_at": "2026-11-11T19:30:26Z",
     "releases": 640,
     "tags": 1035,
     "archived": false,
@@ -57,14 +54,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 195,
+    "star_delta_7d": 163,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "7775f73b7cbe32de3bb566f3515113208887e961",
-    "v": 3
-  },
   "hot": true
 }

@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:09740eaf6359af4ac4f932b620f28add2299142e"
+    "swh": "swh:1:rev:f561a53dc55eeb3f20615be951560dc78bb23f4c"
   },
   "id": "gh:getredash/redash",
   "kind": "repo",
@@ -25,8 +25,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/getredash/redash",
-    "sha": "09740eaf6359af4ac4f932b620f28add2299142e",
-    "file_url": "https://cdn.jsdelivr.net/gh/getredash/redash@09740eaf6359af4ac4f932b620f28add2299142e/{path}"
+    "sha": "f561a53dc55eeb3f20615be951560dc78bb23f4c",
+    "file_url": "https://cdn.jsdelivr.net/gh/getredash/redash@f561a53dc55eeb3f20615be951560dc78bb23f4c/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -51,13 +51,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 16,
+    "star_delta_7d": 12,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "09740eaf6359af4ac4f932b620f28add2299142e",
-    "v": 3
-  }
+  "tier": "curated"
 }

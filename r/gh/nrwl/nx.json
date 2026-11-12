@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:995f5ba0f9fd59ca6c08fcfa9fbb9b2f9fbda935"
-  },
   "id": "gh:nrwl/nx",
   "kind": "repo",
   "url": "https://github.com/nrwl/nx",
@@ -33,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/nrwl/nx",
-    "sha": "995f5ba0f9fd59ca6c08fcfa9fbb9b2f9fbda935",
-    "file_url": "https://cdn.jsdelivr.net/gh/nrwl/nx@995f5ba0f9fd59ca6c08fcfa9fbb9b2f9fbda935/{path}"
+    "sha": "1ef2721e840e76d83ec9475ce7b85789d395a092",
+    "file_url": "https://cdn.jsdelivr.net/gh/nrwl/nx@1ef2721e840e76d83ec9475ce7b85789d395a092/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 29462,
-    "size_mb": 1012,
+    "stars": 29468,
+    "size_mb": 1000,
     "created_at": "2017-08-11T18:50:23Z",
-    "last_commit_at": "2026-11-10T22:33:35Z",
+    "last_commit_at": "2026-11-12T08:21:26Z",
     "releases": 1000,
     "tags": 1300,
     "archived": false,
@@ -59,13 +56,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 14,
+    "star_delta_7d": 16,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "995f5ba0f9fd59ca6c08fcfa9fbb9b2f9fbda935",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -26,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/microsoft/agent-framework",
-    "sha": "230a3aa0bba19b6bf5a7b4f427bcb25cb16c7105",
-    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/agent-framework@230a3aa0bba19b6bf5a7b4f427bcb25cb16c7105/{path}"
+    "sha": "01de1979b22b8ee9d877be3c4b1a7f588ba1d662",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/agent-framework@01de1979b22b8ee9d877be3c4b1a7f588ba1d662/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 14630,
-    "size_mb": 152,
+    "stars": 14643,
+    "size_mb": 151,
     "created_at": "2025-04-28T19:40:42Z",
-    "last_commit_at": "2026-11-11T10:14:19Z",
+    "last_commit_at": "2026-11-12T08:57:16Z",
     "releases": 133,
     "tags": 202,
     "archived": false,
@@ -56,9 +56,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "230a3aa0bba19b6bf5a7b4f427bcb25cb16c7105",
-    "v": 3
-  }
+  "tier": "curated"
 }

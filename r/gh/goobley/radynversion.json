@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f44edc77b6eb7ef2bdbd8e8aabda3bf9822d3695"
+  },
+  "id": "gh:goobley/radynversion",
+  "kind": "repo",
+  "url": "https://github.com/Goobley/Radynversion",
+  "title": "Radynversion",
+  "why": "Neural network inversion of solar flare observations trained on RADYN simulations, with notebooks and a single pixel example.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "ml/training"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Goobley/Radynversion",
+    "sha": "f44edc77b6eb7ef2bdbd8e8aabda3bf9822d3695",
+    "file_url": "https://cdn.jsdelivr.net/gh/Goobley/Radynversion@f44edc77b6eb7ef2bdbd8e8aabda3bf9822d3695/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 15,
+    "size_mb": 14,
+    "created_at": "2018-09-18T16:08:22Z",
+    "last_commit_at": "2020-06-25T12:23:13Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "1.0.2",
+      "at": "2021-09-07T18:22:13.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f44edc77b6eb7ef2bdbd8e8aabda3bf9822d3695",
+    "v": 3
+  }
+}

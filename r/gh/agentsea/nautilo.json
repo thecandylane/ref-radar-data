@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a9e79484db206cf45a6226dbd6816ed83650ca76"
+  },
   "id": "gh:agentsea/nautilo",
   "kind": "repo",
   "url": "https://github.com/agentsea/nautilo",
@@ -38,8 +41,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/agentsea/nautilo",
-    "sha": "883465a3718a6b10e48d3c74fc5566ba4ef48da1",
-    "file_url": "https://raw.githubusercontent.com/agentsea/nautilo/883465a3718a6b10e48d3c74fc5566ba4ef48da1/{path}"
+    "sha": "a9e79484db206cf45a6226dbd6816ed83650ca76",
+    "file_url": "https://raw.githubusercontent.com/agentsea/nautilo/a9e79484db206cf45a6226dbd6816ed83650ca76/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -70,8 +73,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "883465a3718a6b10e48d3c74fc5566ba4ef48da1",
+    "sha": "a9e79484db206cf45a6226dbd6816ed83650ca76",
     "v": 3
-  },
-  "scan_partial": true
+  }
 }

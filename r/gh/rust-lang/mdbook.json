@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:7fb5bc8ee83366ba5170d1f303e74b1151f32731"
-  },
   "id": "gh:rust-lang/mdbook",
   "kind": "repo",
   "url": "https://github.com/rust-lang/mdBook",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/rust-lang/mdBook",
-    "sha": "7fb5bc8ee83366ba5170d1f303e74b1151f32731",
-    "file_url": "https://cdn.jsdelivr.net/gh/rust-lang/mdBook@7fb5bc8ee83366ba5170d1f303e74b1151f32731/{path}"
+    "sha": "2afa6b20706e4904e9978f4c63c5a0c6956194c3",
+    "file_url": "https://cdn.jsdelivr.net/gh/rust-lang/mdBook@2afa6b20706e4904e9978f4c63c5a0c6956194c3/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MPL-2.0",
-    "stars": 22286,
+    "stars": 22289,
     "size_mb": 8,
     "created_at": "2015-07-07T00:57:25Z",
-    "last_commit_at": "2026-11-10T23:37:26Z",
+    "last_commit_at": "2026-11-12T09:13:43Z",
     "releases": 103,
     "tags": 112,
     "archived": false,
@@ -61,13 +58,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 23,
+    "star_delta_7d": 21,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "7fb5bc8ee83366ba5170d1f303e74b1151f32731",
-    "v": 3
-  }
+  "tier": "curated"
 }

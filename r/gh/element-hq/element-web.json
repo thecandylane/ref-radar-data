@@ -32,22 +32,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/element-hq/element-web",
-    "sha": "b9ce553db664b4f5e1c677a0790216934d152853",
-    "file_url": "https://cdn.jsdelivr.net/gh/element-hq/element-web@b9ce553db664b4f5e1c677a0790216934d152853/{path}"
+    "sha": "71ca3123c657a043d1e81cc3ee4de88de4c7a123",
+    "file_url": "https://cdn.jsdelivr.net/gh/element-hq/element-web@71ca3123c657a043d1e81cc3ee4de88de4c7a123/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 13654,
+    "stars": 13655,
     "size_mb": 613,
     "created_at": "2015-07-22T05:32:15Z",
-    "last_commit_at": "2026-11-11T09:21:44Z",
-    "releases": 661,
-    "tags": 697,
+    "last_commit_at": "2026-11-11T18:36:33Z",
+    "releases": 662,
+    "tags": 698,
     "archived": false,
     "release": {
-      "tag": "v1.12.33",
-      "at": "2026-10-27T14:42:44.000Z"
+      "tag": "v1.12.34",
+      "at": "2026-11-11T10:42:24.000Z"
     }
   },
   "reuse": "copyleft",
@@ -64,7 +64,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "b9ce553db664b4f5e1c677a0790216934d152853",
+    "sha": "71ca3123c657a043d1e81cc3ee4de88de4c7a123",
     "v": 3
   }
 }

@@ -22,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/MicrosoftDocs/azure-docs",
-    "sha": "b934883ed79a069fbd952af0befd22027633e8e8",
-    "file_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/b934883ed79a069fbd952af0befd22027633e8e8/{path}"
+    "sha": "cc2c4fe5aab1380cc931e4bd64f5ec1154205310",
+    "file_url": "https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/cc2c4fe5aab1380cc931e4bd64f5ec1154205310/{path}"
   },
   "facts": {
     "lang": "Markdown",
     "license": "CC-BY-4.0",
-    "stars": 11002,
-    "size_mb": 26581,
+    "stars": 11001,
+    "size_mb": 26583,
     "created_at": "2016-11-02T22:00:37Z",
-    "last_commit_at": "2026-11-11T07:07:59Z",
+    "last_commit_at": "2026-11-12T06:09:26Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -49,9 +49,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "b934883ed79a069fbd952af0befd22027633e8e8",
-    "v": 3
-  }
+  "tier": "curated"
 }

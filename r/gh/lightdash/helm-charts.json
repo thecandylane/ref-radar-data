@@ -1,0 +1,62 @@
+{
+  "id": "gh:lightdash/helm-charts",
+  "kind": "repo",
+  "url": "https://github.com/lightdash/helm-charts",
+  "title": "helm-charts",
+  "why": "Helm charts for deploying the Lightdash community edition on Kubernetes, with a Nix flake and dev container for chart work.",
+  "keys": {
+    "races": [
+      "infra/kubernetes",
+      "data/analytics"
+    ],
+    "lanes": [
+      "infra/kubernetes",
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lightdash/helm-charts",
+    "sha": "dc1c529cc7e85c0d03c1dbac55840035e2fd81ee",
+    "file_url": "https://cdn.jsdelivr.net/gh/lightdash/helm-charts@dc1c529cc7e85c0d03c1dbac55840035e2fd81ee/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "none",
+    "stars": 28,
+    "size_mb": 2,
+    "created_at": "2022-02-04T20:09:51Z",
+    "last_commit_at": "2026-11-12T08:52:42Z",
+    "releases": 1000,
+    "tags": 1599,
+    "archived": false,
+    "release": {
+      "tag": "lightdash-2.16.6",
+      "at": "2026-08-18T11:08:26.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dc1c529cc7e85c0d03c1dbac55840035e2fd81ee",
+    "v": 3
+  }
+}

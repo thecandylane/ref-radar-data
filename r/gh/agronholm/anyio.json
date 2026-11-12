@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:706f8c675b6a2f298cd5111c9a9c55b1ea8542b4"
+  },
   "id": "gh:agronholm/anyio",
   "kind": "repo",
   "url": "https://github.com/agronholm/anyio",
@@ -28,8 +31,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/agronholm/anyio",
-    "sha": "104ef39010deb51a7059e05a69295aedc3f9db0e",
-    "file_url": "https://cdn.jsdelivr.net/gh/agronholm/anyio@104ef39010deb51a7059e05a69295aedc3f9db0e/{path}"
+    "sha": "706f8c675b6a2f298cd5111c9a9c55b1ea8542b4",
+    "file_url": "https://cdn.jsdelivr.net/gh/agronholm/anyio@706f8c675b6a2f298cd5111c9a9c55b1ea8542b4/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -37,7 +40,7 @@
     "stars": 2568,
     "size_mb": 3,
     "created_at": "2018-08-19T21:07:18Z",
-    "last_commit_at": "2026-11-11T09:51:52Z",
+    "last_commit_at": "2026-11-12T07:54:18Z",
     "releases": 25,
     "tags": 73,
     "archived": false,
@@ -60,7 +63,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "104ef39010deb51a7059e05a69295aedc3f9db0e",
+    "sha": "706f8c675b6a2f298cd5111c9a9c55b1ea8542b4",
     "v": 3
   }
 }

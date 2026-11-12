@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:472627dccd15cc2c71ec2d4dd673bf809275a657"
+    "swh": "swh:1:rev:3399e3ef2e339f6c64f7fc8d27eaed09662846a4"
   },
   "id": "gh:ag2ai/ag2",
   "kind": "repo",
@@ -30,13 +30,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ag2ai/ag2",
-    "sha": "472627dccd15cc2c71ec2d4dd673bf809275a657",
-    "file_url": "https://cdn.jsdelivr.net/gh/ag2ai/ag2@472627dccd15cc2c71ec2d4dd673bf809275a657/{path}"
+    "sha": "3399e3ef2e339f6c64f7fc8d27eaed09662846a4",
+    "file_url": "https://cdn.jsdelivr.net/gh/ag2ai/ag2@3399e3ef2e339f6c64f7fc8d27eaed09662846a4/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 5056,
+    "stars": 5060,
     "size_mb": 601,
     "created_at": "2024-11-11T20:43:34Z",
     "last_commit_at": "2026-11-10T20:53:57Z",
@@ -56,13 +56,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 11,
+    "star_delta_7d": 16,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "472627dccd15cc2c71ec2d4dd673bf809275a657",
+    "sha": "3399e3ef2e339f6c64f7fc8d27eaed09662846a4",
     "v": 3
   }
 }

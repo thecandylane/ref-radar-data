@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:2de9d509e8fd4e955f736538e8ba298533b49998"
-  },
   "id": "gh:heyputer/puter",
   "kind": "repo",
   "url": "https://github.com/HeyPuter/puter",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/HeyPuter/puter",
-    "sha": "2de9d509e8fd4e955f736538e8ba298533b49998",
-    "file_url": "https://cdn.jsdelivr.net/gh/HeyPuter/puter@2de9d509e8fd4e955f736538e8ba298533b49998/{path}"
+    "sha": "33988ac84c5e92fe7578885d6d195c3ddded1303",
+    "file_url": "https://cdn.jsdelivr.net/gh/HeyPuter/puter@33988ac84c5e92fe7578885d6d195c3ddded1303/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 44144,
+    "stars": 44151,
     "size_mb": 72,
     "created_at": "2024-03-03T01:44:32Z",
-    "last_commit_at": "2026-11-11T03:36:06Z",
+    "last_commit_at": "2026-11-12T03:16:13Z",
     "releases": 28,
     "tags": 31,
     "archived": false,
@@ -65,9 +62,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "2de9d509e8fd4e955f736538e8ba298533b49998",
-    "v": 3
-  }
+  "tier": "curated"
 }

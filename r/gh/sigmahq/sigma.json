@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:b5101297e45be7ddf6c4177558890be27ae82c92"
-  },
   "id": "gh:sigmahq/sigma",
   "kind": "repo",
   "url": "https://github.com/SigmaHQ/sigma",
@@ -27,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/SigmaHQ/sigma",
-    "sha": "b5101297e45be7ddf6c4177558890be27ae82c92",
-    "file_url": "https://cdn.jsdelivr.net/gh/SigmaHQ/sigma@b5101297e45be7ddf6c4177558890be27ae82c92/{path}"
+    "sha": "d7c9da10c170a6988d68ebdf2c9f7bd8782b7c55",
+    "file_url": "https://cdn.jsdelivr.net/gh/SigmaHQ/sigma@d7c9da10c170a6988d68ebdf2c9f7bd8782b7c55/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 11475,
+    "stars": 11481,
     "size_mb": 49,
     "created_at": "2016-12-24T09:48:49Z",
     "last_commit_at": "2026-11-10T02:32:19Z",
@@ -53,14 +50,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 73,
+    "star_delta_7d": 71,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "b5101297e45be7ddf6c4177558890be27ae82c92",
-    "v": 3
-  },
   "hot": true
 }

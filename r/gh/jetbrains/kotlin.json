@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d2e95092414e18996f2957c6f6f58687f16f68b4"
-  },
   "id": "gh:jetbrains/kotlin",
   "kind": "repo",
   "url": "https://github.com/JetBrains/kotlin",
@@ -27,18 +24,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/JetBrains/kotlin",
-    "sha": "d2e95092414e18996f2957c6f6f58687f16f68b4",
-    "file_url": "https://raw.githubusercontent.com/JetBrains/kotlin/d2e95092414e18996f2957c6f6f58687f16f68b4/{path}"
+    "sha": "9709c39b030a0298909835315cc90b83d752272d",
+    "file_url": "https://raw.githubusercontent.com/JetBrains/kotlin/9709c39b030a0298909835315cc90b83d752272d/{path}"
   },
   "facts": {
     "lang": "Kotlin",
     "license": "none",
-    "stars": 53564,
-    "size_mb": 4283,
+    "stars": 53563,
+    "size_mb": 4287,
     "created_at": "2012-02-13T17:29:58Z",
-    "last_commit_at": "2026-11-11T09:33:52Z",
-    "releases": 307,
-    "tags": 48326,
+    "last_commit_at": "2026-11-12T09:00:54Z",
+    "releases": 308,
+    "tags": 48362,
     "archived": false,
     "release": {
       "tag": "v2.4.21",
@@ -53,13 +50,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 31,
+    "star_delta_7d": 27,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "d2e95092414e18996f2957c6f6f58687f16f68b4",
-    "v": 3
-  }
+  "tier": "curated"
 }

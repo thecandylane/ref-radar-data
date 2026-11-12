@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a05f30c971ad5c291b9a5b2c688b43ee13ac0c13"
-  },
   "id": "gh:redis/redis",
   "kind": "repo",
   "url": "https://github.com/redis/redis",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/redis/redis",
-    "sha": "a05f30c971ad5c291b9a5b2c688b43ee13ac0c13",
-    "file_url": "https://cdn.jsdelivr.net/gh/redis/redis@a05f30c971ad5c291b9a5b2c688b43ee13ac0c13/{path}"
+    "sha": "5dd0f4e4727d0c4e1d6b3458fc35f134921fb039",
+    "file_url": "https://cdn.jsdelivr.net/gh/redis/redis@5dd0f4e4727d0c4e1d6b3458fc35f134921fb039/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 77401,
+    "stars": 77471,
     "size_mb": 216,
     "created_at": "2009-03-21T22:32:25Z",
-    "last_commit_at": "2026-11-11T10:22:45Z",
+    "last_commit_at": "2026-11-12T04:39:09Z",
     "releases": 164,
     "tags": 425,
     "archived": false,
@@ -61,14 +58,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 229,
+    "star_delta_7d": 272,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "a05f30c971ad5c291b9a5b2c688b43ee13ac0c13",
-    "v": 3
-  },
   "hot": true
 }

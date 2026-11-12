@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0801c36c7547841ea88a94f6e9cd02115005192a"
+  },
+  "id": "gh:ropensci/usaboundaries",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/USAboundaries",
+  "title": "USAboundaries",
+  "why": "R package serving historical and current state and county boundaries as spatial data, with most of the data in a separate package.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/USAboundaries",
+    "sha": "0801c36c7547841ea88a94f6e9cd02115005192a",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/USAboundaries@0801c36c7547841ea88a94f6e9cd02115005192a/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 68,
+    "size_mb": 17,
+    "created_at": "2014-10-09T21:41:11Z",
+    "last_commit_at": "2026-01-29T22:51:48Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.1",
+      "at": "2025-11-08T20:40:45.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0801c36c7547841ea88a94f6e9cd02115005192a",
+    "v": 3
+  }
+}

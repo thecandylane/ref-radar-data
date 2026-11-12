@@ -22,13 +22,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/peass-ng/PEASS-ng",
-    "sha": "6c7340b30f7a146b04d7549a9e6576ebe2e85d0d",
-    "file_url": "https://cdn.jsdelivr.net/gh/peass-ng/PEASS-ng@6c7340b30f7a146b04d7549a9e6576ebe2e85d0d/{path}"
+    "sha": "80cf64188ad45407f0baaaccb11278763182a872",
+    "file_url": "https://cdn.jsdelivr.net/gh/peass-ng/PEASS-ng@80cf64188ad45407f0baaaccb11278763182a872/{path}"
   },
   "facts": {
     "lang": "C#",
     "license": "NOASSERTION",
-    "stars": 20805,
+    "stars": 20812,
     "size_mb": 66,
     "created_at": "2019-01-13T19:58:24Z",
     "last_commit_at": "2026-11-09T13:59:08Z",
@@ -52,9 +52,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "6c7340b30f7a146b04d7549a9e6576ebe2e85d0d",
-    "v": 3
-  }
+  "tier": "curated"
 }

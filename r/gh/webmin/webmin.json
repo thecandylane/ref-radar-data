@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:792e4d3006a3522fe80d3cf2fffe149bf2227dfd"
-  },
   "id": "gh:webmin/webmin",
   "kind": "repo",
   "url": "https://github.com/webmin/webmin",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/webmin/webmin",
-    "sha": "792e4d3006a3522fe80d3cf2fffe149bf2227dfd",
-    "file_url": "https://cdn.jsdelivr.net/gh/webmin/webmin@792e4d3006a3522fe80d3cf2fffe149bf2227dfd/{path}"
+    "sha": "be9706ff6c6a58ca5a5f95220ad43d20aa339342",
+    "file_url": "https://cdn.jsdelivr.net/gh/webmin/webmin@be9706ff6c6a58ca5a5f95220ad43d20aa339342/{path}"
   },
   "facts": {
     "lang": "HTML",
     "license": "BSD-3-Clause",
-    "stars": 6133,
+    "stars": 6134,
     "size_mb": 121,
     "created_at": "2009-07-20T22:03:42Z",
-    "last_commit_at": "2026-11-11T05:42:59Z",
+    "last_commit_at": "2026-11-12T06:04:57Z",
     "releases": 97,
     "tags": 97,
     "archived": false,
@@ -59,9 +56,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "792e4d3006a3522fe80d3cf2fffe149bf2227dfd",
-    "v": 3
-  }
+  "tier": "curated"
 }

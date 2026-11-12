@@ -26,9 +26,6 @@
       "compromised"
     ]
   },
-  "archive": {
-    "swh": "swh:1:rev:2099086d8598731d70870437df4674ab2d9d2121"
-  },
   "id": "gh:unslothai/unsloth",
   "kind": "repo",
   "url": "https://github.com/unslothai/unsloth",
@@ -54,22 +51,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/unslothai/unsloth",
-    "sha": "2099086d8598731d70870437df4674ab2d9d2121",
-    "file_url": "https://raw.githubusercontent.com/unslothai/unsloth/2099086d8598731d70870437df4674ab2d9d2121/{path}"
+    "sha": "13ef43494732fbec65b1263ed4a8d0cb4b51a98c",
+    "file_url": "https://raw.githubusercontent.com/unslothai/unsloth/13ef43494732fbec65b1263ed4a8d0cb4b51a98c/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 79318,
-    "size_mb": 663,
+    "stars": 79360,
+    "size_mb": 666,
     "created_at": "2023-11-29T16:50:09Z",
-    "last_commit_at": "2026-11-11T10:30:46Z",
-    "releases": 86,
-    "tags": 113,
+    "last_commit_at": "2026-11-12T09:01:25Z",
+    "releases": 87,
+    "tags": 114,
     "archived": false,
     "release": {
-      "tag": "v0.1.916-beta",
-      "at": "2026-11-06T14:43:33.000Z"
+      "tag": "v0.1.917-beta",
+      "at": "2026-11-11T16:00:56.000Z"
     }
   },
   "reuse": "copy",
@@ -80,13 +77,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 280,
+    "star_delta_7d": 291,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "2099086d8598731d70870437df4674ab2d9d2121",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -26,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/google/sentencepiece",
-    "sha": "eafd99cf3b8bfa5101c2c5f42aab2cc39947938d",
-    "file_url": "https://cdn.jsdelivr.net/gh/google/sentencepiece@eafd99cf3b8bfa5101c2c5f42aab2cc39947938d/{path}"
+    "sha": "b85b750589487f545a752e0dd51df497ade6f4fc",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/sentencepiece@b85b750589487f545a752e0dd51df497ade6f4fc/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "Apache-2.0",
-    "stars": 12168,
+    "stars": 12169,
     "size_mb": 47,
     "created_at": "2017-03-07T10:03:48Z",
-    "last_commit_at": "2026-11-09T04:59:07Z",
+    "last_commit_at": "2026-11-11T16:18:04Z",
     "releases": 27,
     "tags": 29,
     "archived": false,
@@ -56,9 +56,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "eafd99cf3b8bfa5101c2c5f42aab2cc39947938d",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c9b12739f41d1f5d9bfcb4fa98e3c177f51c1938"
-  },
   "id": "gh:mermaid-js/mermaid",
   "kind": "repo",
   "url": "https://github.com/mermaid-js/mermaid",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/mermaid-js/mermaid",
-    "sha": "c9b12739f41d1f5d9bfcb4fa98e3c177f51c1938",
-    "file_url": "https://cdn.jsdelivr.net/gh/mermaid-js/mermaid@c9b12739f41d1f5d9bfcb4fa98e3c177f51c1938/{path}"
+    "sha": "49429b28c7fee068334bed4af50eaa2db89a990a",
+    "file_url": "https://cdn.jsdelivr.net/gh/mermaid-js/mermaid@49429b28c7fee068334bed4af50eaa2db89a990a/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 91075,
+    "stars": 91082,
     "size_mb": 277,
     "created_at": "2014-11-01T23:52:32Z",
     "last_commit_at": "2026-11-11T09:04:46Z",
@@ -57,13 +54,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 70,
+    "star_delta_7d": 64,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "c9b12739f41d1f5d9bfcb4fa98e3c177f51c1938",
-    "v": 3
-  }
+  "tier": "curated"
 }

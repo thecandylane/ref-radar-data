@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a4972181af1b0c4582362cdeae57d0f853937f53"
-  },
   "id": "gh:apache/avro",
   "kind": "repo",
   "url": "https://github.com/apache/avro",
@@ -25,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/avro",
-    "sha": "a4972181af1b0c4582362cdeae57d0f853937f53",
-    "file_url": "https://cdn.jsdelivr.net/gh/apache/avro@a4972181af1b0c4582362cdeae57d0f853937f53/{path}"
+    "sha": "08d2fd78286896beb922528c79e7a7d870fce504",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/avro@08d2fd78286896beb922528c79e7a7d870fce504/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 3313,
+    "stars": 3314,
     "size_mb": 76,
     "created_at": "2009-05-21T02:48:37Z",
-    "last_commit_at": "2026-11-10T18:07:32Z",
+    "last_commit_at": "2026-11-12T08:01:30Z",
     "releases": 23,
     "tags": 117,
     "archived": false,
@@ -51,13 +48,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 2,
+    "star_delta_7d": 3,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "a4972181af1b0c4582362cdeae57d0f853937f53",
+    "sha": "08d2fd78286896beb922528c79e7a7d870fce504",
     "v": 3
   }
 }

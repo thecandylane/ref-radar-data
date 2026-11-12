@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:0db9b3b504bcb0a7fa9cf001429869519afd3e9a"
-  },
   "id": "gh:serde-rs/serde",
   "kind": "repo",
   "url": "https://github.com/serde-rs/serde",
@@ -25,13 +22,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/serde-rs/serde",
-    "sha": "0db9b3b504bcb0a7fa9cf001429869519afd3e9a",
-    "file_url": "https://cdn.jsdelivr.net/gh/serde-rs/serde@0db9b3b504bcb0a7fa9cf001429869519afd3e9a/{path}"
+    "sha": "aa7913ad0211fef960df68e7812a6211145a888c",
+    "file_url": "https://cdn.jsdelivr.net/gh/serde-rs/serde@aa7913ad0211fef960df68e7812a6211145a888c/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 11073,
+    "stars": 10974,
     "size_mb": 9,
     "created_at": "2013-11-13T15:22:58Z",
     "last_commit_at": "2026-11-11T02:18:13Z",
@@ -51,14 +48,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 140,
+    "star_delta_7d": 40,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "0db9b3b504bcb0a7fa9cf001429869519afd3e9a",
-    "v": 3
-  },
   "hot": true
 }

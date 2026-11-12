@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:d3a071ce4c8bac3d539fbcb96221f464e7bed246"
+    "swh": "swh:1:rev:4cedad629677a957ea1cda532dbf3fa58ef42a82"
   },
   "id": "gh:gdamore/tcell",
   "kind": "repo",
@@ -29,8 +29,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/gdamore/tcell",
-    "sha": "d3a071ce4c8bac3d539fbcb96221f464e7bed246",
-    "file_url": "https://cdn.jsdelivr.net/gh/gdamore/tcell@d3a071ce4c8bac3d539fbcb96221f464e7bed246/{path}"
+    "sha": "4cedad629677a957ea1cda532dbf3fa58ef42a82",
+    "file_url": "https://cdn.jsdelivr.net/gh/gdamore/tcell@4cedad629677a957ea1cda532dbf3fa58ef42a82/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -55,13 +55,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 2,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "d3a071ce4c8bac3d539fbcb96221f464e7bed246",
-    "v": 3
-  }
+  "tier": "curated"
 }

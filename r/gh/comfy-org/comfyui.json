@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1332fabfcc507aa7c548cd5152071ed494c207e8"
-  },
   "id": "gh:comfy-org/comfyui",
   "kind": "repo",
   "url": "https://github.com/Comfy-Org/ComfyUI",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Comfy-Org/ComfyUI",
-    "sha": "1332fabfcc507aa7c548cd5152071ed494c207e8",
-    "file_url": "https://cdn.jsdelivr.net/gh/Comfy-Org/ComfyUI@1332fabfcc507aa7c548cd5152071ed494c207e8/{path}"
+    "sha": "c5751c81abe131202eea9e4c66d000589013dd0b",
+    "file_url": "https://cdn.jsdelivr.net/gh/Comfy-Org/ComfyUI@c5751c81abe131202eea9e4c66d000589013dd0b/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "GPL-3.0",
-    "stars": 146281,
-    "size_mb": 105,
+    "stars": 146436,
+    "size_mb": 106,
     "created_at": "2023-01-17T03:15:56Z",
-    "last_commit_at": "2026-11-11T05:42:39Z",
+    "last_commit_at": "2026-11-12T04:49:37Z",
     "releases": 166,
     "tags": 223,
     "archived": false,
@@ -63,7 +60,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "1332fabfcc507aa7c548cd5152071ed494c207e8",
+    "sha": "c5751c81abe131202eea9e4c66d000589013dd0b",
     "v": 3
   }
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d712d26a10f49e071174dcf70d405cf5f8e3a2c7"
-  },
   "id": "gh:apache/beam",
   "kind": "repo",
   "url": "https://github.com/apache/beam",
@@ -25,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/beam",
-    "sha": "d712d26a10f49e071174dcf70d405cf5f8e3a2c7",
-    "file_url": "https://raw.githubusercontent.com/apache/beam/d712d26a10f49e071174dcf70d405cf5f8e3a2c7/{path}"
+    "sha": "1878a5ba3aafe4b38c35eab08bdba0f20660d91d",
+    "file_url": "https://raw.githubusercontent.com/apache/beam/1878a5ba3aafe4b38c35eab08bdba0f20660d91d/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
     "stars": 8717,
-    "size_mb": 1094,
+    "size_mb": 1093,
     "created_at": "2016-02-02T08:00:06Z",
-    "last_commit_at": "2026-11-11T03:04:33Z",
+    "last_commit_at": "2026-11-12T03:00:00Z",
     "releases": 63,
     "tags": 501,
     "archived": false,
@@ -51,13 +48,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 12,
+    "star_delta_7d": 11,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "d712d26a10f49e071174dcf70d405cf5f8e3a2c7",
+    "sha": "1878a5ba3aafe4b38c35eab08bdba0f20660d91d",
     "v": 3
   }
 }

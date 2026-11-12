@@ -1,0 +1,57 @@
+{
+  "id": "gh:ibragim-bad/github-repos-metadata-40m",
+  "kind": "repo",
+  "url": "https://github.com/ibragim-bad/github-repos-metadata-40M",
+  "title": "github-repos-metadata-40M",
+  "why": "Metadata for 40M public GitHub repos with language, license and fork counts, loadable from Hugging Face, plus an exploration notebook.",
+  "keys": {
+    "races": [
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ibragim-bad/github-repos-metadata-40M",
+    "sha": "93fee669e22ef8b8b74ca0647ad0edfa19fcfc34",
+    "file_url": "https://cdn.jsdelivr.net/gh/ibragim-bad/github-repos-metadata-40M@93fee669e22ef8b8b74ca0647ad0edfa19fcfc34/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 25,
+    "size_mb": 0,
+    "created_at": "2025-09-01T18:44:20Z",
+    "last_commit_at": "2025-09-01T21:20:32Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "93fee669e22ef8b8b74ca0647ad0edfa19fcfc34",
+    "v": 3
+  }
+}

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:13665cf0b579c4901aee0ff1e6702a562c25af58"
-  },
   "id": "gh:flatpak/flatpak",
   "kind": "repo",
   "url": "https://github.com/flatpak/flatpak",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/flatpak/flatpak",
-    "sha": "13665cf0b579c4901aee0ff1e6702a562c25af58",
-    "file_url": "https://cdn.jsdelivr.net/gh/flatpak/flatpak@13665cf0b579c4901aee0ff1e6702a562c25af58/{path}"
+    "sha": "65a3909ba8b70c9ee6823dbe0c69ce4b45773cd3",
+    "file_url": "https://cdn.jsdelivr.net/gh/flatpak/flatpak@65a3909ba8b70c9ee6823dbe0c69ce4b45773cd3/{path}"
   },
   "facts": {
     "lang": "C",
@@ -57,13 +54,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 5,
+    "star_delta_7d": 3,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "13665cf0b579c4901aee0ff1e6702a562c25af58",
-    "v": 3
-  }
+  "tier": "curated"
 }

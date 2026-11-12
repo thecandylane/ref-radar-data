@@ -1,0 +1,59 @@
+{
+  "id": "gh:keeeeenw/microllama",
+  "kind": "repo",
+  "url": "https://github.com/keeeeenw/MicroLlama",
+  "title": "MicroLlama",
+  "why": "Trains a Llama-style model with 300M parameters from scratch on a $500 budget, with a script for running inference.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "ml/open-models"
+    ],
+    "lanes": [
+      "ml/training",
+      "ml/open-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/keeeeenw/MicroLlama",
+    "sha": "b462b504a37aa6c58c3a32df0e174fe50491f3b8",
+    "file_url": "https://cdn.jsdelivr.net/gh/keeeeenw/MicroLlama@b462b504a37aa6c58c3a32df0e174fe50491f3b8/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 170,
+    "size_mb": 0,
+    "created_at": "2024-03-28T06:57:42Z",
+    "last_commit_at": "2025-08-11T00:31:35Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b462b504a37aa6c58c3a32df0e174fe50491f3b8",
+    "v": 3
+  }
+}

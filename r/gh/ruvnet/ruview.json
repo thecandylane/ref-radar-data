@@ -26,18 +26,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ruvnet/RuView",
-    "sha": "5728b90949e60e3f908d996997d453147c1794e0",
-    "file_url": "https://cdn.jsdelivr.net/gh/ruvnet/RuView@5728b90949e60e3f908d996997d453147c1794e0/{path}"
+    "sha": "094e1400719ded1283c67d23b9c737f6738a3244",
+    "file_url": "https://cdn.jsdelivr.net/gh/ruvnet/RuView@094e1400719ded1283c67d23b9c737f6738a3244/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 103979,
-    "size_mb": 418,
+    "stars": 104102,
+    "size_mb": 419,
     "created_at": "2025-06-07T04:32:30Z",
-    "last_commit_at": "2026-11-11T05:17:17Z",
-    "releases": 388,
-    "tags": 392,
+    "last_commit_at": "2026-11-12T08:35:01Z",
+    "releases": 392,
+    "tags": 396,
     "archived": false,
     "release": {
       "tag": "ruview-harness-v0.9.2",
@@ -56,9 +56,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "5728b90949e60e3f908d996997d453147c1794e0",
-    "v": 3
-  }
+  "tier": "curated"
 }

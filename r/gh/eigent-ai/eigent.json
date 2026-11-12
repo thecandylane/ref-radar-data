@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:4958c94bd91faf4e0bfff270a971d4d1810fb6db"
-  },
   "id": "gh:eigent-ai/eigent",
   "kind": "repo",
   "url": "https://github.com/eigent-ai/eigent",
@@ -37,13 +34,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/eigent-ai/eigent",
-    "sha": "4958c94bd91faf4e0bfff270a971d4d1810fb6db",
-    "file_url": "https://cdn.jsdelivr.net/gh/eigent-ai/eigent@4958c94bd91faf4e0bfff270a971d4d1810fb6db/{path}"
+    "sha": "00825125050a58dbae4248a4af3b7eabecf96dd4",
+    "file_url": "https://cdn.jsdelivr.net/gh/eigent-ai/eigent@00825125050a58dbae4248a4af3b7eabecf96dd4/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 15802,
+    "stars": 15807,
     "size_mb": 172,
     "created_at": "2025-07-29T15:56:02Z",
     "last_commit_at": "2026-11-10T14:38:18Z",
@@ -63,13 +60,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 68,
+    "star_delta_7d": 59,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "4958c94bd91faf4e0bfff270a971d4d1810fb6db",
+    "sha": "00825125050a58dbae4248a4af3b7eabecf96dd4",
     "v": 3
   }
 }

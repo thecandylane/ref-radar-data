@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d64b137ad02f0775729addb152d9ad5bb0d9960b"
-  },
   "id": "gh:arthursonzogni/ftxui",
   "kind": "repo",
   "url": "https://github.com/ArthurSonzogni/FTXUI",
@@ -29,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ArthurSonzogni/FTXUI",
-    "sha": "d64b137ad02f0775729addb152d9ad5bb0d9960b",
-    "file_url": "https://cdn.jsdelivr.net/gh/ArthurSonzogni/FTXUI@d64b137ad02f0775729addb152d9ad5bb0d9960b/{path}"
+    "sha": "fa2ae5b8f02507e409e53e60e130aafa3c145505",
+    "file_url": "https://cdn.jsdelivr.net/gh/ArthurSonzogni/FTXUI@fa2ae5b8f02507e409e53e60e130aafa3c145505/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 10883,
+    "stars": 10887,
     "size_mb": 104,
     "created_at": "2019-01-27T16:06:20Z",
     "last_commit_at": "2026-11-07T10:08:46Z",
@@ -55,13 +52,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 21,
+    "star_delta_7d": 22,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "d64b137ad02f0775729addb152d9ad5bb0d9960b",
+    "sha": "fa2ae5b8f02507e409e53e60e130aafa3c145505",
     "v": 3
   }
 }

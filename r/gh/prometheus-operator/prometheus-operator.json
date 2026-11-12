@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c47c772538ef7836e5663230baefe6e8923960d5"
-  },
   "id": "gh:prometheus-operator/prometheus-operator",
   "kind": "repo",
   "url": "https://github.com/prometheus-operator/prometheus-operator",
@@ -39,8 +36,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/prometheus-operator/prometheus-operator",
-    "sha": "c47c772538ef7836e5663230baefe6e8923960d5",
-    "file_url": "https://cdn.jsdelivr.net/gh/prometheus-operator/prometheus-operator@c47c772538ef7836e5663230baefe6e8923960d5/{path}"
+    "sha": "143bdd0288878bd6c36179d8350ad053f992c77b",
+    "file_url": "https://cdn.jsdelivr.net/gh/prometheus-operator/prometheus-operator@143bdd0288878bd6c36179d8350ad053f992c77b/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -48,7 +45,7 @@
     "stars": 9995,
     "size_mb": 176,
     "created_at": "2016-09-22T21:38:06Z",
-    "last_commit_at": "2026-11-11T01:15:46Z",
+    "last_commit_at": "2026-11-12T05:58:01Z",
     "releases": 175,
     "tags": 393,
     "archived": false,
@@ -69,9 +66,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "c47c772538ef7836e5663230baefe6e8923960d5",
-    "v": 3
-  }
+  "tier": "curated"
 }

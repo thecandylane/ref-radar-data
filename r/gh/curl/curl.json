@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:155f6f76c7ba9d19b5656c4ab1f320a949a3ca4c"
-  },
   "id": "gh:curl/curl",
   "kind": "repo",
   "url": "https://github.com/curl/curl",
@@ -33,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/curl/curl",
-    "sha": "155f6f76c7ba9d19b5656c4ab1f320a949a3ca4c",
-    "file_url": "https://cdn.jsdelivr.net/gh/curl/curl@155f6f76c7ba9d19b5656c4ab1f320a949a3ca4c/{path}"
+    "sha": "ffdd9270432ab27e0f7d0879b4235e6d69ac39af",
+    "file_url": "https://cdn.jsdelivr.net/gh/curl/curl@ffdd9270432ab27e0f7d0879b4235e6d69ac39af/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 43470,
+    "stars": 43491,
     "size_mb": 148,
     "created_at": "2010-03-18T22:32:22Z",
-    "last_commit_at": "2026-11-10T18:28:07Z",
+    "last_commit_at": "2026-11-12T02:17:24Z",
     "releases": 99,
     "tags": 220,
     "archived": false,
@@ -65,7 +62,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "155f6f76c7ba9d19b5656c4ab1f320a949a3ca4c",
+    "sha": "ffdd9270432ab27e0f7d0879b4235e6d69ac39af",
     "v": 3
   }
 }

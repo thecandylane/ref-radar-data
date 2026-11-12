@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1a767da5e58467ab8fbc2407b600b7632033dbc5"
-  },
   "id": "gh:ultralytics/ultralytics",
   "kind": "repo",
   "url": "https://github.com/ultralytics/ultralytics",
@@ -27,22 +24,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ultralytics/ultralytics",
-    "sha": "1a767da5e58467ab8fbc2407b600b7632033dbc5",
-    "file_url": "https://cdn.jsdelivr.net/gh/ultralytics/ultralytics@1a767da5e58467ab8fbc2407b600b7632033dbc5/{path}"
+    "sha": "a47b02d0d6f17922df3322382fd86cc5a700ba54",
+    "file_url": "https://cdn.jsdelivr.net/gh/ultralytics/ultralytics@a47b02d0d6f17922df3322382fd86cc5a700ba54/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "AGPL-3.0",
-    "stars": 63293,
+    "stars": 63319,
     "size_mb": 65,
     "created_at": "2022-09-11T16:39:45Z",
-    "last_commit_at": "2026-11-11T04:30:03Z",
-    "releases": 538,
-    "tags": 829,
+    "last_commit_at": "2026-11-12T08:06:34Z",
+    "releases": 539,
+    "tags": 830,
     "archived": false,
     "release": {
-      "tag": "v8.4.210",
-      "at": "2026-11-10T23:13:22.000Z"
+      "tag": "v8.4.211",
+      "at": "2026-11-11T23:09:15.000Z"
     }
   },
   "reuse": "copyleft",
@@ -53,14 +50,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 183,
+    "star_delta_7d": 175,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "1a767da5e58467ab8fbc2407b600b7632033dbc5",
-    "v": 3
-  },
   "hot": true
 }

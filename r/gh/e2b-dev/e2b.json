@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:b1f9a3e1ad88151dca200e3f925b8b01182ee445"
-  },
   "id": "gh:e2b-dev/e2b",
   "kind": "repo",
   "url": "https://github.com/e2b-dev/E2B",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/e2b-dev/E2B",
-    "sha": "b1f9a3e1ad88151dca200e3f925b8b01182ee445",
-    "file_url": "https://cdn.jsdelivr.net/gh/e2b-dev/E2B@b1f9a3e1ad88151dca200e3f925b8b01182ee445/{path}"
+    "sha": "678d5799033dc51e4d088e597445cae38f732d0a",
+    "file_url": "https://cdn.jsdelivr.net/gh/e2b-dev/E2B@678d5799033dc51e4d088e597445cae38f732d0a/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 14806,
+    "stars": 14820,
     "size_mb": 128,
     "created_at": "2023-03-04T13:41:18Z",
-    "last_commit_at": "2026-11-10T16:44:38Z",
+    "last_commit_at": "2026-11-11T14:41:11Z",
     "releases": 675,
     "tags": 783,
     "archived": false,
@@ -57,13 +54,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 100,
+    "star_delta_7d": 101,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "b1f9a3e1ad88151dca200e3f925b8b01182ee445",
+    "sha": "678d5799033dc51e4d088e597445cae38f732d0a",
     "v": 3
   }
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:782bd43f9f61788a1901fcc4e5486758491d387f"
-  },
   "id": "gh:agentscope-ai/agentscope",
   "kind": "repo",
   "url": "https://github.com/agentscope-ai/agentscope",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/agentscope-ai/agentscope",
-    "sha": "782bd43f9f61788a1901fcc4e5486758491d387f",
-    "file_url": "https://cdn.jsdelivr.net/gh/agentscope-ai/agentscope@782bd43f9f61788a1901fcc4e5486758491d387f/{path}"
+    "sha": "0bcf2ad6b95b5af43b618776afb78b783555f358",
+    "file_url": "https://cdn.jsdelivr.net/gh/agentscope-ai/agentscope@0bcf2ad6b95b5af43b618776afb78b783555f358/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 35789,
+    "stars": 35852,
     "size_mb": 67,
     "created_at": "2024-01-12T03:41:59Z",
-    "last_commit_at": "2026-11-11T09:47:33Z",
+    "last_commit_at": "2026-11-12T06:25:12Z",
     "releases": 51,
     "tags": 51,
     "archived": false,
@@ -57,13 +54,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 434,
+    "star_delta_7d": 449,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "782bd43f9f61788a1901fcc4e5486758491d387f",
+    "sha": "0bcf2ad6b95b5af43b618776afb78b783555f358",
     "v": 3
   },
   "hot": true

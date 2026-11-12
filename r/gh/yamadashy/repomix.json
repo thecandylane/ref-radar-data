@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:758c3d716907abff2b902aff0447c347e455a2da"
+  },
   "id": "gh:yamadashy/repomix",
   "kind": "repo",
   "url": "https://github.com/yamadashy/repomix",
@@ -30,13 +33,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/yamadashy/repomix",
-    "sha": "41f052b87fb80e07a90bcc974d3d2817bb8e4085",
-    "file_url": "https://cdn.jsdelivr.net/gh/yamadashy/repomix@41f052b87fb80e07a90bcc974d3d2817bb8e4085/{path}"
+    "sha": "758c3d716907abff2b902aff0447c347e455a2da",
+    "file_url": "https://cdn.jsdelivr.net/gh/yamadashy/repomix@758c3d716907abff2b902aff0447c347e455a2da/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 29227,
+    "stars": 29240,
     "size_mb": 30,
     "created_at": "2024-07-13T07:11:32Z",
     "last_commit_at": "2026-11-08T08:54:08Z",
@@ -60,9 +63,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "41f052b87fb80e07a90bcc974d3d2817bb8e4085",
-    "v": 3
-  }
+  "tier": "curated"
 }

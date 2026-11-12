@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:8822a433872ed3ac7563556c417da66e73544514"
+    "swh": "swh:1:rev:503d8e875623dcc3c1482370c4cd54579b9fa5ce"
   },
   "id": "gh:onevcat/kingfisher",
   "kind": "repo",
@@ -25,8 +25,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/onevcat/Kingfisher",
-    "sha": "8822a433872ed3ac7563556c417da66e73544514",
-    "file_url": "https://cdn.jsdelivr.net/gh/onevcat/Kingfisher@8822a433872ed3ac7563556c417da66e73544514/{path}"
+    "sha": "503d8e875623dcc3c1482370c4cd54579b9fa5ce",
+    "file_url": "https://cdn.jsdelivr.net/gh/onevcat/Kingfisher@503d8e875623dcc3c1482370c4cd54579b9fa5ce/{path}"
   },
   "facts": {
     "lang": "Swift",
@@ -55,9 +55,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "8822a433872ed3ac7563556c417da66e73544514",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -28,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/langchain-ai/langchainjs",
-    "sha": "fb6179926d70c76cc81a238aed4f2ad8c9531d4b",
-    "file_url": "https://cdn.jsdelivr.net/gh/langchain-ai/langchainjs@fb6179926d70c76cc81a238aed4f2ad8c9531d4b/{path}"
+    "sha": "609cc465dfa82d995be3200291ebb922a10944ea",
+    "file_url": "https://cdn.jsdelivr.net/gh/langchain-ai/langchainjs@609cc465dfa82d995be3200291ebb922a10944ea/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -37,13 +37,13 @@
     "stars": 18341,
     "size_mb": 690,
     "created_at": "2023-02-06T22:50:27Z",
-    "last_commit_at": "2026-11-11T05:43:21Z",
+    "last_commit_at": "2026-11-11T21:59:14Z",
     "releases": 1000,
-    "tags": 1563,
+    "tags": 1578,
     "archived": false,
     "release": {
-      "tag": "@langchain/neo4j@0.1.32",
-      "at": "2026-11-10T18:39:58.000Z"
+      "tag": "@langchain/neo4j@0.1.33",
+      "at": "2026-11-11T22:03:16.000Z"
     }
   },
   "reuse": "copy",
@@ -54,13 +54,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 22,
+    "star_delta_7d": 20,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "fb6179926d70c76cc81a238aed4f2ad8c9531d4b",
-    "v": 3
-  }
+  "tier": "curated"
 }

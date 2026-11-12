@@ -1,0 +1,57 @@
+{
+  "id": "gh:emmanuel-ferdman/gh-gonest",
+  "kind": "repo",
+  "url": "https://github.com/emmanuel-ferdman/gh-gonest",
+  "title": "gh-gonest",
+  "why": "Clears ghost notifications left behind by banned or deleted GitHub repos, as a gh extension written in Shell.",
+  "keys": {
+    "races": [
+      "dev-tools/vcs"
+    ],
+    "lanes": [
+      "dev-tools/vcs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/emmanuel-ferdman/gh-gonest",
+    "sha": "5e9df184e59c7ccfef269f6629c4eba1da86b7bf",
+    "file_url": "https://cdn.jsdelivr.net/gh/emmanuel-ferdman/gh-gonest@5e9df184e59c7ccfef269f6629c4eba1da86b7bf/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "MIT",
+    "stars": 119,
+    "size_mb": 0,
+    "created_at": "2025-09-23T21:40:49Z",
+    "last_commit_at": "2026-08-31T00:18:35Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5e9df184e59c7ccfef269f6629c4eba1da86b7bf",
+    "v": 3
+  }
+}

@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:a8f00488f3be0d6f8a967585848bb3817a590e31"
+    "swh": "swh:1:rev:a0e3f9bc69fed2fd711bd1f1aa87a40c33482fe6"
   },
   "id": "gh:redcanaryco/atomic-red-team",
   "kind": "repo",
@@ -27,13 +27,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/redcanaryco/atomic-red-team",
-    "sha": "a8f00488f3be0d6f8a967585848bb3817a590e31",
-    "file_url": "https://raw.githubusercontent.com/redcanaryco/atomic-red-team/a8f00488f3be0d6f8a967585848bb3817a590e31/{path}"
+    "sha": "a0e3f9bc69fed2fd711bd1f1aa87a40c33482fe6",
+    "file_url": "https://raw.githubusercontent.com/redcanaryco/atomic-red-team/a0e3f9bc69fed2fd711bd1f1aa87a40c33482fe6/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "MIT",
-    "stars": 12828,
+    "stars": 12835,
     "size_mb": 614,
     "created_at": "2017-10-11T17:23:32Z",
     "last_commit_at": "2026-11-06T23:36:18Z",
@@ -50,14 +50,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 60,
+    "star_delta_7d": 62,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "a8f00488f3be0d6f8a967585848bb3817a590e31",
-    "v": 3
-  },
   "hot": true
 }

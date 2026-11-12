@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:686abfe751a7cb0fb21e29d6999119ec80e2bb8f"
-  },
   "id": "gh:valkey-io/valkey",
   "kind": "repo",
   "url": "https://github.com/valkey-io/valkey",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/valkey-io/valkey",
-    "sha": "686abfe751a7cb0fb21e29d6999119ec80e2bb8f",
-    "file_url": "https://cdn.jsdelivr.net/gh/valkey-io/valkey@686abfe751a7cb0fb21e29d6999119ec80e2bb8f/{path}"
+    "sha": "6f6ec61c235a25d07f89d47cf452456f1f069bcf",
+    "file_url": "https://cdn.jsdelivr.net/gh/valkey-io/valkey@6f6ec61c235a25d07f89d47cf452456f1f069bcf/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "BSD-3-Clause",
-    "stars": 27681,
-    "size_mb": 282,
+    "stars": 27700,
+    "size_mb": 284,
     "created_at": "2024-03-22T00:42:17Z",
-    "last_commit_at": "2026-11-10T19:39:37Z",
+    "last_commit_at": "2026-11-11T22:17:33Z",
     "releases": 61,
     "tags": 62,
     "archived": false,
@@ -55,13 +52,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 75,
+    "star_delta_7d": 80,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "686abfe751a7cb0fb21e29d6999119ec80e2bb8f",
-    "v": 3
-  }
+  "hot": true
 }

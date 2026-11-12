@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:f6e39597b5eb47362da90bfcb8f84113df43e5a5"
-  },
   "id": "gh:jemalloc/jemalloc",
   "kind": "repo",
   "url": "https://github.com/jemalloc/jemalloc",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/jemalloc/jemalloc",
-    "sha": "f6e39597b5eb47362da90bfcb8f84113df43e5a5",
-    "file_url": "https://cdn.jsdelivr.net/gh/jemalloc/jemalloc@f6e39597b5eb47362da90bfcb8f84113df43e5a5/{path}"
+    "sha": "3394137ec79bfb63cc4408d169ceacc0616f1515",
+    "file_url": "https://cdn.jsdelivr.net/gh/jemalloc/jemalloc@3394137ec79bfb63cc4408d169ceacc0616f1515/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 11261,
+    "stars": 11262,
     "size_mb": 14,
     "created_at": "2013-10-03T21:37:32Z",
-    "last_commit_at": "2026-11-11T01:24:46Z",
+    "last_commit_at": "2026-11-11T23:32:37Z",
     "releases": 47,
     "tags": 48,
     "archived": false,
@@ -59,9 +56,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "f6e39597b5eb47362da90bfcb8f84113df43e5a5",
-    "v": 3
-  }
+  "tier": "curated"
 }

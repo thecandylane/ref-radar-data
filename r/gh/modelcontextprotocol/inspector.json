@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:488c30d9d16e4993bc548ad298eb7450f5125c93"
+  },
   "id": "gh:modelcontextprotocol/inspector",
   "kind": "repo",
   "url": "https://github.com/modelcontextprotocol/inspector",
@@ -26,22 +29,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/modelcontextprotocol/inspector",
-    "sha": "4d3464cb3a6dde609d7b5ac24c440b947eb40f23",
-    "file_url": "https://cdn.jsdelivr.net/gh/modelcontextprotocol/inspector@4d3464cb3a6dde609d7b5ac24c440b947eb40f23/{path}"
+    "sha": "488c30d9d16e4993bc548ad298eb7450f5125c93",
+    "file_url": "https://cdn.jsdelivr.net/gh/modelcontextprotocol/inspector@488c30d9d16e4993bc548ad298eb7450f5125c93/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 11272,
-    "size_mb": 37,
+    "stars": 11281,
+    "size_mb": 35,
     "created_at": "2024-10-03T21:47:42Z",
-    "last_commit_at": "2026-11-04T22:56:35Z",
-    "releases": 75,
-    "tags": 97,
+    "last_commit_at": "2026-11-12T00:40:59Z",
+    "releases": 77,
+    "tags": 99,
     "archived": false,
     "release": {
-      "tag": "2.14.0",
-      "at": "2026-11-04T23:55:33.000Z"
+      "tag": "2.15.0",
+      "at": "2026-11-12T00:46:29.000Z"
     }
   },
   "reuse": "study",
@@ -52,14 +55,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 48,
+    "star_delta_7d": 43,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "4d3464cb3a6dde609d7b5ac24c440b947eb40f23",
-    "v": 3
-  },
   "hot": true
 }

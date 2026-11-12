@@ -24,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/stamparm/maltrail",
-    "sha": "f376c15f3ddd2ec51f90bd6a42e63f00ddb7247e",
-    "file_url": "https://cdn.jsdelivr.net/gh/stamparm/maltrail@f376c15f3ddd2ec51f90bd6a42e63f00ddb7247e/{path}"
+    "sha": "c9a2e9895e8acce74a4259f9f1efa71e834617e1",
+    "file_url": "https://cdn.jsdelivr.net/gh/stamparm/maltrail@c9a2e9895e8acce74a4259f9f1efa71e834617e1/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -50,13 +50,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8,
+    "star_delta_7d": 3,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "f376c15f3ddd2ec51f90bd6a42e63f00ddb7247e",
-    "v": 3
-  }
+  "tier": "curated"
 }

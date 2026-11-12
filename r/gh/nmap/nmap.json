@@ -24,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/nmap/nmap",
-    "sha": "8b515f26b8beffd11daaaaac160309f5abe3d39f",
-    "file_url": "https://cdn.jsdelivr.net/gh/nmap/nmap@8b515f26b8beffd11daaaaac160309f5abe3d39f/{path}"
+    "sha": "68739db8e4ec139c3865a33073c76c6fd13fb96c",
+    "file_url": "https://cdn.jsdelivr.net/gh/nmap/nmap@68739db8e4ec139c3865a33073c76c6fd13fb96c/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 13971,
-    "size_mb": 118,
+    "stars": 13977,
+    "size_mb": 119,
     "created_at": "2012-03-09T14:47:43Z",
-    "last_commit_at": "2026-11-09T02:38:41Z",
+    "last_commit_at": "2026-11-12T02:52:42Z",
     "releases": 0,
     "tags": 2,
     "archived": false,
@@ -47,13 +47,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 45,
+    "star_delta_7d": 44,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "8b515f26b8beffd11daaaaac160309f5abe3d39f",
-    "v": 3
-  }
+  "tier": "curated"
 }

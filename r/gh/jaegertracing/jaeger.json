@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d723f91447f29a345c288f37eb8d1ce7807bc0be"
-  },
   "id": "gh:jaegertracing/jaeger",
   "kind": "repo",
   "url": "https://github.com/jaegertracing/jaeger",
@@ -39,16 +36,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/jaegertracing/jaeger",
-    "sha": "d723f91447f29a345c288f37eb8d1ce7807bc0be",
-    "file_url": "https://cdn.jsdelivr.net/gh/jaegertracing/jaeger@d723f91447f29a345c288f37eb8d1ce7807bc0be/{path}"
+    "sha": "09d3e960f6f009b21be06a8a541587bb27a0ffcb",
+    "file_url": "https://cdn.jsdelivr.net/gh/jaegertracing/jaeger@09d3e960f6f009b21be06a8a541587bb27a0ffcb/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 23396,
+    "stars": 23402,
     "size_mb": 45,
     "created_at": "2016-04-15T18:49:02Z",
-    "last_commit_at": "2026-11-10T17:10:11Z",
+    "last_commit_at": "2026-11-11T10:47:45Z",
     "releases": 111,
     "tags": 129,
     "archived": false,
@@ -65,13 +62,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 27,
+    "star_delta_7d": 24,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "d723f91447f29a345c288f37eb8d1ce7807bc0be",
-    "v": 3
-  }
+  "tier": "curated"
 }

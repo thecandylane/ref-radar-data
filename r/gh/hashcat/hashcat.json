@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:19395a0459e1ee72f214f969b67c60dbf425a623"
-  },
   "id": "gh:hashcat/hashcat",
   "kind": "repo",
   "url": "https://github.com/hashcat/hashcat",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/hashcat/hashcat",
-    "sha": "19395a0459e1ee72f214f969b67c60dbf425a623",
-    "file_url": "https://cdn.jsdelivr.net/gh/hashcat/hashcat@19395a0459e1ee72f214f969b67c60dbf425a623/{path}"
+    "sha": "3b7dc822a20db5c27abd56b14931839f8661f951",
+    "file_url": "https://cdn.jsdelivr.net/gh/hashcat/hashcat@3b7dc822a20db5c27abd56b14931839f8661f951/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "none",
-    "stars": 27319,
+    "stars": 27330,
     "size_mb": 184,
     "created_at": "2015-12-04T14:46:51Z",
-    "last_commit_at": "2026-11-11T07:58:54Z",
+    "last_commit_at": "2026-11-12T08:47:07Z",
     "releases": 29,
     "tags": 32,
     "archived": false,
@@ -60,9 +57,5 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "19395a0459e1ee72f214f969b67c60dbf425a623",
-    "v": 3
-  },
   "hot": true
 }

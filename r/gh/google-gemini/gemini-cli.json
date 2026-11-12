@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1fe22af5f800d8c3024e9968d35bb75bd09e6b79"
-  },
   "id": "gh:google-gemini/gemini-cli",
   "kind": "repo",
   "url": "https://github.com/google-gemini/gemini-cli",
@@ -34,16 +31,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/google-gemini/gemini-cli",
-    "sha": "1fe22af5f800d8c3024e9968d35bb75bd09e6b79",
-    "file_url": "https://cdn.jsdelivr.net/gh/google-gemini/gemini-cli@1fe22af5f800d8c3024e9968d35bb75bd09e6b79/{path}"
+    "sha": "aeb6c04b093eb00c33585ba587c4889ae4c5e957",
+    "file_url": "https://cdn.jsdelivr.net/gh/google-gemini/gemini-cli@aeb6c04b093eb00c33585ba587c4889ae4c5e957/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 108772,
+    "stars": 108791,
     "size_mb": 103,
     "created_at": "2025-04-17T17:04:31Z",
-    "last_commit_at": "2026-11-10T21:44:52Z",
+    "last_commit_at": "2026-11-11T21:16:26Z",
     "releases": 687,
     "tags": 705,
     "archived": false,
@@ -60,13 +57,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 55,
+    "star_delta_7d": 58,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "1fe22af5f800d8c3024e9968d35bb75bd09e6b79",
-    "v": 3
-  }
+  "tier": "curated"
 }

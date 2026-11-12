@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:0d7f9b323ec71c2f359c8e490a13a57e7b1a0f53"
-  },
   "id": "gh:rustls/rustls",
   "kind": "repo",
   "url": "https://github.com/rustls/rustls",
@@ -25,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/rustls/rustls",
-    "sha": "0d7f9b323ec71c2f359c8e490a13a57e7b1a0f53",
-    "file_url": "https://cdn.jsdelivr.net/gh/rustls/rustls@0d7f9b323ec71c2f359c8e490a13a57e7b1a0f53/{path}"
+    "sha": "f68d6d296759bb002c462b402401f2cf295b92da",
+    "file_url": "https://cdn.jsdelivr.net/gh/rustls/rustls@f68d6d296759bb002c462b402401f2cf295b92da/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "NOASSERTION",
-    "stars": 7751,
+    "stars": 7758,
     "size_mb": 21,
     "created_at": "2016-05-02T20:50:44Z",
-    "last_commit_at": "2026-11-11T09:30:04Z",
+    "last_commit_at": "2026-11-11T17:18:41Z",
     "releases": 112,
     "tags": 118,
     "archived": false,
@@ -55,9 +52,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "0d7f9b323ec71c2f359c8e490a13a57e7b1a0f53",
-    "v": 3
-  }
+  "tier": "curated"
 }

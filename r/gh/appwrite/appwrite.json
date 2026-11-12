@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:42b182d625fd2b807464215f211ae3ebc74609df"
-  },
   "id": "gh:appwrite/appwrite",
   "kind": "repo",
   "url": "https://github.com/appwrite/appwrite",
@@ -43,18 +40,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/appwrite/appwrite",
-    "sha": "42b182d625fd2b807464215f211ae3ebc74609df",
-    "file_url": "https://raw.githubusercontent.com/appwrite/appwrite/42b182d625fd2b807464215f211ae3ebc74609df/{path}"
+    "sha": "44144cd6095493cdfcf4d7e02fc496b9f4cf281e",
+    "file_url": "https://raw.githubusercontent.com/appwrite/appwrite/44144cd6095493cdfcf4d7e02fc496b9f4cf281e/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "BSD-3-Clause",
-    "stars": 57979,
-    "size_mb": 1155,
+    "stars": 58056,
+    "size_mb": 1156,
     "created_at": "2019-04-08T16:36:25Z",
-    "last_commit_at": "2026-11-11T09:05:00Z",
+    "last_commit_at": "2026-11-12T09:01:59Z",
     "releases": 150,
-    "tags": 687,
+    "tags": 692,
     "archived": false,
     "release": {
       "tag": "2.7.1",
@@ -69,13 +66,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 119,
+    "star_delta_7d": 193,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "42b182d625fd2b807464215f211ae3ebc74609df",
+    "sha": "44144cd6095493cdfcf4d7e02fc496b9f4cf281e",
     "v": 3
   },
   "hot": true

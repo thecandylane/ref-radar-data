@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:2aeff7b59a932039f24e988bb2251e8a8f6f3a11"
-  },
   "id": "gh:bdwgc/bdwgc",
   "kind": "repo",
   "url": "https://github.com/bdwgc/bdwgc",
@@ -27,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/bdwgc/bdwgc",
-    "sha": "2aeff7b59a932039f24e988bb2251e8a8f6f3a11",
-    "file_url": "https://cdn.jsdelivr.net/gh/bdwgc/bdwgc@2aeff7b59a932039f24e988bb2251e8a8f6f3a11/{path}"
+    "sha": "a2cb16122afd8920c19187580c1c6cfd87e58f25",
+    "file_url": "https://cdn.jsdelivr.net/gh/bdwgc/bdwgc@a2cb16122afd8920c19187580c1c6cfd87e58f25/{path}"
   },
   "facts": {
     "lang": "C",
@@ -59,7 +56,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "2aeff7b59a932039f24e988bb2251e8a8f6f3a11",
+    "sha": "a2cb16122afd8920c19187580c1c6cfd87e58f25",
     "v": 3
   }
 }

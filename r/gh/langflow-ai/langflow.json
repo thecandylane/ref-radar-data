@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:60999cc9a7350e44dde3ef641baae864e10861f0"
-  },
   "id": "gh:langflow-ai/langflow",
   "kind": "repo",
   "url": "https://github.com/langflow-ai/langflow",
@@ -31,18 +28,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/langflow-ai/langflow",
-    "sha": "60999cc9a7350e44dde3ef641baae864e10861f0",
-    "file_url": "https://raw.githubusercontent.com/langflow-ai/langflow/60999cc9a7350e44dde3ef641baae864e10861f0/{path}"
+    "sha": "2cf9ce808afa6ad3f41aa5f6b47bdcb1927cde84",
+    "file_url": "https://raw.githubusercontent.com/langflow-ai/langflow/2cf9ce808afa6ad3f41aa5f6b47bdcb1927cde84/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 156519,
-    "size_mb": 1684,
+    "stars": 156558,
+    "size_mb": 1682,
     "created_at": "2023-02-08T22:28:03Z",
-    "last_commit_at": "2026-11-11T04:37:37Z",
+    "last_commit_at": "2026-11-11T15:18:03Z",
     "releases": 320,
-    "tags": 1225,
+    "tags": 1226,
     "archived": false,
     "release": {
       "tag": "v1.13.2",
@@ -61,9 +58,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "60999cc9a7350e44dde3ef641baae864e10861f0",
-    "v": 3
-  }
+  "tier": "curated"
 }

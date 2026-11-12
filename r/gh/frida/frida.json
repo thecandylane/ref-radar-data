@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:fc20a97184f0f06f38826886048b6af3f6142582"
-  },
   "id": "gh:frida/frida",
   "kind": "repo",
   "url": "https://github.com/frida/frida",
@@ -25,13 +22,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/frida/frida",
-    "sha": "fc20a97184f0f06f38826886048b6af3f6142582",
-    "file_url": "https://cdn.jsdelivr.net/gh/frida/frida@fc20a97184f0f06f38826886048b6af3f6142582/{path}"
+    "sha": "9025c2b99f1e589db40991af9985a516cf80f88a",
+    "file_url": "https://cdn.jsdelivr.net/gh/frida/frida@9025c2b99f1e589db40991af9985a516cf80f88a/{path}"
   },
   "facts": {
     "lang": "Meson",
     "license": "NOASSERTION",
-    "stars": 22748,
+    "stars": 22761,
     "size_mb": 21,
     "created_at": "2013-04-12T22:35:05Z",
     "last_commit_at": "2026-11-09T21:04:16Z",
@@ -51,13 +48,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 101,
+    "star_delta_7d": 104,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "fc20a97184f0f06f38826886048b6af3f6142582",
-    "v": 3
-  }
+  "tier": "curated"
 }

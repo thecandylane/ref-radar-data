@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T11:03:50.892Z",
+  "generated_at": "2026-11-12T11:41:12.751Z",
   "nodes": [
     {
       "key": "agents",
@@ -367,6 +367,20 @@
       "parent": "agents/tools",
       "level": "capability",
       "label": "Web and social access"
+    },
+    {
+      "key": "biology",
+      "parent": null,
+      "level": "domain",
+      "label": "Biology and life sciences",
+      "discipline": "science"
+    },
+    {
+      "key": "biology/bioinformatics",
+      "parent": "biology",
+      "level": "race",
+      "label": "Bioinformatics and genomics",
+      "scope": "in: sequencing reads, gene expression, single-cell, cytometry, proteomics and phylogenetics analysis / out: molecular dynamics and quantum chemistry see engineering/chemistry"
     },
     {
       "key": "cyber",
@@ -1425,6 +1439,20 @@
       "scope": "in: SRE, chaos engineering and keeping systems up / out: monitoring tools see infra/observability"
     },
     {
+      "key": "space",
+      "parent": null,
+      "level": "domain",
+      "label": "Space and astronomy",
+      "discipline": "science"
+    },
+    {
+      "key": "space/astronomy",
+      "parent": "space",
+      "level": "race",
+      "label": "Astronomy and astrophysics",
+      "scope": "in: telescope and survey pipelines, sky catalogs, spectroscopy, pulsar timing and astrophysics simulation codes / out: general physics solvers see engineering/simulation"
+    },
+    {
       "key": "systems",
       "parent": null,
       "level": "domain",
@@ -1532,6 +1560,9 @@
     "application-security": "cyber/appsec",
     "appsec": "cyber/appsec",
     "asic": "engineering/hdl",
+    "astro": "space/astronomy",
+    "astronomy": "space/astronomy",
+    "astrophysics": "space/astronomy",
     "auto-update": "desktop/packaging",
     "autonomous-agents": "agents/assistants",
     "baas": "mobile/app-backends",
@@ -1540,6 +1571,7 @@
     "bim": "engineering/bim",
     "binary-analysis": "cyber/reversing",
     "binary-ninja": "cyber/reversing/disassemblers",
+    "bioinformatics": "biology/bioinformatics",
     "bitnet-cpp": "llm-infra/inference/low-bit",
     "block-storage": "data/storage",
     "budget": "finance/personal/budgeting",
@@ -1583,6 +1615,7 @@
     "compiler": "languages/compilers",
     "component-library": "web/ui-components",
     "compression": "agents/context/output-compression",
+    "computational-biology": "biology/bioinformatics",
     "computer-vision": "ml/vision",
     "containerd": "infra/containers",
     "content-curation": "media/news/news-digests",
@@ -1666,6 +1699,7 @@
     "gamedev": "games/engines",
     "gdb": "cyber/reversing/debuggers",
     "gef": "cyber/reversing/debuggers",
+    "genomics": "biology/bioinformatics",
     "geoscience": "engineering/subsurface",
     "geospatial": "data/geospatial",
     "gepa": "agents/optimization/prompt-optimization",
@@ -1846,6 +1880,7 @@
     "siem": "cyber/detection",
     "sigma-rules": "cyber/detection",
     "similarity-search": "llm-infra/rag/vector-search",
+    "single-cell": "biology/bioinformatics",
     "skill-pack": "agents/skills",
     "skills": "agents/skills",
     "slsa": "cyber/supply-chain",
@@ -1997,7 +2032,9 @@
       "label": "Science & engineering",
       "ord": 7,
       "domains": [
-        "engineering"
+        "biology",
+        "engineering",
+        "space"
       ]
     },
     {

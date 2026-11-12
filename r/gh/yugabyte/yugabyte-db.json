@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ee6ad24015e6c91868e325a933e3ba41e26535e5"
-  },
   "id": "gh:yugabyte/yugabyte-db",
   "kind": "repo",
   "url": "https://github.com/yugabyte/yugabyte-db",
@@ -31,18 +28,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/yugabyte/yugabyte-db",
-    "sha": "ee6ad24015e6c91868e325a933e3ba41e26535e5",
-    "file_url": "https://raw.githubusercontent.com/yugabyte/yugabyte-db/ee6ad24015e6c91868e325a933e3ba41e26535e5/{path}"
+    "sha": "469a5b2902ebd14821ba2f800731ed58cb01f3f8",
+    "file_url": "https://raw.githubusercontent.com/yugabyte/yugabyte-db/469a5b2902ebd14821ba2f800731ed58cb01f3f8/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 10660,
-    "size_mb": 1148,
+    "stars": 10662,
+    "size_mb": 1151,
     "created_at": "2017-10-05T21:56:00Z",
-    "last_commit_at": "2026-11-11T10:30:36Z",
+    "last_commit_at": "2026-11-12T09:28:30Z",
     "releases": 285,
-    "tags": 6398,
+    "tags": 6409,
     "archived": false,
     "release": {
       "tag": "v2026.1.3.0",
@@ -57,13 +54,9 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 11,
+    "star_delta_7d": 10,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "ee6ad24015e6c91868e325a933e3ba41e26535e5",
-    "v": 3
-  }
+  "tier": "curated"
 }

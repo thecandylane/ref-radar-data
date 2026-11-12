@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:d1685127b1381da08432dcafb49e496ec0eed703"
+    "swh": "swh:1:rev:ace3fedfc2e404f835668905cffebcc62f3b8a39"
   },
   "id": "gh:kubernetes-sigs/kustomize",
   "kind": "repo",
@@ -31,8 +31,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/kubernetes-sigs/kustomize",
-    "sha": "d1685127b1381da08432dcafb49e496ec0eed703",
-    "file_url": "https://cdn.jsdelivr.net/gh/kubernetes-sigs/kustomize@d1685127b1381da08432dcafb49e496ec0eed703/{path}"
+    "sha": "ace3fedfc2e404f835668905cffebcc62f3b8a39",
+    "file_url": "https://cdn.jsdelivr.net/gh/kubernetes-sigs/kustomize@ace3fedfc2e404f835668905cffebcc62f3b8a39/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -57,13 +57,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 6,
+    "star_delta_7d": 4,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "d1685127b1381da08432dcafb49e496ec0eed703",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:2b626dda5df696daa3e4017206e1fbfae9d0d654"
-  },
   "id": "gh:rust-lang/miri",
   "kind": "repo",
   "url": "https://github.com/rust-lang/miri",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/rust-lang/miri",
-    "sha": "2b626dda5df696daa3e4017206e1fbfae9d0d654",
-    "file_url": "https://cdn.jsdelivr.net/gh/rust-lang/miri@2b626dda5df696daa3e4017206e1fbfae9d0d654/{path}"
+    "sha": "443c623168241a94b629ddb3ae611b54eb743590",
+    "file_url": "https://cdn.jsdelivr.net/gh/rust-lang/miri@443c623168241a94b629ddb3ae611b54eb743590/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 6738,
+    "stars": 6741,
     "size_mb": 36,
     "created_at": "2015-11-12T21:51:25Z",
-    "last_commit_at": "2026-11-11T08:18:54Z",
+    "last_commit_at": "2026-11-11T12:54:54Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -54,13 +51,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 25,
+    "star_delta_7d": 26,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "2b626dda5df696daa3e4017206e1fbfae9d0d654",
-    "v": 3
-  }
+  "tier": "curated"
 }

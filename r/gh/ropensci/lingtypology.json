@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:24d5c48d4c35b95454f8eb4de331e5abd50b7baa"
-  },
   "id": "gh:ropensci/lingtypology",
   "kind": "repo",
   "url": "https://github.com/ropensci/lingtypology",
@@ -27,22 +24,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ropensci/lingtypology",
-    "sha": "24d5c48d4c35b95454f8eb4de331e5abd50b7baa",
-    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/lingtypology@24d5c48d4c35b95454f8eb4de331e5abd50b7baa/{path}"
+    "sha": "a4aa7e68519fe52cc6449c0608c98cc3622a6b7a",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/lingtypology@a4aa7e68519fe52cc6449c0608c98cc3622a6b7a/{path}"
   },
   "facts": {
     "lang": "HTML",
     "license": "GPL-2.0",
     "stars": 53,
-    "size_mb": 101,
+    "size_mb": 103,
     "created_at": "2016-06-16T20:32:04Z",
-    "last_commit_at": "2026-07-26T08:23:57Z",
-    "releases": 35,
-    "tags": 35,
+    "last_commit_at": "2026-11-11T20:01:12Z",
+    "releases": 36,
+    "tags": 36,
     "archived": false,
     "release": {
-      "tag": "v1.1.26",
-      "at": "2026-07-26T08:27:08.000Z"
+      "tag": "v1.1.27",
+      "at": "2026-11-11T16:11:28.000Z"
     }
   },
   "reuse": "copyleft",
@@ -57,9 +54,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "24d5c48d4c35b95454f8eb4de331e5abd50b7baa",
-    "v": 3
-  }
+  "tier": "curated"
 }

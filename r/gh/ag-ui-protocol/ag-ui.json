@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:2b967c34c49759c4afe0f0a176b281a0f645de34"
-  },
   "id": "gh:ag-ui-protocol/ag-ui",
   "kind": "repo",
   "url": "https://github.com/ag-ui-protocol/ag-ui",
@@ -29,22 +26,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ag-ui-protocol/ag-ui",
-    "sha": "2b967c34c49759c4afe0f0a176b281a0f645de34",
-    "file_url": "https://cdn.jsdelivr.net/gh/ag-ui-protocol/ag-ui@2b967c34c49759c4afe0f0a176b281a0f645de34/{path}"
+    "sha": "8a951d14144e7dde986ccec23364e01a36111a63",
+    "file_url": "https://cdn.jsdelivr.net/gh/ag-ui-protocol/ag-ui@8a951d14144e7dde986ccec23364e01a36111a63/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 17104,
-    "size_mb": 86,
+    "stars": 17137,
+    "size_mb": 89,
     "created_at": "2025-05-07T12:49:37Z",
-    "last_commit_at": "2026-11-10T15:23:20Z",
-    "releases": 76,
-    "tags": 327,
+    "last_commit_at": "2026-11-12T06:12:50Z",
+    "releases": 77,
+    "tags": 333,
     "archived": false,
     "release": {
-      "tag": "release/2026-11-10",
-      "at": "2026-11-10T15:29:46.000Z"
+      "tag": "release/2026-11-12",
+      "at": "2026-11-12T01:54:54.000Z"
     }
   },
   "reuse": "copy",
@@ -55,13 +52,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 102,
+    "star_delta_7d": 109,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "2b967c34c49759c4afe0f0a176b281a0f645de34",
+    "sha": "8a951d14144e7dde986ccec23364e01a36111a63",
     "v": 3
   }
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:7d6d8e86138e9dcc250a29bd72cfe5d5dd7b3d6c"
-  },
   "id": "gh:laravel/framework",
   "kind": "repo",
   "url": "https://github.com/laravel/framework",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/laravel/framework",
-    "sha": "7d6d8e86138e9dcc250a29bd72cfe5d5dd7b3d6c",
-    "file_url": "https://cdn.jsdelivr.net/gh/laravel/framework@7d6d8e86138e9dcc250a29bd72cfe5d5dd7b3d6c/{path}"
+    "sha": "f7a34e4d2bec435560e87a530a5c9eade8734c38",
+    "file_url": "https://cdn.jsdelivr.net/gh/laravel/framework@f7a34e4d2bec435560e87a530a5c9eade8734c38/{path}"
   },
   "facts": {
     "lang": "PHP",
     "license": "MIT",
-    "stars": 34997,
+    "stars": 34998,
     "size_mb": 106,
     "created_at": "2013-01-10T21:27:28Z",
-    "last_commit_at": "2026-11-10T15:56:57Z",
+    "last_commit_at": "2026-11-12T04:34:51Z",
     "releases": 990,
     "tags": 1314,
     "archived": false,
@@ -55,13 +52,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 12,
+    "star_delta_7d": 11,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "7d6d8e86138e9dcc250a29bd72cfe5d5dd7b3d6c",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:daafe4ad8cfc02ce67cc8281e0ebd196b754eba4"
+  },
+  "id": "gh:secureworks/phishinsuits",
+  "kind": "repo",
+  "url": "https://github.com/secureworks/PhishInSuits",
+  "title": "PhishInSuits",
+  "why": "Abuses Microsoft's device code sign-in flow, texting victims a code via Twilio, then uses the approved access and refresh tokens to read mail and contacts.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/iam"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/secureworks/PhishInSuits",
+    "sha": "daafe4ad8cfc02ce67cc8281e0ebd196b754eba4",
+    "file_url": "https://cdn.jsdelivr.net/gh/secureworks/PhishInSuits@daafe4ad8cfc02ce67cc8281e0ebd196b754eba4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 120,
+    "size_mb": 0,
+    "created_at": "2021-05-14T14:18:57Z",
+    "last_commit_at": "2021-06-02T15:18:11Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "daafe4ad8cfc02ce67cc8281e0ebd196b754eba4",
+    "v": 3
+  }
+}

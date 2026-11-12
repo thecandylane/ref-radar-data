@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e8548f333b1b09978f0c28548c3520645fa8b655"
+  },
+  "id": "gh:rformassspectrometry/msfeatures",
+  "kind": "repo",
+  "url": "https://github.com/rformassspectrometry/MsFeatures",
+  "title": "MsFeatures",
+  "why": "R package of tools for working with mass spectrometry features, part of the rformassspectrometry family, with vignettes.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rformassspectrometry/MsFeatures",
+    "sha": "e8548f333b1b09978f0c28548c3520645fa8b655",
+    "file_url": "https://cdn.jsdelivr.net/gh/rformassspectrometry/MsFeatures@e8548f333b1b09978f0c28548c3520645fa8b655/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 7,
+    "size_mb": 19,
+    "created_at": "2020-06-30T08:28:58Z",
+    "last_commit_at": "2025-10-29T15:06:00Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e8548f333b1b09978f0c28548c3520645fa8b655",
+    "v": 3
+  }
+}

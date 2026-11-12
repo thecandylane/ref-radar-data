@@ -1,0 +1,60 @@
+{
+  "id": "gh:gitlab4j/gitlab4j-api",
+  "kind": "repo",
+  "url": "https://github.com/gitlab4j/gitlab4j-api",
+  "title": "gitlab4j-api",
+  "why": "Drive GitLab from Java through its REST API, with the data models split into a separate gitlab4j-models module.",
+  "keys": {
+    "races": [
+      "dev-tools/vcs"
+    ],
+    "lanes": [
+      "dev-tools/vcs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gitlab4j/gitlab4j-api",
+    "sha": "128940c86d4053ded203c6815cb44c19f76eec97",
+    "file_url": "https://cdn.jsdelivr.net/gh/gitlab4j/gitlab4j-api@128940c86d4053ded203c6815cb44c19f76eec97/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "MIT",
+    "stars": 1156,
+    "size_mb": 5,
+    "created_at": "2014-02-18T05:09:14Z",
+    "last_commit_at": "2026-10-04T17:06:44Z",
+    "releases": 129,
+    "tags": 294,
+    "archived": false,
+    "release": {
+      "tag": "6.3.0",
+      "at": "2026-05-05T10:55:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "128940c86d4053ded203c6815cb44c19f76eec97",
+    "v": 3
+  }
+}

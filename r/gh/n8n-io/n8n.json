@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:7a1577667ead44c456b8353f05339045f0a4c006"
-  },
   "id": "gh:n8n-io/n8n",
   "kind": "repo",
   "url": "https://github.com/n8n-io/n8n",
@@ -37,22 +34,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/n8n-io/n8n",
-    "sha": "7a1577667ead44c456b8353f05339045f0a4c006",
-    "file_url": "https://raw.githubusercontent.com/n8n-io/n8n/7a1577667ead44c456b8353f05339045f0a4c006/{path}"
+    "sha": "f82deca323a6129e3f84f45bedb3223ea1884a88",
+    "file_url": "https://raw.githubusercontent.com/n8n-io/n8n/f82deca323a6129e3f84f45bedb3223ea1884a88/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 210126,
-    "size_mb": 791,
+    "stars": 210256,
+    "size_mb": 788,
     "created_at": "2019-06-22T09:24:21Z",
-    "last_commit_at": "2026-11-11T10:09:38Z",
-    "releases": 894,
-    "tags": 2253,
+    "last_commit_at": "2026-11-12T09:11:25Z",
+    "releases": 897,
+    "tags": 2256,
     "archived": false,
     "release": {
-      "tag": "n8n@2.47.4",
-      "at": "2026-11-11T08:40:16.000Z"
+      "tag": "n8n@2.47.5",
+      "at": "2026-11-12T08:34:10.000Z"
     }
   },
   "reuse": "study",
@@ -63,14 +60,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 605,
+    "star_delta_7d": 658,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "7a1577667ead44c456b8353f05339045f0a4c006",
-    "v": 3
-  },
   "hot": true
 }

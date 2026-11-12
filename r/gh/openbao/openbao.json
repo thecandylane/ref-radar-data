@@ -32,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/openbao/openbao",
-    "sha": "f803f621bd9932364ffc959555ed83200e1161c7",
-    "file_url": "https://cdn.jsdelivr.net/gh/openbao/openbao@f803f621bd9932364ffc959555ed83200e1161c7/{path}"
+    "sha": "a325a987b30e4cb005e26553322efc211cc21df6",
+    "file_url": "https://cdn.jsdelivr.net/gh/openbao/openbao@a325a987b30e4cb005e26553322efc211cc21df6/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MPL-2.0",
-    "stars": 8979,
+    "stars": 8987,
     "size_mb": 314,
     "created_at": "2023-11-09T18:17:33Z",
-    "last_commit_at": "2026-11-10T16:14:40Z",
+    "last_commit_at": "2026-11-12T08:57:35Z",
     "releases": 38,
     "tags": 220,
     "archived": false,
@@ -58,13 +58,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 121,
+    "star_delta_7d": 103,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "f803f621bd9932364ffc959555ed83200e1161c7",
-    "v": 3
-  }
+  "hot": true
 }

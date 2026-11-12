@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d03e41104fa922f3ac8b82e53bf2fddbc54ae1e2"
-  },
   "id": "gh:confident-ai/deepeval",
   "kind": "repo",
   "url": "https://github.com/confident-ai/deepeval",
@@ -31,18 +28,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/confident-ai/deepeval",
-    "sha": "d03e41104fa922f3ac8b82e53bf2fddbc54ae1e2",
-    "file_url": "https://cdn.jsdelivr.net/gh/confident-ai/deepeval@d03e41104fa922f3ac8b82e53bf2fddbc54ae1e2/{path}"
+    "sha": "debe7955c0029add96f8340e38932ae62a77907c",
+    "file_url": "https://cdn.jsdelivr.net/gh/confident-ai/deepeval@debe7955c0029add96f8340e38932ae62a77907c/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 19431,
-    "size_mb": 214,
+    "stars": 19457,
+    "size_mb": 239,
     "created_at": "2023-08-10T05:35:04Z",
-    "last_commit_at": "2026-11-10T13:05:42Z",
+    "last_commit_at": "2026-11-11T20:11:29Z",
     "releases": 64,
-    "tags": 358,
+    "tags": 360,
     "archived": false,
     "release": {
       "tag": "python-v4.2.4",
@@ -63,7 +60,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "d03e41104fa922f3ac8b82e53bf2fddbc54ae1e2",
+    "sha": "debe7955c0029add96f8340e38932ae62a77907c",
     "v": 3
   },
   "hot": true

@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:19c096e51f638d7be9e231d551ca3f688af34bf2"
+    "swh": "swh:1:rev:f3a23b14c4e7610097b2822ed5da456ff2ee8ece"
   },
   "id": "gh:o3de/o3de",
   "kind": "repo",
@@ -25,13 +25,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/o3de/o3de",
-    "sha": "19c096e51f638d7be9e231d551ca3f688af34bf2",
-    "file_url": "https://raw.githubusercontent.com/o3de/o3de/19c096e51f638d7be9e231d551ca3f688af34bf2/{path}"
+    "sha": "f3a23b14c4e7610097b2822ed5da456ff2ee8ece",
+    "file_url": "https://raw.githubusercontent.com/o3de/o3de/f3a23b14c4e7610097b2822ed5da456ff2ee8ece/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "NOASSERTION",
-    "stars": 9870,
+    "stars": 9873,
     "size_mb": 228,
     "created_at": "2021-04-05T06:38:18Z",
     "last_commit_at": "2026-11-10T15:59:00Z",
@@ -51,13 +51,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 53,
+    "star_delta_7d": 54,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "19c096e51f638d7be9e231d551ca3f688af34bf2",
-    "v": 3
-  }
+  "tier": "curated"
 }

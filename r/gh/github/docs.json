@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:7c3387d3b513ed43ea26c9b2e4c0e1b12234c010"
-  },
   "id": "gh:github/docs",
   "kind": "repo",
   "url": "https://github.com/github/docs",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/github/docs",
-    "sha": "7c3387d3b513ed43ea26c9b2e4c0e1b12234c010",
-    "file_url": "https://raw.githubusercontent.com/github/docs/7c3387d3b513ed43ea26c9b2e4c0e1b12234c010/{path}"
+    "sha": "2b4f2c7398e04ee8d02adca7440e4286d20c78b9",
+    "file_url": "https://raw.githubusercontent.com/github/docs/2b4f2c7398e04ee8d02adca7440e4286d20c78b9/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "CC-BY-4.0",
-    "stars": 21419,
-    "size_mb": 2321,
+    "stars": 21430,
+    "size_mb": 2323,
     "created_at": "2019-05-31T15:57:39Z",
-    "last_commit_at": "2026-11-11T08:54:26Z",
+    "last_commit_at": "2026-11-11T17:26:25Z",
     "releases": 1,
     "tags": 1,
     "archived": false,
@@ -61,9 +58,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "7c3387d3b513ed43ea26c9b2e4c0e1b12234c010",
-    "v": 3
-  }
+  "tier": "curated"
 }

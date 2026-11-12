@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9e92728fe6e965bfa9e4cfa3151adf9c9f1f9de3"
-  },
   "id": "gh:aws/aws-sam-cli",
   "kind": "repo",
   "url": "https://github.com/aws/aws-sam-cli",
@@ -27,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/aws/aws-sam-cli",
-    "sha": "9e92728fe6e965bfa9e4cfa3151adf9c9f1f9de3",
-    "file_url": "https://cdn.jsdelivr.net/gh/aws/aws-sam-cli@9e92728fe6e965bfa9e4cfa3151adf9c9f1f9de3/{path}"
+    "sha": "4758d08574bb1e520f37e3b42994b0d1d37f3106",
+    "file_url": "https://cdn.jsdelivr.net/gh/aws/aws-sam-cli@4758d08574bb1e520f37e3b42994b0d1d37f3106/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -36,7 +33,7 @@
     "stars": 6743,
     "size_mb": 183,
     "created_at": "2017-05-23T18:16:23Z",
-    "last_commit_at": "2026-11-11T01:04:14Z",
+    "last_commit_at": "2026-11-11T19:18:17Z",
     "releases": 267,
     "tags": 1006,
     "archived": false,
@@ -59,7 +56,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "9e92728fe6e965bfa9e4cfa3151adf9c9f1f9de3",
+    "sha": "4758d08574bb1e520f37e3b42994b0d1d37f3106",
     "v": 3
   }
 }

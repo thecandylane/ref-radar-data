@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:42ce052278eff7af28232396ebdcbfcf35297f0d"
-  },
   "id": "gh:zylon-ai/private-gpt",
   "kind": "repo",
   "url": "https://github.com/zylon-ai/private-gpt",
@@ -29,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/zylon-ai/private-gpt",
-    "sha": "42ce052278eff7af28232396ebdcbfcf35297f0d",
-    "file_url": "https://cdn.jsdelivr.net/gh/zylon-ai/private-gpt@42ce052278eff7af28232396ebdcbfcf35297f0d/{path}"
+    "sha": "44fa6598a10f2c29cd5d8745bf29cc04b75cb3ad",
+    "file_url": "https://cdn.jsdelivr.net/gh/zylon-ai/private-gpt@44fa6598a10f2c29cd5d8745bf29cc04b75cb3ad/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 57632,
+    "stars": 57633,
     "size_mb": 221,
     "created_at": "2023-05-02T09:15:31Z",
     "last_commit_at": "2026-11-11T07:44:58Z",
@@ -59,9 +56,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "42ce052278eff7af28232396ebdcbfcf35297f0d",
-    "v": 3
-  }
+  "tier": "curated"
 }

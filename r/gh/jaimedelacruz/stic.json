@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:18cda77d038a97f007a783dcb61ea9a9a1244bf7"
+  },
+  "id": "gh:jaimedelacruz/stic",
+  "kind": "repo",
+  "url": "https://github.com/jaimedelacruz/stic",
+  "title": "stic",
+  "why": "Stockholm inversion code written in C, with IDL and Python tools, examples and exercises for learning to run inversions.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jaimedelacruz/stic",
+    "sha": "18cda77d038a97f007a783dcb61ea9a9a1244bf7",
+    "file_url": "https://cdn.jsdelivr.net/gh/jaimedelacruz/stic@18cda77d038a97f007a783dcb61ea9a9a1244bf7/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 24,
+    "size_mb": 19,
+    "created_at": "2018-09-19T08:34:50Z",
+    "last_commit_at": "2026-03-25T13:03:28Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "18cda77d038a97f007a783dcb61ea9a9a1244bf7",
+    "v": 3
+  }
+}

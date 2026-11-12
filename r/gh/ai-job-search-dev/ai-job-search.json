@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:e9ab29dcc20b3d802356077b02898cd97db0d312"
-  },
   "id": "gh:ai-job-search-dev/ai-job-search",
   "kind": "repo",
   "url": "https://github.com/ai-job-search-dev/ai-job-search",
@@ -30,16 +27,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ai-job-search-dev/ai-job-search",
-    "sha": "e9ab29dcc20b3d802356077b02898cd97db0d312",
-    "file_url": "https://cdn.jsdelivr.net/gh/ai-job-search-dev/ai-job-search@e9ab29dcc20b3d802356077b02898cd97db0d312/{path}"
+    "sha": "d554e797f9aecfa46185cc54fdbb6457f5d7e681",
+    "file_url": "https://cdn.jsdelivr.net/gh/ai-job-search-dev/ai-job-search@d554e797f9aecfa46185cc54fdbb6457f5d7e681/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 71161,
+    "stars": 71329,
     "size_mb": 6,
     "created_at": "2026-03-18T14:33:04Z",
-    "last_commit_at": "2026-11-10T19:57:03Z",
+    "last_commit_at": "2026-11-11T21:04:38Z",
     "releases": 13,
     "tags": 13,
     "archived": false,
@@ -62,7 +59,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "e9ab29dcc20b3d802356077b02898cd97db0d312",
+    "sha": "d554e797f9aecfa46185cc54fdbb6457f5d7e681",
     "v": 3
   }
 }

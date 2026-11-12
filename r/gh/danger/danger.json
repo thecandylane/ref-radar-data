@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:da7fe19025e5b759bdc1d7d8b04645fd2fb75f6b"
-  },
   "id": "gh:danger/danger",
   "kind": "repo",
   "url": "https://github.com/danger/danger",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/danger/danger",
-    "sha": "da7fe19025e5b759bdc1d7d8b04645fd2fb75f6b",
-    "file_url": "https://cdn.jsdelivr.net/gh/danger/danger@da7fe19025e5b759bdc1d7d8b04645fd2fb75f6b/{path}"
+    "sha": "1c7b86168c352463abc2d5a7ff0313a36418aa35",
+    "file_url": "https://cdn.jsdelivr.net/gh/danger/danger@1c7b86168c352463abc2d5a7ff0313a36418aa35/{path}"
   },
   "facts": {
     "lang": "Ruby",
@@ -63,7 +60,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "da7fe19025e5b759bdc1d7d8b04645fd2fb75f6b",
+    "sha": "1c7b86168c352463abc2d5a7ff0313a36418aa35",
     "v": 3
   }
 }

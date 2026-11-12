@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1db5a0d5597cb374df08c2ab41aa861b6fa4e915"
-  },
   "id": "gh:apache/couchdb",
   "kind": "repo",
   "url": "https://github.com/apache/couchdb",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/couchdb",
-    "sha": "1db5a0d5597cb374df08c2ab41aa861b6fa4e915",
-    "file_url": "https://cdn.jsdelivr.net/gh/apache/couchdb@1db5a0d5597cb374df08c2ab41aa861b6fa4e915/{path}"
+    "sha": "0a666d0feb636eeff4c0cf728d55d75e882658e1",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/couchdb@0a666d0feb636eeff4c0cf728d55d75e882658e1/{path}"
   },
   "facts": {
     "lang": "Erlang",
     "license": "Apache-2.0",
-    "stars": 7010,
+    "stars": 7011,
     "size_mb": 49,
     "created_at": "2009-05-21T02:03:38Z",
-    "last_commit_at": "2026-11-10T06:29:44Z",
+    "last_commit_at": "2026-11-12T00:15:54Z",
     "releases": 0,
     "tags": 117,
     "archived": false,
@@ -58,7 +55,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "1db5a0d5597cb374df08c2ab41aa861b6fa4e915",
+    "sha": "0a666d0feb636eeff4c0cf728d55d75e882658e1",
     "v": 3
   }
 }

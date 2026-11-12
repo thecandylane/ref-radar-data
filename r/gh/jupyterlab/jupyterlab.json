@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d2b90b351558b12428ac683f11f295a55ae78c8e"
-  },
   "id": "gh:jupyterlab/jupyterlab",
   "kind": "repo",
   "url": "https://github.com/jupyterlab/jupyterlab",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/jupyterlab/jupyterlab",
-    "sha": "d2b90b351558b12428ac683f11f295a55ae78c8e",
-    "file_url": "https://cdn.jsdelivr.net/gh/jupyterlab/jupyterlab@d2b90b351558b12428ac683f11f295a55ae78c8e/{path}"
+    "sha": "79ac5024d8132bd0740ad17d50e14369a69dc30e",
+    "file_url": "https://cdn.jsdelivr.net/gh/jupyterlab/jupyterlab@79ac5024d8132bd0740ad17d50e14369a69dc30e/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "BSD-3-Clause",
-    "stars": 15397,
+    "stars": 15399,
     "size_mb": 311,
     "created_at": "2016-06-03T20:09:17Z",
-    "last_commit_at": "2026-11-11T08:57:58Z",
+    "last_commit_at": "2026-11-12T09:03:02Z",
     "releases": 288,
     "tags": 49508,
     "archived": false,
@@ -55,13 +52,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 7,
+    "star_delta_7d": 9,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "d2b90b351558b12428ac683f11f295a55ae78c8e",
-    "v": 3
-  }
+  "tier": "curated"
 }

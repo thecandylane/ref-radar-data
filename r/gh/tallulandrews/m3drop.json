@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0e134e9480d54d11ce501ecff44418b2a7d43fcf"
+  },
+  "id": "gh:tallulandrews/m3drop",
+  "kind": "repo",
+  "url": "https://github.com/tallulandrews/M3Drop",
+  "title": "M3Drop",
+  "why": "Fits a Michaelis-Menten curve to dropouts in single-cell RNA-seq so informative genes can be picked before clustering.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tallulandrews/M3Drop",
+    "sha": "0e134e9480d54d11ce501ecff44418b2a7d43fcf",
+    "file_url": "https://cdn.jsdelivr.net/gh/tallulandrews/M3Drop@0e134e9480d54d11ce501ecff44418b2a7d43fcf/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 33,
+    "size_mb": 6,
+    "created_at": "2016-07-13T10:22:59Z",
+    "last_commit_at": "2024-03-04T09:45:12Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0e134e9480d54d11ce501ecff44418b2a7d43fcf",
+    "v": 3
+  }
+}

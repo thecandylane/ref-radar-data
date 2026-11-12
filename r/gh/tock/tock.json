@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9e14fb1af8b0692ec25e15553ea1f4ae739ea218"
-  },
   "id": "gh:tock/tock",
   "kind": "repo",
   "url": "https://github.com/tock/tock",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/tock/tock",
-    "sha": "9e14fb1af8b0692ec25e15553ea1f4ae739ea218",
-    "file_url": "https://cdn.jsdelivr.net/gh/tock/tock@9e14fb1af8b0692ec25e15553ea1f4ae739ea218/{path}"
+    "sha": "39dcbecb9f7be4c6b7dfe6132473e098ba0e3236",
+    "file_url": "https://cdn.jsdelivr.net/gh/tock/tock@39dcbecb9f7be4c6b7dfe6132473e098ba0e3236/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "NOASSERTION",
-    "stars": 6495,
+    "stars": 6494,
     "size_mb": 185,
     "created_at": "2015-05-28T09:26:47Z",
-    "last_commit_at": "2026-11-10T21:11:10Z",
+    "last_commit_at": "2026-11-11T21:53:33Z",
     "releases": 29,
     "tags": 37,
     "archived": false,
@@ -53,13 +50,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "9e14fb1af8b0692ec25e15553ea1f4ae739ea218",
-    "v": 3
-  }
+  "tier": "curated"
 }

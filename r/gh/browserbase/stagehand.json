@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ce298c60bd7e617e38d67db8db7d34de9d37cd18"
-  },
   "id": "gh:browserbase/stagehand",
   "kind": "repo",
   "url": "https://github.com/browserbase/stagehand",
@@ -32,18 +29,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/browserbase/stagehand",
-    "sha": "ce298c60bd7e617e38d67db8db7d34de9d37cd18",
-    "file_url": "https://cdn.jsdelivr.net/gh/browserbase/stagehand@ce298c60bd7e617e38d67db8db7d34de9d37cd18/{path}"
+    "sha": "9bb60e2f126e4c6eff7dc8bb0293785194d15057",
+    "file_url": "https://cdn.jsdelivr.net/gh/browserbase/stagehand@9bb60e2f126e4c6eff7dc8bb0293785194d15057/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 25999,
+    "stars": 26010,
     "size_mb": 202,
     "created_at": "2024-03-24T19:19:44Z",
-    "last_commit_at": "2026-11-10T23:19:58Z",
+    "last_commit_at": "2026-11-11T16:46:14Z",
     "releases": 82,
-    "tags": 231,
+    "tags": 232,
     "archived": false,
     "release": {
       "tag": "stagehand-server-v3/v3.7.7",
@@ -58,13 +55,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 62,
+    "star_delta_7d": 57,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "ce298c60bd7e617e38d67db8db7d34de9d37cd18",
+    "sha": "9bb60e2f126e4c6eff7dc8bb0293785194d15057",
     "v": 3
   }
 }

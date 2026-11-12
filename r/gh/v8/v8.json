@@ -28,18 +28,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/v8/v8",
-    "sha": "20e9db01387a1d6d5711b6bd89f4654abb49ab09",
-    "file_url": "https://raw.githubusercontent.com/v8/v8/20e9db01387a1d6d5711b6bd89f4654abb49ab09/{path}"
+    "sha": "5af3f05be4160de2dbdb9617debfcda0ed998aec",
+    "file_url": "https://raw.githubusercontent.com/v8/v8/5af3f05be4160de2dbdb9617debfcda0ed998aec/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "NOASSERTION",
-    "stars": 25324,
-    "size_mb": 1215,
+    "stars": 25322,
+    "size_mb": 1219,
     "created_at": "2014-09-24T15:24:30Z",
-    "last_commit_at": "2026-11-11T10:02:55Z",
+    "last_commit_at": "2026-11-12T08:42:53Z",
     "releases": 0,
-    "tags": 46371,
+    "tags": 46403,
     "archived": false,
     "release": null
   },
@@ -55,9 +55,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "20e9db01387a1d6d5711b6bd89f4654abb49ab09",
-    "v": 3
-  }
+  "tier": "curated"
 }

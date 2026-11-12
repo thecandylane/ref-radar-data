@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:da95291444c0cba1335a9b57c5e59b27e5f4e372"
+  },
+  "id": "gh:bwinkel/pycraf",
+  "kind": "repo",
+  "url": "https://github.com/bwinkel/pycraf",
+  "title": "pycraf",
+  "why": "Python routines for judging whether radio services and radio telescopes can share spectrum, aimed at compatibility studies.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bwinkel/pycraf",
+    "sha": "da95291444c0cba1335a9b57c5e59b27e5f4e372",
+    "file_url": "https://cdn.jsdelivr.net/gh/bwinkel/pycraf@da95291444c0cba1335a9b57c5e59b27e5f4e372/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 60,
+    "size_mb": 145,
+    "created_at": "2017-06-30T14:55:20Z",
+    "last_commit_at": "2025-08-11T09:06:40Z",
+    "releases": 1,
+    "tags": 33,
+    "archived": false,
+    "release": {
+      "tag": "v0.25.6",
+      "at": "2018-05-09T14:51:01.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "da95291444c0cba1335a9b57c5e59b27e5f4e372",
+    "v": 3
+  }
+}

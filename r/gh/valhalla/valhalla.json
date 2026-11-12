@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:2085e78a517a0680a39d3b89efb7eff1f5cf9201"
+    "swh": "swh:1:rev:a34c7292f2cb13e94f547e910f9bae266408aac0"
   },
   "id": "gh:valhalla/valhalla",
   "kind": "repo",
@@ -29,16 +29,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/valhalla/valhalla",
-    "sha": "2085e78a517a0680a39d3b89efb7eff1f5cf9201",
-    "file_url": "https://raw.githubusercontent.com/valhalla/valhalla/2085e78a517a0680a39d3b89efb7eff1f5cf9201/{path}"
+    "sha": "a34c7292f2cb13e94f547e910f9bae266408aac0",
+    "file_url": "https://raw.githubusercontent.com/valhalla/valhalla/a34c7292f2cb13e94f547e910f9bae266408aac0/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "NOASSERTION",
-    "stars": 6440,
-    "size_mb": 128,
+    "stars": 6444,
+    "size_mb": 127,
     "created_at": "2016-01-19T19:42:29Z",
-    "last_commit_at": "2026-11-11T09:42:44Z",
+    "last_commit_at": "2026-11-11T15:04:23Z",
     "releases": 68,
     "tags": 180,
     "archived": false,
@@ -55,13 +55,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 28,
+    "star_delta_7d": 30,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "2085e78a517a0680a39d3b89efb7eff1f5cf9201",
-    "v": 3
-  }
+  "tier": "curated"
 }

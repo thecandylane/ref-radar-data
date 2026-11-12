@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5c3563bfd3754f54ccf01c487240107b128de8c8"
-  },
   "id": "gh:neovim/neovim",
   "kind": "repo",
   "url": "https://github.com/neovim/neovim",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/neovim/neovim",
-    "sha": "5c3563bfd3754f54ccf01c487240107b128de8c8",
-    "file_url": "https://cdn.jsdelivr.net/gh/neovim/neovim@5c3563bfd3754f54ccf01c487240107b128de8c8/{path}"
+    "sha": "629e501cd6112e5d77301afa01f5fcfd531b9ea0",
+    "file_url": "https://cdn.jsdelivr.net/gh/neovim/neovim@629e501cd6112e5d77301afa01f5fcfd531b9ea0/{path}"
   },
   "facts": {
     "lang": "Vim Script",
     "license": "NOASSERTION",
-    "stars": 103615,
+    "stars": 103607,
     "size_mb": 398,
     "created_at": "2014-01-31T13:39:22Z",
-    "last_commit_at": "2026-11-10T23:42:28Z",
+    "last_commit_at": "2026-11-12T04:22:04Z",
     "releases": 56,
     "tags": 64,
     "archived": false,
@@ -57,14 +54,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 270,
+    "star_delta_7d": 240,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "5c3563bfd3754f54ccf01c487240107b128de8c8",
-    "v": 3
-  },
   "hot": true
 }

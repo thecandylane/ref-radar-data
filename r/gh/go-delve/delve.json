@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:749588dac9874b39e50b4c168f9ec064a4ddfad1"
+    "swh": "swh:1:rev:0e9c74cee4f22bbebb9c48120e569dcda545cc87"
   },
   "id": "gh:go-delve/delve",
   "kind": "repo",
@@ -33,8 +33,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/go-delve/delve",
-    "sha": "749588dac9874b39e50b4c168f9ec064a4ddfad1",
-    "file_url": "https://cdn.jsdelivr.net/gh/go-delve/delve@749588dac9874b39e50b4c168f9ec064a4ddfad1/{path}"
+    "sha": "0e9c74cee4f22bbebb9c48120e569dcda545cc87",
+    "file_url": "https://cdn.jsdelivr.net/gh/go-delve/delve@0e9c74cee4f22bbebb9c48120e569dcda545cc87/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -59,13 +59,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 10,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "749588dac9874b39e50b4c168f9ec064a4ddfad1",
-    "v": 3
-  }
+  "tier": "curated"
 }

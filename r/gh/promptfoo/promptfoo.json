@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:059c74971dbfb2d07f08c381c8a4c2bb44797817"
-  },
   "id": "gh:promptfoo/promptfoo",
   "kind": "repo",
   "url": "https://github.com/promptfoo/promptfoo",
@@ -37,16 +34,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/promptfoo/promptfoo",
-    "sha": "059c74971dbfb2d07f08c381c8a4c2bb44797817",
-    "file_url": "https://raw.githubusercontent.com/promptfoo/promptfoo/059c74971dbfb2d07f08c381c8a4c2bb44797817/{path}"
+    "sha": "e4ecd0e48b08aedebe186b2ee868b0f31c62e3fe",
+    "file_url": "https://raw.githubusercontent.com/promptfoo/promptfoo/e4ecd0e48b08aedebe186b2ee868b0f31c62e3fe/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 27054,
-    "size_mb": 794,
+    "stars": 27082,
+    "size_mb": 795,
     "created_at": "2023-04-28T15:48:49Z",
-    "last_commit_at": "2026-11-09T21:42:24Z",
+    "last_commit_at": "2026-11-12T07:12:47Z",
     "releases": 432,
     "tags": 442,
     "archived": false,
@@ -63,14 +60,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 238,
+    "star_delta_7d": 220,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "059c74971dbfb2d07f08c381c8a4c2bb44797817",
-    "v": 3
-  },
   "hot": true
 }

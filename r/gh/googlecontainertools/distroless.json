@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c3bf6a1d94037418960aa093212f11a943334266"
-  },
   "id": "gh:googlecontainertools/distroless",
   "kind": "repo",
   "url": "https://github.com/GoogleContainerTools/distroless",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/GoogleContainerTools/distroless",
-    "sha": "c3bf6a1d94037418960aa093212f11a943334266",
-    "file_url": "https://cdn.jsdelivr.net/gh/GoogleContainerTools/distroless@c3bf6a1d94037418960aa093212f11a943334266/{path}"
+    "sha": "48b5c0455fb00d6ea7223f1fc6862c46da736556",
+    "file_url": "https://cdn.jsdelivr.net/gh/GoogleContainerTools/distroless@48b5c0455fb00d6ea7223f1fc6862c46da736556/{path}"
   },
   "facts": {
     "lang": "Starlark",
     "license": "Apache-2.0",
-    "stars": 23218,
+    "stars": 23224,
     "size_mb": 10,
     "created_at": "2017-04-18T22:02:38Z",
-    "last_commit_at": "2026-11-10T20:09:02Z",
+    "last_commit_at": "2026-11-11T21:12:44Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -54,9 +51,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "c3bf6a1d94037418960aa093212f11a943334266",
-    "v": 3
-  }
+  "tier": "curated"
 }

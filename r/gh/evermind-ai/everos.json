@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:eef43b902317eefbe8f9a792caee97fba4ec2a54"
-  },
   "id": "gh:evermind-ai/everos",
   "kind": "repo",
   "url": "https://github.com/EverMind-AI/EverOS",
@@ -36,16 +33,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/EverMind-AI/EverOS",
-    "sha": "eef43b902317eefbe8f9a792caee97fba4ec2a54",
-    "file_url": "https://cdn.jsdelivr.net/gh/EverMind-AI/EverOS@eef43b902317eefbe8f9a792caee97fba4ec2a54/{path}"
+    "sha": "c3228464293f89c050b50c701df907734f293527",
+    "file_url": "https://cdn.jsdelivr.net/gh/EverMind-AI/EverOS@c3228464293f89c050b50c701df907734f293527/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 13882,
-    "size_mb": 9,
+    "stars": 13891,
+    "size_mb": 12,
     "created_at": "2025-10-28T15:09:32Z",
-    "last_commit_at": "2026-11-11T08:01:58Z",
+    "last_commit_at": "2026-11-12T09:11:47Z",
     "releases": 24,
     "tags": 25,
     "archived": false,
@@ -62,13 +59,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 81,
+    "star_delta_7d": 78,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "eef43b902317eefbe8f9a792caee97fba4ec2a54",
-    "v": 3
-  }
+  "tier": "curated"
 }

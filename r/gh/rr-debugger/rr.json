@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:116719af0a37781ef8d2f6d6d4c4fbcd769a31f1"
+    "swh": "swh:1:rev:aa89a94a2403c7ade6c93c046388e5d83772c596"
   },
   "id": "gh:rr-debugger/rr",
   "kind": "repo",
@@ -33,16 +33,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/rr-debugger/rr",
-    "sha": "116719af0a37781ef8d2f6d6d4c4fbcd769a31f1",
-    "file_url": "https://cdn.jsdelivr.net/gh/rr-debugger/rr@116719af0a37781ef8d2f6d6d4c4fbcd769a31f1/{path}"
+    "sha": "aa89a94a2403c7ade6c93c046388e5d83772c596",
+    "file_url": "https://cdn.jsdelivr.net/gh/rr-debugger/rr@aa89a94a2403c7ade6c93c046388e5d83772c596/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "NOASSERTION",
-    "stars": 10744,
+    "stars": 10743,
     "size_mb": 27,
     "created_at": "2011-08-25T18:59:32Z",
-    "last_commit_at": "2026-11-10T23:30:09Z",
+    "last_commit_at": "2026-11-11T11:13:46Z",
     "releases": 23,
     "tags": 42,
     "archived": false,
@@ -59,13 +59,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 13,
+    "star_delta_7d": 10,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "116719af0a37781ef8d2f6d6d4c4fbcd769a31f1",
-    "v": 3
-  }
+  "tier": "curated"
 }

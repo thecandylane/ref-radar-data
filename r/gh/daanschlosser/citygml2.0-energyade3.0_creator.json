@@ -1,0 +1,68 @@
+{
+  "id": "gh:daanschlosser/citygml2.0-energyade3.0_creator",
+  "kind": "repo",
+  "url": "https://github.com/DaanSchlosser/CityGML2.0-EnergyADE3.0_creator",
+  "title": "CityGML2.0-EnergyADE3.0_creator",
+  "why": "Builds CityGML 2.0 files with Energy ADE 3.0 data from JSON features and STEP geometry, or from Dutch municipality building registers.",
+  "keys": {
+    "races": [
+      "engineering/bim",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "engineering/bim",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/DaanSchlosser/CityGML2.0-EnergyADE3.0_creator",
+    "sha": "2d829027810446e3644fffa54161085c934f5f86",
+    "file_url": "https://cdn.jsdelivr.net/gh/DaanSchlosser/CityGML2.0-EnergyADE3.0_creator@2d829027810446e3644fffa54161085c934f5f86/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "size_mb": 36,
+    "created_at": "2026-04-07T22:01:58Z",
+    "last_commit_at": "2026-07-09T13:54:08Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2026-06-23T21:41:33.000Z"
+    },
+    "doi": "10.5281/zenodo.20612452",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-12"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2d829027810446e3644fffa54161085c934f5f86",
+    "v": 3
+  }
+}

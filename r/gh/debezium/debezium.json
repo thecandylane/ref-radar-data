@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:2437d7936fc640cdd2f930c4c39e2841ec1dabca"
-  },
   "id": "gh:debezium/debezium",
   "kind": "repo",
   "url": "https://github.com/debezium/debezium",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/debezium/debezium",
-    "sha": "2437d7936fc640cdd2f930c4c39e2841ec1dabca",
-    "file_url": "https://cdn.jsdelivr.net/gh/debezium/debezium@2437d7936fc640cdd2f930c4c39e2841ec1dabca/{path}"
+    "sha": "ff1414a9e754c2d628fb4e4d94c1d63dcf4840be",
+    "file_url": "https://cdn.jsdelivr.net/gh/debezium/debezium@ff1414a9e754c2d628fb4e4d94c1d63dcf4840be/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 13343,
+    "stars": 13345,
     "size_mb": 94,
     "created_at": "2016-01-22T20:17:05Z",
-    "last_commit_at": "2026-11-11T09:57:12Z",
+    "last_commit_at": "2026-11-11T13:09:50Z",
     "releases": 0,
     "tags": 281,
     "archived": false,
@@ -52,13 +49,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 29,
+    "star_delta_7d": 25,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "2437d7936fc640cdd2f930c4c39e2841ec1dabca",
+    "sha": "ff1414a9e754c2d628fb4e4d94c1d63dcf4840be",
     "v": 3
   }
 }

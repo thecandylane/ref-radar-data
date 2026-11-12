@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d3296954a6b813898d298815ac3e68daa1cf7408"
-  },
   "id": "gh:swagger-api/swagger-ui",
   "kind": "repo",
   "url": "https://github.com/swagger-api/swagger-ui",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/swagger-api/swagger-ui",
-    "sha": "d3296954a6b813898d298815ac3e68daa1cf7408",
-    "file_url": "https://cdn.jsdelivr.net/gh/swagger-api/swagger-ui@d3296954a6b813898d298815ac3e68daa1cf7408/{path}"
+    "sha": "b5383db0228c0ba6bde2c0c96db521f39b683c6e",
+    "file_url": "https://cdn.jsdelivr.net/gh/swagger-api/swagger-ui@b5383db0228c0ba6bde2c0c96db521f39b683c6e/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "Apache-2.0",
-    "stars": 29080,
+    "stars": 29081,
     "size_mb": 624,
     "created_at": "2011-07-15T22:56:39Z",
     "last_commit_at": "2026-11-09T10:32:58Z",
@@ -61,9 +58,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "d3296954a6b813898d298815ac3e68daa1cf7408",
-    "v": 3
-  }
+  "tier": "curated"
 }

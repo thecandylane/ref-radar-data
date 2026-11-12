@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:b34734376128492fa4e1b01412193de033e20613"
-  },
   "id": "gh:syncthing/syncthing",
   "kind": "repo",
   "url": "https://github.com/syncthing/syncthing",
@@ -37,13 +34,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/syncthing/syncthing",
-    "sha": "b34734376128492fa4e1b01412193de033e20613",
-    "file_url": "https://cdn.jsdelivr.net/gh/syncthing/syncthing@b34734376128492fa4e1b01412193de033e20613/{path}"
+    "sha": "ed2e0fd441cf4ed797f6dee6e3db4d1a6ddb82f5",
+    "file_url": "https://cdn.jsdelivr.net/gh/syncthing/syncthing@ed2e0fd441cf4ed797f6dee6e3db4d1a6ddb82f5/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MPL-2.0",
-    "stars": 90351,
+    "stars": 90397,
     "size_mb": 125,
     "created_at": "2013-11-26T09:48:21Z",
     "last_commit_at": "2026-11-09T03:48:13Z",
@@ -63,14 +60,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 297,
+    "star_delta_7d": 288,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "b34734376128492fa4e1b01412193de033e20613",
-    "v": 3
-  },
   "hot": true
 }

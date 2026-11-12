@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:2fe0ead077408eae9c1ff883b9d995792fbc0170"
-  },
   "id": "gh:celery/celery",
   "kind": "repo",
   "url": "https://github.com/celery/celery",
@@ -25,13 +22,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/celery/celery",
-    "sha": "2fe0ead077408eae9c1ff883b9d995792fbc0170",
-    "file_url": "https://cdn.jsdelivr.net/gh/celery/celery@2fe0ead077408eae9c1ff883b9d995792fbc0170/{path}"
+    "sha": "9c2f238334331db43f15956f131235fd3bb70fd1",
+    "file_url": "https://cdn.jsdelivr.net/gh/celery/celery@9c2f238334331db43f15956f131235fd3bb70fd1/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 29171,
+    "stars": 29175,
     "size_mb": 38,
     "created_at": "2009-04-24T11:31:24Z",
     "last_commit_at": "2026-11-11T03:25:05Z",
@@ -57,8 +54,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "2fe0ead077408eae9c1ff883b9d995792fbc0170",
+    "sha": "9c2f238334331db43f15956f131235fd3bb70fd1",
     "v": 3
-  },
-  "hot": true
+  }
 }

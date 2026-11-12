@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:69d7f1c53598ba76ba4c9ce320d6799b00bfca24"
-  },
   "id": "gh:parse-community/parse-server",
   "kind": "repo",
   "url": "https://github.com/parse-community/parse-server",
@@ -33,8 +30,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/parse-community/parse-server",
-    "sha": "69d7f1c53598ba76ba4c9ce320d6799b00bfca24",
-    "file_url": "https://cdn.jsdelivr.net/gh/parse-community/parse-server@69d7f1c53598ba76ba4c9ce320d6799b00bfca24/{path}"
+    "sha": "3402ee6793a2ee361624bdf1fac8d4886fffe156",
+    "file_url": "https://cdn.jsdelivr.net/gh/parse-community/parse-server@3402ee6793a2ee361624bdf1fac8d4886fffe156/{path}"
   },
   "facts": {
     "lang": "JavaScript",
@@ -59,13 +56,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "69d7f1c53598ba76ba4c9ce320d6799b00bfca24",
-    "v": 3
-  }
+  "tier": "curated"
 }

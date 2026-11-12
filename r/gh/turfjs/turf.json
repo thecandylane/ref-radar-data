@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:5e8a8dab0e308656540c8e54f163ab3410e6bd14"
+    "swh": "swh:1:rev:4970f9f5276576e5eafddc26d9b6dc96f5af1d7f"
   },
   "id": "gh:turfjs/turf",
   "kind": "repo",
@@ -29,16 +29,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Turfjs/turf",
-    "sha": "5e8a8dab0e308656540c8e54f163ab3410e6bd14",
-    "file_url": "https://cdn.jsdelivr.net/gh/Turfjs/turf@5e8a8dab0e308656540c8e54f163ab3410e6bd14/{path}"
+    "sha": "4970f9f5276576e5eafddc26d9b6dc96f5af1d7f",
+    "file_url": "https://cdn.jsdelivr.net/gh/Turfjs/turf@4970f9f5276576e5eafddc26d9b6dc96f5af1d7f/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 10540,
+    "stars": 10539,
     "size_mb": 58,
     "created_at": "2013-10-03T14:50:25Z",
-    "last_commit_at": "2026-11-04T12:41:34Z",
+    "last_commit_at": "2026-11-11T14:43:08Z",
     "releases": 21,
     "tags": 105,
     "archived": false,
@@ -55,13 +55,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 7,
+    "star_delta_7d": 4,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "5e8a8dab0e308656540c8e54f163ab3410e6bd14",
-    "v": 3
-  }
+  "tier": "curated"
 }

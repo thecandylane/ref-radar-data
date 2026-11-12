@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:39b9f2d5aedb4e405d37df3f4037b749c4912dd5"
-  },
   "id": "gh:clickhouse/clickhouse",
   "kind": "repo",
   "url": "https://github.com/ClickHouse/ClickHouse",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ClickHouse/ClickHouse",
-    "sha": "39b9f2d5aedb4e405d37df3f4037b749c4912dd5",
-    "file_url": "https://raw.githubusercontent.com/ClickHouse/ClickHouse/39b9f2d5aedb4e405d37df3f4037b749c4912dd5/{path}"
+    "sha": "1598acaa8ffc4395e761216fb7be9ae86cd007b3",
+    "file_url": "https://raw.githubusercontent.com/ClickHouse/ClickHouse/1598acaa8ffc4395e761216fb7be9ae86cd007b3/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "Apache-2.0",
-    "stars": 50874,
-    "size_mb": 15140,
+    "stars": 50896,
+    "size_mb": 15202,
     "created_at": "2016-06-02T08:28:18Z",
-    "last_commit_at": "2026-11-11T07:51:08Z",
+    "last_commit_at": "2026-11-12T06:27:45Z",
     "releases": 970,
     "tags": 2176,
     "archived": false,
@@ -61,13 +58,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 129,
+    "star_delta_7d": 145,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "39b9f2d5aedb4e405d37df3f4037b749c4912dd5",
+    "sha": "1598acaa8ffc4395e761216fb7be9ae86cd007b3",
     "v": 3
   },
   "hot": true

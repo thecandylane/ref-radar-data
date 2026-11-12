@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:fe54b2ab67da1ef702e5e81429f5eaf1c2810533"
-  },
   "id": "gh:langgenius/dify",
   "kind": "repo",
   "url": "https://github.com/langgenius/dify",
@@ -36,16 +33,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/langgenius/dify",
-    "sha": "fe54b2ab67da1ef702e5e81429f5eaf1c2810533",
-    "file_url": "https://cdn.jsdelivr.net/gh/langgenius/dify@fe54b2ab67da1ef702e5e81429f5eaf1c2810533/{path}"
+    "sha": "a42dfcf4f99920742222cfaaca7fc696ed6f429a",
+    "file_url": "https://cdn.jsdelivr.net/gh/langgenius/dify@a42dfcf4f99920742222cfaaca7fc696ed6f429a/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 160954,
+    "stars": 161018,
     "size_mb": 693,
     "created_at": "2023-04-12T07:40:24Z",
-    "last_commit_at": "2026-11-11T09:43:32Z",
+    "last_commit_at": "2026-11-12T09:05:30Z",
     "releases": 172,
     "tags": 180,
     "archived": false,
@@ -62,14 +59,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 575,
+    "star_delta_7d": 573,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "fe54b2ab67da1ef702e5e81429f5eaf1c2810533",
-    "v": 3
-  },
   "hot": true
 }

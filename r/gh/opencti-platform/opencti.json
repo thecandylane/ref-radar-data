@@ -22,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/OpenCTI-Platform/opencti",
-    "sha": "2e723199480fd061b74654e80824527b1d7be802",
-    "file_url": "https://raw.githubusercontent.com/OpenCTI-Platform/opencti/2e723199480fd061b74654e80824527b1d7be802/{path}"
+    "sha": "90b73a2804e7d416994febedbe111d044057c436",
+    "file_url": "https://raw.githubusercontent.com/OpenCTI-Platform/opencti/90b73a2804e7d416994febedbe111d044057c436/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 10326,
-    "size_mb": 902,
+    "stars": 10350,
+    "size_mb": 904,
     "created_at": "2018-12-17T22:57:34Z",
-    "last_commit_at": "2026-11-10T19:46:55Z",
+    "last_commit_at": "2026-11-12T09:10:45Z",
     "releases": 425,
     "tags": 428,
     "archived": false,
@@ -48,13 +48,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 68,
+    "star_delta_7d": 86,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "2e723199480fd061b74654e80824527b1d7be802",
-    "v": 3
-  }
+  "tier": "curated"
 }

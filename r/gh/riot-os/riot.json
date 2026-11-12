@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a552a0a2c15bca22e0811d89dd58c0247edc5ad3"
-  },
   "id": "gh:riot-os/riot",
   "kind": "repo",
   "url": "https://github.com/RIOT-OS/RIOT",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/RIOT-OS/RIOT",
-    "sha": "a552a0a2c15bca22e0811d89dd58c0247edc5ad3",
-    "file_url": "https://raw.githubusercontent.com/RIOT-OS/RIOT/a552a0a2c15bca22e0811d89dd58c0247edc5ad3/{path}"
+    "sha": "d532adbb7a28678476f93c4551e0c79bfd2d1c52",
+    "file_url": "https://raw.githubusercontent.com/RIOT-OS/RIOT/d532adbb7a28678476f93c4551e0c79bfd2d1c52/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "LGPL-2.1",
-    "stars": 5839,
+    "stars": 5841,
     "size_mb": 184,
     "created_at": "2012-12-29T20:38:40Z",
-    "last_commit_at": "2026-11-10T21:51:23Z",
+    "last_commit_at": "2026-11-11T22:30:10Z",
     "releases": 55,
     "tags": 224,
     "archived": false,
@@ -61,9 +58,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "a552a0a2c15bca22e0811d89dd58c0247edc5ad3",
-    "v": 3
-  }
+  "tier": "curated"
 }

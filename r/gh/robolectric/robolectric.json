@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:dee6f74d6387416aa7239e38d1895d3adc6bea54"
-  },
   "id": "gh:robolectric/robolectric",
   "kind": "repo",
   "url": "https://github.com/robolectric/robolectric",
@@ -27,14 +24,14 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/robolectric/robolectric",
-    "sha": "dee6f74d6387416aa7239e38d1895d3adc6bea54",
-    "file_url": "https://cdn.jsdelivr.net/gh/robolectric/robolectric@dee6f74d6387416aa7239e38d1895d3adc6bea54/{path}"
+    "sha": "6e4472709e6b438e0e07b428982a1c8a12281705",
+    "file_url": "https://cdn.jsdelivr.net/gh/robolectric/robolectric@6e4472709e6b438e0e07b428982a1c8a12281705/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "NOASSERTION",
-    "stars": 6084,
-    "size_mb": 66,
+    "stars": 6085,
+    "size_mb": 65,
     "created_at": "2010-08-28T00:28:25Z",
     "last_commit_at": "2026-11-11T04:56:08Z",
     "releases": 117,
@@ -57,9 +54,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "dee6f74d6387416aa7239e38d1895d3adc6bea54",
-    "v": 3
-  }
+  "tier": "curated"
 }

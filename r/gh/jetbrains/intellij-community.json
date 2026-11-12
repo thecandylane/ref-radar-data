@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:2b682032a7704a94bf3f15a3f6f8638ceba8a0fa"
-  },
   "id": "gh:jetbrains/intellij-community",
   "kind": "repo",
   "url": "https://github.com/JetBrains/intellij-community",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/JetBrains/intellij-community",
-    "sha": "2b682032a7704a94bf3f15a3f6f8638ceba8a0fa",
-    "file_url": "https://raw.githubusercontent.com/JetBrains/intellij-community/2b682032a7704a94bf3f15a3f6f8638ceba8a0fa/{path}"
+    "sha": "61e139c5d8d86b7cb754af23491aba4b7f2eec39",
+    "file_url": "https://raw.githubusercontent.com/JetBrains/intellij-community/61e139c5d8d86b7cb754af23491aba4b7f2eec39/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "NOASSERTION",
     "stars": 20729,
-    "size_mb": 6023,
+    "size_mb": 6026,
     "created_at": "2011-09-30T13:33:05Z",
-    "last_commit_at": "2026-11-11T09:23:48Z",
+    "last_commit_at": "2026-11-12T08:08:56Z",
     "releases": 63,
     "tags": 1703,
     "archived": false,
@@ -57,13 +54,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 16,
+    "star_delta_7d": 13,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "2b682032a7704a94bf3f15a3f6f8638ceba8a0fa",
-    "v": 3
-  }
+  "tier": "curated"
 }

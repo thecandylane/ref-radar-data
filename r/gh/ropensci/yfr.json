@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0051bf6157c080265cf2290145f881ff1228e9cb"
+  },
+  "id": "gh:ropensci/yfr",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/yfR",
+  "title": "yfR",
+  "why": "R package that pulls stock price series from Yahoo Finance for many tickers, published under rOpenSci.",
+  "keys": {
+    "races": [
+      "finance/markets",
+      "finance/quant"
+    ],
+    "lanes": [
+      "finance/markets",
+      "finance/quant"
+    ],
+    "capabilities": [
+      "finance/markets/market-data",
+      "finance/quant/portfolio-optimization"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/yfR",
+    "sha": "0051bf6157c080265cf2290145f881ff1228e9cb",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/yfR@0051bf6157c080265cf2290145f881ff1228e9cb/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "NOASSERTION",
+    "stars": 51,
+    "size_mb": 5,
+    "created_at": "2021-06-08T13:44:11Z",
+    "last_commit_at": "2026-03-06T18:20:39Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0051bf6157c080265cf2290145f881ff1228e9cb",
+    "v": 3
+  }
+}

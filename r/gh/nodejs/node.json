@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:9365fff7b5087ee72919be3ef0133e5f4f163a29"
+    "swh": "swh:1:rev:933cb117c91c961880d0b00fd9b6b75ff4580484"
   },
   "id": "gh:nodejs/node",
   "kind": "repo",
@@ -33,22 +33,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/nodejs/node",
-    "sha": "9365fff7b5087ee72919be3ef0133e5f4f163a29",
-    "file_url": "https://raw.githubusercontent.com/nodejs/node/9365fff7b5087ee72919be3ef0133e5f4f163a29/{path}"
+    "sha": "933cb117c91c961880d0b00fd9b6b75ff4580484",
+    "file_url": "https://raw.githubusercontent.com/nodejs/node/933cb117c91c961880d0b00fd9b6b75ff4580484/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "NOASSERTION",
-    "stars": 123534,
+    "stars": 123486,
     "size_mb": 1656,
     "created_at": "2014-11-26T19:57:11Z",
-    "last_commit_at": "2026-11-11T08:27:59Z",
-    "releases": 530,
-    "tags": 972,
+    "last_commit_at": "2026-11-11T22:15:53Z",
+    "releases": 533,
+    "tags": 975,
     "archived": false,
     "release": {
-      "tag": "v26.13.0",
-      "at": "2026-10-28T16:57:41.000Z"
+      "tag": "v26.13.1",
+      "at": "2026-11-11T16:44:25.000Z"
     }
   },
   "reuse": "study",
@@ -59,14 +59,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 307,
+    "star_delta_7d": 247,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "9365fff7b5087ee72919be3ef0133e5f4f163a29",
-    "v": 3
-  },
   "hot": true
 }

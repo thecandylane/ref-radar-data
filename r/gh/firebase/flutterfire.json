@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d07113e3adfe128d2e4810bae22c5ca5bcbc48eb"
-  },
   "id": "gh:firebase/flutterfire",
   "kind": "repo",
   "url": "https://github.com/firebase/flutterfire",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/firebase/flutterfire",
-    "sha": "d07113e3adfe128d2e4810bae22c5ca5bcbc48eb",
-    "file_url": "https://cdn.jsdelivr.net/gh/firebase/flutterfire@d07113e3adfe128d2e4810bae22c5ca5bcbc48eb/{path}"
+    "sha": "8ce0ffa420b0d48b7ab3f7ad9c6cf9f552b691fd",
+    "file_url": "https://cdn.jsdelivr.net/gh/firebase/flutterfire@8ce0ffa420b0d48b7ab3f7ad9c6cf9f552b691fd/{path}"
   },
   "facts": {
     "lang": "Dart",
@@ -40,7 +37,7 @@
     "stars": 9270,
     "size_mb": 74,
     "created_at": "2019-08-14T21:38:05Z",
-    "last_commit_at": "2026-11-11T09:10:59Z",
+    "last_commit_at": "2026-11-11T10:52:32Z",
     "releases": 6,
     "tags": 7408,
     "archived": false,
@@ -58,9 +55,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "d07113e3adfe128d2e4810bae22c5ca5bcbc48eb",
-    "v": 3
-  }
+  "tier": "curated"
 }

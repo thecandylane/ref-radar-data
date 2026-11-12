@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:27ac1e8726af384ce2cbd793071c08f9c987acc5"
-  },
   "id": "gh:projectdiscovery/nuclei",
   "kind": "repo",
   "url": "https://github.com/projectdiscovery/nuclei",
@@ -45,13 +42,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/projectdiscovery/nuclei",
-    "sha": "27ac1e8726af384ce2cbd793071c08f9c987acc5",
-    "file_url": "https://cdn.jsdelivr.net/gh/projectdiscovery/nuclei@27ac1e8726af384ce2cbd793071c08f9c987acc5/{path}"
+    "sha": "b2ea1489fd7decaa83e467febb1e20aa9de8b4d5",
+    "file_url": "https://cdn.jsdelivr.net/gh/projectdiscovery/nuclei@b2ea1489fd7decaa83e467febb1e20aa9de8b4d5/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 32789,
+    "stars": 32824,
     "size_mb": 49,
     "created_at": "2020-04-03T18:47:11Z",
     "last_commit_at": "2026-11-11T04:27:33Z",
@@ -71,14 +68,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 206,
+    "star_delta_7d": 225,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "27ac1e8726af384ce2cbd793071c08f9c987acc5",
-    "v": 3
-  },
   "hot": true
 }

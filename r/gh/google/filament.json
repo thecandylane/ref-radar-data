@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:f868cc1168a16d5609da6796df9306a3eccbff58"
-  },
   "id": "gh:google/filament",
   "kind": "repo",
   "url": "https://github.com/google/filament",
@@ -27,22 +24,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/google/filament",
-    "sha": "f868cc1168a16d5609da6796df9306a3eccbff58",
-    "file_url": "https://raw.githubusercontent.com/google/filament/f868cc1168a16d5609da6796df9306a3eccbff58/{path}"
+    "sha": "2478e5b01c3ff32d1eb90105df67d1d80ea4c5b6",
+    "file_url": "https://raw.githubusercontent.com/google/filament/2478e5b01c3ff32d1eb90105df67d1d80ea4c5b6/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "Apache-2.0",
-    "stars": 20732,
+    "stars": 20740,
     "size_mb": 1175,
     "created_at": "2018-08-03T17:26:00Z",
-    "last_commit_at": "2026-11-11T02:26:52Z",
-    "releases": 285,
-    "tags": 316,
+    "last_commit_at": "2026-11-12T05:13:39Z",
+    "releases": 286,
+    "tags": 318,
     "archived": false,
     "release": {
-      "tag": "v1.80.0",
-      "at": "2026-11-02T21:30:50.000Z"
+      "tag": "v1.80.1",
+      "at": "2026-11-11T21:17:06.000Z"
     }
   },
   "reuse": "copy",
@@ -53,13 +50,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 45,
+    "star_delta_7d": 47,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "f868cc1168a16d5609da6796df9306a3eccbff58",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -22,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/b23r0/Heroinn",
-    "sha": "915b443d761d94f5343da5ffa855cf493554e21d",
-    "file_url": "https://cdn.jsdelivr.net/gh/b23r0/Heroinn@915b443d761d94f5343da5ffa855cf493554e21d/{path}"
+    "sha": "e0c5616d0db1654a2d3cf448308411337a41276e",
+    "file_url": "https://cdn.jsdelivr.net/gh/b23r0/Heroinn@e0c5616d0db1654a2d3cf448308411337a41276e/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "GPL-3.0",
-    "stars": 731,
+    "stars": 732,
     "size_mb": 22,
     "created_at": "2015-05-16T14:54:19Z",
-    "last_commit_at": "2026-11-11T05:52:20Z",
+    "last_commit_at": "2026-11-11T11:19:46Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -51,7 +51,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "915b443d761d94f5343da5ffa855cf493554e21d",
+    "sha": "e0c5616d0db1654a2d3cf448308411337a41276e",
     "v": 3
   },
   "risk": {
@@ -59,6 +59,6 @@
     "signals": [
       "offensive or proof-of-concept code"
     ],
-    "scanned_at": "2026-11-10T12:15:25.726Z"
+    "scanned_at": "2026-11-11T12:00:11.959Z"
   }
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:12ec299dcf1e549b875d5d014b8aebb4779fd8dc"
-  },
   "id": "gh:grafana/pyroscope",
   "kind": "repo",
   "url": "https://github.com/grafana/pyroscope",
@@ -35,8 +32,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/grafana/pyroscope",
-    "sha": "12ec299dcf1e549b875d5d014b8aebb4779fd8dc",
-    "file_url": "https://cdn.jsdelivr.net/gh/grafana/pyroscope@12ec299dcf1e549b875d5d014b8aebb4779fd8dc/{path}"
+    "sha": "88c6d288c1048902e69b9f183d9a95e25ed9e13c",
+    "file_url": "https://cdn.jsdelivr.net/gh/grafana/pyroscope@88c6d288c1048902e69b9f183d9a95e25ed9e13c/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -61,13 +58,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8,
+    "star_delta_7d": 6,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "12ec299dcf1e549b875d5d014b8aebb4779fd8dc",
-    "v": 3
-  }
+  "tier": "curated"
 }

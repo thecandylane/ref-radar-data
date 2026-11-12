@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ae653376e10b89f01d528a226349e3303b594ebb"
-  },
   "id": "gh:netdata/netdata",
   "kind": "repo",
   "url": "https://github.com/netdata/netdata",
@@ -33,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/netdata/netdata",
-    "sha": "ae653376e10b89f01d528a226349e3303b594ebb",
-    "file_url": "https://raw.githubusercontent.com/netdata/netdata/ae653376e10b89f01d528a226349e3303b594ebb/{path}"
+    "sha": "48742488faf518a1426b0a0a743bd69ba1f9daf9",
+    "file_url": "https://raw.githubusercontent.com/netdata/netdata/48742488faf518a1426b0a0a743bd69ba1f9daf9/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "GPL-3.0",
-    "stars": 81366,
-    "size_mb": 335,
+    "stars": 81379,
+    "size_mb": 336,
     "created_at": "2013-06-17T18:39:10Z",
-    "last_commit_at": "2026-11-11T09:30:09Z",
+    "last_commit_at": "2026-11-12T09:20:24Z",
     "releases": 143,
     "tags": 159,
     "archived": false,
@@ -64,8 +61,5 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "ae653376e10b89f01d528a226349e3303b594ebb",
-    "v": 3
-  }
+  "hot": true
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:cb3a02baf124dc5e23269aa0b79eb6230c135263"
-  },
   "id": "gh:awesomedata/awesome-public-datasets",
   "kind": "repo",
   "url": "https://github.com/awesomedata/awesome-public-datasets",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/awesomedata/awesome-public-datasets",
-    "sha": "cb3a02baf124dc5e23269aa0b79eb6230c135263",
-    "file_url": "https://cdn.jsdelivr.net/gh/awesomedata/awesome-public-datasets@cb3a02baf124dc5e23269aa0b79eb6230c135263/{path}"
+    "sha": "ed224403c1990f4307a5e67f7bb093ff9efe3a1d",
+    "file_url": "https://cdn.jsdelivr.net/gh/awesomedata/awesome-public-datasets@ed224403c1990f4307a5e67f7bb093ff9efe3a1d/{path}"
   },
   "facts": {
     "lang": null,
     "license": "MIT",
-    "stars": 80027,
+    "stars": 80053,
     "size_mb": 2,
     "created_at": "2014-11-20T06:20:50Z",
-    "last_commit_at": "2026-11-10T21:44:03Z",
+    "last_commit_at": "2026-11-11T17:15:07Z",
     "releases": 1,
     "tags": 2,
     "archived": false,
@@ -53,13 +50,13 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 81,
+    "star_delta_7d": 104,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "cb3a02baf124dc5e23269aa0b79eb6230c135263",
+    "sha": "ed224403c1990f4307a5e67f7bb093ff9efe3a1d",
     "v": 3
   },
   "hot": true

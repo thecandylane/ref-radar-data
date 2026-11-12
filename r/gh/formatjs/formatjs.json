@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:3294d013f0379b1bc1c8ec4ae1fd22cfbd94f3dc"
-  },
   "id": "gh:formatjs/formatjs",
   "kind": "repo",
   "url": "https://github.com/formatjs/formatjs",
@@ -35,8 +32,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/formatjs/formatjs",
-    "sha": "3294d013f0379b1bc1c8ec4ae1fd22cfbd94f3dc",
-    "file_url": "https://cdn.jsdelivr.net/gh/formatjs/formatjs@3294d013f0379b1bc1c8ec4ae1fd22cfbd94f3dc/{path}"
+    "sha": "35439b34f6531a3d336b55103780ccc1ae0043e9",
+    "file_url": "https://cdn.jsdelivr.net/gh/formatjs/formatjs@35439b34f6531a3d336b55103780ccc1ae0043e9/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -44,7 +41,7 @@
     "stars": 14754,
     "size_mb": 101,
     "created_at": "2014-04-24T17:28:36Z",
-    "last_commit_at": "2026-11-11T09:47:07Z",
+    "last_commit_at": "2026-11-12T06:59:28Z",
     "releases": 1000,
     "tags": 5144,
     "archived": false,
@@ -65,9 +62,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "3294d013f0379b1bc1c8ec4ae1fd22cfbd94f3dc",
-    "v": 3
-  }
+  "tier": "curated"
 }

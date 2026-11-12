@@ -1,10 +1,7 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:bac163ecc92e968adda68864b74b7e3d65a68e97"
-  },
   "id": "gh:electric-sql/pglite",
   "kind": "repo",
-  "url": "https://github.com/electric-sql/pglite",
+  "url": "https://github.com/neondatabase/electric-pglite",
   "title": "pglite",
   "why": "Postgres compiled to WebAssembly that embeds in a TypeScript app, with reactive bindings and workspace packages.",
   "keys": {
@@ -28,14 +25,14 @@
   ],
   "fetch": {
     "type": "git-sparse",
-    "repo": "https://github.com/electric-sql/pglite",
-    "sha": "bac163ecc92e968adda68864b74b7e3d65a68e97",
-    "file_url": "https://cdn.jsdelivr.net/gh/electric-sql/pglite@bac163ecc92e968adda68864b74b7e3d65a68e97/{path}"
+    "repo": "https://github.com/neondatabase/electric-pglite",
+    "sha": "dbd6eb41c9aca5b655adf0f516c3c9888469a02c",
+    "file_url": "https://cdn.jsdelivr.net/gh/neondatabase/electric-pglite@dbd6eb41c9aca5b655adf0f516c3c9888469a02c/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 16261,
+    "stars": 16267,
     "size_mb": 33,
     "created_at": "2024-02-19T14:37:38Z",
     "last_commit_at": "2026-11-10T15:10:13Z",
@@ -55,13 +52,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 26,
+    "star_delta_7d": 27,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "bac163ecc92e968adda68864b74b7e3d65a68e97",
+    "sha": "dbd6eb41c9aca5b655adf0f516c3c9888469a02c",
     "v": 3
   }
 }

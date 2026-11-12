@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2cbfece4545788b64e9af274b258a4033bea8a9a"
+  },
+  "id": "gh:yulab-smu/treeio",
+  "kind": "repo",
+  "url": "https://github.com/YuLab-SMU/treeio",
+  "title": "treeio",
+  "why": "Parser and exporter in R for phylogenetic tree files, with an AGENTS.md for agents working in the repo.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/serialization"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/YuLab-SMU/treeio",
+    "sha": "2cbfece4545788b64e9af274b258a4033bea8a9a",
+    "file_url": "https://cdn.jsdelivr.net/gh/YuLab-SMU/treeio@2cbfece4545788b64e9af274b258a4033bea8a9a/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 103,
+    "size_mb": 3,
+    "created_at": "2016-12-06T06:05:56Z",
+    "last_commit_at": "2026-09-21T05:07:43Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2cbfece4545788b64e9af274b258a4033bea8a9a",
+    "v": 3
+  }
+}

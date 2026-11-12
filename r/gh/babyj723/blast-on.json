@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cfac2bc34d3e27abf2fb64f4e19ff07b9f132e52"
+  },
+  "id": "gh:babyj723/blast-on",
+  "kind": "repo",
+  "url": "https://github.com/BabyJ723/blast-ON",
+  "title": "blast-ON",
+  "why": "Reading list for Keycloak single sign-on: books, talks, admin clients, themes and extensions, grouped by topic.",
+  "keys": {
+    "races": [
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/iam"
+    ]
+  },
+  "read": [
+    {
+      "locator": "LICENSE",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/BabyJ723/blast-ON",
+    "sha": "cfac2bc34d3e27abf2fb64f4e19ff07b9f132e52",
+    "file_url": "https://cdn.jsdelivr.net/gh/BabyJ723/blast-ON@cfac2bc34d3e27abf2fb64f4e19ff07b9f132e52/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "BSL-1.0",
+    "stars": 54,
+    "size_mb": 0,
+    "created_at": "2021-09-04T03:48:54Z",
+    "last_commit_at": "2021-09-04T03:48:54Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "cfac2bc34d3e27abf2fb64f4e19ff07b9f132e52",
+    "v": 3
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "offensive or proof-of-concept code"
+    ],
+    "scanned_at": "2026-11-11T11:06:47.022Z"
+  }
+}

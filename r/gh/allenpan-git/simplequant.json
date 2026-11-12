@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:84b9df8082f07fe2b14610961793259b3886408f"
-  },
   "id": "gh:allenpan-git/simplequant",
   "kind": "repo",
   "url": "https://github.com/AllenPan-Git/SimpleQuant",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/AllenPan-Git/SimpleQuant",
-    "sha": "84b9df8082f07fe2b14610961793259b3886408f",
-    "file_url": "https://cdn.jsdelivr.net/gh/AllenPan-Git/SimpleQuant@84b9df8082f07fe2b14610961793259b3886408f/{path}"
+    "sha": "4bb5de92a5845abf4ed3c1fb52dda2474efba662",
+    "file_url": "https://cdn.jsdelivr.net/gh/AllenPan-Git/SimpleQuant@4bb5de92a5845abf4ed3c1fb52dda2474efba662/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -61,7 +58,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "84b9df8082f07fe2b14610961793259b3886408f",
+    "sha": "4bb5de92a5845abf4ed3c1fb52dda2474efba662",
     "v": 3
   },
   "risk": {
@@ -69,6 +66,6 @@
     "signals": [
       "offensive or proof-of-concept code"
     ],
-    "scanned_at": "2026-11-10T12:04:34.263Z"
+    "scanned_at": "2026-11-11T11:57:03.033Z"
   }
 }

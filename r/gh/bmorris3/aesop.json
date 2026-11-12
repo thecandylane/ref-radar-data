@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5cf71656786162c38aeb0ddb2b8eb81cb1a74ed4"
+  },
+  "id": "gh:bmorris3/aesop",
+  "kind": "repo",
+  "url": "https://github.com/bmorris3/aesop",
+  "title": "aesop",
+  "why": "Python pipeline that turns ARC echelle observations into spectra, with IRAF scripts and example notebooks.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bmorris3/aesop",
+    "sha": "5cf71656786162c38aeb0ddb2b8eb81cb1a74ed4",
+    "file_url": "https://cdn.jsdelivr.net/gh/bmorris3/aesop@5cf71656786162c38aeb0ddb2b8eb81cb1a74ed4/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 3,
+    "size_mb": 1,
+    "created_at": "2017-10-26T16:19:27Z",
+    "last_commit_at": "2025-03-28T00:23:59Z",
+    "releases": 3,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v0.3",
+      "at": "2023-07-31T14:29:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5cf71656786162c38aeb0ddb2b8eb81cb1a74ed4",
+    "v": 3
+  }
+}

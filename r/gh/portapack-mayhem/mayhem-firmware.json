@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:834076356ef40c1cd5160a920ce6d912e83db427"
-  },
   "id": "gh:portapack-mayhem/mayhem-firmware",
   "kind": "repo",
   "url": "https://github.com/portapack-mayhem/mayhem-firmware",
@@ -25,18 +22,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/portapack-mayhem/mayhem-firmware",
-    "sha": "834076356ef40c1cd5160a920ce6d912e83db427",
-    "file_url": "https://raw.githubusercontent.com/portapack-mayhem/mayhem-firmware/834076356ef40c1cd5160a920ce6d912e83db427/{path}"
+    "sha": "e46911fb49714ed6e7c0c613f5be178de8ac075e",
+    "file_url": "https://raw.githubusercontent.com/portapack-mayhem/mayhem-firmware/e46911fb49714ed6e7c0c613f5be178de8ac075e/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "GPL-3.0",
-    "stars": 5534,
+    "stars": 5535,
     "size_mb": 430,
     "created_at": "2020-03-29T13:51:34Z",
-    "last_commit_at": "2026-11-08T10:38:21Z",
-    "releases": 764,
-    "tags": 767,
+    "last_commit_at": "2026-11-12T07:41:43Z",
+    "releases": 765,
+    "tags": 768,
     "archived": false,
     "release": {
       "tag": "v2.4.0",
@@ -55,9 +52,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "834076356ef40c1cd5160a920ce6d912e83db427",
-    "v": 3
-  }
+  "tier": "curated"
 }

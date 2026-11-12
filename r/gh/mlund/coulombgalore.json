@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:95867c8687c8e3a91d1929ad3a21c02e33f56089"
+  },
+  "id": "gh:mlund/coulombgalore",
+  "kind": "repo",
+  "url": "https://github.com/mlund/coulombgalore",
+  "title": "coulombgalore",
+  "why": "C++ header library for electrostatics in molecular simulation, covering multipole and dipole interactions for Monte Carlo and dynamics codes.",
+  "keys": {
+    "races": [
+      "engineering/chemistry"
+    ],
+    "lanes": [
+      "engineering/chemistry"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mlund/coulombgalore",
+    "sha": "95867c8687c8e3a91d1929ad3a21c02e33f56089",
+    "file_url": "https://cdn.jsdelivr.net/gh/mlund/coulombgalore@95867c8687c8e3a91d1929ad3a21c02e33f56089/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 21,
+    "size_mb": 1,
+    "created_at": "2019-06-01T09:58:59Z",
+    "last_commit_at": "2025-09-19T09:29:43Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.3",
+      "at": "2025-09-19T07:12:07.000Z"
+    },
+    "doi": "10.5281/zenodo.3522058",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-12"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "95867c8687c8e3a91d1929ad3a21c02e33f56089",
+    "v": 3
+  }
+}

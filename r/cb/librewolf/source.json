@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:e63514c1b52b66fa605b31f9be5e347273fb061a"
+  },
   "id": "cb:librewolf/source",
   "kind": "repo",
   "url": "https://codeberg.org/librewolf/source",
@@ -24,18 +27,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://codeberg.org/librewolf/source",
-    "sha": "4f8327db145356c3b3242f5f974b138960b5b5bb",
-    "file_url": "https://codeberg.org/librewolf/source/raw/commit/4f8327db145356c3b3242f5f974b138960b5b5bb/{path}"
+    "sha": "e63514c1b52b66fa605b31f9be5e347273fb061a",
+    "file_url": "https://codeberg.org/librewolf/source/raw/commit/e63514c1b52b66fa605b31f9be5e347273fb061a/{path}"
   },
   "facts": {
     "lang": "JSON",
     "license": "NOASSERTION",
-    "stars": 1370,
+    "stars": 1371,
     "size_mb": 8,
     "created_at": "2023-08-17T09:29:02.000Z",
-    "last_commit_at": "2026-11-09T11:55:35.000Z",
+    "last_commit_at": "2026-11-10T06:12:51.000Z",
     "releases": 139,
-    "tags": 245,
+    "tags": 246,
     "archived": false
   },
   "reuse": "study",
@@ -52,7 +55,7 @@
   },
   "tier": "discovered",
   "pack": {
-    "sha": "4f8327db145356c3b3242f5f974b138960b5b5bb",
+    "sha": "e63514c1b52b66fa605b31f9be5e347273fb061a",
     "v": 3
   }
 }

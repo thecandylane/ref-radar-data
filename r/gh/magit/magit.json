@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:942d61d5de37c89a3a7c6cf693696b900b1d97b0"
-  },
   "id": "gh:magit/magit",
   "kind": "repo",
   "url": "https://github.com/magit/magit",
@@ -27,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/magit/magit",
-    "sha": "942d61d5de37c89a3a7c6cf693696b900b1d97b0",
-    "file_url": "https://cdn.jsdelivr.net/gh/magit/magit@942d61d5de37c89a3a7c6cf693696b900b1d97b0/{path}"
+    "sha": "da92cab409326115b7ee64cc611c99fd29b00963",
+    "file_url": "https://cdn.jsdelivr.net/gh/magit/magit@da92cab409326115b7ee64cc611c99fd29b00963/{path}"
   },
   "facts": {
     "lang": "Emacs Lisp",
@@ -53,13 +50,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 6,
+    "star_delta_7d": 5,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "942d61d5de37c89a3a7c6cf693696b900b1d97b0",
-    "v": 3
-  }
+  "tier": "curated"
 }

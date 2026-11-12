@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:79483bd40732884385e0169ed3469c0492d4aaec"
-  },
   "id": "gh:vespa-engine/vespa",
   "kind": "repo",
   "url": "https://github.com/vespa-engine/vespa",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/vespa-engine/vespa",
-    "sha": "79483bd40732884385e0169ed3469c0492d4aaec",
-    "file_url": "https://raw.githubusercontent.com/vespa-engine/vespa/79483bd40732884385e0169ed3469c0492d4aaec/{path}"
+    "sha": "2ebecaf1d4520a8eba09fe09ceb2df3091467cf1",
+    "file_url": "https://raw.githubusercontent.com/vespa-engine/vespa/2ebecaf1d4520a8eba09fe09ceb2df3091467cf1/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 7174,
+    "stars": 7176,
     "size_mb": 492,
     "created_at": "2016-06-03T20:54:20Z",
-    "last_commit_at": "2026-11-11T10:05:52Z",
+    "last_commit_at": "2026-11-12T07:52:49Z",
     "releases": 308,
     "tags": 1244,
     "archived": false,
@@ -59,9 +56,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "79483bd40732884385e0169ed3469c0492d4aaec",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:3c4152d7d3904e76f6f756ec8ffca7c9ec72f977"
-  },
   "id": "gh:huntabyte/shadcn-svelte",
   "kind": "repo",
   "url": "https://github.com/huntabyte/shadcn-svelte",
@@ -31,22 +28,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/huntabyte/shadcn-svelte",
-    "sha": "3c4152d7d3904e76f6f756ec8ffca7c9ec72f977",
-    "file_url": "https://cdn.jsdelivr.net/gh/huntabyte/shadcn-svelte@3c4152d7d3904e76f6f756ec8ffca7c9ec72f977/{path}"
+    "sha": "3ae94d6ca4a77f46043f06c5af3211f54e85c678",
+    "file_url": "https://cdn.jsdelivr.net/gh/huntabyte/shadcn-svelte@3ae94d6ca4a77f46043f06c5af3211f54e85c678/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 9251,
+    "stars": 9254,
     "size_mb": 40,
     "created_at": "2023-05-16T03:26:53Z",
-    "last_commit_at": "2026-11-03T19:16:57Z",
-    "releases": 118,
-    "tags": 118,
+    "last_commit_at": "2026-11-11T21:27:50Z",
+    "releases": 119,
+    "tags": 119,
     "archived": false,
     "release": {
-      "tag": "shadcn-svelte@1.8.0",
-      "at": "2026-11-03T19:12:07.000Z"
+      "tag": "shadcn-svelte@1.8.1",
+      "at": "2026-11-11T21:23:54.000Z"
     }
   },
   "reuse": "copy",
@@ -57,13 +54,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 11,
+    "star_delta_7d": 12,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "3c4152d7d3904e76f6f756ec8ffca7c9ec72f977",
-    "v": 3
-  }
+  "tier": "curated"
 }

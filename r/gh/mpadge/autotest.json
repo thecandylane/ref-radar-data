@@ -1,0 +1,60 @@
+{
+  "id": "gh:mpadge/autotest",
+  "kind": "repo",
+  "url": "https://github.com/mpadge/autotest",
+  "title": "autotest",
+  "why": "Automatically fuzzes and tests R package functions using the parameter types and values documented in each function's help page.",
+  "keys": {
+    "races": [
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mpadge/autotest",
+    "sha": "abb3d2d9b48ec094df6cf3ba77a9d43ef395d635",
+    "file_url": "https://cdn.jsdelivr.net/gh/mpadge/autotest@abb3d2d9b48ec094df6cf3ba77a9d43ef395d635/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 55,
+    "size_mb": 2,
+    "created_at": "2020-07-03T07:32:44Z",
+    "last_commit_at": "2026-11-06T09:32:24Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.2",
+      "at": "2026-09-13T12:14:31.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "abb3d2d9b48ec094df6cf3ba77a9d43ef395d635",
+    "v": 3
+  }
+}

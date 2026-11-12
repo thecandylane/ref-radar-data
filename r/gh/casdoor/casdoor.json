@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:07cad85ae6ddb1dfb95d3d6e107e3b82b18ae2ef"
-  },
   "id": "gh:casdoor/casdoor",
   "kind": "repo",
   "url": "https://github.com/casdoor/casdoor",
@@ -30,16 +27,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/casdoor/casdoor",
-    "sha": "07cad85ae6ddb1dfb95d3d6e107e3b82b18ae2ef",
-    "file_url": "https://cdn.jsdelivr.net/gh/casdoor/casdoor@07cad85ae6ddb1dfb95d3d6e107e3b82b18ae2ef/{path}"
+    "sha": "66b51eef9422bdd8f2f215f37ea29858548fb918",
+    "file_url": "https://cdn.jsdelivr.net/gh/casdoor/casdoor@66b51eef9422bdd8f2f215f37ea29858548fb918/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 14826,
-    "size_mb": 53,
+    "stars": 14839,
+    "size_mb": 52,
     "created_at": "2020-10-22T14:40:03Z",
-    "last_commit_at": "2026-11-11T01:47:15Z",
+    "last_commit_at": "2026-11-11T11:37:06Z",
     "releases": 1000,
     "tags": 2045,
     "archived": false,
@@ -56,13 +53,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 73,
+    "star_delta_7d": 77,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "07cad85ae6ddb1dfb95d3d6e107e3b82b18ae2ef",
+    "sha": "66b51eef9422bdd8f2f215f37ea29858548fb918",
     "v": 3
   }
 }

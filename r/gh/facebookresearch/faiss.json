@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:b7c44bcc92e60e73e5cbc5b40b4c32d24d72652e"
-  },
   "id": "gh:facebookresearch/faiss",
   "kind": "repo",
   "url": "https://github.com/facebookresearch/faiss",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/facebookresearch/faiss",
-    "sha": "b7c44bcc92e60e73e5cbc5b40b4c32d24d72652e",
-    "file_url": "https://cdn.jsdelivr.net/gh/facebookresearch/faiss@b7c44bcc92e60e73e5cbc5b40b4c32d24d72652e/{path}"
+    "sha": "7767c6396381c6586aba873fda72eec8d6819b7b",
+    "file_url": "https://cdn.jsdelivr.net/gh/facebookresearch/faiss@7767c6396381c6586aba873fda72eec8d6819b7b/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 41399,
-    "size_mb": 287,
+    "stars": 41476,
+    "size_mb": 286,
     "created_at": "2017-02-07T16:07:05Z",
-    "last_commit_at": "2026-11-11T06:46:13Z",
+    "last_commit_at": "2026-11-12T01:26:53Z",
     "releases": 30,
     "tags": 34,
     "archived": false,
@@ -55,14 +52,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 142,
+    "star_delta_7d": 219,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "b7c44bcc92e60e73e5cbc5b40b4c32d24d72652e",
-    "v": 3
-  },
   "hot": true
 }

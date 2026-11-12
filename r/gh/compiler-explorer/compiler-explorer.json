@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:44930a52af1ed00c1ff6fb17bad9d20afe4763a9"
-  },
   "id": "gh:compiler-explorer/compiler-explorer",
   "kind": "repo",
   "url": "https://github.com/compiler-explorer/compiler-explorer",
@@ -29,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/compiler-explorer/compiler-explorer",
-    "sha": "44930a52af1ed00c1ff6fb17bad9d20afe4763a9",
-    "file_url": "https://cdn.jsdelivr.net/gh/compiler-explorer/compiler-explorer@44930a52af1ed00c1ff6fb17bad9d20afe4763a9/{path}"
+    "sha": "7b177ae2e330556023d4bdd65d6909ccbff71d4a",
+    "file_url": "https://cdn.jsdelivr.net/gh/compiler-explorer/compiler-explorer@7b177ae2e330556023d4bdd65d6909ccbff71d4a/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "BSD-2-Clause",
-    "stars": 19181,
+    "stars": 19185,
     "size_mb": 109,
     "created_at": "2012-05-23T01:31:17Z",
     "last_commit_at": "2026-11-11T06:29:04Z",
@@ -52,13 +49,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 10,
+    "star_delta_7d": 15,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "44930a52af1ed00c1ff6fb17bad9d20afe4763a9",
+    "sha": "7b177ae2e330556023d4bdd65d6909ccbff71d4a",
     "v": 3
   }
 }

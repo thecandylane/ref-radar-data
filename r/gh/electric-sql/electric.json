@@ -4,7 +4,7 @@
   },
   "id": "gh:electric-sql/electric",
   "kind": "repo",
-  "url": "https://github.com/electric-sql/electric",
+  "url": "https://github.com/neondatabase/electric",
   "title": "electric",
   "why": "Agent platform that syncs state through Postgres replication and CRDTs, with TypeScript packages and an AGENTS file to start from.",
   "keys": {
@@ -30,14 +30,14 @@
   ],
   "fetch": {
     "type": "git-sparse",
-    "repo": "https://github.com/electric-sql/electric",
+    "repo": "https://github.com/neondatabase/electric",
     "sha": "3f9809fb0bd894cb74470d434749673492ad7acf",
-    "file_url": "https://raw.githubusercontent.com/electric-sql/electric/3f9809fb0bd894cb74470d434749673492ad7acf/{path}"
+    "file_url": "https://raw.githubusercontent.com/neondatabase/electric/3f9809fb0bd894cb74470d434749673492ad7acf/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 10426,
+    "stars": 10429,
     "size_mb": 261,
     "created_at": "2022-06-01T14:18:11Z",
     "last_commit_at": "2026-10-06T16:09:42Z",
@@ -57,7 +57,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 6,
+    "star_delta_7d": 8,
     "votes": {},
     "ranks": {}
   },

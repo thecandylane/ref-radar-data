@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:81f391be36f8c63080ce1f84e5cd412564fe8216"
-  },
   "id": "gh:gruntwork-io/terratest",
   "kind": "repo",
   "url": "https://github.com/gruntwork-io/terratest",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/gruntwork-io/terratest",
-    "sha": "81f391be36f8c63080ce1f84e5cd412564fe8216",
-    "file_url": "https://cdn.jsdelivr.net/gh/gruntwork-io/terratest@81f391be36f8c63080ce1f84e5cd412564fe8216/{path}"
+    "sha": "aef9bb3a8010ba3fdb48983fa8429be569b70438",
+    "file_url": "https://cdn.jsdelivr.net/gh/gruntwork-io/terratest@aef9bb3a8010ba3fdb48983fa8429be569b70438/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -38,7 +35,7 @@
     "stars": 7991,
     "size_mb": 32,
     "created_at": "2016-03-05T00:26:17Z",
-    "last_commit_at": "2026-11-09T10:52:19Z",
+    "last_commit_at": "2026-11-11T13:59:48Z",
     "releases": 428,
     "tags": 474,
     "archived": false,
@@ -55,13 +52,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 2,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "81f391be36f8c63080ce1f84e5cd412564fe8216",
-    "v": 3
-  }
+  "tier": "curated"
 }

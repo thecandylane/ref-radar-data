@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:e6b4dd8b4034e3819b5c03cdbcd492142589c90e"
+    "swh": "swh:1:rev:66c22cf97b3afb4a3968753f7a70ac1924ec4ef0"
   },
   "id": "gh:portainer/portainer",
   "kind": "repo",
@@ -35,16 +35,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/portainer/portainer",
-    "sha": "e6b4dd8b4034e3819b5c03cdbcd492142589c90e",
-    "file_url": "https://cdn.jsdelivr.net/gh/portainer/portainer@e6b4dd8b4034e3819b5c03cdbcd492142589c90e/{path}"
+    "sha": "66c22cf97b3afb4a3968753f7a70ac1924ec4ef0",
+    "file_url": "https://cdn.jsdelivr.net/gh/portainer/portainer@66c22cf97b3afb4a3968753f7a70ac1924ec4ef0/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Zlib",
-    "stars": 38815,
+    "stars": 38819,
     "size_mb": 90,
     "created_at": "2016-05-19T20:15:28Z",
-    "last_commit_at": "2026-11-09T19:59:00Z",
+    "last_commit_at": "2026-11-10T21:31:36Z",
     "releases": 195,
     "tags": 213,
     "archived": false,
@@ -61,13 +61,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 37,
+    "star_delta_7d": 35,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "e6b4dd8b4034e3819b5c03cdbcd492142589c90e",
-    "v": 3
-  }
+  "tier": "curated"
 }

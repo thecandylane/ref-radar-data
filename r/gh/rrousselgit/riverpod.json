@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:4789e3308740f9b66c84fdcecdf7c42902ed9344"
-  },
   "id": "gh:rrousselgit/riverpod",
   "kind": "repo",
   "url": "https://github.com/rrousselGit/riverpod",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/rrousselGit/riverpod",
-    "sha": "4789e3308740f9b66c84fdcecdf7c42902ed9344",
-    "file_url": "https://cdn.jsdelivr.net/gh/rrousselGit/riverpod@4789e3308740f9b66c84fdcecdf7c42902ed9344/{path}"
+    "sha": "fd076befac7b58ace8e8251bad076ac4cf5240ff",
+    "file_url": "https://cdn.jsdelivr.net/gh/rrousselGit/riverpod@fd076befac7b58ace8e8251bad076ac4cf5240ff/{path}"
   },
   "facts": {
     "lang": "Dart",
     "license": "MIT",
     "stars": 7423,
-    "size_mb": 52,
+    "size_mb": 53,
     "created_at": "2020-04-16T10:40:29Z",
-    "last_commit_at": "2026-11-10T21:31:55Z",
+    "last_commit_at": "2026-11-11T16:24:47Z",
     "releases": 0,
     "tags": 546,
     "archived": false,
@@ -52,13 +49,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 9,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "4789e3308740f9b66c84fdcecdf7c42902ed9344",
-    "v": 3
-  }
+  "tier": "curated"
 }

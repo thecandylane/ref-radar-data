@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:b280308710bc4f266c810e0cfbe7c5762465a6f4"
-  },
   "id": "gh:grafana/mimir",
   "kind": "repo",
   "url": "https://github.com/grafana/mimir",
@@ -33,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/grafana/mimir",
-    "sha": "b280308710bc4f266c810e0cfbe7c5762465a6f4",
-    "file_url": "https://raw.githubusercontent.com/grafana/mimir/b280308710bc4f266c810e0cfbe7c5762465a6f4/{path}"
+    "sha": "ff73b98f13290a9300c48ca62b6d978450307cc4",
+    "file_url": "https://raw.githubusercontent.com/grafana/mimir/ff73b98f13290a9300c48ca62b6d978450307cc4/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "AGPL-3.0",
-    "stars": 5277,
-    "size_mb": 668,
+    "stars": 5278,
+    "size_mb": 670,
     "created_at": "2021-07-13T14:34:08Z",
-    "last_commit_at": "2026-11-11T08:47:59Z",
+    "last_commit_at": "2026-11-12T05:00:50Z",
     "releases": 119,
     "tags": 507,
     "archived": false,
@@ -63,9 +60,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "b280308710bc4f266c810e0cfbe7c5762465a6f4",
-    "v": 3
-  }
+  "tier": "curated"
 }

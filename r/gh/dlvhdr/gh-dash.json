@@ -1,0 +1,73 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e6752f8f2cf10f650d4f6e136385ba70f57d11f1"
+  },
+  "id": "gh:dlvhdr/gh-dash",
+  "kind": "repo",
+  "url": "https://github.com/dlvhdr/gh-dash",
+  "title": "gh-dash",
+  "why": "Terminal dashboard for GitHub pull requests and issues, built on Bubble Tea and configured through a YAML file.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui",
+      "dev-tools/vcs"
+    ],
+    "lanes": [
+      "desktop/terminal-ui",
+      "dev-tools/vcs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dlvhdr/gh-dash",
+    "sha": "e6752f8f2cf10f650d4f6e136385ba70f57d11f1",
+    "file_url": "https://cdn.jsdelivr.net/gh/dlvhdr/gh-dash@e6752f8f2cf10f650d4f6e136385ba70f57d11f1/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 12746,
+    "size_mb": 57,
+    "created_at": "2021-10-14T17:53:33Z",
+    "last_commit_at": "2026-10-26T18:21:16Z",
+    "releases": 91,
+    "tags": 100,
+    "archived": false,
+    "release": {
+      "tag": "v4.26.2",
+      "at": "2026-10-16T11:29:38.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e6752f8f2cf10f650d4f6e136385ba70f57d11f1",
+    "v": 3
+  }
+}

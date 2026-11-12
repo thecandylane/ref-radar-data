@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9bb47f2d3dfd9685805f16392c42245b26f6e774"
-  },
   "id": "gh:coredns/coredns",
   "kind": "repo",
   "url": "https://github.com/coredns/coredns",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/coredns/coredns",
-    "sha": "9bb47f2d3dfd9685805f16392c42245b26f6e774",
-    "file_url": "https://cdn.jsdelivr.net/gh/coredns/coredns@9bb47f2d3dfd9685805f16392c42245b26f6e774/{path}"
+    "sha": "248ce2a3b90cd11a6860d8c20f290b3f1aa2363f",
+    "file_url": "https://cdn.jsdelivr.net/gh/coredns/coredns@248ce2a3b90cd11a6860d8c20f290b3f1aa2363f/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 14423,
+    "stars": 14424,
     "size_mb": 103,
     "created_at": "2016-03-18T20:56:45Z",
-    "last_commit_at": "2026-11-09T04:54:48Z",
+    "last_commit_at": "2026-11-11T22:55:57Z",
     "releases": 86,
     "tags": 86,
     "archived": false,
@@ -53,13 +50,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 15,
+    "star_delta_7d": 14,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "9bb47f2d3dfd9685805f16392c42245b26f6e774",
+    "sha": "248ce2a3b90cd11a6860d8c20f290b3f1aa2363f",
     "v": 3
   }
 }

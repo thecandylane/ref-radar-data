@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:da9f201eb55a886de73bf5b4b338c730f27380fa"
+  },
   "id": "gh:embeddings-benchmark/mteb",
   "kind": "repo",
   "url": "https://github.com/embeddings-benchmark/mteb",
@@ -30,16 +33,16 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 3507,
+    "stars": 3508,
     "size_mb": 83,
     "created_at": "2022-04-05T08:25:47Z",
-    "last_commit_at": "2026-11-10T14:03:57Z",
-    "releases": 907,
-    "tags": 912,
+    "last_commit_at": "2026-11-11T22:54:33Z",
+    "releases": 909,
+    "tags": 914,
     "archived": false,
     "release": {
-      "tag": "2.27.8",
-      "at": "2026-11-10T14:04:00.000Z"
+      "tag": "2.27.10",
+      "at": "2026-11-11T22:54:36.000Z"
     }
   },
   "reuse": "copy",

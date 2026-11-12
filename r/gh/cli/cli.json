@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:eeb44bc432c0107de002dadd34a61b4e2bd15882"
+    "swh": "swh:1:rev:233b470d3a189e89cf6fa69624e11c3fa9387d81"
   },
   "id": "gh:cli/cli",
   "kind": "repo",
@@ -39,16 +39,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/cli/cli",
-    "sha": "eeb44bc432c0107de002dadd34a61b4e2bd15882",
-    "file_url": "https://cdn.jsdelivr.net/gh/cli/cli@eeb44bc432c0107de002dadd34a61b4e2bd15882/{path}"
+    "sha": "233b470d3a189e89cf6fa69624e11c3fa9387d81",
+    "file_url": "https://cdn.jsdelivr.net/gh/cli/cli@233b470d3a189e89cf6fa69624e11c3fa9387d81/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 46961,
+    "stars": 46978,
     "size_mb": 81,
     "created_at": "2019-10-03T15:24:53Z",
-    "last_commit_at": "2026-11-10T17:21:48Z",
+    "last_commit_at": "2026-11-11T14:26:39Z",
     "releases": 210,
     "tags": 210,
     "archived": false,
@@ -71,7 +71,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "eeb44bc432c0107de002dadd34a61b4e2bd15882",
+    "sha": "233b470d3a189e89cf6fa69624e11c3fa9387d81",
     "v": 3
   }
 }

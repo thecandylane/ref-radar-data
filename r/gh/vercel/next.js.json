@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:6100e81e314f7aad0c94e189bbae87820d7efb37"
-  },
   "id": "gh:vercel/next.js",
   "kind": "repo",
   "url": "https://github.com/vercel/next.js",
@@ -39,18 +36,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/vercel/next.js",
-    "sha": "6100e81e314f7aad0c94e189bbae87820d7efb37",
-    "file_url": "https://raw.githubusercontent.com/vercel/next.js/6100e81e314f7aad0c94e189bbae87820d7efb37/{path}"
+    "sha": "1430e15cd572b2e6a468af11792cfd3127a29d5b",
+    "file_url": "https://raw.githubusercontent.com/vercel/next.js/1430e15cd572b2e6a468af11792cfd3127a29d5b/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 143466,
-    "size_mb": 2572,
+    "stars": 143482,
+    "size_mb": 2570,
     "created_at": "2016-10-05T23:32:51Z",
-    "last_commit_at": "2026-11-11T09:10:42Z",
+    "last_commit_at": "2026-11-12T09:23:28Z",
     "releases": 1000,
-    "tags": 4145,
+    "tags": 4146,
     "archived": false,
     "release": {
       "tag": "v16.4.6",
@@ -65,14 +62,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 208,
+    "star_delta_7d": 142,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "6100e81e314f7aad0c94e189bbae87820d7efb37",
-    "v": 3
-  },
   "hot": true
 }

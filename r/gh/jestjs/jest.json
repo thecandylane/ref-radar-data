@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:72614448ecb9d16c58d6474b3091247c14a5c090"
-  },
   "id": "gh:jestjs/jest",
   "kind": "repo",
   "url": "https://github.com/jestjs/jest",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/jestjs/jest",
-    "sha": "72614448ecb9d16c58d6474b3091247c14a5c090",
-    "file_url": "https://cdn.jsdelivr.net/gh/jestjs/jest@72614448ecb9d16c58d6474b3091247c14a5c090/{path}"
+    "sha": "aa88f7cf0bfc7a3a2efbfcab97914886b22d4454",
+    "file_url": "https://cdn.jsdelivr.net/gh/jestjs/jest@aa88f7cf0bfc7a3a2efbfcab97914886b22d4454/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -59,9 +56,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "72614448ecb9d16c58d6474b3091247c14a5c090",
-    "v": 3
-  }
+  "tier": "curated"
 }

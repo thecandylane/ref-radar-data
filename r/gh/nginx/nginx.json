@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:45ae79aa6aa1f2b322235f12e3c79111b5a7041f"
+    "swh": "swh:1:rev:2a3a19c6fdcdc9bd618b81c4a6d9a80ed67d50da"
   },
   "id": "gh:nginx/nginx",
   "kind": "repo",
@@ -31,13 +31,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/nginx/nginx",
-    "sha": "45ae79aa6aa1f2b322235f12e3c79111b5a7041f",
-    "file_url": "https://cdn.jsdelivr.net/gh/nginx/nginx@45ae79aa6aa1f2b322235f12e3c79111b5a7041f/{path}"
+    "sha": "2a3a19c6fdcdc9bd618b81c4a6d9a80ed67d50da",
+    "file_url": "https://cdn.jsdelivr.net/gh/nginx/nginx@2a3a19c6fdcdc9bd618b81c4a6d9a80ed67d50da/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "BSD-2-Clause",
-    "stars": 32097,
+    "stars": 32107,
     "size_mb": 75,
     "created_at": "2015-06-23T10:26:27Z",
     "last_commit_at": "2026-11-09T13:29:49Z",
@@ -57,13 +57,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 49,
+    "star_delta_7d": 51,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "45ae79aa6aa1f2b322235f12e3c79111b5a7041f",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2d5f04bce8b85dcc45cf8d77253fec8cb8e2d5ef"
+  },
+  "id": "gh:fermi-lat/fermitools-conda",
+  "kind": "repo",
+  "url": "https://github.com/fermi-lat/Fermitools-conda",
+  "title": "Fermitools-conda",
+  "why": "Conda recipe that builds the Fermi-LAT Fermitools for gamma-ray astronomy; archived and superseded by ScienceTools.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fermi-lat/Fermitools-conda",
+    "sha": "2d5f04bce8b85dcc45cf8d77253fec8cb8e2d5ef",
+    "file_url": "https://cdn.jsdelivr.net/gh/fermi-lat/Fermitools-conda@2d5f04bce8b85dcc45cf8d77253fec8cb8e2d5ef/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 44,
+    "size_mb": 1,
+    "created_at": "2018-02-14T23:56:04Z",
+    "last_commit_at": "2025-12-19T17:30:12Z",
+    "releases": 2,
+    "tags": 73,
+    "archived": true,
+    "release": {
+      "tag": "root5",
+      "at": "2020-06-16T14:23:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2d5f04bce8b85dcc45cf8d77253fec8cb8e2d5ef",
+    "v": 3
+  }
+}

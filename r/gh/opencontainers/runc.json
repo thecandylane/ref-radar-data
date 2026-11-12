@@ -30,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/opencontainers/runc",
-    "sha": "48dfb3a2c0bc9967074e04609493a500120ba018",
-    "file_url": "https://cdn.jsdelivr.net/gh/opencontainers/runc@48dfb3a2c0bc9967074e04609493a500120ba018/{path}"
+    "sha": "c0512b4ff3fddab104cad9fadf3fdcc8d8b9a193",
+    "file_url": "https://cdn.jsdelivr.net/gh/opencontainers/runc@c0512b4ff3fddab104cad9fadf3fdcc8d8b9a193/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 13548,
+    "stars": 13550,
     "size_mb": 25,
     "created_at": "2015-06-05T23:30:45Z",
-    "last_commit_at": "2026-11-10T08:30:52Z",
+    "last_commit_at": "2026-11-11T22:08:27Z",
     "releases": 79,
     "tags": 85,
     "archived": false,
@@ -56,13 +56,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 22,
+    "star_delta_7d": 23,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "48dfb3a2c0bc9967074e04609493a500120ba018",
-    "v": 3
-  }
+  "tier": "curated"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:851f91a94343d662a29b4968269f5e3db94814eb"
-  },
   "id": "gh:cilium/cilium",
   "kind": "repo",
   "url": "https://github.com/cilium/cilium",
@@ -33,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/cilium/cilium",
-    "sha": "851f91a94343d662a29b4968269f5e3db94814eb",
-    "file_url": "https://raw.githubusercontent.com/cilium/cilium/851f91a94343d662a29b4968269f5e3db94814eb/{path}"
+    "sha": "d947de73d70c2911231d3f1163fd13925085ffbd",
+    "file_url": "https://raw.githubusercontent.com/cilium/cilium/d947de73d70c2911231d3f1163fd13925085ffbd/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 25816,
+    "stars": 25822,
     "size_mb": 576,
     "created_at": "2015-12-16T12:33:31Z",
-    "last_commit_at": "2026-11-11T09:23:52Z",
+    "last_commit_at": "2026-11-12T08:35:43Z",
     "releases": 417,
     "tags": 901,
     "archived": false,
@@ -59,13 +56,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 48,
+    "star_delta_7d": 47,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "851f91a94343d662a29b4968269f5e3db94814eb",
+    "sha": "d947de73d70c2911231d3f1163fd13925085ffbd",
     "v": 3
   }
 }

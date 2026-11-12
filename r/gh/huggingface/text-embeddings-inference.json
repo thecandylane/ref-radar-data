@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:75de630b79e03a1798ef8cc6d09d6e3fd3efe054"
+    "swh": "swh:1:rev:da9a9ce190444ef4326e1fbab15d298f0a1016c7"
   },
   "id": "gh:huggingface/text-embeddings-inference",
   "kind": "repo",
@@ -27,13 +27,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/huggingface/text-embeddings-inference",
-    "sha": "75de630b79e03a1798ef8cc6d09d6e3fd3efe054",
-    "file_url": "https://cdn.jsdelivr.net/gh/huggingface/text-embeddings-inference@75de630b79e03a1798ef8cc6d09d6e3fd3efe054/{path}"
+    "sha": "da9a9ce190444ef4326e1fbab15d298f0a1016c7",
+    "file_url": "https://cdn.jsdelivr.net/gh/huggingface/text-embeddings-inference@da9a9ce190444ef4326e1fbab15d298f0a1016c7/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 5119,
+    "stars": 5120,
     "size_mb": 3,
     "created_at": "2023-10-13T13:36:51Z",
     "last_commit_at": "2026-11-06T12:10:20Z",
@@ -57,9 +57,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "75de630b79e03a1798ef8cc6d09d6e3fd3efe054",
-    "v": 3
-  }
+  "tier": "curated"
 }

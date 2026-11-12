@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c51a5f8fc3c88d7dae273c0b0c0f80c3baa32e12"
-  },
   "id": "gh:podman-container-tools/skopeo",
   "kind": "repo",
   "url": "https://github.com/podman-container-tools/skopeo",
@@ -31,18 +28,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/podman-container-tools/skopeo",
-    "sha": "c51a5f8fc3c88d7dae273c0b0c0f80c3baa32e12",
-    "file_url": "https://cdn.jsdelivr.net/gh/podman-container-tools/skopeo@c51a5f8fc3c88d7dae273c0b0c0f80c3baa32e12/{path}"
+    "sha": "8360e9e41548eee4bd1e41d231955ba85529e303",
+    "file_url": "https://cdn.jsdelivr.net/gh/podman-container-tools/skopeo@8360e9e41548eee4bd1e41d231955ba85529e303/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 11394,
+    "stars": 11398,
     "size_mb": 74,
     "created_at": "2016-03-07T20:23:29Z",
     "last_commit_at": "2026-11-10T20:03:02Z",
-    "releases": 94,
-    "tags": 119,
+    "releases": 95,
+    "tags": 120,
     "archived": false,
     "release": {
       "tag": "v1.25.1",
@@ -57,13 +54,9 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 20,
+    "star_delta_7d": 23,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "c51a5f8fc3c88d7dae273c0b0c0f80c3baa32e12",
-    "v": 3
-  }
+  "tier": "curated"
 }

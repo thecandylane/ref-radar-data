@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:6430ecba9788983e77493c36c3c9442b2d3f2cca"
-  },
   "id": "gh:tailwindlabs/tailwindcss",
   "kind": "repo",
   "url": "https://github.com/tailwindlabs/tailwindcss",
@@ -33,13 +30,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/tailwindlabs/tailwindcss",
-    "sha": "6430ecba9788983e77493c36c3c9442b2d3f2cca",
-    "file_url": "https://cdn.jsdelivr.net/gh/tailwindlabs/tailwindcss@6430ecba9788983e77493c36c3c9442b2d3f2cca/{path}"
+    "sha": "b08bf83a327271dfb7e3cd485fd793da15013f7c",
+    "file_url": "https://cdn.jsdelivr.net/gh/tailwindlabs/tailwindcss@b08bf83a327271dfb7e3cd485fd793da15013f7c/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 98675,
+    "stars": 98585,
     "size_mb": 112,
     "created_at": "2017-10-06T14:59:14Z",
     "last_commit_at": "2026-11-11T00:02:07Z",
@@ -59,14 +56,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 611,
+    "star_delta_7d": 523,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "6430ecba9788983e77493c36c3c9442b2d3f2cca",
-    "v": 3
-  },
   "hot": true
 }

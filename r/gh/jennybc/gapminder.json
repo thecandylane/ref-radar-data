@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:391b5a40d3574c3b89d889dd7d72f7f3fdb4a70c"
+  },
+  "id": "gh:jennybc/gapminder",
+  "kind": "repo",
+  "url": "https://github.com/jennybc/gapminder",
+  "title": "gapminder",
+  "why": "Teaching-sized excerpt of Gapminder data that loads as a data frame and works directly with base R, dplyr and ggplot2.",
+  "keys": {
+    "races": [
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jennybc/gapminder",
+    "sha": "391b5a40d3574c3b89d889dd7d72f7f3fdb4a70c",
+    "file_url": "https://cdn.jsdelivr.net/gh/jennybc/gapminder@391b5a40d3574c3b89d889dd7d72f7f3fdb4a70c/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 304,
+    "size_mb": 24,
+    "created_at": "2014-10-25T05:40:13Z",
+    "last_commit_at": "2025-06-12T15:00:59Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.1",
+      "at": "2025-06-12T14:52:17.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "391b5a40d3574c3b89d889dd7d72f7f3fdb4a70c",
+    "v": 3
+  }
+}

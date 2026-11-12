@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c3b6f5cf614fa280c08aa4bc34b84e2888e6456a"
-  },
   "id": "gh:avaloniaui/avalonia",
   "kind": "repo",
   "url": "https://github.com/AvaloniaUI/Avalonia",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/AvaloniaUI/Avalonia",
-    "sha": "c3b6f5cf614fa280c08aa4bc34b84e2888e6456a",
-    "file_url": "https://cdn.jsdelivr.net/gh/AvaloniaUI/Avalonia@c3b6f5cf614fa280c08aa4bc34b84e2888e6456a/{path}"
+    "sha": "5ef345810e89d1a4a3b7ff38b62587a450e7da93",
+    "file_url": "https://cdn.jsdelivr.net/gh/AvaloniaUI/Avalonia@5ef345810e89d1a4a3b7ff38b62587a450e7da93/{path}"
   },
   "facts": {
     "lang": "C#",
     "license": "MIT",
-    "stars": 31803,
+    "stars": 31805,
     "size_mb": 231,
     "created_at": "2013-12-05T20:13:21Z",
-    "last_commit_at": "2026-11-10T18:27:37Z",
+    "last_commit_at": "2026-11-12T07:57:05Z",
     "releases": 146,
     "tags": 185,
     "archived": false,
@@ -67,7 +64,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "c3b6f5cf614fa280c08aa4bc34b84e2888e6456a",
+    "sha": "5ef345810e89d1a4a3b7ff38b62587a450e7da93",
     "v": 3
   }
 }
