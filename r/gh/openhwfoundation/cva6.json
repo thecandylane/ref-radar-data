@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:742dc82a0c706e0a3bfb98b709fd3ee06d50d12a"
+  },
+  "id": "gh:openhwfoundation/cva6",
+  "kind": "repo",
+  "url": "https://github.com/openhwfoundation/cva6",
+  "title": "cva6",
+  "why": "Configurable 6-stage RISC-V core in SystemVerilog that boots Linux, with verification and physical design folders.",
+  "keys": {
+    "races": [
+      "engineering/hdl"
+    ],
+    "lanes": [
+      "engineering/hdl"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openhwfoundation/cva6",
+    "sha": "742dc82a0c706e0a3bfb98b709fd3ee06d50d12a",
+    "file_url": "https://cdn.jsdelivr.net/gh/openhwfoundation/cva6@742dc82a0c706e0a3bfb98b709fd3ee06d50d12a/{path}"
+  },
+  "facts": {
+    "lang": "Assembly",
+    "license": "NOASSERTION",
+    "stars": 3193,
+    "size_mb": 165,
+    "created_at": "2018-01-23T18:36:12Z",
+    "last_commit_at": "2026-10-23T13:18:02Z",
+    "releases": 9,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v5.3.0",
+      "at": "2025-02-03T14:45:13.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "742dc82a0c706e0a3bfb98b709fd3ee06d50d12a",
+    "v": 3
+  }
+}

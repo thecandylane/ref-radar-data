@@ -42,12 +42,12 @@
   "facts": {
     "lang": "Rust",
     "license": "NOASSERTION",
-    "stars": 21957,
-    "size_mb": 358,
+    "stars": 21961,
+    "size_mb": 360,
     "created_at": "2023-01-31T14:56:22Z",
-    "last_commit_at": "2026-11-12T08:30:58Z",
+    "last_commit_at": "2026-11-13T04:08:05Z",
     "releases": 152,
-    "tags": 2477,
+    "tags": 2478,
     "archived": false,
     "release": {
       "tag": "release/0.23.4",
@@ -62,9 +62,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 32,
+    "star_delta_7d": 24,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "74fc568a6d79b0dfdecfd1d5bdd0c2cfb3ab2f0f",
+    "v": 3
+  }
 }

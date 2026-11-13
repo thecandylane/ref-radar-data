@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b5a33c5b9191bef976e352b9feca14eaf93c9b7a"
+  },
   "id": "gh:plotly/dash",
   "kind": "repo",
   "url": "https://github.com/plotly/dash",
@@ -30,10 +33,10 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 24489,
+    "stars": 24490,
     "size_mb": 226,
     "created_at": "2015-04-10T01:53:08Z",
-    "last_commit_at": "2026-11-10T18:47:08Z",
+    "last_commit_at": "2026-11-12T20:51:07Z",
     "releases": 113,
     "tags": 148,
     "archived": false,
@@ -54,5 +57,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "b5a33c5b9191bef976e352b9feca14eaf93c9b7a",
+    "v": 3
+  }
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:710a4f105c300e70393c8e1ed3126d28795cab7f"
+  },
   "id": "gh:manticoresoftware/manticoresearch",
   "kind": "repo",
   "url": "https://github.com/manticoresoftware/manticoresearch",
@@ -38,12 +41,12 @@
   "facts": {
     "lang": "C++",
     "license": "GPL-3.0",
-    "stars": 12084,
+    "stars": 12082,
     "size_mb": 110,
     "created_at": "2017-06-28T01:15:30Z",
-    "last_commit_at": "2026-11-11T12:02:54Z",
+    "last_commit_at": "2026-11-13T06:12:09Z",
     "releases": 64,
-    "tags": 659,
+    "tags": 660,
     "archived": false,
     "release": {
       "tag": "release-29.9.0",
@@ -62,5 +65,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "710a4f105c300e70393c8e1ed3126d28795cab7f",
+    "v": 3
+  }
 }

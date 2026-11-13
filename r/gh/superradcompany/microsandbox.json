@@ -48,16 +48,16 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 9031,
-    "size_mb": 1077,
+    "stars": 9049,
+    "size_mb": 1148,
     "created_at": "2024-10-03T15:57:38Z",
-    "last_commit_at": "2026-11-11T14:12:14Z",
-    "releases": 76,
-    "tags": 132,
+    "last_commit_at": "2026-11-12T16:57:26Z",
+    "releases": 77,
+    "tags": 133,
     "archived": false,
     "release": {
-      "tag": "v0.7.14",
-      "at": "2026-11-08T15:23:10.000Z"
+      "tag": "v0.7.15",
+      "at": "2026-11-12T17:59:23.000Z"
     }
   },
   "reuse": "copy",
@@ -68,9 +68,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 82,
+    "star_delta_7d": 86,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "f9ae8e23df767929d513348b3543210322a9723f",
+    "v": 3
+  }
 }

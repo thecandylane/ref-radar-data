@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:3060cee9bac71d332dc7629191ae1aeb1edaac33"
+  },
   "id": "gh:flipperdevices/flipperzero-firmware",
   "kind": "repo",
   "url": "https://github.com/flipperdevices/flipperzero-firmware",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "C",
     "license": "GPL-3.0",
-    "stars": 16877,
+    "stars": 16881,
     "size_mb": 78,
     "created_at": "2020-07-31T21:43:20Z",
     "last_commit_at": "2026-11-08T19:00:04Z",
@@ -52,9 +55,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 36,
+    "star_delta_7d": 37,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "3060cee9bac71d332dc7629191ae1aeb1edaac33",
+    "v": 3
+  }
 }

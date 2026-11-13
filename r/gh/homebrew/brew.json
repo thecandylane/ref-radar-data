@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a6fea6bd59bbddf1cbc758d81b5ad9aadf943a30"
+  },
   "id": "gh:homebrew/brew",
   "kind": "repo",
   "url": "https://github.com/Homebrew/brew",
@@ -28,10 +31,10 @@
   "facts": {
     "lang": "Ruby",
     "license": "BSD-2-Clause",
-    "stars": 50309,
+    "stars": 50316,
     "size_mb": 128,
     "created_at": "2016-03-06T05:08:38Z",
-    "last_commit_at": "2026-11-12T08:57:15Z",
+    "last_commit_at": "2026-11-12T18:31:55Z",
     "releases": 527,
     "tags": 545,
     "archived": false,
@@ -52,5 +55,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "a6fea6bd59bbddf1cbc758d81b5ad9aadf943a30",
+    "v": 3
+  }
 }

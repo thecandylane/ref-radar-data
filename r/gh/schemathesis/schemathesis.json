@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b5104cf6bf3a47222a1d25c018ab1bd52bb91ef6"
+  },
   "id": "gh:schemathesis/schemathesis",
   "kind": "repo",
   "url": "https://github.com/schemathesis/schemathesis",
@@ -34,16 +37,16 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 3770,
-    "size_mb": 137,
+    "stars": 3772,
+    "size_mb": 135,
     "created_at": "2019-08-19T11:13:01Z",
-    "last_commit_at": "2026-11-12T09:17:43Z",
-    "releases": 508,
-    "tags": 510,
+    "last_commit_at": "2026-11-13T08:34:06Z",
+    "releases": 510,
+    "tags": 512,
     "archived": false,
     "release": {
-      "tag": "v4.33.2",
-      "at": "2026-11-11T00:27:24.000Z"
+      "tag": "v4.33.4",
+      "at": "2026-11-12T16:27:07.000Z"
     }
   },
   "reuse": "copy",

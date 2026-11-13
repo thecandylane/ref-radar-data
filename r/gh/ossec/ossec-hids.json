@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:7508eef5a8b9d6bc99061f8fe8ed8658341229fe"
+  },
   "id": "gh:ossec/ossec-hids",
   "kind": "repo",
   "url": "https://github.com/ossec/ossec-hids",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "C",
     "license": "GPL-2.0",
-    "stars": 5069,
+    "stars": 5070,
     "size_mb": 24,
     "created_at": "2013-09-17T17:07:58Z",
     "last_commit_at": "2026-11-12T01:18:04Z",
@@ -54,9 +57,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": -1,
+    "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "7508eef5a8b9d6bc99061f8fe8ed8658341229fe",
+    "v": 3
+  }
 }

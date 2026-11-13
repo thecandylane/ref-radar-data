@@ -43,16 +43,16 @@
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 58356,
+    "stars": 58456,
     "size_mb": 52,
     "created_at": "2025-07-01T19:43:27Z",
-    "last_commit_at": "2026-11-12T08:04:36Z",
-    "releases": 929,
-    "tags": 1180,
+    "last_commit_at": "2026-11-12T18:52:39Z",
+    "releases": 931,
+    "tags": 1182,
     "archived": false,
     "release": {
-      "tag": "v8.0.67",
-      "at": "2026-11-11T08:51:43.000Z"
+      "tag": "v8.0.69",
+      "at": "2026-11-12T18:26:33.000Z"
     }
   },
   "reuse": "copy",
@@ -65,7 +65,7 @@
     "pickers": 1,
     "packs": 1,
     "used_30d": 1,
-    "star_delta_7d": 750,
+    "star_delta_7d": 689,
     "votes": {
       "llm-infra/gateways": {
         "up": 1,
@@ -77,5 +77,9 @@
     }
   },
   "tier": "curated",
+  "pack": {
+    "sha": "9a8ca1b577ef8573c5ccf108450b93ed57716cc4",
+    "v": 3
+  },
   "hot": true
 }

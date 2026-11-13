@@ -1,0 +1,60 @@
+{
+  "id": "gh:gempy-project/gempy",
+  "kind": "repo",
+  "url": "https://github.com/gempy-project/gempy",
+  "title": "gempy",
+  "why": "Create 3D structural geology models implicitly, and run Monte Carlo sampling to see how uncertain they are.",
+  "keys": {
+    "races": [
+      "engineering/subsurface"
+    ],
+    "lanes": [
+      "engineering/subsurface"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gempy-project/gempy",
+    "sha": "1404c22019f4b1e9f0ac28b60cd525703d2ac2e6",
+    "file_url": "https://cdn.jsdelivr.net/gh/gempy-project/gempy@1404c22019f4b1e9f0ac28b60cd525703d2ac2e6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "EUPL-1.2",
+    "stars": 1378,
+    "size_mb": 511,
+    "created_at": "2017-07-04T11:32:12Z",
+    "last_commit_at": "2026-11-10T13:22:14Z",
+    "releases": 45,
+    "tags": 62,
+    "archived": false,
+    "release": {
+      "tag": "v2026.2.0a4",
+      "at": "2026-11-11T08:33:55.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1404c22019f4b1e9f0ac28b60cd525703d2ac2e6",
+    "v": 3
+  }
+}

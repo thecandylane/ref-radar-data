@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ad0c51cf041081c138507e23cdbf8360d983ac4e"
+  },
+  "id": "gh:openmm/openmm",
+  "kind": "repo",
+  "url": "https://github.com/openmm/openmm",
+  "title": "openmm",
+  "why": "Script molecular simulations in Python or C++ and run them on GPU platforms, with plugins and wrappers around the core API.",
+  "keys": {
+    "races": [
+      "engineering/chemistry"
+    ],
+    "lanes": [
+      "engineering/chemistry"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openmm/openmm",
+    "sha": "ad0c51cf041081c138507e23cdbf8360d983ac4e",
+    "file_url": "https://cdn.jsdelivr.net/gh/openmm/openmm@ad0c51cf041081c138507e23cdbf8360d983ac4e/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "none",
+    "stars": 2038,
+    "size_mb": 127,
+    "created_at": "2013-05-20T17:42:52Z",
+    "last_commit_at": "2026-11-12T21:59:11Z",
+    "releases": 43,
+    "tags": 52,
+    "archived": false,
+    "release": {
+      "tag": "8.6.1",
+      "at": "2026-09-11T19:31:55.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ad0c51cf041081c138507e23cdbf8360d983ac4e",
+    "v": 3
+  }
+}

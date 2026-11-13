@@ -1,0 +1,58 @@
+{
+  "id": "gh:zifeihan/friday",
+  "kind": "repo",
+  "url": "https://github.com/zifeihan/friday",
+  "title": "friday",
+  "why": "Attaches to a running JVM as a Java agent, retransforms classes and decompiles the returned bytecode with cfr for live viewing.",
+  "keys": {
+    "races": [
+      "cyber/reversing"
+    ],
+    "lanes": [
+      "cyber/reversing"
+    ],
+    "capabilities": [
+      "cyber/reversing/disassemblers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zifeihan/friday",
+    "sha": "9ba093495252bea47abce5df64abbbc1a5371cd1",
+    "file_url": "https://cdn.jsdelivr.net/gh/zifeihan/friday@9ba093495252bea47abce5df64abbbc1a5371cd1/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 247,
+    "size_mb": 5,
+    "created_at": "2020-04-15T08:17:37Z",
+    "last_commit_at": "2023-12-28T04:45:10Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "1.1.0",
+      "at": "2021-04-20T08:20:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:e0f431cc7ebc3551da35416c90a9c37e837b53f0"
+  },
   "id": "gh:docker/compose",
   "kind": "repo",
   "url": "https://github.com/docker/compose",
@@ -40,10 +43,10 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 38793,
+    "stars": 38812,
     "size_mb": 30,
     "created_at": "2013-12-09T11:40:58Z",
-    "last_commit_at": "2026-11-11T19:43:01Z",
+    "last_commit_at": "2026-11-12T18:07:46Z",
     "releases": 289,
     "tags": 310,
     "archived": false,
@@ -60,7 +63,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 186,
+    "star_delta_7d": 194,
     "votes": {},
     "ranks": {}
   },

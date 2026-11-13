@@ -38,16 +38,16 @@
   "facts": {
     "lang": "Go",
     "license": "AGPL-3.0",
-    "stars": 29163,
+    "stars": 29171,
     "size_mb": 563,
     "created_at": "2018-04-16T09:22:48Z",
-    "last_commit_at": "2026-11-12T06:30:35Z",
-    "releases": 143,
-    "tags": 406,
+    "last_commit_at": "2026-11-13T07:36:23Z",
+    "releases": 145,
+    "tags": 408,
     "archived": false,
     "release": {
-      "tag": "v3.7.9",
-      "at": "2026-10-20T22:53:57.000Z"
+      "tag": "v3.7.10",
+      "at": "2026-11-13T07:51:25.000Z"
     }
   },
   "reuse": "copyleft",
@@ -58,9 +58,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 36,
+    "star_delta_7d": 39,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "005460213f76c555d267450f5009d14e2006aa4c",
+    "v": 3
+  }
 }

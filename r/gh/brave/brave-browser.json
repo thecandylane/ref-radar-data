@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:cbd0ce86f584738540cd4a31287b5eff0fa95027"
+  },
   "id": "gh:brave/brave-browser",
   "kind": "repo",
   "url": "https://github.com/brave/brave-browser",
@@ -30,16 +33,16 @@
   "facts": {
     "lang": null,
     "license": "MPL-2.0",
-    "stars": 24185,
+    "stars": 24199,
     "size_mb": 39,
     "created_at": "2017-11-09T23:44:38Z",
-    "last_commit_at": "2026-11-12T00:03:41Z",
+    "last_commit_at": "2026-11-13T00:04:21Z",
     "releases": 1000,
-    "tags": 12461,
+    "tags": 12470,
     "archived": false,
     "release": {
-      "tag": "v1.99.56",
-      "at": "2026-11-10T03:53:58.000Z"
+      "tag": "v1.99.57",
+      "at": "2026-11-12T04:08:44.000Z"
     }
   },
   "reuse": "copyleft",

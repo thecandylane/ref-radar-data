@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:cdfb130fa6582e8dbfae5391201c1c747290b071"
+  },
   "id": "gh:nlohmann/json",
   "kind": "repo",
   "url": "https://github.com/nlohmann/json",
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 50883,
-    "size_mb": 318,
+    "stars": 50894,
+    "size_mb": 319,
     "created_at": "2013-07-04T08:47:49Z",
-    "last_commit_at": "2026-11-12T07:40:18Z",
+    "last_commit_at": "2026-11-13T06:26:42Z",
     "releases": 45,
     "tags": 57,
     "archived": false,
@@ -52,10 +55,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 43,
+    "star_delta_7d": 51,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "cdfb130fa6582e8dbfae5391201c1c747290b071",
+    "v": 3
+  },
   "hot": true
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:4beb1c4443f69dd748df5948c1ddcae5a6696588"
+  },
   "id": "gh:azure/azure-sdk-for-python",
   "kind": "repo",
   "url": "https://github.com/Azure/azure-sdk-for-python",
@@ -33,15 +36,15 @@
     "lang": "Python",
     "license": "MIT",
     "stars": 5623,
-    "size_mb": 1081,
+    "size_mb": 1080,
     "created_at": "2012-04-24T16:46:12Z",
-    "last_commit_at": "2026-11-12T08:48:20Z",
+    "last_commit_at": "2026-11-13T05:28:32Z",
     "releases": 1000,
-    "tags": 5609,
+    "tags": 5617,
     "archived": false,
     "release": {
-      "tag": "azure-data-ai_1.0.0",
-      "at": "2026-11-12T03:05:37.000Z"
+      "tag": "azure-ai-projects_2.11.0",
+      "at": "2026-11-12T23:55:49.000Z"
     }
   },
   "reuse": "copy",

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:88b695db644db0e9fd3a20061e9dd790b392b679"
+  },
   "id": "gh:kubernetes-sigs/kubespray",
   "kind": "repo",
   "url": "https://github.com/kubernetes-sigs/kubespray",
@@ -30,10 +33,10 @@
   "facts": {
     "lang": "Jinja",
     "license": "Apache-2.0",
-    "stars": 18836,
-    "size_mb": 29,
+    "stars": 18839,
+    "size_mb": 30,
     "created_at": "2015-10-03T20:18:11Z",
-    "last_commit_at": "2026-11-11T12:08:05Z",
+    "last_commit_at": "2026-11-12T19:34:18Z",
     "releases": 82,
     "tags": 91,
     "archived": false,
@@ -50,9 +53,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 21,
+    "star_delta_7d": 19,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "88b695db644db0e9fd3a20061e9dd790b392b679",
+    "v": 3
+  }
 }

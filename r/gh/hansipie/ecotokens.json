@@ -1,0 +1,68 @@
+{
+  "id": "gh:hansipie/ecotokens",
+  "kind": "repo",
+  "url": "https://github.com/hansipie/ecotokens",
+  "title": "ecotokens",
+  "why": "Compresses shell output in a PreToolUse hook before it reaches the model, and logs the tokens saved per command family.",
+  "keys": {
+    "races": [
+      "agents/context",
+      "agents/tools",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/context",
+      "agents/tools",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/context/output-compression",
+      "agents/tools/mcp-servers",
+      "agents/skills/agent-configs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hansipie/ecotokens",
+    "sha": "a1f03088acda7f26369621c43a2d9d74ba70b416",
+    "file_url": "https://cdn.jsdelivr.net/gh/hansipie/ecotokens@a1f03088acda7f26369621c43a2d9d74ba70b416/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 21,
+    "size_mb": 8,
+    "created_at": "2026-03-07T21:38:44Z",
+    "last_commit_at": "2026-11-04T22:08:17Z",
+    "releases": 38,
+    "tags": 38,
+    "archived": false,
+    "release": {
+      "tag": "v0.31.0",
+      "at": "2026-10-23T13:04:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

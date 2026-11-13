@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a247108a79b232ac16169a1910a9653bcd6d11e9"
+  },
   "id": "gh:opf/openproject",
   "kind": "repo",
   "url": "https://github.com/opf/openproject",
@@ -38,10 +41,10 @@
   "facts": {
     "lang": "Ruby",
     "license": "GPL-3.0",
-    "stars": 17306,
-    "size_mb": 3081,
+    "stars": 17333,
+    "size_mb": 3084,
     "created_at": "2012-11-28T09:59:11Z",
-    "last_commit_at": "2026-11-12T09:03:34Z",
+    "last_commit_at": "2026-11-13T03:35:26Z",
     "releases": 206,
     "tags": 335,
     "archived": false,
@@ -62,5 +65,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "a247108a79b232ac16169a1910a9653bcd6d11e9",
+    "v": 3
+  }
 }

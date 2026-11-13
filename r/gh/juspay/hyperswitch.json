@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:995562f725851f4eda9dafc8eab088d856793e72"
+  },
   "id": "gh:juspay/hyperswitch",
   "kind": "repo",
   "url": "https://github.com/juspay/hyperswitch",
@@ -32,12 +35,12 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 45763,
-    "size_mb": 478,
+    "stars": 45777,
+    "size_mb": 480,
     "created_at": "2022-10-17T11:18:28Z",
-    "last_commit_at": "2026-11-12T07:56:38Z",
+    "last_commit_at": "2026-11-13T07:46:59Z",
     "releases": 162,
-    "tags": 1635,
+    "tags": 1638,
     "archived": false,
     "release": {
       "tag": "v1.129.0",
@@ -56,5 +59,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "995562f725851f4eda9dafc8eab088d856793e72",
+    "v": 3
+  }
 }

@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:54ee2abc6966775fb54413927f2c95e5638462d8"
+  },
+  "id": "gh:opensourcebim/bimserver",
+  "kind": "repo",
+  "url": "https://github.com/opensourceBIM/BIMserver",
+  "title": "BIMserver",
+  "why": "Host IFC models on your own server, with bots and plugins on top, so a team can store and query shared building data.",
+  "keys": {
+    "races": [
+      "engineering/bim"
+    ],
+    "lanes": [
+      "engineering/bim"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/opensourceBIM/BIMserver",
+    "sha": "54ee2abc6966775fb54413927f2c95e5638462d8",
+    "file_url": "https://cdn.jsdelivr.net/gh/opensourceBIM/BIMserver@54ee2abc6966775fb54413927f2c95e5638462d8/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "AGPL-3.0",
+    "stars": 1773,
+    "size_mb": 617,
+    "created_at": "2013-05-08T14:55:01Z",
+    "last_commit_at": "2026-03-13T09:15:01Z",
+    "releases": 93,
+    "tags": 153,
+    "archived": false,
+    "release": {
+      "tag": "v1.5.188",
+      "at": "2025-07-31T22:42:19.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "54ee2abc6966775fb54413927f2c95e5638462d8",
+    "v": 3
+  }
+}

@@ -39,13 +39,13 @@
     "stars": 5278,
     "size_mb": 670,
     "created_at": "2021-07-13T14:34:08Z",
-    "last_commit_at": "2026-11-12T05:00:50Z",
-    "releases": 119,
-    "tags": 507,
+    "last_commit_at": "2026-11-13T07:22:48Z",
+    "releases": 122,
+    "tags": 510,
     "archived": false,
     "release": {
-      "tag": "mimir-3.2.4",
-      "at": "2026-10-30T19:32:03.000Z"
+      "tag": "mimir-3.2.5",
+      "at": "2026-11-13T04:04:08.000Z"
     }
   },
   "reuse": "copyleft",
@@ -56,9 +56,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 3,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "ff73b98f13290a9300c48ca62b6d978450307cc4",
+    "v": 3
+  }
 }

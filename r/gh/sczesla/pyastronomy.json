@@ -1,0 +1,56 @@
+{
+  "id": "gh:sczesla/pyastronomy",
+  "kind": "repo",
+  "url": "https://github.com/sczesla/PyAstronomy",
+  "title": "PyAstronomy",
+  "why": "Gives Lomb-Scargle periodograms and transit light-curve models for astronomy data, with fitting and MCMC sampling in funcFit.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sczesla/PyAstronomy",
+    "sha": "7a8db71f4f57476826b52c29298ac3747bc7fc50",
+    "file_url": "https://cdn.jsdelivr.net/gh/sczesla/PyAstronomy@7a8db71f4f57476826b52c29298ac3747bc7fc50/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 177,
+    "size_mb": 4,
+    "created_at": "2013-02-05T15:21:35Z",
+    "last_commit_at": "2026-10-29T23:20:42Z",
+    "releases": 27,
+    "tags": 28,
+    "archived": false,
+    "release": {
+      "tag": "v_0-25-0",
+      "at": "2026-03-26T13:16:10.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "gh:pomerado/pomerado",
+  "kind": "repo",
+  "url": "https://github.com/Pomerado/pomerado",
+  "title": "pomerado",
+  "why": "Builds an MCP integration for a website from a natural language task, so the site works without an API.",
+  "keys": {
+    "races": [
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/web-access",
+      "agents/tools/mcp-servers",
+      "agents/tools/browser-automation"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Pomerado/pomerado",
+    "sha": "e5a6362a674a28c708e1eca5da68cb90ec38a65f",
+    "file_url": "https://cdn.jsdelivr.net/gh/Pomerado/pomerado@e5a6362a674a28c708e1eca5da68cb90ec38a65f/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1651,
+    "size_mb": 14,
+    "created_at": "2026-10-05T19:56:00Z",
+    "last_commit_at": "2026-11-12T07:59:52Z",
+    "releases": 48,
+    "tags": 50,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.0-canary.638",
+      "at": "2026-11-11T22:10:15.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:187f2d62dda99199a2991cb9c03ad60a9b2c5d13"
+  },
   "id": "gh:1jehuang/jcode-desktop",
   "kind": "repo",
   "url": "https://github.com/1jehuang/jcode-desktop",
@@ -32,18 +35,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/1jehuang/jcode-desktop",
-    "sha": "41b57a21a404e0bb1deb0dfa40a6364de8eb1b0b",
-    "file_url": "https://cdn.jsdelivr.net/gh/1jehuang/jcode-desktop@41b57a21a404e0bb1deb0dfa40a6364de8eb1b0b/{path}"
+    "sha": "187f2d62dda99199a2991cb9c03ad60a9b2c5d13",
+    "file_url": "https://cdn.jsdelivr.net/gh/1jehuang/jcode-desktop@187f2d62dda99199a2991cb9c03ad60a9b2c5d13/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 31,
+    "stars": 33,
     "size_mb": 7,
     "created_at": "2026-08-16T23:26:24Z",
-    "last_commit_at": "2026-11-11T06:06:17Z",
-    "releases": 35,
-    "tags": 94,
+    "last_commit_at": "2026-11-12T20:26:08Z",
+    "releases": 36,
+    "tags": 97,
     "archived": false,
     "release": {
       "tag": "desktop-v0.6.5",
@@ -58,13 +61,13 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 3,
+    "star_delta_7d": 4,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "41b57a21a404e0bb1deb0dfa40a6364de8eb1b0b",
+    "sha": "187f2d62dda99199a2991cb9c03ad60a9b2c5d13",
     "v": 3
   }
 }

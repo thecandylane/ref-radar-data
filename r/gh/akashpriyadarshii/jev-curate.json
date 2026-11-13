@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:7a6e5cea043735e7d72beaa56f6c90151e31b388"
-  },
   "id": "gh:akashpriyadarshii/jev-curate",
   "kind": "repo",
   "url": "https://github.com/AkashPriyadarshii/jev-curate",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/AkashPriyadarshii/jev-curate",
-    "sha": "7a6e5cea043735e7d72beaa56f6c90151e31b388",
-    "file_url": "https://cdn.jsdelivr.net/gh/AkashPriyadarshii/jev-curate@7a6e5cea043735e7d72beaa56f6c90151e31b388/{path}"
+    "sha": "a3f57c199650c53f8b31ae4ba14d185eedfa8fb7",
+    "file_url": "https://cdn.jsdelivr.net/gh/AkashPriyadarshii/jev-curate@a3f57c199650c53f8b31ae4ba14d185eedfa8fb7/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 111,
+    "stars": 112,
     "size_mb": 0,
     "created_at": "2026-09-18T06:36:41Z",
     "last_commit_at": "2026-11-11T13:37:47Z",
@@ -63,7 +60,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "7a6e5cea043735e7d72beaa56f6c90151e31b388",
+    "sha": "a3f57c199650c53f8b31ae4ba14d185eedfa8fb7",
     "v": 3
   }
 }

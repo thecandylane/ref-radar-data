@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a47b02d0d6f17922df3322382fd86cc5a700ba54"
+  },
   "id": "gh:ultralytics/ultralytics",
   "kind": "repo",
   "url": "https://github.com/ultralytics/ultralytics",
@@ -30,10 +33,10 @@
   "facts": {
     "lang": "Python",
     "license": "AGPL-3.0",
-    "stars": 63319,
-    "size_mb": 65,
+    "stars": 63338,
+    "size_mb": 66,
     "created_at": "2022-09-11T16:39:45Z",
-    "last_commit_at": "2026-11-12T08:06:34Z",
+    "last_commit_at": "2026-11-13T07:04:29Z",
     "releases": 539,
     "tags": 830,
     "archived": false,
@@ -50,10 +53,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 175,
+    "star_delta_7d": 162,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "a47b02d0d6f17922df3322382fd86cc5a700ba54",
+    "v": 3
+  },
   "hot": true
 }

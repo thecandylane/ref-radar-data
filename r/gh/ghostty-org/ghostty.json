@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:72ac7dced84e96a5d5214d005d59eadd10da27bb"
+  },
   "id": "gh:ghostty-org/ghostty",
   "kind": "repo",
   "url": "https://github.com/ghostty-org/ghostty",
@@ -38,10 +41,10 @@
   "facts": {
     "lang": "Zig",
     "license": "MIT",
-    "stars": 64030,
+    "stars": 64065,
     "size_mb": 93,
     "created_at": "2022-03-29T17:38:26Z",
-    "last_commit_at": "2026-11-12T04:15:20Z",
+    "last_commit_at": "2026-11-12T14:20:52Z",
     "releases": 1,
     "tags": 16,
     "archived": false,
@@ -55,10 +58,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 438,
+    "star_delta_7d": 368,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "72ac7dced84e96a5d5214d005d59eadd10da27bb",
+    "v": 3
+  },
   "hot": true
 }

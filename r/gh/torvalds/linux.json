@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:9d66f26fefacebfeed15de31c1123451a17ff119"
+  },
   "id": "gh:torvalds/linux",
   "kind": "repo",
   "url": "https://github.com/torvalds/linux",
@@ -34,10 +37,10 @@
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 255454,
+    "stars": 255550,
     "size_mb": 6327,
     "created_at": "2011-09-04T22:48:12Z",
-    "last_commit_at": "2026-11-12T00:48:56Z",
+    "last_commit_at": "2026-11-12T20:26:14Z",
     "releases": 0,
     "tags": 953,
     "archived": false,
@@ -51,10 +54,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 1018,
+    "star_delta_7d": 1012,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "9d66f26fefacebfeed15de31c1123451a17ff119",
+    "v": 3
+  },
   "hot": true
 }

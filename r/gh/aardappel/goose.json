@@ -1,0 +1,62 @@
+{
+  "id": "gh:aardappel/goose",
+  "kind": "repo",
+  "url": "https://github.com/aardappel/goose",
+  "title": "aardappel/goose",
+  "why": "Compiles to one C file and runs in-process through TinyCC, freeing memory at scope exit with no garbage collector.",
+  "keys": {
+    "races": [
+      "languages/compilers",
+      "systems/memory"
+    ],
+    "lanes": [
+      "languages/compilers",
+      "systems/memory"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/aardappel/goose",
+    "sha": "d5ae5bbda990923fa4129f969c7f853c20d4d1e6",
+    "file_url": "https://cdn.jsdelivr.net/gh/aardappel/goose@d5ae5bbda990923fa4129f969c7f853c20d4d1e6/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 3456,
+    "size_mb": 12,
+    "created_at": "2026-08-30T21:10:01Z",
+    "last_commit_at": "2026-11-11T07:09:37Z",
+    "releases": 4,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v2026.4",
+      "at": "2026-11-06T23:23:48.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

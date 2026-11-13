@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:440056d1921e44fe791a3531d5a4ac5e020b49b1"
+  },
   "id": "gh:nvidia/megatron-lm",
   "kind": "repo",
   "url": "https://github.com/NVIDIA/Megatron-LM",
@@ -30,10 +33,10 @@
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 18382,
-    "size_mb": 183,
+    "stars": 18387,
+    "size_mb": 184,
     "created_at": "2019-03-21T16:15:52Z",
-    "last_commit_at": "2026-11-12T09:03:52Z",
+    "last_commit_at": "2026-11-13T08:03:25Z",
     "releases": 52,
     "tags": 83,
     "archived": false,
@@ -50,9 +53,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 52,
+    "star_delta_7d": 47,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "440056d1921e44fe791a3531d5a4ac5e020b49b1",
+    "v": 3
+  }
 }

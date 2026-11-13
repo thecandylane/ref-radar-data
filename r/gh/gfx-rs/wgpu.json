@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c92258fcae03572ced056fa9162370d3ebcf8143"
+  },
   "id": "gh:gfx-rs/wgpu",
   "kind": "repo",
   "url": "https://github.com/gfx-rs/wgpu",
@@ -28,16 +31,16 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 18520,
+    "stars": 18529,
     "size_mb": 87,
     "created_at": "2018-09-13T19:18:50Z",
     "last_commit_at": "2026-11-11T19:37:47Z",
-    "releases": 63,
-    "tags": 397,
+    "releases": 64,
+    "tags": 500,
     "archived": false,
     "release": {
-      "tag": "v30.0.1",
-      "at": "2026-08-22T02:57:01.000Z"
+      "tag": "v30.0.2",
+      "at": "2026-11-12T18:50:04.000Z"
     }
   },
   "reuse": "copy",
@@ -48,9 +51,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 53,
+    "star_delta_7d": 56,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "c92258fcae03572ced056fa9162370d3ebcf8143",
+    "v": 3
+  }
 }

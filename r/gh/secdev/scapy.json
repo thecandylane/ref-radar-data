@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:7a9fde61a2fe9b2ad90e667b3a8aba0f75574e4e"
+  },
   "id": "gh:secdev/scapy",
   "kind": "repo",
   "url": "https://github.com/secdev/scapy",
@@ -30,10 +33,10 @@
   "facts": {
     "lang": "Python",
     "license": "GPL-2.0",
-    "stars": 12686,
+    "stars": 12688,
     "size_mb": 86,
     "created_at": "2015-10-01T17:06:46Z",
-    "last_commit_at": "2026-11-12T09:19:39Z",
+    "last_commit_at": "2026-11-13T08:34:49Z",
     "releases": 17,
     "tags": 537,
     "archived": false,
@@ -50,9 +53,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 10,
+    "star_delta_7d": 13,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "7a9fde61a2fe9b2ad90e667b3a8aba0f75574e4e",
+    "v": 3
+  }
 }

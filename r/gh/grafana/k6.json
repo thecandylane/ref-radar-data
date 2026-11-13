@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:dc582d85236f9dd0cf912208b97fe0835277cdf3"
+  },
   "id": "gh:grafana/k6",
   "kind": "repo",
   "url": "https://github.com/grafana/k6",
@@ -42,16 +45,16 @@
   "facts": {
     "lang": "Go",
     "license": "AGPL-3.0",
-    "stars": 32268,
+    "stars": 32275,
     "size_mb": 86,
     "created_at": "2016-03-21T15:30:24Z",
-    "last_commit_at": "2026-11-11T15:03:55Z",
-    "releases": 95,
-    "tags": 126,
+    "last_commit_at": "2026-11-12T13:15:46Z",
+    "releases": 96,
+    "tags": 127,
     "archived": false,
     "release": {
-      "tag": "v2.3.0",
-      "at": "2026-09-21T15:17:03.000Z"
+      "tag": "v2.4.0",
+      "at": "2026-11-12T13:27:33.000Z"
     }
   },
   "reuse": "copyleft",
@@ -62,10 +65,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 119,
+    "star_delta_7d": 105,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "dc582d85236f9dd0cf912208b97fe0835277cdf3",
+    "v": 3
+  },
   "hot": true
 }

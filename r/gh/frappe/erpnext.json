@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:5a543f083fdee515dcf0567c318e596a00ad8aeb"
+  },
   "id": "gh:frappe/erpnext",
   "kind": "repo",
   "url": "https://github.com/frappe/erpnext",
@@ -30,16 +33,16 @@
   "facts": {
     "lang": "Python",
     "license": "GPL-3.0",
-    "stars": 41218,
-    "size_mb": 1981,
+    "stars": 41257,
+    "size_mb": 1982,
     "created_at": "2011-06-08T08:20:56Z",
-    "last_commit_at": "2026-11-12T08:29:03Z",
+    "last_commit_at": "2026-11-13T09:09:38Z",
     "releases": 1000,
-    "tags": 1838,
+    "tags": 1841,
     "archived": false,
     "release": {
-      "tag": "v16.54.0",
-      "at": "2026-11-06T01:04:07.000Z"
+      "tag": "v16.55.0",
+      "at": "2026-11-12T13:55:43.000Z"
     }
   },
   "reuse": "copyleft",
@@ -50,10 +53,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 250,
+    "star_delta_7d": 243,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "5a543f083fdee515dcf0567c318e596a00ad8aeb",
+    "v": 3
+  },
   "hot": true
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:113b4f0679bdd805c2b26d241dc19fa134c18ee1"
+  },
   "id": "gh:home-assistant/core",
   "kind": "repo",
   "url": "https://github.com/home-assistant/core",
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 92257,
-    "size_mb": 918,
+    "stars": 92279,
+    "size_mb": 919,
     "created_at": "2013-09-17T07:29:48Z",
-    "last_commit_at": "2026-11-12T09:03:02Z",
+    "last_commit_at": "2026-11-13T07:37:00Z",
     "releases": 1000,
     "tags": 1669,
     "archived": false,
@@ -56,5 +59,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "113b4f0679bdd805c2b26d241dc19fa134c18ee1",
+    "v": 3
+  }
 }

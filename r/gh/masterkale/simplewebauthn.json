@@ -1,0 +1,67 @@
+{
+  "id": "gh:masterkale/simplewebauthn",
+  "kind": "repo",
+  "url": "https://github.com/MasterKale/SimpleWebAuthn",
+  "title": "SimpleWebAuthn",
+  "why": "Adds passkey and WebAuthn login to Node, Deno and browser apps through TypeScript-first packages for server and client.",
+  "keys": {
+    "races": [
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/iam"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MasterKale/SimpleWebAuthn",
+    "sha": "01d1a640d5ded4fced0b45a9d806fd0ff44ad244",
+    "file_url": "https://cdn.jsdelivr.net/gh/MasterKale/SimpleWebAuthn@01d1a640d5ded4fced0b45a9d806fd0ff44ad244/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 2392,
+    "size_mb": 5,
+    "created_at": "2020-05-22T16:21:42Z",
+    "last_commit_at": "2026-11-06T20:20:26Z",
+    "releases": 94,
+    "tags": 121,
+    "archived": false,
+    "release": {
+      "tag": "v14.1.0",
+      "at": "2026-11-06T20:23:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "01d1a640d5ded4fced0b45a9d806fd0ff44ad244",
+    "v": 3
+  },
+  "scan_partial": true
+}

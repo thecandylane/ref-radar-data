@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fb13944545f9aa8173b98cb6d61691d4faa2402e"
+  },
+  "id": "gh:random-robbie/slurp",
+  "kind": "repo",
+  "url": "https://github.com/random-robbie/slurp",
+  "title": "slurp",
+  "why": "Enumerates S3 buckets by watching certstream for new certificates, or by trying keyword and domain-based name permutations.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/random-robbie/slurp",
+    "sha": "fb13944545f9aa8173b98cb6d61691d4faa2402e",
+    "file_url": "https://cdn.jsdelivr.net/gh/random-robbie/slurp@fb13944545f9aa8173b98cb6d61691d4faa2402e/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "AGPL-3.0",
+    "stars": 15,
+    "size_mb": 13,
+    "created_at": "2018-02-27T14:58:08Z",
+    "last_commit_at": "2018-02-27T16:35:35Z",
+    "releases": 0,
+    "tags": 9,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fb13944545f9aa8173b98cb6d61691d4faa2402e",
+    "v": 3
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "contains raw shellcode bytes"
+    ],
+    "scanned_at": "2026-11-11T22:03:38.580Z"
+  }
+}

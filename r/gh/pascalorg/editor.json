@@ -42,16 +42,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 25457,
+    "stars": 25485,
     "size_mb": 187,
     "created_at": "2025-10-16T19:35:06Z",
-    "last_commit_at": "2026-11-11T20:28:30Z",
-    "releases": 35,
-    "tags": 133,
+    "last_commit_at": "2026-11-12T23:08:49Z",
+    "releases": 38,
+    "tags": 157,
     "archived": false,
     "release": {
-      "tag": "@pascal-app/cli@1.1.1",
-      "at": "2026-11-11T18:12:08.000Z"
+      "tag": "@pascal-app/cli@1.1.4",
+      "at": "2026-11-12T21:05:15.000Z"
     }
   },
   "reuse": "copy",
@@ -62,9 +62,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 122,
+    "star_delta_7d": 128,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "51bf4071c10d0189c2499ec2069e580b74169106",
+    "v": 3
+  }
 }

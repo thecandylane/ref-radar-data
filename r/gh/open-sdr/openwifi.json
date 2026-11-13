@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9d4d1b0030df7756a2cf99458f970af7cb66f53f"
+  },
+  "id": "gh:open-sdr/openwifi",
+  "kind": "repo",
+  "url": "https://github.com/open-sdr/openwifi",
+  "title": "openwifi",
+  "why": "Full WiFi baseband on a Zynq FPGA with a Linux mac80211 driver, for studying and changing 802.11 below the host stack.",
+  "keys": {
+    "races": [
+      "engineering/hdl",
+      "embedded/drivers"
+    ],
+    "lanes": [
+      "engineering/hdl",
+      "embedded/drivers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/open-sdr/openwifi",
+    "sha": "9d4d1b0030df7756a2cf99458f970af7cb66f53f",
+    "file_url": "https://cdn.jsdelivr.net/gh/open-sdr/openwifi@9d4d1b0030df7756a2cf99458f970af7cb66f53f/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "AGPL-3.0",
+    "stars": 4868,
+    "size_mb": 26,
+    "created_at": "2019-11-08T11:07:20Z",
+    "last_commit_at": "2026-10-22T14:18:57Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v1.5.0",
+      "at": "2025-08-06T19:27:33.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9d4d1b0030df7756a2cf99458f970af7cb66f53f",
+    "v": 3
+  }
+}

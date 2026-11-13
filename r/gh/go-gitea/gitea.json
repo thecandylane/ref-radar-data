@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:9f93e8d808e5a1aa9935f4a7dce6d11101f3e15b"
+  },
   "id": "gh:go-gitea/gitea",
   "kind": "repo",
   "url": "https://github.com/go-gitea/gitea",
@@ -38,10 +41,10 @@
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 59039,
+    "stars": 59056,
     "size_mb": 367,
     "created_at": "2016-11-01T02:13:26Z",
-    "last_commit_at": "2026-11-12T07:12:55Z",
+    "last_commit_at": "2026-11-13T08:43:13Z",
     "releases": 240,
     "tags": 264,
     "archived": false,
@@ -58,10 +61,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 140,
+    "star_delta_7d": 136,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "9f93e8d808e5a1aa9935f4a7dce6d11101f3e15b",
+    "v": 3
+  },
   "hot": true
 }

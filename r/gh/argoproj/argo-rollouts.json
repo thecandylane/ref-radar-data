@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:b9d53c722cf12aaa75b2bc2eb349db7a5362a88b"
-  },
   "id": "gh:argoproj/argo-rollouts",
   "kind": "repo",
   "url": "https://github.com/argoproj/argo-rollouts",
@@ -35,14 +32,14 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/argoproj/argo-rollouts",
-    "sha": "b9d53c722cf12aaa75b2bc2eb349db7a5362a88b",
-    "file_url": "https://cdn.jsdelivr.net/gh/argoproj/argo-rollouts@b9d53c722cf12aaa75b2bc2eb349db7a5362a88b/{path}"
+    "sha": "9962f9327bcb9568b948a721294c9659efdad535",
+    "file_url": "https://cdn.jsdelivr.net/gh/argoproj/argo-rollouts@9962f9327bcb9568b948a721294c9659efdad535/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
     "stars": 3623,
-    "size_mb": 105,
+    "size_mb": 106,
     "created_at": "2018-11-17T18:28:39Z",
     "last_commit_at": "2026-11-12T07:26:32Z",
     "releases": 90,
@@ -67,8 +64,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "b9d53c722cf12aaa75b2bc2eb349db7a5362a88b",
+    "sha": "9962f9327bcb9568b948a721294c9659efdad535",
     "v": 3
-  },
-  "scan_partial": true
+  }
 }

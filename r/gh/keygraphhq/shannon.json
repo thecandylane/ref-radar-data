@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:94bf442d58539994af1c929dedb8bd958e8198c1"
+  },
   "id": "gh:keygraphhq/shannon",
   "kind": "repo",
   "url": "https://github.com/KeygraphHQ/shannon",
@@ -38,7 +41,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 51755,
+    "stars": 51807,
     "size_mb": 91,
     "created_at": "2025-09-27T01:51:47Z",
     "last_commit_at": "2026-11-11T20:16:40Z",
@@ -58,10 +61,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 524,
+    "star_delta_7d": 499,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "94bf442d58539994af1c929dedb8bd958e8198c1",
+    "v": 3
+  },
   "hot": true
 }

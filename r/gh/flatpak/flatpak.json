@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:65a3909ba8b70c9ee6823dbe0c69ce4b45773cd3"
+  },
   "id": "gh:flatpak/flatpak",
   "kind": "repo",
   "url": "https://github.com/flatpak/flatpak",
@@ -34,10 +37,10 @@
   "facts": {
     "lang": "C",
     "license": "LGPL-2.1",
-    "stars": 5108,
+    "stars": 5110,
     "size_mb": 60,
     "created_at": "2016-05-19T14:19:21Z",
-    "last_commit_at": "2026-11-11T00:42:32Z",
+    "last_commit_at": "2026-11-12T21:20:36Z",
     "releases": 185,
     "tags": 214,
     "archived": false,
@@ -54,9 +57,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 3,
+    "star_delta_7d": 2,
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pack": {
+    "sha": "65a3909ba8b70c9ee6823dbe0c69ce4b45773cd3",
+    "v": 3
+  }
 }
