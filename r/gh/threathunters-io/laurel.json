@@ -1,0 +1,73 @@
+{
+  "id": "gh:threathunters-io/laurel",
+  "kind": "repo",
+  "url": "https://github.com/threathunters-io/laurel",
+  "title": "laurel",
+  "why": "Rewrites auditd events into enriched JSON on the host, adding details about the parent process (ppid) for SIEM monitoring.",
+  "keys": {
+    "races": [
+      "cyber/detection",
+      "infra/observability"
+    ],
+    "lanes": [
+      "cyber/detection",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/threathunters-io/laurel",
+    "sha": "dec7cf0e566a3af710ec22314bbbce71f161ac5c",
+    "file_url": "https://cdn.jsdelivr.net/gh/threathunters-io/laurel@dec7cf0e566a3af710ec22314bbbce71f161ac5c/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "GPL-3.0",
+    "stars": 879,
+    "size_mb": 1,
+    "created_at": "2021-08-03T07:35:24Z",
+    "last_commit_at": "2026-11-03T21:29:26Z",
+    "releases": 36,
+    "tags": 38,
+    "archived": false,
+    "release": {
+      "tag": "v0.8.2",
+      "at": "2026-07-17T14:07:09.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dec7cf0e566a3af710ec22314bbbce71f161ac5c",
+    "v": 3
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "contains raw shellcode bytes"
+    ],
+    "scanned_at": "2026-11-12T11:44:01.611Z"
+  }
+}

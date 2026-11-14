@@ -1,0 +1,66 @@
+{
+  "id": "gh:resonanceadmin/resonance-rfs-x-open-science",
+  "kind": "repo",
+  "url": "https://github.com/ResonanceAdmin/resonance-rfs-x-open-science",
+  "title": "resonance-rfs-x-open-science",
+  "why": "Recompute harnesses that reproduce published RFS-X metric values, such as CPS and dPhi, from public-source ingest parsers.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ResonanceAdmin/resonance-rfs-x-open-science",
+    "sha": "f6679f0d12267b6b88d489341742b14898eb50a6",
+    "file_url": "https://cdn.jsdelivr.net/gh/ResonanceAdmin/resonance-rfs-x-open-science@f6679f0d12267b6b88d489341742b14898eb50a6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-07-20T17:45:07Z",
+    "last_commit_at": "2026-07-21T16:37:54Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-07-22T18:09:06.000Z"
+    },
+    "doi": "10.5281/zenodo.21498341",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-14"
+    }
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f6679f0d12267b6b88d489341742b14898eb50a6",
+    "v": 3
+  }
+}

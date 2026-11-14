@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1da726718bf4c02212ee456e49e3b510a6023dff"
+  },
+  "id": "gh:dynverse/anndata",
+  "kind": "repo",
+  "url": "https://github.com/dynverse/anndata",
+  "title": "anndata",
+  "why": "Wraps the Python anndata package through reticulate, so R code reads h5ad files, but it is superseded by anndataR.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/serialization"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dynverse/anndata",
+    "sha": "1da726718bf4c02212ee456e49e3b510a6023dff",
+    "file_url": "https://cdn.jsdelivr.net/gh/dynverse/anndata@1da726718bf4c02212ee456e49e3b510a6023dff/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 54,
+    "size_mb": 11,
+    "created_at": "2020-10-14T10:39:05Z",
+    "last_commit_at": "2026-04-01T13:41:11Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "0.9.0",
+      "at": "2026-04-01T13:55:15.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1da726718bf4c02212ee456e49e3b510a6023dff",
+    "v": 3
+  }
+}

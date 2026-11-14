@@ -1,7 +1,5 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:0c167b86aedeb4f27745a84a8f7324518b0c960a"
-  },
+  "access": "none",
   "id": "gh:arthurgervais/mapta",
   "kind": "repo",
   "url": "https://github.com/arthurgervais/mapta",
@@ -21,26 +19,11 @@
       "agents/orchestration/agent-teams"
     ]
   },
-  "read": [
-    {
-      "locator": "main.py",
-      "kind": "path"
-    },
-    {
-      "locator": "analyze_logs.py",
-      "kind": "path"
-    }
-  ],
-  "fetch": {
-    "type": "git-sparse",
-    "repo": "https://github.com/arthurgervais/mapta",
-    "sha": "0c167b86aedeb4f27745a84a8f7324518b0c960a",
-    "file_url": "https://cdn.jsdelivr.net/gh/arthurgervais/mapta@0c167b86aedeb4f27745a84a8f7324518b0c960a/{path}"
-  },
+  "read": [],
   "facts": {
     "lang": "HTML",
     "license": "MIT",
-    "stars": 134,
+    "stars": 135,
     "size_mb": 5,
     "created_at": "2025-08-28T13:55:09Z",
     "last_commit_at": "2025-08-28T13:58:37Z",
@@ -49,7 +32,7 @@
     "archived": false,
     "release": null
   },
-  "reuse": "copy",
+  "reuse": null,
   "maturity": "quiet",
   "status": null,
   "stats": {
@@ -61,9 +44,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "0c167b86aedeb4f27745a84a8f7324518b0c960a",
-    "v": 3
-  }
+  "tier": "curated"
 }

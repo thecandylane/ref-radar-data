@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:35674a8395239717a8c4f7a2210970130b71bd31"
+  },
+  "id": "gh:basp-group/sara-ppd",
+  "kind": "repo",
+  "url": "https://github.com/basp-group/SARA-PPD",
+  "title": "SARA-PPD",
+  "why": "Recovers radio-interferometric images with a preconditioned primal-dual method that blends natural and uniform weighting, run from test_main_all.m.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/basp-group/SARA-PPD",
+    "sha": "35674a8395239717a8c4f7a2210970130b71bd31",
+    "file_url": "https://cdn.jsdelivr.net/gh/basp-group/SARA-PPD@35674a8395239717a8c4f7a2210970130b71bd31/{path}"
+  },
+  "facts": {
+    "lang": "MATLAB",
+    "license": "GPL-3.0",
+    "stars": 1,
+    "size_mb": 44,
+    "created_at": "2016-12-16T12:16:13Z",
+    "last_commit_at": "2024-02-04T12:36:03Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "35674a8395239717a8c4f7a2210970130b71bd31",
+    "v": 3
+  }
+}

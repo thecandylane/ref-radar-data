@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:300b3f5da414b03b9c1d7fb409c442b3b98bbd70"
+  },
+  "id": "gh:jimwangzx/zphisher-automated-phishing-tool-",
+  "kind": "repo",
+  "url": "https://github.com/jimwangzx/ZPHISHER-automated-phishing-tool-",
+  "title": "ZPHISHER-automated-phishing-tool-",
+  "why": "Bash script bundling 30 phishing page templates and 4 port forwarding tools, useful for studying how fake login pages are assembled.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jimwangzx/ZPHISHER-automated-phishing-tool-",
+    "sha": "300b3f5da414b03b9c1d7fb409c442b3b98bbd70",
+    "file_url": "https://cdn.jsdelivr.net/gh/jimwangzx/ZPHISHER-automated-phishing-tool-@300b3f5da414b03b9c1d7fb409c442b3b98bbd70/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "none",
+    "stars": 90,
+    "size_mb": 0,
+    "created_at": "2021-04-04T11:07:08Z",
+    "last_commit_at": "2021-04-04T10:13:28Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "300b3f5da414b03b9c1d7fb409c442b3b98bbd70",
+    "v": 3
+  }
+}

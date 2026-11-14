@@ -1,0 +1,64 @@
+{
+  "id": "gh:go-sql-driver/mysql",
+  "kind": "repo",
+  "url": "https://github.com/go-sql-driver/mysql",
+  "title": "mysql",
+  "why": "Pure Go MySQL driver for database/sql, with DSN parameters, connection pooling and optional zstd compression.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/go-sql-driver/mysql",
+    "sha": "4b7cc9c88022f8ec887690118a80c7870ec940be",
+    "file_url": "https://cdn.jsdelivr.net/gh/go-sql-driver/mysql@4b7cc9c88022f8ec887690118a80c7870ec940be/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MPL-2.0",
+    "stars": 15286,
+    "size_mb": 2,
+    "created_at": "2012-12-09T20:33:55Z",
+    "last_commit_at": "2026-11-12T07:11:28Z",
+    "releases": 24,
+    "tags": 28,
+    "archived": false,
+    "release": {
+      "tag": "v1.10.1",
+      "at": "2026-09-02T09:24:06.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4b7cc9c88022f8ec887690118a80c7870ec940be",
+    "v": 3
+  }
+}

@@ -28,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/aardappel/goose",
-    "sha": "d5ae5bbda990923fa4129f969c7f853c20d4d1e6",
-    "file_url": "https://cdn.jsdelivr.net/gh/aardappel/goose@d5ae5bbda990923fa4129f969c7f853c20d4d1e6/{path}"
+    "sha": "855f1037a5ceee837ef270382ac8d26df47a7139",
+    "file_url": "https://cdn.jsdelivr.net/gh/aardappel/goose@855f1037a5ceee837ef270382ac8d26df47a7139/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "Apache-2.0",
-    "stars": 3456,
-    "size_mb": 12,
+    "stars": 3516,
+    "size_mb": 13,
     "created_at": "2026-08-30T21:10:01Z",
-    "last_commit_at": "2026-11-11T07:09:37Z",
+    "last_commit_at": "2026-11-13T08:02:17Z",
     "releases": 4,
     "tags": 5,
     "archived": false,
@@ -58,5 +58,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "855f1037a5ceee837ef270382ac8d26df47a7139",
+    "v": 3
+  }
 }

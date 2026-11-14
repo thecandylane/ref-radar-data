@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7a5c494395193a635a659994a1768ec3ebaff4a6"
+  },
+  "id": "gh:bcalden/clusterpyxt",
+  "kind": "repo",
+  "url": "https://github.com/bcalden/ClusterPyXT",
+  "title": "ClusterPyXT",
+  "why": "Automates Chandra X-ray data into temperature, pressure and surface brightness maps of galaxy clusters, with parallel spectral fitting.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bcalden/ClusterPyXT",
+    "sha": "7a5c494395193a635a659994a1768ec3ebaff4a6",
+    "file_url": "https://cdn.jsdelivr.net/gh/bcalden/ClusterPyXT@7a5c494395193a635a659994a1768ec3ebaff4a6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 29,
+    "size_mb": 5,
+    "created_at": "2018-10-31T18:23:33Z",
+    "last_commit_at": "2023-10-10T19:00:04Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7a5c494395193a635a659994a1768ec3ebaff4a6",
+    "v": 3
+  }
+}

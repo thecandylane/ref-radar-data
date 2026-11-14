@@ -1,0 +1,66 @@
+{
+  "id": "gh:it-shelter-labs/shelter-humanizer",
+  "kind": "repo",
+  "url": "https://github.com/IT-Shelter-Labs/Shelter-Humanizer",
+  "title": "Shelter-Humanizer",
+  "why": "Windows editor that rewrites text with a local model or OpenAI-compatible key and strips hidden Unicode characters.",
+  "keys": {
+    "races": [
+      "dev-tools/editors",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "dev-tools/editors",
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/IT-Shelter-Labs/Shelter-Humanizer",
+    "sha": "008ae352027e30d331995640293ff42d0e7ef769",
+    "file_url": "https://cdn.jsdelivr.net/gh/IT-Shelter-Labs/Shelter-Humanizer@008ae352027e30d331995640293ff42d0e7ef769/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 65,
+    "size_mb": 3,
+    "created_at": "2026-10-04T11:27:40Z",
+    "last_commit_at": "2026-10-16T16:10:55Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.1",
+      "at": "2026-10-16T16:17:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "008ae352027e30d331995640293ff42d0e7ef769",
+    "v": 3
+  }
+}

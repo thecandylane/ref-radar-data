@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:569f25098a64f85d2b30b3045c9c8b6232a3c758"
+  },
+  "id": "gh:elebumm/redditvideomakerbot",
+  "kind": "repo",
+  "url": "https://github.com/elebumm/RedditVideoMakerBot",
+  "title": "RedditVideoMakerBot",
+  "why": "Builds a video from a chosen Reddit thread with one command, and config.toml lets you change the voice and background.",
+  "keys": {
+    "races": [
+      "media/video",
+      "media/speech"
+    ],
+    "lanes": [
+      "media/video",
+      "media/speech"
+    ],
+    "capabilities": [
+      "media/speech/text-to-speech"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/elebumm/RedditVideoMakerBot",
+    "sha": "569f25098a64f85d2b30b3045c9c8b6232a3c758",
+    "file_url": "https://cdn.jsdelivr.net/gh/elebumm/RedditVideoMakerBot@569f25098a64f85d2b30b3045c9c8b6232a3c758/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 12567,
+    "size_mb": 65,
+    "created_at": "2022-05-26T15:48:10Z",
+    "last_commit_at": "2026-03-17T19:05:04Z",
+    "releases": 16,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "3.4.0",
+      "at": "2025-10-28T23:53:49.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "569f25098a64f85d2b30b3045c9c8b6232a3c758",
+    "v": 3
+  }
+}

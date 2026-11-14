@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fc89d85b1e7f11b6434b32205c861b76ccfac660"
+  },
+  "id": "gh:mwanakijiji/dewarp",
+  "kind": "repo",
+  "url": "https://github.com/mwanakijiji/dewarp",
+  "title": "dewarp",
+  "why": "Finds the dewarping and derotation solution for LMIRcam readouts, the astrometric step of that camera.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mwanakijiji/dewarp",
+    "sha": "fc89d85b1e7f11b6434b32205c861b76ccfac660",
+    "file_url": "https://cdn.jsdelivr.net/gh/mwanakijiji/dewarp@fc89d85b1e7f11b6434b32205c861b76ccfac660/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 10,
+    "created_at": "2017-11-28T20:55:04Z",
+    "last_commit_at": "2019-12-10T03:18:04Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fc89d85b1e7f11b6434b32205c861b76ccfac660",
+    "v": 3
+  }
+}

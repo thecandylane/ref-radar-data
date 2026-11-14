@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9ddae776f91f9767cacd81fd9478a904121cd096"
+  },
+  "id": "gh:cybercentrecanada/assemblyline",
+  "kind": "repo",
+  "url": "https://github.com/CybercentreCanada/assemblyline",
+  "title": "CybercentreCanada/assemblyline",
+  "why": "Scans millions of files a day with dozens of analysis services, and you add new ones in Python through its REST API.",
+  "keys": {
+    "races": [
+      "cyber/reversing",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "cyber/reversing",
+      "infra/kubernetes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CybercentreCanada/assemblyline",
+    "sha": "9ddae776f91f9767cacd81fd9478a904121cd096",
+    "file_url": "https://cdn.jsdelivr.net/gh/CybercentreCanada/assemblyline@9ddae776f91f9767cacd81fd9478a904121cd096/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 570,
+    "size_mb": 0,
+    "created_at": "2020-12-03T18:06:55Z",
+    "last_commit_at": "2026-11-04T17:10:31Z",
+    "releases": 1000,
+    "tags": 2871,
+    "archived": false,
+    "release": {
+      "tag": "v4.8.0.stable2",
+      "at": "2026-11-12T21:04:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9ddae776f91f9767cacd81fd9478a904121cd096",
+    "v": 3
+  }
+}

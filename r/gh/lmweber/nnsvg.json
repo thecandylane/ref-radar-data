@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b32f6cffa1eb177a43c7f41c8cf812031317435d"
+  },
+  "id": "gh:lmweber/nnsvg",
+  "kind": "repo",
+  "url": "https://github.com/lmweber/nnSVG",
+  "title": "nnSVG",
+  "why": "Ranks spatially variable genes in spatial transcriptomics data with nearest-neighbor Gaussian processes, scaling linearly with spatial locations.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lmweber/nnSVG",
+    "sha": "b32f6cffa1eb177a43c7f41c8cf812031317435d",
+    "file_url": "https://cdn.jsdelivr.net/gh/lmweber/nnSVG@b32f6cffa1eb177a43c7f41c8cf812031317435d/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "MIT",
+    "stars": 25,
+    "size_mb": 0,
+    "created_at": "2021-09-27T17:20:00Z",
+    "last_commit_at": "2026-07-14T15:51:58Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b32f6cffa1eb177a43c7f41c8cf812031317435d",
+    "v": 3
+  }
+}

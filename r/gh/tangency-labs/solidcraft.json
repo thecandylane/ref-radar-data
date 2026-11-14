@@ -1,7 +1,5 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c10d36a0b5fc937385031dcd8e9e9e9a7b27d96a"
-  },
+  "access": "none",
   "id": "gh:tangency-labs/solidcraft",
   "kind": "repo",
   "url": "https://github.com/tangency-labs/solidcraft",
@@ -19,33 +17,14 @@
       "agents/tools/text-to-cad"
     ]
   },
-  "read": [
-    {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
-      "locator": "crates",
-      "kind": "path"
-    },
-    {
-      "locator": "apps",
-      "kind": "path"
-    }
-  ],
-  "fetch": {
-    "type": "git-sparse",
-    "repo": "https://github.com/tangency-labs/solidcraft",
-    "sha": "c10d36a0b5fc937385031dcd8e9e9e9a7b27d96a",
-    "file_url": "https://cdn.jsdelivr.net/gh/tangency-labs/solidcraft@c10d36a0b5fc937385031dcd8e9e9e9a7b27d96a/{path}"
-  },
+  "read": [],
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 16058,
-    "size_mb": 535,
+    "stars": 16207,
+    "size_mb": 548,
     "created_at": "2026-10-07T18:57:48Z",
-    "last_commit_at": "2026-11-13T09:03:45Z",
+    "last_commit_at": "2026-11-14T08:45:09Z",
     "releases": 79,
     "tags": 82,
     "archived": false,
@@ -54,7 +33,7 @@
       "at": "2026-11-13T04:19:07.000Z"
     }
   },
-  "reuse": "copy",
+  "reuse": null,
   "maturity": "new",
   "status": null,
   "stats": {
@@ -62,14 +41,10 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 1714,
+    "star_delta_7d": 1626,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "c10d36a0b5fc937385031dcd8e9e9e9a7b27d96a",
-    "v": 3
-  },
   "hot": true
 }

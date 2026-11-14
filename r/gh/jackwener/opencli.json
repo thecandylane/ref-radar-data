@@ -1,0 +1,69 @@
+{
+  "id": "gh:jackwener/opencli",
+  "kind": "repo",
+  "url": "https://github.com/jackwener/OpenCLI",
+  "title": "OpenCLI",
+  "why": "Converts sites into CLI commands and drives your logged-in Chrome for agents, returning JSON with ok and error fields.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/tools",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/tools/browser-automation",
+      "agents/tools/web-access"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jackwener/OpenCLI",
+    "sha": "9bc5f5ca132ec4d4e48d7ee517d4303bf159e8e8",
+    "file_url": "https://cdn.jsdelivr.net/gh/jackwener/OpenCLI@9bc5f5ca132ec4d4e48d7ee517d4303bf159e8e8/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "Apache-2.0",
+    "stars": 31076,
+    "size_mb": 17,
+    "created_at": "2026-03-14T22:10:23Z",
+    "last_commit_at": "2026-11-07T17:39:04Z",
+    "releases": 117,
+    "tags": 118,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.3",
+      "at": "2026-11-07T17:45:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9bc5f5ca132ec4d4e48d7ee517d4303bf159e8e8",
+    "v": 3
+  }
+}

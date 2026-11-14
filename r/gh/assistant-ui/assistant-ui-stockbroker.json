@@ -1,0 +1,61 @@
+{
+  "id": "gh:assistant-ui/assistant-ui-stockbroker",
+  "kind": "repo",
+  "url": "https://github.com/assistant-ui/assistant-ui-stockbroker",
+  "title": "assistant-ui-stockbroker",
+  "why": "Human in the Loop stockbroker chat: a LangGraph agent on a Next.js frontend, started with pnpm dev alongside its backend.",
+  "keys": {
+    "races": [
+      "finance/trading",
+      "llm-infra/chat-apps"
+    ],
+    "lanes": [
+      "finance/trading",
+      "llm-infra/chat-apps"
+    ],
+    "capabilities": [
+      "finance/trading/trading-agents"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/assistant-ui/assistant-ui-stockbroker",
+    "sha": "7470f7d81480137b46848c68f4e85c7de35bec2b",
+    "file_url": "https://cdn.jsdelivr.net/gh/assistant-ui/assistant-ui-stockbroker@7470f7d81480137b46848c68f4e85c7de35bec2b/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 284,
+    "size_mb": 0,
+    "created_at": "2024-09-10T20:48:56Z",
+    "last_commit_at": "2026-11-13T07:15:03Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7470f7d81480137b46848c68f4e85c7de35bec2b",
+    "v": 3
+  }
+}

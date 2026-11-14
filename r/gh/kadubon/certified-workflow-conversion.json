@@ -1,0 +1,75 @@
+{
+  "id": "gh:kadubon/certified-workflow-conversion",
+  "kind": "repo",
+  "url": "https://github.com/kadubon/certified-workflow-conversion",
+  "title": "certified-workflow-conversion",
+  "why": "Finds the stage that caps throughput in a long-running agent pipeline, and reports a conservative lower bound without touching the model.",
+  "keys": {
+    "races": [
+      "agents/frameworks",
+      "agents/coding"
+    ],
+    "lanes": [
+      "agents/frameworks",
+      "agents/coding"
+    ],
+    "capabilities": [
+      "agents/frameworks/agent-workflows",
+      "agents/coding/long-running"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kadubon/certified-workflow-conversion",
+    "sha": "2d5d43f50f92fd3d33f3e34301aec86354b12906",
+    "file_url": "https://cdn.jsdelivr.net/gh/kadubon/certified-workflow-conversion@2d5d43f50f92fd3d33f3e34301aec86354b12906/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-05-06T06:13:12Z",
+    "last_commit_at": "2026-05-07T00:33:38Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.0",
+      "at": "2026-05-07T00:14:46.000Z"
+    },
+    "doi": "10.5281/zenodo.20060372",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-14"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2d5d43f50f92fd3d33f3e34301aec86354b12906",
+    "v": 3
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "gh:charlescol/real-time-market-data-system",
+  "kind": "repo",
+  "url": "https://github.com/charlescol/real-time-market-data-system",
+  "title": "real-time-market-data-system",
+  "why": "Reconstructs order-book state from live exchange feeds on a Kafka, Flink and Druid stack, with notes on timing effects.",
+  "keys": {
+    "races": [
+      "finance/markets",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "finance/markets",
+      "data/pipelines"
+    ],
+    "capabilities": [
+      "finance/markets/market-data"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/charlescol/real-time-market-data-system",
+    "sha": "41621b469e3dc965a888d33b8cbd5e25428d05c6",
+    "file_url": "https://cdn.jsdelivr.net/gh/charlescol/real-time-market-data-system@41621b469e3dc965a888d33b8cbd5e25428d05c6/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "none",
+    "stars": 0,
+    "size_mb": 1,
+    "created_at": "2026-04-20T19:14:50Z",
+    "last_commit_at": "2026-09-25T19:56:18Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-05-20T13:35:09.000Z"
+    },
+    "doi": "10.5281/zenodo.20310385",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-14"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "41621b469e3dc965a888d33b8cbd5e25428d05c6",
+    "v": 3
+  }
+}

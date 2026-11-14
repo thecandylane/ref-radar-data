@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:30e804a1fceab8a16b663bf6b6a1c94ff5cb54a7"
+  },
+  "id": "gh:ropensci/historydata",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/historydata",
+  "title": "historydata",
+  "why": "Gives historians learning R ready-made datasets on population, religion, military and people for mapping and network analysis.",
+  "keys": {
+    "races": [
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/datasets"
+    ],
+    "capabilities": [
+      "data/datasets/dataset-lists"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/historydata",
+    "sha": "30e804a1fceab8a16b663bf6b6a1c94ff5cb54a7",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/historydata@30e804a1fceab8a16b663bf6b6a1c94ff5cb54a7/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 92,
+    "size_mb": 5,
+    "created_at": "2014-09-22T01:53:44Z",
+    "last_commit_at": "2025-07-21T02:11:42Z",
+    "releases": 1,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.0",
+      "at": "2024-08-16T19:06:30.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "30e804a1fceab8a16b663bf6b6a1c94ff5cb54a7",
+    "v": 3
+  }
+}

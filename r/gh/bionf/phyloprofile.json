@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:424b6e8834ebf4515d23dd52dc111c4cf190cc8f"
+  },
+  "id": "gh:bionf/phyloprofile",
+  "kind": "repo",
+  "url": "https://github.com/BIONF/PhyloProfile",
+  "title": "PhyloProfile",
+  "why": "Shiny app and R package for exploring ortholog presence and absence across taxa, with extra layers and taxonomy-based collapsing.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/BIONF/PhyloProfile",
+    "sha": "424b6e8834ebf4515d23dd52dc111c4cf190cc8f",
+    "file_url": "https://cdn.jsdelivr.net/gh/BIONF/PhyloProfile@424b6e8834ebf4515d23dd52dc111c4cf190cc8f/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 38,
+    "size_mb": 2,
+    "created_at": "2016-05-09T15:57:42Z",
+    "last_commit_at": "2026-09-14T16:03:18Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v2.2.2",
+      "at": "2026-02-11T12:31:24.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "424b6e8834ebf4515d23dd52dc111c4cf190cc8f",
+    "v": 3
+  }
+}

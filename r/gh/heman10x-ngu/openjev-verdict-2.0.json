@@ -1,0 +1,61 @@
+{
+  "id": "gh:heman10x-ngu/openjev-verdict-2.0",
+  "kind": "repo",
+  "url": "https://github.com/Heman10x-NGU/openJev-verdict-2.0",
+  "title": "openJev-verdict-2.0",
+  "why": "Non-autoregressive encoder for typed decisions that tracks calibration through Brier and ECE, with an ONNX export and WebGPU demo.",
+  "keys": {
+    "races": [
+      "agents/frameworks",
+      "ml/training"
+    ],
+    "lanes": [
+      "agents/frameworks",
+      "ml/training"
+    ],
+    "capabilities": [
+      "agents/frameworks/structured-io"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Heman10x-NGU/openJev-verdict-2.0",
+    "sha": "bff28567cff463b833bf044f351a8b7945d53e07",
+    "file_url": "https://cdn.jsdelivr.net/gh/Heman10x-NGU/openJev-verdict-2.0@bff28567cff463b833bf044f351a8b7945d53e07/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 306,
+    "size_mb": 15,
+    "created_at": "2026-09-19T12:14:46Z",
+    "last_commit_at": "2026-09-20T14:54:38Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "bff28567cff463b833bf044f351a8b7945d53e07",
+    "v": 3
+  }
+}

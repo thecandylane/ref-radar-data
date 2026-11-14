@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:39849c7eca314d14168ef78cd75a2efa9225e625"
-  },
   "id": "gh:berylliumsec/nebula",
   "kind": "repo",
   "url": "https://github.com/berylliumsec/nebula",
@@ -40,18 +37,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/berylliumsec/nebula",
-    "sha": "39849c7eca314d14168ef78cd75a2efa9225e625",
-    "file_url": "https://cdn.jsdelivr.net/gh/berylliumsec/nebula@39849c7eca314d14168ef78cd75a2efa9225e625/{path}"
+    "sha": "5ec14b42c5faec3c0c04ea8a720741543b98f29f",
+    "file_url": "https://cdn.jsdelivr.net/gh/berylliumsec/nebula@5ec14b42c5faec3c0c04ea8a720741543b98f29f/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "BSD-2-Clause",
-    "stars": 1159,
-    "size_mb": 159,
+    "stars": 1161,
+    "size_mb": 158,
     "created_at": "2023-09-30T15:33:36Z",
-    "last_commit_at": "2026-11-12T21:39:20Z",
+    "last_commit_at": "2026-11-14T09:54:30Z",
     "releases": 26,
-    "tags": 150,
+    "tags": 151,
     "archived": false,
     "release": {
       "tag": "nebula-v3.0.46",
@@ -72,7 +69,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "39849c7eca314d14168ef78cd75a2efa9225e625",
+    "sha": "5ec14b42c5faec3c0c04ea8a720741543b98f29f",
     "v": 3
   }
 }

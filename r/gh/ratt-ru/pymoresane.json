@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b024591ad0bbb69320d08841f28a2c27f62ae1af"
+  },
+  "id": "gh:ratt-ru/pymoresane",
+  "kind": "repo",
+  "url": "https://github.com/ratt-ru/PyMORESANE",
+  "title": "PyMORESANE",
+  "why": "Deconvolves dirty and psf FITS images with the MORESANE algorithm from the runsane command, pyCUDA-accelerated.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ratt-ru/PyMORESANE",
+    "sha": "b024591ad0bbb69320d08841f28a2c27f62ae1af",
+    "file_url": "https://cdn.jsdelivr.net/gh/ratt-ru/PyMORESANE@b024591ad0bbb69320d08841f28a2c27f62ae1af/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-2.0",
+    "stars": 11,
+    "size_mb": 1,
+    "created_at": "2014-12-17T15:14:24Z",
+    "last_commit_at": "2017-12-12T13:11:17Z",
+    "releases": 10,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.6",
+      "at": "2015-08-24T11:06:58.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b024591ad0bbb69320d08841f28a2c27f62ae1af",
+    "v": 3
+  }
+}

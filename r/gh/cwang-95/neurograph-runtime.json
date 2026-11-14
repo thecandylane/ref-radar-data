@@ -1,0 +1,61 @@
+{
+  "id": "gh:cwang-95/neurograph-runtime",
+  "kind": "repo",
+  "url": "https://github.com/cwang-95/neurograph-runtime",
+  "title": "neurograph-runtime",
+  "why": "Searches a graph knowledge base and returns evidence packs with the nodes and relations behind each hit, so the calling model writes the answer.",
+  "keys": {
+    "races": [
+      "llm-infra/rag",
+      "agents/memory"
+    ],
+    "lanes": [
+      "llm-infra/rag",
+      "agents/memory"
+    ],
+    "capabilities": [
+      "llm-infra/rag/knowledge-platforms"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cwang-95/neurograph-runtime",
+    "sha": "0ec12fc39f531a30f68dd95442630a53f7defcf7",
+    "file_url": "https://cdn.jsdelivr.net/gh/cwang-95/neurograph-runtime@0ec12fc39f531a30f68dd95442630a53f7defcf7/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2026-08-13T17:32:04Z",
+    "last_commit_at": "2026-08-15T12:19:29Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0ec12fc39f531a30f68dd95442630a53f7defcf7",
+    "v": 3
+  }
+}

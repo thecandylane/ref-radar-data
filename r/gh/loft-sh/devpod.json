@@ -1,0 +1,75 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5a0efcbff6610ab114b421f68a890739a452e66b"
+  },
+  "id": "gh:loft-sh/devpod",
+  "kind": "repo",
+  "url": "https://github.com/loft-sh/devpod",
+  "title": "devpod",
+  "why": "Creates a devcontainer.json environment on localhost Docker, a Kubernetes cluster or a cloud VM, then connects your IDE to it.",
+  "keys": {
+    "races": [
+      "infra/containers",
+      "infra/kubernetes",
+      "dev-tools/editors"
+    ],
+    "lanes": [
+      "infra/containers",
+      "infra/kubernetes",
+      "dev-tools/editors"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/loft-sh/devpod",
+    "sha": "5a0efcbff6610ab114b421f68a890739a452e66b",
+    "file_url": "https://cdn.jsdelivr.net/gh/loft-sh/devpod@5a0efcbff6610ab114b421f68a890739a452e66b/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MPL-2.0",
+    "stars": 15319,
+    "size_mb": 71,
+    "created_at": "2023-01-24T12:59:48Z",
+    "last_commit_at": "2025-11-14T06:33:37Z",
+    "releases": 210,
+    "tags": 220,
+    "archived": false,
+    "release": {
+      "tag": "v0.6.15",
+      "at": "2025-03-10T14:33:39.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5a0efcbff6610ab114b421f68a890739a452e66b",
+    "v": 3
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "gh:zseven-w/rish-app",
+  "kind": "repo",
+  "url": "https://github.com/ZSeven-W/rish-app",
+  "title": "rish-app",
+  "why": "A native GPUI interface on iOS and Android that keeps provider credentials and workspace files inside the platform services.",
+  "keys": {
+    "races": [
+      "agents/clients",
+      "mobile/ios",
+      "mobile/android"
+    ],
+    "lanes": [
+      "agents/clients",
+      "mobile/ios",
+      "mobile/android"
+    ],
+    "capabilities": [
+      "agents/clients/mobile-apps"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ZSeven-W/rish-app",
+    "sha": "3f6b40a537ed67694b384cc6299eecce1db8ae23",
+    "file_url": "https://cdn.jsdelivr.net/gh/ZSeven-W/rish-app@3f6b40a537ed67694b384cc6299eecce1db8ae23/{path}"
+  },
+  "facts": {
+    "lang": "Objective-C++",
+    "license": "MIT",
+    "stars": 163,
+    "size_mb": 43,
+    "created_at": "2026-08-25T16:27:20Z",
+    "last_commit_at": "2026-11-09T17:11:30Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3f6b40a537ed67694b384cc6299eecce1db8ae23",
+    "v": 3
+  }
+}

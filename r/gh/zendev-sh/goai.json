@@ -1,0 +1,67 @@
+{
+  "id": "gh:zendev-sh/goai",
+  "kind": "repo",
+  "url": "https://github.com/zendev-sh/goai",
+  "title": "goai",
+  "why": "Covers 25+ providers behind one Go API, with GenerateObject[T] for typed output built from Go types by reflection.",
+  "keys": {
+    "races": [
+      "agents/frameworks"
+    ],
+    "lanes": [
+      "agents/frameworks"
+    ],
+    "capabilities": [
+      "agents/frameworks/llm-sdks",
+      "agents/frameworks/structured-io"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zendev-sh/goai",
+    "sha": "e524da004f52d40d8558fe928c2b1d8f06f6b661",
+    "file_url": "https://cdn.jsdelivr.net/gh/zendev-sh/goai@e524da004f52d40d8558fe928c2b1d8f06f6b661/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 239,
+    "size_mb": 23,
+    "created_at": "2026-03-17T21:57:16Z",
+    "last_commit_at": "2026-11-08T07:00:06Z",
+    "releases": 64,
+    "tags": 136,
+    "archived": false,
+    "release": {
+      "tag": "v0.11.0",
+      "at": "2026-10-31T08:31:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e524da004f52d40d8558fe928c2b1d8f06f6b661",
+    "v": 3
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "gh:vinta/awesome-python",
+  "kind": "repo",
+  "url": "https://github.com/vinta/awesome-python",
+  "title": "awesome-python",
+  "why": "Browsable index of Python frameworks and libraries grouped by task, with sections for AI agents, web frameworks and fine-tuning.",
+  "keys": {
+    "races": [
+      "agents/frameworks",
+      "web/frameworks",
+      "ml/training"
+    ],
+    "lanes": [
+      "agents/frameworks",
+      "web/frameworks",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vinta/awesome-python",
+    "sha": "16e2f46c638c00acbd970d6ada7d9565ce6d0125",
+    "file_url": "https://cdn.jsdelivr.net/gh/vinta/awesome-python@16e2f46c638c00acbd970d6ada7d9565ce6d0125/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 334653,
+    "size_mb": 7,
+    "created_at": "2014-06-27T21:00:06Z",
+    "last_commit_at": "2026-11-13T05:14:15Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "16e2f46c638c00acbd970d6ada7d9565ce6d0125",
+    "v": 3
+  }
+}

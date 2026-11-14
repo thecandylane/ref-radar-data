@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:59f00dd6aaebf48f3bc501e174f75f815c2619f0"
+  },
+  "id": "gh:bcicen/ctop",
+  "kind": "repo",
+  "url": "https://github.com/bcicen/ctop",
+  "title": "ctop",
+  "why": "Real-time metrics for Docker and runC containers in a grid, with a single container view for digging into one.",
+  "keys": {
+    "races": [
+      "infra/observability",
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "infra/observability",
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bcicen/ctop",
+    "sha": "59f00dd6aaebf48f3bc501e174f75f815c2619f0",
+    "file_url": "https://cdn.jsdelivr.net/gh/bcicen/ctop@59f00dd6aaebf48f3bc501e174f75f815c2619f0/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 17852,
+    "size_mb": 4,
+    "created_at": "2016-12-27T02:25:57Z",
+    "last_commit_at": "2022-08-01T11:32:57Z",
+    "releases": 16,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.7",
+      "at": "2022-03-22T12:10:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "59f00dd6aaebf48f3bc501e174f75f815c2619f0",
+    "v": 3
+  }
+}

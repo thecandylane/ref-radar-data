@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a7eeabc39cfb37d74ea3d82eac674d0e1851b1cb"
+  },
+  "id": "gh:pacocoursey/next-themes",
+  "kind": "repo",
+  "url": "https://github.com/pacocoursey/next-themes",
+  "title": "next-themes",
+  "why": "Sets dark mode in Next.js with 2 lines of code, follows system preference and any custom theme without flashing.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "web/css"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pacocoursey/next-themes",
+    "sha": "a7eeabc39cfb37d74ea3d82eac674d0e1851b1cb",
+    "file_url": "https://cdn.jsdelivr.net/gh/pacocoursey/next-themes@a7eeabc39cfb37d74ea3d82eac674d0e1851b1cb/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 6354,
+    "size_mb": 1,
+    "created_at": "2020-10-10T05:32:52Z",
+    "last_commit_at": "2025-05-31T02:15:53Z",
+    "releases": 9,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.6",
+      "at": "2025-03-11T21:03:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a7eeabc39cfb37d74ea3d82eac674d0e1851b1cb",
+    "v": 3
+  }
+}

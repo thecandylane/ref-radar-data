@@ -1,0 +1,62 @@
+{
+  "id": "gh:baserow/baserow",
+  "kind": "repo",
+  "url": "https://github.com/baserow/baserow",
+  "title": "baserow",
+  "why": "Spreadsheet-style database with an API, automations and form views, self-hosted in Docker with no storage restrictions.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/databases",
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/baserow/baserow",
+    "sha": "ae1232fad83be270bfac92b635d88fe9e22e30e2",
+    "file_url": "https://raw.githubusercontent.com/baserow/baserow/ae1232fad83be270bfac92b635d88fe9e22e30e2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 6335,
+    "size_mb": 279,
+    "created_at": "2020-07-20T09:32:04Z",
+    "last_commit_at": "2026-11-14T08:52:16Z",
+    "releases": 26,
+    "tags": 135,
+    "archived": false,
+    "release": {
+      "tag": "2.4.3",
+      "at": "2026-11-14T09:40:29.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ae1232fad83be270bfac92b635d88fe9e22e30e2",
+    "v": 3
+  }
+}

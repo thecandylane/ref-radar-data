@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5b90add788182ec3bc4f23926c80d18fc80556ba"
+  },
+  "id": "gh:lmweber/ggspavis",
+  "kind": "repo",
+  "url": "https://github.com/lmweber/ggspavis",
+  "title": "ggspavis",
+  "why": "Spot, feature and QC plots for 10x Visium spatial transcriptomics data, reading SpatialExperiment and SingleCellExperiment objects from Bioconductor.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lmweber/ggspavis",
+    "sha": "5b90add788182ec3bc4f23926c80d18fc80556ba",
+    "file_url": "https://cdn.jsdelivr.net/gh/lmweber/ggspavis@5b90add788182ec3bc4f23926c80d18fc80556ba/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "MIT",
+    "stars": 5,
+    "size_mb": 1,
+    "created_at": "2020-12-02T19:19:24Z",
+    "last_commit_at": "2026-07-14T16:14:09Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5b90add788182ec3bc4f23926c80d18fc80556ba",
+    "v": 3
+  }
+}

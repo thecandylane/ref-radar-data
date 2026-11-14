@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:4dd6414a6970016bd0f734f5332c146e297609f2"
+  },
   "id": "gh:ucberkeleyseti/blimpy",
   "kind": "repo",
   "url": "https://github.com/UCBerkeleySETI/blimpy",
@@ -52,5 +55,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "4dd6414a6970016bd0f734f5332c146e297609f2",
+    "v": 3
+  }
 }

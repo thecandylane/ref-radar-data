@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5bfd0dae3b02c0c12eb72b71b6ef2b47ae0c83dd"
+  },
+  "id": "gh:pec27/lizard",
+  "kind": "repo",
+  "url": "https://github.com/pec27/lizard",
+  "title": "lizard",
+  "why": "Python cosmology code whose C functions are built with make, then checked by nosetests in tests/.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.txt",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pec27/lizard",
+    "sha": "5bfd0dae3b02c0c12eb72b71b6ef2b47ae0c83dd",
+    "file_url": "https://cdn.jsdelivr.net/gh/pec27/lizard@5bfd0dae3b02c0c12eb72b71b6ef2b47ae0c83dd/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2017-08-25T12:05:48Z",
+    "last_commit_at": "2018-08-23T21:47:25Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5bfd0dae3b02c0c12eb72b71b6ef2b47ae0c83dd",
+    "v": 3
+  }
+}

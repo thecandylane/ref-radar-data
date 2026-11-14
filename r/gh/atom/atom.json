@@ -1,0 +1,73 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1c3bd35ce238dc0491def9e1780d04748d8e18af"
+  },
+  "id": "gh:atom/atom",
+  "kind": "repo",
+  "url": "https://github.com/atom/atom",
+  "title": "atom",
+  "why": "Customizable text editor on Electron whose packages still work, though the repos were archived December 15, 2022.",
+  "keys": {
+    "races": [
+      "dev-tools/editors",
+      "desktop/app-shells"
+    ],
+    "lanes": [
+      "dev-tools/editors",
+      "desktop/app-shells"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/atom/atom",
+    "sha": "1c3bd35ce238dc0491def9e1780d04748d8e18af",
+    "file_url": "https://cdn.jsdelivr.net/gh/atom/atom@1c3bd35ce238dc0491def9e1780d04748d8e18af/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 60692,
+    "size_mb": 323,
+    "created_at": "2012-01-20T18:18:21Z",
+    "last_commit_at": "2022-11-22T16:11:57Z",
+    "releases": 538,
+    "tags": 571,
+    "archived": true,
+    "release": {
+      "tag": "v1.60.0",
+      "at": "2022-03-08T09:58:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1c3bd35ce238dc0491def9e1780d04748d8e18af",
+    "v": 3
+  }
+}

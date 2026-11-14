@@ -1,0 +1,59 @@
+{
+  "id": "gh:newtogi/acms-agentic-cognitive-memory-system",
+  "kind": "repo",
+  "url": "https://github.com/newtogi/ACMS-Agentic-Cognitive-Memory-System",
+  "title": "ACMS-Agentic-Cognitive-Memory-System",
+  "why": "Adds a filter that drops low-salience inputs, predicts next outcomes and consolidates memories offline into a graph.",
+  "keys": {
+    "races": [
+      "agents/memory"
+    ],
+    "lanes": [
+      "agents/memory"
+    ],
+    "capabilities": [
+      "agents/memory/long-term-memory"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/newtogi/ACMS-Agentic-Cognitive-Memory-System",
+    "sha": "2a1eea635e09660c038841745576b03e8301daaf",
+    "file_url": "https://cdn.jsdelivr.net/gh/newtogi/ACMS-Agentic-Cognitive-Memory-System@2a1eea635e09660c038841745576b03e8301daaf/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-09-07T17:55:04Z",
+    "last_commit_at": "2026-09-13T15:21:44Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2a1eea635e09660c038841745576b03e8301daaf",
+    "v": 3
+  }
+}

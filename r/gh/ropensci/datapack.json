@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c865aa532fa08c63098f2771ca80ba768f3c743c"
+  },
+  "id": "gh:ropensci/datapack",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/datapack",
+  "title": "datapack",
+  "why": "Groups data objects and their metadata into a bundle, written out as RDF or BagIt for DataONE from R.",
+  "keys": {
+    "races": [
+      "data/serialization",
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/serialization",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/datapack",
+    "sha": "c865aa532fa08c63098f2771ca80ba768f3c743c",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/datapack@c865aa532fa08c63098f2771ca80ba768f3c743c/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 41,
+    "size_mb": 1,
+    "created_at": "2014-09-04T17:53:33Z",
+    "last_commit_at": "2025-10-10T00:00:06Z",
+    "releases": 9,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "1.4.2",
+      "at": "2025-10-10T20:03:35.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c865aa532fa08c63098f2771ca80ba768f3c743c",
+    "v": 3
+  }
+}

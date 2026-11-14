@@ -1,0 +1,67 @@
+{
+  "id": "gh:j-akiru5/likaslens",
+  "kind": "repo",
+  "url": "https://github.com/J-Akiru5/LikasLens",
+  "title": "LikasLens",
+  "why": "Snap a phone photo of a violation and a Neo4j graph routes it to the agency enforcing the law.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "web/frameworks",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "web/frameworks",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "llm-infra/rag/knowledge-platforms"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/J-Akiru5/LikasLens",
+    "sha": "195b480e871c9a8127c328bd43198097f4b1ae95",
+    "file_url": "https://raw.githubusercontent.com/J-Akiru5/LikasLens/195b480e871c9a8127c328bd43198097f4b1ae95/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "none",
+    "stars": 42,
+    "size_mb": 197,
+    "created_at": "2026-04-06T07:36:40Z",
+    "last_commit_at": "2026-10-19T23:44:16Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "195b480e871c9a8127c328bd43198097f4b1ae95",
+    "v": 3
+  }
+}

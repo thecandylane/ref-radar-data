@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d7862e2c995fb04599a71f601d3fdababf52934b"
+  },
+  "id": "gh:p4-team/ctf",
+  "kind": "repo",
+  "url": "https://github.com/p4-team/ctf",
+  "title": "ctf",
+  "why": "Index of CTF writeups from P4 Team, 2015 to 2023, each with its place out of how many teams.",
+  "keys": {
+    "races": [
+      "learning/security-labs",
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "learning/security-labs",
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/p4-team/ctf",
+    "sha": "d7862e2c995fb04599a71f601d3fdababf52934b",
+    "file_url": "https://raw.githubusercontent.com/p4-team/ctf/d7862e2c995fb04599a71f601d3fdababf52934b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 1845,
+    "size_mb": 305,
+    "created_at": "2015-09-22T12:53:15Z",
+    "last_commit_at": "2024-09-18T13:47:24Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d7862e2c995fb04599a71f601d3fdababf52934b",
+    "v": 3
+  }
+}

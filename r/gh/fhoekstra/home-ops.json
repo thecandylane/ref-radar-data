@@ -1,0 +1,59 @@
+{
+  "id": "gh:fhoekstra/home-ops",
+  "kind": "repo",
+  "url": "https://github.com/fhoekstra/home-ops",
+  "title": "home-ops",
+  "why": "Flux and Talos manage a home Kubernetes cluster declaratively, with bootstrap steps via task and topf for the nodes.",
+  "keys": {
+    "races": [
+      "infra/kubernetes",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "infra/kubernetes",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fhoekstra/home-ops",
+    "sha": "3fb66e513155771e5dce73cb537300d0cfc90261",
+    "file_url": "https://cdn.jsdelivr.net/gh/fhoekstra/home-ops@3fb66e513155771e5dce73cb537300d0cfc90261/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "MIT",
+    "stars": 24,
+    "size_mb": 3,
+    "created_at": "2025-01-31T12:34:40Z",
+    "last_commit_at": "2026-11-14T04:38:04Z",
+    "releases": 0,
+    "tags": 5,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3fb66e513155771e5dce73cb537300d0cfc90261",
+    "v": 3
+  }
+}

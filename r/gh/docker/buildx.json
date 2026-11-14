@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6997c2578c3fb0ac66e883ceaa535aae90c1ee3d"
+  },
+  "id": "gh:docker/buildx",
+  "kind": "repo",
+  "url": "https://github.com/docker/buildx",
+  "title": "buildx",
+  "why": "Drives BuildKit from the docker command, and its bake mode builds several targets from one HCL file.",
+  "keys": {
+    "races": [
+      "dev-tools/build",
+      "infra/containers"
+    ],
+    "lanes": [
+      "dev-tools/build",
+      "infra/containers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/docker/buildx",
+    "sha": "6997c2578c3fb0ac66e883ceaa535aae90c1ee3d",
+    "file_url": "https://cdn.jsdelivr.net/gh/docker/buildx@6997c2578c3fb0ac66e883ceaa535aae90c1ee3d/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 4546,
+    "size_mb": 62,
+    "created_at": "2019-03-22T21:20:07Z",
+    "last_commit_at": "2026-11-13T19:53:09Z",
+    "releases": 148,
+    "tags": 148,
+    "archived": false,
+    "release": {
+      "tag": "v0.39.0",
+      "at": "2026-11-11T20:14:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6997c2578c3fb0ac66e883ceaa535aae90c1ee3d",
+    "v": 3
+  }
+}

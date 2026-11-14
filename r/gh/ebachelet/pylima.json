@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c4fa053a0f1ac930880ca3dc16e777431c401292"
+  },
+  "id": "gh:ebachelet/pylima",
+  "kind": "repo",
+  "url": "https://github.com/ebachelet/pyLIMA",
+  "title": "pyLIMA",
+  "why": "Fits microlensing events from your photometry data in Python, with simulation and parallax models and custom fitting routines.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ebachelet/pyLIMA",
+    "sha": "c4fa053a0f1ac930880ca3dc16e777431c401292",
+    "file_url": "https://cdn.jsdelivr.net/gh/ebachelet/pyLIMA@c4fa053a0f1ac930880ca3dc16e777431c401292/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 40,
+    "size_mb": 68,
+    "created_at": "2015-10-26T17:30:07Z",
+    "last_commit_at": "2026-06-11T14:29:39Z",
+    "releases": 2,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2017-09-26T17:03:59.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c4fa053a0f1ac930880ca3dc16e777431c401292",
+    "v": 3
+  }
+}

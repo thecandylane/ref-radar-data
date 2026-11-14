@@ -1,0 +1,61 @@
+{
+  "id": "gh:slopus/slopus.github.io",
+  "kind": "repo",
+  "url": "https://github.com/slopus/slopus.github.io",
+  "title": "slopus.github.io",
+  "why": "TypeScript source for the Happy Coder documentation site, with an AGENTS.md file guiding agents that edit the src folder.",
+  "keys": {
+    "races": [
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/slopus/slopus.github.io",
+    "sha": "275790de18910e7a3ff82dab749eb0f4c7cdb427",
+    "file_url": "https://raw.githubusercontent.com/slopus/slopus.github.io/275790de18910e7a3ff82dab749eb0f4c7cdb427/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "none",
+    "stars": 19,
+    "size_mb": 291,
+    "created_at": "2025-07-29T16:55:35Z",
+    "last_commit_at": "2026-11-14T08:42:59Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "275790de18910e7a3ff82dab749eb0f4c7cdb427",
+    "v": 3
+  }
+}

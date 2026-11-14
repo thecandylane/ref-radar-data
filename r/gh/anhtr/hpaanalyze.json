@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cfad11eeb6d23d8b315cf36c756e2320503b1563"
+  },
+  "id": "gh:anhtr/hpaanalyze",
+  "kind": "repo",
+  "url": "https://github.com/anhtr/HPAanalyze",
+  "title": "HPAanalyze",
+  "why": "Downloads Human Protein Atlas tables and XML entries into R tibbles, then plots tissue, pathology and subcellular data and fetches staining images.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/anhtr/HPAanalyze",
+    "sha": "cfad11eeb6d23d8b315cf36c756e2320503b1563",
+    "file_url": "https://cdn.jsdelivr.net/gh/anhtr/HPAanalyze@cfad11eeb6d23d8b315cf36c756e2320503b1563/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 39,
+    "size_mb": 39,
+    "created_at": "2018-05-21T20:05:22Z",
+    "last_commit_at": "2026-08-05T21:25:50Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "cfad11eeb6d23d8b315cf36c756e2320503b1563",
+    "v": 3
+  }
+}

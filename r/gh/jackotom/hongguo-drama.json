@@ -1,0 +1,66 @@
+{
+  "id": "gh:jackotom/hongguo-drama",
+  "kind": "repo",
+  "url": "https://github.com/jackotom/hongguo-drama",
+  "title": "hongguo-drama",
+  "why": "Electron app for short-drama video playback and downloads, with a Docker build for NAS boxes and Apple silicon Macs.",
+  "keys": {
+    "races": [
+      "desktop/app-shells",
+      "media/video"
+    ],
+    "lanes": [
+      "desktop/app-shells",
+      "media/video"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jackotom/hongguo-drama",
+    "sha": "bb4aec994a1fc6336da55b269481ae2196124e8d",
+    "file_url": "https://cdn.jsdelivr.net/gh/jackotom/hongguo-drama@bb4aec994a1fc6336da55b269481ae2196124e8d/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "GPL-3.0",
+    "stars": 1304,
+    "size_mb": 9,
+    "created_at": "2026-10-07T00:06:45Z",
+    "last_commit_at": "2026-11-13T08:11:21Z",
+    "releases": 76,
+    "tags": 76,
+    "archived": false,
+    "release": {
+      "tag": "v7.2",
+      "at": "2026-11-13T07:32:56.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "bb4aec994a1fc6336da55b269481ae2196124e8d",
+    "v": 3
+  }
+}

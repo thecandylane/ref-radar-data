@@ -1,0 +1,59 @@
+{
+  "id": "gh:modenaxe/awesome-biomechanics",
+  "kind": "repo",
+  "url": "https://github.com/modenaxe/awesome-biomechanics",
+  "title": "awesome-biomechanics",
+  "why": "Links to motion capture datasets, gait analysis markersets and musculoskeletal simulation software in one curated list for biomechanics work.",
+  "keys": {
+    "races": [
+      "data/datasets",
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "data/datasets",
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/modenaxe/awesome-biomechanics",
+    "sha": "de83e6dc2affb15d8672c7367b109e8e7c7ccc20",
+    "file_url": "https://cdn.jsdelivr.net/gh/modenaxe/awesome-biomechanics@de83e6dc2affb15d8672c7367b109e8e7c7ccc20/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "none",
+    "stars": 1034,
+    "size_mb": 2,
+    "created_at": "2020-08-14T16:53:40Z",
+    "last_commit_at": "2026-03-06T03:47:52Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "de83e6dc2affb15d8672c7367b109e8e7c7ccc20",
+    "v": 3
+  }
+}

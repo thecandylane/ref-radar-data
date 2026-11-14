@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c3a8f5065de9bcaa2dce7d23619f9b9abde2594b"
+  },
   "id": "gh:pandas-dev/pandas",
   "kind": "repo",
   "url": "https://github.com/pandas-dev/pandas",
@@ -28,10 +31,10 @@
   "facts": {
     "lang": "Python",
     "license": "BSD-3-Clause",
-    "stars": 50505,
+    "stars": 50512,
     "size_mb": 414,
     "created_at": "2010-08-24T01:37:33Z",
-    "last_commit_at": "2026-11-12T22:19:26Z",
+    "last_commit_at": "2026-11-13T22:53:04Z",
     "releases": 126,
     "tags": 196,
     "archived": false,
@@ -48,7 +51,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 131,
+    "star_delta_7d": 2,
     "votes": {},
     "ranks": {}
   },
@@ -56,6 +59,5 @@
   "pack": {
     "sha": "c3a8f5065de9bcaa2dce7d23619f9b9abde2594b",
     "v": 3
-  },
-  "hot": true
+  }
 }

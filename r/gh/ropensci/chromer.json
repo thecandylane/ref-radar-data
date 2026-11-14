@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:033633272cd08f911f9909d90dcbc84c4df64022"
+  },
+  "id": "gh:ropensci/chromer",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/chromer",
+  "title": "chromer",
+  "why": "Pulls chromosome counts for a genus, family or species from the CCDB API, then cleans the messy records with summarize_counts.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/datasets"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/chromer",
+    "sha": "033633272cd08f911f9909d90dcbc84c4df64022",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/chromer@033633272cd08f911f9909d90dcbc84c4df64022/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 13,
+    "size_mb": 0,
+    "created_at": "2014-12-01T07:01:52Z",
+    "last_commit_at": "2026-06-02T11:30:03Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v0.10",
+      "at": "2025-07-28T11:48:11.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "033633272cd08f911f9909d90dcbc84c4df64022",
+    "v": 3
+  }
+}

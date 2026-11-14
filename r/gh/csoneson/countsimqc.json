@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7740a95a08720509a98e51f8d0721ccad65a6b42"
+  },
+  "id": "gh:csoneson/countsimqc",
+  "kind": "repo",
+  "url": "https://github.com/csoneson/countsimQC",
+  "title": "countsimQC",
+  "why": "Builds a report comparing count matrices, such as synthetic and real RNA-seq data, to check how faithful simulated data is.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/csoneson/countsimQC",
+    "sha": "7740a95a08720509a98e51f8d0721ccad65a6b42",
+    "file_url": "https://cdn.jsdelivr.net/gh/csoneson/countsimQC@7740a95a08720509a98e51f8d0721ccad65a6b42/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 31,
+    "size_mb": 3,
+    "created_at": "2017-05-15T18:29:08Z",
+    "last_commit_at": "2026-04-28T12:48:48Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.4",
+      "at": "2018-09-28T12:22:51.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7740a95a08720509a98e51f8d0721ccad65a6b42",
+    "v": 3
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "gh:kubernetes-client/python",
+  "kind": "repo",
+  "url": "https://github.com/kubernetes-client/python",
+  "title": "python",
+  "why": "Talk to the Kubernetes API from Python with sync and asyncio clients, config loading and watch streams for cluster events.",
+  "keys": {
+    "races": [
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "infra/kubernetes"
+    ],
+    "capabilities": [
+      "infra/kubernetes/desktop-clients"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kubernetes-client/python",
+    "sha": "a687381d746b91a6e0f49f7ec357320bcbf4cd38",
+    "file_url": "https://raw.githubusercontent.com/kubernetes-client/python/a687381d746b91a6e0f49f7ec357320bcbf4cd38/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 7704,
+    "size_mb": 58,
+    "created_at": "2016-10-31T20:08:03Z",
+    "last_commit_at": "2026-11-10T18:26:08Z",
+    "releases": 117,
+    "tags": 128,
+    "archived": false,
+    "release": {
+      "tag": "v37.0.2",
+      "at": "2026-11-06T03:41:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a687381d746b91a6e0f49f7ec357320bcbf4cd38",
+    "v": 3
+  }
+}

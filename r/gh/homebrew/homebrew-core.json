@@ -1,0 +1,61 @@
+{
+  "id": "gh:homebrew/homebrew-core",
+  "kind": "repo",
+  "url": "https://github.com/Homebrew/homebrew-core",
+  "title": "homebrew-core",
+  "why": "Holds the formulae that brew install reads, built from source by default, so new packages go through one tap.",
+  "keys": {
+    "races": [
+      "desktop/packaging"
+    ],
+    "lanes": [
+      "desktop/packaging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Homebrew/homebrew-core",
+    "sha": "9c7e817029d2db6f1472237339be5dfa595040c3",
+    "file_url": "https://cdn.jsdelivr.net/gh/Homebrew/homebrew-core@9c7e817029d2db6f1472237339be5dfa595040c3/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "BSD-2-Clause",
+    "stars": 15671,
+    "size_mb": 1264,
+    "created_at": "2016-03-01T06:58:36Z",
+    "last_commit_at": "2026-11-14T09:35:26Z",
+    "releases": 0,
+    "tags": 12,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9c7e817029d2db6f1472237339be5dfa595040c3",
+    "v": 3
+  }
+}

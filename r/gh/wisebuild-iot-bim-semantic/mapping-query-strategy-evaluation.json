@@ -1,0 +1,68 @@
+{
+  "id": "gh:wisebuild-iot-bim-semantic/mapping-query-strategy-evaluation",
+  "kind": "repo",
+  "url": "https://github.com/WiseBuild-IoT-BIM-Semantic/mapping-query-strategy-evaluation",
+  "title": "mapping-query-strategy-evaluation",
+  "why": "Runs 25 SPARQL workloads through Ontop and checks generated SQL against expert SQL for result equivalence and timing.",
+  "keys": {
+    "races": [
+      "engineering/bim",
+      "data/databases"
+    ],
+    "lanes": [
+      "engineering/bim",
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/WiseBuild-IoT-BIM-Semantic/mapping-query-strategy-evaluation",
+    "sha": "314e865235927d3e0a61999626f4a54ac6ceb00d",
+    "file_url": "https://cdn.jsdelivr.net/gh/WiseBuild-IoT-BIM-Semantic/mapping-query-strategy-evaluation@314e865235927d3e0a61999626f4a54ac6ceb00d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 2,
+    "created_at": "2026-09-02T15:00:11Z",
+    "last_commit_at": "2026-10-01T08:36:44Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.2",
+      "at": "2026-10-01T08:36:47.000Z"
+    },
+    "doi": "10.5281/zenodo.22257347",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-14"
+    }
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "314e865235927d3e0a61999626f4a54ac6ceb00d",
+    "v": 3
+  }
+}

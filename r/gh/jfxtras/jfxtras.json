@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:694a25b613b733350f8bce29a7702e50e7c10525"
+  },
+  "id": "gh:jfxtras/jfxtras",
+  "kind": "repo",
+  "url": "https://github.com/JFXtras/jfxtras",
+  "title": "jfxtras",
+  "why": "Adds an agenda calendar control, date and time pickers, circular panes, menus and gauges on top of JavaFX.",
+  "keys": {
+    "races": [
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/JFXtras/jfxtras",
+    "sha": "694a25b613b733350f8bce29a7702e50e7c10525",
+    "file_url": "https://cdn.jsdelivr.net/gh/JFXtras/jfxtras@694a25b613b733350f8bce29a7702e50e7c10525/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "NOASSERTION",
+    "stars": 604,
+    "size_mb": 65,
+    "created_at": "2012-02-13T20:03:59Z",
+    "last_commit_at": "2024-10-07T15:03:52Z",
+    "releases": 0,
+    "tags": 5,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "694a25b613b733350f8bce29a7702e50e7c10525",
+    "v": 3
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "gh:ultralytics/yolov3",
+  "kind": "repo",
+  "url": "https://github.com/ultralytics/yolov3",
+  "title": "yolov3",
+  "why": "Trains and exports YOLOv3, YOLOv3-SPP and YOLOv3-tiny to ONNX, TensorRT and CoreML from one repository.",
+  "keys": {
+    "races": [
+      "ml/vision",
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/vision",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ultralytics/yolov3",
+    "sha": "34c3f2108b73031647b293a7e73603d90e5a208b",
+    "file_url": "https://cdn.jsdelivr.net/gh/ultralytics/yolov3@34c3f2108b73031647b293a7e73603d90e5a208b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 10638,
+    "size_mb": 11,
+    "created_at": "2018-08-26T08:57:20Z",
+    "last_commit_at": "2026-11-07T16:59:48Z",
+    "releases": 12,
+    "tags": 12,
+    "archived": false,
+    "release": {
+      "tag": "v9.6.0",
+      "at": "2021-11-14T21:26:56.000Z"
+    },
+    "doi": "10.5281/zenodo.4681234",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-14"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "34c3f2108b73031647b293a7e73603d90e5a208b",
+    "v": 3
+  }
+}

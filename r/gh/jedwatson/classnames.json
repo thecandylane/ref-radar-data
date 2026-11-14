@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:abd6314010de053a09df5acc53e474ff65cea470"
+  },
+  "id": "gh:jedwatson/classnames",
+  "kind": "repo",
+  "url": "https://github.com/JedWatson/classnames",
+  "title": "classnames",
+  "why": "Joins class names conditionally from strings, objects and arrays, plus dedupe and css-modules bind variants for React.",
+  "keys": {
+    "races": [
+      "web/css",
+      "web/ui-components"
+    ],
+    "lanes": [
+      "web/css",
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/JedWatson/classnames",
+    "sha": "abd6314010de053a09df5acc53e474ff65cea470",
+    "file_url": "https://cdn.jsdelivr.net/gh/JedWatson/classnames@abd6314010de053a09df5acc53e474ff65cea470/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 17774,
+    "size_mb": 1,
+    "created_at": "2014-11-05T00:44:31Z",
+    "last_commit_at": "2026-08-05T14:11:04Z",
+    "releases": 0,
+    "tags": 26,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "abd6314010de053a09df5acc53e474ff65cea470",
+    "v": 3
+  }
+}

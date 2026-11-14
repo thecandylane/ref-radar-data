@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f3b2e4b2baf965bde6a82caf5bf09503c7f07b76"
+  },
+  "id": "gh:compepigen/methrix",
+  "kind": "repo",
+  "url": "https://github.com/CompEpigen/methrix",
+  "title": "methrix",
+  "why": "R package that merges bisulfite sequencing bedGraph files into methylation and coverage matrices with filtering, QC plots and HTML reports.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CompEpigen/methrix",
+    "sha": "f3b2e4b2baf965bde6a82caf5bf09503c7f07b76",
+    "file_url": "https://cdn.jsdelivr.net/gh/CompEpigen/methrix@f3b2e4b2baf965bde6a82caf5bf09503c7f07b76/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 36,
+    "size_mb": 106,
+    "created_at": "2019-01-22T16:14:30Z",
+    "last_commit_at": "2025-12-01T16:00:47Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f3b2e4b2baf965bde6a82caf5bf09503c7f07b76",
+    "v": 3
+  }
+}

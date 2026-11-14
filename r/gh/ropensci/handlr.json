@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b48a84abe9b6eed938dfee0492f8ffeb127d45e6"
+  },
+  "id": "gh:ropensci/handlr",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/handlr",
+  "title": "handlr",
+  "why": "Converts citation records among bibtex, ris, citeproc, codemeta and cff, reading and writing each in R without retyping entries.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/handlr",
+    "sha": "b48a84abe9b6eed938dfee0492f8ffeb127d45e6",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/handlr@b48a84abe9b6eed938dfee0492f8ffeb127d45e6/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 37,
+    "size_mb": 0,
+    "created_at": "2018-10-26T23:54:31Z",
+    "last_commit_at": "2025-03-04T00:12:10Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.0",
+      "at": "2020-10-14T21:38:19.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b48a84abe9b6eed938dfee0492f8ffeb127d45e6",
+    "v": 3
+  }
+}

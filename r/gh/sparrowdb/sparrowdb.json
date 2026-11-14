@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3c05ffe8de163e41b30287f37d6ccb320383e598"
+  },
+  "id": "gh:sparrowdb/sparrowdb",
+  "kind": "repo",
+  "url": "https://github.com/SparrowDb/sparrowdb",
+  "title": "sparrowdb",
+  "why": "Stores images in an append-only file with an index and bloom filter, and serves them over HTTP with Lua scripts for effects.",
+  "keys": {
+    "races": [
+      "data/storage",
+      "data/databases"
+    ],
+    "lanes": [
+      "data/storage",
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SparrowDb/sparrowdb",
+    "sha": "3c05ffe8de163e41b30287f37d6ccb320383e598",
+    "file_url": "https://cdn.jsdelivr.net/gh/SparrowDb/sparrowdb@3c05ffe8de163e41b30287f37d6ccb320383e598/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 69,
+    "size_mb": 1,
+    "created_at": "2016-07-26T02:19:27Z",
+    "last_commit_at": "2018-03-12T23:58:08Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3c05ffe8de163e41b30287f37d6ccb320383e598",
+    "v": 3
+  }
+}

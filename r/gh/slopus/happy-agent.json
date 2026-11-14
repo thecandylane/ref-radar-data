@@ -1,0 +1,71 @@
+{
+  "id": "gh:slopus/happy-agent",
+  "kind": "repo",
+  "url": "https://github.com/slopus/happy-agent",
+  "title": "happy-agent",
+  "why": "Runs Claude, Codex and Grok models in one local daemon, and hands the loop to Claude Code or Codex CLI when you want.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/orchestration",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/orchestration",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/orchestration/harness-adapters",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/slopus/happy-agent",
+    "sha": "6fc20e7fb96c908e5f9b7821698ca94d4b112177",
+    "file_url": "https://cdn.jsdelivr.net/gh/slopus/happy-agent@6fc20e7fb96c908e5f9b7821698ca94d4b112177/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 39,
+    "size_mb": 150,
+    "created_at": "2026-07-04T16:23:33Z",
+    "last_commit_at": "2026-11-14T06:24:36Z",
+    "releases": 275,
+    "tags": 905,
+    "archived": false,
+    "release": {
+      "tag": "v2026.11.5",
+      "at": "2026-11-11T02:26:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6fc20e7fb96c908e5f9b7821698ca94d4b112177",
+    "v": 3
+  }
+}

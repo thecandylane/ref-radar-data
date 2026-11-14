@@ -39,16 +39,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 3823,
-    "size_mb": 111,
+    "stars": 3838,
+    "size_mb": 113,
     "created_at": "2025-10-25T04:17:51Z",
-    "last_commit_at": "2026-11-12T06:55:46Z",
-    "releases": 383,
-    "tags": 412,
+    "last_commit_at": "2026-11-14T08:43:30Z",
+    "releases": 388,
+    "tags": 417,
     "archived": false,
     "release": {
-      "tag": "v0.34.56",
-      "at": "2026-11-12T06:49:04.000Z"
+      "tag": "v0.34.61",
+      "at": "2026-11-14T02:54:27.000Z"
     }
   },
   "reuse": "copy",
@@ -63,5 +63,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "ed08ddcb8e109f5e64076073294a832955ffc23e",
+    "v": 3
+  }
 }

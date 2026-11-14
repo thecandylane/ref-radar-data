@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:5d6d1f051e0930537b8eda9760d05441d4279594"
+  },
   "id": "gh:django/django",
   "kind": "repo",
   "url": "https://github.com/django/django",
@@ -28,10 +31,10 @@
   "facts": {
     "lang": "Python",
     "license": "BSD-3-Clause",
-    "stars": 91729,
+    "stars": 91728,
     "size_mb": 278,
     "created_at": "2012-04-28T02:47:18Z",
-    "last_commit_at": "2026-11-13T08:01:55Z",
+    "last_commit_at": "2026-11-13T17:06:50Z",
     "releases": 0,
     "tags": 525,
     "archived": false,
@@ -45,7 +48,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 191,
+    "star_delta_7d": 56,
     "votes": {},
     "ranks": {}
   },
@@ -53,6 +56,5 @@
   "pack": {
     "sha": "5d6d1f051e0930537b8eda9760d05441d4279594",
     "v": 3
-  },
-  "hot": true
+  }
 }

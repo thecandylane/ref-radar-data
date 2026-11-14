@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:219b8fa47623feb5b074a521a45246f548d080e8"
+  },
+  "id": "gh:ropensci-archive/solrium",
+  "kind": "repo",
+  "url": "https://github.com/ropensci-archive/solrium",
+  "title": "solrium",
+  "why": "Archived R interface to Solr; the README now only marks the project abandoned and points to a moved former README.",
+  "keys": {
+    "races": [
+      "data/search"
+    ],
+    "lanes": [
+      "data/search"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci-archive/solrium",
+    "sha": "219b8fa47623feb5b074a521a45246f548d080e8",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci-archive/solrium@219b8fa47623feb5b074a521a45246f548d080e8/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 58,
+    "size_mb": 2,
+    "created_at": "2013-11-26T00:04:37Z",
+    "last_commit_at": "2022-09-09T12:13:17Z",
+    "releases": 8,
+    "tags": 10,
+    "archived": true,
+    "release": {
+      "tag": "v1.2.0",
+      "at": "2021-05-18T21:20:03.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "219b8fa47623feb5b074a521a45246f548d080e8",
+    "v": 3
+  }
+}

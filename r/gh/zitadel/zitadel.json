@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a6099719c8c0762e2caaeb4af0969ad43e9615e9"
+  },
   "id": "gh:zitadel/zitadel",
   "kind": "repo",
   "url": "https://github.com/zitadel/zitadel",
@@ -50,16 +53,16 @@
   "facts": {
     "lang": "Go",
     "license": "AGPL-3.0",
-    "stars": 15574,
+    "stars": 15581,
     "size_mb": 585,
     "created_at": "2020-03-16T13:51:31Z",
-    "last_commit_at": "2026-11-13T09:30:49Z",
+    "last_commit_at": "2026-11-13T11:54:06Z",
     "releases": 1000,
-    "tags": 2162,
+    "tags": 2163,
     "archived": false,
     "release": {
-      "tag": "v4.20.2",
-      "at": "2026-11-09T07:33:05.000Z"
+      "tag": "v4.20.3",
+      "at": "2026-11-13T14:15:14.000Z"
     }
   },
   "reuse": "copyleft",
@@ -70,7 +73,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 44,
+    "star_delta_7d": 43,
     "votes": {},
     "ranks": {}
   },

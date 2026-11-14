@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:84e41e433b422cbe9f073952d8e16052eb9b0251"
+  },
   "id": "gh:tootallnate/proxy-agents",
   "kind": "repo",
   "url": "https://github.com/TooTallNate/proxy-agents",
@@ -56,5 +59,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "84e41e433b422cbe9f073952d8e16052eb9b0251",
+    "v": 3
+  }
 }

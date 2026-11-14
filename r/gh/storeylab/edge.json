@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5f973def65bc536b90d46b78e0a0ef849a81caa3"
+  },
+  "id": "gh:storeylab/edge",
+  "kind": "repo",
+  "url": "https://github.com/StoreyLab/edge",
+  "title": "edge",
+  "why": "Finds differentially expressed genes in genome-wide expression studies with the optimal discovery procedure and likelihood ratio tests.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/StoreyLab/edge",
+    "sha": "5f973def65bc536b90d46b78e0a0ef849a81caa3",
+    "file_url": "https://cdn.jsdelivr.net/gh/StoreyLab/edge@5f973def65bc536b90d46b78e0a0ef849a81caa3/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 21,
+    "size_mb": 86,
+    "created_at": "2014-06-24T23:32:09Z",
+    "last_commit_at": "2019-03-15T12:29:11Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5f973def65bc536b90d46b78e0a0ef849a81caa3",
+    "v": 3
+  }
+}

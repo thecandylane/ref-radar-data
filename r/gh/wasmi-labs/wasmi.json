@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f0c20dc5d5dfbeee63fa496f83a99a6bc2e2cfc9"
+  },
+  "id": "gh:wasmi-labs/wasmi",
+  "kind": "repo",
+  "url": "https://github.com/wasmi-labs/wasmi",
+  "title": "wasmi",
+  "why": "Interprets WebAssembly deterministically with fuel-consumption limits, suited to embedded boards and game-engine plug-ins.",
+  "keys": {
+    "races": [
+      "languages/runtimes",
+      "games/engines"
+    ],
+    "lanes": [
+      "languages/runtimes",
+      "games/engines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wasmi-labs/wasmi",
+    "sha": "f0c20dc5d5dfbeee63fa496f83a99a6bc2e2cfc9",
+    "file_url": "https://cdn.jsdelivr.net/gh/wasmi-labs/wasmi@f0c20dc5d5dfbeee63fa496f83a99a6bc2e2cfc9/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 2344,
+    "size_mb": 24,
+    "created_at": "2018-01-22T14:41:58Z",
+    "last_commit_at": "2026-11-13T20:33:56Z",
+    "releases": 96,
+    "tags": 140,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.0",
+      "at": "2026-09-01T11:56:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f0c20dc5d5dfbeee63fa496f83a99a6bc2e2cfc9",
+    "v": 3
+  }
+}

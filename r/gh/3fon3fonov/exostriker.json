@@ -1,0 +1,57 @@
+{
+  "id": "gh:3fon3fonov/exostriker",
+  "kind": "repo",
+  "url": "https://github.com/3fon3fonov/exostriker",
+  "title": "exostriker",
+  "why": "Fits exoplanet transit and radial velocity data in an interactive GUI, with N-body simulation and MCMC, and exports LaTeX tables of best-fit parameters.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/3fon3fonov/exostriker",
+    "sha": "a9bcc5d737c58f6809a10a79a97afd8022bad437",
+    "file_url": "https://cdn.jsdelivr.net/gh/3fon3fonov/exostriker@a9bcc5d737c58f6809a10a79a97afd8022bad437/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 134,
+    "size_mb": 160,
+    "created_at": "2018-10-17T19:56:13Z",
+    "last_commit_at": "2026-11-12T16:00:14Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a9bcc5d737c58f6809a10a79a97afd8022bad437",
+    "v": 3
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:13752370d49a11a707c107b015437b2a5d84012b"
+  },
+  "id": "gh:kstreet13/scry",
+  "kind": "repo",
+  "url": "https://github.com/kstreet13/scry",
+  "title": "scry",
+  "why": "Feature selection and GLM-PCA for single-cell RNA-seq counts, plus null residuals that approximate GLM-PCA when paired with PCA.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kstreet13/scry",
+    "sha": "13752370d49a11a707c107b015437b2a5d84012b",
+    "file_url": "https://cdn.jsdelivr.net/gh/kstreet13/scry@13752370d49a11a707c107b015437b2a5d84012b/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 25,
+    "size_mb": 10,
+    "created_at": "2019-11-04T16:31:50Z",
+    "last_commit_at": "2024-07-10T23:21:56Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "13752370d49a11a707c107b015437b2a5d84012b",
+    "v": 3
+  }
+}

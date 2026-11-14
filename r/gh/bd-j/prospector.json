@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:91f8e13a9f4a97680aceea788c38deae3c443b2f"
+  },
   "id": "gh:bd-j/prospector",
   "kind": "repo",
   "url": "https://github.com/bd-j/prospector",
@@ -52,5 +55,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "91f8e13a9f4a97680aceea788c38deae3c443b2f",
+    "v": 3
+  }
 }

@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:a7e71cdf0d150ec3343158ec2bb3708d8f55bd02"
+    "swh": "swh:1:rev:4531bb94439f32574f153a8ed930a7a248205fdb"
   },
   "id": "gh:apache/ozone",
   "kind": "repo",
@@ -29,8 +29,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/ozone",
-    "sha": "a7e71cdf0d150ec3343158ec2bb3708d8f55bd02",
-    "file_url": "https://cdn.jsdelivr.net/gh/apache/ozone@a7e71cdf0d150ec3343158ec2bb3708d8f55bd02/{path}"
+    "sha": "4531bb94439f32574f153a8ed930a7a248205fdb",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/ozone@4531bb94439f32574f153a8ed930a7a248205fdb/{path}"
   },
   "facts": {
     "lang": "Java",
@@ -38,7 +38,7 @@
     "stars": 1334,
     "size_mb": 147,
     "created_at": "2019-10-02T15:56:19Z",
-    "last_commit_at": "2026-11-13T06:14:33Z",
+    "last_commit_at": "2026-11-14T09:02:28Z",
     "releases": 8,
     "tags": 53,
     "archived": false,
@@ -61,7 +61,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "a7e71cdf0d150ec3343158ec2bb3708d8f55bd02",
+    "sha": "4531bb94439f32574f153a8ed930a7a248205fdb",
     "v": 3
   }
 }

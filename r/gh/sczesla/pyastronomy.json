@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:7a8db71f4f57476826b52c29298ac3747bc7fc50"
+  },
   "id": "gh:sczesla/pyastronomy",
   "kind": "repo",
   "url": "https://github.com/sczesla/PyAstronomy",
@@ -52,5 +55,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "7a8db71f4f57476826b52c29298ac3747bc7fc50",
+    "v": 3
+  }
 }

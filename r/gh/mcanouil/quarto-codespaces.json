@@ -1,0 +1,62 @@
+{
+  "id": "gh:mcanouil/quarto-codespaces",
+  "kind": "repo",
+  "url": "https://github.com/mcanouil/quarto-codespaces",
+  "title": "quarto-codespaces",
+  "why": "Pre-built Codespaces image with Quarto CLI, R, Python and Julia, so a project renders on first open.",
+  "keys": {
+    "races": [
+      "dev-tools/docs",
+      "infra/containers"
+    ],
+    "lanes": [
+      "dev-tools/docs",
+      "infra/containers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mcanouil/quarto-codespaces",
+    "sha": "6022c5def0d43edfa43845db767daf6be7004097",
+    "file_url": "https://cdn.jsdelivr.net/gh/mcanouil/quarto-codespaces@6022c5def0d43edfa43845db767daf6be7004097/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "MIT",
+    "stars": 42,
+    "size_mb": 1,
+    "created_at": "2023-10-06T20:23:06Z",
+    "last_commit_at": "2026-11-08T06:26:23Z",
+    "releases": 41,
+    "tags": 41,
+    "archived": false,
+    "release": {
+      "tag": "2026.11.02",
+      "at": "2026-11-02T14:18:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6022c5def0d43edfa43845db767daf6be7004097",
+    "v": 3
+  }
+}

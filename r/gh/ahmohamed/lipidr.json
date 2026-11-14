@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:85875982c51e4959c111395341e780d7915b66a3"
+  },
+  "id": "gh:ahmohamed/lipidr",
+  "kind": "repo",
+  "url": "https://github.com/ahmohamed/lipidr",
+  "title": "lipidr",
+  "why": "Loads lipidomics data from Skyline exports or matrices, then runs QC, normalization, univariate tests and lipid set enrichment.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ahmohamed/lipidr",
+    "sha": "85875982c51e4959c111395341e780d7915b66a3",
+    "file_url": "https://cdn.jsdelivr.net/gh/ahmohamed/lipidr@85875982c51e4959c111395341e780d7915b66a3/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 36,
+    "size_mb": 52,
+    "created_at": "2019-02-26T01:56:41Z",
+    "last_commit_at": "2023-06-08T11:11:52Z",
+    "releases": 1,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v2.2",
+      "at": "2020-06-24T01:22:59.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "85875982c51e4959c111395341e780d7915b66a3",
+    "v": 3
+  }
+}

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ae0eca3d3282fe74c05d966e346c6e1395f435dc"
-  },
   "id": "gh:beeware/briefcase",
   "kind": "repo",
   "url": "https://github.com/beeware/briefcase",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/beeware/briefcase",
-    "sha": "ae0eca3d3282fe74c05d966e346c6e1395f435dc",
-    "file_url": "https://cdn.jsdelivr.net/gh/beeware/briefcase@ae0eca3d3282fe74c05d966e346c6e1395f435dc/{path}"
+    "sha": "f9fc4cb9d1d5cd61474cfed2f1160a3952ce263f",
+    "file_url": "https://cdn.jsdelivr.net/gh/beeware/briefcase@f9fc4cb9d1d5cd61474cfed2f1160a3952ce263f/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -38,7 +35,7 @@
     "stars": 3376,
     "size_mb": 15,
     "created_at": "2015-07-28T15:20:03Z",
-    "last_commit_at": "2026-11-11T17:05:57Z",
+    "last_commit_at": "2026-11-13T17:04:28Z",
     "releases": 46,
     "tags": 81,
     "archived": false,
@@ -61,7 +58,7 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "ae0eca3d3282fe74c05d966e346c6e1395f435dc",
+    "sha": "f9fc4cb9d1d5cd61474cfed2f1160a3952ce263f",
     "v": 3
   }
 }

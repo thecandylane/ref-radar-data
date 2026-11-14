@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2963fcecc5483029a1c6a551b63423035b947f89"
+  },
+  "id": "gh:ropensci/jenkins",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/jenkins",
+  "title": "ropensci/jenkins",
+  "why": "R wrapper for a Jenkins server that triggers builds, checks the queue and downloads build logs.",
+  "keys": {
+    "races": [
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/jenkins",
+    "sha": "2963fcecc5483029a1c6a551b63423035b947f89",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/jenkins@2963fcecc5483029a1c6a551b63423035b947f89/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 20,
+    "size_mb": 0,
+    "created_at": "2019-05-08T14:11:27Z",
+    "last_commit_at": "2024-09-09T17:50:42Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2963fcecc5483029a1c6a551b63423035b947f89",
+    "v": 3
+  }
+}

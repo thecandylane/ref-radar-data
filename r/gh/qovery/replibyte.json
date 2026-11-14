@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5504db916f2381e8477222d42e9980eeff5e2a44"
+  },
+  "id": "gh:qovery/replibyte",
+  "kind": "repo",
+  "url": "https://github.com/Qovery/Replibyte",
+  "title": "Replibyte",
+  "why": "Dumps production PostgreSQL, MySQL or MongoDB data, swaps sensitive fields for fake values, and restores it locally with no server to run.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "data/databases",
+      "dev-tools/testing"
+    ],
+    "capabilities": [
+      "dev-tools/testing/test-databases"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Qovery/Replibyte",
+    "sha": "5504db916f2381e8477222d42e9980eeff5e2a44",
+    "file_url": "https://cdn.jsdelivr.net/gh/Qovery/Replibyte@5504db916f2381e8477222d42e9980eeff5e2a44/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "GPL-3.0",
+    "stars": 4419,
+    "size_mb": 8,
+    "created_at": "2022-02-15T20:31:25Z",
+    "last_commit_at": "2024-05-04T05:42:24Z",
+    "releases": 44,
+    "tags": 44,
+    "archived": false,
+    "release": {
+      "tag": "v0.10.0",
+      "at": "2022-10-14T08:32:35.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5504db916f2381e8477222d42e9980eeff5e2a44",
+    "v": 3
+  }
+}

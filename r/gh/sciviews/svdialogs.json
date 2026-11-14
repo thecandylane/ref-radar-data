@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a9e37d13d30c4be20301c30e054c1b3683636d56"
+  },
+  "id": "gh:sciviews/svdialogs",
+  "kind": "repo",
+  "url": "https://github.com/SciViews/svDialogs",
+  "title": "svDialogs",
+  "why": "Builds message, input, list and file selection dialog boxes for R scripts, and falls back to command line prompts in a terminal.",
+  "keys": {
+    "races": [
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SciViews/svDialogs",
+    "sha": "a9e37d13d30c4be20301c30e054c1b3683636d56",
+    "file_url": "https://cdn.jsdelivr.net/gh/SciViews/svDialogs@a9e37d13d30c4be20301c30e054c1b3683636d56/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 8,
+    "size_mb": 1,
+    "created_at": "2018-04-02T07:47:36Z",
+    "last_commit_at": "2025-12-06T12:55:01Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.3",
+      "at": "2021-04-17T07:00:48.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a9e37d13d30c4be20301c30e054c1b3683636d56",
+    "v": 3
+  }
+}
