@@ -1,0 +1,67 @@
+{
+  "id": "gh:agentlas-ai/agentlas-os",
+  "kind": "repo",
+  "url": "https://github.com/agentlas-ai/Agentlas-OS",
+  "title": "Agentlas-OS",
+  "why": "Breaks one objective into a task graph, hires specialist agents from local, team and public tiers, and checks each result with a verifier.",
+  "keys": {
+    "races": [
+      "agents/orchestration",
+      "agents/assistants",
+      "agents/memory",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/orchestration",
+      "agents/assistants",
+      "agents/memory",
+      "agents/skills"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/agentlas-ai/Agentlas-OS",
+    "sha": "86f1bf3528c715a4ea12e0f9c7a5dd5568655699",
+    "file_url": "https://raw.githubusercontent.com/agentlas-ai/Agentlas-OS/86f1bf3528c715a4ea12e0f9c7a5dd5568655699/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 1456,
+    "size_mb": 171,
+    "created_at": "2026-06-04T04:33:26Z",
+    "last_commit_at": "2026-11-13T04:42:09Z",
+    "releases": 272,
+    "tags": 283,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.97",
+      "at": "2026-11-13T05:38:35.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "86f1bf3528c715a4ea12e0f9c7a5dd5568655699",
+    "v": 3
+  },
+  "scan_partial": true
+}

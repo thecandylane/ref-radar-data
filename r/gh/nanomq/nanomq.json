@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9c9a313b4038640824365f5be68fbfa9a0310889"
+  },
+  "id": "gh:nanomq/nanomq",
+  "kind": "repo",
+  "url": "https://github.com/nanomq/nanomq",
+  "title": "nanomq",
+  "why": "MQTT broker written in C on an actor architecture over NNG, aimed at edge devices and vehicles, with a Zephyr port for MCUs.",
+  "keys": {
+    "races": [
+      "data/queues",
+      "embedded/firmware",
+      "embedded/rtos"
+    ],
+    "lanes": [
+      "data/queues",
+      "embedded/firmware",
+      "embedded/rtos"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nanomq/nanomq",
+    "sha": "9c9a313b4038640824365f5be68fbfa9a0310889",
+    "file_url": "https://cdn.jsdelivr.net/gh/nanomq/nanomq@9c9a313b4038640824365f5be68fbfa9a0310889/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 2662,
+    "size_mb": 34,
+    "created_at": "2016-11-13T06:18:34Z",
+    "last_commit_at": "2026-11-10T02:30:36Z",
+    "releases": 145,
+    "tags": 155,
+    "archived": false,
+    "release": {
+      "tag": "0.25.7",
+      "at": "2026-10-21T10:11:29.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9c9a313b4038640824365f5be68fbfa9a0310889",
+    "v": 3
+  }
+}

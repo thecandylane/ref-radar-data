@@ -1,0 +1,42 @@
+{
+  "archive": {
+    "page": "https://web.archive.org/web/20261111164926/https://arxiv.org/abs/2611.12112"
+  },
+  "id": "arxiv:2611.12112",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.12112",
+  "title": "LiveWorkspace: Externalizing Visual Understanding as Persistent Shared State for Screenshot-to-Code Agents",
+  "why": "Keeps a screenshot's layout as shared state that the coding agent compares with the browser result, so each revision tracks the design.",
+  "keys": {
+    "races": [
+      "agents/coding"
+    ],
+    "lanes": [
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.12112"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

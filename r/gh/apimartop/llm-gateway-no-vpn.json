@@ -25,8 +25,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apimartop/llm-gateway-no-vpn",
-    "sha": "c82c255783c1f4dbf48aac178c2cf23d60d945ee",
-    "file_url": "https://cdn.jsdelivr.net/gh/apimartop/llm-gateway-no-vpn@c82c255783c1f4dbf48aac178c2cf23d60d945ee/{path}"
+    "sha": "a38e25048f63194048c24d89193da066c74a4c47",
+    "file_url": "https://cdn.jsdelivr.net/gh/apimartop/llm-gateway-no-vpn@a38e25048f63194048c24d89193da066c74a4c47/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -34,7 +34,7 @@
     "stars": 69,
     "size_mb": 6,
     "created_at": "2026-10-02T10:06:15Z",
-    "last_commit_at": "2026-11-13T14:37:50Z",
+    "last_commit_at": "2026-11-14T13:35:08Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -48,13 +48,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 2,
+    "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "c82c255783c1f4dbf48aac178c2cf23d60d945ee",
+    "sha": "a38e25048f63194048c24d89193da066c74a4c47",
     "v": 3
-  }
+  },
+  "pins_before": [
+    "c82c255783c1f4dbf48aac178c2cf23d60d945ee"
+  ]
 }

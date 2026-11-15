@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:fe6a88b5479cc651da451231eb1782f4b0b61ec5"
+  },
   "id": "gh:argoproj/argo-cd",
   "kind": "repo",
   "url": "https://github.com/argoproj/argo-cd",
@@ -38,10 +41,10 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 24606,
-    "size_mb": 229,
+    "stars": 24612,
+    "size_mb": 230,
     "created_at": "2018-02-09T11:12:01Z",
-    "last_commit_at": "2026-11-13T13:57:42Z",
+    "last_commit_at": "2026-11-15T00:58:02Z",
     "releases": 600,
     "tags": 619,
     "archived": false,
@@ -58,7 +61,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 45,
+    "star_delta_7d": 46,
     "votes": {},
     "ranks": {}
   },

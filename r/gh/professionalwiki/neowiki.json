@@ -1,0 +1,68 @@
+{
+  "id": "gh:professionalwiki/neowiki",
+  "kind": "repo",
+  "url": "https://github.com/ProfessionalWiki/NeoWiki",
+  "title": "NeoWiki",
+  "why": "Pairs MediaWiki pages with a graph store of their Statements and Subjects, and make dev brings the whole stack up locally.",
+  "keys": {
+    "races": [
+      "llm-infra/rag",
+      "web/cms"
+    ],
+    "lanes": [
+      "llm-infra/rag",
+      "web/cms"
+    ],
+    "capabilities": [
+      "llm-infra/rag/knowledge-platforms"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ProfessionalWiki/NeoWiki",
+    "sha": "c018a09d3dc927a5212a93e4a95b2a88beffe060",
+    "file_url": "https://cdn.jsdelivr.net/gh/ProfessionalWiki/NeoWiki@c018a09d3dc927a5212a93e4a95b2a88beffe060/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "GPL-2.0",
+    "stars": 29,
+    "size_mb": 11,
+    "created_at": "2024-09-07T18:33:59Z",
+    "last_commit_at": "2026-11-14T13:15:26Z",
+    "releases": 6,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "0.1.1",
+      "at": "2026-11-04T20:45:15.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c018a09d3dc927a5212a93e4a95b2a88beffe060",
+    "v": 3
+  }
+}

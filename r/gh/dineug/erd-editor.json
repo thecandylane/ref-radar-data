@@ -1,0 +1,70 @@
+{
+  "id": "gh:dineug/erd-editor",
+  "kind": "repo",
+  "url": "https://github.com/dineug/erd-editor",
+  "title": "erd-editor",
+  "why": "Edits database schema diagrams live over MCP, so a coding agent changes tables in the open editor while you watch the canvas.",
+  "keys": {
+    "races": [
+      "dev-tools/diagrams",
+      "data/databases",
+      "agents/tools"
+    ],
+    "lanes": [
+      "dev-tools/diagrams",
+      "data/databases",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dineug/erd-editor",
+    "sha": "dff83b08390c46f72637a66ae3d8f561b82b4f66",
+    "file_url": "https://cdn.jsdelivr.net/gh/dineug/erd-editor@dff83b08390c46f72637a66ae3d8f561b82b4f66/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1750,
+    "size_mb": 274,
+    "created_at": "2019-09-01T13:20:58Z",
+    "last_commit_at": "2026-11-03T13:14:53Z",
+    "releases": 82,
+    "tags": 82,
+    "archived": false,
+    "release": {
+      "tag": "v5.1.0",
+      "at": "2026-11-03T10:03:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dff83b08390c46f72637a66ae3d8f561b82b4f66",
+    "v": 3
+  }
+}

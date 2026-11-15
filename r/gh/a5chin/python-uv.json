@@ -1,0 +1,64 @@
+{
+  "id": "gh:a5chin/python-uv",
+  "kind": "repo",
+  "url": "https://github.com/a5chin/python-uv",
+  "title": "python-uv",
+  "why": "Starter template for Python projects that wires uv, Ruff, ty, pytest and nox into a Dev Container, so checks match on every machine.",
+  "keys": {
+    "races": [
+      "dev-tools/build",
+      "dev-tools/testing",
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "dev-tools/build",
+      "dev-tools/testing",
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/a5chin/python-uv",
+    "sha": "16f9507435c41b7cb94265498cb8f660f4d387cc",
+    "file_url": "https://cdn.jsdelivr.net/gh/a5chin/python-uv@16f9507435c41b7cb94265498cb8f660f4d387cc/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 373,
+    "size_mb": 10,
+    "created_at": "2024-04-05T13:04:20Z",
+    "last_commit_at": "2026-11-14T20:38:50Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.0.0",
+      "at": "2025-12-24T09:14:13.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "16f9507435c41b7cb94265498cb8f660f4d387cc",
+    "v": 3
+  }
+}

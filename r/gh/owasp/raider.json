@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:45eefca75efb1a2b8ea6f0a197b2a0c68e797365"
+  },
+  "id": "gh:owasp/raider",
+  "kind": "repo",
+  "url": "https://github.com/OWASP/raider",
+  "title": "raider",
+  "why": "Models a stateful HTTP process as a finite state machine of Flows, letting you script authentication tests in Hylang and run each step.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OWASP/raider",
+    "sha": "45eefca75efb1a2b8ea6f0a197b2a0c68e797365",
+    "file_url": "https://cdn.jsdelivr.net/gh/OWASP/raider@45eefca75efb1a2b8ea6f0a197b2a0c68e797365/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 99,
+    "size_mb": 30,
+    "created_at": "2021-09-14T15:42:09Z",
+    "last_commit_at": "2023-03-01T14:20:33Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.3",
+      "at": "2022-12-27T16:59:41.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "45eefca75efb1a2b8ea6f0a197b2a0c68e797365",
+    "v": 3
+  }
+}

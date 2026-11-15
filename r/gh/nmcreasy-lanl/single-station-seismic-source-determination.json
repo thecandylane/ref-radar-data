@@ -1,0 +1,57 @@
+{
+  "id": "gh:nmcreasy-lanl/single-station-seismic-source-determination",
+  "kind": "repo",
+  "url": "https://github.com/nmcreasy-LANL/Single-Station-Seismic-Source-Determination",
+  "title": "Single-Station-Seismic-Source-Determination",
+  "why": "Locates a seismic event from one station by combining body wave timing, Rayleigh dispersion and polarization, with Monte Carlo uncertainty.",
+  "keys": {
+    "races": [
+      "engineering/subsurface"
+    ],
+    "lanes": [
+      "engineering/subsurface"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nmcreasy-LANL/Single-Station-Seismic-Source-Determination",
+    "sha": "fe60d44a4821503dd36068d68739a07c82d14839",
+    "file_url": "https://cdn.jsdelivr.net/gh/nmcreasy-LANL/Single-Station-Seismic-Source-Determination@fe60d44a4821503dd36068d68739a07c82d14839/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "size_mb": 8,
+    "created_at": "2026-08-26T18:00:00Z",
+    "last_commit_at": "2026-09-18T18:56:05Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fe60d44a4821503dd36068d68739a07c82d14839",
+    "v": 3
+  }
+}

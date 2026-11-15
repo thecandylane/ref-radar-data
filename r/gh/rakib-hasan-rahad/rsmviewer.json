@@ -1,0 +1,60 @@
+{
+  "id": "gh:rakib-hasan-rahad/rsmviewer",
+  "kind": "repo",
+  "url": "https://github.com/Rakib-Hasan-Rahad/RSMViewer",
+  "title": "RSMViewer",
+  "why": "Brings RNA motif annotations from several databases into PyMOL and keeps visible where the sources agree or disagree.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Rakib-Hasan-Rahad/RSMViewer",
+    "sha": "1869d524c8fd6ba4bb6580d117c3e5062bcbbc04",
+    "file_url": "https://cdn.jsdelivr.net/gh/Rakib-Hasan-Rahad/RSMViewer@1869d524c8fd6ba4bb6580d117c3e5062bcbbc04/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 332,
+    "created_at": "2025-12-11T00:43:37Z",
+    "last_commit_at": "2026-09-19T11:55:20Z",
+    "releases": 1,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "V1.1",
+      "at": "2026-08-25T13:38:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1869d524c8fd6ba4bb6580d117c3e5062bcbbc04",
+    "v": 3
+  }
+}

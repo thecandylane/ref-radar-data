@@ -1,0 +1,66 @@
+{
+  "id": "gh:boykoatwork/honeypot",
+  "kind": "repo",
+  "url": "https://github.com/boykoatwork/honeypot",
+  "title": "honeypot",
+  "why": "Captures what botnets type after SSH login, logging commands and payload delivery to SQLite for building attack datasets.",
+  "keys": {
+    "races": [
+      "cyber/threat-intel"
+    ],
+    "lanes": [
+      "cyber/threat-intel"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/boykoatwork/honeypot",
+    "sha": "d01229f12117ad4200e0f5cf2c7ca217cb9078e6",
+    "file_url": "https://cdn.jsdelivr.net/gh/boykoatwork/honeypot@d01229f12117ad4200e0f5cf2c7ca217cb9078e6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2026-04-25T11:57:21Z",
+    "last_commit_at": "2026-04-27T11:24:29Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v2.1.1",
+      "at": "2026-04-27T11:28:22.000Z"
+    },
+    "doi": "10.5281/zenodo.19763025",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-15"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d01229f12117ad4200e0f5cf2c7ca217cb9078e6",
+    "v": 3
+  }
+}

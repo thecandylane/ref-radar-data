@@ -1,0 +1,46 @@
+{
+  "archive": {
+    "page": "https://web.archive.org/web/20261111163938/https://arxiv.org/abs/2611.12164"
+  },
+  "id": "arxiv:2611.12164",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.12164",
+  "title": "Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood",
+  "why": "Trains a small code localizer using a frozen fixer's patch likelihood as the score, finding bugs with 27.5% less code and without tests.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "agents/coding",
+      "agents/code-intel"
+    ],
+    "lanes": [
+      "ml/training",
+      "agents/coding",
+      "agents/code-intel"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.12164"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

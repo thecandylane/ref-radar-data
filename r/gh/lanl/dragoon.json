@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:471cf7b91d8204841609c0faceaba84b9d7f6e57"
+  },
+  "id": "gh:lanl/dragoon",
+  "kind": "repo",
+  "url": "https://github.com/lanl/dragoon",
+  "title": "dragoon",
+  "why": "Gives agentic AI HPC architecture tasks as a set of benchmark runs, with the experiment code kept under src.",
+  "keys": {
+    "races": [
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lanl/dragoon",
+    "sha": "471cf7b91d8204841609c0faceaba84b9d7f6e57",
+    "file_url": "https://cdn.jsdelivr.net/gh/lanl/dragoon@471cf7b91d8204841609c0faceaba84b9d7f6e57/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-09-22T15:35:15Z",
+    "last_commit_at": "2026-10-06T16:59:44Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "471cf7b91d8204841609c0faceaba84b9d7f6e57",
+    "v": 3
+  }
+}

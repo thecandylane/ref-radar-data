@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:15b0a140955f46bc13ed0c6873c7c52f127a9383"
+  },
+  "id": "gh:apache/pulsar-client-go",
+  "kind": "repo",
+  "url": "https://github.com/apache/pulsar-client-go",
+  "title": "pulsar-client-go",
+  "why": "Pure-Go client for Apache Pulsar with producers, consumers and readers, and no dependency on the C++ library.",
+  "keys": {
+    "races": [
+      "data/queues"
+    ],
+    "lanes": [
+      "data/queues"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/pulsar-client-go",
+    "sha": "15b0a140955f46bc13ed0c6873c7c52f127a9383",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/pulsar-client-go@15b0a140955f46bc13ed0c6873c7c52f127a9383/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 745,
+    "size_mb": 4,
+    "created_at": "2019-05-06T22:08:46Z",
+    "last_commit_at": "2026-11-09T01:18:23Z",
+    "releases": 27,
+    "tags": 60,
+    "archived": false,
+    "release": {
+      "tag": "v0.21.0",
+      "at": "2026-07-31T04:16:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "15b0a140955f46bc13ed0c6873c7c52f127a9383",
+    "v": 3
+  }
+}

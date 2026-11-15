@@ -1,0 +1,62 @@
+{
+  "id": "gh:xz/new.css",
+  "kind": "repo",
+  "url": "https://github.com/xz/new.css",
+  "title": "new.css",
+  "why": "Drop in one stylesheet and plain semantic HTML or Markdown output looks modern, with CSS variables for colors and fonts.",
+  "keys": {
+    "races": [
+      "web/css",
+      "web/static-sites"
+    ],
+    "lanes": [
+      "web/css",
+      "web/static-sites"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/xz/new.css",
+    "sha": "375a937537159abd11c89a07137e53d2411b4487",
+    "file_url": "https://cdn.jsdelivr.net/gh/xz/new.css@375a937537159abd11c89a07137e53d2411b4487/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "MIT",
+    "stars": 4048,
+    "size_mb": 0,
+    "created_at": "2020-05-03T03:18:57Z",
+    "last_commit_at": "2026-11-10T23:39:27Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.3",
+      "at": "2020-05-20T02:36:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "375a937537159abd11c89a07137e53d2411b4487",
+    "v": 3
+  }
+}

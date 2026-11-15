@@ -1,0 +1,66 @@
+{
+  "id": "gh:swinnoproject/living_codebook",
+  "kind": "repo",
+  "url": "https://github.com/swinnoproject/living_codebook",
+  "title": "living_codebook",
+  "why": "Turns the SWINNO data codebook into a searchable, browseable site, kept editable and versioned through git.",
+  "keys": {
+    "races": [
+      "web/static-sites"
+    ],
+    "lanes": [
+      "web/static-sites"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/swinnoproject/living_codebook",
+    "sha": "23d997107c14d67b9cfd6f6dea17dcfc84a03979",
+    "file_url": "https://cdn.jsdelivr.net/gh/swinnoproject/living_codebook@23d997107c14d67b9cfd6f6dea17dcfc84a03979/{path}"
+  },
+  "facts": {
+    "lang": "SCSS",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 1,
+    "created_at": "2023-11-09T03:16:18Z",
+    "last_commit_at": "2025-04-14T22:07:09Z",
+    "releases": 3,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "V0.2.0",
+      "at": "2025-04-17T08:25:19.000Z"
+    },
+    "doi": "10.5281/zenodo.15234614",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-15"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "23d997107c14d67b9cfd6f6dea17dcfc84a03979",
+    "v": 3
+  }
+}

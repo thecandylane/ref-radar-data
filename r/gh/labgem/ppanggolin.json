@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8804f27a942417e462085ddf2a7bfbf4c1b0a51f"
+  },
+  "id": "gh:labgem/ppanggolin",
+  "kind": "repo",
+  "url": "https://github.com/labgem/PPanGGOLiN",
+  "title": "PPanGGOLiN",
+  "why": "Builds partitioned pangenome graphs from microbial genomes, splitting gene families statistically so low-quality MAGs and SAGs still work.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/labgem/PPanGGOLiN",
+    "sha": "8804f27a942417e462085ddf2a7bfbf4c1b0a51f",
+    "file_url": "https://cdn.jsdelivr.net/gh/labgem/PPanGGOLiN@8804f27a942417e462085ddf2a7bfbf4c1b0a51f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 312,
+    "size_mb": 137,
+    "created_at": "2017-10-20T12:25:15Z",
+    "last_commit_at": "2026-09-28T13:05:24Z",
+    "releases": 37,
+    "tags": 40,
+    "archived": false,
+    "release": {
+      "tag": "2.3.2",
+      "at": "2026-09-28T13:21:48.000Z"
+    },
+    "doi": "10.21105/joss.11101",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-15"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8804f27a942417e462085ddf2a7bfbf4c1b0a51f",
+    "v": 3
+  }
+}

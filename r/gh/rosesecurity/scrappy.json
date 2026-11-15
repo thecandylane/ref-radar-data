@@ -1,0 +1,64 @@
+{
+  "id": "gh:rosesecurity/scrappy",
+  "kind": "repo",
+  "url": "https://github.com/RoseSecurity/ScrapPY",
+  "title": "ScrapPY",
+  "why": "Builds wordlists from PDF manuals by word frequency and entropy, ready to feed Hydra, Dirb and Nmap scripts.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/RoseSecurity/ScrapPY",
+    "sha": "61038544b696719cef5876db7a6b0f671d4afad3",
+    "file_url": "https://cdn.jsdelivr.net/gh/RoseSecurity/ScrapPY@61038544b696719cef5876db7a6b0f671d4afad3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 223,
+    "size_mb": 0,
+    "created_at": "2022-11-04T16:50:59Z",
+    "last_commit_at": "2026-08-31T13:58:35Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "0.2.0",
+      "at": "2024-07-15T17:50:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "61038544b696719cef5876db7a6b0f671d4afad3",
+    "v": 3
+  }
+}

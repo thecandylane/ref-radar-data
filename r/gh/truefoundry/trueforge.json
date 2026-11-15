@@ -1,0 +1,77 @@
+{
+  "id": "gh:truefoundry/trueforge",
+  "kind": "repo",
+  "url": "https://github.com/truefoundry/trueforge",
+  "title": "trueforge",
+  "why": "Runs the model, MCP tool, sandbox and approval loop for you, keeping session state in SQLite or Postgres.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "agents/frameworks",
+      "agents/tools",
+      "agents/sandboxes",
+      "agents/context"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "agents/frameworks",
+      "agents/tools",
+      "agents/sandboxes",
+      "agents/context"
+    ],
+    "capabilities": [
+      "agents/frameworks/embedded-agents",
+      "agents/tools/mcp-servers",
+      "agents/sandboxes/code-sandboxes",
+      "agents/context/context-compaction"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/truefoundry/trueforge",
+    "sha": "18b571810ffd2fef29fd79e3731b8fb4295f92cf",
+    "file_url": "https://cdn.jsdelivr.net/gh/truefoundry/trueforge@18b571810ffd2fef29fd79e3731b8fb4295f92cf/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 6484,
+    "size_mb": 50,
+    "created_at": "2026-07-23T09:16:13Z",
+    "last_commit_at": "2026-11-13T13:28:13Z",
+    "releases": 299,
+    "tags": 454,
+    "archived": false,
+    "release": {
+      "tag": "@truefoundry/trueforge@0.185.1",
+      "at": "2026-11-13T14:32:04.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "18b571810ffd2fef29fd79e3731b8fb4295f92cf",
+    "v": 3
+  }
+}

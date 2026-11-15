@@ -1,0 +1,64 @@
+{
+  "id": "gh:aws/aws-lambda-web-adapter",
+  "kind": "repo",
+  "url": "https://github.com/aws/aws-lambda-web-adapter",
+  "title": "aws-lambda-web-adapter",
+  "why": "Lets an ordinary web app that listens on a port run unchanged on Lambda, shipped as a Rust extension layer.",
+  "keys": {
+    "races": [
+      "infra/serverless"
+    ],
+    "lanes": [
+      "infra/serverless"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/aws/aws-lambda-web-adapter",
+    "sha": "b6a089b50754f4ad905fe8f6d8730560107cd26b",
+    "file_url": "https://cdn.jsdelivr.net/gh/aws/aws-lambda-web-adapter@b6a089b50754f4ad905fe8f6d8730560107cd26b/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 2761,
+    "size_mb": 39,
+    "created_at": "2021-08-19T05:08:38Z",
+    "last_commit_at": "2026-11-15T03:23:34Z",
+    "releases": 31,
+    "tags": 31,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2026-09-18T22:03:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b6a089b50754f4ad905fe8f6d8730560107cd26b",
+    "v": 3
+  }
+}

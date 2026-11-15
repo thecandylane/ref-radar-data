@@ -1,0 +1,64 @@
+{
+  "id": "gh:markedjs/marked",
+  "kind": "repo",
+  "url": "https://github.com/markedjs/marked",
+  "title": "marked",
+  "why": "Turns markdown into HTML in Node, in the browser or from the CLI, and takes custom extensions for new syntax.",
+  "keys": {
+    "races": [
+      "languages/compilers"
+    ],
+    "lanes": [
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/markedjs/marked",
+    "sha": "738ebebc835ebc97fe82e3321bc7f91f638c531f",
+    "file_url": "https://cdn.jsdelivr.net/gh/markedjs/marked@738ebebc835ebc97fe82e3321bc7f91f638c531f/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 37305,
+    "size_mb": 11,
+    "created_at": "2011-07-24T13:15:51Z",
+    "last_commit_at": "2026-11-13T18:22:38Z",
+    "releases": 188,
+    "tags": 228,
+    "archived": false,
+    "release": {
+      "tag": "v18.2.0",
+      "at": "2026-11-09T23:04:45.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "738ebebc835ebc97fe82e3321bc7f91f638c531f",
+    "v": 3
+  }
+}

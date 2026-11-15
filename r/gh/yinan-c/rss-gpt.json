@@ -1,0 +1,59 @@
+{
+  "id": "gh:yinan-c/rss-gpt",
+  "kind": "repo",
+  "url": "https://github.com/yinan-c/RSS-GPT",
+  "title": "RSS-GPT",
+  "why": "Uses GitHub Actions to add ChatGPT summaries to each article, then republishes the feed on GitHub Pages.",
+  "keys": {
+    "races": [
+      "media/news"
+    ],
+    "lanes": [
+      "media/news"
+    ],
+    "capabilities": [
+      "media/news/news-digests"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/yinan-c/RSS-GPT",
+    "sha": "4e38db3ad7af51185a0bd25c0c3df0aaca4a5b5f",
+    "file_url": "https://cdn.jsdelivr.net/gh/yinan-c/RSS-GPT@4e38db3ad7af51185a0bd25c0c3df0aaca4a5b5f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 356,
+    "size_mb": 1900,
+    "created_at": "2023-09-07T12:56:43Z",
+    "last_commit_at": "2025-09-08T12:02:53Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4e38db3ad7af51185a0bd25c0c3df0aaca4a5b5f",
+    "v": 3
+  }
+}

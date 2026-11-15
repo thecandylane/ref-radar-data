@@ -1,0 +1,73 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a9e139664f9131de2714800fa75c16152d3ca3fb"
+  },
+  "id": "gh:oxidecomputer/hubris",
+  "kind": "repo",
+  "url": "https://github.com/oxidecomputer/hubris",
+  "title": "hubris",
+  "why": "Small Rust kernel where each task is memory-protected and talks by message passing, with app, boards and drv folders.",
+  "keys": {
+    "races": [
+      "embedded/rtos",
+      "systems/os"
+    ],
+    "lanes": [
+      "embedded/rtos",
+      "systems/os"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.mkdn",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/oxidecomputer/hubris",
+    "sha": "a9e139664f9131de2714800fa75c16152d3ca3fb",
+    "file_url": "https://cdn.jsdelivr.net/gh/oxidecomputer/hubris@a9e139664f9131de2714800fa75c16152d3ca3fb/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MPL-2.0",
+    "stars": 3653,
+    "size_mb": 94,
+    "created_at": "2020-04-02T00:06:32Z",
+    "last_commit_at": "2026-11-12T18:41:38Z",
+    "releases": 189,
+    "tags": 204,
+    "archived": false,
+    "release": {
+      "tag": "all-sp-v1.87.0",
+      "at": "2026-11-11T19:38:17.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a9e139664f9131de2714800fa75c16152d3ca3fb",
+    "v": 3
+  }
+}

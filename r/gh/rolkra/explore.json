@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:de1b7a26cd426cc593191e66e43252351a5c87cb"
+  },
+  "id": "gh:rolkra/explore",
+  "kind": "repo",
+  "url": "https://github.com/rolkra/explore",
+  "title": "explore",
+  "why": "Explore a data frame interactively in R, plotting each variable against a target with one explore call.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rolkra/explore",
+    "sha": "de1b7a26cd426cc593191e66e43252351a5c87cb",
+    "file_url": "https://cdn.jsdelivr.net/gh/rolkra/explore@de1b7a26cd426cc593191e66e43252351a5c87cb/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 245,
+    "size_mb": 54,
+    "created_at": "2018-04-06T20:54:05Z",
+    "last_commit_at": "2025-12-10T08:20:08Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "de1b7a26cd426cc593191e66e43252351a5c87cb",
+    "v": 3
+  }
+}

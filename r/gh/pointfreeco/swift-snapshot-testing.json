@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0c6380dd46cd45e00f2bf87cf6002f3478e84452"
+  },
+  "id": "gh:pointfreeco/swift-snapshot-testing",
+  "kind": "repo",
+  "url": "https://github.com/pointfreeco/swift-snapshot-testing",
+  "title": "swift-snapshot-testing",
+  "why": "Records Swift values and views as snapshots and fails tests when they change, including screenshot testing for iOS.",
+  "keys": {
+    "races": [
+      "dev-tools/testing",
+      "mobile/ios"
+    ],
+    "lanes": [
+      "dev-tools/testing",
+      "mobile/ios"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pointfreeco/swift-snapshot-testing",
+    "sha": "0c6380dd46cd45e00f2bf87cf6002f3478e84452",
+    "file_url": "https://cdn.jsdelivr.net/gh/pointfreeco/swift-snapshot-testing@0c6380dd46cd45e00f2bf87cf6002f3478e84452/{path}"
+  },
+  "facts": {
+    "lang": "Swift",
+    "license": "MIT",
+    "stars": 4395,
+    "size_mb": 30,
+    "created_at": "2017-07-07T03:38:51Z",
+    "last_commit_at": "2026-10-21T20:29:29Z",
+    "releases": 56,
+    "tags": 56,
+    "archived": false,
+    "release": {
+      "tag": "1.19.7",
+      "at": "2026-10-21T17:43:38.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0c6380dd46cd45e00f2bf87cf6002f3478e84452",
+    "v": 3
+  }
+}

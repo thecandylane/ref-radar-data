@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e5d559dce04a0f4d99fa8e7398abdc5ce3607bae"
+  },
+  "id": "gh:apache/hive",
+  "kind": "repo",
+  "url": "https://github.com/apache/hive",
+  "title": "hive",
+  "why": "Queries large datasets in distributed storage with SQL, running the queries interactively on Tez for ETL and reporting.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/databases",
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/hive",
+    "sha": "e5d559dce04a0f4d99fa8e7398abdc5ce3607bae",
+    "file_url": "https://raw.githubusercontent.com/apache/hive/e5d559dce04a0f4d99fa8e7398abdc5ce3607bae/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 6039,
+    "size_mb": 750,
+    "created_at": "2009-05-21T02:31:01Z",
+    "last_commit_at": "2026-11-13T02:28:18Z",
+    "releases": 0,
+    "tags": 93,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e5d559dce04a0f4d99fa8e7398abdc5ce3607bae",
+    "v": 3
+  }
+}

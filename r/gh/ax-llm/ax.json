@@ -1,0 +1,73 @@
+{
+  "id": "gh:ax-llm/ax",
+  "kind": "repo",
+  "url": "https://github.com/ax-llm/ax",
+  "title": "ax-llm/ax",
+  "why": "Brings DSPy to TypeScript agents, with one library covering OpenAI, Claude, Gemini, Ollama and Grok.",
+  "keys": {
+    "races": [
+      "agents/frameworks",
+      "agents/optimization"
+    ],
+    "lanes": [
+      "agents/frameworks",
+      "agents/optimization"
+    ],
+    "capabilities": [
+      "agents/frameworks/llm-sdks",
+      "agents/optimization/prompt-optimization"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ax-llm/ax",
+    "sha": "42fceae3d6cd4b83374e41e8cc7a1dd3b40029a2",
+    "file_url": "https://cdn.jsdelivr.net/gh/ax-llm/ax@42fceae3d6cd4b83374e41e8cc7a1dd3b40029a2/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 2981,
+    "size_mb": 108,
+    "created_at": "2023-02-23T19:21:40Z",
+    "last_commit_at": "2026-11-15T03:05:21Z",
+    "releases": 490,
+    "tags": 494,
+    "archived": false,
+    "release": {
+      "tag": "25.4.11",
+      "at": "2026-11-15T03:14:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "42fceae3d6cd4b83374e41e8cc7a1dd3b40029a2",
+    "v": 3
+  }
+}

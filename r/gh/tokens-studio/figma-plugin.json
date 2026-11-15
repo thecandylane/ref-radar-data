@@ -1,0 +1,64 @@
+{
+  "id": "gh:tokens-studio/figma-plugin",
+  "kind": "repo",
+  "url": "https://github.com/tokens-studio/figma-plugin",
+  "title": "figma-plugin",
+  "why": "Official Tokens Studio plugin that manages design tokens and styles inside Figma; CLAUDE.md and the packages folder orient contributors.",
+  "keys": {
+    "races": [
+      "design/tools"
+    ],
+    "lanes": [
+      "design/tools"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tokens-studio/figma-plugin",
+    "sha": "a1b51d76018fed175b7d9702fc9fb32f8f401e6a",
+    "file_url": "https://cdn.jsdelivr.net/gh/tokens-studio/figma-plugin@a1b51d76018fed175b7d9702fc9fb32f8f401e6a/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1630,
+    "size_mb": 62,
+    "created_at": "2020-05-18T16:43:45Z",
+    "last_commit_at": "2026-11-12T11:59:59Z",
+    "releases": 120,
+    "tags": 120,
+    "archived": false,
+    "release": {
+      "tag": "2.13.3",
+      "at": "2026-11-12T20:31:56.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a1b51d76018fed175b7d9702fc9fb32f8f401e6a",
+    "v": 3
+  }
+}

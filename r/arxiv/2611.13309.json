@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.13309",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.13309",
+  "title": "PegasusAI Studio: Legible Cyberinfrastructure and Accountable AI Agents for Scientific Workflows",
+  "why": "Lets coding agents build and debug scientific workflows on shared HPC and cloud, with per-user privileges and approval for state changes.",
+  "keys": {
+    "races": [
+      "data/pipelines",
+      "agents/coding"
+    ],
+    "lanes": [
+      "data/pipelines",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.13309"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

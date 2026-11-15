@@ -1,0 +1,68 @@
+{
+  "id": "gh:agent0ai/agent-zero",
+  "kind": "repo",
+  "url": "https://github.com/agent0ai/agent-zero",
+  "title": "agent-zero",
+  "why": "Runs a full Linux workspace the agent can drive, with a browser, desktop apps and Time Travel rollback of its files.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "agents/sandboxes",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "agents/sandboxes",
+      "agents/skills"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/agent0ai/agent-zero",
+    "sha": "ba9b67df0f54ac78106ae85c552ef5d2458f7c9a",
+    "file_url": "https://cdn.jsdelivr.net/gh/agent0ai/agent-zero@ba9b67df0f54ac78106ae85c552ef5d2458f7c9a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 19860,
+    "size_mb": 66,
+    "created_at": "2024-06-10T09:10:45Z",
+    "last_commit_at": "2026-11-01T21:10:32Z",
+    "releases": 77,
+    "tags": 93,
+    "archived": false,
+    "release": {
+      "tag": "v2.15",
+      "at": "2026-11-01T23:52:00.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ba9b67df0f54ac78106ae85c552ef5d2458f7c9a",
+    "v": 3
+  }
+}

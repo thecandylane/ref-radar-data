@@ -28,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/aws-powertools/powertools-lambda-typescript",
-    "sha": "fcf3bd4a087f0f41c0d2217b7306b9221e533f32",
-    "file_url": "https://cdn.jsdelivr.net/gh/aws-powertools/powertools-lambda-typescript@fcf3bd4a087f0f41c0d2217b7306b9221e533f32/{path}"
+    "sha": "8a6dfc272b0954c88c4c8f3535f02824c6254337",
+    "file_url": "https://cdn.jsdelivr.net/gh/aws-powertools/powertools-lambda-typescript@8a6dfc272b0954c88c4c8f3535f02824c6254337/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -37,7 +37,7 @@
     "stars": 1797,
     "size_mb": 50,
     "created_at": "2020-10-19T20:09:37Z",
-    "last_commit_at": "2026-11-13T14:59:43Z",
+    "last_commit_at": "2026-11-14T12:16:00Z",
     "releases": 101,
     "tags": 146,
     "archived": false,
@@ -60,7 +60,10 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "fcf3bd4a087f0f41c0d2217b7306b9221e533f32",
+    "sha": "8a6dfc272b0954c88c4c8f3535f02824c6254337",
     "v": 3
-  }
+  },
+  "pins_before": [
+    "fcf3bd4a087f0f41c0d2217b7306b9221e533f32"
+  ]
 }

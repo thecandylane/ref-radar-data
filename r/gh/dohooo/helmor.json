@@ -1,0 +1,77 @@
+{
+  "id": "gh:dohooo/helmor",
+  "kind": "repo",
+  "url": "https://github.com/dohooo/helmor",
+  "title": "helmor",
+  "why": "Runs many coding agents in parallel, each in its own git worktree, with a CLI and MCP server to drive them.",
+  "keys": {
+    "races": [
+      "agents/orchestration",
+      "agents/coding",
+      "agents/clients",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/orchestration",
+      "agents/coding",
+      "agents/clients",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/clients/desktop-apps",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dohooo/helmor",
+    "sha": "a76cda1888265fb3e3208562d4b62616a4f0266a",
+    "file_url": "https://cdn.jsdelivr.net/gh/dohooo/helmor@a76cda1888265fb3e3208562d4b62616a4f0266a/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 1306,
+    "size_mb": 72,
+    "created_at": "2026-04-02T01:49:14Z",
+    "last_commit_at": "2026-07-24T20:13:35Z",
+    "releases": 92,
+    "tags": 94,
+    "archived": false,
+    "release": {
+      "tag": "v0.46.0",
+      "at": "2026-07-24T20:42:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a76cda1888265fb3e3208562d4b62616a4f0266a",
+    "v": 3
+  }
+}

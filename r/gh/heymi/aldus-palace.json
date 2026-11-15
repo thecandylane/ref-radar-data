@@ -1,0 +1,75 @@
+{
+  "id": "gh:heymi/aldus-palace",
+  "kind": "repo",
+  "url": "https://github.com/heymi/aldus-palace",
+  "title": "aldus-palace",
+  "why": "Turns a typed sentence into commitments, decisions and memories that each keep their source evidence, reachable by MCP, HTTP or library.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/memory",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/memory/long-term-memory",
+      "agents/memory/project-memory",
+      "agents/memory/context-databases",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/heymi/aldus-palace",
+    "sha": "d8148278ceda242edd148da6cc6e11751f855960",
+    "file_url": "https://cdn.jsdelivr.net/gh/heymi/aldus-palace@d8148278ceda242edd148da6cc6e11751f855960/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 95,
+    "size_mb": 1,
+    "created_at": "2026-09-18T17:10:56Z",
+    "last_commit_at": "2026-09-19T16:57:09Z",
+    "releases": 21,
+    "tags": 50,
+    "archived": false,
+    "release": {
+      "tag": "@aldus-palace/client@0.2.2",
+      "at": "2026-09-19T15:21:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d8148278ceda242edd148da6cc6e11751f855960",
+    "v": 3
+  }
+}

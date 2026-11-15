@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:80982ec3984dd2ae4ab16a701e39aaee8027f9be"
+  },
+  "id": "gh:dwisiswant0/ppfuzz",
+  "kind": "repo",
+  "url": "https://github.com/dwisiswant0/ppfuzz",
+  "title": "ppfuzz",
+  "why": "Loads each target URL in Chrome or Chromium to test for client-side prototype pollution, and lists script gadgets that could escalate it to XSS.",
+  "keys": {
+    "races": [
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dwisiswant0/ppfuzz",
+    "sha": "80982ec3984dd2ae4ab16a701e39aaee8027f9be",
+    "file_url": "https://cdn.jsdelivr.net/gh/dwisiswant0/ppfuzz@80982ec3984dd2ae4ab16a701e39aaee8027f9be/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 680,
+    "size_mb": 0,
+    "created_at": "2021-06-15T06:31:46Z",
+    "last_commit_at": "2022-12-01T21:04:59Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.2",
+      "at": "2022-12-01T20:59:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "80982ec3984dd2ae4ab16a701e39aaee8027f9be",
+    "v": 3
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b60e4dc1db289a7f6bdf396405f3c8be48332f15"
+  },
+  "id": "gh:google/sandboxed-api",
+  "kind": "repo",
+  "url": "https://github.com/google/sandboxed-api",
+  "title": "sandboxed-api",
+  "why": "Generates a sandboxed wrapper around a C or C++ library, so untrusted input is handled in an isolated process.",
+  "keys": {
+    "races": [
+      "infra/isolation"
+    ],
+    "lanes": [
+      "infra/isolation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google/sandboxed-api",
+    "sha": "b60e4dc1db289a7f6bdf396405f3c8be48332f15",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/sandboxed-api@b60e4dc1db289a7f6bdf396405f3c8be48332f15/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 1772,
+    "size_mb": 138,
+    "created_at": "2019-03-07T09:30:45Z",
+    "last_commit_at": "2026-11-13T14:05:31Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v20241008",
+      "at": "2024-10-08T09:38:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b60e4dc1db289a7f6bdf396405f3c8be48332f15",
+    "v": 3
+  }
+}

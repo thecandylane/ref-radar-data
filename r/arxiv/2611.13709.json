@@ -1,0 +1,46 @@
+{
+  "archive": {
+    "page": "https://web.archive.org/web/20261112133524/https://arxiv.org/abs/2611.13709"
+  },
+  "id": "arxiv:2611.13709",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.13709",
+  "title": "Do They Do as They Are Told? Investigating Coding Agents' Adherence to Explicit Instructions in Context Files",
+  "why": "Measures whether coding agents follow AGENTS.md instructions, turning them into executable scripts checked against agent-generated commits.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/skills/agent-configs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.13709"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a171796c4f9bd8a622e55267a789c3bad6401f2c"
+  },
+  "id": "gh:mriener/gausspyplus",
+  "kind": "repo",
+  "url": "https://github.com/mriener/gausspyplus",
+  "title": "gausspyplus",
+  "why": "Decomposes emission line spectra into Gaussian components automatically, refitting neighboring solutions for spatially coherent spectral cubes.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mriener/gausspyplus",
+    "sha": "a171796c4f9bd8a622e55267a789c3bad6401f2c",
+    "file_url": "https://cdn.jsdelivr.net/gh/mriener/gausspyplus@a171796c4f9bd8a622e55267a789c3bad6401f2c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 58,
+    "size_mb": 9,
+    "created_at": "2019-03-01T13:58:07Z",
+    "last_commit_at": "2020-11-01T18:49:58Z",
+    "releases": 0,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a171796c4f9bd8a622e55267a789c3bad6401f2c",
+    "v": 3
+  }
+}

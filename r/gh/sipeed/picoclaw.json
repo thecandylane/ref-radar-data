@@ -1,0 +1,74 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bbf6893ca7afad27f1d00a0f5a45982a549c6ed6"
+  },
+  "id": "gh:sipeed/picoclaw",
+  "kind": "repo",
+  "url": "https://github.com/sipeed/picoclaw",
+  "title": "picoclaw",
+  "why": "Personal AI assistant in Go that fits in under 10MB of RAM, runs on $10 hardware and reaches 19+ messaging channels.",
+  "keys": {
+    "races": [
+      "agents/assistants"
+    ],
+    "lanes": [
+      "agents/assistants"
+    ],
+    "capabilities": [
+      "agents/assistants/personal-agents",
+      "agents/assistants/task-automation"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sipeed/picoclaw",
+    "sha": "bbf6893ca7afad27f1d00a0f5a45982a549c6ed6",
+    "file_url": "https://cdn.jsdelivr.net/gh/sipeed/picoclaw@bbf6893ca7afad27f1d00a0f5a45982a549c6ed6/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 30128,
+    "size_mb": 41,
+    "created_at": "2026-02-04T12:32:35Z",
+    "last_commit_at": "2026-08-19T09:17:32Z",
+    "releases": 16,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.1",
+      "at": "2026-07-03T07:37:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "bbf6893ca7afad27f1d00a0f5a45982a549c6ed6",
+    "v": 3
+  }
+}

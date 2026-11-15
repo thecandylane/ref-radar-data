@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:0df7554173b5ed2a5acb8e90ca18cf91f992ed35"
+  },
   "id": "gh:3fon3fonov/exostriker",
   "kind": "repo",
   "url": "https://github.com/3fon3fonov/exostriker",
@@ -22,16 +25,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/3fon3fonov/exostriker",
-    "sha": "a9bcc5d737c58f6809a10a79a97afd8022bad437",
-    "file_url": "https://cdn.jsdelivr.net/gh/3fon3fonov/exostriker@a9bcc5d737c58f6809a10a79a97afd8022bad437/{path}"
+    "sha": "0df7554173b5ed2a5acb8e90ca18cf91f992ed35",
+    "file_url": "https://cdn.jsdelivr.net/gh/3fon3fonov/exostriker@0df7554173b5ed2a5acb8e90ca18cf91f992ed35/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
     "stars": 134,
-    "size_mb": 160,
+    "size_mb": 162,
     "created_at": "2018-10-17T19:56:13Z",
-    "last_commit_at": "2026-11-12T16:00:14Z",
+    "last_commit_at": "2026-11-14T14:10:58Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -51,7 +54,10 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "a9bcc5d737c58f6809a10a79a97afd8022bad437",
+    "sha": "0df7554173b5ed2a5acb8e90ca18cf91f992ed35",
     "v": 3
-  }
+  },
+  "pins_before": [
+    "a9bcc5d737c58f6809a10a79a97afd8022bad437"
+  ]
 }

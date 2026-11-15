@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e2c8d9e4ac85ea92a6aae776fdc1fb984762a133"
+  },
+  "id": "gh:ropensci/pangaear",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/pangaear",
+  "title": "pangaear",
+  "why": "Fetches PANGAEA datasets into R by DOI and runs its GUI search from code, with OAI-PMH calls too.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/databases",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/pangaear",
+    "sha": "e2c8d9e4ac85ea92a6aae776fdc1fb984762a133",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/pangaear@e2c8d9e4ac85ea92a6aae776fdc1fb984762a133/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 25,
+    "size_mb": 1,
+    "created_at": "2014-09-02T16:08:16Z",
+    "last_commit_at": "2026-01-17T10:24:14Z",
+    "releases": 9,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2021-05-14T04:44:29.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e2c8d9e4ac85ea92a6aae776fdc1fb984762a133",
+    "v": 3
+  }
+}

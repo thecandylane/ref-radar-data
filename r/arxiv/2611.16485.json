@@ -1,0 +1,45 @@
+{
+  "id": "arxiv:2611.16485",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.16485",
+  "title": "Contain, Conform, Compare (Extended Version): A Red-Teamed Evaluation Kit for Small Coding Agents and the Full Record of Its Experiments",
+  "why": "A local evaluator for small coding agents that runs jobs in network-free containers and compares paired statistics across repository clusters.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "agents/coding",
+      "agents/sandboxes"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "agents/coding",
+      "agents/sandboxes"
+    ],
+    "capabilities": [
+      "agents/sandboxes/code-sandboxes"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.16485"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

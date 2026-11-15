@@ -1,0 +1,63 @@
+{
+  "id": "gh:hand-dot/supabase-rls-checker",
+  "kind": "repo",
+  "url": "https://github.com/hand-dot/supabase-rls-checker",
+  "title": "supabase-rls-checker",
+  "why": "Flags Supabase tables that return 30 or more rows, a sign RLS is off, using the API key a page already sends.",
+  "keys": {
+    "races": [
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hand-dot/supabase-rls-checker",
+    "sha": "6882e15572b3743a9a0c0c6029913a6e159a2c84",
+    "file_url": "https://cdn.jsdelivr.net/gh/hand-dot/supabase-rls-checker@6882e15572b3743a9a0c0c6029913a6e159a2c84/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "none",
+    "stars": 122,
+    "size_mb": 0,
+    "created_at": "2025-04-17T02:31:56Z",
+    "last_commit_at": "2025-04-18T03:40:34Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6882e15572b3743a9a0c0c6029913a6e159a2c84",
+    "v": 3
+  }
+}

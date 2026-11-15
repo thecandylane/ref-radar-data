@@ -1,0 +1,46 @@
+{
+  "archive": {
+    "page": "https://web.archive.org/web/20261115051244/https://arxiv.org/abs/2611.04579"
+  },
+  "id": "arxiv:2611.04579",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.04579",
+  "title": "FreeForm Harness: A Mobile-Native Agent Harness for Open and Composable Extensions",
+  "why": "Lets a mobile agent harness install and compose independently authored extensions under one plugin contract, generating a new one when none fits.",
+  "keys": {
+    "races": [
+      "mobile/android",
+      "agents/skills"
+    ],
+    "lanes": [
+      "mobile/android",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/skills/plugin-specs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.04579"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

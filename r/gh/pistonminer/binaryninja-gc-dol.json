@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7ed4b5946b7cc6831d078db6d9a99fa9c172f91c"
+  },
+  "id": "gh:pistonminer/binaryninja-gc-dol",
+  "kind": "repo",
+  "url": "https://github.com/PistonMiner/binaryninja-gc-dol",
+  "title": "binaryninja-gc-dol",
+  "why": "Opens GameCube and Wii .dol files as a Binary Ninja BinaryView, so you can reverse them without converting first.",
+  "keys": {
+    "races": [
+      "cyber/reversing"
+    ],
+    "lanes": [
+      "cyber/reversing"
+    ],
+    "capabilities": [
+      "cyber/reversing/disassemblers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/PistonMiner/binaryninja-gc-dol",
+    "sha": "7ed4b5946b7cc6831d078db6d9a99fa9c172f91c",
+    "file_url": "https://cdn.jsdelivr.net/gh/PistonMiner/binaryninja-gc-dol@7ed4b5946b7cc6831d078db6d9a99fa9c172f91c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 3,
+    "size_mb": 0,
+    "created_at": "2021-07-08T18:38:44Z",
+    "last_commit_at": "2021-07-08T18:55:33Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2021-07-08T19:52:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7ed4b5946b7cc6831d078db6d9a99fa9c172f91c",
+    "v": 3
+  }
+}

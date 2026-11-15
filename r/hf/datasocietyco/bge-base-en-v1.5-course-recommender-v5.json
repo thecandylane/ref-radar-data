@@ -1,0 +1,56 @@
+{
+  "id": "hf:datasocietyco/bge-base-en-v1.5-course-recommender-v5",
+  "kind": "model",
+  "url": "https://huggingface.co/datasocietyco/bge-base-en-v1.5-course-recommender-v5",
+  "title": "bge-base-en-v1.5-course-recommender-v5",
+  "why": "Fine-tuned bge-base-en-v1.5 that maps course descriptions to 768-dimensional vectors for finding similar courses.",
+  "keys": {
+    "races": [
+      "ml/embeddings",
+      "ml/open-models"
+    ],
+    "lanes": [
+      "ml/embeddings",
+      "ml/open-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://huggingface.co/datasocietyco/bge-base-en-v1.5-course-recommender-v5",
+    "sha": "2b069eed51ce7bc2beeaa7e3eea1a01c48ef3d29",
+    "file_url": "https://huggingface.co/datasocietyco/bge-base-en-v1.5-course-recommender-v5/raw/2b069eed51ce7bc2beeaa7e3eea1a01c48ef3d29/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "none",
+    "stars": 0,
+    "size_mb": 438,
+    "created_at": "2025-01-09T11:01:33.000Z",
+    "last_commit_at": "2025-01-09T11:03:32.000Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "likes": 24,
+    "downloads_30d": 1989271
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

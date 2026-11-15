@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.02784",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.02784",
+  "title": "HLSClaw: Bringing Vibe Coding to High-Level Synthesis through Skill-Based Agentic Harness",
+  "why": "Lets an LLM agent run modular optimization skills over HLS code and directive search, with 39.12x as the geometric-mean speedup on benchmarks.",
+  "keys": {
+    "races": [
+      "engineering/hdl",
+      "agents/skills"
+    ],
+    "lanes": [
+      "engineering/hdl",
+      "agents/skills"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.02784"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

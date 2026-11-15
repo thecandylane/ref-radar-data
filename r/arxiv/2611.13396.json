@@ -1,0 +1,44 @@
+{
+  "archive": {
+    "page": "https://web.archive.org/web/20261112131026/https://arxiv.org/abs/2611.13396"
+  },
+  "id": "arxiv:2611.13396",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.13396",
+  "title": "The AI Era's Lines of Code? A Case Study on What an Engineer's Token Spend Measures",
+  "why": "Links five weeks of coding-agent token usage to commits from 404 engineers, showing spend tracks agent use rather than output.",
+  "keys": {
+    "races": [
+      "practice/process",
+      "agents/coding"
+    ],
+    "lanes": [
+      "practice/process",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.13396"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

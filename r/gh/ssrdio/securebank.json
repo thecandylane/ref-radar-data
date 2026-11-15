@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0b2dc97d7b4ae43b5ccb9bd667b0b40151b26be4"
+  },
+  "id": "gh:ssrdio/securebank",
+  "kind": "repo",
+  "url": "https://github.com/ssrdio/SecureBank",
+  "title": "SecureBank",
+  "why": "Deliberately vulnerable FinTech app covering the OWASP TOP 10, with a CTF mode that exports challenges for CTFd.",
+  "keys": {
+    "races": [
+      "learning/security-labs",
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "learning/security-labs",
+      "cyber/appsec"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ssrdio/SecureBank",
+    "sha": "0b2dc97d7b4ae43b5ccb9bd667b0b40151b26be4",
+    "file_url": "https://cdn.jsdelivr.net/gh/ssrdio/SecureBank@0b2dc97d7b4ae43b5ccb9bd667b0b40151b26be4/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 122,
+    "size_mb": 99,
+    "created_at": "2020-04-09T11:07:19Z",
+    "last_commit_at": "2026-06-19T06:59:27Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v2025.1",
+      "at": "2026-06-18T20:21:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0b2dc97d7b4ae43b5ccb9bd667b0b40151b26be4",
+    "v": 3
+  }
+}

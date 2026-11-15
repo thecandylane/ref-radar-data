@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:452c0145b1dbdd5ca82c6d13d7fadc8fba0bbd06"
+  },
+  "id": "gh:opera-cal-val/opera_applications",
+  "kind": "repo",
+  "url": "https://github.com/OPERA-Cal-Val/OPERA_Applications",
+  "title": "OPERA_Applications",
+  "why": "Jupyter notebooks that stream OPERA CSLC and DSWx products from the cloud for flood, reservoir and wildfire mapping.",
+  "keys": {
+    "races": [
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OPERA-Cal-Val/OPERA_Applications",
+    "sha": "452c0145b1dbdd5ca82c6d13d7fadc8fba0bbd06",
+    "file_url": "https://raw.githubusercontent.com/OPERA-Cal-Val/OPERA_Applications/452c0145b1dbdd5ca82c6d13d7fadc8fba0bbd06/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "Apache-2.0",
+    "stars": 77,
+    "size_mb": 465,
+    "created_at": "2022-09-01T17:07:25Z",
+    "last_commit_at": "2026-02-26T03:14:18Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "452c0145b1dbdd5ca82c6d13d7fadc8fba0bbd06",
+    "v": 3
+  }
+}

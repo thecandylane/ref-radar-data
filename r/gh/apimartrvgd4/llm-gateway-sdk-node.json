@@ -24,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apimartrvgd4/llm-gateway-sdk-node",
-    "sha": "00577caff021ae2387f9facb87936ff5ab67a1f4",
-    "file_url": "https://cdn.jsdelivr.net/gh/apimartrvgd4/llm-gateway-sdk-node@00577caff021ae2387f9facb87936ff5ab67a1f4/{path}"
+    "sha": "275e4d546d5c2dc88f7c561e951ce376c897130d",
+    "file_url": "https://cdn.jsdelivr.net/gh/apimartrvgd4/llm-gateway-sdk-node@275e4d546d5c2dc88f7c561e951ce376c897130d/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -33,7 +33,7 @@
     "stars": 56,
     "size_mb": 6,
     "created_at": "2026-10-02T10:07:13Z",
-    "last_commit_at": "2026-11-13T14:38:32Z",
+    "last_commit_at": "2026-11-14T13:35:27Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -53,7 +53,10 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "00577caff021ae2387f9facb87936ff5ab67a1f4",
+    "sha": "275e4d546d5c2dc88f7c561e951ce376c897130d",
     "v": 3
-  }
+  },
+  "pins_before": [
+    "00577caff021ae2387f9facb87936ff5ab67a1f4"
+  ]
 }

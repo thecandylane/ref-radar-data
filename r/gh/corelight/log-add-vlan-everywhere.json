@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:240dbdf7141625482c87e8d3702738654b3c6684"
+  },
+  "id": "gh:corelight/log-add-vlan-everywhere",
+  "kind": "repo",
+  "url": "https://github.com/corelight/log-add-vlan-everywhere",
+  "title": "log-add-vlan-everywhere",
+  "why": "A Zeek script that fills vlan and inner_vlan in logs, reading them only at connection_established to avoid c$id indexing trouble.",
+  "keys": {
+    "races": [
+      "infra/observability",
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/observability",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/corelight/log-add-vlan-everywhere",
+    "sha": "240dbdf7141625482c87e8d3702738654b3c6684",
+    "file_url": "https://cdn.jsdelivr.net/gh/corelight/log-add-vlan-everywhere@240dbdf7141625482c87e8d3702738654b3c6684/{path}"
+  },
+  "facts": {
+    "lang": "Zeek",
+    "license": "BSD-2-Clause",
+    "stars": 7,
+    "size_mb": 0,
+    "created_at": "2017-10-27T15:28:14Z",
+    "last_commit_at": "2022-07-29T15:06:20Z",
+    "releases": 2,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.3",
+      "at": "2022-07-29T15:07:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "240dbdf7141625482c87e8d3702738654b3c6684",
+    "v": 3
+  }
+}

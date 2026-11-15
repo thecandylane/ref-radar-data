@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9f659405483a70ed26d75608806f0795a0cd2504"
+  },
+  "id": "gh:iodepo/odis-arch",
+  "kind": "repo",
+  "url": "https://github.com/iodepo/odis-arch",
+  "title": "odis-arch",
+  "why": "A worked example of ocean data sharing, with OGC services, a metadata catalogue and RDF knowledge graph design.",
+  "keys": {
+    "races": [
+      "practice/architecture",
+      "data/datasets"
+    ],
+    "lanes": [
+      "practice/architecture",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/iodepo/odis-arch",
+    "sha": "9f659405483a70ed26d75608806f0795a0cd2504",
+    "file_url": "https://raw.githubusercontent.com/iodepo/odis-arch/9f659405483a70ed26d75608806f0795a0cd2504/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "none",
+    "stars": 45,
+    "size_mb": 418,
+    "created_at": "2020-04-24T13:06:16Z",
+    "last_commit_at": "2026-07-02T17:29:57Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9f659405483a70ed26d75608806f0795a0cd2504",
+    "v": 3
+  }
+}

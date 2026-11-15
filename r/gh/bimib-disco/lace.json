@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:204e7e076d94854fecc3a64faff4d93ce38bb11e"
+  },
+  "id": "gh:bimib-disco/lace",
+  "kind": "repo",
+  "url": "https://github.com/BIMIB-DISCo/LACE",
+  "title": "LACE",
+  "why": "Interactive R interface that infers clonal trees from longitudinal single-cell sequencing and annotates variants with Annovar.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/BIMIB-DISCo/LACE",
+    "sha": "204e7e076d94854fecc3a64faff4d93ce38bb11e",
+    "file_url": "https://cdn.jsdelivr.net/gh/BIMIB-DISCo/LACE@204e7e076d94854fecc3a64faff4d93ce38bb11e/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 16,
+    "size_mb": 120,
+    "created_at": "2019-11-26T09:45:55Z",
+    "last_commit_at": "2026-04-07T08:37:23Z",
+    "releases": 12,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "2.12.0",
+      "at": "2025-04-18T10:19:55.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "204e7e076d94854fecc3a64faff4d93ce38bb11e",
+    "v": 3
+  }
+}

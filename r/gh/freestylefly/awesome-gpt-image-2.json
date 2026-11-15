@@ -1,0 +1,65 @@
+{
+  "id": "gh:freestylefly/awesome-gpt-image-2",
+  "kind": "repo",
+  "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+  "title": "awesome-gpt-image-2",
+  "why": "Gives an agent a style library of image prompt templates and cases, installable as a skill, Claude Code plugin or npm package.",
+  "keys": {
+    "races": [
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/skills/design-skills",
+      "agents/skills/plugin-specs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "sha": "0ebea1f83ccdc6b06def3ce3ee51ad42ec53daf3",
+    "file_url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0ebea1f83ccdc6b06def3ce3ee51ad42ec53daf3/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 35819,
+    "size_mb": 232,
+    "created_at": "2026-04-25T09:19:13Z",
+    "last_commit_at": "2026-11-10T08:41:44Z",
+    "releases": 0,
+    "tags": 4,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0ebea1f83ccdc6b06def3ce3ee51ad42ec53daf3",
+    "v": 3
+  },
+  "scan_partial": true
+}

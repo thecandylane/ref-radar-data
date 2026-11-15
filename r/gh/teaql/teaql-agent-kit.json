@@ -1,0 +1,68 @@
+{
+  "id": "gh:teaql/teaql-agent-kit",
+  "kind": "repo",
+  "url": "https://github.com/teaql/teaql-agent-kit",
+  "title": "teaql-agent-kit",
+  "why": "Skill that has a coding agent model a business domain, generate typed APIs and verify them, with read exclusion for generated code.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/skills",
+      "agents/context"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/skills",
+      "agents/context"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/teaql/teaql-agent-kit",
+    "sha": "77093b5fb9113ef869a129ffc6e67c4765000864",
+    "file_url": "https://cdn.jsdelivr.net/gh/teaql/teaql-agent-kit@77093b5fb9113ef869a129ffc6e67c4765000864/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 2822,
+    "size_mb": 39,
+    "created_at": "2018-12-17T18:07:12Z",
+    "last_commit_at": "2026-11-10T10:21:13Z",
+    "releases": 0,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.0",
+      "at": "2026-07-31T06:21:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "77093b5fb9113ef869a129ffc6e67c4765000864",
+    "v": 3
+  }
+}

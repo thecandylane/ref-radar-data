@@ -1,0 +1,64 @@
+{
+  "id": "gh:forzagreen/wikitermbase",
+  "kind": "repo",
+  "url": "https://github.com/forzagreen/wikitermbase",
+  "title": "wikitermbase",
+  "why": "Looks up Arabic Wikipedia terms through a FastAPI search API and an OOUI gadget that loads on the first click.",
+  "keys": {
+    "races": [
+      "data/search",
+      "web/frameworks",
+      "data/databases"
+    ],
+    "lanes": [
+      "data/search",
+      "web/frameworks",
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/forzagreen/wikitermbase",
+    "sha": "ae21db9fef302a20676919463a7a368c3057d41b",
+    "file_url": "https://cdn.jsdelivr.net/gh/forzagreen/wikitermbase@ae21db9fef302a20676919463a7a368c3057d41b/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 17,
+    "size_mb": 471,
+    "created_at": "2024-07-24T22:35:38Z",
+    "last_commit_at": "2026-11-13T00:52:35Z",
+    "releases": 7,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v1.7.0",
+      "at": "2026-10-31T15:18:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ae21db9fef302a20676919463a7a368c3057d41b",
+    "v": 3
+  }
+}

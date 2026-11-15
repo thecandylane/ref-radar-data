@@ -1,0 +1,72 @@
+{
+  "id": "gh:insforge/insforge",
+  "kind": "repo",
+  "url": "https://github.com/InsForge/InsForge",
+  "title": "InsForge",
+  "why": "Gives a coding agent Postgres, auth, storage and edge functions through an MCP server or CLI, so it can deploy and debug full-stack apps.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "data/databases",
+      "data/storage"
+    ],
+    "lanes": [
+      "agents/tools",
+      "data/databases",
+      "data/storage"
+    ],
+    "capabilities": [
+      "agents/tools/cloud-ops",
+      "agents/tools/mcp-servers",
+      "data/storage/object-storage"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/InsForge/InsForge",
+    "sha": "375f4bd7449a46481bb7e57bf872def52b9f9f68",
+    "file_url": "https://cdn.jsdelivr.net/gh/InsForge/InsForge@375f4bd7449a46481bb7e57bf872def52b9f9f68/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 13339,
+    "size_mb": 150,
+    "created_at": "2025-07-29T05:56:00Z",
+    "last_commit_at": "2026-11-06T21:19:58Z",
+    "releases": 61,
+    "tags": 802,
+    "archived": false,
+    "release": {
+      "tag": "v2.3.5",
+      "at": "2026-10-23T01:02:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "375f4bd7449a46481bb7e57bf872def52b9f9f68",
+    "v": 3
+  }
+}

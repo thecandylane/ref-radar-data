@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:708e3b528aeceb8ef99db975aab589e936b8ccc6"
-  },
   "id": "gh:abdulmominsakib/localmind",
   "kind": "repo",
   "url": "https://github.com/abdulmominsakib/localmind",
@@ -35,13 +32,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/abdulmominsakib/localmind",
-    "sha": "708e3b528aeceb8ef99db975aab589e936b8ccc6",
-    "file_url": "https://cdn.jsdelivr.net/gh/abdulmominsakib/localmind@708e3b528aeceb8ef99db975aab589e936b8ccc6/{path}"
+    "sha": "b79035ed5041505fc72f3fc7c0d4b767d2550ade",
+    "file_url": "https://cdn.jsdelivr.net/gh/abdulmominsakib/localmind@b79035ed5041505fc72f3fc7c0d4b767d2550ade/{path}"
   },
   "facts": {
     "lang": "Dart",
     "license": "MIT",
-    "stars": 325,
+    "stars": 328,
     "size_mb": 52,
     "created_at": "2026-04-01T07:31:47Z",
     "last_commit_at": "2026-11-13T15:17:43Z",
@@ -67,7 +64,10 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "708e3b528aeceb8ef99db975aab589e936b8ccc6",
+    "sha": "b79035ed5041505fc72f3fc7c0d4b767d2550ade",
     "v": 3
-  }
+  },
+  "pins_before": [
+    "708e3b528aeceb8ef99db975aab589e936b8ccc6"
+  ]
 }

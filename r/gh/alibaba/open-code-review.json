@@ -35,22 +35,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/alibaba/open-code-review",
-    "sha": "0e9060da66af36a96a15516e76a001953095318b",
-    "file_url": "https://cdn.jsdelivr.net/gh/alibaba/open-code-review@0e9060da66af36a96a15516e76a001953095318b/{path}"
+    "sha": "94893d927aca429fa94b89a9f849c1fdd6a18afd",
+    "file_url": "https://cdn.jsdelivr.net/gh/alibaba/open-code-review@94893d927aca429fa94b89a9f849c1fdd6a18afd/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 50959,
-    "size_mb": 53,
+    "stars": 51623,
+    "size_mb": 54,
     "created_at": "2026-05-18T02:16:36Z",
-    "last_commit_at": "2026-11-14T03:29:47Z",
-    "releases": 147,
-    "tags": 165,
+    "last_commit_at": "2026-11-15T02:16:22Z",
+    "releases": 148,
+    "tags": 166,
     "archived": false,
     "release": {
-      "tag": "v1.13.9",
-      "at": "2026-11-13T09:47:57.000Z"
+      "tag": "v1.13.10",
+      "at": "2026-11-15T02:56:09.000Z"
     }
   },
   "reuse": "copy",
@@ -61,14 +61,17 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 1368,
+    "star_delta_7d": 1988,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "0e9060da66af36a96a15516e76a001953095318b",
+    "sha": "94893d927aca429fa94b89a9f849c1fdd6a18afd",
     "v": 3
   },
+  "pins_before": [
+    "0e9060da66af36a96a15516e76a001953095318b"
+  ],
   "hot": true
 }

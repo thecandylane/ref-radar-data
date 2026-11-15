@@ -1,0 +1,68 @@
+{
+  "id": "gh:drkrillo/good-first-issues",
+  "kind": "repo",
+  "url": "https://github.com/drkrillo/good-first-issues",
+  "title": "good-first-issues",
+  "why": "Collects open good first issue labels from chosen GitHub usernames or organizations, and its MCP server lets an assistant query them.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "dev-tools/vcs"
+    ],
+    "lanes": [
+      "agents/tools",
+      "dev-tools/vcs"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/drkrillo/good-first-issues",
+    "sha": "71018e4121653bbecf30796ecd8af5fe18edf913",
+    "file_url": "https://cdn.jsdelivr.net/gh/drkrillo/good-first-issues@71018e4121653bbecf30796ecd8af5fe18edf913/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 51,
+    "size_mb": 2,
+    "created_at": "2023-10-05T17:08:53Z",
+    "last_commit_at": "2026-11-14T23:56:24Z",
+    "releases": 3,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.1",
+      "at": "2026-10-29T15:38:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "71018e4121653bbecf30796ecd8af5fe18edf913",
+    "v": 3
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0b1315dd4b6bdd09552bd4473be247e85619b0b0"
+  },
+  "id": "gh:o2sa/ccna-labs",
+  "kind": "repo",
+  "url": "https://github.com/O2sa/CCNA-Labs",
+  "title": "CCNA-Labs",
+  "why": "Hands-on Packet Tracer labs for OSPF, VLANs and ACLs, each with a network diagram, command list and a .pkt file to run.",
+  "keys": {
+    "races": [
+      "learning/exercises",
+      "infra/networking"
+    ],
+    "lanes": [
+      "learning/exercises",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/O2sa/CCNA-Labs",
+    "sha": "0b1315dd4b6bdd09552bd4473be247e85619b0b0",
+    "file_url": "https://cdn.jsdelivr.net/gh/O2sa/CCNA-Labs@0b1315dd4b6bdd09552bd4473be247e85619b0b0/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "MIT",
+    "stars": 102,
+    "size_mb": 25,
+    "created_at": "2022-07-19T21:15:22Z",
+    "last_commit_at": "2026-10-21T02:51:32Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0b1315dd4b6bdd09552bd4473be247e85619b0b0",
+    "v": 3
+  }
+}

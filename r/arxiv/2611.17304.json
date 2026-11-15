@@ -1,0 +1,43 @@
+{
+  "id": "arxiv:2611.17304",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.17304",
+  "title": "Where LLM Agents Get Stuck Debugging Databases: Access More Than Reasoning",
+  "why": "Field observation of Claude Code on eight production database incidents, where missing access, not reasoning, stalled diagnosis.",
+  "keys": {
+    "races": [
+      "dev-tools/debugging",
+      "agents/coding",
+      "data/databases"
+    ],
+    "lanes": [
+      "dev-tools/debugging",
+      "agents/coding",
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.17304"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

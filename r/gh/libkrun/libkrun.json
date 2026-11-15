@@ -1,0 +1,64 @@
+{
+  "id": "gh:libkrun/libkrun",
+  "kind": "repo",
+  "url": "https://github.com/libkrun/libkrun",
+  "title": "libkrun",
+  "why": "Isolates a process behind virtualization from a dynamic library, with bindings and headers to embed it in your own program.",
+  "keys": {
+    "races": [
+      "infra/isolation"
+    ],
+    "lanes": [
+      "infra/isolation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/libkrun/libkrun",
+    "sha": "302d447d887d7f1776fedee10a1ea45bf53084f0",
+    "file_url": "https://cdn.jsdelivr.net/gh/libkrun/libkrun@302d447d887d7f1776fedee10a1ea45bf53084f0/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 2908,
+    "size_mb": 276,
+    "created_at": "2020-08-13T16:16:27Z",
+    "last_commit_at": "2026-11-12T11:36:20Z",
+    "releases": 68,
+    "tags": 72,
+    "archived": false,
+    "release": {
+      "tag": "v1.19.8",
+      "at": "2026-11-06T12:22:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "302d447d887d7f1776fedee10a1ea45bf53084f0",
+    "v": 3
+  }
+}

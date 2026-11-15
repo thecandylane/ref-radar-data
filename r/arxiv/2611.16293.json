@@ -1,0 +1,41 @@
+{
+  "id": "arxiv:2611.16293",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2611.16293",
+  "title": "Rasoi: Visual Diffs for Evaluating Structural Changes Made by Coding Agents",
+  "why": "Shows which architecture pieces each agent edit added, changed or dropped, so you can judge whether changes stayed in scope.",
+  "keys": {
+    "races": [
+      "dev-tools/code-review",
+      "agents/coding"
+    ],
+    "lanes": [
+      "dev-tools/code-review",
+      "agents/coding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2611.16293"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

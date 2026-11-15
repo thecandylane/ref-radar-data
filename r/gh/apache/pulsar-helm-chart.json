@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:39ca4ef0f34080a80ba8c8f2723200399141efef"
+  },
+  "id": "gh:apache/pulsar-helm-chart",
+  "kind": "repo",
+  "url": "https://github.com/apache/pulsar-helm-chart",
+  "title": "pulsar-helm-chart",
+  "why": "Sets up Apache Pulsar brokers, bookies and proxies on Kubernetes, with TLS and JWT example values to start from.",
+  "keys": {
+    "races": [
+      "data/queues",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "data/queues",
+      "infra/kubernetes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/pulsar-helm-chart",
+    "sha": "39ca4ef0f34080a80ba8c8f2723200399141efef",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/pulsar-helm-chart@39ca4ef0f34080a80ba8c8f2723200399141efef/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "Apache-2.0",
+    "stars": 241,
+    "size_mb": 1,
+    "created_at": "2020-04-14T05:15:14Z",
+    "last_commit_at": "2026-10-27T07:30:13Z",
+    "releases": 74,
+    "tags": 78,
+    "archived": false,
+    "release": {
+      "tag": "pulsar-4.8.0",
+      "at": "2026-10-13T12:01:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "39ca4ef0f34080a80ba8c8f2723200399141efef",
+    "v": 3
+  }
+}

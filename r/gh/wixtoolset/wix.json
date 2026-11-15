@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0889c234aaf3479055b43eceaa10820cf9716cfa"
+  },
+  "id": "gh:wixtoolset/wix",
+  "kind": "repo",
+  "url": "https://github.com/wixtoolset/wix",
+  "title": "wix",
+  "why": "Source for the toolset that builds Windows installers, compiled from C# with devbuild into a wix executable.",
+  "keys": {
+    "races": [
+      "desktop/packaging",
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "desktop/packaging",
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wixtoolset/wix",
+    "sha": "0889c234aaf3479055b43eceaa10820cf9716cfa",
+    "file_url": "https://cdn.jsdelivr.net/gh/wixtoolset/wix@0889c234aaf3479055b43eceaa10820cf9716cfa/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "NOASSERTION",
+    "stars": 1178,
+    "size_mb": 27,
+    "created_at": "2021-05-11T13:40:49Z",
+    "last_commit_at": "2026-10-26T19:07:37Z",
+    "releases": 27,
+    "tags": 27,
+    "archived": false,
+    "release": {
+      "tag": "v7.0.1",
+      "at": "2026-10-26T22:15:25.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0889c234aaf3479055b43eceaa10820cf9716cfa",
+    "v": 3
+  }
+}
