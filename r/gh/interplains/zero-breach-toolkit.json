@@ -1,7 +1,5 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:88d2bb67b8ae04be4a211d068ad6a1b10ffd14f0"
-  },
+  "access": "none",
   "id": "gh:interplains/zero-breach-toolkit",
   "kind": "repo",
   "url": "https://github.com/interplains/Zero-Breach-Toolkit",
@@ -22,18 +20,7 @@
     ],
     "capabilities": []
   },
-  "read": [
-    {
-      "locator": "README.md",
-      "kind": "path"
-    }
-  ],
-  "fetch": {
-    "type": "git-sparse",
-    "repo": "https://github.com/interplains/Zero-Breach-Toolkit",
-    "sha": "88d2bb67b8ae04be4a211d068ad6a1b10ffd14f0",
-    "file_url": "https://cdn.jsdelivr.net/gh/interplains/Zero-Breach-Toolkit@88d2bb67b8ae04be4a211d068ad6a1b10ffd14f0/{path}"
-  },
+  "read": [],
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
@@ -49,7 +36,7 @@
       "at": "2026-11-14T20:27:04.000Z"
     }
   },
-  "reuse": "copy",
+  "reuse": null,
   "maturity": "new",
   "status": null,
   "stats": {
@@ -62,10 +49,6 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "88d2bb67b8ae04be4a211d068ad6a1b10ffd14f0",
-    "v": 3
-  },
   "fresh": true,
   "hot": true
 }
