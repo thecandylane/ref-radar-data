@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d76c236084baeb0f2e391e3ef0f64e9bb347f6f7"
+  },
+  "id": "gh:beast-fitting/beast",
+  "kind": "repo",
+  "url": "https://github.com/BEAST-Fitting/beast",
+  "title": "beast",
+  "why": "Fits ultraviolet to near-infrared photometric SEDs of stars to extract stellar and dust extinction parameters in a Bayesian way.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/BEAST-Fitting/beast",
+    "sha": "d76c236084baeb0f2e391e3ef0f64e9bb347f6f7",
+    "file_url": "https://cdn.jsdelivr.net/gh/BEAST-Fitting/beast@d76c236084baeb0f2e391e3ef0f64e9bb347f6f7/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 32,
+    "size_mb": 8,
+    "created_at": "2016-08-29T19:22:43Z",
+    "last_commit_at": "2026-11-04T20:31:38Z",
+    "releases": 7,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "v2.1.0",
+      "at": "2025-05-16T20:46:29.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d76c236084baeb0f2e391e3ef0f64e9bb347f6f7",
+    "v": 3
+  }
+}

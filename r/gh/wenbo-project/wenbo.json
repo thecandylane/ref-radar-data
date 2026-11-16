@@ -1,0 +1,65 @@
+{
+  "id": "gh:wenbo-project/wenbo",
+  "kind": "repo",
+  "url": "https://github.com/wenbo-project/wenbo",
+  "title": "wenbo",
+  "why": "Schedules individual DAG nodes across shared GPUs and CPUs, so tasks from different agents share resources instead of reserving a fixed pair.",
+  "keys": {
+    "races": [
+      "agents/orchestration",
+      "agents/frameworks"
+    ],
+    "lanes": [
+      "agents/orchestration",
+      "agents/frameworks"
+    ],
+    "capabilities": [
+      "agents/frameworks/agent-workflows"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wenbo-project/wenbo",
+    "sha": "a9c66195e307f1438d7df7d08926dd8f2472827b",
+    "file_url": "https://cdn.jsdelivr.net/gh/wenbo-project/wenbo@a9c66195e307f1438d7df7d08926dd8f2472827b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 28,
+    "size_mb": 1,
+    "created_at": "2026-10-16T02:59:56Z",
+    "last_commit_at": "2026-11-11T14:13:29Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a9c66195e307f1438d7df7d08926dd8f2472827b",
+    "v": 3
+  }
+}

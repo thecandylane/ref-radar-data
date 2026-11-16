@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e125ed92ea086fe7cfe64c071e99554c574ed0e5"
+  },
+  "id": "gh:leekgroup/regionreport",
+  "kind": "repo",
+  "url": "https://github.com/leekgroup/regionReport",
+  "title": "regionReport",
+  "why": "Generates HTML reports for genomic regions from derfinder, DESeq2 or edgeR results, covering region-level and feature-level analyses.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/leekgroup/regionReport",
+    "sha": "e125ed92ea086fe7cfe64c071e99554c574ed0e5",
+    "file_url": "https://cdn.jsdelivr.net/gh/leekgroup/regionReport@e125ed92ea086fe7cfe64c071e99554c574ed0e5/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 9,
+    "size_mb": 77,
+    "created_at": "2013-09-27T17:38:06Z",
+    "last_commit_at": "2026-03-31T17:36:13Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e125ed92ea086fe7cfe64c071e99554c574ed0e5",
+    "v": 3
+  }
+}

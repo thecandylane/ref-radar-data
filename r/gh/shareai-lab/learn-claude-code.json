@@ -1,0 +1,66 @@
+{
+  "id": "gh:shareai-lab/learn-claude-code",
+  "kind": "repo",
+  "url": "https://github.com/shareAI-lab/learn-claude-code",
+  "title": "learn-claude-code",
+  "why": "Builds a coding agent loop in 17 lessons, adding one harness mechanism per lesson such as compaction, hooks and MCP.",
+  "keys": {
+    "races": [
+      "learning/courses",
+      "agents/coding",
+      "agents/context",
+      "agents/tools"
+    ],
+    "lanes": [
+      "learning/courses",
+      "agents/coding",
+      "agents/context",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/context/context-compaction",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/shareAI-lab/learn-claude-code",
+    "sha": "33a5d856be91de4b5ce043c950e57a2d7de85ddb",
+    "file_url": "https://cdn.jsdelivr.net/gh/shareAI-lab/learn-claude-code@33a5d856be91de4b5ce043c950e57a2d7de85ddb/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 80473,
+    "size_mb": 7,
+    "created_at": "2025-06-29T15:34:15Z",
+    "last_commit_at": "2026-11-15T13:41:46Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "33a5d856be91de4b5ce043c950e57a2d7de85ddb",
+    "v": 3
+  }
+}

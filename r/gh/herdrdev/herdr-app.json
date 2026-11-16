@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3e32d75e7aa2327d7b1f89caf3d5dafd1f44f1b2"
+  },
+  "id": "gh:herdrdev/herdr-app",
+  "kind": "repo",
+  "url": "https://github.com/herdrdev/herdr-app",
+  "title": "herdr-app",
+  "why": "Groups terminals and coding agents into spaces, flags which are working or blocked, and keeps terminals running after the window closes.",
+  "keys": {
+    "races": [
+      "agents/clients",
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "agents/clients",
+      "desktop/terminal-ui"
+    ],
+    "capabilities": [
+      "agents/clients/desktop-apps"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/herdrdev/herdr-app",
+    "sha": "3e32d75e7aa2327d7b1f89caf3d5dafd1f44f1b2",
+    "file_url": "https://cdn.jsdelivr.net/gh/herdrdev/herdr-app@3e32d75e7aa2327d7b1f89caf3d5dafd1f44f1b2/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 3011,
+    "size_mb": 14,
+    "created_at": "2026-10-16T20:36:36Z",
+    "last_commit_at": "2026-11-15T19:07:36Z",
+    "releases": 0,
+    "tags": 13,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3e32d75e7aa2327d7b1f89caf3d5dafd1f44f1b2",
+    "v": 3
+  }
+}

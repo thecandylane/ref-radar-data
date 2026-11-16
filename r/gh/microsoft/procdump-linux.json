@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2f83148dbc62da574a953a5eaaeb38b499847cd0"
+  },
+  "id": "gh:microsoft/procdump-linux",
+  "kind": "repo",
+  "url": "https://github.com/microsoft/ProcDump-Linux",
+  "title": "ProcDump-Linux",
+  "why": "Writes core dumps of a running process when CPU, memory, signal or exception triggers fire, and can track unfreed allocations.",
+  "keys": {
+    "races": [
+      "dev-tools/debugging",
+      "systems/memory"
+    ],
+    "lanes": [
+      "dev-tools/debugging",
+      "systems/memory"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microsoft/ProcDump-Linux",
+    "sha": "2f83148dbc62da574a953a5eaaeb38b499847cd0",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/ProcDump-Linux@2f83148dbc62da574a953a5eaaeb38b499847cd0/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 3090,
+    "size_mb": 8,
+    "created_at": "2017-11-10T22:07:20Z",
+    "last_commit_at": "2026-10-28T22:42:36Z",
+    "releases": 23,
+    "tags": 24,
+    "archived": false,
+    "release": {
+      "tag": "3.6.0",
+      "at": "2026-11-06T18:06:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2f83148dbc62da574a953a5eaaeb38b499847cd0",
+    "v": 3
+  }
+}

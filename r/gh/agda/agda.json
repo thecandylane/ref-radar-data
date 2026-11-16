@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a47fdf022f7a93dda93042402f70973f0305a0cd"
-  },
   "id": "gh:agda/agda",
   "kind": "repo",
   "url": "https://github.com/agda/agda",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/agda/agda",
-    "sha": "a47fdf022f7a93dda93042402f70973f0305a0cd",
-    "file_url": "https://cdn.jsdelivr.net/gh/agda/agda@a47fdf022f7a93dda93042402f70973f0305a0cd/{path}"
+    "sha": "be0acfe37280ce4dff4bbe18381e5cc204765cd7",
+    "file_url": "https://cdn.jsdelivr.net/gh/agda/agda@be0acfe37280ce4dff4bbe18381e5cc204765cd7/{path}"
   },
   "facts": {
     "lang": "Haskell",
     "license": "NOASSERTION",
-    "stars": 2975,
+    "stars": 2976,
     "size_mb": 162,
     "created_at": "2015-08-08T17:51:48Z",
-    "last_commit_at": "2026-11-14T16:32:25Z",
+    "last_commit_at": "2026-11-16T08:31:18Z",
     "releases": 20,
     "tags": 116,
     "archived": false,
@@ -61,7 +58,10 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "a47fdf022f7a93dda93042402f70973f0305a0cd",
+    "sha": "be0acfe37280ce4dff4bbe18381e5cc204765cd7",
     "v": 3
-  }
+  },
+  "pins_before": [
+    "a47fdf022f7a93dda93042402f70973f0305a0cd"
+  ]
 }

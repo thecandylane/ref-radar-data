@@ -1,0 +1,63 @@
+{
+  "id": "gh:apache/calcite",
+  "kind": "repo",
+  "url": "https://github.com/apache/calcite",
+  "title": "calcite",
+  "why": "Adds an SQL parser, validator and pluggable optimizer to a database, without storage, and queries Cassandra, Druid and MongoDB.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "data/databases",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/calcite",
+    "sha": "b8ccec91b7670d8c62a5712e210bb25f396ade7e",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/calcite@b8ccec91b7670d8c62a5712e210bb25f396ade7e/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 5213,
+    "size_mb": 114,
+    "created_at": "2014-06-25T07:00:07Z",
+    "last_commit_at": "2026-11-15T21:48:40Z",
+    "releases": 0,
+    "tags": 132,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b8ccec91b7670d8c62a5712e210bb25f396ade7e",
+    "v": 3
+  }
+}

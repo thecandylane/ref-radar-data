@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f232c28a4885c51a70a35db8570f928f224fc4c9"
+  },
+  "id": "gh:yguitton/metams",
+  "kind": "repo",
+  "url": "https://github.com/yguitton/metaMS",
+  "title": "metaMS",
+  "why": "Processes MS-based metabolomics data, the data processing step a lab would run before any downstream analysis.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/yguitton/metaMS",
+    "sha": "f232c28a4885c51a70a35db8570f928f224fc4c9",
+    "file_url": "https://cdn.jsdelivr.net/gh/yguitton/metaMS@f232c28a4885c51a70a35db8570f928f224fc4c9/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 15,
+    "size_mb": 305,
+    "created_at": "2013-10-23T08:05:07Z",
+    "last_commit_at": "2026-05-28T13:39:20Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f232c28a4885c51a70a35db8570f928f224fc4c9",
+    "v": 3
+  }
+}

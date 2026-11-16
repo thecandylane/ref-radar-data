@@ -30,8 +30,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/a2aproject/a2a-python",
-    "sha": "09c93473a77d0a18be8429ad71958211b736a8c0",
-    "file_url": "https://cdn.jsdelivr.net/gh/a2aproject/a2a-python@09c93473a77d0a18be8429ad71958211b736a8c0/{path}"
+    "sha": "caab6a252958b2218ea61c0cae772f0a5c159e2a",
+    "file_url": "https://cdn.jsdelivr.net/gh/a2aproject/a2a-python@caab6a252958b2218ea61c0cae772f0a5c159e2a/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -62,10 +62,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "09c93473a77d0a18be8429ad71958211b736a8c0",
+    "sha": "caab6a252958b2218ea61c0cae772f0a5c159e2a",
     "v": 3
   },
   "pins_before": [
+    "09c93473a77d0a18be8429ad71958211b736a8c0",
     "f451ed74678cf808544333a8f1dfe66289dfd12b"
   ]
 }

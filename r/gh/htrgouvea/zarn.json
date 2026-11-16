@@ -1,0 +1,62 @@
+{
+  "id": "gh:htrgouvea/zarn",
+  "kind": "repo",
+  "url": "https://github.com/htrgouvea/zarn",
+  "title": "zarn",
+  "why": "Scans Perl files for risky calls such as system, eval and md5, then runs taint tracking to confirm exploitability.",
+  "keys": {
+    "races": [
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/static-analysis"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/htrgouvea/zarn",
+    "sha": "900c0df96442ffdb0114d139e289d7342037651a",
+    "file_url": "https://cdn.jsdelivr.net/gh/htrgouvea/zarn@900c0df96442ffdb0114d139e289d7342037651a/{path}"
+  },
+  "facts": {
+    "lang": "Perl",
+    "license": "NOASSERTION",
+    "stars": 59,
+    "size_mb": 0,
+    "created_at": "2022-11-23T13:42:38Z",
+    "last_commit_at": "2026-11-09T14:43:34Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "0.0.9",
+      "at": "2024-01-28T15:24:30.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

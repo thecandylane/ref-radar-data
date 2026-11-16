@@ -1,0 +1,60 @@
+{
+  "id": "gh:omicverse/py-edger",
+  "kind": "repo",
+  "url": "https://github.com/omicverse/py-edgeR",
+  "title": "py-edgeR",
+  "why": "Runs edgeR-style negative-binomial differential expression on count data in plain Python, without needing R or rpy2.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/omicverse/py-edgeR",
+    "sha": "e74f99e6424ea4e64c488aff05a9dfa0a7b06757",
+    "file_url": "https://cdn.jsdelivr.net/gh/omicverse/py-edgeR@e74f99e6424ea4e64c488aff05a9dfa0a7b06757/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "size_mb": 2,
+    "created_at": "2026-05-20T08:16:37Z",
+    "last_commit_at": "2026-11-09T19:54:52Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.3",
+      "at": "2026-11-09T19:56:56.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e74f99e6424ea4e64c488aff05a9dfa0a7b06757",
+    "v": 3
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3b95d31cc97264305cb3a5259b7648a2f8c8ab20"
+  },
+  "id": "gh:insightsengineering/hermes",
+  "kind": "repo",
+  "url": "https://github.com/insightsengineering/hermes",
+  "title": "insightsengineering/hermes",
+  "why": "Takes RNA-seq counts through annotation, QC flags, filtering, normalization, PCA and differential expression with a templated QC report.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/insightsengineering/hermes",
+    "sha": "3b95d31cc97264305cb3a5259b7648a2f8c8ab20",
+    "file_url": "https://cdn.jsdelivr.net/gh/insightsengineering/hermes@3b95d31cc97264305cb3a5259b7648a2f8c8ab20/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 13,
+    "size_mb": 55,
+    "created_at": "2021-07-05T21:42:48Z",
+    "last_commit_at": "2025-09-03T07:57:40Z",
+    "releases": 5,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v1.7.2",
+      "at": "2024-06-27T14:02:30.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3b95d31cc97264305cb3a5259b7648a2f8c8ab20",
+    "v": 3
+  }
+}

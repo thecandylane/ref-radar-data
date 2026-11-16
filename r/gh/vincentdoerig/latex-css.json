@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1fbe1d74f8ca33595a1d50c677810033da40aa52"
+  },
+  "id": "gh:vincentdoerig/latex-css",
+  "kind": "repo",
+  "url": "https://github.com/vincentdoerig/latex-css",
+  "title": "latex-css",
+  "why": "Drop in one stylesheet and plain HTML pages read like a LaTeX paper, with theorem and proof classes and sidenotes.",
+  "keys": {
+    "races": [
+      "web/css",
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "web/css",
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vincentdoerig/latex-css",
+    "sha": "1fbe1d74f8ca33595a1d50c677810033da40aa52",
+    "file_url": "https://cdn.jsdelivr.net/gh/vincentdoerig/latex-css@1fbe1d74f8ca33595a1d50c677810033da40aa52/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "MIT",
+    "stars": 3482,
+    "size_mb": 4,
+    "created_at": "2020-05-18T11:30:55Z",
+    "last_commit_at": "2026-05-13T06:46:07Z",
+    "releases": 17,
+    "tags": 19,
+    "archived": false,
+    "release": {
+      "tag": "v1.14.0",
+      "at": "2026-05-13T06:49:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1fbe1d74f8ca33595a1d50c677810033da40aa52",
+    "v": 3
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "gh:couleeapps/bn_inspectors",
+  "kind": "repo",
+  "url": "https://github.com/CouleeApps/bn_inspectors",
+  "title": "bn_inspectors",
+  "why": "Binary Ninja sidebars that show IL expression details, register values and why types do or don't parse in a function.",
+  "keys": {
+    "races": [
+      "cyber/reversing"
+    ],
+    "lanes": [
+      "cyber/reversing"
+    ],
+    "capabilities": [
+      "cyber/reversing/disassemblers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CouleeApps/bn_inspectors",
+    "sha": "3d1a34efa618589b5e2205fa6c00fc89c9f20f21",
+    "file_url": "https://cdn.jsdelivr.net/gh/CouleeApps/bn_inspectors@3d1a34efa618589b5e2205fa6c00fc89c9f20f21/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 10,
+    "size_mb": 2,
+    "created_at": "2024-04-10T20:23:31Z",
+    "last_commit_at": "2026-08-03T21:02:35Z",
+    "releases": 6,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "0.1.7",
+      "at": "2026-08-03T21:08:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

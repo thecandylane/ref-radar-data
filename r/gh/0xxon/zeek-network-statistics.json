@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:159a25b839f4109c145a624ac4be3b7a4a667f61"
+  },
+  "id": "gh:0xxon/zeek-network-statistics",
+  "kind": "repo",
+  "url": "https://github.com/0xxon/zeek-network-statistics",
+  "title": "zeek-network-statistics",
+  "why": "Gives a Zeek setup top-100 lists of DNS queries, HTTP hosts and ports, logged over 15 minutes, 1 hour and 1 day windows.",
+  "keys": {
+    "races": [
+      "infra/observability",
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/observability",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/0xxon/zeek-network-statistics",
+    "sha": "159a25b839f4109c145a624ac4be3b7a4a667f61",
+    "file_url": "https://cdn.jsdelivr.net/gh/0xxon/zeek-network-statistics@159a25b839f4109c145a624ac4be3b7a4a667f61/{path}"
+  },
+  "facts": {
+    "lang": "Zeek",
+    "license": "NOASSERTION",
+    "stars": 4,
+    "size_mb": 0,
+    "created_at": "2021-07-05T13:45:40Z",
+    "last_commit_at": "2022-05-03T15:18:18Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "159a25b839f4109c145a624ac4be3b7a4a667f61",
+    "v": 3
+  }
+}

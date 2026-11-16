@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:36d927291f1d2d8edbb41d0bd1ef0ff22de4fcfe"
+  },
+  "id": "gh:ropensci/rdataretriever",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/rdataretriever",
+  "title": "rdataretriever",
+  "why": "Pulls cleaned public datasets into R with a single line of code and stores them in SQLite, PostgreSQL or CSV files.",
+  "keys": {
+    "races": [
+      "data/datasets",
+      "data/databases"
+    ],
+    "lanes": [
+      "data/datasets",
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/rdataretriever",
+    "sha": "36d927291f1d2d8edbb41d0bd1ef0ff22de4fcfe",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/rdataretriever@36d927291f1d2d8edbb41d0bd1ef0ff22de4fcfe/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 47,
+    "size_mb": 0,
+    "created_at": "2014-03-26T21:47:02Z",
+    "last_commit_at": "2024-07-25T07:05:29Z",
+    "releases": 8,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v.3.1.1",
+      "at": "2024-07-25T21:41:50.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "36d927291f1d2d8edbb41d0bd1ef0ff22de4fcfe",
+    "v": 3
+  }
+}

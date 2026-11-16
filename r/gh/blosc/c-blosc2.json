@@ -1,0 +1,62 @@
+{
+  "id": "gh:blosc/c-blosc2",
+  "kind": "repo",
+  "url": "https://github.com/Blosc/c-blosc2",
+  "title": "c-blosc2",
+  "why": "Compresses numerical arrays and tensors in C, letting you trade compression speed against ratio per use case via codecs and filters.",
+  "keys": {
+    "races": [
+      "data/serialization",
+      "data/storage"
+    ],
+    "lanes": [
+      "data/serialization",
+      "data/storage"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Blosc/c-blosc2",
+    "sha": "f1256e391fc1649a6d77e337370c9583c603a670",
+    "file_url": "https://cdn.jsdelivr.net/gh/Blosc/c-blosc2@f1256e391fc1649a6d77e337370c9583c603a670/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 590,
+    "size_mb": 28,
+    "created_at": "2015-08-07T10:51:35Z",
+    "last_commit_at": "2026-11-16T06:44:08Z",
+    "releases": 92,
+    "tags": 99,
+    "archived": false,
+    "release": {
+      "tag": "v3.6.2",
+      "at": "2026-11-12T12:50:12.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f1256e391fc1649a6d77e337370c9583c603a670",
+    "v": 3
+  }
+}

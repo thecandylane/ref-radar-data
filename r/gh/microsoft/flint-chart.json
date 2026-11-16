@@ -1,0 +1,75 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a794557384adcc3293a77043f6b9aff1c33d152c"
+  },
+  "id": "gh:microsoft/flint-chart",
+  "kind": "repo",
+  "url": "https://github.com/microsoft/flint-chart",
+  "title": "flint-chart",
+  "why": "Lets an agent answer with a chart in the chat, from simple human-editable specs that compile to Vega-Lite, ECharts, Chart.js, Plotly or Excel.",
+  "keys": {
+    "races": [
+      "data/analytics",
+      "agents/tools",
+      "web/ui-components",
+      "agents/skills"
+    ],
+    "lanes": [
+      "data/analytics",
+      "agents/tools",
+      "web/ui-components",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microsoft/flint-chart",
+    "sha": "a794557384adcc3293a77043f6b9aff1c33d152c",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/flint-chart@a794557384adcc3293a77043f6b9aff1c33d152c/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 4580,
+    "size_mb": 62,
+    "created_at": "2026-05-13T00:00:28Z",
+    "last_commit_at": "2026-11-16T07:05:36Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "1.1",
+      "at": "2026-11-16T07:08:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a794557384adcc3293a77043f6b9aff1c33d152c",
+    "v": 3
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f14dbaa4d2d1c378c97b01a3f02bf3b049649738"
+  },
+  "id": "gh:cameronbodine/pingmapper",
+  "kind": "repo",
+  "url": "https://github.com/CameronBodine/PINGMapper",
+  "title": "PINGMapper",
+  "why": "Turns recreation-grade side scan sonar recordings from Humminbird and Lowrance units into reproducible benthic habitat maps.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "ml/vision"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CameronBodine/PINGMapper",
+    "sha": "f14dbaa4d2d1c378c97b01a3f02bf3b049649738",
+    "file_url": "https://cdn.jsdelivr.net/gh/CameronBodine/PINGMapper@f14dbaa4d2d1c378c97b01a3f02bf3b049649738/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 101,
+    "size_mb": 429,
+    "created_at": "2021-02-16T14:57:19Z",
+    "last_commit_at": "2026-10-14T15:19:49Z",
+    "releases": 10,
+    "tags": 12,
+    "archived": false,
+    "release": {
+      "tag": "v4.2",
+      "at": "2025-02-24T09:27:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f14dbaa4d2d1c378c97b01a3f02bf3b049649738",
+    "v": 3
+  }
+}

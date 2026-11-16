@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0c42e0a817eb16e13b70c894a92a8abe1e09dc92"
+  },
+  "id": "gh:nu-radio/nuradiomc",
+  "kind": "repo",
+  "url": "https://github.com/nu-radio/NuRadioMC",
+  "title": "NuRadioMC",
+  "why": "Simulates radio emission from neutrino interactions through ice to the detector, with NuRadioReco handling trigger and event reconstruction.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nu-radio/NuRadioMC",
+    "sha": "0c42e0a817eb16e13b70c894a92a8abe1e09dc92",
+    "file_url": "https://cdn.jsdelivr.net/gh/nu-radio/NuRadioMC@0c42e0a817eb16e13b70c894a92a8abe1e09dc92/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 46,
+    "size_mb": 589,
+    "created_at": "2018-01-27T09:47:39Z",
+    "last_commit_at": "2026-11-13T11:09:52Z",
+    "releases": 16,
+    "tags": 33,
+    "archived": false,
+    "release": {
+      "tag": "v3.1.0",
+      "at": "2026-01-20T10:07:27.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0c42e0a817eb16e13b70c894a92a8abe1e09dc92",
+    "v": 3
+  }
+}

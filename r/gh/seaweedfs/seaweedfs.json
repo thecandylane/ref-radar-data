@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:317d9073345118f5d711d1fd6008b97e688dcffa"
+  },
   "id": "gh:seaweedfs/seaweedfs",
   "kind": "repo",
   "url": "https://github.com/seaweedfs/seaweedfs",
@@ -34,16 +37,16 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 36072,
-    "size_mb": 248,
+    "stars": 36088,
+    "size_mb": 247,
     "created_at": "2014-07-14T16:41:37Z",
-    "last_commit_at": "2026-11-15T03:34:43Z",
-    "releases": 327,
-    "tags": 366,
+    "last_commit_at": "2026-11-16T06:49:39Z",
+    "releases": 328,
+    "tags": 367,
     "archived": false,
     "release": {
-      "tag": "4.53",
-      "at": "2026-11-08T18:10:39.000Z"
+      "tag": "4.54",
+      "at": "2026-11-16T05:31:48.000Z"
     }
   },
   "reuse": "copy",
@@ -54,7 +57,7 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 114,
+    "star_delta_7d": 116,
     "votes": {},
     "ranks": {}
   },

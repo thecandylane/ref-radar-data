@@ -1,0 +1,61 @@
+{
+  "id": "gh:apache/calcite-avatica",
+  "kind": "repo",
+  "url": "https://github.com/apache/calcite-avatica",
+  "title": "calcite-avatica",
+  "why": "Java sub-project of Apache Calcite where a driver author starts, and its history page lists each release.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/calcite-avatica",
+    "sha": "22379c3b478d84b27f2019cad3ffb4d63d82ef0a",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/calcite-avatica@22379c3b478d84b27f2019cad3ffb4d63d82ef0a/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 272,
+    "size_mb": 33,
+    "created_at": "2017-03-22T07:00:06Z",
+    "last_commit_at": "2026-11-13T23:21:55Z",
+    "releases": 0,
+    "tags": 92,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "22379c3b478d84b27f2019cad3ffb4d63d82ef0a",
+    "v": 3
+  }
+}

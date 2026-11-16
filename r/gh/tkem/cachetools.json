@@ -1,0 +1,61 @@
+{
+  "id": "gh:tkem/cachetools",
+  "kind": "repo",
+  "url": "https://github.com/tkem/cachetools",
+  "title": "cachetools",
+  "why": "Gives Python functions memoizing caches such as LRUCache and TTLCache, with a @cached decorator for repeated calls.",
+  "keys": {
+    "races": [
+      "practice/performance"
+    ],
+    "lanes": [
+      "practice/performance"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tkem/cachetools",
+    "sha": "1ce79efa552d1bdda70d144d401ef9105d999184",
+    "file_url": "https://cdn.jsdelivr.net/gh/tkem/cachetools@1ce79efa552d1bdda70d144d401ef9105d999184/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 2795,
+    "size_mb": 1,
+    "created_at": "2014-03-22T10:15:14Z",
+    "last_commit_at": "2026-11-15T18:47:49Z",
+    "releases": 0,
+    "tags": 88,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1ce79efa552d1bdda70d144d401ef9105d999184",
+    "v": 3
+  }
+}

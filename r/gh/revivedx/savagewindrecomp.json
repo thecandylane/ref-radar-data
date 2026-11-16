@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bf6146c14c37fee8781a601e5a544b93dff6d75e"
+  },
+  "id": "gh:revivedx/savagewindrecomp",
+  "kind": "repo",
+  "url": "https://github.com/Revivedx/SavageWindRecomp",
+  "title": "SavageWindRecomp",
+  "why": "Native Windows and Linux port of Breath of the Wild v1.9.0 built by static recompilation, needing your own console dump.",
+  "keys": {
+    "races": [
+      "games/engines",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "games/engines",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Revivedx/SavageWindRecomp",
+    "sha": "bf6146c14c37fee8781a601e5a544b93dff6d75e",
+    "file_url": "https://cdn.jsdelivr.net/gh/Revivedx/SavageWindRecomp@bf6146c14c37fee8781a601e5a544b93dff6d75e/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 4577,
+    "size_mb": 14,
+    "created_at": "2026-10-16T17:34:55Z",
+    "last_commit_at": "2026-11-16T00:55:30Z",
+    "releases": 11,
+    "tags": 11,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "bf6146c14c37fee8781a601e5a544b93dff6d75e",
+    "v": 3
+  }
+}

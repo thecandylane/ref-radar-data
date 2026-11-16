@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9d5b56e9016b2b05bae3639b3ef7dba15ef934ae"
-  },
   "id": "gh:ansible/molecule",
   "kind": "repo",
   "url": "https://github.com/ansible/molecule",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ansible/molecule",
-    "sha": "9d5b56e9016b2b05bae3639b3ef7dba15ef934ae",
-    "file_url": "https://cdn.jsdelivr.net/gh/ansible/molecule@9d5b56e9016b2b05bae3639b3ef7dba15ef934ae/{path}"
+    "sha": "5430d28a50a91af39b761ebcb05bdc40a218eb08",
+    "file_url": "https://cdn.jsdelivr.net/gh/ansible/molecule@5430d28a50a91af39b761ebcb05bdc40a218eb08/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -61,7 +58,10 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "9d5b56e9016b2b05bae3639b3ef7dba15ef934ae",
+    "sha": "5430d28a50a91af39b761ebcb05bdc40a218eb08",
     "v": 3
-  }
+  },
+  "pins_before": [
+    "9d5b56e9016b2b05bae3639b3ef7dba15ef934ae"
+  ]
 }

@@ -1,0 +1,76 @@
+{
+  "id": "gh:itsryanarmani/benchmark-accessibility-fix",
+  "kind": "repo",
+  "url": "https://github.com/itsryanarmani/benchmark-accessibility-fix",
+  "title": "benchmark-accessibility-fix",
+  "why": "Scores whether a model repairs broken HTML pages, with grading that penalizes deleted or hidden content rather than trusting the model.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "design/accessibility",
+      "agents/tools"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "design/accessibility",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/itsryanarmani/benchmark-accessibility-fix",
+    "sha": "8f0f3699617def996396d36a77d19ea1efd21843",
+    "file_url": "https://cdn.jsdelivr.net/gh/itsryanarmani/benchmark-accessibility-fix@8f0f3699617def996396d36a77d19ea1efd21843/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-10-16T01:31:09Z",
+    "last_commit_at": "2026-11-07T20:49:25Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.0",
+      "at": "2026-10-16T16:17:49.000Z"
+    },
+    "doi": "10.5281/zenodo.23422402",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-16"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8f0f3699617def996396d36a77d19ea1efd21843",
+    "v": 3
+  }
+}

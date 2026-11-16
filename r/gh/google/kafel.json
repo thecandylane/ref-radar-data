@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:df38168919485d6dbc51cf69f440f08ef72d7fc8"
+  },
+  "id": "gh:google/kafel",
+  "kind": "repo",
+  "url": "https://github.com/google/kafel",
+  "title": "kafel",
+  "why": "Policy language that compiles syscall rules into BPF code for seccomp-filter, with error messages when compilation fails.",
+  "keys": {
+    "races": [
+      "infra/isolation",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "infra/isolation",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google/kafel",
+    "sha": "df38168919485d6dbc51cf69f440f08ef72d7fc8",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/kafel@df38168919485d6dbc51cf69f440f08ef72d7fc8/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "Apache-2.0",
+    "stars": 375,
+    "size_mb": 0,
+    "created_at": "2016-09-20T08:14:32Z",
+    "last_commit_at": "2026-11-10T09:34:32Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "20231004",
+      "at": "2023-10-04T13:01:38.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "df38168919485d6dbc51cf69f440f08ef72d7fc8",
+    "v": 3
+  }
+}

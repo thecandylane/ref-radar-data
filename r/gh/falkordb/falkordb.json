@@ -1,0 +1,71 @@
+{
+  "id": "gh:falkordb/falkordb",
+  "kind": "repo",
+  "url": "https://github.com/FalkorDB/FalkorDB",
+  "title": "FalkorDB",
+  "why": "Stores graph adjacency as sparse matrices and runs queries as linear algebra, with OpenCypher support for LLM knowledge graphs.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "llm-infra/rag",
+      "agents/memory"
+    ],
+    "lanes": [
+      "data/databases",
+      "llm-infra/rag",
+      "agents/memory"
+    ],
+    "capabilities": [
+      "llm-infra/rag/knowledge-platforms",
+      "agents/memory/long-term-memory"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/FalkorDB/FalkorDB",
+    "sha": "2191b6e84c8c97bda2948b59ca9ab63bb60442fe",
+    "file_url": "https://cdn.jsdelivr.net/gh/FalkorDB/FalkorDB@2191b6e84c8c97bda2948b59ca9ab63bb60442fe/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "NOASSERTION",
+    "stars": 10507,
+    "size_mb": 146,
+    "created_at": "2023-07-20T10:47:51Z",
+    "last_commit_at": "2026-11-16T09:09:44Z",
+    "releases": 94,
+    "tags": 251,
+    "archived": false,
+    "release": {
+      "tag": "v6.0.4",
+      "at": "2026-11-05T17:39:12.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2191b6e84c8c97bda2948b59ca9ab63bb60442fe",
+    "v": 3
+  }
+}

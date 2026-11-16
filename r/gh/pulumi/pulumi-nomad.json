@@ -1,0 +1,66 @@
+{
+  "id": "gh:pulumi/pulumi-nomad",
+  "kind": "repo",
+  "url": "https://github.com/pulumi/pulumi-nomad",
+  "title": "pulumi-nomad",
+  "why": "Manage Nomad resources from Pulumi programs in Node.js, Python, Go or .NET, configured through the Nomad address and tokens.",
+  "keys": {
+    "races": [
+      "infra/iac",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "infra/iac",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "sdk",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pulumi/pulumi-nomad",
+    "sha": "e19ff2a79298ac692fea5aacd2b6471965441ecd",
+    "file_url": "https://cdn.jsdelivr.net/gh/pulumi/pulumi-nomad@e19ff2a79298ac692fea5aacd2b6471965441ecd/{path}"
+  },
+  "facts": {
+    "lang": "Makefile",
+    "license": "Apache-2.0",
+    "stars": 15,
+    "size_mb": 8,
+    "created_at": "2021-06-11T17:38:23Z",
+    "last_commit_at": "2026-11-13T06:39:36Z",
+    "releases": 28,
+    "tags": 58,
+    "archived": false,
+    "release": {
+      "tag": "v2.6.2",
+      "at": "2026-10-27T18:58:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e19ff2a79298ac692fea5aacd2b6471965441ecd",
+    "v": 3
+  }
+}
