@@ -64,10 +64,8 @@
   "risk": {
     "level": "caution",
     "signals": [
-      "contains raw shellcode bytes",
-      "offensive or proof-of-concept code",
-      "a YARA rule for offensive tools matched"
+      "contains raw shellcode bytes"
     ],
-    "scanned_at": "2026-11-03T20:24:46.062Z"
+    "scanned_at": "2026-11-17T10:23:33.069Z"
   }
 }

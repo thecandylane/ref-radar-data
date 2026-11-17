@@ -1,7 +1,5 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:385df886e6670d73b0eff32c51387546d8d7c610"
-  },
+  "access": "none",
   "id": "gh:mr-xn/redteam_blueteam_hw",
   "kind": "repo",
   "url": "https://github.com/Mr-xn/RedTeam_BlueTeam_HW",
@@ -18,18 +16,7 @@
     ],
     "capabilities": []
   },
-  "read": [
-    {
-      "locator": "README.md",
-      "kind": "path"
-    }
-  ],
-  "fetch": {
-    "type": "git-sparse",
-    "repo": "https://github.com/Mr-xn/RedTeam_BlueTeam_HW",
-    "sha": "385df886e6670d73b0eff32c51387546d8d7c610",
-    "file_url": "https://raw.githubusercontent.com/Mr-xn/RedTeam_BlueTeam_HW/385df886e6670d73b0eff32c51387546d8d7c610/{path}"
-  },
+  "read": [],
   "facts": {
     "lang": "Java",
     "license": "MIT",
@@ -42,7 +29,7 @@
     "archived": false,
     "release": null
   },
-  "reuse": "copy",
+  "reuse": null,
   "maturity": "unreleased",
   "status": null,
   "stats": {
@@ -54,9 +41,5 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated",
-  "pack": {
-    "sha": "385df886e6670d73b0eff32c51387546d8d7c610",
-    "v": 3
-  }
+  "tier": "curated"
 }
