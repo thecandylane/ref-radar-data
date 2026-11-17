@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:981f02c84a88e8ff73df432db1d11edfbb52f706"
+  },
+  "id": "gh:databio/genomicdistributions",
+  "kind": "repo",
+  "url": "https://github.com/databio/GenomicDistributions",
+  "title": "GenomicDistributions",
+  "why": "Calculates and plots statistics for genomic ranges, such as a BED file, to explore, annotate and compare the set.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/databio/GenomicDistributions",
+    "sha": "981f02c84a88e8ff73df432db1d11edfbb52f706",
+    "file_url": "https://cdn.jsdelivr.net/gh/databio/GenomicDistributions@981f02c84a88e8ff73df432db1d11edfbb52f706/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 27,
+    "size_mb": 10,
+    "created_at": "2018-02-05T22:54:09Z",
+    "last_commit_at": "2025-04-23T20:47:28Z",
+    "releases": 36,
+    "tags": 42,
+    "archived": false,
+    "release": {
+      "tag": "v1.17.1",
+      "at": "2025-04-23T20:50:06.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "981f02c84a88e8ff73df432db1d11edfbb52f706",
+    "v": 3
+  }
+}

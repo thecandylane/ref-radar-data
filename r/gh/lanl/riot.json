@@ -1,0 +1,66 @@
+{
+  "id": "gh:lanl/riot",
+  "kind": "repo",
+  "url": "https://github.com/lanl/riot",
+  "title": "lanl/riot",
+  "why": "Simulates hydrodynamics and radiation transport with block-structured mesh refinement, running on CPU and GPU architectures.",
+  "keys": {
+    "races": [
+      "engineering/simulation",
+      "space/astronomy"
+    ],
+    "lanes": [
+      "engineering/simulation",
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lanl/riot",
+    "sha": "c81fc4835edcbf9fa686e5ae3d6175250bd742d7",
+    "file_url": "https://cdn.jsdelivr.net/gh/lanl/riot@c81fc4835edcbf9fa686e5ae3d6175250bd742d7/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "BSD-3-Clause",
+    "stars": 30,
+    "size_mb": 12,
+    "created_at": "2026-08-19T18:14:02Z",
+    "last_commit_at": "2026-11-16T22:51:12Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "regression-gold-20260830",
+      "at": "2026-08-30T19:32:50.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c81fc4835edcbf9fa686e5ae3d6175250bd742d7",
+    "v": 3
+  }
+}

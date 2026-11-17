@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:358f810a7cf018c75066862174b0efef38e14165"
+  },
+  "id": "gh:ropensci/rrricanesdata",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/rrricanesdata",
+  "title": "rrricanesdata",
+  "why": "Holds every north Atlantic and northeast Pacific cyclone product since 1998 as R datasets, refreshed monthly for analysis.",
+  "keys": {
+    "races": [
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/rrricanesdata",
+    "sha": "358f810a7cf018c75066862174b0efef38e14165",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/rrricanesdata@358f810a7cf018c75066862174b0efef38e14165/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "CC0-1.0",
+    "stars": 3,
+    "size_mb": 151,
+    "created_at": "2017-05-27T19:25:36Z",
+    "last_commit_at": "2019-12-09T19:22:41Z",
+    "releases": 16,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.1",
+      "at": "2019-07-01T20:35:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "358f810a7cf018c75066862174b0efef38e14165",
+    "v": 3
+  }
+}

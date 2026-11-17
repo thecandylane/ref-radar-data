@@ -1,0 +1,63 @@
+{
+  "id": "gh:fermi-ad/flutter-template",
+  "kind": "repo",
+  "url": "https://github.com/fermi-ad/flutter-template",
+  "title": "flutter-template",
+  "why": "Start a Flutter web app from a template, with a tool that renames the project across pubspec, manifest and index.html files.",
+  "keys": {
+    "races": [
+      "mobile/cross-platform",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "mobile/cross-platform",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fermi-ad/flutter-template",
+    "sha": "0d4203a5eb4779b5be98f724c6d046f6d349fb16",
+    "file_url": "https://cdn.jsdelivr.net/gh/fermi-ad/flutter-template@0d4203a5eb4779b5be98f724c6d046f6d349fb16/{path}"
+  },
+  "facts": {
+    "lang": "Dart",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2024-06-24T21:04:57Z",
+    "last_commit_at": "2026-10-27T19:53:44Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0d4203a5eb4779b5be98f724c6d046f6d349fb16",
+    "v": 3
+  }
+}

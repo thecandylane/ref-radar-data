@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:66d4cff2619eb73bae075fd7661095e4d1e2b9e9"
+  },
+  "id": "gh:lcolladotor/biocthis",
+  "kind": "repo",
+  "url": "https://github.com/lcolladotor/biocthis",
+  "title": "biocthis",
+  "why": "Creates Bioconductor-friendly templates and a GitHub Actions workflow on top of usethis for new R packages.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lcolladotor/biocthis",
+    "sha": "66d4cff2619eb73bae075fd7661095e4d1e2b9e9",
+    "file_url": "https://cdn.jsdelivr.net/gh/lcolladotor/biocthis@66d4cff2619eb73bae075fd7661095e4d1e2b9e9/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 56,
+    "size_mb": 1,
+    "created_at": "2020-04-29T13:58:55Z",
+    "last_commit_at": "2026-03-31T17:57:03Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "66d4cff2619eb73bae075fd7661095e4d1e2b9e9",
+    "v": 3
+  }
+}

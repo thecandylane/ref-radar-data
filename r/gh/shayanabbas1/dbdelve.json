@@ -1,0 +1,66 @@
+{
+  "id": "gh:shayanabbas1/dbdelve",
+  "kind": "repo",
+  "url": "https://github.com/ShayanAbbas1/dbdelve",
+  "title": "dbdelve",
+  "why": "Native Rust client with GPUI that shows the UPDATE for a changed cell before it runs, across Postgres, MySQL and SQLite.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "data/databases",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ShayanAbbas1/dbdelve",
+    "sha": "64f250252e3dce28bab627232b4bb2b805cd7548",
+    "file_url": "https://cdn.jsdelivr.net/gh/ShayanAbbas1/dbdelve@64f250252e3dce28bab627232b4bb2b805cd7548/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "GPL-3.0",
+    "stars": 1530,
+    "size_mb": 32,
+    "created_at": "2026-08-17T14:41:16Z",
+    "last_commit_at": "2026-11-17T06:46:51Z",
+    "releases": 37,
+    "tags": 37,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.3",
+      "at": "2026-11-16T10:36:18.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "64f250252e3dce28bab627232b4bb2b805cd7548",
+    "v": 3
+  }
+}

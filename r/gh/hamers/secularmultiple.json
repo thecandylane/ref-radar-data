@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:26fcdad7326f090b1c3206de0a866d859a80d1ea"
+  },
+  "id": "gh:hamers/secularmultiple",
+  "kind": "repo",
+  "url": "https://github.com/hamers/secularmultiple",
+  "title": "secularmultiple",
+  "why": "Computes orbit-averaged gravitational dynamics of nested binaries, with flybys and supernovae in a secular model.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hamers/secularmultiple",
+    "sha": "26fcdad7326f090b1c3206de0a866d859a80d1ea",
+    "file_url": "https://cdn.jsdelivr.net/gh/hamers/secularmultiple@26fcdad7326f090b1c3206de0a866d859a80d1ea/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-3.0",
+    "stars": 12,
+    "size_mb": 1,
+    "created_at": "2019-06-20T20:20:36Z",
+    "last_commit_at": "2020-10-28T14:37:46Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "26fcdad7326f090b1c3206de0a866d859a80d1ea",
+    "v": 3
+  }
+}

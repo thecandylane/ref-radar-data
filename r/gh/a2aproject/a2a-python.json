@@ -30,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/a2aproject/a2a-python",
-    "sha": "caab6a252958b2218ea61c0cae772f0a5c159e2a",
-    "file_url": "https://cdn.jsdelivr.net/gh/a2aproject/a2a-python@caab6a252958b2218ea61c0cae772f0a5c159e2a/{path}"
+    "sha": "c16cab1ca22a5fac8288c1351610dfc85a4e072c",
+    "file_url": "https://cdn.jsdelivr.net/gh/a2aproject/a2a-python@c16cab1ca22a5fac8288c1351610dfc85a4e072c/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 2246,
+    "stars": 2247,
     "size_mb": 7,
     "created_at": "2025-05-09T05:42:15Z",
-    "last_commit_at": "2026-11-14T14:33:33Z",
+    "last_commit_at": "2026-11-16T17:56:11Z",
     "releases": 65,
     "tags": 66,
     "archived": false,
@@ -56,16 +56,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 12,
+    "star_delta_7d": 8,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "caab6a252958b2218ea61c0cae772f0a5c159e2a",
+    "sha": "c16cab1ca22a5fac8288c1351610dfc85a4e072c",
     "v": 3
   },
   "pins_before": [
+    "caab6a252958b2218ea61c0cae772f0a5c159e2a",
     "09c93473a77d0a18be8429ad71958211b736a8c0",
     "f451ed74678cf808544333a8f1dfe66289dfd12b"
   ]

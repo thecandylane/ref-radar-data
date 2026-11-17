@@ -1,0 +1,73 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fbdb27ed5f4ed2b3ae33331ebed5a5033f010dd9"
+  },
+  "id": "gh:rocicorp/mono",
+  "kind": "repo",
+  "url": "https://github.com/rocicorp/mono",
+  "title": "mono",
+  "why": "Monorepo holding Zero and Replicache client and server code, plus the IVM query engine behind its instant queries.",
+  "keys": {
+    "races": [
+      "mobile/app-backends",
+      "data/databases"
+    ],
+    "lanes": [
+      "mobile/app-backends",
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rocicorp/mono",
+    "sha": "fbdb27ed5f4ed2b3ae33331ebed5a5033f010dd9",
+    "file_url": "https://cdn.jsdelivr.net/gh/rocicorp/mono@fbdb27ed5f4ed2b3ae33331ebed5a5033f010dd9/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 3445,
+    "size_mb": 460,
+    "created_at": "2023-02-09T04:42:21Z",
+    "last_commit_at": "2026-11-17T08:27:42Z",
+    "releases": 2,
+    "tags": 1019,
+    "archived": false,
+    "release": {
+      "tag": "v12.2.2-source",
+      "at": "2023-12-08T20:12:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fbdb27ed5f4ed2b3ae33331ebed5a5033f010dd9",
+    "v": 3
+  }
+}

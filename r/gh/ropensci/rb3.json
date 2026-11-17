@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4b6f9017ec802e978085291d46cce475e78e5668"
+  },
+  "id": "gh:ropensci/rb3",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/rb3",
+  "title": "rb3",
+  "why": "Downloads and parses market and exchange data from B3 in Brazil for use in R, with b3-docs and examples folders.",
+  "keys": {
+    "races": [
+      "finance/markets"
+    ],
+    "lanes": [
+      "finance/markets"
+    ],
+    "capabilities": [
+      "finance/markets/market-data"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/rb3",
+    "sha": "4b6f9017ec802e978085291d46cce475e78e5668",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/rb3@4b6f9017ec802e978085291d46cce475e78e5668/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 109,
+    "size_mb": 61,
+    "created_at": "2014-12-15T11:04:39Z",
+    "last_commit_at": "2026-11-15T22:35:37Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v0.0.12",
+      "at": "2025-04-13T13:08:20.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4b6f9017ec802e978085291d46cce475e78e5668",
+    "v": 3
+  }
+}

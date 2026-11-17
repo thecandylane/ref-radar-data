@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:69023bdf829559387fb0039f8cb01ef9f1f6c0d4"
+  },
+  "id": "gh:oliverphilcox/hades",
+  "kind": "repo",
+  "url": "https://github.com/oliverphilcox/HADES",
+  "title": "HADES",
+  "why": "Detects dust through its anisotropy in simulated CMB B-mode maps, with null tests and a basic dedusting step.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/oliverphilcox/HADES",
+    "sha": "69023bdf829559387fb0039f8cb01ef9f1f6c0d4",
+    "file_url": "https://cdn.jsdelivr.net/gh/oliverphilcox/HADES@69023bdf829559387fb0039f8cb01ef9f1f6c0d4/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 7,
+    "created_at": "2017-11-02T18:30:24Z",
+    "last_commit_at": "2018-09-12T14:10:17Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "69023bdf829559387fb0039f8cb01ef9f1f6c0d4",
+    "v": 3
+  }
+}

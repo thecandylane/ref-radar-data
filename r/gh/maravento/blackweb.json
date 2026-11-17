@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:30a9750287df56018567c59f00e0e5a1a673a2f9"
+  },
   "id": "gh:maravento/blackweb",
   "kind": "repo",
   "url": "https://github.com/maravento/blackweb",
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "Shell",
     "license": "GPL-3.0",
-    "stars": 401,
+    "stars": 402,
     "size_mb": 1003,
     "created_at": "2016-06-14T17:35:15Z",
-    "last_commit_at": "2026-11-15T15:36:34Z",
+    "last_commit_at": "2026-11-17T00:50:22Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -57,6 +60,5 @@
   "pack": {
     "sha": "30a9750287df56018567c59f00e0e5a1a673a2f9",
     "v": 3
-  },
-  "scan_partial": true
+  }
 }

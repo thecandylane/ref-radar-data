@@ -1,0 +1,73 @@
+{
+  "id": "gh:yusufkaraaslan/skill_seekers",
+  "kind": "repo",
+  "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+  "title": "Skill_Seekers",
+  "why": "Turns docs sites, GitHub repos and PDFs into Claude skills, with conflict detection across sources before packaging.",
+  "keys": {
+    "races": [
+      "agents/skills",
+      "dev-tools/docs",
+      "agents/tools",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "agents/skills",
+      "dev-tools/docs",
+      "agents/tools",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers",
+      "llm-infra/rag/knowledge-platforms"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/yusufkaraaslan/Skill_Seekers",
+    "sha": "f72135618abb026a81d387d9214a70d7bbe1f2eb",
+    "file_url": "https://cdn.jsdelivr.net/gh/yusufkaraaslan/Skill_Seekers@f72135618abb026a81d387d9214a70d7bbe1f2eb/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 15326,
+    "size_mb": 26,
+    "created_at": "2025-10-17T14:43:48Z",
+    "last_commit_at": "2026-11-16T12:58:52Z",
+    "releases": 35,
+    "tags": 37,
+    "archived": false,
+    "release": {
+      "tag": "v3.10.0",
+      "at": "2026-09-30T18:53:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f72135618abb026a81d387d9214a70d7bbe1f2eb",
+    "v": 3
+  }
+}

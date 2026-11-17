@@ -1,0 +1,47 @@
+{
+  "archive": {
+    "page": "https://web.archive.org/web/20261114031015/https://arxiv.org/abs/2605.09304"
+  },
+  "id": "arxiv:2605.09304",
+  "kind": "paper",
+  "url": "https://arxiv.org/abs/2605.09304",
+  "title": "Generating Complex Code Analyzers from Natural Language Questions",
+  "why": "Answers natural language questions about a codebase by generating CodeQL queries, with assistive witness queries that expose flawed ones.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "agents/code-intel"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "agents/code-intel"
+    ],
+    "capabilities": [
+      "cyber/appsec/static-analysis",
+      "agents/code-intel/code-search"
+    ]
+  },
+  "read": [
+    {
+      "locator": "Abstract",
+      "kind": "section"
+    }
+  ],
+  "fetch": {
+    "type": "http",
+    "url": "https://arxiv.org/abs/2605.09304"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "gh:kubernetes-sigs/bom",
+  "kind": "repo",
+  "url": "https://github.com/kubernetes-sigs/bom",
+  "title": "bom",
+  "why": "Generates SPDX 2.3 SBOMs from container images, directories and Go binaries, and can run offline from local data.",
+  "keys": {
+    "races": [
+      "cyber/supply-chain",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "cyber/supply-chain",
+      "infra/kubernetes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kubernetes-sigs/bom",
+    "sha": "2931f46922e79ae1506db7ef3e7cf8284f437e3b",
+    "file_url": "https://cdn.jsdelivr.net/gh/kubernetes-sigs/bom@2931f46922e79ae1506db7ef3e7cf8284f437e3b/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 479,
+    "size_mb": 34,
+    "created_at": "2021-11-19T13:06:36Z",
+    "last_commit_at": "2026-11-09T06:23:39Z",
+    "releases": 13,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "v0.8.0",
+      "at": "2026-09-22T07:41:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

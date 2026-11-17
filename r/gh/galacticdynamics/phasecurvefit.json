@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5277968b10d5564da37940c8a9664d78af3a0e26"
+  },
+  "id": "gh:galacticdynamics/phasecurvefit",
+  "kind": "repo",
+  "url": "https://github.com/GalacticDynamics/phasecurvefit",
+  "title": "phasecurvefit",
+  "why": "Orders samples scattered along a stellar stream by velocity and position, then fits a smooth track through them, in JAX with jit and grad support.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "ml/training"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/GalacticDynamics/phasecurvefit",
+    "sha": "5277968b10d5564da37940c8a9664d78af3a0e26",
+    "file_url": "https://cdn.jsdelivr.net/gh/GalacticDynamics/phasecurvefit@5277968b10d5564da37940c8a9664d78af3a0e26/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 6,
+    "size_mb": 38,
+    "created_at": "2026-01-14T19:28:51Z",
+    "last_commit_at": "2026-11-15T19:56:39Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.3",
+      "at": "2026-10-09T03:30:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5277968b10d5564da37940c8a9664d78af3a0e26",
+    "v": 3
+  }
+}

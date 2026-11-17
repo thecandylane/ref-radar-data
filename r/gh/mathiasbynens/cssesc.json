@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cb894eb42f27c8d3cd793f16afe35b3ab38000a1"
+  },
+  "id": "gh:mathiasbynens/cssesc",
+  "kind": "repo",
+  "url": "https://github.com/mathiasbynens/cssesc",
+  "title": "cssesc",
+  "why": "Escapes text for CSS strings or identifiers with the shortest valid ASCII-only sequences, in Node, the browser or a command-line binary.",
+  "keys": {
+    "races": [
+      "web/css"
+    ],
+    "lanes": [
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mathiasbynens/cssesc",
+    "sha": "cb894eb42f27c8d3cd793f16afe35b3ab38000a1",
+    "file_url": "https://cdn.jsdelivr.net/gh/mathiasbynens/cssesc@cb894eb42f27c8d3cd793f16afe35b3ab38000a1/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "MIT",
+    "stars": 176,
+    "size_mb": 0,
+    "created_at": "2013-08-09T13:22:22Z",
+    "last_commit_at": "2019-02-04T16:33:52Z",
+    "releases": 2,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2016-09-28T21:40:48.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "cb894eb42f27c8d3cd793f16afe35b3ab38000a1",
+    "v": 3
+  }
+}

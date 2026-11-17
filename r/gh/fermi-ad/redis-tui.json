@@ -1,0 +1,63 @@
+{
+  "id": "gh:fermi-ad/redis-tui",
+  "kind": "repo",
+  "url": "https://github.com/fermi-ad/redis-tui",
+  "title": "redis-tui",
+  "why": "Edits Redis keys from a terminal, with live plots and FFT traces of binary waveforms held in streams.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui",
+      "data/databases"
+    ],
+    "lanes": [
+      "desktop/terminal-ui",
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fermi-ad/redis-tui",
+    "sha": "424b0f05936eb3deb9457cc12ff1761c899b5c24",
+    "file_url": "https://cdn.jsdelivr.net/gh/fermi-ad/redis-tui@424b0f05936eb3deb9457cc12ff1761c899b5c24/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "BSD-3-Clause",
+    "stars": 0,
+    "size_mb": 1,
+    "created_at": "2026-03-17T16:44:31Z",
+    "last_commit_at": "2026-11-15T23:02:25Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "424b0f05936eb3deb9457cc12ff1761c899b5c24",
+    "v": 3
+  }
+}

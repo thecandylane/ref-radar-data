@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:254ce48660d1f0432a4e185951a5fe68b615e29a"
-  },
   "id": "gh:apache/lucene",
   "kind": "repo",
   "url": "https://github.com/apache/lucene",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/lucene",
-    "sha": "254ce48660d1f0432a4e185951a5fe68b615e29a",
-    "file_url": "https://cdn.jsdelivr.net/gh/apache/lucene@254ce48660d1f0432a4e185951a5fe68b615e29a/{path}"
+    "sha": "387b66358a981c17133247553c576b7f29c597ed",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/lucene@387b66358a981c17133247553c576b7f29c597ed/{path}"
   },
   "facts": {
     "lang": "Java",
@@ -34,7 +31,7 @@
     "stars": 3612,
     "size_mb": 530,
     "created_at": "2021-02-23T17:16:56Z",
-    "last_commit_at": "2026-11-16T07:16:15Z",
+    "last_commit_at": "2026-11-17T07:42:11Z",
     "releases": 30,
     "tags": 482,
     "archived": false,
@@ -57,7 +54,10 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "254ce48660d1f0432a4e185951a5fe68b615e29a",
+    "sha": "387b66358a981c17133247553c576b7f29c597ed",
     "v": 3
-  }
+  },
+  "pins_before": [
+    "254ce48660d1f0432a4e185951a5fe68b615e29a"
+  ]
 }

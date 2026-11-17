@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d6b0c82cd5c1bf27a0b74931d956becbdf4e038e"
+  },
+  "id": "gh:blevesearch/bleve",
+  "kind": "repo",
+  "url": "https://github.com/blevesearch/bleve",
+  "title": "bleve",
+  "why": "Go library for indexing text, numbers, geo shapes and vectors, with BM25 scoring and RRF or RSF fusion for hybrid queries.",
+  "keys": {
+    "races": [
+      "data/search",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "data/search",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "llm-infra/rag/vector-search"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/blevesearch/bleve",
+    "sha": "d6b0c82cd5c1bf27a0b74931d956becbdf4e038e",
+    "file_url": "https://cdn.jsdelivr.net/gh/blevesearch/bleve@d6b0c82cd5c1bf27a0b74931d956becbdf4e038e/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 11256,
+    "size_mb": 17,
+    "created_at": "2014-04-17T21:02:18Z",
+    "last_commit_at": "2026-11-04T10:41:18Z",
+    "releases": 56,
+    "tags": 66,
+    "archived": false,
+    "release": {
+      "tag": "v2.6.1",
+      "at": "2026-08-24T16:18:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d6b0c82cd5c1bf27a0b74931d956becbdf4e038e",
+    "v": 3
+  }
+}

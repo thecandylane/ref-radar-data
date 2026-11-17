@@ -1,0 +1,70 @@
+{
+  "id": "gh:poppingmoon/aria",
+  "kind": "repo",
+  "url": "https://github.com/poppingmoon/aria",
+  "title": "aria",
+  "why": "Misskey client written in Flutter that ships to Android, iOS, Windows, macOS and Linux from one codebase, forked from Miria.",
+  "keys": {
+    "races": [
+      "mobile/cross-platform",
+      "mobile/android",
+      "mobile/ios",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "mobile/cross-platform",
+      "mobile/android",
+      "mobile/ios",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/poppingmoon/aria",
+    "sha": "a3a9c2414831a5c59a2d3eaae1143ff949a0ed6c",
+    "file_url": "https://cdn.jsdelivr.net/gh/poppingmoon/aria@a3a9c2414831a5c59a2d3eaae1143ff949a0ed6c/{path}"
+  },
+  "facts": {
+    "lang": "Dart",
+    "license": "AGPL-3.0",
+    "stars": 355,
+    "size_mb": 161,
+    "created_at": "2024-03-30T07:46:38Z",
+    "last_commit_at": "2026-11-16T20:06:25Z",
+    "releases": 115,
+    "tags": 115,
+    "archived": false,
+    "release": {
+      "tag": "v1.5.17",
+      "at": "2026-11-16T20:37:11.000Z"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a3a9c2414831a5c59a2d3eaae1143ff949a0ed6c",
+    "v": 3
+  }
+}

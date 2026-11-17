@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:babe406023dff3c47f803ca7c701284fe60af93d"
+  },
+  "id": "gh:apache/activemq",
+  "kind": "repo",
+  "url": "https://github.com/apache/activemq",
+  "title": "activemq",
+  "why": "Java message broker speaking JMS, AMQP, MQTT, STOMP and OpenWire, with a KahaDB store and a web console.",
+  "keys": {
+    "races": [
+      "data/queues"
+    ],
+    "lanes": [
+      "data/queues"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/activemq",
+    "sha": "babe406023dff3c47f803ca7c701284fe60af93d",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/activemq@babe406023dff3c47f803ca7c701284fe60af93d/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 2460,
+    "size_mb": 68,
+    "created_at": "2009-05-21T01:33:45Z",
+    "last_commit_at": "2026-11-13T18:53:39Z",
+    "releases": 24,
+    "tags": 135,
+    "archived": false,
+    "release": {
+      "tag": "activemq-6.4.0",
+      "at": "2026-10-22T10:41:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "babe406023dff3c47f803ca7c701284fe60af93d",
+    "v": 3
+  }
+}

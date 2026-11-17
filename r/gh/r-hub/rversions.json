@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b25cf6b4b243903e2257926581afe2953234e489"
+  },
+  "id": "gh:r-hub/rversions",
+  "kind": "repo",
+  "url": "https://github.com/r-hub/rversions",
+  "title": "rversions",
+  "why": "Lists every R release with dates and nicknames, resolves release, oldrel and devel, and shows which builds exist per platform.",
+  "keys": {
+    "races": [
+      "languages/runtimes",
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "languages/runtimes",
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/r-hub/rversions",
+    "sha": "b25cf6b4b243903e2257926581afe2953234e489",
+    "file_url": "https://cdn.jsdelivr.net/gh/r-hub/rversions@b25cf6b4b243903e2257926581afe2953234e489/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 43,
+    "size_mb": 1,
+    "created_at": "2014-11-21T19:16:53Z",
+    "last_commit_at": "2025-10-09T15:15:57Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v3.0.0",
+      "at": "2025-10-09T15:15:48.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b25cf6b4b243903e2257926581afe2953234e489",
+    "v": 3
+  }
+}

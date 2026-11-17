@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:43ab94cac537d080aac7cb7628a435c02ee9e268"
+  },
+  "id": "gh:vlcn-io/cr-sqlite",
+  "kind": "repo",
+  "url": "https://github.com/vlcn-io/cr-sqlite",
+  "title": "cr-sqlite",
+  "why": "Lets several SQLite databases accept writes independently and merge them later with CRDTs, as a Rust extension.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vlcn-io/cr-sqlite",
+    "sha": "43ab94cac537d080aac7cb7628a435c02ee9e268",
+    "file_url": "https://cdn.jsdelivr.net/gh/vlcn-io/cr-sqlite@43ab94cac537d080aac7cb7628a435c02ee9e268/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 3832,
+    "size_mb": 42,
+    "created_at": "2022-07-24T01:15:54Z",
+    "last_commit_at": "2026-08-10T10:55:49Z",
+    "releases": 37,
+    "tags": 173,
+    "archived": false,
+    "release": {
+      "tag": "v0.16.3",
+      "at": "2024-01-17T17:42:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "43ab94cac537d080aac7cb7628a435c02ee9e268",
+    "v": 3
+  }
+}

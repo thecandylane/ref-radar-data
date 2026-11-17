@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:038565ad39cc9f0f7a13b5fca5a7655584ae4d35"
+  },
+  "id": "gh:r-spatial/leafgl",
+  "kind": "repo",
+  "url": "https://github.com/r-spatial/leafgl",
+  "title": "leafgl",
+  "why": "R package that draws millions of points and polygons on a leaflet map through WebGL, with Shiny output functions.",
+  "keys": {
+    "races": [
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/r-spatial/leafgl",
+    "sha": "038565ad39cc9f0f7a13b5fca5a7655584ae4d35",
+    "file_url": "https://cdn.jsdelivr.net/gh/r-spatial/leafgl@038565ad39cc9f0f7a13b5fca5a7655584ae4d35/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 288,
+    "size_mb": 17,
+    "created_at": "2018-09-23T10:58:11Z",
+    "last_commit_at": "2026-11-17T07:34:59Z",
+    "releases": 0,
+    "tags": 3,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "038565ad39cc9f0f7a13b5fca5a7655584ae4d35",
+    "v": 3
+  }
+}

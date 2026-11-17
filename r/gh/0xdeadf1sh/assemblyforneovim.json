@@ -1,0 +1,57 @@
+{
+  "id": "gh:0xdeadf1sh/assemblyforneovim",
+  "kind": "repo",
+  "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+  "title": "AssemblyForNeovim",
+  "why": "Shows the assembly for the function under the cursor in C, C++ or Rust inside a floating Neovim window, rerunnable at other -O levels.",
+  "keys": {
+    "races": [
+      "dev-tools/editors"
+    ],
+    "lanes": [
+      "dev-tools/editors"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+    "sha": "58a471ec97fb5987eca2b955fd2cba8693a414f6",
+    "file_url": "https://cdn.jsdelivr.net/gh/0xdeadf1sh/AssemblyForNeovim@58a471ec97fb5987eca2b955fd2cba8693a414f6/{path}"
+  },
+  "facts": {
+    "lang": "Lua",
+    "license": "Unlicense",
+    "stars": 225,
+    "size_mb": 0,
+    "created_at": "2026-10-09T11:29:28Z",
+    "last_commit_at": "2026-11-12T08:22:58Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "58a471ec97fb5987eca2b955fd2cba8693a414f6",
+    "v": 3
+  }
+}

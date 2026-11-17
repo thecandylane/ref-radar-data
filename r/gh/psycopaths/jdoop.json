@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:22a72ca394894229bb3590e62c9b737529e29115"
+  },
+  "id": "gh:psycopaths/jdoop",
+  "kind": "repo",
+  "url": "https://github.com/psycopaths/jdoop",
+  "title": "jdoop",
+  "why": "Generates JUnit tests for Java code by combining concolic execution with random testing, then reports JaCoCo coverage.",
+  "keys": {
+    "races": [
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/psycopaths/jdoop",
+    "sha": "22a72ca394894229bb3590e62c9b737529e29115",
+    "file_url": "https://cdn.jsdelivr.net/gh/psycopaths/jdoop@22a72ca394894229bb3590e62c9b737529e29115/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 24,
+    "size_mb": 40,
+    "created_at": "2015-11-11T16:37:59Z",
+    "last_commit_at": "2018-03-02T09:44:21Z",
+    "releases": 0,
+    "tags": 4,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "22a72ca394894229bb3590e62c9b737529e29115",
+    "v": 3
+  }
+}

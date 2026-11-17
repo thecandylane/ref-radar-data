@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:395c6e470b7515eef60deb631a36794351388edf"
+  },
+  "id": "gh:code-n-designmaster/goatpen",
+  "kind": "repo",
+  "url": "https://github.com/Code-n-DesignMaster/goatpen",
+  "title": "goatpen",
+  "why": "Slim PHP and Vue.js back a tool for managing product promotion campaigns, with Bootstrap for the interface.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "web/css"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Code-n-DesignMaster/goatpen",
+    "sha": "395c6e470b7515eef60deb631a36794351388edf",
+    "file_url": "https://cdn.jsdelivr.net/gh/Code-n-DesignMaster/goatpen@395c6e470b7515eef60deb631a36794351388edf/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 6,
+    "created_at": "2018-06-13T11:26:29Z",
+    "last_commit_at": "2018-06-13T11:29:33Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "395c6e470b7515eef60deb631a36794351388edf",
+    "v": 3
+  }
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:88a95fa93c58322393174f84543edc7a0a2ca44d"
+  },
   "id": "gh:mstrobel/procyon",
   "kind": "repo",
   "url": "https://github.com/mstrobel/procyon",
@@ -31,9 +34,9 @@
     "lang": "Java",
     "license": "NOASSERTION",
     "stars": 1227,
-    "size_mb": 33,
+    "size_mb": 31,
     "created_at": "2019-10-27T17:31:03Z",
-    "last_commit_at": "2022-02-21T19:19:57Z",
+    "last_commit_at": "2026-11-16T21:13:40Z",
     "releases": 2,
     "tags": 2,
     "archived": false,
@@ -43,7 +46,7 @@
     }
   },
   "reuse": "study",
-  "maturity": "quiet",
+  "maturity": "stable",
   "status": null,
   "stats": {
     "picks": {},
@@ -54,5 +57,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "88a95fa93c58322393174f84543edc7a0a2ca44d",
+    "v": 3
+  }
 }

@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ae302b97a8071460578d0383646cb589ef006b31"
+  },
+  "id": "gh:kestrelcomputer/kestrel2",
+  "kind": "repo",
+  "url": "https://github.com/KestrelComputer/Kestrel2",
+  "title": "Kestrel2",
+  "why": "Archive of build artifacts for the Kestrel-2 homebrew computer, with openly documented hardware from schematics to OS.",
+  "keys": {
+    "races": [
+      "engineering/hdl"
+    ],
+    "lanes": [
+      "engineering/hdl"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/KestrelComputer/Kestrel2",
+    "sha": "ae302b97a8071460578d0383646cb589ef006b31",
+    "file_url": "https://cdn.jsdelivr.net/gh/KestrelComputer/Kestrel2@ae302b97a8071460578d0383646cb589ef006b31/{path}"
+  },
+  "facts": {
+    "lang": "Verilog",
+    "license": "MPL-2.0",
+    "stars": 7,
+    "size_mb": 4,
+    "created_at": "2016-02-14T20:26:54Z",
+    "last_commit_at": "2016-02-14T06:59:34Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copyleft",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ae302b97a8071460578d0383646cb589ef006b31",
+    "v": 3
+  }
+}

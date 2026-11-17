@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:602b6c67dd40c759b1d78a98108c9cd9d86af86d"
+  },
+  "id": "gh:jakeown/astroclover",
+  "kind": "repo",
+  "url": "https://github.com/jakeown/astroclover",
+  "title": "astroclover",
+  "why": "Classifies pixels of a spectral data cube as noise, one-component or two-component emission, then runs a second network to predict velocities.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "ml/vision"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jakeown/astroclover",
+    "sha": "602b6c67dd40c759b1d78a98108c9cd9d86af86d",
+    "file_url": "https://cdn.jsdelivr.net/gh/jakeown/astroclover@602b6c67dd40c759b1d78a98108c9cd9d86af86d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 2,
+    "size_mb": 0,
+    "created_at": "2019-03-14T20:42:35Z",
+    "last_commit_at": "2019-09-25T23:11:39Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "602b6c67dd40c759b1d78a98108c9cd9d86af86d",
+    "v": 3
+  }
+}

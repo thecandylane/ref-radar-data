@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cba06f7a90ed04584f57e298d8c25f82ac4d6ae5"
+  },
+  "id": "gh:boyiguo1/escher",
+  "kind": "repo",
+  "url": "https://github.com/boyiguo1/escheR",
+  "title": "escheR",
+  "why": "R package for plotting spatially-resolved transcriptomics and single cell data, mapping several variables onto one ggplot2 view.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/boyiguo1/escheR",
+    "sha": "cba06f7a90ed04584f57e298d8c25f82ac4d6ae5",
+    "file_url": "https://cdn.jsdelivr.net/gh/boyiguo1/escheR@cba06f7a90ed04584f57e298d8c25f82ac4d6ae5/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 8,
+    "size_mb": 103,
+    "created_at": "2023-03-10T01:15:03Z",
+    "last_commit_at": "2024-01-12T21:28:33Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2023-04-27T11:34:57.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "cba06f7a90ed04584f57e298d8c25f82ac4d6ae5",
+    "v": 3
+  }
+}

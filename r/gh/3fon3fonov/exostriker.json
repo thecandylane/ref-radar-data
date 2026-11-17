@@ -22,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/3fon3fonov/exostriker",
-    "sha": "5ff6001efb3382ff3e7a53465475c8486aab9e51",
-    "file_url": "https://raw.githubusercontent.com/3fon3fonov/exostriker/5ff6001efb3382ff3e7a53465475c8486aab9e51/{path}"
+    "sha": "57b265bb931f59775553e907f8e1477dbdbf141d",
+    "file_url": "https://raw.githubusercontent.com/3fon3fonov/exostriker/57b265bb931f59775553e907f8e1477dbdbf141d/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -51,10 +51,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "5ff6001efb3382ff3e7a53465475c8486aab9e51",
+    "sha": "57b265bb931f59775553e907f8e1477dbdbf141d",
     "v": 3
   },
   "pins_before": [
+    "5ff6001efb3382ff3e7a53465475c8486aab9e51",
     "0df7554173b5ed2a5acb8e90ca18cf91f992ed35",
     "a9bcc5d737c58f6809a10a79a97afd8022bad437"
   ]

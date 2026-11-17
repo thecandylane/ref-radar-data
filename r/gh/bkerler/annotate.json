@@ -1,0 +1,58 @@
+{
+  "id": "gh:bkerler/annotate",
+  "kind": "repo",
+  "url": "https://github.com/bkerler/annotate",
+  "title": "annotate",
+  "why": "Fills in function argument names in Binary Ninja from libc and Windows databases, with register analysis that also covers ARM.",
+  "keys": {
+    "races": [
+      "cyber/reversing"
+    ],
+    "lanes": [
+      "cyber/reversing"
+    ],
+    "capabilities": [
+      "cyber/reversing/disassemblers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bkerler/annotate",
+    "sha": "ac76bea8a5b4d6f32cb716921229185c23e5daa1",
+    "file_url": "https://cdn.jsdelivr.net/gh/bkerler/annotate@ac76bea8a5b4d6f32cb716921229185c23e5daa1/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 21,
+    "size_mb": 0,
+    "created_at": "2018-08-22T12:39:45Z",
+    "last_commit_at": "2024-10-20T16:24:01Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.2",
+      "at": "2019-07-09T04:56:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

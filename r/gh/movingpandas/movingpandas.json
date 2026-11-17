@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b321da5a7a27c5d6f9842d9f799aafd33f025b0c"
+  },
+  "id": "gh:movingpandas/movingpandas",
+  "kind": "repo",
+  "url": "https://github.com/movingpandas/movingpandas",
+  "title": "movingpandas",
+  "why": "Builds trajectory structures on GeoPandas and Pandas for stop detection, generalization, smoothing and aggregation of movement data.",
+  "keys": {
+    "races": [
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/movingpandas/movingpandas",
+    "sha": "b321da5a7a27c5d6f9842d9f799aafd33f025b0c",
+    "file_url": "https://cdn.jsdelivr.net/gh/movingpandas/movingpandas@b321da5a7a27c5d6f9842d9f799aafd33f025b0c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 1427,
+    "size_mb": 46,
+    "created_at": "2018-12-16T11:41:15Z",
+    "last_commit_at": "2026-09-30T17:57:39Z",
+    "releases": 32,
+    "tags": 32,
+    "archived": false,
+    "release": {
+      "tag": "v0.23.0",
+      "at": "2026-08-09T10:53:56.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b321da5a7a27c5d6f9842d9f799aafd33f025b0c",
+    "v": 3
+  }
+}

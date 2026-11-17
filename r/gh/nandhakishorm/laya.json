@@ -1,0 +1,68 @@
+{
+  "id": "gh:nandhakishorm/laya",
+  "kind": "repo",
+  "url": "https://github.com/NandhaKishorM/laya",
+  "title": "laya",
+  "why": "A router picks the checkpoint for each request, and typed decisions run in one forward pass over any text.",
+  "keys": {
+    "races": [
+      "llm-infra/inference",
+      "llm-infra/gateways"
+    ],
+    "lanes": [
+      "llm-infra/inference",
+      "llm-infra/gateways"
+    ],
+    "capabilities": [
+      "llm-infra/gateways/model-routing"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "sdk",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NandhaKishorM/laya",
+    "sha": "5a6dc4b809659dab3b9b3062f5e3902db983818a",
+    "file_url": "https://cdn.jsdelivr.net/gh/NandhaKishorM/laya@5a6dc4b809659dab3b9b3062f5e3902db983818a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 35626,
+    "size_mb": 22,
+    "created_at": "2026-09-18T04:46:33Z",
+    "last_commit_at": "2026-11-16T12:40:12Z",
+    "releases": 68,
+    "tags": 68,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.35",
+      "at": "2026-11-16T12:49:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5a6dc4b809659dab3b9b3062f5e3902db983818a",
+    "v": 3
+  }
+}

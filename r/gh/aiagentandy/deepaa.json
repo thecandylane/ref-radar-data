@@ -1,0 +1,68 @@
+{
+  "id": "gh:aiagentandy/deepaa",
+  "kind": "repo",
+  "url": "https://github.com/AIAgentAndy/DeepAA",
+  "title": "DeepAA",
+  "why": "Sits in front of Codex and Claude Code to manage models locally, trace each call and break down token costs.",
+  "keys": {
+    "races": [
+      "llm-infra/gateways",
+      "infra/observability"
+    ],
+    "lanes": [
+      "llm-infra/gateways",
+      "infra/observability"
+    ],
+    "capabilities": [
+      "llm-infra/gateways/llm-gateway"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AIAgentAndy/DeepAA",
+    "sha": "a09c71c233a2090cb8606c95492e91664554b893",
+    "file_url": "https://cdn.jsdelivr.net/gh/AIAgentAndy/DeepAA@a09c71c233a2090cb8606c95492e91664554b893/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 109,
+    "size_mb": 24,
+    "created_at": "2026-10-09T15:10:52Z",
+    "last_commit_at": "2026-11-12T14:12:25Z",
+    "releases": 1,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "1.1.5",
+      "at": "2026-10-15T01:20:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a09c71c233a2090cb8606c95492e91664554b893",
+    "v": 3
+  }
+}

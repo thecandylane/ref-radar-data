@@ -1,0 +1,58 @@
+{
+  "id": "gh:tern-tools/tern",
+  "kind": "repo",
+  "url": "https://github.com/tern-tools/tern",
+  "title": "tern",
+  "why": "Lists packages layer by layer in a container image and writes SBOM reports as SPDX, CycloneDX, JSON or HTML.",
+  "keys": {
+    "races": [
+      "cyber/supply-chain",
+      "infra/containers"
+    ],
+    "lanes": [
+      "cyber/supply-chain",
+      "infra/containers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tern-tools/tern",
+    "sha": "717ea47be7310d055b86fb1b80d39fb472c0ddbf",
+    "file_url": "https://cdn.jsdelivr.net/gh/tern-tools/tern@717ea47be7310d055b86fb1b80d39fb472c0ddbf/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-2-Clause",
+    "stars": 1036,
+    "size_mb": 7,
+    "created_at": "2017-11-27T23:32:17Z",
+    "last_commit_at": "2023-12-08T21:51:22Z",
+    "releases": 23,
+    "tags": 29,
+    "archived": false,
+    "release": {
+      "tag": "v2.12.1",
+      "at": "2023-07-14T21:23:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

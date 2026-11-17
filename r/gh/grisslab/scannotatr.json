@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:085099569562238c91b8336035398bc1db06f6ea"
+  },
+  "id": "gh:grisslab/scannotatr",
+  "kind": "repo",
+  "url": "https://github.com/grisslab/scAnnotatR",
+  "title": "scAnnotatR",
+  "why": "R package that classifies cells in scRNA-seq data from Seurat or SingleCellExperiment objects, and lets you add new classification models.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/grisslab/scAnnotatR",
+    "sha": "085099569562238c91b8336035398bc1db06f6ea",
+    "file_url": "https://cdn.jsdelivr.net/gh/grisslab/scAnnotatR@085099569562238c91b8336035398bc1db06f6ea/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 22,
+    "size_mb": 169,
+    "created_at": "2021-07-01T11:37:55Z",
+    "last_commit_at": "2023-03-19T18:49:15Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "study",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "085099569562238c91b8336035398bc1db06f6ea",
+    "v": 3
+  }
+}

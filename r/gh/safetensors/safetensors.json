@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:9e6f4d6c7af8c63ac791ab1bfdd58d2de02fbaa4"
+  },
   "id": "gh:safetensors/safetensors",
   "kind": "repo",
   "url": "https://github.com/safetensors/safetensors",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 3953,
+    "stars": 3955,
     "size_mb": 3,
     "created_at": "2022-09-22T14:54:51Z",
     "last_commit_at": "2026-11-09T16:48:54Z",
@@ -58,5 +61,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "9e6f4d6c7af8c63ac791ab1bfdd58d2de02fbaa4",
+    "v": 3
+  }
 }

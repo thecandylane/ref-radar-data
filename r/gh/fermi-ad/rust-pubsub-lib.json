@@ -1,0 +1,64 @@
+{
+  "id": "gh:fermi-ad/rust-pubsub-lib",
+  "kind": "repo",
+  "url": "https://github.com/fermi-ad/rust-pubsub-lib",
+  "title": "rust-pubsub-lib",
+  "why": "Rust traits for publishing, snapshotting and subscribing that hide whether Kafka or Redis sits underneath, with a shared subscriber cache.",
+  "keys": {
+    "races": [
+      "data/queues"
+    ],
+    "lanes": [
+      "data/queues"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fermi-ad/rust-pubsub-lib",
+    "sha": "2b5d6dce0a51839abdeb63d2663137f525256e66",
+    "file_url": "https://cdn.jsdelivr.net/gh/fermi-ad/rust-pubsub-lib@2b5d6dce0a51839abdeb63d2663137f525256e66/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 2,
+    "size_mb": 0,
+    "created_at": "2025-11-20T22:35:00Z",
+    "last_commit_at": "2026-11-11T19:24:25Z",
+    "releases": 17,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "v10.0.1",
+      "at": "2026-11-11T19:25:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2b5d6dce0a51839abdeb63d2663137f525256e66",
+    "v": 3
+  }
+}

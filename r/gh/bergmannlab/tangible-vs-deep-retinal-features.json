@@ -1,0 +1,70 @@
+{
+  "id": "gh:bergmannlab/tangible-vs-deep-retinal-features",
+  "kind": "repo",
+  "url": "https://github.com/BergmannLab/tangible-vs-deep-retinal-features",
+  "title": "tangible-vs-deep-retinal-features",
+  "why": "Regenerates every main figure from one deposited data record, with pinned tools run through pixi.",
+  "keys": {
+    "races": [
+      "ml/vision"
+    ],
+    "lanes": [
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/BergmannLab/tangible-vs-deep-retinal-features",
+    "sha": "a7c1428e62874e0b28bbf1c1f0f9d1a4b907320f",
+    "file_url": "https://cdn.jsdelivr.net/gh/BergmannLab/tangible-vs-deep-retinal-features@a7c1428e62874e0b28bbf1c1f0f9d1a4b907320f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 1,
+    "size_mb": 3,
+    "created_at": "2026-09-10T11:13:57Z",
+    "last_commit_at": "2026-09-28T11:44:33Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.0.1",
+      "at": "2026-09-10T11:16:54.000Z"
+    },
+    "doi": "10.5281/zenodo.22689294",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-17"
+    }
+  },
+  "reuse": "copyleft",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a7c1428e62874e0b28bbf1c1f0f9d1a4b907320f",
+    "v": 3
+  }
+}

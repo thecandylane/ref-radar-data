@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8019b8b580f8573c33c50372baec7039dfe5a8ce"
+  },
+  "id": "gh:tplgy/cppcodec",
+  "kind": "repo",
+  "url": "https://github.com/tplgy/cppcodec",
+  "title": "cppcodec",
+  "why": "Header-only C++11 codec for base64, base32 and hex variants with one API for raw pointers, strings and vectors, avoiding extra allocations.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tplgy/cppcodec",
+    "sha": "8019b8b580f8573c33c50372baec7039dfe5a8ce",
+    "file_url": "https://cdn.jsdelivr.net/gh/tplgy/cppcodec@8019b8b580f8573c33c50372baec7039dfe5a8ce/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 700,
+    "size_mb": 0,
+    "created_at": "2015-12-28T00:25:29Z",
+    "last_commit_at": "2022-09-06T18:42:09Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v0.2",
+      "at": "2018-08-24T14:23:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8019b8b580f8573c33c50372baec7039dfe5a8ce",
+    "v": 3
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3ad8b20fb02b5bea81591b673da0758b8685d951"
+  },
+  "id": "gh:sqlc-dev/sqlc",
+  "kind": "repo",
+  "url": "https://github.com/sqlc-dev/sqlc",
+  "title": "sqlc",
+  "why": "Turns hand-written SQL queries into typed Go, Python, Kotlin and TypeScript functions, so the compiler catches mismatched columns.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "data/databases",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sqlc-dev/sqlc",
+    "sha": "3ad8b20fb02b5bea81591b673da0758b8685d951",
+    "file_url": "https://cdn.jsdelivr.net/gh/sqlc-dev/sqlc@3ad8b20fb02b5bea81591b673da0758b8685d951/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 18462,
+    "size_mb": 24,
+    "created_at": "2019-06-21T21:11:35Z",
+    "last_commit_at": "2026-10-23T03:02:06Z",
+    "releases": 38,
+    "tags": 40,
+    "archived": false,
+    "release": {
+      "tag": "v1.31.1",
+      "at": "2026-04-22T14:55:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3ad8b20fb02b5bea81591b673da0758b8685d951",
+    "v": 3
+  }
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:08cac9e911e22b6e0804ef711b6b812d8906c41d"
+  },
   "id": "gh:composiohq/composio",
   "kind": "repo",
   "url": "https://github.com/ComposioHQ/composio",
@@ -32,16 +35,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 31098,
-    "size_mb": 484,
+    "stars": 31121,
+    "size_mb": 501,
     "created_at": "2024-02-23T13:58:27Z",
-    "last_commit_at": "2026-11-16T09:24:07Z",
+    "last_commit_at": "2026-11-17T07:22:00Z",
     "releases": 1000,
-    "tags": 2019,
+    "tags": 2021,
     "archived": false,
     "release": {
-      "tag": "@composio/cli@0.6.1",
-      "at": "2026-11-13T19:04:02.000Z"
+      "tag": "@composio/cli@0.6.2",
+      "at": "2026-11-16T12:21:21.000Z"
     }
   },
   "reuse": "copy",

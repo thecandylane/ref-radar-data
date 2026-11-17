@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:33302debd3def0b464caca9cd7104c3186a4ead9"
+  },
+  "id": "gh:paleolimbot/rosm",
+  "kind": "repo",
+  "url": "https://github.com/paleolimbot/rosm",
+  "title": "rosm",
+  "why": "Fetches OpenStreetMap and Bing tiles in parallel and plots them as base maps, with tile math exposed for custom use.",
+  "keys": {
+    "races": [
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/paleolimbot/rosm",
+    "sha": "33302debd3def0b464caca9cd7104c3186a4ead9",
+    "file_url": "https://cdn.jsdelivr.net/gh/paleolimbot/rosm@33302debd3def0b464caca9cd7104c3186a4ead9/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 29,
+    "size_mb": 10,
+    "created_at": "2015-10-12T17:29:34Z",
+    "last_commit_at": "2026-09-02T03:11:37Z",
+    "releases": 11,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.2",
+      "at": "2026-09-02T14:45:42.000Z"
+    }
+  },
+  "reuse": "study",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "33302debd3def0b464caca9cd7104c3186a4ead9",
+    "v": 3
+  }
+}

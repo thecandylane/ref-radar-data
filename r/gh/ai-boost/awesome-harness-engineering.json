@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:38ba5a057a001faaa30dde0c7cfd2ac772b25b33"
+  },
   "id": "gh:ai-boost/awesome-harness-engineering",
   "kind": "repo",
   "url": "https://github.com/ai-boost/awesome-harness-engineering",
@@ -32,13 +35,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ai-boost/awesome-harness-engineering",
-    "sha": "f55bd0e357693b1babe124fdd49fade6e3db9c55",
-    "file_url": "https://cdn.jsdelivr.net/gh/ai-boost/awesome-harness-engineering@f55bd0e357693b1babe124fdd49fade6e3db9c55/{path}"
+    "sha": "38ba5a057a001faaa30dde0c7cfd2ac772b25b33",
+    "file_url": "https://cdn.jsdelivr.net/gh/ai-boost/awesome-harness-engineering@38ba5a057a001faaa30dde0c7cfd2ac772b25b33/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 5164,
+    "stars": 5175,
     "size_mb": 2,
     "created_at": "2026-03-29T15:39:49Z",
     "last_commit_at": "2026-11-16T09:20:30Z",
@@ -61,7 +64,10 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "f55bd0e357693b1babe124fdd49fade6e3db9c55",
+    "sha": "38ba5a057a001faaa30dde0c7cfd2ac772b25b33",
     "v": 3
-  }
+  },
+  "pins_before": [
+    "f55bd0e357693b1babe124fdd49fade6e3db9c55"
+  ]
 }
