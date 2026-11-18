@@ -5,7 +5,7 @@
   "id": "gh:getsentry/sentry",
   "kind": "repo",
   "url": "https://github.com/getsentry/sentry",
-  "title": "sentry",
+  "title": "getsentry/sentry",
   "why": "Crash reporting and APM platform built on Django that can be self-hosted, with agent instructions and an MCP config in the repo.",
   "keys": {
     "races": [
@@ -37,19 +37,19 @@
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 45787,
-    "size_mb": 982,
+    "stars": 45792,
+    "size_mb": 984,
     "created_at": "2010-08-30T22:06:41Z",
-    "last_commit_at": "2026-11-17T09:17:34Z",
-    "releases": 194,
-    "tags": 508,
+    "last_commit_at": "2026-11-18T08:51:34Z",
+    "releases": 200,
+    "tags": 514,
     "archived": false,
     "release": {
       "tag": "26.11.0",
       "at": "2026-11-15T17:12:21.000Z"
     }
   },
-  "reuse": "study",
+  "reuse": "copy",
   "maturity": "stable",
   "status": null,
   "stats": {
@@ -57,7 +57,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 47,
+    "star_delta_7d": 43,
     "votes": {},
     "ranks": {}
   },

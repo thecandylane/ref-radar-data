@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:e0119d521794212066d52114ad1fd5d9c5f36019"
+  },
   "id": "gh:liyuechao1998/scgsl",
   "kind": "repo",
   "url": "https://github.com/LiYuechao1998/scGSL",
@@ -37,7 +40,7 @@
     "archived": false,
     "release": null
   },
-  "reuse": "study",
+  "reuse": "copy",
   "maturity": "quiet",
   "status": null,
   "stats": {
@@ -53,5 +56,6 @@
   "pack": {
     "sha": "e0119d521794212066d52114ad1fd5d9c5f36019",
     "v": 3
-  }
+  },
+  "pinned_at": "2024-10-13T04:12:40Z"
 }

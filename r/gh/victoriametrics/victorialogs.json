@@ -1,0 +1,71 @@
+{
+  "id": "gh:victoriametrics/victorialogs",
+  "kind": "repo",
+  "url": "https://github.com/VictoriaMetrics/VictoriaLogs",
+  "title": "VictoriaLogs",
+  "why": "Stores logs in a schema-free database that queries with LogsQL and handles terabytes per day on one node.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "infra/observability"
+    ],
+    "lanes": [
+      "data/databases",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/VictoriaMetrics/VictoriaLogs",
+    "sha": "2a63b8796d289430ccabf7db21f0fbeef40943d3",
+    "file_url": "https://cdn.jsdelivr.net/gh/VictoriaMetrics/VictoriaLogs@2a63b8796d289430ccabf7db21f0fbeef40943d3/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 2530,
+    "size_mb": 259,
+    "created_at": "2025-07-06T22:56:52Z",
+    "last_commit_at": "2026-11-14T12:26:17Z",
+    "releases": 40,
+    "tags": 128,
+    "archived": false,
+    "release": {
+      "tag": "v1.54.0",
+      "at": "2026-11-13T11:28:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2a63b8796d289430ccabf7db21f0fbeef40943d3",
+    "v": 3
+  },
+  "pinned_at": "2026-11-14T12:26:17Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "gh:dexmal/opendm",
+  "kind": "repo",
+  "url": "https://github.com/dexmal/opendm",
+  "title": "opendm",
+  "why": "Serves a vision-language-action robot model over HTTP at /v1/infer, with a launcher script and LoRA fine-tuning recipes.",
+  "keys": {
+    "races": [
+      "embedded/robotics",
+      "ml/open-models",
+      "llm-infra/inference",
+      "ml/training"
+    ],
+    "lanes": [
+      "embedded/robotics",
+      "ml/open-models",
+      "llm-infra/inference",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dexmal/opendm",
+    "sha": "03f799120d425ead51d9482bb1da950b6dabade9",
+    "file_url": "https://cdn.jsdelivr.net/gh/dexmal/opendm@03f799120d425ead51d9482bb1da950b6dabade9/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 2743,
+    "size_mb": 5,
+    "created_at": "2026-07-06T06:10:23Z",
+    "last_commit_at": "2026-11-06T08:51:13Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "03f799120d425ead51d9482bb1da950b6dabade9",
+    "v": 3
+  },
+  "pinned_at": "2026-11-06T08:51:13Z"
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:93a9dacf7fd6c976b22dbf7f3785729cc9817de6"
+  },
   "id": "gh:mt5-automation-labs/mt5-xauusd-bot",
   "kind": "repo",
   "url": "https://github.com/MT5-Automation-Labs/mt5-xauusd-bot",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "Python",
     "license": "none",
-    "stars": 91,
+    "stars": 96,
     "size_mb": 0,
     "created_at": "2026-10-15T10:18:20Z",
     "last_commit_at": "2026-10-15T11:19:43Z",
@@ -39,7 +42,7 @@
     "archived": false,
     "release": null
   },
-  "reuse": "study",
+  "reuse": "copy",
   "maturity": "new",
   "status": null,
   "stats": {
@@ -55,5 +58,6 @@
   "pack": {
     "sha": "93a9dacf7fd6c976b22dbf7f3785729cc9817de6",
     "v": 3
-  }
+  },
+  "pinned_at": "2026-10-15T11:19:43Z"
 }

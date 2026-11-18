@@ -1,0 +1,60 @@
+{
+  "id": "gh:zeronetworks/ldapfw",
+  "kind": "repo",
+  "url": "https://github.com/zeronetworks/ldapfw",
+  "title": "ldapfw",
+  "why": "Sits inside lsass.exe on Domain Controllers so each LDAP search or modify is checked against your allow and block rules.",
+  "keys": {
+    "races": [
+      "cyber/identity",
+      "cyber/detection"
+    ],
+    "lanes": [
+      "cyber/identity",
+      "cyber/detection"
+    ],
+    "capabilities": [
+      "cyber/identity/iam"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zeronetworks/ldapfw",
+    "sha": "198aa79a7707337caba68307d58fc820bd8f511f",
+    "file_url": "https://cdn.jsdelivr.net/gh/zeronetworks/ldapfw@198aa79a7707337caba68307d58fc820bd8f511f/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 191,
+    "size_mb": 2,
+    "created_at": "2023-03-23T15:20:44Z",
+    "last_commit_at": "2025-05-29T08:41:04Z",
+    "releases": 15,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.1",
+      "at": "2025-05-29T12:48:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

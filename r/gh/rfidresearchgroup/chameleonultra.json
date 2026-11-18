@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:4c5bc2cb6b023d23f7bbc383c9b2b5e39f95419e"
+  },
   "id": "gh:rfidresearchgroup/chameleonultra",
   "kind": "repo",
   "url": "https://github.com/RfidResearchGroup/ChameleonUltra",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "C",
     "license": "GPL-3.0",
-    "stars": 3240,
+    "stars": 3248,
     "size_mb": 106,
     "created_at": "2022-12-22T22:53:04Z",
     "last_commit_at": "2026-11-11T06:45:26Z",
@@ -42,7 +45,7 @@
       "at": "2026-10-24T09:49:04.000Z"
     }
   },
-  "reuse": "copyleft",
+  "reuse": "copy",
   "maturity": "stable",
   "status": null,
   "stats": {
@@ -50,7 +53,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 36,
     "votes": {},
     "ranks": {}
   },

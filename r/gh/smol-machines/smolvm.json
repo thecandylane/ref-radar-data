@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:e9de2dab3614928fd984ff5e8c127af37fccbea0"
+  },
   "id": "gh:smol-machines/smolvm",
   "kind": "repo",
   "url": "https://github.com/smol-machines/smolvm",
@@ -42,16 +45,16 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 7126,
-    "size_mb": 67,
+    "stars": 7133,
+    "size_mb": 69,
     "created_at": "2025-12-18T23:25:15Z",
-    "last_commit_at": "2026-11-16T20:35:19Z",
-    "releases": 201,
-    "tags": 204,
+    "last_commit_at": "2026-11-18T06:41:55Z",
+    "releases": 203,
+    "tags": 206,
     "archived": false,
     "release": {
-      "tag": "v1.35.1",
-      "at": "2026-11-15T05:15:17.000Z"
+      "tag": "v1.35.3",
+      "at": "2026-11-17T22:18:15.000Z"
     }
   },
   "reuse": "copy",
@@ -62,7 +65,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 73,
+    "star_delta_7d": 58,
     "votes": {},
     "ranks": {}
   },

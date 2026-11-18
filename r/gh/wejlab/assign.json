@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cd6973004f18d2e5594c0bb7383983d4b5f824b5"
+  },
+  "id": "gh:wejlab/assign",
+  "kind": "repo",
+  "url": "https://github.com/wejlab/ASSIGN",
+  "title": "ASSIGN",
+  "why": "Scores pathway deregulation in each patient sample by adapting predetermined signatures with a Bayesian factor analysis.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wejlab/ASSIGN",
+    "sha": "cd6973004f18d2e5594c0bb7383983d4b5f824b5",
+    "file_url": "https://cdn.jsdelivr.net/gh/wejlab/ASSIGN@cd6973004f18d2e5594c0bb7383983d4b5f824b5/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 2,
+    "size_mb": 2,
+    "created_at": "2017-09-13T23:08:09Z",
+    "last_commit_at": "2023-04-25T14:31:13Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "cd6973004f18d2e5594c0bb7383983d4b5f824b5",
+    "v": 3
+  },
+  "pinned_at": "2023-04-25T14:31:13Z"
+}

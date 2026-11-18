@@ -1,0 +1,56 @@
+{
+  "id": "gh:erocarrera/pefile",
+  "kind": "repo",
+  "url": "https://github.com/erocarrera/pefile",
+  "title": "pefile",
+  "why": "Parses PE headers, sections and resources in Python with no dependencies, and reports malformed values as it goes.",
+  "keys": {
+    "races": [
+      "cyber/reversing"
+    ],
+    "lanes": [
+      "cyber/reversing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/erocarrera/pefile",
+    "sha": "c3ac37eba17b896b4f6336a5d79aa0439199a622",
+    "file_url": "https://cdn.jsdelivr.net/gh/erocarrera/pefile@c3ac37eba17b896b4f6336a5d79aa0439199a622/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 2087,
+    "size_mb": 1240,
+    "created_at": "2015-04-13T13:45:19Z",
+    "last_commit_at": "2026-11-16T10:14:37Z",
+    "releases": 16,
+    "tags": 36,
+    "archived": false,
+    "release": {
+      "tag": "v2024.8.26",
+      "at": "2024-08-26T21:04:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

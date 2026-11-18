@@ -30,8 +30,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/a2aproject/a2a-python",
-    "sha": "c16cab1ca22a5fac8288c1351610dfc85a4e072c",
-    "file_url": "https://cdn.jsdelivr.net/gh/a2aproject/a2a-python@c16cab1ca22a5fac8288c1351610dfc85a4e072c/{path}"
+    "sha": "a59bb681cb201bc28ef5fe860078a18b1459ce8c",
+    "file_url": "https://cdn.jsdelivr.net/gh/a2aproject/a2a-python@a59bb681cb201bc28ef5fe860078a18b1459ce8c/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -39,13 +39,13 @@
     "stars": 2247,
     "size_mb": 7,
     "created_at": "2025-05-09T05:42:15Z",
-    "last_commit_at": "2026-11-16T17:56:11Z",
-    "releases": 65,
-    "tags": 66,
+    "last_commit_at": "2026-11-17T15:46:28Z",
+    "releases": 66,
+    "tags": 67,
     "archived": false,
     "release": {
-      "tag": "v1.3.0",
-      "at": "2026-10-27T10:06:31.000Z"
+      "tag": "v1.3.1",
+      "at": "2026-11-17T10:50:45.000Z"
     }
   },
   "reuse": "copy",
@@ -62,10 +62,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "c16cab1ca22a5fac8288c1351610dfc85a4e072c",
+    "sha": "a59bb681cb201bc28ef5fe860078a18b1459ce8c",
     "v": 3
   },
   "pins_before": [
+    "c16cab1ca22a5fac8288c1351610dfc85a4e072c",
     "caab6a252958b2218ea61c0cae772f0a5c159e2a",
     "09c93473a77d0a18be8429ad71958211b736a8c0",
     "f451ed74678cf808544333a8f1dfe66289dfd12b"

@@ -1,0 +1,58 @@
+{
+  "id": "gh:r0ny123/yarg",
+  "kind": "repo",
+  "url": "https://github.com/r0ny123/yarg",
+  "title": "yarg",
+  "why": "Generates YARA rules from selected x86 instructions or functions in IDA, with alternative encodings so matches hold across compilers.",
+  "keys": {
+    "races": [
+      "cyber/reversing",
+      "cyber/detection"
+    ],
+    "lanes": [
+      "cyber/reversing",
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/r0ny123/yarg",
+    "sha": "19fe9213def409bf4b48b8875a6a053e07389b5e",
+    "file_url": "https://cdn.jsdelivr.net/gh/r0ny123/yarg@19fe9213def409bf4b48b8875a6a053e07389b5e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 1,
+    "size_mb": 1,
+    "created_at": "2026-04-26T14:15:16Z",
+    "last_commit_at": "2026-06-11T18:53:08Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.5",
+      "at": "2026-06-10T14:34:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

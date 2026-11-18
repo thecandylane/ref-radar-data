@@ -1,0 +1,64 @@
+{
+  "id": "gh:swisskyrepo/ssrfmap",
+  "kind": "repo",
+  "url": "https://github.com/swisskyrepo/SSRFmap",
+  "title": "SSRFmap",
+  "why": "Takes a Burp request file and fuzzes one parameter with SSRF payloads, then runs modules such as readfiles, redis or aws.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/swisskyrepo/SSRFmap",
+    "sha": "290e07d75c52d68e021b6d0b4200c2a41ea20365",
+    "file_url": "https://cdn.jsdelivr.net/gh/swisskyrepo/SSRFmap@290e07d75c52d68e021b6d0b4200c2a41ea20365/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 3649,
+    "size_mb": 4,
+    "created_at": "2018-10-15T19:08:26Z",
+    "last_commit_at": "2026-08-10T12:02:58Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a YARA rule for offensive tools matched"
+    ],
+    "scanned_at": "2026-11-17T08:02:23.721Z"
+  }
+}

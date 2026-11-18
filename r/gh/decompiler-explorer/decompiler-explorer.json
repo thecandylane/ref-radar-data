@@ -1,0 +1,55 @@
+{
+  "id": "gh:decompiler-explorer/decompiler-explorer",
+  "kind": "repo",
+  "url": "https://github.com/decompiler-explorer/decompiler-explorer",
+  "title": "decompiler-explorer",
+  "why": "Compares the output of several decompilers on small executables in one web front-end, run with docker-compose.",
+  "keys": {
+    "races": [
+      "cyber/reversing"
+    ],
+    "lanes": [
+      "cyber/reversing"
+    ],
+    "capabilities": [
+      "cyber/reversing/disassemblers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/decompiler-explorer/decompiler-explorer",
+    "sha": "8dcf7380c1549451a47c0ae5dbfc3eebfa510de3",
+    "file_url": "https://cdn.jsdelivr.net/gh/decompiler-explorer/decompiler-explorer@8dcf7380c1549451a47c0ae5dbfc3eebfa510de3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 2734,
+    "size_mb": 4,
+    "created_at": "2021-10-25T21:52:06Z",
+    "last_commit_at": "2026-11-11T18:13:22Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

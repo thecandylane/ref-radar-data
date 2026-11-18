@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:08785a5536113a1cd6b5ee424afb9a75d788fef5"
+  },
   "id": "gh:kirtiramchandani/memory.cpp",
   "kind": "repo",
   "url": "https://github.com/KirtiRamchandani/memory.cpp",
@@ -39,7 +42,7 @@
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 728,
+    "stars": 729,
     "size_mb": 3,
     "created_at": "2026-05-18T09:24:57Z",
     "last_commit_at": "2026-11-02T03:43:47Z",
@@ -64,5 +67,6 @@
   "pack": {
     "sha": "08785a5536113a1cd6b5ee424afb9a75d788fef5",
     "v": 3
-  }
+  },
+  "pinned_at": "2026-11-02T03:43:47Z"
 }

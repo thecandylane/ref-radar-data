@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c0219a4d4e81883cc60184d965071ff9d03489c4"
+  },
   "id": "gh:dannyvfilms/floppy",
   "kind": "repo",
   "url": "https://github.com/dannyvfilms/Floppy",
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "Python",
     "license": "AGPL-3.0",
-    "stars": 1022,
-    "size_mb": 116,
+    "stars": 1027,
+    "size_mb": 118,
     "created_at": "2025-06-03T19:19:56Z",
-    "last_commit_at": "2026-11-17T03:44:43Z",
+    "last_commit_at": "2026-11-18T08:53:53Z",
     "releases": 52,
     "tags": 53,
     "archived": false,
@@ -44,7 +47,7 @@
       "at": "2026-11-13T03:45:22.000Z"
     }
   },
-  "reuse": "copyleft",
+  "reuse": "copy",
   "maturity": "stable",
   "status": null,
   "stats": {

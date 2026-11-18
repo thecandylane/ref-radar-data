@@ -1,0 +1,64 @@
+{
+  "id": "gh:moinsebi/packing",
+  "kind": "repo",
+  "url": "https://github.com/MoinSebi/packing",
+  "title": "packing",
+  "why": "Converts plain-text pack coverage into compressed and presence-absence formats, indexed against a graph for genome-wide association work.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/serialization"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MoinSebi/packing",
+    "sha": "c608ff84c812f4f24b88171b9670991e294beb53",
+    "file_url": "https://cdn.jsdelivr.net/gh/MoinSebi/packing@c608ff84c812f4f24b88171b9670991e294beb53/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "none",
+    "stars": 5,
+    "size_mb": 1,
+    "created_at": "2021-10-12T16:46:54Z",
+    "last_commit_at": "2025-09-29T21:00:59Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c608ff84c812f4f24b88171b9670991e294beb53",
+    "v": 3
+  },
+  "pinned_at": "2025-09-29T21:00:59Z"
+}

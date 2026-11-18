@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:954439a8404da958fbca61145abd99f07aa4e072"
+  },
+  "id": "gh:hootsuite/token-ui",
+  "kind": "repo",
+  "url": "https://github.com/hootsuite/token-ui",
+  "title": "token-ui",
+  "why": "Wraps a UITextView so typed text becomes pills, with delegate callbacks for token taps and edits in iOS apps.",
+  "keys": {
+    "races": [
+      "mobile/ios"
+    ],
+    "lanes": [
+      "mobile/ios"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hootsuite/token-ui",
+    "sha": "954439a8404da958fbca61145abd99f07aa4e072",
+    "file_url": "https://cdn.jsdelivr.net/gh/hootsuite/token-ui@954439a8404da958fbca61145abd99f07aa4e072/{path}"
+  },
+  "facts": {
+    "lang": "Swift",
+    "license": "NOASSERTION",
+    "stars": 42,
+    "size_mb": 1,
+    "created_at": "2016-10-05T00:16:07Z",
+    "last_commit_at": "2026-03-10T22:01:19Z",
+    "releases": 17,
+    "tags": 41,
+    "archived": false,
+    "release": {
+      "tag": "v8.3.4",
+      "at": "2026-03-10T22:02:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "954439a8404da958fbca61145abd99f07aa4e072",
+    "v": 3
+  },
+  "pinned_at": "2026-03-10T22:01:19Z"
+}

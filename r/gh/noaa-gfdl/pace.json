@@ -1,0 +1,58 @@
+{
+  "id": "gh:noaa-gfdl/pace",
+  "kind": "repo",
+  "url": "https://github.com/NOAA-GFDL/pace",
+  "title": "pace",
+  "why": "Runs the FV3GFS atmospheric model in Python on a laptop backend or on thousands of supercomputer nodes, built on GT4Py and DaCe.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NOAA-GFDL/pace",
+    "sha": "fa0257f8fd5cc9b0eadc37c01a4c64a7ccb7e61e",
+    "file_url": "https://cdn.jsdelivr.net/gh/NOAA-GFDL/pace@fa0257f8fd5cc9b0eadc37c01a4c64a7ccb7e61e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 21,
+    "size_mb": 13,
+    "created_at": "2022-02-07T20:08:10Z",
+    "last_commit_at": "2026-11-04T15:45:50Z",
+    "releases": 0,
+    "tags": 5,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fa0257f8fd5cc9b0eadc37c01a4c64a7ccb7e61e",
+    "v": 3
+  },
+  "pinned_at": "2026-11-04T15:45:50Z"
+}

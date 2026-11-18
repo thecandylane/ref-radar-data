@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:babe406023dff3c47f803ca7c701284fe60af93d"
-  },
   "id": "gh:apache/activemq",
   "kind": "repo",
   "url": "https://github.com/apache/activemq",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/activemq",
-    "sha": "babe406023dff3c47f803ca7c701284fe60af93d",
-    "file_url": "https://cdn.jsdelivr.net/gh/apache/activemq@babe406023dff3c47f803ca7c701284fe60af93d/{path}"
+    "sha": "03a17a7f4c2a3136289141c29e5324fa033529d6",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/activemq@03a17a7f4c2a3136289141c29e5324fa033529d6/{path}"
   },
   "facts": {
     "lang": "Java",
@@ -57,7 +54,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "babe406023dff3c47f803ca7c701284fe60af93d",
+    "sha": "03a17a7f4c2a3136289141c29e5324fa033529d6",
     "v": 3
-  }
+  },
+  "pins_before": [
+    "babe406023dff3c47f803ca7c701284fe60af93d"
+  ],
+  "pinned_at": "2026-11-13T18:53:39Z"
 }

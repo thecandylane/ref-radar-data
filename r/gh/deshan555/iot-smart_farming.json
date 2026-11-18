@@ -1,0 +1,63 @@
+{
+  "id": "gh:deshan555/iot-smart_farming",
+  "kind": "repo",
+  "url": "https://github.com/Deshan555/IOT-Smart_Farming",
+  "title": "IOT-Smart_Farming",
+  "why": "Java Swing app reads light, humidity and soil moisture sensors from NodeMCU boards and automates irrigation for greenhouse crops.",
+  "keys": {
+    "races": [
+      "embedded/firmware",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "embedded/firmware",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Deshan555/IOT-Smart_Farming",
+    "sha": "513c22b45ceb86ab9f562ef545c925044abc61ed",
+    "file_url": "https://cdn.jsdelivr.net/gh/Deshan555/IOT-Smart_Farming@513c22b45ceb86ab9f562ef545c925044abc61ed/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 115,
+    "size_mb": 61,
+    "created_at": "2022-05-16T12:55:07Z",
+    "last_commit_at": "2025-03-06T01:05:32Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0.1",
+      "at": "2022-08-03T17:14:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "513c22b45ceb86ab9f562ef545c925044abc61ed",
+    "v": 3
+  },
+  "pinned_at": "2025-03-06T01:05:32Z"
+}

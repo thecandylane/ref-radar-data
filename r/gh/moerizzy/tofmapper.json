@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b7a77a09fc8b37619d4a7834a987d6a218f1fab0"
+  },
   "id": "gh:moerizzy/tofmapper",
   "kind": "repo",
   "url": "https://github.com/Moerizzy/TOFMapper",
@@ -39,7 +42,7 @@
     "archived": false,
     "release": null
   },
-  "reuse": "copyleft",
+  "reuse": "copy",
   "maturity": "unreleased",
   "status": null,
   "stats": {
@@ -55,5 +58,6 @@
   "pack": {
     "sha": "b7a77a09fc8b37619d4a7834a987d6a218f1fab0",
     "v": 3
-  }
+  },
+  "pinned_at": "2026-10-09T11:55:05Z"
 }

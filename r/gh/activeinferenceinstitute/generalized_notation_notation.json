@@ -28,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ActiveInferenceInstitute/Generalized_Notation_Notation",
-    "sha": "843e4d99ed0666e90737dedec3ff978b42bdea49",
-    "file_url": "https://cdn.jsdelivr.net/gh/ActiveInferenceInstitute/Generalized_Notation_Notation@843e4d99ed0666e90737dedec3ff978b42bdea49/{path}"
+    "sha": "2001b94fe6f55f7532619d8d53bb28c705997a94",
+    "file_url": "https://cdn.jsdelivr.net/gh/ActiveInferenceInstitute/Generalized_Notation_Notation@2001b94fe6f55f7532619d8d53bb28c705997a94/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
     "stars": 35,
-    "size_mb": 702,
+    "size_mb": 703,
     "created_at": "2023-04-02T19:45:34Z",
-    "last_commit_at": "2026-11-17T02:25:45Z",
+    "last_commit_at": "2026-11-17T16:33:43Z",
     "releases": 21,
     "tags": 25,
     "archived": false,
@@ -52,7 +52,7 @@
       "at": "2026-11-14"
     }
   },
-  "reuse": "study",
+  "reuse": "copy",
   "maturity": "stable",
   "status": null,
   "stats": {
@@ -66,10 +66,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "843e4d99ed0666e90737dedec3ff978b42bdea49",
+    "sha": "2001b94fe6f55f7532619d8d53bb28c705997a94",
     "v": 3
   },
   "pins_before": [
+    "843e4d99ed0666e90737dedec3ff978b42bdea49",
     "d18d8095d2f1daf16251ebe050f8c875ab1857ce",
     "92b773e845b3df3b3f0249fb5ba39600803aa28c"
   ]

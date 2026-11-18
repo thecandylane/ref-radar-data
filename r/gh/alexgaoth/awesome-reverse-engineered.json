@@ -28,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/alexgaoth/awesome-reverse-engineered",
-    "sha": "b6373d3841b6558cf97a0a42df70d488ee2e2a66",
-    "file_url": "https://cdn.jsdelivr.net/gh/alexgaoth/awesome-reverse-engineered@b6373d3841b6558cf97a0a42df70d488ee2e2a66/{path}"
+    "sha": "02761e802c3e77577c6cb612495f3aa591c8dd87",
+    "file_url": "https://cdn.jsdelivr.net/gh/alexgaoth/awesome-reverse-engineered@02761e802c3e77577c6cb612495f3aa591c8dd87/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 1439,
-    "size_mb": 34,
+    "stars": 1453,
+    "size_mb": 37,
     "created_at": "2026-10-11T17:30:10Z",
-    "last_commit_at": "2026-11-16T16:04:02Z",
+    "last_commit_at": "2026-11-18T02:06:29Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -57,10 +57,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "b6373d3841b6558cf97a0a42df70d488ee2e2a66",
+    "sha": "02761e802c3e77577c6cb612495f3aa591c8dd87",
     "v": 3
   },
   "pins_before": [
+    "b6373d3841b6558cf97a0a42df70d488ee2e2a66",
     "80f551625282c47c2984bde35280c32d0aa4be58",
     "8f20553c7da01e0669d8a7b07cc358a31e9ef623"
   ]

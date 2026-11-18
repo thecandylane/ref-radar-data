@@ -33,8 +33,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/alex09x/kyb",
-    "sha": "ca774a58187ab54c11e9dca033b3718bfab7f537",
-    "file_url": "https://cdn.jsdelivr.net/gh/alex09x/kyb@ca774a58187ab54c11e9dca033b3718bfab7f537/{path}"
+    "sha": "cf27ebba9967e3b8b95fc16fab3369a393e080a7",
+    "file_url": "https://cdn.jsdelivr.net/gh/alex09x/kyb@cf27ebba9967e3b8b95fc16fab3369a393e080a7/{path}"
   },
   "facts": {
     "lang": "Rust",
@@ -65,7 +65,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "ca774a58187ab54c11e9dca033b3718bfab7f537",
+    "sha": "cf27ebba9967e3b8b95fc16fab3369a393e080a7",
     "v": 3
-  }
+  },
+  "pins_before": [
+    "ca774a58187ab54c11e9dca033b3718bfab7f537"
+  ],
+  "pinned_at": "2026-11-16T23:03:10Z"
 }

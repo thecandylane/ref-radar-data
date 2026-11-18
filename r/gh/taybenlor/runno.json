@@ -1,0 +1,72 @@
+{
+  "id": "gh:taybenlor/runno",
+  "kind": "repo",
+  "url": "https://github.com/taybenlor/runno",
+  "title": "runno",
+  "why": "Runs code in Python, Ruby, C and other languages inside a WebAssembly sandbox with no network access, through an MCP server too.",
+  "keys": {
+    "races": [
+      "agents/sandboxes",
+      "agents/tools",
+      "languages/runtimes"
+    ],
+    "lanes": [
+      "agents/sandboxes",
+      "agents/tools",
+      "languages/runtimes"
+    ],
+    "capabilities": [
+      "agents/sandboxes/code-sandboxes",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/taybenlor/runno",
+    "sha": "af05728f02d907210d28587b4c32a306e79e312e",
+    "file_url": "https://raw.githubusercontent.com/taybenlor/runno/af05728f02d907210d28587b4c32a306e79e312e/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 776,
+    "size_mb": 77,
+    "created_at": "2021-06-05T13:07:30Z",
+    "last_commit_at": "2026-10-31T10:09:08Z",
+    "releases": 0,
+    "tags": 35,
+    "archived": false,
+    "release": {
+      "tag": "v0.10.2",
+      "at": "2025-05-18T13:15:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "af05728f02d907210d28587b4c32a306e79e312e",
+    "v": 3
+  },
+  "pinned_at": "2026-10-31T10:09:08Z"
+}

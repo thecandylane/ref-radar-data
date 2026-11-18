@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a2c52bbfea9fbcf1d7e89d74ef607c6d1fb4ba14"
-  },
   "id": "gh:1jehuang/agentgrep",
   "kind": "repo",
   "url": "https://github.com/1jehuang/agentgrep",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/1jehuang/agentgrep",
-    "sha": "a2c52bbfea9fbcf1d7e89d74ef607c6d1fb4ba14",
-    "file_url": "https://cdn.jsdelivr.net/gh/1jehuang/agentgrep@a2c52bbfea9fbcf1d7e89d74ef607c6d1fb4ba14/{path}"
+    "sha": "ff7ba82913f4c3a1d69062767d7661de7de80e4b",
+    "file_url": "https://cdn.jsdelivr.net/gh/1jehuang/agentgrep@ff7ba82913f4c3a1d69062767d7661de7de80e4b/{path}"
   },
   "facts": {
     "lang": "Rust",
@@ -49,7 +46,7 @@
       "at": "2026-10-24T04:57:32.000Z"
     }
   },
-  "reuse": "study",
+  "reuse": "copy",
   "maturity": "stable",
   "status": null,
   "stats": {
@@ -63,7 +60,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "a2c52bbfea9fbcf1d7e89d74ef607c6d1fb4ba14",
+    "sha": "ff7ba82913f4c3a1d69062767d7661de7de80e4b",
     "v": 3
-  }
+  },
+  "pins_before": [
+    "a2c52bbfea9fbcf1d7e89d74ef607c6d1fb4ba14"
+  ],
+  "pinned_at": "2026-11-17T04:06:01Z"
 }

@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f16c89be1c366bd53c217f4172f69e1e376ead28"
+  },
+  "id": "gh:ropensci/gsodr",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/GSODR",
+  "title": "GSODR",
+  "why": "Downloads NOAA station weather files into R data.table frames, but NCEI discontinued GSOD data on 2025-08-29.",
+  "keys": {
+    "races": [
+      "data/datasets",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/datasets",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/GSODR",
+    "sha": "f16c89be1c366bd53c217f4172f69e1e376ead28",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/GSODR@f16c89be1c366bd53c217f4172f69e1e376ead28/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 98,
+    "size_mb": 180,
+    "created_at": "2015-03-23T23:26:42Z",
+    "last_commit_at": "2026-10-01T03:07:46Z",
+    "releases": 48,
+    "tags": 48,
+    "archived": false,
+    "release": {
+      "tag": "v5.0.0",
+      "at": "2025-11-15T23:07:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f16c89be1c366bd53c217f4172f69e1e376ead28",
+    "v": 3
+  },
+  "pinned_at": "2026-10-01T03:07:46Z"
+}

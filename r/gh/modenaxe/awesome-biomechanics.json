@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:de83e6dc2affb15d8672c7367b109e8e7c7ccc20"
+  },
   "id": "gh:modenaxe/awesome-biomechanics",
   "kind": "repo",
   "url": "https://github.com/modenaxe/awesome-biomechanics",
@@ -39,7 +42,7 @@
     "archived": false,
     "release": null
   },
-  "reuse": "study",
+  "reuse": "copy",
   "maturity": "quiet",
   "status": null,
   "stats": {
@@ -55,5 +58,6 @@
   "pack": {
     "sha": "de83e6dc2affb15d8672c7367b109e8e7c7ccc20",
     "v": 3
-  }
+  },
+  "pinned_at": "2026-03-06T03:47:52Z"
 }

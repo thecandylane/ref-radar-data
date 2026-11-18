@@ -1,0 +1,61 @@
+{
+  "id": "gh:startluxlabs/startlux-prism",
+  "kind": "repo",
+  "url": "https://github.com/StartLuxLabs/StartLux-Prism",
+  "title": "StartLux-Prism",
+  "why": "Serves StartLux-Decision GGUF files on NVIDIA GPUs and returns a calibrated probability for each option, bit-identical whatever the batch.",
+  "keys": {
+    "races": [
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "llm-infra/inference"
+    ],
+    "capabilities": [
+      "llm-infra/inference/low-bit",
+      "llm-infra/inference/distributed-inference"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/StartLuxLabs/StartLux-Prism",
+    "sha": "ef28f6f8d1b19f1336eafe418f26b96d053e8f76",
+    "file_url": "https://cdn.jsdelivr.net/gh/StartLuxLabs/StartLux-Prism@ef28f6f8d1b19f1336eafe418f26b96d053e8f76/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 560,
+    "size_mb": 7,
+    "created_at": "2026-10-13T17:59:09Z",
+    "last_commit_at": "2026-10-27T04:32:03Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ef28f6f8d1b19f1336eafe418f26b96d053e8f76",
+    "v": 3
+  },
+  "pinned_at": "2026-10-27T04:32:03Z"
+}

@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3efd0a69e15dc9ba8f965342ea47d295c7033f40"
+  },
+  "id": "gh:loftytopping/pybox",
+  "kind": "repo",
+  "url": "https://github.com/loftytopping/PyBox",
+  "title": "PyBox",
+  "why": "Parses MCM reaction files into equations and solves them with Numba for gas-phase atmospheric chemistry.",
+  "keys": {
+    "races": [
+      "engineering/process",
+      "engineering/chemistry"
+    ],
+    "lanes": [
+      "engineering/process",
+      "engineering/chemistry"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/loftytopping/PyBox",
+    "sha": "3efd0a69e15dc9ba8f965342ea47d295c7033f40",
+    "file_url": "https://cdn.jsdelivr.net/gh/loftytopping/PyBox@3efd0a69e15dc9ba8f965342ea47d295c7033f40/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 41,
+    "size_mb": 4,
+    "created_at": "2018-04-18T10:09:33Z",
+    "last_commit_at": "2020-11-03T12:57:05Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "1.0.1",
+      "at": "2018-08-14T11:27:32.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3efd0a69e15dc9ba8f965342ea47d295c7033f40",
+    "v": 3
+  },
+  "pinned_at": "2020-11-03T12:57:05Z"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "gh:neo23x0/yaraqa",
+  "kind": "repo",
+  "url": "https://github.com/Neo23x0/yaraQA",
+  "title": "yaraQA",
+  "why": "Flags YARA rules that never match or use short atoms that slow scanning, and writes the issues to a JSON file.",
+  "keys": {
+    "races": [
+      "cyber/detection"
+    ],
+    "lanes": [
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Neo23x0/yaraQA",
+    "sha": "d8e1d0fa81610340a9ea5a04a36d414b9e5a2e6b",
+    "file_url": "https://cdn.jsdelivr.net/gh/Neo23x0/yaraQA@d8e1d0fa81610340a9ea5a04a36d414b9e5a2e6b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 118,
+    "size_mb": 8,
+    "created_at": "2023-01-03T10:08:49Z",
+    "last_commit_at": "2026-11-11T20:07:49Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

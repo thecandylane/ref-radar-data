@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9544d4f0a3bc5c0ce5adaa747b9d64b9a78be913"
+  },
+  "id": "gh:plger/sechm",
+  "kind": "repo",
+  "url": "https://github.com/plger/sechm",
+  "title": "sechm",
+  "why": "Draws ComplexHeatmap heatmaps from SummarizedExperiment objects, with features, top annotation and gaps set as arguments.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/plger/sechm",
+    "sha": "9544d4f0a3bc5c0ce5adaa747b9d64b9a78be913",
+    "file_url": "https://cdn.jsdelivr.net/gh/plger/sechm@9544d4f0a3bc5c0ce5adaa747b9d64b9a78be913/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 9,
+    "size_mb": 0,
+    "created_at": "2021-04-08T15:51:05Z",
+    "last_commit_at": "2025-04-24T13:11:23Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9544d4f0a3bc5c0ce5adaa747b9d64b9a78be913",
+    "v": 3
+  },
+  "pinned_at": "2025-04-24T13:11:23Z"
+}

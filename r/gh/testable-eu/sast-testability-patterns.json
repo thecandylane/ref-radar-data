@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1902cf16bc7f083e6b54c68c18e3cf78b004715a"
+  },
+  "id": "gh:testable-eu/sast-testability-patterns",
+  "kind": "repo",
+  "url": "https://github.com/testable-eu/sast-testability-patterns",
+  "title": "sast-testability-patterns",
+  "why": "Catalogs of code patterns that make SAST tools miss vulnerabilities or raise false alarms, covering JavaScript, PHP and Java.",
+  "keys": {
+    "races": [
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/static-analysis"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/testable-eu/sast-testability-patterns",
+    "sha": "1902cf16bc7f083e6b54c68c18e3cf78b004715a",
+    "file_url": "https://cdn.jsdelivr.net/gh/testable-eu/sast-testability-patterns@1902cf16bc7f083e6b54c68c18e3cf78b004715a/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "Apache-2.0",
+    "stars": 37,
+    "size_mb": 2,
+    "created_at": "2022-11-03T15:50:58Z",
+    "last_commit_at": "2023-06-14T12:38:11Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1902cf16bc7f083e6b54c68c18e3cf78b004715a",
+    "v": 3
+  },
+  "pinned_at": "2023-06-14T12:38:11Z"
+}

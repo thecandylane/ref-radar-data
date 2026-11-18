@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:71bfb3edc430153c7645ee1925661553d84424de"
+  },
+  "id": "gh:photonstorm/phaser-nano",
+  "kind": "repo",
+  "url": "https://github.com/photonstorm/phaser-nano",
+  "title": "phaser-nano",
+  "why": "Strips Phaser down to 8.3KB min/gz for banner ads, keeping sprites, texture atlases and a WebGL renderer.",
+  "keys": {
+    "races": [
+      "games/engines",
+      "games/graphics"
+    ],
+    "lanes": [
+      "games/engines",
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/photonstorm/phaser-nano",
+    "sha": "71bfb3edc430153c7645ee1925661553d84424de",
+    "file_url": "https://cdn.jsdelivr.net/gh/photonstorm/phaser-nano@71bfb3edc430153c7645ee1925661553d84424de/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 56,
+    "size_mb": 5,
+    "created_at": "2015-10-08T21:55:47Z",
+    "last_commit_at": "2015-10-15T01:22:44Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "71bfb3edc430153c7645ee1925661553d84424de",
+    "v": 3
+  },
+  "pinned_at": "2015-10-15T01:22:44Z"
+}

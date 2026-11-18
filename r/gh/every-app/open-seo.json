@@ -1,0 +1,70 @@
+{
+  "id": "gh:every-app/open-seo",
+  "kind": "repo",
+  "url": "https://github.com/every-app/open-seo",
+  "title": "open-seo",
+  "why": "Pulls keyword, backlink and rank data through DataForSEO, and exposes it to Claude Code as an MCP server with reusable skills.",
+  "keys": {
+    "races": [
+      "data/analytics",
+      "agents/tools",
+      "agents/skills"
+    ],
+    "lanes": [
+      "data/analytics",
+      "agents/tools",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/every-app/open-seo",
+    "sha": "2df84ff91461cc55b6c8bb98f3ce0f195d2e463d",
+    "file_url": "https://cdn.jsdelivr.net/gh/every-app/open-seo@2df84ff91461cc55b6c8bb98f3ce0f195d2e463d/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 28142,
+    "size_mb": 39,
+    "created_at": "2026-02-27T18:57:41Z",
+    "last_commit_at": "2026-11-18T03:37:23Z",
+    "releases": 56,
+    "tags": 57,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.28",
+      "at": "2026-11-17T18:00:13.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2df84ff91461cc55b6c8bb98f3ce0f195d2e463d",
+    "v": 3
+  }
+}

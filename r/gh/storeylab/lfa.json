@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:21a47b5c330ea4d6d70c2b545e60370039b50466"
+  },
+  "id": "gh:storeylab/lfa",
+  "kind": "repo",
+  "url": "https://github.com/StoreyLab/lfa",
+  "title": "lfa",
+  "why": "Fits logistic factor models to genotype matrices, with memory figures for large SNP sets and BEDMatrix input.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/StoreyLab/lfa",
+    "sha": "21a47b5c330ea4d6d70c2b545e60370039b50466",
+    "file_url": "https://cdn.jsdelivr.net/gh/StoreyLab/lfa@21a47b5c330ea4d6d70c2b545e60370039b50466/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 16,
+    "size_mb": 1,
+    "created_at": "2014-11-04T14:36:17Z",
+    "last_commit_at": "2026-01-29T15:44:55Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "21a47b5c330ea4d6d70c2b545e60370039b50466",
+    "v": 3
+  },
+  "pinned_at": "2026-01-29T15:44:55Z"
+}

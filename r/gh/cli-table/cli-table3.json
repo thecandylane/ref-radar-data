@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:80353512a331481db1bb168b24ecfe33bebb21db"
+  },
+  "id": "gh:cli-table/cli-table3",
+  "kind": "repo",
+  "url": "https://github.com/cli-table/cli-table3",
+  "title": "cli-table3",
+  "why": "Draws unicode tables in node.js scripts, with column and row spans, per-cell styles, word wrapping and ANSI colors.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cli-table/cli-table3",
+    "sha": "80353512a331481db1bb168b24ecfe33bebb21db",
+    "file_url": "https://cdn.jsdelivr.net/gh/cli-table/cli-table3@80353512a331481db1bb168b24ecfe33bebb21db/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 640,
+    "size_mb": 1,
+    "created_at": "2018-06-10T11:36:22Z",
+    "last_commit_at": "2026-04-19T18:21:47Z",
+    "releases": 9,
+    "tags": 20,
+    "archived": false,
+    "release": {
+      "tag": "v0.6.5",
+      "at": "2024-05-12T16:37:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "80353512a331481db1bb168b24ecfe33bebb21db",
+    "v": 3
+  },
+  "pinned_at": "2026-04-19T18:21:47Z"
+}

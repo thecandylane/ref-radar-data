@@ -1,0 +1,64 @@
+{
+  "id": "gh:apache/maven-jdeps-plugin",
+  "kind": "repo",
+  "url": "https://github.com/apache/maven-jdeps-plugin",
+  "title": "maven-jdeps-plugin",
+  "why": "Maven plugin that runs the JDK jdeps dependency analyzer on a project as part of the Maven build.",
+  "keys": {
+    "races": [
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/maven-jdeps-plugin",
+    "sha": "15ed0027fa15f92a05b4e19c81a8e5a00ee17bc0",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/maven-jdeps-plugin@15ed0027fa15f92a05b4e19c81a8e5a00ee17bc0/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 16,
+    "size_mb": 0,
+    "created_at": "2017-12-09T15:11:19Z",
+    "last_commit_at": "2026-11-17T17:50:53Z",
+    "releases": 2,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "maven-jdeps-plugin-3.2.0",
+      "at": "2026-01-03T14:18:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "15ed0027fa15f92a05b4e19c81a8e5a00ee17bc0",
+    "v": 3
+  }
+}

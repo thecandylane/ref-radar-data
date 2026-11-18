@@ -22,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/nuttx",
-    "sha": "69bae44b10e75a810d4194a00e934d57b55c7992",
-    "file_url": "https://raw.githubusercontent.com/apache/nuttx/69bae44b10e75a810d4194a00e934d57b55c7992/{path}"
+    "sha": "5d150b4109ec451b5bdd49633aae4819208c5a15",
+    "file_url": "https://raw.githubusercontent.com/apache/nuttx/5d150b4109ec451b5bdd49633aae4819208c5a15/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "Apache-2.0",
-    "stars": 4117,
-    "size_mb": 431,
+    "stars": 4119,
+    "size_mb": 432,
     "created_at": "2019-12-14T23:27:55Z",
-    "last_commit_at": "2026-11-17T08:51:37Z",
+    "last_commit_at": "2026-11-18T08:57:24Z",
     "releases": 0,
     "tags": 209,
     "archived": false,
@@ -51,10 +51,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "69bae44b10e75a810d4194a00e934d57b55c7992",
+    "sha": "5d150b4109ec451b5bdd49633aae4819208c5a15",
     "v": 3
   },
   "pins_before": [
+    "69bae44b10e75a810d4194a00e934d57b55c7992",
     "49bec82a7c28656261406746def685830c32b575",
     "d2109c20d2af03dd410b576fa5aab1a8212fbf9e"
   ]

@@ -1,0 +1,75 @@
+{
+  "id": "gh:seanbabalala/siftgate",
+  "kind": "repo",
+  "url": "https://github.com/seanbabalala/SiftGate",
+  "title": "SiftGate",
+  "why": "Self-hosted gateway that sends OpenAI- and Anthropic-compatible traffic through credential pools, logging metadata only by default.",
+  "keys": {
+    "races": [
+      "llm-infra/gateways",
+      "agents/tools"
+    ],
+    "lanes": [
+      "llm-infra/gateways",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "llm-infra/gateways/model-routing",
+      "llm-infra/gateways/multi-account",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/seanbabalala/SiftGate",
+    "sha": "a1b1510f14d77ece0cd09d626add13b44bbbea3b",
+    "file_url": "https://cdn.jsdelivr.net/gh/seanbabalala/SiftGate@a1b1510f14d77ece0cd09d626add13b44bbbea3b/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 622,
+    "size_mb": 13,
+    "created_at": "2026-04-30T13:47:56Z",
+    "last_commit_at": "2026-11-11T06:51:32Z",
+    "releases": 56,
+    "tags": 87,
+    "archived": false,
+    "release": {
+      "tag": "v2.12.16",
+      "at": "2026-11-11T08:08:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a1b1510f14d77ece0cd09d626add13b44bbbea3b",
+    "v": 3
+  },
+  "pinned_at": "2026-11-11T06:51:32Z"
+}

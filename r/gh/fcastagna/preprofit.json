@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c9a5ac1a9ca8c2e66594af9e5a2fc5dea8684b04"
+  },
+  "id": "gh:fcastagna/preprofit",
+  "kind": "repo",
+  "url": "https://github.com/fcastagna/preprofit",
+  "title": "preprofit",
+  "why": "Fits pressure profiles of many galaxy clusters together with hierarchical MCMC, using pymc and arviz for checks.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fcastagna/preprofit",
+    "sha": "c9a5ac1a9ca8c2e66594af9e5a2fc5dea8684b04",
+    "file_url": "https://cdn.jsdelivr.net/gh/fcastagna/preprofit@c9a5ac1a9ca8c2e66594af9e5a2fc5dea8684b04/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-2-Clause",
+    "stars": 7,
+    "size_mb": 1,
+    "created_at": "2018-10-29T15:28:04Z",
+    "last_commit_at": "2026-03-14T14:18:41Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c9a5ac1a9ca8c2e66594af9e5a2fc5dea8684b04",
+    "v": 3
+  },
+  "pinned_at": "2026-03-14T14:18:41Z"
+}

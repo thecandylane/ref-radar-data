@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7718aa721ddeddf9f780616c84d0e773d116c965"
+  },
+  "id": "gh:hpcc-systems/hpcc-js-wasm",
+  "kind": "repo",
+  "url": "https://github.com/hpcc-systems/hpcc-js-wasm",
+  "title": "hpcc-js-wasm",
+  "why": "Loads Graphviz, zstd and DuckDB compiled to WASM in Node JS and browsers, with each loader freed by a using declaration.",
+  "keys": {
+    "races": [
+      "dev-tools/diagrams",
+      "data/serialization",
+      "data/databases"
+    ],
+    "lanes": [
+      "dev-tools/diagrams",
+      "data/serialization",
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hpcc-systems/hpcc-js-wasm",
+    "sha": "7718aa721ddeddf9f780616c84d0e773d116c965",
+    "file_url": "https://cdn.jsdelivr.net/gh/hpcc-systems/hpcc-js-wasm@7718aa721ddeddf9f780616c84d0e773d116c965/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 393,
+    "size_mb": 16,
+    "created_at": "2019-06-13T05:44:37Z",
+    "last_commit_at": "2026-11-09T08:52:46Z",
+    "releases": 473,
+    "tags": 533,
+    "archived": false,
+    "release": {
+      "tag": "wasm-v2.37.0",
+      "at": "2026-11-01T09:22:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7718aa721ddeddf9f780616c84d0e773d116c965",
+    "v": 3
+  },
+  "pinned_at": "2026-11-09T08:52:46Z"
+}

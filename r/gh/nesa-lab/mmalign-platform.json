@@ -1,0 +1,70 @@
+{
+  "id": "gh:nesa-lab/mmalign-platform",
+  "kind": "repo",
+  "url": "https://github.com/NESA-Lab/mmalign-platform",
+  "title": "mmalign-platform",
+  "why": "Monorepo with API, CLI and web UI for running model benchmarks against scenario packages, with mock models and judges for offline runs.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "agents/optimization"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "agents/optimization"
+    ],
+    "capabilities": [
+      "agents/optimization/rl-environments"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NESA-Lab/mmalign-platform",
+    "sha": "68a33f03f75d5550909b627799fda048805ecdc1",
+    "file_url": "https://raw.githubusercontent.com/NESA-Lab/mmalign-platform/68a33f03f75d5550909b627799fda048805ecdc1/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 569,
+    "size_mb": 460,
+    "created_at": "2026-07-31T05:54:03Z",
+    "last_commit_at": "2026-11-13T08:23:02Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "68a33f03f75d5550909b627799fda048805ecdc1",
+    "v": 3
+  },
+  "pinned_at": "2026-11-13T08:23:02Z"
+}

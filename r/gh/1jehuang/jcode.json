@@ -39,16 +39,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/1jehuang/jcode",
-    "sha": "a1d7f8a4879546261b139f0814cab348a6517ba8",
-    "file_url": "https://raw.githubusercontent.com/1jehuang/jcode/a1d7f8a4879546261b139f0814cab348a6517ba8/{path}"
+    "sha": "e8c92f145a795d8d271fe70635898ca93e4218b5",
+    "file_url": "https://raw.githubusercontent.com/1jehuang/jcode/e8c92f145a795d8d271fe70635898ca93e4218b5/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 21831,
+    "stars": 21873,
     "size_mb": 463,
     "created_at": "2026-01-05T09:43:36Z",
-    "last_commit_at": "2026-11-17T05:39:58Z",
+    "last_commit_at": "2026-11-18T07:43:59Z",
     "releases": 207,
     "tags": 235,
     "archived": false,
@@ -65,16 +65,17 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 165,
+    "star_delta_7d": 183,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "a1d7f8a4879546261b139f0814cab348a6517ba8",
+    "sha": "e8c92f145a795d8d271fe70635898ca93e4218b5",
     "v": 3
   },
   "pins_before": [
+    "a1d7f8a4879546261b139f0814cab348a6517ba8",
     "ca8de2ff026d6bd3aa68bbc29830cbd4b2a4e8dd",
     "374ed3ecacdc2a08ecd1cdef6a57a036060e424d",
     "c2c7b4649668726829a75ff156a1847e789c46f5"

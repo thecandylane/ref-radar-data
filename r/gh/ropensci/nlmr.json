@@ -1,0 +1,67 @@
+{
+  "id": "gh:ropensci/nlmr",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/NLMR",
+  "title": "NLMR",
+  "why": "Simulates neutral landscape models in R, with 15 algorithms returning SpatRaster objects that plug into common GIS tasks.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/NLMR",
+    "sha": "fe99dd7184eabaad21ab70fd7cb0f9910346ba09",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/NLMR@fe99dd7184eabaad21ab70fd7cb0f9910346ba09/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 71,
+    "size_mb": 141,
+    "created_at": "2017-08-04T15:34:40Z",
+    "last_commit_at": "2026-11-12T13:56:39Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v0.6",
+      "at": "2021-09-21T12:01:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fe99dd7184eabaad21ab70fd7cb0f9910346ba09",
+    "v": 3
+  },
+  "pinned_at": "2026-11-12T13:56:39Z"
+}

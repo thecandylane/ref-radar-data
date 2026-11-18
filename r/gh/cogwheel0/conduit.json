@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:7a5391a34721bff7bc22c1eda05538f88d6404bb"
+  },
   "id": "gh:cogwheel0/conduit",
   "kind": "repo",
   "url": "https://github.com/cogwheel0/conduit",
@@ -47,10 +50,10 @@
   "facts": {
     "lang": "Dart",
     "license": "GPL-3.0",
-    "stars": 2468,
-    "size_mb": 310,
+    "stars": 2477,
+    "size_mb": 312,
     "created_at": "2025-08-09T19:46:53Z",
-    "last_commit_at": "2026-11-17T05:11:49Z",
+    "last_commit_at": "2026-11-17T22:35:52Z",
     "releases": 109,
     "tags": 109,
     "archived": false,
@@ -59,7 +62,7 @@
       "at": "2026-11-11T07:55:42.000Z"
     }
   },
-  "reuse": "copyleft",
+  "reuse": "copy",
   "maturity": "stable",
   "status": null,
   "stats": {

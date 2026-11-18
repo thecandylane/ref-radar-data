@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:943743b8bfa357fd0403f260df0ab8eebbae62dd"
+  },
   "id": "gh:getsentry/sentry-javascript",
   "kind": "repo",
   "url": "https://github.com/getsentry/sentry-javascript",
@@ -34,19 +37,19 @@
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 8775,
-    "size_mb": 282,
+    "stars": 8778,
+    "size_mb": 283,
     "created_at": "2012-02-01T20:16:25Z",
-    "last_commit_at": "2026-11-17T09:17:58Z",
-    "releases": 767,
-    "tags": 842,
+    "last_commit_at": "2026-11-18T09:09:50Z",
+    "releases": 768,
+    "tags": 843,
     "archived": false,
     "release": {
-      "tag": "11.13.0",
-      "at": "2026-11-16T16:28:28.000Z"
+      "tag": "11.14.0",
+      "at": "2026-11-17T17:53:46.000Z"
     }
   },
-  "reuse": "study",
+  "reuse": "copy",
   "maturity": "stable",
   "status": null,
   "stats": {

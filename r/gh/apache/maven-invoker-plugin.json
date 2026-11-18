@@ -1,0 +1,68 @@
+{
+  "id": "gh:apache/maven-invoker-plugin",
+  "kind": "repo",
+  "url": "https://github.com/apache/maven-invoker-plugin",
+  "title": "maven-invoker-plugin",
+  "why": "Runs JUnit and IT tests through mvn -Prun-its verify to confirm a change breaks nothing else in the plugin.",
+  "keys": {
+    "races": [
+      "dev-tools/build",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/build",
+      "dev-tools/testing"
+    ],
+    "capabilities": [
+      "dev-tools/testing/integration-testing"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/maven-invoker-plugin",
+    "sha": "e354aa5ced71a4c475bc12f50018c6b24c3f64b0",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/maven-invoker-plugin@e354aa5ced71a4c475bc12f50018c6b24c3f64b0/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 22,
+    "size_mb": 2,
+    "created_at": "2017-12-09T15:08:56Z",
+    "last_commit_at": "2026-11-18T07:37:57Z",
+    "releases": 15,
+    "tags": 34,
+    "archived": false,
+    "release": {
+      "tag": "maven-invoker-plugin-3.10.1",
+      "at": "2026-05-05T21:14:13.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e354aa5ced71a4c475bc12f50018c6b24c3f64b0",
+    "v": 3
+  }
+}

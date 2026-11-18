@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:00d8930bbb721c3a59c939e44b221a39ff761f06"
+  },
   "id": "gh:zznop/bn-recursion",
   "kind": "repo",
   "url": "https://github.com/zznop/bn-recursion",
@@ -40,7 +43,7 @@
       "at": "2020-07-22T15:44:45.000Z"
     }
   },
-  "reuse": "study",
+  "reuse": "copy",
   "maturity": "quiet",
   "status": null,
   "stats": {
@@ -56,5 +59,6 @@
   "pack": {
     "sha": "00d8930bbb721c3a59c939e44b221a39ff761f06",
     "v": 3
-  }
+  },
+  "pinned_at": "2020-07-22T15:42:18Z"
 }

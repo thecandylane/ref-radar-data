@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:0d4203a5eb4779b5be98f724c6d046f6d349fb16"
+  },
   "id": "gh:fermi-ad/flutter-template",
   "kind": "repo",
   "url": "https://github.com/fermi-ad/flutter-template",
@@ -43,7 +46,7 @@
     "archived": false,
     "release": null
   },
-  "reuse": "study",
+  "reuse": "copy",
   "maturity": "unreleased",
   "status": null,
   "stats": {
@@ -59,5 +62,6 @@
   "pack": {
     "sha": "0d4203a5eb4779b5be98f724c6d046f6d349fb16",
     "v": 3
-  }
+  },
+  "pinned_at": "2026-10-27T19:53:44Z"
 }

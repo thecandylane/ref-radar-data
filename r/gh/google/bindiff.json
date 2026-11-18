@@ -1,0 +1,58 @@
+{
+  "id": "gh:google/bindiff",
+  "kind": "repo",
+  "url": "https://github.com/google/bindiff",
+  "title": "bindiff",
+  "why": "Compares disassembled code from two binaries to find changed functions, and ports names and comments between versions.",
+  "keys": {
+    "races": [
+      "cyber/reversing"
+    ],
+    "lanes": [
+      "cyber/reversing"
+    ],
+    "capabilities": [
+      "cyber/reversing/disassemblers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google/bindiff",
+    "sha": "6672147ab927d29c7fc514f9e647ea97eafbfa26",
+    "file_url": "https://raw.githubusercontent.com/google/bindiff/6672147ab927d29c7fc514f9e647ea97eafbfa26/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 3246,
+    "size_mb": 317,
+    "created_at": "2023-09-20T06:41:55Z",
+    "last_commit_at": "2026-11-16T16:56:00Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v8",
+      "at": "2023-09-25T08:12:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

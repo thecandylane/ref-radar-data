@@ -1,0 +1,73 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:53976202815edb80d74db89693a925f418cf3b6f"
+  },
+  "id": "gh:ornlneutronimaging/bm3dornl",
+  "kind": "repo",
+  "url": "https://github.com/ornlneutronimaging/bm3dornl",
+  "title": "bm3dornl",
+  "why": "Strips ring artifacts out of neutron-imaging sinograms with a Rust-built BM3D denoising algorithm, callable from Python.",
+  "keys": {
+    "races": [
+      "ml/vision"
+    ],
+    "lanes": [
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ornlneutronimaging/bm3dornl",
+    "sha": "53976202815edb80d74db89693a925f418cf3b6f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ornlneutronimaging/bm3dornl@53976202815edb80d74db89693a925f418cf3b6f/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 13,
+    "size_mb": 240,
+    "created_at": "2024-04-29T14:02:44Z",
+    "last_commit_at": "2026-11-10T18:31:00Z",
+    "releases": 19,
+    "tags": 23,
+    "archived": false,
+    "release": {
+      "tag": "v0.12.1",
+      "at": "2026-10-24T00:16:53.000Z"
+    },
+    "doi": "10.21105/joss.11132",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-18"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "53976202815edb80d74db89693a925f418cf3b6f",
+    "v": 3
+  }
+}

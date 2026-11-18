@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b60352fbe9675d374b00828055e55be4584c7995"
+  },
+  "id": "gh:mfem/tpls",
+  "kind": "repo",
+  "url": "https://github.com/mfem/tpls",
+  "title": "tpls",
+  "why": "Holds the METIS 4.0.3 and 5.1.0 source archives that MFEM builds link against, plus a patched build for new Macs.",
+  "keys": {
+    "races": [
+      "engineering/simulation",
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "engineering/simulation",
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mfem/tpls",
+    "sha": "b60352fbe9675d374b00828055e55be4584c7995",
+    "file_url": "https://cdn.jsdelivr.net/gh/mfem/tpls@b60352fbe9675d374b00828055e55be4584c7995/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "none",
+    "stars": 6,
+    "size_mb": 10,
+    "created_at": "2020-07-17T22:18:19Z",
+    "last_commit_at": "2025-01-05T00:40:14Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b60352fbe9675d374b00828055e55be4584c7995",
+    "v": 3
+  },
+  "pinned_at": "2025-01-05T00:40:14Z"
+}

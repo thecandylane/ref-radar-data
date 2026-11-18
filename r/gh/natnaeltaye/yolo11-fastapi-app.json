@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:f91c7fa13264ed66d4c70b5a59229169e2ab1616"
+  },
   "id": "gh:natnaeltaye/yolo11-fastapi-app",
   "kind": "repo",
   "url": "https://github.com/natnaeltaye/yolo11-fastapi-app",
@@ -52,7 +55,7 @@
       "at": "2026-11-10"
     }
   },
-  "reuse": "study",
+  "reuse": "copy",
   "maturity": "quiet",
   "status": null,
   "stats": {
@@ -68,5 +71,6 @@
   "pack": {
     "sha": "f91c7fa13264ed66d4c70b5a59229169e2ab1616",
     "v": 3
-  }
+  },
+  "pinned_at": "2025-10-30T20:18:15Z"
 }
