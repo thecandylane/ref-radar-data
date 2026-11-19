@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:2056cb7662509dc998fc6ce79636aec4e6c0397f"
-  },
   "id": "gh:lolbas-project/lolbas",
   "kind": "repo",
   "url": "https://github.com/LOLBAS-Project/LOLBAS",
@@ -27,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/LOLBAS-Project/LOLBAS",
-    "sha": "2056cb7662509dc998fc6ce79636aec4e6c0397f",
-    "file_url": "https://cdn.jsdelivr.net/gh/LOLBAS-Project/LOLBAS@2056cb7662509dc998fc6ce79636aec4e6c0397f/{path}"
+    "sha": "98a39d57b0a3873d635cd5594f2dbffa83891bc3",
+    "file_url": "https://cdn.jsdelivr.net/gh/LOLBAS-Project/LOLBAS@98a39d57b0a3873d635cd5594f2dbffa83891bc3/{path}"
   },
   "facts": {
     "lang": "XSLT",
     "license": "GPL-3.0",
-    "stars": 8943,
+    "stars": 8945,
     "size_mb": 2,
     "created_at": "2018-06-08T22:11:05Z",
     "last_commit_at": "2026-11-17T23:00:07Z",
@@ -55,8 +52,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "2056cb7662509dc998fc6ce79636aec4e6c0397f",
-    "v": 3
-  }
+  "pins_before": [
+    "2056cb7662509dc998fc6ce79636aec4e6c0397f"
+  ],
+  "pinned_at": "2026-11-17T23:00:07Z"
 }

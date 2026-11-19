@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:5a454c91d77c8464dad6ef12e663618cd427ad9e"
+  },
   "id": "gh:olimorris/codecompanion.nvim",
   "kind": "repo",
   "url": "https://github.com/olimorris/codecompanion.nvim",
@@ -24,8 +27,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/olimorris/codecompanion.nvim",
-    "sha": "36587a09d7afa65ca9970475b037e6c747afe7a0",
-    "file_url": "https://cdn.jsdelivr.net/gh/olimorris/codecompanion.nvim@36587a09d7afa65ca9970475b037e6c747afe7a0/{path}"
+    "sha": "5a454c91d77c8464dad6ef12e663618cd427ad9e",
+    "file_url": "https://cdn.jsdelivr.net/gh/olimorris/codecompanion.nvim@5a454c91d77c8464dad6ef12e663618cd427ad9e/{path}"
   },
   "facts": {
     "lang": "Lua",
@@ -33,7 +36,7 @@
     "stars": 6947,
     "size_mb": 11,
     "created_at": "2023-12-27T17:32:51Z",
-    "last_commit_at": "2026-11-13T08:17:01Z",
+    "last_commit_at": "2026-11-18T09:28:27Z",
     "releases": 418,
     "tags": 419,
     "archived": false,
@@ -50,13 +53,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 14,
+    "star_delta_7d": 15,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "36587a09d7afa65ca9970475b037e6c747afe7a0",
-    "v": 3
-  }
+  "pins_before": [
+    "36587a09d7afa65ca9970475b037e6c747afe7a0"
+  ],
+  "pinned_at": "2026-11-18T09:28:27Z"
 }

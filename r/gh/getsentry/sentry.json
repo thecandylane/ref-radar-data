@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:cf3fe641ae7a7c320b63e8c0296632d232472b36"
-  },
   "id": "gh:getsentry/sentry",
   "kind": "repo",
   "url": "https://github.com/getsentry/sentry",
@@ -31,18 +28,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/getsentry/sentry",
-    "sha": "cf3fe641ae7a7c320b63e8c0296632d232472b36",
-    "file_url": "https://raw.githubusercontent.com/getsentry/sentry/cf3fe641ae7a7c320b63e8c0296632d232472b36/{path}"
+    "sha": "08b8db91a2be27fb5b39a3bcdfa495488432ff51",
+    "file_url": "https://raw.githubusercontent.com/getsentry/sentry/08b8db91a2be27fb5b39a3bcdfa495488432ff51/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 45792,
-    "size_mb": 984,
+    "stars": 45799,
+    "size_mb": 983,
     "created_at": "2010-08-30T22:06:41Z",
-    "last_commit_at": "2026-11-18T08:51:34Z",
-    "releases": 200,
-    "tags": 514,
+    "last_commit_at": "2026-11-19T08:40:16Z",
+    "releases": 206,
+    "tags": 520,
     "archived": false,
     "release": {
       "tag": "26.11.0",
@@ -57,13 +54,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 43,
+    "star_delta_7d": 39,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "cf3fe641ae7a7c320b63e8c0296632d232472b36",
-    "v": 3
-  }
+  "pins_before": [
+    "cf3fe641ae7a7c320b63e8c0296632d232472b36"
+  ],
+  "pinned_at": "2026-11-19T08:40:16Z"
 }

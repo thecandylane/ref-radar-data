@@ -1,0 +1,69 @@
+{
+  "id": "gh:posteverywhere/mcp",
+  "kind": "repo",
+  "url": "https://github.com/posteverywhere/mcp",
+  "title": "mcp",
+  "why": "Lets an agent schedule, edit and retry posts on 13 platforms, and save drafts that never publish until you schedule them.",
+  "keys": {
+    "races": [
+      "marketing/social-media",
+      "agents/tools"
+    ],
+    "lanes": [
+      "marketing/social-media",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/posteverywhere/mcp",
+    "sha": "8fd661d35f36662ea6d753237a21297e5bac7ae9",
+    "file_url": "https://cdn.jsdelivr.net/gh/posteverywhere/mcp@8fd661d35f36662ea6d753237a21297e5bac7ae9/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 7,
+    "size_mb": 0,
+    "created_at": "2026-04-28T02:56:31Z",
+    "last_commit_at": "2026-10-23T14:33:57Z",
+    "releases": 1,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.0",
+      "at": "2026-06-11T04:57:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8fd661d35f36662ea6d753237a21297e5bac7ae9",
+    "v": 4
+  },
+  "pinned_at": "2026-10-23T14:33:57Z"
+}

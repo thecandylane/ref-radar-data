@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2337a85f3bd8e6b5fd66d393cacf9e2aa9b5a412"
+  },
+  "id": "gh:niclasmattsson/globalenergygis",
+  "kind": "repo",
+  "url": "https://github.com/niclasmattsson/GlobalEnergyGIS",
+  "title": "GlobalEnergyGIS",
+  "why": "Turns ERA5 reanalysis, Global Wind Atlas and GADM data into hourly solar and wind capacity factors for arbitrary model regions.",
+  "keys": {
+    "races": [
+      "energy/renewables",
+      "energy/system-models"
+    ],
+    "lanes": [
+      "energy/renewables",
+      "energy/system-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/niclasmattsson/GlobalEnergyGIS",
+    "sha": "2337a85f3bd8e6b5fd66d393cacf9e2aa9b5a412",
+    "file_url": "https://cdn.jsdelivr.net/gh/niclasmattsson/GlobalEnergyGIS@2337a85f3bd8e6b5fd66d393cacf9e2aa9b5a412/{path}"
+  },
+  "facts": {
+    "lang": "Julia",
+    "license": "MIT",
+    "stars": 71,
+    "size_mb": 4,
+    "created_at": "2019-05-21T08:27:31Z",
+    "last_commit_at": "2024-12-12T13:15:22Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2337a85f3bd8e6b5fd66d393cacf9e2aa9b5a412",
+    "v": 4
+  },
+  "pinned_at": "2024-12-12T13:15:22Z"
+}

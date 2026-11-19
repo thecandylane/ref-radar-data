@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8cbcededd1cda0fc463585319432c8b09db2945f"
+  },
+  "id": "gh:ropensci/fluidsynth",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/fluidsynth",
+  "title": "fluidsynth",
+  "why": "Lets R scripts drive libfluidsynth, the synth engine that renders MIDI files, once libfluidsynth-dev is installed.",
+  "keys": {
+    "races": [
+      "media/audio-production"
+    ],
+    "lanes": [
+      "media/audio-production"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/fluidsynth",
+    "sha": "8cbcededd1cda0fc463585319432c8b09db2945f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/fluidsynth@8cbcededd1cda0fc463585319432c8b09db2945f/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 14,
+    "size_mb": 27,
+    "created_at": "2024-02-11T17:53:09Z",
+    "last_commit_at": "2026-09-15T13:31:52Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "generaluser-gs-v1.471",
+      "at": "2024-02-15T13:33:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8cbcededd1cda0fc463585319432c8b09db2945f",
+    "v": 4
+  },
+  "pinned_at": "2026-09-15T13:31:52Z"
+}

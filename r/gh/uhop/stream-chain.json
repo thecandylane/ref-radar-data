@@ -1,0 +1,64 @@
+{
+  "id": "gh:uhop/stream-chain",
+  "kind": "repo",
+  "url": "https://github.com/uhop/stream-chain",
+  "title": "stream-chain",
+  "why": "Runs multi-gigabyte JSONL dumps record by record through plain functions while memory stays flat.",
+  "keys": {
+    "races": [
+      "data/pipelines",
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/pipelines",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/uhop/stream-chain",
+    "sha": "dfef6dc15fd5a1d32055f1dfeaa843a214e04998",
+    "file_url": "https://cdn.jsdelivr.net/gh/uhop/stream-chain@dfef6dc15fd5a1d32055f1dfeaa843a214e04998/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "BSD-3-Clause",
+    "stars": 100,
+    "size_mb": 1,
+    "created_at": "2018-05-20T04:57:48Z",
+    "last_commit_at": "2026-11-09T20:04:03Z",
+    "releases": 0,
+    "tags": 44,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dfef6dc15fd5a1d32055f1dfeaa843a214e04998",
+    "v": 4
+  },
+  "pinned_at": "2026-11-09T20:04:03Z"
+}

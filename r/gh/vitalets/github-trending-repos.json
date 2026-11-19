@@ -1,0 +1,60 @@
+{
+  "id": "gh:vitalets/github-trending-repos",
+  "kind": "repo",
+  "url": "https://github.com/vitalets/github-trending-repos",
+  "title": "github-trending-repos",
+  "why": "Runs a scheduled script that posts trending repos per language as issue comments, so GitHub notifications carry daily or weekly digests.",
+  "keys": {
+    "races": [
+      "media/news"
+    ],
+    "lanes": [
+      "media/news"
+    ],
+    "capabilities": [
+      "media/news/news-digests"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vitalets/github-trending-repos",
+    "sha": "080e05f0e529eab7bc765a582ecd9a768204e83f",
+    "file_url": "https://cdn.jsdelivr.net/gh/vitalets/github-trending-repos@080e05f0e529eab7bc765a582ecd9a768204e83f/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "none",
+    "stars": 3049,
+    "size_mb": 1,
+    "created_at": "2017-11-01T15:05:09Z",
+    "last_commit_at": "2026-10-11T16:16:58Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "080e05f0e529eab7bc765a582ecd9a768204e83f",
+    "v": 4
+  },
+  "pinned_at": "2026-10-11T16:16:58Z"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "gh:tagspaces/tagspaces",
+  "kind": "repo",
+  "url": "https://github.com/tagspaces/tagspaces",
+  "title": "tagspaces",
+  "why": "Tags local files either in their filenames or in sidecar files, and runs offline on Windows, Linux and macOS.",
+  "keys": {
+    "races": [
+      "business-apps/document-management",
+      "desktop/app-shells"
+    ],
+    "lanes": [
+      "business-apps/document-management",
+      "desktop/app-shells"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tagspaces/tagspaces",
+    "sha": "a9232fd74c5d01e0eddb5dd54db99b03a61e5dc1",
+    "file_url": "https://cdn.jsdelivr.net/gh/tagspaces/tagspaces@a9232fd74c5d01e0eddb5dd54db99b03a61e5dc1/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "AGPL-3.0",
+    "stars": 5387,
+    "size_mb": 146,
+    "created_at": "2012-11-23T17:25:20Z",
+    "last_commit_at": "2026-11-16T09:18:55Z",
+    "releases": 275,
+    "tags": 380,
+    "archived": false,
+    "release": {
+      "tag": "v6.15.1",
+      "at": "2026-11-16T12:31:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a9232fd74c5d01e0eddb5dd54db99b03a61e5dc1",
+    "v": 4
+  },
+  "pinned_at": "2026-11-16T09:18:55Z"
+}

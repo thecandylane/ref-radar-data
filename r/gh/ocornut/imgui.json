@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:9fb6f2d8bc81ec7600fad8c9a8f26306c8e36fd0"
+    "swh": "swh:1:rev:77fe4588e6af934b4167b91312174ca3fbb0d71a"
   },
   "id": "gh:ocornut/imgui",
   "kind": "repo",
@@ -33,13 +33,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ocornut/imgui",
-    "sha": "9fb6f2d8bc81ec7600fad8c9a8f26306c8e36fd0",
-    "file_url": "https://cdn.jsdelivr.net/gh/ocornut/imgui@9fb6f2d8bc81ec7600fad8c9a8f26306c8e36fd0/{path}"
+    "sha": "77fe4588e6af934b4167b91312174ca3fbb0d71a",
+    "file_url": "https://cdn.jsdelivr.net/gh/ocornut/imgui@77fe4588e6af934b4167b91312174ca3fbb0d71a/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 77155,
+    "stars": 77171,
     "size_mb": 131,
     "created_at": "2014-07-21T14:29:47Z",
     "last_commit_at": "2026-11-16T17:13:36Z",
@@ -59,13 +59,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 93,
+    "star_delta_7d": 94,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "9fb6f2d8bc81ec7600fad8c9a8f26306c8e36fd0",
-    "v": 3
-  }
+  "pins_before": [
+    "9fb6f2d8bc81ec7600fad8c9a8f26306c8e36fd0"
+  ],
+  "pinned_at": "2026-11-16T17:13:36Z"
 }

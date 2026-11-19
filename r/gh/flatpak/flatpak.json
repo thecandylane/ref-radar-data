@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:65a3909ba8b70c9ee6823dbe0c69ce4b45773cd3"
-  },
   "id": "gh:flatpak/flatpak",
   "kind": "repo",
   "url": "https://github.com/flatpak/flatpak",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/flatpak/flatpak",
-    "sha": "65a3909ba8b70c9ee6823dbe0c69ce4b45773cd3",
-    "file_url": "https://cdn.jsdelivr.net/gh/flatpak/flatpak@65a3909ba8b70c9ee6823dbe0c69ce4b45773cd3/{path}"
+    "sha": "73519c296405fbc5bdb2e8077cc63d80b9f906e6",
+    "file_url": "https://cdn.jsdelivr.net/gh/flatpak/flatpak@73519c296405fbc5bdb2e8077cc63d80b9f906e6/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "LGPL-2.1",
-    "stars": 5116,
+    "stars": 5117,
     "size_mb": 60,
     "created_at": "2016-05-19T14:19:21Z",
-    "last_commit_at": "2026-11-17T21:45:37Z",
+    "last_commit_at": "2026-11-18T11:43:51Z",
     "releases": 185,
     "tags": 214,
     "archived": false,
@@ -57,13 +54,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8,
+    "star_delta_7d": 9,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "65a3909ba8b70c9ee6823dbe0c69ce4b45773cd3",
-    "v": 3
-  }
+  "pins_before": [
+    "65a3909ba8b70c9ee6823dbe0c69ce4b45773cd3"
+  ],
+  "pinned_at": "2026-11-18T11:43:51Z"
 }

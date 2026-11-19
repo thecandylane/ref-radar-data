@@ -1,0 +1,68 @@
+{
+  "id": "gh:fabio-rovai/open-ontologies",
+  "kind": "repo",
+  "url": "https://github.com/fabio-rovai/open-ontologies",
+  "title": "open-ontologies",
+  "why": "Previews an ontology edit, counting new consequences and blast radius, and writes a certificate a reviewer checks with no network.",
+  "keys": {
+    "races": [
+      "infra/iac",
+      "agents/tools"
+    ],
+    "lanes": [
+      "infra/iac",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fabio-rovai/open-ontologies",
+    "sha": "fa06a2f6702878f98bcd92a8a208c9d7da445bde",
+    "file_url": "https://raw.githubusercontent.com/fabio-rovai/open-ontologies/fa06a2f6702878f98bcd92a8a208c9d7da445bde/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 2927,
+    "size_mb": 227,
+    "created_at": "2026-03-09T09:08:58Z",
+    "last_commit_at": "2026-11-16T12:38:18Z",
+    "releases": 16,
+    "tags": 28,
+    "archived": false,
+    "release": {
+      "tag": "v2.1.0",
+      "at": "2026-10-23T22:38:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fa06a2f6702878f98bcd92a8a208c9d7da445bde",
+    "v": 4
+  }
+}

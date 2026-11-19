@@ -1,0 +1,62 @@
+{
+  "id": "gh:dcodx/gitarmor",
+  "kind": "repo",
+  "url": "https://github.com/dcodx/gitarmor",
+  "title": "gitarmor",
+  "why": "Runs YML policies against your GitHub organization and repos, reporting failed checks mapped to SLSA threats.",
+  "keys": {
+    "races": [
+      "cyber/supply-chain",
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "cyber/supply-chain",
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dcodx/gitarmor",
+    "sha": "ab18cbb1c0d5b348c93ce8acff44a4fcd954c7a6",
+    "file_url": "https://cdn.jsdelivr.net/gh/dcodx/gitarmor@ab18cbb1c0d5b348c93ce8acff44a4fcd954c7a6/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 14,
+    "size_mb": 4,
+    "created_at": "2024-04-14T16:53:38Z",
+    "last_commit_at": "2025-12-23T09:48:14Z",
+    "releases": 4,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v1.2",
+      "at": "2025-12-01T15:11:13.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

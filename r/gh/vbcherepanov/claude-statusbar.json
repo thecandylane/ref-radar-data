@@ -1,0 +1,65 @@
+{
+  "id": "gh:vbcherepanov/claude-statusbar",
+  "kind": "repo",
+  "url": "https://github.com/vbcherepanov/claude-statusbar",
+  "title": "claude-statusbar",
+  "why": "Bash script that shows model, context usage, cost and git branch on three lines, with threshold flag files that hooks can watch.",
+  "keys": {
+    "races": [
+      "agents/skills",
+      "dev-tools/vcs"
+    ],
+    "lanes": [
+      "agents/skills",
+      "dev-tools/vcs"
+    ],
+    "capabilities": [
+      "agents/skills/agent-configs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vbcherepanov/claude-statusbar",
+    "sha": "351be463769f93a183b7c5230bb41c602434d71a",
+    "file_url": "https://cdn.jsdelivr.net/gh/vbcherepanov/claude-statusbar@351be463769f93a183b7c5230bb41c602434d71a/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "MIT",
+    "stars": 29,
+    "size_mb": 0,
+    "created_at": "2026-02-28T12:56:42Z",
+    "last_commit_at": "2026-11-04T08:42:47Z",
+    "releases": 3,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.4.0",
+      "at": "2026-11-04T08:43:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "351be463769f93a183b7c5230bb41c602434d71a",
+    "v": 4
+  },
+  "pinned_at": "2026-11-04T08:42:47Z"
+}

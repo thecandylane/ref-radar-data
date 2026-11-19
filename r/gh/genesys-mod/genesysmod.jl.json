@@ -1,0 +1,65 @@
+{
+  "id": "gh:genesys-mod/genesysmod.jl",
+  "kind": "repo",
+  "url": "https://github.com/GENeSYS-MOD/GENeSYSMOD.jl",
+  "title": "GENeSYSMOD.jl",
+  "why": "Julia port of a linear program that minimizes total system costs across electricity, buildings, industry and transport.",
+  "keys": {
+    "races": [
+      "energy/system-models"
+    ],
+    "lanes": [
+      "energy/system-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/GENeSYS-MOD/GENeSYSMOD.jl",
+    "sha": "76418890742689e97c8acb035b993d3637fe92c8",
+    "file_url": "https://cdn.jsdelivr.net/gh/GENeSYS-MOD/GENeSYSMOD.jl@76418890742689e97c8acb035b993d3637fe92c8/{path}"
+  },
+  "facts": {
+    "lang": "Julia",
+    "license": "Apache-2.0",
+    "stars": 14,
+    "size_mb": 159,
+    "created_at": "2023-09-05T09:12:56Z",
+    "last_commit_at": "2026-11-04T09:29:36Z",
+    "releases": 9,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v4.4.1",
+      "at": "2026-06-25T19:00:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "76418890742689e97c8acb035b993d3637fe92c8",
+    "v": 4
+  },
+  "pinned_at": "2026-11-04T09:29:36Z"
+}

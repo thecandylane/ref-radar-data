@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:22b75c54a3caeac384258fd35336ee8fc3c960b3"
-  },
   "id": "gh:mattn/go-sqlite3",
   "kind": "repo",
   "url": "https://github.com/mattn/go-sqlite3",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/mattn/go-sqlite3",
-    "sha": "22b75c54a3caeac384258fd35336ee8fc3c960b3",
-    "file_url": "https://cdn.jsdelivr.net/gh/mattn/go-sqlite3@22b75c54a3caeac384258fd35336ee8fc3c960b3/{path}"
+    "sha": "8ff398bed68d13ffdacad010ad6f65c6993de6b2",
+    "file_url": "https://cdn.jsdelivr.net/gh/mattn/go-sqlite3@8ff398bed68d13ffdacad010ad6f65c6993de6b2/{path}"
   },
   "facts": {
     "lang": "C",
@@ -51,13 +48,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 3,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "22b75c54a3caeac384258fd35336ee8fc3c960b3",
-    "v": 3
-  }
+  "pins_before": [
+    "22b75c54a3caeac384258fd35336ee8fc3c960b3"
+  ],
+  "pinned_at": "2026-11-17T13:47:45Z"
 }

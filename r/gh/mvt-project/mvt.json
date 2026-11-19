@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c9190e05ef4c67df6407bc8b2adbd904954b9388"
-  },
   "id": "gh:mvt-project/mvt",
   "kind": "repo",
   "url": "https://github.com/mvt-project/mvt",
@@ -33,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/mvt-project/mvt",
-    "sha": "c9190e05ef4c67df6407bc8b2adbd904954b9388",
-    "file_url": "https://cdn.jsdelivr.net/gh/mvt-project/mvt@c9190e05ef4c67df6407bc8b2adbd904954b9388/{path}"
+    "sha": "6ef66048ac345067747c6d7009ee207468a317e0",
+    "file_url": "https://cdn.jsdelivr.net/gh/mvt-project/mvt@6ef66048ac345067747c6d7009ee207468a317e0/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 16109,
+    "stars": 16124,
     "size_mb": 5,
     "created_at": "2021-07-16T05:50:44Z",
-    "last_commit_at": "2026-11-18T09:12:33Z",
+    "last_commit_at": "2026-11-18T11:37:27Z",
     "releases": 31,
     "tags": 83,
     "archived": false,
@@ -59,14 +56,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 166,
+    "star_delta_7d": 167,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "c9190e05ef4c67df6407bc8b2adbd904954b9388",
-    "v": 3
-  },
+  "pins_before": [
+    "c9190e05ef4c67df6407bc8b2adbd904954b9388"
+  ],
+  "pinned_at": "2026-11-18T11:37:27Z",
   "hot": true
 }

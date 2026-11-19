@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:546cf152a8c868acbac82dd326f9649da66d6ba1"
-  },
   "id": "gh:ardupilot/ardupilot",
   "kind": "repo",
   "url": "https://github.com/ArduPilot/ardupilot",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ArduPilot/ardupilot",
-    "sha": "546cf152a8c868acbac82dd326f9649da66d6ba1",
-    "file_url": "https://raw.githubusercontent.com/ArduPilot/ardupilot/546cf152a8c868acbac82dd326f9649da66d6ba1/{path}"
+    "sha": "8a1dfc1dbdab55f18636feb4784bea4861e2145d",
+    "file_url": "https://raw.githubusercontent.com/ArduPilot/ardupilot/8a1dfc1dbdab55f18636feb4784bea4861e2145d/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "GPL-3.0",
-    "stars": 16394,
-    "size_mb": 674,
+    "stars": 16399,
+    "size_mb": 675,
     "created_at": "2013-01-09T00:58:52Z",
-    "last_commit_at": "2026-11-18T08:44:36Z",
+    "last_commit_at": "2026-11-19T09:01:04Z",
     "releases": 104,
     "tags": 556,
     "archived": false,
@@ -59,7 +56,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "546cf152a8c868acbac82dd326f9649da66d6ba1",
-    "v": 3
-  }
+    "sha": "8a1dfc1dbdab55f18636feb4784bea4861e2145d",
+    "v": 4
+  },
+  "pins_before": [
+    "546cf152a8c868acbac82dd326f9649da66d6ba1"
+  ],
+  "pinned_at": "2026-11-19T09:01:04Z"
 }

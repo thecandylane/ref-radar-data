@@ -1,0 +1,72 @@
+{
+  "id": "gh:postmill-ai/postmill-app",
+  "kind": "repo",
+  "url": "https://github.com/postmill-ai/postmill-app",
+  "title": "postmill-app",
+  "why": "Schedules posts across 45+ channels from one calendar and composer, with a built-in image and video designer.",
+  "keys": {
+    "races": [
+      "marketing/social-media",
+      "media/photo-editing",
+      "marketing/email",
+      "agents/tools"
+    ],
+    "lanes": [
+      "marketing/social-media",
+      "media/photo-editing",
+      "marketing/email",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/postmill-ai/postmill-app",
+    "sha": "60be346f0832753a4b060963b944a6f6a64eb1b7",
+    "file_url": "https://cdn.jsdelivr.net/gh/postmill-ai/postmill-app@60be346f0832753a4b060963b944a6f6a64eb1b7/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "AGPL-3.0",
+    "stars": 381,
+    "size_mb": 89,
+    "created_at": "2026-07-17T12:57:42Z",
+    "last_commit_at": "2026-11-18T21:40:00Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v1.5.0",
+      "at": "2026-11-12T02:05:15.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "60be346f0832753a4b060963b944a6f6a64eb1b7",
+    "v": 4
+  }
+}

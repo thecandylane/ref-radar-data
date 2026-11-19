@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3ea39b97afaa810c5bad98ad716c0fc47f092da2"
+  },
+  "id": "gh:anossov/openrtb",
+  "kind": "repo",
+  "url": "https://github.com/anossov/openrtb",
+  "title": "openrtb",
+  "why": "Converts OpenRTB 2.2 bid requests to Python objects and back with deserialize and serialize, plus a macro substitution helper.",
+  "keys": {
+    "races": [
+      "marketing/ad-tech"
+    ],
+    "lanes": [
+      "marketing/ad-tech"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/anossov/openrtb",
+    "sha": "3ea39b97afaa810c5bad98ad716c0fc47f092da2",
+    "file_url": "https://cdn.jsdelivr.net/gh/anossov/openrtb@3ea39b97afaa810c5bad98ad716c0fc47f092da2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-2-Clause",
+    "stars": 55,
+    "size_mb": 0,
+    "created_at": "2013-07-21T16:17:38Z",
+    "last_commit_at": "2022-11-27T14:32:51Z",
+    "releases": 5,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.0",
+      "at": "2014-07-14T21:08:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3ea39b97afaa810c5bad98ad716c0fc47f092da2",
+    "v": 4
+  },
+  "pinned_at": "2022-11-27T14:32:51Z"
+}

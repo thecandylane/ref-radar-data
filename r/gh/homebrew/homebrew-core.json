@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9c7e817029d2db6f1472237339be5dfa595040c3"
-  },
   "id": "gh:homebrew/homebrew-core",
   "kind": "repo",
   "url": "https://github.com/Homebrew/homebrew-core",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Homebrew/homebrew-core",
-    "sha": "9c7e817029d2db6f1472237339be5dfa595040c3",
-    "file_url": "https://cdn.jsdelivr.net/gh/Homebrew/homebrew-core@9c7e817029d2db6f1472237339be5dfa595040c3/{path}"
+    "sha": "0137258023b16d851c458645cc9c1e4b48e96a38",
+    "file_url": "https://cdn.jsdelivr.net/gh/Homebrew/homebrew-core@0137258023b16d851c458645cc9c1e4b48e96a38/{path}"
   },
   "facts": {
     "lang": "Ruby",
     "license": "BSD-2-Clause",
-    "stars": 15678,
-    "size_mb": 1267,
+    "stars": 15681,
+    "size_mb": 1268,
     "created_at": "2016-03-01T06:58:36Z",
-    "last_commit_at": "2026-11-18T09:06:33Z",
+    "last_commit_at": "2026-11-19T08:26:38Z",
     "releases": 0,
     "tags": 12,
     "archived": false,
@@ -57,8 +54,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "9c7e817029d2db6f1472237339be5dfa595040c3",
-    "v": 3
-  }
+  "pins_before": [
+    "9c7e817029d2db6f1472237339be5dfa595040c3"
+  ],
+  "pinned_at": "2026-11-19T08:26:38Z"
 }

@@ -1,0 +1,67 @@
+{
+  "id": "gh:eliteprotech/eliteprotech-baileys",
+  "kind": "repo",
+  "url": "https://github.com/EliteProTech/eliteprotech-baileys",
+  "title": "eliteprotech-baileys",
+  "why": "Baileys fork that talks to WhatsApp Web over WebSocket, adding community APIs, group status posts and sticker pack sending.",
+  "keys": {
+    "races": [
+      "agents/frameworks"
+    ],
+    "lanes": [
+      "agents/frameworks"
+    ],
+    "capabilities": [
+      "agents/frameworks/bot-frameworks"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/EliteProTech/eliteprotech-baileys",
+    "sha": "046096de5f7ee932466ba4a11f86fc0f3572b80f",
+    "file_url": "https://cdn.jsdelivr.net/gh/EliteProTech/eliteprotech-baileys@046096de5f7ee932466ba4a11f86fc0f3572b80f/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 2,
+    "created_at": "2026-02-05T12:47:22Z",
+    "last_commit_at": "2026-10-03T12:49:27Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2026-09-25T23:16:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "046096de5f7ee932466ba4a11f86fc0f3572b80f",
+    "v": 4
+  },
+  "pinned_at": "2026-10-03T12:49:27Z"
+}

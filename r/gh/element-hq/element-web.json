@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:71ca3123c657a043d1e81cc3ee4de88de4c7a123"
-  },
   "id": "gh:element-hq/element-web",
   "kind": "repo",
   "url": "https://github.com/element-hq/element-web",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/element-hq/element-web",
-    "sha": "71ca3123c657a043d1e81cc3ee4de88de4c7a123",
-    "file_url": "https://cdn.jsdelivr.net/gh/element-hq/element-web@71ca3123c657a043d1e81cc3ee4de88de4c7a123/{path}"
+    "sha": "a65dfab49b33aa44fc1a018da4781e297a15f06c",
+    "file_url": "https://cdn.jsdelivr.net/gh/element-hq/element-web@a65dfab49b33aa44fc1a018da4781e297a15f06c/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 13662,
+    "stars": 13666,
     "size_mb": 619,
     "created_at": "2015-07-22T05:32:15Z",
-    "last_commit_at": "2026-11-18T08:38:15Z",
+    "last_commit_at": "2026-11-19T08:47:46Z",
     "releases": 665,
     "tags": 701,
     "archived": false,
@@ -61,13 +58,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8,
+    "star_delta_7d": 11,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "71ca3123c657a043d1e81cc3ee4de88de4c7a123",
-    "v": 3
-  }
+  "pins_before": [
+    "71ca3123c657a043d1e81cc3ee4de88de4c7a123"
+  ],
+  "pinned_at": "2026-11-19T08:47:46Z"
 }

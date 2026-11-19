@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:2191b6e84c8c97bda2948b59ca9ab63bb60442fe"
-  },
   "id": "gh:falkordb/falkordb",
   "kind": "repo",
   "url": "https://github.com/FalkorDB/FalkorDB",
@@ -36,8 +33,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/FalkorDB/FalkorDB",
-    "sha": "2191b6e84c8c97bda2948b59ca9ab63bb60442fe",
-    "file_url": "https://cdn.jsdelivr.net/gh/FalkorDB/FalkorDB@2191b6e84c8c97bda2948b59ca9ab63bb60442fe/{path}"
+    "sha": "edcccd4e8c2970610df7e18415f1d30e765ade67",
+    "file_url": "https://cdn.jsdelivr.net/gh/FalkorDB/FalkorDB@edcccd4e8c2970610df7e18415f1d30e765ade67/{path}"
   },
   "facts": {
     "lang": "Rust",
@@ -45,7 +42,7 @@
     "stars": 10506,
     "size_mb": 149,
     "created_at": "2023-07-20T10:47:51Z",
-    "last_commit_at": "2026-11-18T08:45:53Z",
+    "last_commit_at": "2026-11-19T07:27:48Z",
     "releases": 94,
     "tags": 251,
     "archived": false,
@@ -67,8 +64,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "2191b6e84c8c97bda2948b59ca9ab63bb60442fe",
-    "v": 3
-  }
+  "pins_before": [
+    "2191b6e84c8c97bda2948b59ca9ab63bb60442fe"
+  ],
+  "pinned_at": "2026-11-19T07:27:48Z"
 }

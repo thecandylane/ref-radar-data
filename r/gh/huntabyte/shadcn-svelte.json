@@ -28,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/huntabyte/shadcn-svelte",
-    "sha": "3ae94d6ca4a77f46043f06c5af3211f54e85c678",
-    "file_url": "https://cdn.jsdelivr.net/gh/huntabyte/shadcn-svelte@3ae94d6ca4a77f46043f06c5af3211f54e85c678/{path}"
+    "sha": "c3b21a62055c7d7b97a220eb5a9efb4d1b7fc8fc",
+    "file_url": "https://cdn.jsdelivr.net/gh/huntabyte/shadcn-svelte@c3b21a62055c7d7b97a220eb5a9efb4d1b7fc8fc/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 9266,
+    "stars": 9269,
     "size_mb": 40,
     "created_at": "2023-05-16T03:26:53Z",
     "last_commit_at": "2026-11-16T19:12:06Z",
@@ -59,8 +59,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "3ae94d6ca4a77f46043f06c5af3211f54e85c678",
-    "v": 3
-  }
+  "pins_before": [
+    "3ae94d6ca4a77f46043f06c5af3211f54e85c678"
+  ],
+  "pinned_at": "2026-11-16T19:12:06Z"
 }

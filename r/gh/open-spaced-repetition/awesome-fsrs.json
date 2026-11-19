@@ -1,0 +1,61 @@
+{
+  "id": "gh:open-spaced-repetition/awesome-fsrs",
+  "kind": "repo",
+  "url": "https://github.com/open-spaced-repetition/awesome-fsrs",
+  "title": "awesome-fsrs",
+  "why": "Index of FSRS scheduler implementations across many languages, plus apps, papers and research resources for spaced repetition.",
+  "keys": {
+    "races": [
+      "learning/spaced-repetition",
+      "data/datasets"
+    ],
+    "lanes": [
+      "learning/spaced-repetition",
+      "data/datasets"
+    ],
+    "capabilities": [
+      "data/datasets/dataset-lists"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/open-spaced-repetition/awesome-fsrs",
+    "sha": "1b1eade5071e4e0f9e47bc8bbba62982c1e1ad60",
+    "file_url": "https://cdn.jsdelivr.net/gh/open-spaced-repetition/awesome-fsrs@1b1eade5071e4e0f9e47bc8bbba62982c1e1ad60/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "CC0-1.0",
+    "stars": 771,
+    "size_mb": 0,
+    "created_at": "2024-09-07T11:35:58Z",
+    "last_commit_at": "2026-11-18T08:15:56Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1b1eade5071e4e0f9e47bc8bbba62982c1e1ad60",
+    "v": 4
+  }
+}

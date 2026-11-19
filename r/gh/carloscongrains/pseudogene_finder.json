@@ -1,0 +1,61 @@
+{
+  "id": "gh:carloscongrains/pseudogene_finder",
+  "kind": "repo",
+  "url": "https://github.com/carloscongrains/Pseudogene_finder",
+  "title": "Pseudogene_finder",
+  "why": "Aligns query sequences to a reference with MAFFT and flags premature stop codons and frameshifts, to separate pseudogenes from functional genes.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/carloscongrains/Pseudogene_finder",
+    "sha": "3e538797bf955aa1e4f890342941f88d2c4d725a",
+    "file_url": "https://cdn.jsdelivr.net/gh/carloscongrains/Pseudogene_finder@3e538797bf955aa1e4f890342941f88d2c4d725a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-2.0",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2025-07-21T22:31:12Z",
+    "last_commit_at": "2026-11-12T13:05:43Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "1.0",
+      "at": "2026-11-12T13:03:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3e538797bf955aa1e4f890342941f88d2c4d725a",
+    "v": 4
+  },
+  "pinned_at": "2026-11-12T13:05:43Z"
+}

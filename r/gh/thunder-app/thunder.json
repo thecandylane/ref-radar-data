@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d5de00be11fd3256c9debcf4a8cea8bc9fe91ce3"
+  },
+  "id": "gh:thunder-app/thunder",
+  "kind": "repo",
+  "url": "https://github.com/thunder-app/thunder",
+  "title": "thunder",
+  "why": "Flutter client for Lemmy and PieFed on iOS and Android, with multiple accounts and guest access on different instances.",
+  "keys": {
+    "races": [
+      "mobile/cross-platform",
+      "mobile/ios",
+      "mobile/android"
+    ],
+    "lanes": [
+      "mobile/cross-platform",
+      "mobile/ios",
+      "mobile/android"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/thunder-app/thunder",
+    "sha": "d5de00be11fd3256c9debcf4a8cea8bc9fe91ce3",
+    "file_url": "https://cdn.jsdelivr.net/gh/thunder-app/thunder@d5de00be11fd3256c9debcf4a8cea8bc9fe91ce3/{path}"
+  },
+  "facts": {
+    "lang": "Dart",
+    "license": "AGPL-3.0",
+    "stars": 1031,
+    "size_mb": 22,
+    "created_at": "2023-06-11T16:03:16Z",
+    "last_commit_at": "2026-09-02T20:18:14Z",
+    "releases": 119,
+    "tags": 120,
+    "archived": false,
+    "release": {
+      "tag": "0.8.6",
+      "at": "2026-01-07T04:11:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d5de00be11fd3256c9debcf4a8cea8bc9fe91ce3",
+    "v": 4
+  },
+  "pinned_at": "2026-09-02T20:18:14Z"
+}

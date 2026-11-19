@@ -1,0 +1,64 @@
+{
+  "id": "gh:greghesp/ha-bambulab",
+  "kind": "repo",
+  "url": "https://github.com/greghesp/ha-bambulab",
+  "title": "ha-bambulab",
+  "why": "Brings Bambu Lab printer status, AMS filament, camera and print controls into Home Assistant over MQTT, via cloud or LAN.",
+  "keys": {
+    "races": [
+      "industrial/3d-printing",
+      "energy/home-energy",
+      "embedded/robotics"
+    ],
+    "lanes": [
+      "industrial/3d-printing",
+      "energy/home-energy",
+      "embedded/robotics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/greghesp/ha-bambulab",
+    "sha": "d088563b22431762d3ca243b4ed5160f24e5ee4f",
+    "file_url": "https://cdn.jsdelivr.net/gh/greghesp/ha-bambulab@d088563b22431762d3ca243b4ed5160f24e5ee4f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 2456,
+    "size_mb": 51,
+    "created_at": "2023-01-13T21:27:12Z",
+    "last_commit_at": "2026-11-16T20:45:18Z",
+    "releases": 305,
+    "tags": 584,
+    "archived": false,
+    "release": {
+      "tag": "v2.4.1",
+      "at": "2026-11-17T16:58:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d088563b22431762d3ca243b4ed5160f24e5ee4f",
+    "v": 4
+  }
+}

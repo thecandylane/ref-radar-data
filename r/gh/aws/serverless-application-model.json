@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:88724d3bc8bc7f60d5ef1f4d53edb8c5353221fb"
-  },
   "id": "gh:aws/serverless-application-model",
   "kind": "repo",
   "url": "https://github.com/aws/serverless-application-model",
@@ -27,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/aws/serverless-application-model",
-    "sha": "88724d3bc8bc7f60d5ef1f4d53edb8c5353221fb",
-    "file_url": "https://cdn.jsdelivr.net/gh/aws/serverless-application-model@88724d3bc8bc7f60d5ef1f4d53edb8c5353221fb/{path}"
+    "sha": "3dfbd2b29a82161c47f6f956091db0a0f3608bb1",
+    "file_url": "https://cdn.jsdelivr.net/gh/aws/serverless-application-model@3dfbd2b29a82161c47f6f956091db0a0f3608bb1/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 9589,
+    "stars": 9590,
     "size_mb": 227,
     "created_at": "2016-10-10T21:36:18Z",
     "last_commit_at": "2026-11-17T00:41:25Z",
@@ -59,7 +56,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "88724d3bc8bc7f60d5ef1f4d53edb8c5353221fb",
-    "v": 3
-  }
+    "sha": "3dfbd2b29a82161c47f6f956091db0a0f3608bb1",
+    "v": 4
+  },
+  "pins_before": [
+    "88724d3bc8bc7f60d5ef1f4d53edb8c5353221fb"
+  ],
+  "pinned_at": "2026-11-17T00:41:25Z"
 }

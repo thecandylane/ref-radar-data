@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:6bb485e1cc5c115e2996953a7dd4149efa9fa43d"
-  },
   "id": "gh:mobsf/mobile-security-framework-mobsf",
   "kind": "repo",
   "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
@@ -33,22 +30,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
-    "sha": "6bb485e1cc5c115e2996953a7dd4149efa9fa43d",
-    "file_url": "https://raw.githubusercontent.com/MobSF/Mobile-Security-Framework-MobSF/6bb485e1cc5c115e2996953a7dd4149efa9fa43d/{path}"
+    "sha": "fa87c37892b264cf76bed8c358cc2d5d5323c8c2",
+    "file_url": "https://raw.githubusercontent.com/MobSF/Mobile-Security-Framework-MobSF/fa87c37892b264cf76bed8c358cc2d5d5323c8c2/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "GPL-3.0",
-    "stars": 22257,
+    "stars": 22260,
     "size_mb": 1513,
     "created_at": "2015-01-31T04:36:01Z",
     "last_commit_at": "2026-11-18T06:18:50Z",
-    "releases": 58,
-    "tags": 61,
+    "releases": 59,
+    "tags": 62,
     "archived": false,
     "release": {
-      "tag": "v4.6.6",
-      "at": "2026-11-15T00:36:41.000Z"
+      "tag": "v4.6.9",
+      "at": "2026-11-18T17:27:09.000Z"
     }
   },
   "reuse": "copy",
@@ -59,13 +56,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 60,
+    "star_delta_7d": 53,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "6bb485e1cc5c115e2996953a7dd4149efa9fa43d",
-    "v": 3
-  }
+  "pins_before": [
+    "6bb485e1cc5c115e2996953a7dd4149efa9fa43d"
+  ],
+  "pinned_at": "2026-11-18T06:18:50Z"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:3e67f10e3cd9290b48ca71b54829a17b2bc8ec88"
-  },
   "id": "gh:charmbracelet/crush",
   "kind": "repo",
   "url": "https://github.com/charmbracelet/crush",
@@ -34,16 +31,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/charmbracelet/crush",
-    "sha": "3e67f10e3cd9290b48ca71b54829a17b2bc8ec88",
-    "file_url": "https://cdn.jsdelivr.net/gh/charmbracelet/crush@3e67f10e3cd9290b48ca71b54829a17b2bc8ec88/{path}"
+    "sha": "956a005cfe768589ab6a7ef7693d437503713146",
+    "file_url": "https://cdn.jsdelivr.net/gh/charmbracelet/crush@956a005cfe768589ab6a7ef7693d437503713146/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "NOASSERTION",
-    "stars": 29114,
+    "stars": 29133,
     "size_mb": 36,
     "created_at": "2025-05-21T12:14:57Z",
-    "last_commit_at": "2026-11-18T08:35:28Z",
+    "last_commit_at": "2026-11-19T01:21:19Z",
     "releases": 199,
     "tags": 214,
     "archived": false,
@@ -60,13 +57,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 73,
+    "star_delta_7d": 76,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "3e67f10e3cd9290b48ca71b54829a17b2bc8ec88",
-    "v": 3
-  }
+    "sha": "956a005cfe768589ab6a7ef7693d437503713146",
+    "v": 4
+  },
+  "pins_before": [
+    "3e67f10e3cd9290b48ca71b54829a17b2bc8ec88"
+  ],
+  "pinned_at": "2026-11-19T01:21:19Z"
 }

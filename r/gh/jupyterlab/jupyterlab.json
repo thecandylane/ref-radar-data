@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:79ac5024d8132bd0740ad17d50e14369a69dc30e"
-  },
   "id": "gh:jupyterlab/jupyterlab",
   "kind": "repo",
   "url": "https://github.com/jupyterlab/jupyterlab",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/jupyterlab/jupyterlab",
-    "sha": "79ac5024d8132bd0740ad17d50e14369a69dc30e",
-    "file_url": "https://cdn.jsdelivr.net/gh/jupyterlab/jupyterlab@79ac5024d8132bd0740ad17d50e14369a69dc30e/{path}"
+    "sha": "0d5e83530197cee73b15a11d2c2c29b168db6065",
+    "file_url": "https://cdn.jsdelivr.net/gh/jupyterlab/jupyterlab@0d5e83530197cee73b15a11d2c2c29b168db6065/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "BSD-3-Clause",
-    "stars": 15408,
+    "stars": 15410,
     "size_mb": 312,
     "created_at": "2016-06-03T20:09:17Z",
-    "last_commit_at": "2026-11-17T21:22:11Z",
+    "last_commit_at": "2026-11-18T18:59:52Z",
     "releases": 289,
     "tags": 49616,
     "archived": false,
@@ -60,8 +57,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "79ac5024d8132bd0740ad17d50e14369a69dc30e",
-    "v": 3
-  }
+  "pins_before": [
+    "79ac5024d8132bd0740ad17d50e14369a69dc30e"
+  ],
+  "pinned_at": "2026-11-18T18:59:52Z"
 }

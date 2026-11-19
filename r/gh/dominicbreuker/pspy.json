@@ -1,0 +1,66 @@
+{
+  "id": "gh:dominicbreuker/pspy",
+  "kind": "repo",
+  "url": "https://github.com/DominicBreuker/pspy",
+  "title": "pspy",
+  "why": "Watches Linux processes without root by triggering procfs scans on inotify file events, so cron jobs and short-lived commands show up.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "learning/security-labs"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "learning/security-labs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/DominicBreuker/pspy",
+    "sha": "b8e247e6fdf8f9b83e5169e5dc62f7cbbee4d633",
+    "file_url": "https://cdn.jsdelivr.net/gh/DominicBreuker/pspy@b8e247e6fdf8f9b83e5169e5dc62f7cbbee4d633/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "GPL-3.0",
+    "stars": 6249,
+    "size_mb": 9,
+    "created_at": "2018-02-08T21:41:37Z",
+    "last_commit_at": "2026-03-01T09:06:13Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.1",
+      "at": "2023-01-17T21:10:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

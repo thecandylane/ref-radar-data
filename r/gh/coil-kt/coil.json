@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c587c2f4610d07a52d650a7caea39734175f0922"
-  },
   "id": "gh:coil-kt/coil",
   "kind": "repo",
   "url": "https://github.com/coil-kt/coil",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/coil-kt/coil",
-    "sha": "c587c2f4610d07a52d650a7caea39734175f0922",
-    "file_url": "https://cdn.jsdelivr.net/gh/coil-kt/coil@c587c2f4610d07a52d650a7caea39734175f0922/{path}"
+    "sha": "ef9c8afc403b4eff6bda480afcf4026dc46e491a",
+    "file_url": "https://cdn.jsdelivr.net/gh/coil-kt/coil@ef9c8afc403b4eff6bda480afcf4026dc46e491a/{path}"
   },
   "facts": {
     "lang": "Kotlin",
@@ -40,7 +37,7 @@
     "stars": 11959,
     "size_mb": 127,
     "created_at": "2019-08-10T21:28:21Z",
-    "last_commit_at": "2026-11-16T00:52:15Z",
+    "last_commit_at": "2026-11-18T15:39:42Z",
     "releases": 79,
     "tags": 79,
     "archived": false,
@@ -57,13 +54,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": -1,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "c587c2f4610d07a52d650a7caea39734175f0922",
-    "v": 3
-  }
+    "sha": "ef9c8afc403b4eff6bda480afcf4026dc46e491a",
+    "v": 4
+  },
+  "pins_before": [
+    "c587c2f4610d07a52d650a7caea39734175f0922"
+  ],
+  "pinned_at": "2026-11-18T15:39:42Z"
 }

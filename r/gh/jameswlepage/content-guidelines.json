@@ -1,0 +1,70 @@
+{
+  "id": "gh:jameswlepage/content-guidelines",
+  "kind": "repo",
+  "url": "https://github.com/Jameswlepage/content-guidelines",
+  "title": "content-guidelines",
+  "why": "WordPress plugin that stores a site's voice, tone and vocabulary rules and serves them to AI features through PHP and REST calls.",
+  "keys": {
+    "races": [
+      "web/cms",
+      "agents/skills"
+    ],
+    "lanes": [
+      "web/cms",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/skills/agent-configs",
+      "agents/skills/writing-skills"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Jameswlepage/content-guidelines",
+    "sha": "00c2f1112ccc7f0e8191e6647112897f8f9deeab",
+    "file_url": "https://cdn.jsdelivr.net/gh/Jameswlepage/content-guidelines@00c2f1112ccc7f0e8191e6647112897f8f9deeab/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "none",
+    "stars": 23,
+    "size_mb": 0,
+    "created_at": "2025-12-21T19:45:11Z",
+    "last_commit_at": "2026-01-06T13:11:10Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v0.0.2",
+      "at": "2025-12-22T16:37:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "00c2f1112ccc7f0e8191e6647112897f8f9deeab",
+    "v": 4
+  },
+  "pinned_at": "2026-01-06T13:11:10Z"
+}

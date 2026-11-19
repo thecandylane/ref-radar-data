@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:701b901a0f1ba3d0b390d9cdf63d112e25abac4b"
-  },
   "id": "gh:excalidraw/excalidraw",
   "kind": "repo",
   "url": "https://github.com/excalidraw/excalidraw",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/excalidraw/excalidraw",
-    "sha": "701b901a0f1ba3d0b390d9cdf63d112e25abac4b",
-    "file_url": "https://cdn.jsdelivr.net/gh/excalidraw/excalidraw@701b901a0f1ba3d0b390d9cdf63d112e25abac4b/{path}"
+    "sha": "d732d4f3d50e6ac092ec6e86a4e04a40546a9395",
+    "file_url": "https://cdn.jsdelivr.net/gh/excalidraw/excalidraw@d732d4f3d50e6ac092ec6e86a4e04a40546a9395/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 135896,
-    "size_mb": 109,
+    "stars": 135940,
+    "size_mb": 108,
     "created_at": "2020-01-02T01:04:43Z",
-    "last_commit_at": "2026-11-17T21:59:00Z",
+    "last_commit_at": "2026-11-18T14:04:16Z",
     "releases": 15,
     "tags": 21,
     "archived": false,
@@ -57,14 +54,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 401,
+    "star_delta_7d": 400,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "701b901a0f1ba3d0b390d9cdf63d112e25abac4b",
-    "v": 3
-  },
+  "pins_before": [
+    "701b901a0f1ba3d0b390d9cdf63d112e25abac4b"
+  ],
+  "pinned_at": "2026-11-18T14:04:16Z",
   "hot": true
 }

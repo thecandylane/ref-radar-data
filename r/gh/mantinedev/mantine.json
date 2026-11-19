@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:aa34f59c9af82948d0ad6a012671bf974255715b"
-  },
   "id": "gh:mantinedev/mantine",
   "kind": "repo",
   "url": "https://github.com/mantinedev/mantine",
@@ -33,8 +30,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/mantinedev/mantine",
-    "sha": "aa34f59c9af82948d0ad6a012671bf974255715b",
-    "file_url": "https://cdn.jsdelivr.net/gh/mantinedev/mantine@aa34f59c9af82948d0ad6a012671bf974255715b/{path}"
+    "sha": "2bdbb6cbaaec40b82618de84711afa6f6a86c8e7",
+    "file_url": "https://cdn.jsdelivr.net/gh/mantinedev/mantine@2bdbb6cbaaec40b82618de84711afa6f6a86c8e7/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -42,7 +39,7 @@
     "stars": 31955,
     "size_mb": 338,
     "created_at": "2021-01-07T14:02:19Z",
-    "last_commit_at": "2026-11-16T19:04:18Z",
+    "last_commit_at": "2026-11-18T15:14:15Z",
     "releases": 322,
     "tags": 323,
     "archived": false,
@@ -59,13 +56,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 23,
+    "star_delta_7d": 20,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "aa34f59c9af82948d0ad6a012671bf974255715b",
-    "v": 3
-  }
+  "pins_before": [
+    "aa34f59c9af82948d0ad6a012671bf974255715b"
+  ],
+  "pinned_at": "2026-11-18T15:14:15Z"
 }

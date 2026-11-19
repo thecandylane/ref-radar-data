@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1438a969ef4f077e7abb65e380c29bd5c438dcb8"
+  },
+  "id": "gh:slowriot/anubis",
+  "kind": "repo",
+  "url": "https://github.com/slowriot/anubis",
+  "title": "anubis",
+  "why": "Serves a Jekyll site from a git or Radicle URL on Akash and rebuilds it within 30 seconds of a new commit.",
+  "keys": {
+    "races": [
+      "infra/hosting",
+      "web/static-sites"
+    ],
+    "lanes": [
+      "infra/hosting",
+      "web/static-sites"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/slowriot/anubis",
+    "sha": "1438a969ef4f077e7abb65e380c29bd5c438dcb8",
+    "file_url": "https://cdn.jsdelivr.net/gh/slowriot/anubis@1438a969ef4f077e7abb65e380c29bd5c438dcb8/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "none",
+    "stars": 21,
+    "size_mb": 0,
+    "created_at": "2021-10-19T21:13:29Z",
+    "last_commit_at": "2021-10-19T23:01:04Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1438a969ef4f077e7abb65e380c29bd5c438dcb8",
+    "v": 4
+  },
+  "pinned_at": "2021-10-19T23:01:04Z"
+}

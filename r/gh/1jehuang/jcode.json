@@ -39,22 +39,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/1jehuang/jcode",
-    "sha": "e8c92f145a795d8d271fe70635898ca93e4218b5",
-    "file_url": "https://raw.githubusercontent.com/1jehuang/jcode/e8c92f145a795d8d271fe70635898ca93e4218b5/{path}"
+    "sha": "7e8ca3a2f87d0c7ace523fdcfd2cd0608cd7a779",
+    "file_url": "https://raw.githubusercontent.com/1jehuang/jcode/7e8ca3a2f87d0c7ace523fdcfd2cd0608cd7a779/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 21873,
-    "size_mb": 463,
+    "stars": 21900,
+    "size_mb": 464,
     "created_at": "2026-01-05T09:43:36Z",
-    "last_commit_at": "2026-11-18T07:43:59Z",
-    "releases": 207,
-    "tags": 235,
+    "last_commit_at": "2026-11-19T08:49:50Z",
+    "releases": 209,
+    "tags": 238,
     "archived": false,
     "release": {
-      "tag": "v1.0.0",
-      "at": "2026-11-17T04:01:22.000Z"
+      "tag": "v1.0.1",
+      "at": "2026-11-18T13:08:58.000Z"
     }
   },
   "reuse": "copy",
@@ -65,19 +65,21 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 183,
+    "star_delta_7d": 191,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "e8c92f145a795d8d271fe70635898ca93e4218b5",
-    "v": 3
+    "sha": "7e8ca3a2f87d0c7ace523fdcfd2cd0608cd7a779",
+    "v": 4
   },
   "pins_before": [
+    "e8c92f145a795d8d271fe70635898ca93e4218b5",
     "a1d7f8a4879546261b139f0814cab348a6517ba8",
     "ca8de2ff026d6bd3aa68bbc29830cbd4b2a4e8dd",
     "374ed3ecacdc2a08ecd1cdef6a57a036060e424d",
     "c2c7b4649668726829a75ff156a1847e789c46f5"
-  ]
+  ],
+  "pinned_at": "2026-11-18T12:36:03Z"
 }

@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9368384b1df9619e613f8dab92bbe705616e9d57"
+  },
+  "id": "gh:kgoralski/microservice-production-readiness-checklist",
+  "kind": "repo",
+  "url": "https://github.com/kgoralski/microservice-production-readiness-checklist",
+  "title": "microservice-production-readiness-checklist",
+  "why": "Walks a microservice through one-hop calls, timeouts, idempotent retries and a minimum of 2 or 3 pods before it reaches production.",
+  "keys": {
+    "races": [
+      "practice/reliability",
+      "infra/kubernetes",
+      "practice/architecture"
+    ],
+    "lanes": [
+      "practice/reliability",
+      "infra/kubernetes",
+      "practice/architecture"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kgoralski/microservice-production-readiness-checklist",
+    "sha": "9368384b1df9619e613f8dab92bbe705616e9d57",
+    "file_url": "https://cdn.jsdelivr.net/gh/kgoralski/microservice-production-readiness-checklist@9368384b1df9619e613f8dab92bbe705616e9d57/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "Apache-2.0",
+    "stars": 220,
+    "size_mb": 0,
+    "created_at": "2022-05-03T17:49:33Z",
+    "last_commit_at": "2024-10-23T14:04:54Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9368384b1df9619e613f8dab92bbe705616e9d57",
+    "v": 4
+  },
+  "pinned_at": "2024-10-23T14:04:54Z"
+}

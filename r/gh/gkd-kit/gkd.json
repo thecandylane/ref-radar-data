@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:fd9418f17e4b053accdfa23fac46cb7e041d02ae"
-  },
   "id": "gh:gkd-kit/gkd",
   "kind": "repo",
   "url": "https://github.com/gkd-kit/gkd",
@@ -27,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/gkd-kit/gkd",
-    "sha": "fd9418f17e4b053accdfa23fac46cb7e041d02ae",
-    "file_url": "https://cdn.jsdelivr.net/gh/gkd-kit/gkd@fd9418f17e4b053accdfa23fac46cb7e041d02ae/{path}"
+    "sha": "301e7e0a2aeb6ede954dcb93dbf53e56ae45a57d",
+    "file_url": "https://cdn.jsdelivr.net/gh/gkd-kit/gkd@301e7e0a2aeb6ede954dcb93dbf53e56ae45a57d/{path}"
   },
   "facts": {
     "lang": "Kotlin",
     "license": "GPL-3.0",
-    "stars": 44983,
+    "stars": 45038,
     "size_mb": 9,
     "created_at": "2023-07-04T03:59:15Z",
     "last_commit_at": "2026-11-13T07:35:36Z",
@@ -53,14 +50,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 494,
+    "star_delta_7d": 480,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "fd9418f17e4b053accdfa23fac46cb7e041d02ae",
-    "v": 3
-  },
+  "pins_before": [
+    "fd9418f17e4b053accdfa23fac46cb7e041d02ae"
+  ],
+  "pinned_at": "2026-11-13T07:35:36Z",
   "hot": true
 }

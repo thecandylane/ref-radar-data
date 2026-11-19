@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:0cd830bb43a2073114cba458e717f500e0ec0851"
+    "swh": "swh:1:rev:99172ab9ff063e16466226bbeb9a5d00703bbf41"
   },
   "id": "gh:kotlin/kotlinx.serialization",
   "kind": "repo",
@@ -29,8 +29,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Kotlin/kotlinx.serialization",
-    "sha": "0cd830bb43a2073114cba458e717f500e0ec0851",
-    "file_url": "https://cdn.jsdelivr.net/gh/Kotlin/kotlinx.serialization@0cd830bb43a2073114cba458e717f500e0ec0851/{path}"
+    "sha": "99172ab9ff063e16466226bbeb9a5d00703bbf41",
+    "file_url": "https://cdn.jsdelivr.net/gh/Kotlin/kotlinx.serialization@99172ab9ff063e16466226bbeb9a5d00703bbf41/{path}"
   },
   "facts": {
     "lang": "Kotlin",
@@ -60,8 +60,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "0cd830bb43a2073114cba458e717f500e0ec0851",
-    "v": 3
-  }
+  "pins_before": [
+    "0cd830bb43a2073114cba458e717f500e0ec0851"
+  ],
+  "pinned_at": "2026-11-12T18:51:03Z"
 }

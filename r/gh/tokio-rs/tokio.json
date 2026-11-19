@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ab0814fc8c62b3d8be40aad068e2fed6562cfeb0"
+  },
+  "id": "gh:tokio-rs/tokio",
+  "kind": "repo",
+  "url": "https://github.com/tokio-rs/tokio",
+  "title": "tokio",
+  "why": "Provides Rust programs a multithreaded work-stealing scheduler and async TCP and UDP sockets, and handles backpressure and cancellation naturally.",
+  "keys": {
+    "races": [
+      "languages/runtimes",
+      "infra/networking"
+    ],
+    "lanes": [
+      "languages/runtimes",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tokio-rs/tokio",
+    "sha": "ab0814fc8c62b3d8be40aad068e2fed6562cfeb0",
+    "file_url": "https://cdn.jsdelivr.net/gh/tokio-rs/tokio@ab0814fc8c62b3d8be40aad068e2fed6562cfeb0/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 33727,
+    "size_mb": 18,
+    "created_at": "2016-09-09T22:31:36Z",
+    "last_commit_at": "2026-11-18T18:37:13Z",
+    "releases": 160,
+    "tags": 403,
+    "archived": false,
+    "release": {
+      "tag": "tokio-1.54.1",
+      "at": "2026-10-21T21:07:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ab0814fc8c62b3d8be40aad068e2fed6562cfeb0",
+    "v": 4
+  }
+}

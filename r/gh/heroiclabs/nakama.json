@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:37618ad4b927a9dd0671599ffc7387a7386f70fa"
+  },
   "id": "gh:heroiclabs/nakama",
   "kind": "repo",
   "url": "https://github.com/heroiclabs/nakama",
@@ -28,13 +31,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/heroiclabs/nakama",
-    "sha": "b9164cdab2f46c79442a8779ef533021404fddd8",
-    "file_url": "https://cdn.jsdelivr.net/gh/heroiclabs/nakama@b9164cdab2f46c79442a8779ef533021404fddd8/{path}"
+    "sha": "37618ad4b927a9dd0671599ffc7387a7386f70fa",
+    "file_url": "https://cdn.jsdelivr.net/gh/heroiclabs/nakama@37618ad4b927a9dd0671599ffc7387a7386f70fa/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 13746,
+    "stars": 13750,
     "size_mb": 159,
     "created_at": "2017-01-13T17:15:12Z",
     "last_commit_at": "2026-11-12T15:32:42Z",
@@ -59,8 +62,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "b9164cdab2f46c79442a8779ef533021404fddd8",
-    "v": 3
-  }
+  "pins_before": [
+    "b9164cdab2f46c79442a8779ef533021404fddd8"
+  ],
+  "pinned_at": "2026-11-12T15:32:42Z"
 }

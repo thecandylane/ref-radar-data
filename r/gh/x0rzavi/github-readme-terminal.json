@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:09333eace9e35c6d7705f92f5e669810e82283d1"
+  },
+  "id": "gh:x0rzavi/github-readme-terminal",
+  "kind": "repo",
+  "url": "https://github.com/x0rzavi/github-readme-terminal",
+  "title": "github-readme-terminal",
+  "why": "Renders a scripted terminal session as an animated GIF, with ANSI escape colors and 10+ color schemes, for a GitHub profile README.",
+  "keys": {
+    "races": [
+      "media/video"
+    ],
+    "lanes": [
+      "media/video"
+    ],
+    "capabilities": [
+      "media/video/code-video"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/x0rzavi/github-readme-terminal",
+    "sha": "09333eace9e35c6d7705f92f5e669810e82283d1",
+    "file_url": "https://cdn.jsdelivr.net/gh/x0rzavi/github-readme-terminal@09333eace9e35c6d7705f92f5e669810e82283d1/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 768,
+    "size_mb": 0,
+    "created_at": "2023-11-17T06:21:18Z",
+    "last_commit_at": "2024-11-08T03:31:51Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "09333eace9e35c6d7705f92f5e669810e82283d1",
+    "v": 4
+  },
+  "pinned_at": "2024-11-08T03:31:51Z"
+}

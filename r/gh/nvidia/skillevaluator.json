@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d2cb13880d575f2bb1da04577438731af6871fb0"
+  },
   "id": "gh:nvidia/skillevaluator",
   "kind": "repo",
   "url": "https://github.com/NVIDIA/SkillEvaluator",
@@ -39,16 +42,16 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 3012,
-    "size_mb": 24,
+    "stars": 3954,
+    "size_mb": 27,
     "created_at": "2026-06-24T02:32:26Z",
-    "last_commit_at": "2026-11-17T03:03:28Z",
-    "releases": 11,
-    "tags": 14,
+    "last_commit_at": "2026-11-19T08:36:53Z",
+    "releases": 13,
+    "tags": 16,
     "archived": false,
     "release": {
-      "tag": "v0.9.0",
-      "at": "2026-11-13T11:03:05.000Z"
+      "tag": "v1.0.1",
+      "at": "2026-11-18T00:10:18.000Z"
     }
   },
   "reuse": "copy",
@@ -63,5 +66,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "d2cb13880d575f2bb1da04577438731af6871fb0",
+    "v": 3
+  }
 }

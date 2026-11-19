@@ -1,0 +1,62 @@
+{
+  "id": "gh:amerkurev/django-docker-template",
+  "kind": "repo",
+  "url": "https://github.com/amerkurev/django-docker-template",
+  "title": "django-docker-template",
+  "why": "Starts Django, Postgres and Gunicorn behind Traefik or Caddy, with Let's Encrypt certificates renewed automatically.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "infra/containers",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "infra/containers",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/amerkurev/django-docker-template",
+    "sha": "e20efc254dc5992c352e9d4c4dfa07eaa2cc099b",
+    "file_url": "https://cdn.jsdelivr.net/gh/amerkurev/django-docker-template@e20efc254dc5992c352e9d4c4dfa07eaa2cc099b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 229,
+    "size_mb": 1,
+    "created_at": "2023-04-13T21:13:40Z",
+    "last_commit_at": "2025-04-01T10:01:05Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e20efc254dc5992c352e9d4c4dfa07eaa2cc099b",
+    "v": 4
+  },
+  "pinned_at": "2025-04-01T10:01:05Z"
+}

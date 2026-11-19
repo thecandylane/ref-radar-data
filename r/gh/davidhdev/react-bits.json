@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9d9c687dc4f55b23539aa5417b703078047efa74"
-  },
   "id": "gh:davidhdev/react-bits",
   "kind": "repo",
   "url": "https://github.com/DavidHDev/react-bits",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/DavidHDev/react-bits",
-    "sha": "9d9c687dc4f55b23539aa5417b703078047efa74",
-    "file_url": "https://raw.githubusercontent.com/DavidHDev/react-bits/9d9c687dc4f55b23539aa5417b703078047efa74/{path}"
+    "sha": "d01aa914dcbe76da8b2923ebf872b5c8b1066e4c",
+    "file_url": "https://raw.githubusercontent.com/DavidHDev/react-bits/d01aa914dcbe76da8b2923ebf872b5c8b1066e4c/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "NOASSERTION",
-    "stars": 52233,
+    "stars": 52293,
     "size_mb": 438,
     "created_at": "2024-08-06T06:54:54Z",
     "last_commit_at": "2026-11-16T19:06:20Z",
@@ -54,14 +51,18 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 539,
+    "star_delta_7d": 524,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "9d9c687dc4f55b23539aa5417b703078047efa74",
-    "v": 3
+    "sha": "d01aa914dcbe76da8b2923ebf872b5c8b1066e4c",
+    "v": 4
   },
+  "pins_before": [
+    "9d9c687dc4f55b23539aa5417b703078047efa74"
+  ],
+  "pinned_at": "2026-11-16T19:06:20Z",
   "hot": true
 }

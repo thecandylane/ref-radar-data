@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9c0f1229b74e908026991c9f7d9efbb1db75f5c3"
-  },
   "id": "gh:google/oss-fuzz",
   "kind": "repo",
   "url": "https://github.com/google/oss-fuzz",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/google/oss-fuzz",
-    "sha": "9c0f1229b74e908026991c9f7d9efbb1db75f5c3",
-    "file_url": "https://cdn.jsdelivr.net/gh/google/oss-fuzz@9c0f1229b74e908026991c9f7d9efbb1db75f5c3/{path}"
+    "sha": "5ac43dd8f6add922139ffa757dfc4270d66f4bc8",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/oss-fuzz@5ac43dd8f6add922139ffa757dfc4270d66f4bc8/{path}"
   },
   "facts": {
     "lang": "Shell",
     "license": "Apache-2.0",
-    "stars": 12969,
+    "stars": 12974,
     "size_mb": 52,
     "created_at": "2016-07-20T19:39:50Z",
-    "last_commit_at": "2026-11-17T23:08:09Z",
+    "last_commit_at": "2026-11-18T21:26:06Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -57,8 +54,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "9c0f1229b74e908026991c9f7d9efbb1db75f5c3",
-    "v": 3
-  }
+  "pins_before": [
+    "9c0f1229b74e908026991c9f7d9efbb1db75f5c3"
+  ],
+  "pinned_at": "2026-11-18T21:26:06Z"
 }

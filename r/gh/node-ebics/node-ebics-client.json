@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4a09c8e260a7e61b4bebea9f9df9e52e658dcb6e"
+  },
+  "id": "gh:node-ebics/node-ebics-client",
+  "kind": "repo",
+  "url": "https://github.com/node-ebics/node-ebics-client",
+  "title": "node-ebics-client",
+  "why": "Pulls bank statements through EBICS in Node.js, handling key setup and the initialization letter that each bank requires.",
+  "keys": {
+    "races": [
+      "finance/payments",
+      "finance/accounting"
+    ],
+    "lanes": [
+      "finance/payments",
+      "finance/accounting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/node-ebics/node-ebics-client",
+    "sha": "4a09c8e260a7e61b4bebea9f9df9e52e658dcb6e",
+    "file_url": "https://cdn.jsdelivr.net/gh/node-ebics/node-ebics-client@4a09c8e260a7e61b4bebea9f9df9e52e658dcb6e/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 84,
+    "size_mb": 1,
+    "created_at": "2018-05-17T14:26:41Z",
+    "last_commit_at": "2025-04-02T23:35:18Z",
+    "releases": 16,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v4.1.0",
+      "at": "2024-04-30T00:12:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4a09c8e260a7e61b4bebea9f9df9e52e658dcb6e",
+    "v": 4
+  },
+  "pinned_at": "2025-04-02T23:35:18Z"
+}

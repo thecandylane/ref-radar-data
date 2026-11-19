@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:8a15672afffb14259990fad196f0a6777158b625"
-  },
   "id": "gh:milvus-io/milvus",
   "kind": "repo",
   "url": "https://github.com/milvus-io/milvus",
@@ -41,16 +38,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/milvus-io/milvus",
-    "sha": "8a15672afffb14259990fad196f0a6777158b625",
-    "file_url": "https://raw.githubusercontent.com/milvus-io/milvus/8a15672afffb14259990fad196f0a6777158b625/{path}"
+    "sha": "058f58110d099fc739885ab878d09519b8bcf7d8",
+    "file_url": "https://raw.githubusercontent.com/milvus-io/milvus/058f58110d099fc739885ab878d09519b8bcf7d8/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 46688,
+    "stars": 46695,
     "size_mb": 376,
     "created_at": "2019-09-16T06:43:43Z",
-    "last_commit_at": "2026-11-18T08:36:02Z",
+    "last_commit_at": "2026-11-19T07:30:03Z",
     "releases": 182,
     "tags": 255,
     "archived": false,
@@ -67,13 +64,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 49,
+    "star_delta_7d": 46,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "8a15672afffb14259990fad196f0a6777158b625",
-    "v": 3
-  }
+  "pins_before": [
+    "8a15672afffb14259990fad196f0a6777158b625"
+  ],
+  "pinned_at": "2026-11-19T07:30:03Z"
 }

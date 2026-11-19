@@ -1,0 +1,60 @@
+{
+  "id": "gh:itewqq/sgx-pte-spy",
+  "kind": "repo",
+  "url": "https://github.com/itewqq/SGX-PTE-SPY",
+  "title": "SGX-PTE-SPY",
+  "why": "Leaks page access patterns of SGX enclaves through a Linux kernel module, and run.sh runs the PoC with output in the kernel trace.",
+  "keys": {
+    "races": [
+      "hardware/side-channel",
+      "embedded/drivers"
+    ],
+    "lanes": [
+      "hardware/side-channel",
+      "embedded/drivers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.MD",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/itewqq/SGX-PTE-SPY",
+    "sha": "db8a9b0c7c74b97c7c74662d7830ece6d5115e11",
+    "file_url": "https://cdn.jsdelivr.net/gh/itewqq/SGX-PTE-SPY@db8a9b0c7c74b97c7c74662d7830ece6d5115e11/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 22,
+    "size_mb": 1,
+    "created_at": "2024-12-08T04:50:54Z",
+    "last_commit_at": "2025-02-10T04:20:31Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "db8a9b0c7c74b97c7c74662d7830ece6d5115e11",
+    "v": 4
+  },
+  "pinned_at": "2025-02-10T04:20:31Z"
+}

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:eea216643ad290a5230ea686decf582211e51482"
-  },
   "id": "gh:jj-vcs/jj",
   "kind": "repo",
   "url": "https://github.com/jj-vcs/jj",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/jj-vcs/jj",
-    "sha": "eea216643ad290a5230ea686decf582211e51482",
-    "file_url": "https://cdn.jsdelivr.net/gh/jj-vcs/jj@eea216643ad290a5230ea686decf582211e51482/{path}"
+    "sha": "52518a6511707af0a367874b1eb92ea1b8a7d07a",
+    "file_url": "https://cdn.jsdelivr.net/gh/jj-vcs/jj@52518a6511707af0a367874b1eb92ea1b8a7d07a/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 32534,
-    "size_mb": 225,
+    "stars": 32545,
+    "size_mb": 228,
     "created_at": "2020-12-18T04:05:27Z",
-    "last_commit_at": "2026-11-18T05:14:05Z",
+    "last_commit_at": "2026-11-18T23:56:12Z",
     "releases": 56,
     "tags": 56,
     "archived": false,
@@ -60,8 +57,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "eea216643ad290a5230ea686decf582211e51482",
-    "v": 3
-  }
+  "pins_before": [
+    "eea216643ad290a5230ea686decf582211e51482"
+  ],
+  "pinned_at": "2026-11-18T23:56:12Z"
 }

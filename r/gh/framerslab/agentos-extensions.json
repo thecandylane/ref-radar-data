@@ -1,0 +1,66 @@
+{
+  "id": "gh:framerslab/agentos-extensions",
+  "kind": "repo",
+  "url": "https://github.com/framerslab/agentos-extensions",
+  "title": "agentos-extensions",
+  "why": "Source for AgentOS tools and 37 channel adapters, with starter templates for new extensions and a note that it is not the registry.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "agents/frameworks"
+    ],
+    "lanes": [
+      "agents/tools",
+      "agents/frameworks"
+    ],
+    "capabilities": [
+      "agents/tools/web-access",
+      "agents/tools/browser-automation",
+      "agents/frameworks/bot-frameworks"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/framerslab/agentos-extensions",
+    "sha": "7bb25aa4e56ce1cb0cb0bab13e8647656ba3fb14",
+    "file_url": "https://cdn.jsdelivr.net/gh/framerslab/agentos-extensions@7bb25aa4e56ce1cb0cb0bab13e8647656ba3fb14/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 1,
+    "size_mb": 12,
+    "created_at": "2025-11-08T04:43:00Z",
+    "last_commit_at": "2026-11-19T08:50:32Z",
+    "releases": 934,
+    "tags": 968,
+    "archived": false,
+    "release": {
+      "tag": "@framers/agentos-extensions@1.0.60",
+      "at": "2026-11-19T09:02:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7bb25aa4e56ce1cb0cb0bab13e8647656ba3fb14",
+    "v": 4
+  }
+}

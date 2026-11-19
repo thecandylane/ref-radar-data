@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d25ac4f6c815d8548618c8fa782d98cf177041fb"
-  },
   "id": "gh:iptv-org/iptv",
   "kind": "repo",
   "url": "https://github.com/iptv-org/iptv",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/iptv-org/iptv",
-    "sha": "d25ac4f6c815d8548618c8fa782d98cf177041fb",
-    "file_url": "https://cdn.jsdelivr.net/gh/iptv-org/iptv@d25ac4f6c815d8548618c8fa782d98cf177041fb/{path}"
+    "sha": "fb65a4c97c5a5827db19a4cdd7ebe960e146b76a",
+    "file_url": "https://cdn.jsdelivr.net/gh/iptv-org/iptv@fb65a4c97c5a5827db19a4cdd7ebe960e146b76a/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Unlicense",
-    "stars": 144263,
+    "stars": 144324,
     "size_mb": 1395,
     "created_at": "2018-11-14T22:00:57Z",
-    "last_commit_at": "2026-11-18T02:44:59Z",
+    "last_commit_at": "2026-11-19T08:47:05Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -55,9 +52,9 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "d25ac4f6c815d8548618c8fa782d98cf177041fb",
-    "v": 3
-  },
+  "pins_before": [
+    "d25ac4f6c815d8548618c8fa782d98cf177041fb"
+  ],
+  "pinned_at": "2026-11-19T08:47:05Z",
   "hot": true
 }

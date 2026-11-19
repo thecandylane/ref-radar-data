@@ -27,16 +27,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ai-job-search-dev/ai-job-search",
-    "sha": "745e6770dbcfb524ee245c89be0ff8df95924919",
-    "file_url": "https://cdn.jsdelivr.net/gh/ai-job-search-dev/ai-job-search@745e6770dbcfb524ee245c89be0ff8df95924919/{path}"
+    "sha": "f0195d1864549ea0f58e00e527398a8905f3d5d9",
+    "file_url": "https://cdn.jsdelivr.net/gh/ai-job-search-dev/ai-job-search@f0195d1864549ea0f58e00e527398a8905f3d5d9/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 72348,
+    "stars": 72496,
     "size_mb": 6,
     "created_at": "2026-03-18T14:33:04Z",
-    "last_commit_at": "2026-11-17T12:24:25Z",
+    "last_commit_at": "2026-11-19T07:43:25Z",
     "releases": 14,
     "tags": 14,
     "archived": false,
@@ -53,17 +53,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 1187,
+    "star_delta_7d": 1167,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "745e6770dbcfb524ee245c89be0ff8df95924919",
-    "v": 3
+    "sha": "f0195d1864549ea0f58e00e527398a8905f3d5d9",
+    "v": 4
   },
   "pins_before": [
+    "745e6770dbcfb524ee245c89be0ff8df95924919",
     "0d0d1a907a21454affa1b694acc4e2c5008a0d21"
   ],
+  "pinned_at": "2026-11-17T12:24:25Z",
   "hot": true
 }

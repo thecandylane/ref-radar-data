@@ -1,0 +1,66 @@
+{
+  "id": "gh:prefix-dev/pixi",
+  "kind": "repo",
+  "url": "https://github.com/prefix-dev/pixi",
+  "title": "pixi",
+  "why": "Cargo-like package manager on the Conda ecosystem that locks environments and runs tasks for Python, C++ and R projects.",
+  "keys": {
+    "races": [
+      "dev-tools/build",
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "dev-tools/build",
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/prefix-dev/pixi",
+    "sha": "6c47d9962d0c3b608846d0d3b9538c7c6d8e7d88",
+    "file_url": "https://cdn.jsdelivr.net/gh/prefix-dev/pixi@6c47d9962d0c3b608846d0d3b9538c7c6d8e7d88/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "BSD-3-Clause",
+    "stars": 7999,
+    "size_mb": 250,
+    "created_at": "2023-04-28T10:51:16Z",
+    "last_commit_at": "2026-11-18T21:47:23Z",
+    "releases": 154,
+    "tags": 259,
+    "archived": false,
+    "release": {
+      "tag": "v0.84.2",
+      "at": "2026-11-10T13:58:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6c47d9962d0c3b608846d0d3b9538c7c6d8e7d88",
+    "v": 4
+  }
+}

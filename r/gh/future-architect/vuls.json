@@ -1,0 +1,64 @@
+{
+  "id": "gh:future-architect/vuls",
+  "kind": "repo",
+  "url": "https://github.com/future-architect/vuls",
+  "title": "vuls",
+  "why": "Scans Linux, FreeBSD and container hosts without an agent, matching packages against NVD, OVAL and distro advisories.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "cyber/supply-chain"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "cyber/supply-chain"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/future-architect/vuls",
+    "sha": "5ab58516f67bb9713ffdc4ff80df670e631cac26",
+    "file_url": "https://cdn.jsdelivr.net/gh/future-architect/vuls@5ab58516f67bb9713ffdc4ff80df670e631cac26/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "GPL-3.0",
+    "stars": 12348,
+    "size_mb": 32,
+    "created_at": "2016-03-27T02:29:09Z",
+    "last_commit_at": "2026-11-17T06:37:02Z",
+    "releases": 159,
+    "tags": 165,
+    "archived": false,
+    "release": {
+      "tag": "v0.43.0",
+      "at": "2026-11-17T07:11:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

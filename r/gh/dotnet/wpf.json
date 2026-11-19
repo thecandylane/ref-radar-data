@@ -26,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/dotnet/wpf",
-    "sha": "190fa69b112b1c189c51de1c8505c3d2047d1dd6",
-    "file_url": "https://cdn.jsdelivr.net/gh/dotnet/wpf@190fa69b112b1c189c51de1c8505c3d2047d1dd6/{path}"
+    "sha": "b7632d1960ed98a589ef5a916b01f4331050f474",
+    "file_url": "https://cdn.jsdelivr.net/gh/dotnet/wpf@b7632d1960ed98a589ef5a916b01f4331050f474/{path}"
   },
   "facts": {
     "lang": "C#",
@@ -35,7 +35,7 @@
     "stars": 7759,
     "size_mb": 71,
     "created_at": "2018-10-19T01:55:23Z",
-    "last_commit_at": "2026-11-18T04:26:12Z",
+    "last_commit_at": "2026-11-19T06:45:21Z",
     "releases": 232,
     "tags": 274,
     "archived": false,
@@ -52,13 +52,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8,
+    "star_delta_7d": 6,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "190fa69b112b1c189c51de1c8505c3d2047d1dd6",
-    "v": 3
-  }
+  "pins_before": [
+    "190fa69b112b1c189c51de1c8505c3d2047d1dd6"
+  ],
+  "pinned_at": "2026-11-19T06:45:21Z"
 }

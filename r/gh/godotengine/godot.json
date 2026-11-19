@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:069458825a8e4a01938a176372c0709ab6fd9dc3"
+    "swh": "swh:1:rev:b070e63b161aa816afac71dcfc9d60859d38f220"
   },
   "id": "gh:godotengine/godot",
   "kind": "repo",
@@ -25,14 +25,14 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/godotengine/godot",
-    "sha": "069458825a8e4a01938a176372c0709ab6fd9dc3",
-    "file_url": "https://raw.githubusercontent.com/godotengine/godot/069458825a8e4a01938a176372c0709ab6fd9dc3/{path}"
+    "sha": "b070e63b161aa816afac71dcfc9d60859d38f220",
+    "file_url": "https://raw.githubusercontent.com/godotengine/godot/b070e63b161aa816afac71dcfc9d60859d38f220/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 120351,
-    "size_mb": 1906,
+    "stars": 120397,
+    "size_mb": 1916,
     "created_at": "2014-01-04T16:05:36Z",
     "last_commit_at": "2026-11-18T01:34:32Z",
     "releases": 73,
@@ -51,14 +51,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 377,
+    "star_delta_7d": 382,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "069458825a8e4a01938a176372c0709ab6fd9dc3",
-    "v": 3
-  },
+  "pins_before": [
+    "069458825a8e4a01938a176372c0709ab6fd9dc3"
+  ],
+  "pinned_at": "2026-11-18T01:34:32Z",
   "hot": true
 }

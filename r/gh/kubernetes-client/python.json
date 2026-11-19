@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a687381d746b91a6e0f49f7ec357320bcbf4cd38"
-  },
   "id": "gh:kubernetes-client/python",
   "kind": "repo",
   "url": "https://github.com/kubernetes-client/python",
@@ -27,22 +24,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/kubernetes-client/python",
-    "sha": "a687381d746b91a6e0f49f7ec357320bcbf4cd38",
-    "file_url": "https://raw.githubusercontent.com/kubernetes-client/python/a687381d746b91a6e0f49f7ec357320bcbf4cd38/{path}"
+    "sha": "0b104c38fd93615f48f9aeb3803675bee5d558a8",
+    "file_url": "https://raw.githubusercontent.com/kubernetes-client/python/0b104c38fd93615f48f9aeb3803675bee5d558a8/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 7710,
+    "stars": 7711,
     "size_mb": 58,
     "created_at": "2016-10-31T20:08:03Z",
     "last_commit_at": "2026-11-17T23:00:12Z",
-    "releases": 117,
-    "tags": 128,
+    "releases": 118,
+    "tags": 129,
     "archived": false,
     "release": {
-      "tag": "v37.0.2",
-      "at": "2026-11-06T03:41:42.000Z"
+      "tag": "v37.0.3",
+      "at": "2026-11-18T16:25:21.000Z"
     }
   },
   "reuse": "copy",
@@ -58,8 +55,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "a687381d746b91a6e0f49f7ec357320bcbf4cd38",
-    "v": 3
-  }
+  "pins_before": [
+    "a687381d746b91a6e0f49f7ec357320bcbf4cd38"
+  ],
+  "pinned_at": "2026-11-17T23:00:12Z"
 }

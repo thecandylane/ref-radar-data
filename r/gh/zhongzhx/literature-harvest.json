@@ -1,0 +1,62 @@
+{
+  "id": "gh:zhongzhx/literature-harvest",
+  "kind": "repo",
+  "url": "https://github.com/zhongzhx/literature-harvest",
+  "title": "literature-harvest",
+  "why": "Searches any keyword set across PubMed, Europe PMC, Crossref and OpenAlex, then builds a candidate table and downloads legal PDFs.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/assistants/deep-research"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zhongzhx/literature-harvest",
+    "sha": "bd41d2673235c6cde15b326b7159f7917946ddee",
+    "file_url": "https://cdn.jsdelivr.net/gh/zhongzhx/literature-harvest@bd41d2673235c6cde15b326b7159f7917946ddee/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 74,
+    "size_mb": 0,
+    "created_at": "2026-04-23T14:28:24Z",
+    "last_commit_at": "2026-04-23T14:37:51Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "bd41d2673235c6cde15b326b7159f7917946ddee",
+    "v": 4
+  },
+  "pinned_at": "2026-04-23T14:37:51Z"
+}

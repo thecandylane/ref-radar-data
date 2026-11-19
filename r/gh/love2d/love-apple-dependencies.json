@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a5522634f1e581a1ebab73bf3ab4bd7a853b7a3e"
+  },
+  "id": "gh:love2d/love-apple-dependencies",
+  "kind": "repo",
+  "url": "https://github.com/love2d/love-apple-dependencies",
+  "title": "love-apple-dependencies",
+  "why": "Pre-built Apple platform libraries, tagged per release, so the macOS and iOS builds of the engine pull a matching set.",
+  "keys": {
+    "races": [
+      "games/engines"
+    ],
+    "lanes": [
+      "games/engines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/love2d/love-apple-dependencies",
+    "sha": "a5522634f1e581a1ebab73bf3ab4bd7a853b7a3e",
+    "file_url": "https://cdn.jsdelivr.net/gh/love2d/love-apple-dependencies@a5522634f1e581a1ebab73bf3ab4bd7a853b7a3e/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 21,
+    "size_mb": 72,
+    "created_at": "2021-12-28T19:32:40Z",
+    "last_commit_at": "2026-07-24T00:17:38Z",
+    "releases": 0,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a5522634f1e581a1ebab73bf3ab4bd7a853b7a3e",
+    "v": 4
+  },
+  "pinned_at": "2026-07-24T00:17:38Z"
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:290e07d75c52d68e021b6d0b4200c2a41ea20365"
+  },
   "id": "gh:swisskyrepo/ssrfmap",
   "kind": "repo",
   "url": "https://github.com/swisskyrepo/SSRFmap",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 3649,
+    "stars": 3650,
     "size_mb": 4,
     "created_at": "2018-10-15T19:08:26Z",
     "last_commit_at": "2026-08-10T12:02:58Z",
@@ -54,6 +57,11 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "pack": {
+    "sha": "290e07d75c52d68e021b6d0b4200c2a41ea20365",
+    "v": 3
+  },
+  "pinned_at": "2026-08-10T12:02:58Z",
   "risk": {
     "level": "caution",
     "signals": [

@@ -1,0 +1,68 @@
+{
+  "id": "gh:apify/apify-sdk-python",
+  "kind": "repo",
+  "url": "https://github.com/apify/apify-sdk-python",
+  "title": "apify-sdk-python",
+  "why": "Runs a Python scraper inside async with Actor, so input, datasets and Apify Proxy are handled for the run.",
+  "keys": {
+    "races": [
+      "infra/serverless",
+      "agents/tools"
+    ],
+    "lanes": [
+      "infra/serverless",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/web-access"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apify/apify-sdk-python",
+    "sha": "6679fb48b4bb7c756fc27934ff160607661d8457",
+    "file_url": "https://cdn.jsdelivr.net/gh/apify/apify-sdk-python@6679fb48b4bb7c756fc27934ff160607661d8457/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 180,
+    "size_mb": 31,
+    "created_at": "2022-12-02T13:12:31Z",
+    "last_commit_at": "2026-11-19T07:10:05Z",
+    "releases": 60,
+    "tags": 61,
+    "archived": false,
+    "release": {
+      "tag": "v4.3.0",
+      "at": "2026-11-18T10:50:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6679fb48b4bb7c756fc27934ff160607661d8457",
+    "v": 4
+  }
+}

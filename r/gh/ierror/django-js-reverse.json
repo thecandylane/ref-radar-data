@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3d3dfc632a019697790fcb3b3cd6235fd0295bb6"
+  },
+  "id": "gh:ierror/django-js-reverse",
+  "kind": "repo",
+  "url": "https://github.com/ierror/django-js-reverse",
+  "title": "django-js-reverse",
+  "why": "Exposes Django named URLs to JavaScript, so front-end code builds paths with arguments instead of hardcoding them.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ierror/django-js-reverse",
+    "sha": "3d3dfc632a019697790fcb3b3cd6235fd0295bb6",
+    "file_url": "https://cdn.jsdelivr.net/gh/ierror/django-js-reverse@3d3dfc632a019697790fcb3b3cd6235fd0295bb6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 539,
+    "size_mb": 0,
+    "created_at": "2013-02-04T19:06:20Z",
+    "last_commit_at": "2023-08-30T09:29:15Z",
+    "releases": 0,
+    "tags": 31,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3d3dfc632a019697790fcb3b3cd6235fd0295bb6",
+    "v": 4
+  },
+  "pinned_at": "2023-08-30T09:29:15Z"
+}

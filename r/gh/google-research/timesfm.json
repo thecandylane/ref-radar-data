@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:e51928e27119cb17bebc005be2696b75e0a9e688"
-  },
   "id": "gh:google-research/timesfm",
   "kind": "repo",
   "url": "https://github.com/google-research/timesfm",
@@ -33,13 +30,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/google-research/timesfm",
-    "sha": "e51928e27119cb17bebc005be2696b75e0a9e688",
-    "file_url": "https://cdn.jsdelivr.net/gh/google-research/timesfm@e51928e27119cb17bebc005be2696b75e0a9e688/{path}"
+    "sha": "918df02c9d366b2145bc5876135fa2131d3ed2a6",
+    "file_url": "https://cdn.jsdelivr.net/gh/google-research/timesfm@918df02c9d366b2145bc5876135fa2131d3ed2a6/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 35628,
+    "stars": 35638,
     "size_mb": 4,
     "created_at": "2024-04-29T21:26:26Z",
     "last_commit_at": "2026-11-13T04:53:10Z",
@@ -59,14 +56,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 233,
+    "star_delta_7d": 213,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "e51928e27119cb17bebc005be2696b75e0a9e688",
-    "v": 3
-  },
+  "pins_before": [
+    "e51928e27119cb17bebc005be2696b75e0a9e688"
+  ],
+  "pinned_at": "2026-11-13T04:53:10Z",
   "hot": true
 }

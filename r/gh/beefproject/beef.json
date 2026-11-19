@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:2ba44c29fc4c0a1e203628e6b2e785c900dceec1"
+  },
   "id": "gh:beefproject/beef",
   "kind": "repo",
   "url": "https://github.com/beefproject/beef",
@@ -22,8 +25,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/beefproject/beef",
-    "sha": "cdbf2ef797a68aa028f95ce4d04a8b2b8d173ec6",
-    "file_url": "https://cdn.jsdelivr.net/gh/beefproject/beef@cdbf2ef797a68aa028f95ce4d04a8b2b8d173ec6/{path}"
+    "sha": "2ba44c29fc4c0a1e203628e6b2e785c900dceec1",
+    "file_url": "https://cdn.jsdelivr.net/gh/beefproject/beef@2ba44c29fc4c0a1e203628e6b2e785c900dceec1/{path}"
   },
   "facts": {
     "lang": "JavaScript",
@@ -48,13 +51,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8,
+    "star_delta_7d": 5,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "cdbf2ef797a68aa028f95ce4d04a8b2b8d173ec6",
-    "v": 3
-  }
+    "sha": "2ba44c29fc4c0a1e203628e6b2e785c900dceec1",
+    "v": 4
+  },
+  "pins_before": [
+    "cdbf2ef797a68aa028f95ce4d04a8b2b8d173ec6"
+  ],
+  "pinned_at": "2026-11-17T13:03:54Z"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:4ee8d46fc463770b8f5da718d5449a5b027b2c08"
-  },
   "id": "gh:axios/axios",
   "kind": "repo",
   "url": "https://github.com/axios/axios",
@@ -29,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/axios/axios",
-    "sha": "4ee8d46fc463770b8f5da718d5449a5b027b2c08",
-    "file_url": "https://cdn.jsdelivr.net/gh/axios/axios@4ee8d46fc463770b8f5da718d5449a5b027b2c08/{path}"
+    "sha": "9f0f4ddfe72b4c06afafe1a658e6ee53d35b5760",
+    "file_url": "https://cdn.jsdelivr.net/gh/axios/axios@9f0f4ddfe72b4c06afafe1a658e6ee53d35b5760/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 109387,
+    "stars": 109371,
     "size_mb": 30,
     "created_at": "2014-08-18T22:30:27Z",
     "last_commit_at": "2026-11-18T05:08:24Z",
@@ -55,13 +52,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 51,
+    "star_delta_7d": -22,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "4ee8d46fc463770b8f5da718d5449a5b027b2c08",
-    "v": 3
-  }
+    "sha": "9f0f4ddfe72b4c06afafe1a658e6ee53d35b5760",
+    "v": 4
+  },
+  "pins_before": [
+    "4ee8d46fc463770b8f5da718d5449a5b027b2c08"
+  ],
+  "pinned_at": "2026-11-18T05:08:24Z"
 }

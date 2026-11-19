@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:dded3a2e49965657d78b7345e4b7986521c36073"
-  },
   "id": "gh:kvcache-ai/mooncake",
   "kind": "repo",
   "url": "https://github.com/kvcache-ai/Mooncake",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/kvcache-ai/Mooncake",
-    "sha": "dded3a2e49965657d78b7345e4b7986521c36073",
-    "file_url": "https://cdn.jsdelivr.net/gh/kvcache-ai/Mooncake@dded3a2e49965657d78b7345e4b7986521c36073/{path}"
+    "sha": "10e9ecba8f81354b7aa29041a629b43c2f2e6d2b",
+    "file_url": "https://cdn.jsdelivr.net/gh/kvcache-ai/Mooncake@10e9ecba8f81354b7aa29041a629b43c2f2e6d2b/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "Apache-2.0",
-    "stars": 7069,
-    "size_mb": 69,
+    "stars": 7077,
+    "size_mb": 70,
     "created_at": "2024-06-25T05:21:05Z",
-    "last_commit_at": "2026-11-18T09:01:55Z",
+    "last_commit_at": "2026-11-19T08:59:30Z",
     "releases": 36,
     "tags": 40,
     "archived": false,
@@ -53,13 +50,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 48,
+    "star_delta_7d": 51,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "dded3a2e49965657d78b7345e4b7986521c36073",
-    "v": 3
-  }
+  "pins_before": [
+    "dded3a2e49965657d78b7345e4b7986521c36073"
+  ],
+  "pinned_at": "2026-11-19T08:59:30Z"
 }

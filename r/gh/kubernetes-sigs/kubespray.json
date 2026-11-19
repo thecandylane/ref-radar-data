@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:88b695db644db0e9fd3a20061e9dd790b392b679"
-  },
   "id": "gh:kubernetes-sigs/kubespray",
   "kind": "repo",
   "url": "https://github.com/kubernetes-sigs/kubespray",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/kubernetes-sigs/kubespray",
-    "sha": "88b695db644db0e9fd3a20061e9dd790b392b679",
-    "file_url": "https://cdn.jsdelivr.net/gh/kubernetes-sigs/kubespray@88b695db644db0e9fd3a20061e9dd790b392b679/{path}"
+    "sha": "82d32739a395c2e4708bc59f24b1545767f66f16",
+    "file_url": "https://cdn.jsdelivr.net/gh/kubernetes-sigs/kubespray@82d32739a395c2e4708bc59f24b1545767f66f16/{path}"
   },
   "facts": {
     "lang": "Jinja",
     "license": "Apache-2.0",
-    "stars": 18847,
+    "stars": 18849,
     "size_mb": 30,
     "created_at": "2015-10-03T20:18:11Z",
-    "last_commit_at": "2026-11-18T08:06:13Z",
+    "last_commit_at": "2026-11-19T04:30:29Z",
     "releases": 82,
     "tags": 91,
     "archived": false,
@@ -53,13 +50,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 15,
+    "star_delta_7d": 13,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "88b695db644db0e9fd3a20061e9dd790b392b679",
-    "v": 3
-  }
+  "pins_before": [
+    "88b695db644db0e9fd3a20061e9dd790b392b679"
+  ],
+  "pinned_at": "2026-11-19T04:30:29Z"
 }

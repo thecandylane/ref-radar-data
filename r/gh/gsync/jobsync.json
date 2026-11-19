@@ -1,0 +1,69 @@
+{
+  "id": "gh:gsync/jobsync",
+  "kind": "repo",
+  "url": "https://github.com/Gsync/jobsync",
+  "title": "jobsync",
+  "why": "Tracks each application and interview in one self-hosted place, and an MCP server lets Claude Desktop add jobs.",
+  "keys": {
+    "races": [
+      "hr/recruiting",
+      "agents/tools"
+    ],
+    "lanes": [
+      "hr/recruiting",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Gsync/jobsync",
+    "sha": "4be4faa0a3132358157f0446388a1b6db255e10c",
+    "file_url": "https://cdn.jsdelivr.net/gh/Gsync/jobsync@4be4faa0a3132358157f0446388a1b6db255e10c/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1536,
+    "size_mb": 19,
+    "created_at": "2024-05-21T22:30:01Z",
+    "last_commit_at": "2026-11-14T17:15:50Z",
+    "releases": 21,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.1",
+      "at": "2026-11-14T17:15:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4be4faa0a3132358157f0446388a1b6db255e10c",
+    "v": 4
+  },
+  "pinned_at": "2026-11-14T17:15:50Z"
+}

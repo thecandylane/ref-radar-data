@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1deada954e6eead9c054837f1cd3d669e912cd4d"
-  },
   "id": "gh:charmbracelet/bubbles",
   "kind": "repo",
   "url": "https://github.com/charmbracelet/bubbles",
@@ -29,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/charmbracelet/bubbles",
-    "sha": "1deada954e6eead9c054837f1cd3d669e912cd4d",
-    "file_url": "https://cdn.jsdelivr.net/gh/charmbracelet/bubbles@1deada954e6eead9c054837f1cd3d669e912cd4d/{path}"
+    "sha": "5629869592e126188c3d6b35f7f5227986ca3417",
+    "file_url": "https://cdn.jsdelivr.net/gh/charmbracelet/bubbles@5629869592e126188c3d6b35f7f5227986ca3417/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 9060,
+    "stars": 9064,
     "size_mb": 1,
     "created_at": "2020-01-18T15:43:23Z",
     "last_commit_at": "2026-11-18T07:50:41Z",
@@ -55,13 +52,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 20,
+    "star_delta_7d": 22,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "1deada954e6eead9c054837f1cd3d669e912cd4d",
-    "v": 3
-  }
+    "sha": "5629869592e126188c3d6b35f7f5227986ca3417",
+    "v": 4
+  },
+  "pins_before": [
+    "1deada954e6eead9c054837f1cd3d669e912cd4d"
+  ],
+  "pinned_at": "2026-11-18T07:50:41Z"
 }

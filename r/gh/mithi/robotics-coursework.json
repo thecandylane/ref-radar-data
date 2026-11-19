@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:170b70d4c626f9604eadbff57bd9a7f66316b918"
+  },
+  "id": "gh:mithi/robotics-coursework",
+  "kind": "repo",
+  "url": "https://github.com/mithi/robotics-coursework",
+  "title": "robotics-coursework",
+  "why": "Robotics courses from Coursera, edX and MIT, each tagged as fundamental, paid or video, to help choose where to start.",
+  "keys": {
+    "races": [
+      "embedded/robotics",
+      "learning/courses"
+    ],
+    "lanes": [
+      "embedded/robotics",
+      "learning/courses"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.MD",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mithi/robotics-coursework",
+    "sha": "170b70d4c626f9604eadbff57bd9a7f66316b918",
+    "file_url": "https://cdn.jsdelivr.net/gh/mithi/robotics-coursework@170b70d4c626f9604eadbff57bd9a7f66316b918/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "Unlicense",
+    "stars": 5395,
+    "size_mb": 0,
+    "created_at": "2017-06-24T14:45:17Z",
+    "last_commit_at": "2026-08-31T14:12:27Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "170b70d4c626f9604eadbff57bd9a7f66316b918",
+    "v": 4
+  },
+  "pinned_at": "2026-08-31T14:12:27Z"
+}

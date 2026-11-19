@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:42dc23c41dcaf1f95d858837aed5301fd4faa27a"
-  },
   "id": "gh:linkedin/liger-kernel",
   "kind": "repo",
   "url": "https://github.com/linkedin/Liger-Kernel",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/linkedin/Liger-Kernel",
-    "sha": "42dc23c41dcaf1f95d858837aed5301fd4faa27a",
-    "file_url": "https://cdn.jsdelivr.net/gh/linkedin/Liger-Kernel@42dc23c41dcaf1f95d858837aed5301fd4faa27a/{path}"
+    "sha": "33b66dca97c22f5f38edd7af98a500d44abef7ef",
+    "file_url": "https://cdn.jsdelivr.net/gh/linkedin/Liger-Kernel@33b66dca97c22f5f38edd7af98a500d44abef7ef/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "BSD-2-Clause",
-    "stars": 6704,
+    "stars": 6705,
     "size_mb": 27,
     "created_at": "2024-08-06T17:47:52Z",
-    "last_commit_at": "2026-11-18T00:44:19Z",
+    "last_commit_at": "2026-11-19T05:51:56Z",
     "releases": 34,
     "tags": 34,
     "archived": false,
@@ -55,13 +52,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 9,
+    "star_delta_7d": 8,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "42dc23c41dcaf1f95d858837aed5301fd4faa27a",
-    "v": 3
-  }
+  "pins_before": [
+    "42dc23c41dcaf1f95d858837aed5301fd4faa27a"
+  ],
+  "pinned_at": "2026-11-19T05:51:56Z"
 }

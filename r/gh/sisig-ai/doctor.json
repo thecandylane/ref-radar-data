@@ -1,0 +1,71 @@
+{
+  "id": "gh:sisig-ai/doctor",
+  "kind": "repo",
+  "url": "https://github.com/sisig-ai/doctor",
+  "title": "doctor",
+  "why": "Crawls a site into DuckDB with vector search and exposes the indexed pages to your editor as an MCP server.",
+  "keys": {
+    "races": [
+      "llm-infra/rag",
+      "agents/tools"
+    ],
+    "lanes": [
+      "llm-infra/rag",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "llm-infra/rag/knowledge-platforms",
+      "agents/tools/mcp-servers",
+      "agents/tools/web-access"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sisig-ai/doctor",
+    "sha": "4860bdf425613180762c0b8e40f54734ecb2f66b",
+    "file_url": "https://cdn.jsdelivr.net/gh/sisig-ai/doctor@4860bdf425613180762c0b8e40f54734ecb2f66b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 462,
+    "size_mb": 2,
+    "created_at": "2025-05-03T11:56:51Z",
+    "last_commit_at": "2025-05-24T09:59:53Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.1",
+      "at": "2025-05-24T10:01:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4860bdf425613180762c0b8e40f54734ecb2f66b",
+    "v": 4
+  },
+  "pinned_at": "2025-05-24T09:59:53Z"
+}

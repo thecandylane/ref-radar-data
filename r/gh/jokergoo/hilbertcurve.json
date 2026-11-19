@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:dc70c797e657138d9a54b78de23ef2cfe76f5312"
+  },
+  "id": "gh:jokergoo/hilbertcurve",
+  "kind": "repo",
+  "url": "https://github.com/jokergoo/HilbertCurve",
+  "title": "HilbertCurve",
+  "why": "Folds a long genomic axis onto a Hilbert curve in R so clusters stay close together and resolution rises for chromosome-scale data.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jokergoo/HilbertCurve",
+    "sha": "dc70c797e657138d9a54b78de23ef2cfe76f5312",
+    "file_url": "https://cdn.jsdelivr.net/gh/jokergoo/HilbertCurve@dc70c797e657138d9a54b78de23ef2cfe76f5312/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 44,
+    "size_mb": 90,
+    "created_at": "2015-06-30T16:13:22Z",
+    "last_commit_at": "2026-04-23T02:39:48Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dc70c797e657138d9a54b78de23ef2cfe76f5312",
+    "v": 4
+  },
+  "pinned_at": "2026-04-23T02:39:48Z"
+}

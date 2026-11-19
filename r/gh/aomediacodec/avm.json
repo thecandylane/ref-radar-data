@@ -1,8 +1,11 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:e6f99d3deb880b570a01dbec9e50d28d13fc3943"
+  },
   "id": "gh:aomediacodec/avm",
   "kind": "repo",
   "url": "https://github.com/AOMediaCodec/avm",
-  "title": "avm",
+  "title": "AOMediaCodec/avm",
   "why": "Reference encoder and decoder for the AV2 video codec, built with CMake and checked by gtest unit tests and common test conditions.",
   "keys": {
     "races": [
@@ -39,7 +42,7 @@
     "stars": 264,
     "size_mb": 335,
     "created_at": "2026-05-14T15:45:16Z",
-    "last_commit_at": "2026-11-13T02:35:59Z",
+    "last_commit_at": "2026-11-18T22:05:57Z",
     "releases": 0,
     "tags": 39,
     "archived": false,
@@ -60,7 +63,7 @@
   "tier": "curated",
   "pack": {
     "sha": "e6f99d3deb880b570a01dbec9e50d28d13fc3943",
-    "v": 3
+    "v": 4
   },
   "pinned_at": "2026-11-13T02:35:59Z"
 }

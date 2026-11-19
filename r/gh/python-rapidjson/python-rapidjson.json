@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:39996ba9530acde50cef0b82724860ab51819197"
+  },
+  "id": "gh:python-rapidjson/python-rapidjson",
+  "kind": "repo",
+  "url": "https://github.com/python-rapidjson/python-rapidjson",
+  "title": "python-rapidjson",
+  "why": "Parse and serialize JSON in Python by calling the rapidjson C++ library, with benchmarks and typings included.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/python-rapidjson/python-rapidjson",
+    "sha": "39996ba9530acde50cef0b82724860ab51819197",
+    "file_url": "https://cdn.jsdelivr.net/gh/python-rapidjson/python-rapidjson@39996ba9530acde50cef0b82724860ab51819197/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 533,
+    "size_mb": 2,
+    "created_at": "2015-09-09T04:02:42Z",
+    "last_commit_at": "2026-11-03T15:33:51Z",
+    "releases": 0,
+    "tags": 66,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "39996ba9530acde50cef0b82724860ab51819197",
+    "v": 3
+  },
+  "pinned_at": "2026-11-03T15:33:51Z"
+}

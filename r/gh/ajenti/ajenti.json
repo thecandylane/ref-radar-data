@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d9ada8968316853bc1c151bccaafb3da92455869"
-  },
   "id": "gh:ajenti/ajenti",
   "kind": "repo",
   "url": "https://github.com/ajenti/ajenti",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ajenti/ajenti",
-    "sha": "d9ada8968316853bc1c151bccaafb3da92455869",
-    "file_url": "https://cdn.jsdelivr.net/gh/ajenti/ajenti@d9ada8968316853bc1c151bccaafb3da92455869/{path}"
+    "sha": "67abcc0dd773a9812cfbd221725318f14919c058",
+    "file_url": "https://cdn.jsdelivr.net/gh/ajenti/ajenti@67abcc0dd773a9812cfbd221725318f14919c058/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 7973,
+    "stars": 7972,
     "size_mb": 38,
     "created_at": "2010-03-03T08:04:15Z",
-    "last_commit_at": "2026-11-01T19:41:32Z",
+    "last_commit_at": "2026-11-18T10:32:48Z",
     "releases": 34,
     "tags": 159,
     "archived": false,
@@ -53,14 +50,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": -1,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "d9ada8968316853bc1c151bccaafb3da92455869",
-    "v": 3
+    "sha": "67abcc0dd773a9812cfbd221725318f14919c058",
+    "v": 4
   },
-  "pinned_at": "2026-11-01T19:41:32Z"
+  "pins_before": [
+    "d9ada8968316853bc1c151bccaafb3da92455869"
+  ],
+  "pinned_at": "2026-11-18T10:32:48Z"
 }

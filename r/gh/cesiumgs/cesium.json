@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9fae08d259b2f50e05614f330e67a9b35154b3ad"
-  },
   "id": "gh:cesiumgs/cesium",
   "kind": "repo",
   "url": "https://github.com/CesiumGS/cesium",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/CesiumGS/cesium",
-    "sha": "9fae08d259b2f50e05614f330e67a9b35154b3ad",
-    "file_url": "https://cdn.jsdelivr.net/gh/CesiumGS/cesium@9fae08d259b2f50e05614f330e67a9b35154b3ad/{path}"
+    "sha": "c18e7bdedf076c6bb7eedca06df90c108eebab59",
+    "file_url": "https://cdn.jsdelivr.net/gh/CesiumGS/cesium@c18e7bdedf076c6bb7eedca06df90c108eebab59/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "Apache-2.0",
-    "stars": 15965,
-    "size_mb": 1261,
+    "stars": 15969,
+    "size_mb": 1260,
     "created_at": "2012-03-02T22:27:14Z",
-    "last_commit_at": "2026-11-17T02:54:34Z",
+    "last_commit_at": "2026-11-18T17:14:32Z",
     "releases": 190,
     "tags": 224,
     "archived": false,
@@ -57,13 +54,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 23,
+    "star_delta_7d": 26,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "9fae08d259b2f50e05614f330e67a9b35154b3ad",
-    "v": 3
-  }
+    "sha": "c18e7bdedf076c6bb7eedca06df90c108eebab59",
+    "v": 4
+  },
+  "pins_before": [
+    "9fae08d259b2f50e05614f330e67a9b35154b3ad"
+  ],
+  "pinned_at": "2026-11-18T17:14:32Z"
 }

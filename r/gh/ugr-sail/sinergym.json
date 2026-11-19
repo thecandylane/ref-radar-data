@@ -1,0 +1,65 @@
+{
+  "id": "gh:ugr-sail/sinergym",
+  "kind": "repo",
+  "url": "https://github.com/ugr-sail/sinergym",
+  "title": "sinergym",
+  "why": "Gymnasium environments wrap EnergyPlus so a reinforcement learning agent can drive building actuators in simulation time.",
+  "keys": {
+    "races": [
+      "energy/building-energy",
+      "agents/optimization"
+    ],
+    "lanes": [
+      "energy/building-energy",
+      "agents/optimization"
+    ],
+    "capabilities": [
+      "agents/optimization/rl-environments"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ugr-sail/sinergym",
+    "sha": "56744b4d2055d6d73cef856605b57728f9b1f5c5",
+    "file_url": "https://cdn.jsdelivr.net/gh/ugr-sail/sinergym@56744b4d2055d6d73cef856605b57728f9b1f5c5/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 242,
+    "size_mb": 519,
+    "created_at": "2021-01-23T18:45:17Z",
+    "last_commit_at": "2026-11-17T15:56:54Z",
+    "releases": 64,
+    "tags": 70,
+    "archived": false,
+    "release": {
+      "tag": "v3.12.2",
+      "at": "2026-07-21T09:12:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "56744b4d2055d6d73cef856605b57728f9b1f5c5",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T15:56:54Z"
+}

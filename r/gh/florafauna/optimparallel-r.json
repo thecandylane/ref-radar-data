@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:98fb2054c5439f8c15083c798b58bb9a58204800"
+  },
+  "id": "gh:florafauna/optimparallel-r",
+  "kind": "repo",
+  "url": "https://github.com/florafauna/optimParallel-R",
+  "title": "optimParallel-R",
+  "why": "Speeds up the L-BFGS-B optim method in R when fn takes more than 0.1 seconds, by evaluating on extra processor cores.",
+  "keys": {
+    "races": [
+      "practice/performance"
+    ],
+    "lanes": [
+      "practice/performance"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/florafauna/optimParallel-R",
+    "sha": "98fb2054c5439f8c15083c798b58bb9a58204800",
+    "file_url": "https://cdn.jsdelivr.net/gh/florafauna/optimParallel-R@98fb2054c5439f8c15083c798b58bb9a58204800/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 10,
+    "size_mb": 0,
+    "created_at": "2021-02-10T18:16:02Z",
+    "last_commit_at": "2026-07-30T07:41:42Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "98fb2054c5439f8c15083c798b58bb9a58204800",
+    "v": 4
+  },
+  "pinned_at": "2026-07-30T07:41:42Z"
+}

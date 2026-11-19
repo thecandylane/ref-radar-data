@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:cba73e180fd8896a99df6415b859d275122feaa7"
-  },
   "id": "gh:apache/incubator-seata",
   "kind": "repo",
   "url": "https://github.com/apache/incubator-seata",
@@ -25,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/incubator-seata",
-    "sha": "cba73e180fd8896a99df6415b859d275122feaa7",
-    "file_url": "https://cdn.jsdelivr.net/gh/apache/incubator-seata@cba73e180fd8896a99df6415b859d275122feaa7/{path}"
+    "sha": "3c3aeb07ea44911399ef260fa5fe1cc3aca5520f",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/incubator-seata@3c3aeb07ea44911399ef260fa5fe1cc3aca5520f/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 26005,
+    "stars": 26006,
     "size_mb": 32,
     "created_at": "2018-12-28T08:37:22Z",
-    "last_commit_at": "2026-11-18T08:06:19Z",
+    "last_commit_at": "2026-11-19T08:57:08Z",
     "releases": 46,
     "tags": 47,
     "archived": false,
@@ -57,7 +54,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "cba73e180fd8896a99df6415b859d275122feaa7",
-    "v": 3
-  }
+    "sha": "3c3aeb07ea44911399ef260fa5fe1cc3aca5520f",
+    "v": 4
+  },
+  "pins_before": [
+    "cba73e180fd8896a99df6415b859d275122feaa7"
+  ],
+  "pinned_at": "2026-11-19T08:57:08Z"
 }

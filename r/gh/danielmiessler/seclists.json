@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:b68489393c7a9bc20f15947b63509a9cbeeb3f92"
-  },
   "id": "gh:danielmiessler/seclists",
   "kind": "repo",
   "url": "https://github.com/danielmiessler/SecLists",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/danielmiessler/SecLists",
-    "sha": "b68489393c7a9bc20f15947b63509a9cbeeb3f92",
-    "file_url": "https://raw.githubusercontent.com/danielmiessler/SecLists/b68489393c7a9bc20f15947b63509a9cbeeb3f92/{path}"
+    "sha": "0247dfd46495df842868b2ab6a2cce0c75709215",
+    "file_url": "https://raw.githubusercontent.com/danielmiessler/SecLists/0247dfd46495df842868b2ab6a2cce0c75709215/{path}"
   },
   "facts": {
     "lang": "PHP",
     "license": "MIT",
-    "stars": 74826,
+    "stars": 74837,
     "size_mb": 3686,
     "created_at": "2012-02-19T01:30:18Z",
-    "last_commit_at": "2026-11-17T11:10:31Z",
+    "last_commit_at": "2026-11-18T11:10:28Z",
     "releases": 31,
     "tags": 32,
     "archived": false,
@@ -53,14 +50,18 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 132,
+    "star_delta_7d": 123,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "b68489393c7a9bc20f15947b63509a9cbeeb3f92",
-    "v": 3
+    "sha": "0247dfd46495df842868b2ab6a2cce0c75709215",
+    "v": 4
   },
+  "pins_before": [
+    "b68489393c7a9bc20f15947b63509a9cbeeb3f92"
+  ],
+  "pinned_at": "2026-11-18T11:10:28Z",
   "hot": true
 }

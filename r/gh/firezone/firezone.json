@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:e7953fe38c7c6c5545f60a01a59f506ce8eb82ad"
-  },
   "id": "gh:firezone/firezone",
   "kind": "repo",
   "url": "https://github.com/firezone/firezone",
@@ -25,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/firezone/firezone",
-    "sha": "e7953fe38c7c6c5545f60a01a59f506ce8eb82ad",
-    "file_url": "https://cdn.jsdelivr.net/gh/firezone/firezone@e7953fe38c7c6c5545f60a01a59f506ce8eb82ad/{path}"
+    "sha": "1a6067209124c1f2b9abdc03f04fb4d53a09249b",
+    "file_url": "https://cdn.jsdelivr.net/gh/firezone/firezone@1a6067209124c1f2b9abdc03f04fb4d53a09249b/{path}"
   },
   "facts": {
     "lang": "Elixir",
     "license": "Apache-2.0",
-    "stars": 9191,
-    "size_mb": 450,
+    "stars": 9194,
+    "size_mb": 449,
     "created_at": "2020-04-22T04:05:12Z",
-    "last_commit_at": "2026-11-18T05:15:02Z",
+    "last_commit_at": "2026-11-19T07:23:44Z",
     "releases": 379,
     "tags": 379,
     "archived": false,
@@ -56,8 +53,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "e7953fe38c7c6c5545f60a01a59f506ce8eb82ad",
-    "v": 3
-  }
+  "pins_before": [
+    "e7953fe38c7c6c5545f60a01a59f506ce8eb82ad"
+  ],
+  "pinned_at": "2026-11-19T07:23:44Z"
 }

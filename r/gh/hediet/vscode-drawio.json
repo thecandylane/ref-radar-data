@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9a1380968f0bee94c98451510596b1c1d0ef0f21"
-  },
   "id": "gh:hediet/vscode-drawio",
   "kind": "repo",
   "url": "https://github.com/hediet/vscode-drawio",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/hediet/vscode-drawio",
-    "sha": "9a1380968f0bee94c98451510596b1c1d0ef0f21",
-    "file_url": "https://cdn.jsdelivr.net/gh/hediet/vscode-drawio@9a1380968f0bee94c98451510596b1c1d0ef0f21/{path}"
+    "sha": "ab3627e04b83cfa02f42830fe8939899f7b20204",
+    "file_url": "https://cdn.jsdelivr.net/gh/hediet/vscode-drawio@ab3627e04b83cfa02f42830fe8939899f7b20204/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -54,13 +51,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 2,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "9a1380968f0bee94c98451510596b1c1d0ef0f21",
-    "v": 3
-  }
+  "pins_before": [
+    "9a1380968f0bee94c98451510596b1c1d0ef0f21"
+  ],
+  "pinned_at": "2026-11-17T18:56:31Z"
 }

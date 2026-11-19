@@ -1,0 +1,60 @@
+{
+  "id": "gh:itsomsarraf/vercel-github-actions-deploy-skills",
+  "kind": "repo",
+  "url": "https://github.com/itsOmSarraf/vercel-github-actions-deploy-skills",
+  "title": "vercel-github-actions-deploy-skills",
+  "why": "Rewrites the commit author on the Actions runner so a teammate's push to main still deploys on Vercel's free Hobby plan.",
+  "keys": {
+    "races": [
+      "infra/ci-cd",
+      "agents/skills"
+    ],
+    "lanes": [
+      "infra/ci-cd",
+      "agents/skills"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/itsOmSarraf/vercel-github-actions-deploy-skills",
+    "sha": "3753a8714f063f430618477acca35e89e5213528",
+    "file_url": "https://cdn.jsdelivr.net/gh/itsOmSarraf/vercel-github-actions-deploy-skills@3753a8714f063f430618477acca35e89e5213528/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "MIT",
+    "stars": 26,
+    "size_mb": 0,
+    "created_at": "2026-02-06T15:02:14Z",
+    "last_commit_at": "2026-02-06T15:02:08Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3753a8714f063f430618477acca35e89e5213528",
+    "v": 4
+  },
+  "pinned_at": "2026-02-06T15:02:08Z"
+}

@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8cfc51014092a6dc1da5eb0217bb9ae6516b124e"
+  },
+  "id": "gh:ntsc-rs/ntsc-rs",
+  "kind": "repo",
+  "url": "https://github.com/ntsc-rs/ntsc-rs",
+  "title": "ntsc-rs",
+  "why": "Emulates NTSC and VHS artifacts as a video effect that runs at mostly real-time speeds as a standalone app or an After Effects and Premiere plugin.",
+  "keys": {
+    "races": [
+      "media/video",
+      "media/animation-vfx"
+    ],
+    "lanes": [
+      "media/video",
+      "media/animation-vfx"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ntsc-rs/ntsc-rs",
+    "sha": "8cfc51014092a6dc1da5eb0217bb9ae6516b124e",
+    "file_url": "https://cdn.jsdelivr.net/gh/ntsc-rs/ntsc-rs@8cfc51014092a6dc1da5eb0217bb9ae6516b124e/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "NOASSERTION",
+    "stars": 2729,
+    "size_mb": 27,
+    "created_at": "2023-08-24T03:07:59Z",
+    "last_commit_at": "2026-10-15T01:45:39Z",
+    "releases": 41,
+    "tags": 49,
+    "archived": false,
+    "release": {
+      "tag": "v0.9.7",
+      "at": "2026-10-15T02:12:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8cfc51014092a6dc1da5eb0217bb9ae6516b124e",
+    "v": 4
+  },
+  "pinned_at": "2026-10-15T01:45:39Z"
+}

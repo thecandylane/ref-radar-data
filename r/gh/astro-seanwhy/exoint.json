@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:21200e19403487029975700a2dc8dc93cbaf6446"
+  },
+  "id": "gh:astro-seanwhy/exoint",
+  "kind": "repo",
+  "url": "https://github.com/astro-seanwhy/ExoInt",
+  "title": "ExoInt",
+  "why": "Turns stellar abundances into rocky exoplanet bulk composition, then models mantle, core and mineralogy from mass and radius.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "engineering/chemistry"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "engineering/chemistry"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/astro-seanwhy/ExoInt",
+    "sha": "21200e19403487029975700a2dc8dc93cbaf6446",
+    "file_url": "https://cdn.jsdelivr.net/gh/astro-seanwhy/ExoInt@21200e19403487029975700a2dc8dc93cbaf6446/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 4,
+    "size_mb": 4,
+    "created_at": "2018-11-07T13:35:07Z",
+    "last_commit_at": "2026-05-10T07:19:27Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "21200e19403487029975700a2dc8dc93cbaf6446",
+    "v": 4
+  },
+  "pinned_at": "2026-05-10T07:19:27Z"
+}

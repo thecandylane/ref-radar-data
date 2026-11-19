@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6de719a7738b6836f1806fad3905d01dbd28dec3"
+  },
+  "id": "gh:handley-lab/fgivenx",
+  "kind": "repo",
+  "url": "https://github.com/handley-lab/fgivenx",
+  "title": "fgivenx",
+  "why": "Turns posterior samples into contour or line plots of predictive posteriors, and loads getdist chains directly.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/handley-lab/fgivenx",
+    "sha": "6de719a7738b6836f1806fad3905d01dbd28dec3",
+    "file_url": "https://cdn.jsdelivr.net/gh/handley-lab/fgivenx@6de719a7738b6836f1806fad3905d01dbd28dec3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 27,
+    "size_mb": 4,
+    "created_at": "2017-08-21T11:58:31Z",
+    "last_commit_at": "2026-05-26T15:58:42Z",
+    "releases": 17,
+    "tags": 30,
+    "archived": false,
+    "release": {
+      "tag": "v2.5.2",
+      "at": "2026-05-26T15:59:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6de719a7738b6836f1806fad3905d01dbd28dec3",
+    "v": 4
+  },
+  "pinned_at": "2026-05-26T15:58:42Z"
+}

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:dcd6f09b1d878e06d62949dabea3417eec98c89a"
-  },
   "id": "gh:microsoft/mimalloc",
   "kind": "repo",
   "url": "https://github.com/microsoft/mimalloc",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/microsoft/mimalloc",
-    "sha": "dcd6f09b1d878e06d62949dabea3417eec98c89a",
-    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/mimalloc@dcd6f09b1d878e06d62949dabea3417eec98c89a/{path}"
+    "sha": "1d8fd85aa3abe719cd9c42c855f1fc27dbccf84d",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/mimalloc@1d8fd85aa3abe719cd9c42c855f1fc27dbccf84d/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "MIT",
-    "stars": 13555,
+    "stars": 13557,
     "size_mb": 12,
     "created_at": "2019-06-19T21:14:44Z",
     "last_commit_at": "2026-11-17T02:08:45Z",
@@ -62,8 +59,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "dcd6f09b1d878e06d62949dabea3417eec98c89a",
-    "v": 3
-  }
+  "pins_before": [
+    "dcd6f09b1d878e06d62949dabea3417eec98c89a"
+  ],
+  "pinned_at": "2026-11-17T02:08:45Z"
 }

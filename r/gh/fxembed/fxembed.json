@@ -32,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/FxEmbed/FxEmbed",
-    "sha": "26ca94032fc6ff5c0ca8f89d526d6289a1553a5b",
-    "file_url": "https://cdn.jsdelivr.net/gh/FxEmbed/FxEmbed@26ca94032fc6ff5c0ca8f89d526d6289a1553a5b/{path}"
+    "sha": "b1d13e24c67b9923b31eebcc1ab9dc14b7e85bed",
+    "file_url": "https://cdn.jsdelivr.net/gh/FxEmbed/FxEmbed@b1d13e24c67b9923b31eebcc1ab9dc14b7e85bed/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 5942,
+    "stars": 5949,
     "size_mb": 23,
     "created_at": "2022-07-13T23:59:04Z",
-    "last_commit_at": "2026-11-18T06:14:18Z",
+    "last_commit_at": "2026-11-19T05:38:17Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -60,8 +60,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "26ca94032fc6ff5c0ca8f89d526d6289a1553a5b",
-    "v": 3
-  }
+  "pins_before": [
+    "26ca94032fc6ff5c0ca8f89d526d6289a1553a5b"
+  ],
+  "pinned_at": "2026-11-19T05:38:17Z"
 }

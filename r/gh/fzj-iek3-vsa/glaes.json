@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5049249524698c81b125a513bf18f1a655f10e80"
+  },
+  "id": "gh:fzj-iek3-vsa/glaes",
+  "kind": "repo",
+  "url": "https://github.com/FZJ-IEK3-VSA/glaes",
+  "title": "glaes",
+  "why": "Applies exclusion layers like agricultural areas, roads and settlements over GDAL-readable data to map eligible areas for wind and PV.",
+  "keys": {
+    "races": [
+      "energy/renewables",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "energy/renewables",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/FZJ-IEK3-VSA/glaes",
+    "sha": "5049249524698c81b125a513bf18f1a655f10e80",
+    "file_url": "https://raw.githubusercontent.com/FZJ-IEK3-VSA/glaes/5049249524698c81b125a513bf18f1a655f10e80/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 67,
+    "size_mb": 125,
+    "created_at": "2017-12-20T16:19:36Z",
+    "last_commit_at": "2026-10-29T10:46:16Z",
+    "releases": 4,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "v.1.5.0",
+      "at": "2026-06-24T22:47:04.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5049249524698c81b125a513bf18f1a655f10e80",
+    "v": 4
+  },
+  "pinned_at": "2026-10-29T10:46:16Z"
+}

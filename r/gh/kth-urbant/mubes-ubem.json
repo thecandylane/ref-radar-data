@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:faca419b67c93fcace84b915a9239a27c8407d3a"
+  },
+  "id": "gh:kth-urbant/mubes-ubem",
+  "kind": "repo",
+  "url": "https://github.com/KTH-UrbanT/mubes-ubem",
+  "title": "mubes-ubem",
+  "why": "Builds EnergyPlus models for whole districts from a geojson of building footprints, with parallel runs and FMU export for co-simulation.",
+  "keys": {
+    "races": [
+      "energy/building-energy",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "energy/building-energy",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/KTH-UrbanT/mubes-ubem",
+    "sha": "faca419b67c93fcace84b915a9239a27c8407d3a",
+    "file_url": "https://cdn.jsdelivr.net/gh/KTH-UrbanT/mubes-ubem@faca419b67c93fcace84b915a9239a27c8407d3a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 34,
+    "size_mb": 56,
+    "created_at": "2020-12-14T16:25:23Z",
+    "last_commit_at": "2024-04-20T07:05:08Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "1.0.0-rc.3",
+      "at": "2023-01-03T08:24:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "faca419b67c93fcace84b915a9239a27c8407d3a",
+    "v": 4
+  },
+  "pinned_at": "2024-04-20T07:05:08Z"
+}

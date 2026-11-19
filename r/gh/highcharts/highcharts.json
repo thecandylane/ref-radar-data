@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:25a5ccbcfa435f90719b2a9790cd86ac5b0c8a41"
+    "swh": "swh:1:rev:ef6d8d5e6bf5afc7e731de7088a4a5dfc878b379"
   },
   "id": "gh:highcharts/highcharts",
   "kind": "repo",
@@ -25,8 +25,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/highcharts/highcharts",
-    "sha": "25a5ccbcfa435f90719b2a9790cd86ac5b0c8a41",
-    "file_url": "https://cdn.jsdelivr.net/gh/highcharts/highcharts@25a5ccbcfa435f90719b2a9790cd86ac5b0c8a41/{path}"
+    "sha": "ef6d8d5e6bf5afc7e731de7088a4a5dfc878b379",
+    "file_url": "https://cdn.jsdelivr.net/gh/highcharts/highcharts@ef6d8d5e6bf5afc7e731de7088a4a5dfc878b379/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -34,7 +34,7 @@
     "stars": 12504,
     "size_mb": 428,
     "created_at": "2010-06-11T12:23:53Z",
-    "last_commit_at": "2026-11-16T08:12:22Z",
+    "last_commit_at": "2026-11-19T06:20:01Z",
     "releases": 0,
     "tags": 263,
     "archived": false,
@@ -53,8 +53,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "25a5ccbcfa435f90719b2a9790cd86ac5b0c8a41",
-    "v": 3
-  }
+  "pins_before": [
+    "25a5ccbcfa435f90719b2a9790cd86ac5b0c8a41"
+  ],
+  "pinned_at": "2026-11-19T06:20:01Z"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5648c3776b3ebbfc2d3aff645b6c572afa398597"
-  },
   "id": "gh:fortra/impacket",
   "kind": "repo",
   "url": "https://github.com/fortra/impacket",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/fortra/impacket",
-    "sha": "5648c3776b3ebbfc2d3aff645b6c572afa398597",
-    "file_url": "https://cdn.jsdelivr.net/gh/fortra/impacket@5648c3776b3ebbfc2d3aff645b6c572afa398597/{path}"
+    "sha": "691fc1836693c4fdb78dc776c88f0b58ed5ac96f",
+    "file_url": "https://cdn.jsdelivr.net/gh/fortra/impacket@691fc1836693c4fdb78dc776c88f0b58ed5ac96f/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 16281,
+    "stars": 16286,
     "size_mb": 12,
     "created_at": "2015-04-15T14:04:07Z",
-    "last_commit_at": "2026-11-18T04:29:00Z",
+    "last_commit_at": "2026-11-18T19:45:39Z",
     "releases": 16,
     "tags": 23,
     "archived": false,
@@ -58,8 +55,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "5648c3776b3ebbfc2d3aff645b6c572afa398597",
-    "v": 3
-  }
+  "pins_before": [
+    "5648c3776b3ebbfc2d3aff645b6c572afa398597"
+  ],
+  "pinned_at": "2026-11-18T19:45:39Z"
 }

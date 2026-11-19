@@ -1,0 +1,62 @@
+{
+  "id": "gh:plhery/universal-parcel-scraper",
+  "kind": "repo",
+  "url": "https://github.com/plhery/universal-parcel-scraper",
+  "title": "universal-parcel-scraper",
+  "why": "Tracks parcels across 105 carriers from your own machine, through a TypeScript library, CLI or HTTP API, with no account or API key.",
+  "keys": {
+    "races": [
+      "logistics/fleet-freight",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "logistics/fleet-freight",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/plhery/universal-parcel-scraper",
+    "sha": "f404279f904ee57d688534450b6b3dce242a354e",
+    "file_url": "https://cdn.jsdelivr.net/gh/plhery/universal-parcel-scraper@f404279f904ee57d688534450b6b3dce242a354e/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 13,
+    "size_mb": 117,
+    "created_at": "2026-10-01T20:36:12Z",
+    "last_commit_at": "2026-11-19T09:18:42Z",
+    "releases": 22,
+    "tags": 22,
+    "archived": false,
+    "release": {
+      "tag": "v0.637.1",
+      "at": "2026-10-22T11:36:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f404279f904ee57d688534450b6b3dce242a354e",
+    "v": 4
+  }
+}

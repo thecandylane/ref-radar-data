@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0d5ee4e7bd40d1cf0ca88520fbb2e1b7c7f96c7f"
+  },
+  "id": "gh:cs341-illinois/coursebook",
+  "kind": "repo",
+  "url": "https://github.com/cs341-illinois/coursebook",
+  "title": "coursebook",
+  "why": "Systems programming textbook in C with citations, footnotes and a glossary, exported as PDF, HTML and Markdown.",
+  "keys": {
+    "races": [
+      "learning/courses",
+      "systems/os",
+      "media/typesetting"
+    ],
+    "lanes": [
+      "learning/courses",
+      "systems/os",
+      "media/typesetting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cs341-illinois/coursebook",
+    "sha": "0d5ee4e7bd40d1cf0ca88520fbb2e1b7c7f96c7f",
+    "file_url": "https://cdn.jsdelivr.net/gh/cs341-illinois/coursebook@0d5ee4e7bd40d1cf0ca88520fbb2e1b7c7f96c7f/{path}"
+  },
+  "facts": {
+    "lang": "TeX",
+    "license": "none",
+    "stars": 4006,
+    "size_mb": 30,
+    "created_at": "2018-01-26T15:30:07Z",
+    "last_commit_at": "2026-10-04T18:58:40Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "fa19",
+      "at": "2019-08-18T03:33:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0d5ee4e7bd40d1cf0ca88520fbb2e1b7c7f96c7f",
+    "v": 4
+  },
+  "pinned_at": "2026-10-04T18:58:40Z"
+}

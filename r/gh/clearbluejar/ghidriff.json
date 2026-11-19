@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:05350fc809494ddec574a9007d3bba17b75359c1"
+  },
   "id": "gh:clearbluejar/ghidriff",
   "kind": "repo",
   "url": "https://github.com/clearbluejar/ghidriff",
@@ -54,5 +57,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "05350fc809494ddec574a9007d3bba17b75359c1",
+    "v": 4
+  },
+  "pinned_at": "2026-11-15T21:37:33Z"
 }

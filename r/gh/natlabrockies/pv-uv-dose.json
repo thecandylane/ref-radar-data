@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:73b4ae436f9825950db11a4cfcb74f58d7e7ca81"
+  },
+  "id": "gh:natlabrockies/pv-uv-dose",
+  "kind": "repo",
+  "url": "https://github.com/NatLabRockies/pv-uv-dose",
+  "title": "pv-uv-dose",
+  "why": "Looks up the outdoor UV dose for a site and converts a lab UV dose into outdoor-equivalent exposure time in uvdose.py.",
+  "keys": {
+    "races": [
+      "energy/renewables",
+      "data/datasets"
+    ],
+    "lanes": [
+      "energy/renewables",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NatLabRockies/pv-uv-dose",
+    "sha": "73b4ae436f9825950db11a4cfcb74f58d7e7ca81",
+    "file_url": "https://cdn.jsdelivr.net/gh/NatLabRockies/pv-uv-dose@73b4ae436f9825950db11a4cfcb74f58d7e7ca81/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "BSD-3-Clause",
+    "stars": 0,
+    "size_mb": 1,
+    "created_at": "2026-10-06T17:08:20Z",
+    "last_commit_at": "2026-10-28T17:11:20Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "73b4ae436f9825950db11a4cfcb74f58d7e7ca81",
+    "v": 4
+  },
+  "pinned_at": "2026-10-28T17:11:20Z"
+}

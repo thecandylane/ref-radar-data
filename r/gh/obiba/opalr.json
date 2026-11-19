@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5167a70917bdc8b73222ad5d838ce51486558dd0"
+  },
+  "id": "gh:obiba/opalr",
+  "kind": "repo",
+  "url": "https://github.com/obiba/opalr",
+  "title": "opalr",
+  "why": "R client for the Opal data warehouse: log in, assign tables to R symbols, run server-side R and manage projects and DataSHIELD.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/obiba/opalr",
+    "sha": "5167a70917bdc8b73222ad5d838ce51486558dd0",
+    "file_url": "https://cdn.jsdelivr.net/gh/obiba/opalr@5167a70917bdc8b73222ad5d838ce51486558dd0/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 3,
+    "size_mb": 8,
+    "created_at": "2019-01-21T09:45:41Z",
+    "last_commit_at": "2026-10-23T17:20:21Z",
+    "releases": 32,
+    "tags": 33,
+    "archived": false,
+    "release": {
+      "tag": "3.7.0",
+      "at": "2026-09-18T18:10:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5167a70917bdc8b73222ad5d838ce51486558dd0",
+    "v": 4
+  },
+  "pinned_at": "2026-10-23T17:20:21Z"
+}

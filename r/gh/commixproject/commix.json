@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:0265ceb26e59f124545f45a586c961cffb3f23c5"
-  },
   "id": "gh:commixproject/commix",
   "kind": "repo",
   "url": "https://github.com/commixproject/commix",
@@ -33,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/commixproject/commix",
-    "sha": "0265ceb26e59f124545f45a586c961cffb3f23c5",
-    "file_url": "https://cdn.jsdelivr.net/gh/commixproject/commix@0265ceb26e59f124545f45a586c961cffb3f23c5/{path}"
+    "sha": "751472e348e47c8e2f002de18f5d13794dcaf444",
+    "file_url": "https://cdn.jsdelivr.net/gh/commixproject/commix@751472e348e47c8e2f002de18f5d13794dcaf444/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 5910,
-    "size_mb": 14,
+    "stars": 5913,
+    "size_mb": 9,
     "created_at": "2015-03-20T08:38:26Z",
-    "last_commit_at": "2026-11-18T04:47:07Z",
+    "last_commit_at": "2026-11-19T06:57:04Z",
     "releases": 40,
     "tags": 43,
     "archived": false,
@@ -59,13 +56,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 7,
+    "star_delta_7d": 5,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "0265ceb26e59f124545f45a586c961cffb3f23c5",
-    "v": 3
-  }
+    "sha": "751472e348e47c8e2f002de18f5d13794dcaf444",
+    "v": 4
+  },
+  "pins_before": [
+    "0265ceb26e59f124545f45a586c961cffb3f23c5"
+  ],
+  "pinned_at": "2026-11-19T06:57:04Z"
 }

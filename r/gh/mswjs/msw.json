@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ec5e8777d6c81f3953d3454d755552a67159eb86"
-  },
   "id": "gh:mswjs/msw",
   "kind": "repo",
   "url": "https://github.com/mswjs/msw",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/mswjs/msw",
-    "sha": "ec5e8777d6c81f3953d3454d755552a67159eb86",
-    "file_url": "https://cdn.jsdelivr.net/gh/mswjs/msw@ec5e8777d6c81f3953d3454d755552a67159eb86/{path}"
+    "sha": "b3df8504adc30538e9634a46b7303a850a817928",
+    "file_url": "https://cdn.jsdelivr.net/gh/mswjs/msw@b3df8504adc30538e9634a46b7303a850a817928/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -57,13 +54,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 9,
+    "star_delta_7d": 8,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "ec5e8777d6c81f3953d3454d755552a67159eb86",
-    "v": 3
-  }
+  "pins_before": [
+    "ec5e8777d6c81f3953d3454d755552a67159eb86"
+  ],
+  "pinned_at": "2026-11-18T01:12:39Z"
 }

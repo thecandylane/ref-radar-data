@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:bcfe1b018cec5f1f91b5705eca5bb4cdd34e9f8d"
+    "swh": "swh:1:rev:9a217d443937f60cc56c1458c39a211d7f2d3af5"
   },
   "id": "gh:nayuki/qr-code-generator",
   "kind": "repo",
@@ -25,16 +25,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/nayuki/QR-Code-generator",
-    "sha": "bcfe1b018cec5f1f91b5705eca5bb4cdd34e9f8d",
-    "file_url": "https://cdn.jsdelivr.net/gh/nayuki/QR-Code-generator@bcfe1b018cec5f1f91b5705eca5bb4cdd34e9f8d/{path}"
+    "sha": "9a217d443937f60cc56c1458c39a211d7f2d3af5",
+    "file_url": "https://cdn.jsdelivr.net/gh/nayuki/QR-Code-generator@9a217d443937f60cc56c1458c39a211d7f2d3af5/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "none",
-    "stars": 6833,
+    "stars": 6837,
     "size_mb": 1,
     "created_at": "2016-04-15T02:19:41Z",
-    "last_commit_at": "2026-10-29T23:57:09Z",
+    "last_commit_at": "2026-11-03T00:09:09Z",
     "releases": 5,
     "tags": 12,
     "archived": false,
@@ -51,14 +51,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 14,
+    "star_delta_7d": 19,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "bcfe1b018cec5f1f91b5705eca5bb4cdd34e9f8d",
-    "v": 3
-  },
-  "pinned_at": "2026-10-29T23:57:09Z"
+  "pins_before": [
+    "bcfe1b018cec5f1f91b5705eca5bb4cdd34e9f8d"
+  ],
+  "pinned_at": "2026-11-03T00:09:09Z"
 }

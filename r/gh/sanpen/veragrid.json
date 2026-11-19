@@ -1,0 +1,69 @@
+{
+  "id": "gh:sanpen/veragrid",
+  "kind": "repo",
+  "url": "https://github.com/SanPen/VeraGrid",
+  "title": "VeraGrid",
+  "why": "Python power systems tool with a GUI and library covering AC/DC power flow, short circuit, RMS and EMT simulation, and imports PSSe, Matpower and CGMES files.",
+  "keys": {
+    "races": [
+      "energy/power-grid",
+      "energy/system-models",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "energy/power-grid",
+      "energy/system-models",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SanPen/VeraGrid",
+    "sha": "e16fa2b0b05a879a062b876b7d02c6d64799d8b6",
+    "file_url": "https://raw.githubusercontent.com/SanPen/VeraGrid/e16fa2b0b05a879a062b876b7d02c6d64799d8b6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MPL-2.0",
+    "stars": 645,
+    "size_mb": 1954,
+    "created_at": "2016-01-13T15:40:10Z",
+    "last_commit_at": "2026-11-16T08:26:55Z",
+    "releases": 36,
+    "tags": 40,
+    "archived": false,
+    "release": {
+      "tag": "v6.8.4",
+      "at": "2026-11-16T12:41:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e16fa2b0b05a879a062b876b7d02c6d64799d8b6",
+    "v": 4
+  },
+  "pinned_at": "2026-11-16T08:26:55Z"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "gh:cloudyr/aws.signature",
+  "kind": "repo",
+  "url": "https://github.com/cloudyr/aws.signature",
+  "title": "aws.signature",
+  "why": "Builds AWS Signature Version 4 and legacy Version 2 authorization headers from R, resolving credentials from environment variables, profiles or EC2 roles.",
+  "keys": {
+    "races": [
+      "cyber/identity",
+      "infra/iac"
+    ],
+    "lanes": [
+      "cyber/identity",
+      "infra/iac"
+    ],
+    "capabilities": [
+      "cyber/identity/iam"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cloudyr/aws.signature",
+    "sha": "96cee75776cc58a3901d0b5b5e01460641991e39",
+    "file_url": "https://cdn.jsdelivr.net/gh/cloudyr/aws.signature@96cee75776cc58a3901d0b5b5e01460641991e39/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 31,
+    "size_mb": 0,
+    "created_at": "2014-12-10T19:07:22Z",
+    "last_commit_at": "2026-07-18T03:25:34Z",
+    "releases": 6,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.0",
+      "at": "2019-05-08T15:43:15.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "gh:astropy/ccdproc",
+  "kind": "repo",
+  "url": "https://github.com/astropy/ccdproc",
+  "title": "ccdproc",
+  "why": "Reduces optical and IR CCD images in Python, carrying error propagation and bad pixel tracking through each reduction step.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "ml/vision"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/astropy/ccdproc",
+    "sha": "8420ed6a906fc5ef6990dddb7d4e59b56607c8ad",
+    "file_url": "https://cdn.jsdelivr.net/gh/astropy/ccdproc@8420ed6a906fc5ef6990dddb7d4e59b56607c8ad/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 94,
+    "size_mb": 4,
+    "created_at": "2013-10-07T13:05:51Z",
+    "last_commit_at": "2026-11-08T15:19:32Z",
+    "releases": 16,
+    "tags": 25,
+    "archived": false,
+    "release": {
+      "tag": "2.5.1",
+      "at": "2025-07-05T15:40:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8420ed6a906fc5ef6990dddb7d4e59b56607c8ad",
+    "v": 4
+  },
+  "pinned_at": "2026-11-08T15:19:32Z"
+}

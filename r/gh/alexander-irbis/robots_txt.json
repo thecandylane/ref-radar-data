@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9d13ba450bde520b59b8e00b07c9e4ab32a631a1"
+  },
+  "id": "gh:alexander-irbis/robots_txt",
+  "kind": "repo",
+  "url": "https://github.com/alexander-irbis/robots_txt",
+  "title": "robots_txt",
+  "why": "Rust crate that parses robots.txt, matches paths against user-agent rules, and builds new files with crawl delay and sitemap lines.",
+  "keys": {
+    "races": [
+      "seo/meta-sitemaps"
+    ],
+    "lanes": [
+      "seo/meta-sitemaps"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/alexander-irbis/robots_txt",
+    "sha": "9d13ba450bde520b59b8e00b07c9e4ab32a631a1",
+    "file_url": "https://cdn.jsdelivr.net/gh/alexander-irbis/robots_txt@9d13ba450bde520b59b8e00b07c9e4ab32a631a1/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "NOASSERTION",
+    "stars": 13,
+    "size_mb": 0,
+    "created_at": "2017-04-05T21:41:24Z",
+    "last_commit_at": "2020-03-31T09:45:11Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9d13ba450bde520b59b8e00b07c9e4ab32a631a1",
+    "v": 4
+  },
+  "pinned_at": "2020-03-31T09:45:11Z"
+}

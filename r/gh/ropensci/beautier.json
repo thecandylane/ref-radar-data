@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e2184775ea9b577a76b7a5935ed632723abb2bd5"
+  },
+  "id": "gh:ropensci/beautier",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/beautier",
+  "title": "beautier",
+  "why": "Writes the BEAST2 XML input files that BEAUti 2 would make, from an inference model, keeping phylogenetics pipelines scripted.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/beautier",
+    "sha": "e2184775ea9b577a76b7a5935ed632723abb2bd5",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/beautier@e2184775ea9b577a76b7a5935ed632723abb2bd5/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 15,
+    "size_mb": 11,
+    "created_at": "2016-03-08T20:35:37Z",
+    "last_commit_at": "2025-12-08T18:28:22Z",
+    "releases": 54,
+    "tags": 55,
+    "archived": false,
+    "release": {
+      "tag": "v2.6.15-pre-cran",
+      "at": "2025-08-08T10:15:48.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e2184775ea9b577a76b7a5935ed632723abb2bd5",
+    "v": 4
+  },
+  "pinned_at": "2025-12-08T18:28:22Z"
+}

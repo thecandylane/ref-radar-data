@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:de0b72766db0436b6c1887bb75768cb3960e67e5"
+    "swh": "swh:1:rev:2d653cb7afd0b1cc6dc24d92bf3582c888d02691"
   },
   "id": "gh:danielmiessler/fabric",
   "kind": "repo",
@@ -37,13 +37,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/danielmiessler/Fabric",
-    "sha": "de0b72766db0436b6c1887bb75768cb3960e67e5",
-    "file_url": "https://cdn.jsdelivr.net/gh/danielmiessler/Fabric@de0b72766db0436b6c1887bb75768cb3960e67e5/{path}"
+    "sha": "2d653cb7afd0b1cc6dc24d92bf3582c888d02691",
+    "file_url": "https://cdn.jsdelivr.net/gh/danielmiessler/Fabric@2d653cb7afd0b1cc6dc24d92bf3582c888d02691/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 44659,
+    "stars": 44665,
     "size_mb": 164,
     "created_at": "2024-01-03T23:18:31Z",
     "last_commit_at": "2026-11-18T05:32:07Z",
@@ -63,13 +63,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 56,
+    "star_delta_7d": 60,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "de0b72766db0436b6c1887bb75768cb3960e67e5",
-    "v": 3
-  }
+    "sha": "2d653cb7afd0b1cc6dc24d92bf3582c888d02691",
+    "v": 4
+  },
+  "pins_before": [
+    "de0b72766db0436b6c1887bb75768cb3960e67e5"
+  ],
+  "pinned_at": "2026-11-18T05:32:07Z"
 }

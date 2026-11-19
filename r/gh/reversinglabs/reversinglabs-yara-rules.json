@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:e0a0be54aa1e11ccfd6854e4f19e9476f328fd84"
+  },
   "id": "gh:reversinglabs/reversinglabs-yara-rules",
   "kind": "repo",
   "url": "https://github.com/reversinglabs/reversinglabs-yara-rules",
@@ -49,5 +52,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "e0a0be54aa1e11ccfd6854e4f19e9476f328fd84",
+    "v": 3
+  },
+  "pinned_at": "2025-11-03T15:00:02Z"
 }

@@ -1,0 +1,56 @@
+{
+  "id": "gh:hugsy/proxenet",
+  "kind": "repo",
+  "url": "https://github.com/hugsy/proxenet",
+  "title": "proxenet",
+  "why": "Web proxy that hands intercepted browser requests and responses to Python, Ruby or Java plugins for on-the-fly edits during pentests.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hugsy/proxenet",
+    "sha": "67fc6b552de36e13dee31cf17fa267ee08428b5c",
+    "file_url": "https://cdn.jsdelivr.net/gh/hugsy/proxenet@67fc6b552de36e13dee31cf17fa267ee08428b5c/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-2.0",
+    "stars": 222,
+    "size_mb": 2,
+    "created_at": "2013-04-29T14:47:41Z",
+    "last_commit_at": "2016-11-25T09:23:04Z",
+    "releases": 4,
+    "tags": 5,
+    "archived": true,
+    "release": {
+      "tag": "v0.4.1",
+      "at": "2016-06-14T12:12:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

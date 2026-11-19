@@ -1,0 +1,60 @@
+{
+  "id": "gh:chainreactors/gogo",
+  "kind": "repo",
+  "url": "https://github.com/chainreactors/gogo",
+  "title": "gogo",
+  "why": "Port and fingerprint scanner for red teams, with heuristic subnet scanning, workflows and nuclei-based PoC checks.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/threat-intel",
+      "infra/networking"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/threat-intel",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/chainreactors/gogo",
+    "sha": "a278b33d87447bb17e95b6b4e8a1fb7a9a450375",
+    "file_url": "https://cdn.jsdelivr.net/gh/chainreactors/gogo@a278b33d87447bb17e95b6b4e8a1fb7a9a450375/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "GPL-3.0",
+    "stars": 2165,
+    "size_mb": 4,
+    "created_at": "2022-06-16T07:13:40Z",
+    "last_commit_at": "2026-07-28T05:17:44Z",
+    "releases": 55,
+    "tags": 168,
+    "archived": false,
+    "release": {
+      "tag": "v2.15.0",
+      "at": "2026-07-14T08:45:29.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:79a4334e158147d4f36c27d805e0cb163c1e445b"
+    "swh": "swh:1:rev:e45c369a8c76bdae831cb5a172d36a6a0fc3a6a2"
   },
   "id": "gh:microsoft/generative-ai-for-beginners",
   "kind": "repo",
@@ -31,14 +31,14 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/microsoft/generative-ai-for-beginners",
-    "sha": "79a4334e158147d4f36c27d805e0cb163c1e445b",
-    "file_url": "https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/79a4334e158147d4f36c27d805e0cb163c1e445b/{path}"
+    "sha": "e45c369a8c76bdae831cb5a172d36a6a0fc3a6a2",
+    "file_url": "https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/e45c369a8c76bdae831cb5a172d36a6a0fc3a6a2/{path}"
   },
   "facts": {
     "lang": "Jupyter Notebook",
     "license": "MIT",
-    "stars": 123785,
-    "size_mb": 6494,
+    "stars": 123846,
+    "size_mb": 6495,
     "created_at": "2023-06-19T16:28:59Z",
     "last_commit_at": "2026-11-17T21:42:46Z",
     "releases": 0,
@@ -59,8 +59,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "79a4334e158147d4f36c27d805e0cb163c1e445b",
-    "v": 3
-  }
+  "pins_before": [
+    "79a4334e158147d4f36c27d805e0cb163c1e445b"
+  ],
+  "pinned_at": "2026-11-17T21:42:46Z"
 }

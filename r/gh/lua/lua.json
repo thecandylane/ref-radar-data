@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:8cb93bada561977eb370819e39d7d644e5fd0a3f"
-  },
   "id": "gh:lua/lua",
   "kind": "repo",
   "url": "https://github.com/lua/lua",
@@ -25,13 +22,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/lua/lua",
-    "sha": "8cb93bada561977eb370819e39d7d644e5fd0a3f",
-    "file_url": "https://cdn.jsdelivr.net/gh/lua/lua@8cb93bada561977eb370819e39d7d644e5fd0a3f/{path}"
+    "sha": "c42d820bc0c3bc4f2ad536e19d2f05405af10387",
+    "file_url": "https://cdn.jsdelivr.net/gh/lua/lua@c42d820bc0c3bc4f2ad536e19d2f05405af10387/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "none",
-    "stars": 10458,
+    "stars": 10459,
     "size_mb": 12,
     "created_at": "2012-09-14T05:55:07Z",
     "last_commit_at": "2026-11-06T17:23:05Z",
@@ -56,8 +53,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "8cb93bada561977eb370819e39d7d644e5fd0a3f",
-    "v": 3
-  }
+  "pins_before": [
+    "8cb93bada561977eb370819e39d7d644e5fd0a3f"
+  ],
+  "pinned_at": "2026-11-06T17:23:05Z"
 }

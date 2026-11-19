@@ -1,0 +1,66 @@
+{
+  "id": "gh:youki-dev/youki",
+  "kind": "repo",
+  "url": "https://github.com/youki-dev/youki",
+  "title": "youki",
+  "why": "Rust OCI runtime similar to runc, plugged into Docker with the --runtime flag, and it also runs rootless containers.",
+  "keys": {
+    "races": [
+      "infra/containers",
+      "infra/isolation"
+    ],
+    "lanes": [
+      "infra/containers",
+      "infra/isolation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/youki-dev/youki",
+    "sha": "e3860f5c5d83654b278c4bcd353ed9d7cda64d4b",
+    "file_url": "https://cdn.jsdelivr.net/gh/youki-dev/youki@e3860f5c5d83654b278c4bcd353ed9d7cda64d4b/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 7705,
+    "size_mb": 30,
+    "created_at": "2021-03-27T11:06:58Z",
+    "last_commit_at": "2026-11-19T00:59:58Z",
+    "releases": 23,
+    "tags": 23,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.0",
+      "at": "2026-07-25T14:47:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e3860f5c5d83654b278c4bcd353ed9d7cda64d4b",
+    "v": 4
+  }
+}

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a60891aea193d92e7e5c3942700eca63f9d19a5f"
-  },
   "id": "gh:genymobile/scrcpy",
   "kind": "repo",
   "url": "https://github.com/Genymobile/scrcpy",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Genymobile/scrcpy",
-    "sha": "a60891aea193d92e7e5c3942700eca63f9d19a5f",
-    "file_url": "https://cdn.jsdelivr.net/gh/Genymobile/scrcpy@a60891aea193d92e7e5c3942700eca63f9d19a5f/{path}"
+    "sha": "c939183a7cdca4599cee337e60bc0e147b6c9828",
+    "file_url": "https://cdn.jsdelivr.net/gh/Genymobile/scrcpy@c939183a7cdca4599cee337e60bc0e147b6c9828/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "Apache-2.0",
-    "stars": 155123,
+    "stars": 155183,
     "size_mb": 9,
     "created_at": "2017-11-21T18:00:27Z",
-    "last_commit_at": "2026-10-08T06:41:27Z",
+    "last_commit_at": "2026-11-19T07:55:44Z",
     "releases": 54,
     "tags": 64,
     "archived": false,
@@ -55,15 +52,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 572,
+    "star_delta_7d": 559,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "a60891aea193d92e7e5c3942700eca63f9d19a5f",
-    "v": 3
-  },
-  "pinned_at": "2026-10-08T06:41:27Z",
+  "pins_before": [
+    "a60891aea193d92e7e5c3942700eca63f9d19a5f"
+  ],
+  "pinned_at": "2026-11-19T07:55:44Z",
   "hot": true
 }

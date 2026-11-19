@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:dbe77e1d56ec1b9cf0816026c58ccbf149dcbbd0"
+  },
+  "id": "gh:cncf/landscape-graph",
+  "kind": "repo",
+  "url": "https://github.com/cncf/landscape-graph",
+  "title": "landscape-graph",
+  "why": "Graph model of the CNCF landscape built in Neo4j with Cypher, for tracing how cloud native projects relate.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "data/analytics",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "data/databases",
+      "data/analytics",
+      "infra/kubernetes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cncf/landscape-graph",
+    "sha": "dbe77e1d56ec1b9cf0816026c58ccbf149dcbbd0",
+    "file_url": "https://cdn.jsdelivr.net/gh/cncf/landscape-graph@dbe77e1d56ec1b9cf0816026c58ccbf149dcbbd0/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "NOASSERTION",
+    "stars": 54,
+    "size_mb": 106,
+    "created_at": "2022-04-21T16:27:11Z",
+    "last_commit_at": "2026-04-09T00:11:30Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dbe77e1d56ec1b9cf0816026c58ccbf149dcbbd0",
+    "v": 4
+  },
+  "pinned_at": "2026-04-09T00:11:30Z"
+}

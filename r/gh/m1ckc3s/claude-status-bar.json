@@ -1,0 +1,65 @@
+{
+  "id": "gh:m1ckc3s/claude-status-bar",
+  "kind": "repo",
+  "url": "https://github.com/m1ckc3s/claude-status-bar",
+  "title": "claude-status-bar",
+  "why": "The menu bar icon animates while Claude Code thinks or runs a tool, and a yellow dot marks a pending permission request.",
+  "keys": {
+    "races": [
+      "agents/clients",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "agents/clients",
+      "desktop/native-ui"
+    ],
+    "capabilities": [
+      "agents/clients/desktop-apps"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/m1ckc3s/claude-status-bar",
+    "sha": "dafb0c8c68143dd1940dd860ea26ba7ef0ae3c3e",
+    "file_url": "https://cdn.jsdelivr.net/gh/m1ckc3s/claude-status-bar@dafb0c8c68143dd1940dd860ea26ba7ef0ae3c3e/{path}"
+  },
+  "facts": {
+    "lang": "Swift",
+    "license": "MIT",
+    "stars": 733,
+    "size_mb": 0,
+    "created_at": "2026-06-21T18:02:49Z",
+    "last_commit_at": "2026-09-18T19:50:14Z",
+    "releases": 21,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.5",
+      "at": "2026-09-18T19:51:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dafb0c8c68143dd1940dd860ea26ba7ef0ae3c3e",
+    "v": 4
+  },
+  "pinned_at": "2026-09-18T19:50:14Z"
+}

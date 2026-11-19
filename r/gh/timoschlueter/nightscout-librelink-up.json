@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bff2317f5cc0db4a1a40971bbf601c87ab0e856d"
+  },
+  "id": "gh:timoschlueter/nightscout-librelink-up",
+  "kind": "repo",
+  "url": "https://github.com/timoschlueter/nightscout-librelink-up",
+  "title": "nightscout-librelink-up",
+  "why": "Sidecar script polling LibreLink Up on an interval and pushing glucose values into Nightscout, deployable via Docker, Heroku or Render.",
+  "keys": {
+    "races": [
+      "medicine/diabetes-tech"
+    ],
+    "lanes": [
+      "medicine/diabetes-tech"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/timoschlueter/nightscout-librelink-up",
+    "sha": "bff2317f5cc0db4a1a40971bbf601c87ab0e856d",
+    "file_url": "https://cdn.jsdelivr.net/gh/timoschlueter/nightscout-librelink-up@bff2317f5cc0db4a1a40971bbf601c87ab0e856d/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 298,
+    "size_mb": 1,
+    "created_at": "2021-12-30T10:22:05Z",
+    "last_commit_at": "2026-03-04T20:31:51Z",
+    "releases": 43,
+    "tags": 43,
+    "archived": false,
+    "release": {
+      "tag": "v3.3.0",
+      "at": "2026-03-04T20:24:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "bff2317f5cc0db4a1a40971bbf601c87ab0e856d",
+    "v": 4
+  },
+  "pinned_at": "2026-03-04T20:31:51Z"
+}

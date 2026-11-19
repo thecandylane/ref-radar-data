@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:300d24fdb143cff23080120c13acbe7df21cd5a3"
-  },
   "id": "gh:jgm/pandoc",
   "kind": "repo",
   "url": "https://github.com/jgm/pandoc",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/jgm/pandoc",
-    "sha": "300d24fdb143cff23080120c13acbe7df21cd5a3",
-    "file_url": "https://cdn.jsdelivr.net/gh/jgm/pandoc@300d24fdb143cff23080120c13acbe7df21cd5a3/{path}"
+    "sha": "f5d266050e4e149c7c9a699cfbe45aff64bb9f7c",
+    "file_url": "https://cdn.jsdelivr.net/gh/jgm/pandoc@f5d266050e4e149c7c9a699cfbe45aff64bb9f7c/{path}"
   },
   "facts": {
     "lang": "Haskell",
     "license": "GPL-2.0",
-    "stars": 46959,
+    "stars": 46998,
     "size_mb": 74,
     "created_at": "2010-03-20T20:34:23Z",
-    "last_commit_at": "2026-11-15T23:55:17Z",
+    "last_commit_at": "2026-11-18T18:16:02Z",
     "releases": 163,
     "tags": 312,
     "archived": false,
@@ -55,14 +52,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 56,
+    "star_delta_7d": 71,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "300d24fdb143cff23080120c13acbe7df21cd5a3",
-    "v": 3
-  },
+  "pins_before": [
+    "300d24fdb143cff23080120c13acbe7df21cd5a3"
+  ],
+  "pinned_at": "2026-11-18T18:16:02Z",
   "hot": true
 }

@@ -1,0 +1,57 @@
+{
+  "id": "gh:team-ocean/veros",
+  "kind": "repo",
+  "url": "https://github.com/team-ocean/veros",
+  "title": "veros",
+  "why": "Primitive equation ocean model in pure Python with a JAX backend, running on CPU, GPU and MPI from idealized setups to global runs.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/team-ocean/veros",
+    "sha": "875bfd54a6b60d9ce8df339c1bd43d986bacb594",
+    "file_url": "https://cdn.jsdelivr.net/gh/team-ocean/veros@875bfd54a6b60d9ce8df339c1bd43d986bacb594/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 402,
+    "size_mb": 30,
+    "created_at": "2017-04-06T10:59:21Z",
+    "last_commit_at": "2026-11-10T06:34:14Z",
+    "releases": 25,
+    "tags": 25,
+    "archived": false,
+    "release": {
+      "tag": "v1.7.0",
+      "at": "2026-10-14T07:46:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "scan_partial": true
+}

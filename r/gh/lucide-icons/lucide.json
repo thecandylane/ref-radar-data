@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c55aab36b553a7de50a0050e7042fd7b2d64664e"
-  },
   "id": "gh:lucide-icons/lucide",
   "kind": "repo",
   "url": "https://github.com/lucide-icons/lucide",
@@ -31,22 +28,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/lucide-icons/lucide",
-    "sha": "c55aab36b553a7de50a0050e7042fd7b2d64664e",
-    "file_url": "https://cdn.jsdelivr.net/gh/lucide-icons/lucide@c55aab36b553a7de50a0050e7042fd7b2d64664e/{path}"
+    "sha": "2ba961714cfa1a753e9d32a7b0458ae14fe4f50e",
+    "file_url": "https://cdn.jsdelivr.net/gh/lucide-icons/lucide@2ba961714cfa1a753e9d32a7b0458ae14fe4f50e/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 25833,
-    "size_mb": 29,
+    "stars": 25860,
+    "size_mb": 28,
     "created_at": "2020-06-08T15:36:21Z",
-    "last_commit_at": "2026-11-17T15:27:40Z",
-    "releases": 747,
-    "tags": 756,
+    "last_commit_at": "2026-11-19T08:41:32Z",
+    "releases": 748,
+    "tags": 757,
     "archived": false,
     "release": {
-      "tag": "1.75.0",
-      "at": "2026-11-18T06:05:29.000Z"
+      "tag": "1.76.0",
+      "at": "2026-11-19T06:05:34.000Z"
     }
   },
   "reuse": "copy",
@@ -57,13 +54,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 130,
+    "star_delta_7d": 143,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "c55aab36b553a7de50a0050e7042fd7b2d64664e",
-    "v": 3
-  }
+  "pins_before": [
+    "c55aab36b553a7de50a0050e7042fd7b2d64664e"
+  ],
+  "pinned_at": "2026-11-19T08:41:32Z"
 }

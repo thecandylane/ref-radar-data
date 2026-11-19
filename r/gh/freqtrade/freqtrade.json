@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5197bedab82559fac6be6c1539c64b94368fb91c"
-  },
   "id": "gh:freqtrade/freqtrade",
   "kind": "repo",
   "url": "https://github.com/freqtrade/freqtrade",
@@ -28,16 +25,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/freqtrade/freqtrade",
-    "sha": "5197bedab82559fac6be6c1539c64b94368fb91c",
-    "file_url": "https://cdn.jsdelivr.net/gh/freqtrade/freqtrade@5197bedab82559fac6be6c1539c64b94368fb91c/{path}"
+    "sha": "1903a866db6a4d0dd15eead0de3c3d3637050e47",
+    "file_url": "https://cdn.jsdelivr.net/gh/freqtrade/freqtrade@1903a866db6a4d0dd15eead0de3c3d3637050e47/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "GPL-3.0",
-    "stars": 57014,
+    "stars": 57055,
     "size_mb": 814,
     "created_at": "2017-05-17T23:48:53Z",
-    "last_commit_at": "2026-11-17T06:20:40Z",
+    "last_commit_at": "2026-11-19T05:35:33Z",
     "releases": 119,
     "tags": 124,
     "archived": false,
@@ -54,14 +51,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 253,
+    "star_delta_7d": 258,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "5197bedab82559fac6be6c1539c64b94368fb91c",
-    "v": 3
-  },
+  "pins_before": [
+    "5197bedab82559fac6be6c1539c64b94368fb91c"
+  ],
+  "pinned_at": "2026-11-19T05:35:33Z",
   "hot": true
 }

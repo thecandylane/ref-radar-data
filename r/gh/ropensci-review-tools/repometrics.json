@@ -1,0 +1,60 @@
+{
+  "id": "gh:ropensci-review-tools/repometrics",
+  "kind": "repo",
+  "url": "https://github.com/ropensci-review-tools/repometrics",
+  "title": "repometrics",
+  "why": "Point it at a local R package and get one interactive dashboard built from commit histories and GitHub interactions.",
+  "keys": {
+    "races": [
+      "practice/process",
+      "data/analytics"
+    ],
+    "lanes": [
+      "practice/process",
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci-review-tools/repometrics",
+    "sha": "63926e740a3248071db2218eb0e94e4b141dc2f2",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci-review-tools/repometrics@63926e740a3248071db2218eb0e94e4b141dc2f2/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 3,
+    "size_mb": 1,
+    "created_at": "2024-07-09T16:22:46Z",
+    "last_commit_at": "2026-11-12T13:38:34Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "63926e740a3248071db2218eb0e94e4b141dc2f2",
+    "v": 4
+  },
+  "pinned_at": "2026-11-12T13:38:34Z"
+}

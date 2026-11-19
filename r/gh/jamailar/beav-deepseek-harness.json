@@ -1,0 +1,71 @@
+{
+  "id": "gh:jamailar/beav-deepseek-harness",
+  "kind": "repo",
+  "url": "https://github.com/Jamailar/beav-deepseek-harness",
+  "title": "beav-deepseek-harness",
+  "why": "Covers Xiaohongshu research, copywriting, cover images and short video in DeepSeek Harness, and a job finishes only after Beav verifies its artifacts.",
+  "keys": {
+    "races": [
+      "marketing/social-media",
+      "media/video",
+      "agents/coding"
+    ],
+    "lanes": [
+      "marketing/social-media",
+      "media/video",
+      "agents/coding"
+    ],
+    "capabilities": [
+      "agents/coding/plugin-architectures"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Jamailar/beav-deepseek-harness",
+    "sha": "2804d549d2ba127e3d0fcc2dc15b916135242a49",
+    "file_url": "https://cdn.jsdelivr.net/gh/Jamailar/beav-deepseek-harness@2804d549d2ba127e3d0fcc2dc15b916135242a49/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2026-08-15T07:39:00Z",
+    "last_commit_at": "2026-08-26T04:51:37Z",
+    "releases": 5,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.5",
+      "at": "2026-08-26T05:12:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2804d549d2ba127e3d0fcc2dc15b916135242a49",
+    "v": 4
+  },
+  "pinned_at": "2026-08-26T04:51:37Z"
+}

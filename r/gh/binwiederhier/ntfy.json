@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:a331a5c8db86d8e0fa743de5af98be586afe3b0a"
+    "swh": "swh:1:rev:a098f52f6b643e8986f261f7cd9796e6bd1405d1"
   },
   "id": "gh:binwiederhier/ntfy",
   "kind": "repo",
@@ -29,13 +29,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/binwiederhier/ntfy",
-    "sha": "a331a5c8db86d8e0fa743de5af98be586afe3b0a",
-    "file_url": "https://cdn.jsdelivr.net/gh/binwiederhier/ntfy@a331a5c8db86d8e0fa743de5af98be586afe3b0a/{path}"
+    "sha": "a098f52f6b643e8986f261f7cd9796e6bd1405d1",
+    "file_url": "https://cdn.jsdelivr.net/gh/binwiederhier/ntfy@a098f52f6b643e8986f261f7cd9796e6bd1405d1/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 35626,
+    "stars": 35642,
     "size_mb": 44,
     "created_at": "2021-10-23T19:25:32Z",
     "last_commit_at": "2026-11-16T11:08:31Z",
@@ -55,13 +55,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 154,
+    "star_delta_7d": 149,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "a331a5c8db86d8e0fa743de5af98be586afe3b0a",
-    "v": 3
-  }
+    "sha": "a098f52f6b643e8986f261f7cd9796e6bd1405d1",
+    "v": 4
+  },
+  "pins_before": [
+    "a331a5c8db86d8e0fa743de5af98be586afe3b0a"
+  ],
+  "pinned_at": "2026-11-16T11:08:31Z"
 }

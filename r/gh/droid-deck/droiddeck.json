@@ -1,0 +1,64 @@
+{
+  "id": "gh:droid-deck/droiddeck",
+  "kind": "repo",
+  "url": "https://github.com/Droid-Deck/DroidDeck",
+  "title": "DroidDeck",
+  "why": "Ports the SteamOS-style interface and game-launcher experience onto Android handhelds.",
+  "keys": {
+    "races": [
+      "mobile/android"
+    ],
+    "lanes": [
+      "mobile/android"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Droid-Deck/DroidDeck",
+    "sha": "2aeff3bd9be4ad2b989ccdd49d17fff4403fb0a2",
+    "file_url": "https://raw.githubusercontent.com/Droid-Deck/DroidDeck/2aeff3bd9be4ad2b989ccdd49d17fff4403fb0a2/{path}"
+  },
+  "facts": {
+    "lang": "Kotlin",
+    "license": "GPL-3.0",
+    "stars": 20865,
+    "size_mb": 396,
+    "created_at": "2026-09-24T15:14:13Z",
+    "last_commit_at": "2026-11-19T07:32:30Z",
+    "releases": 23,
+    "tags": 23,
+    "archived": false,
+    "release": {
+      "tag": "0.7.1",
+      "at": "2026-11-10T12:35:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2aeff3bd9be4ad2b989ccdd49d17fff4403fb0a2",
+    "v": 3
+  }
+}

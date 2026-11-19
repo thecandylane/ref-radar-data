@@ -31,22 +31,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/google-gemini/gemini-cli",
-    "sha": "aeb6c04b093eb00c33585ba587c4889ae4c5e957",
-    "file_url": "https://cdn.jsdelivr.net/gh/google-gemini/gemini-cli@aeb6c04b093eb00c33585ba587c4889ae4c5e957/{path}"
+    "sha": "acfb42d0dfc111fd1d5c5d45535daf6aa7d8696b",
+    "file_url": "https://cdn.jsdelivr.net/gh/google-gemini/gemini-cli@acfb42d0dfc111fd1d5c5d45535daf6aa7d8696b/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 108912,
+    "stars": 108936,
     "size_mb": 103,
     "created_at": "2025-04-17T17:04:31Z",
-    "last_commit_at": "2026-11-18T00:38:51Z",
-    "releases": 687,
-    "tags": 705,
+    "last_commit_at": "2026-11-19T08:50:50Z",
+    "releases": 689,
+    "tags": 707,
     "archived": false,
     "release": {
-      "tag": "v0.68.0",
-      "at": "2026-11-10T21:17:07.000Z"
+      "tag": "v0.69.0",
+      "at": "2026-11-19T01:45:47.000Z"
     }
   },
   "reuse": "copy",
@@ -57,13 +57,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 140,
+    "star_delta_7d": 145,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "aeb6c04b093eb00c33585ba587c4889ae4c5e957",
-    "v": 3
-  }
+  "pins_before": [
+    "aeb6c04b093eb00c33585ba587c4889ae4c5e957"
+  ],
+  "pinned_at": "2026-11-19T08:50:50Z"
 }

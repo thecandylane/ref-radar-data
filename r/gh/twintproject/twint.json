@@ -1,0 +1,60 @@
+{
+  "id": "gh:twintproject/twint",
+  "kind": "repo",
+  "url": "https://github.com/twintproject/twint",
+  "title": "twint",
+  "why": "Scrapes tweets, followers and likes without Twitter's API, saving them to CSV, JSON or SQLite with no rate limitations.",
+  "keys": {
+    "races": [
+      "cyber/threat-intel",
+      "agents/tools"
+    ],
+    "lanes": [
+      "cyber/threat-intel",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/web-access"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/twintproject/twint",
+    "sha": "e7c8a0c764f6879188e5c21e25fb6f1f856a7221",
+    "file_url": "https://cdn.jsdelivr.net/gh/twintproject/twint@e7c8a0c764f6879188e5c21e25fb6f1f856a7221/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 16411,
+    "size_mb": 4,
+    "created_at": "2017-06-10T15:16:49Z",
+    "last_commit_at": "2021-03-02T21:25:04Z",
+    "releases": 9,
+    "tags": 24,
+    "archived": true,
+    "release": {
+      "tag": "v2.1.4",
+      "at": "2019-10-19T10:08:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:729038c5dd276c5adc470bdd2db2be1b92ecc8fc"
-  },
   "id": "gh:langfuse/langfuse",
   "kind": "repo",
   "url": "https://github.com/langfuse/langfuse",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/langfuse/langfuse",
-    "sha": "729038c5dd276c5adc470bdd2db2be1b92ecc8fc",
-    "file_url": "https://cdn.jsdelivr.net/gh/langfuse/langfuse@729038c5dd276c5adc470bdd2db2be1b92ecc8fc/{path}"
+    "sha": "45a2a9e9bf6f3f55c4221c626f76dc11a137d4e1",
+    "file_url": "https://cdn.jsdelivr.net/gh/langfuse/langfuse@45a2a9e9bf6f3f55c4221c626f76dc11a137d4e1/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 37583,
-    "size_mb": 280,
+    "stars": 37616,
+    "size_mb": 277,
     "created_at": "2023-05-18T17:47:09Z",
-    "last_commit_at": "2026-11-18T08:57:17Z",
+    "last_commit_at": "2026-11-19T09:13:40Z",
     "releases": 744,
     "tags": 755,
     "archived": false,
@@ -57,14 +54,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 294,
+    "star_delta_7d": 274,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "729038c5dd276c5adc470bdd2db2be1b92ecc8fc",
-    "v": 3
-  },
+  "pins_before": [
+    "729038c5dd276c5adc470bdd2db2be1b92ecc8fc"
+  ],
+  "pinned_at": "2026-11-19T09:13:40Z",
   "hot": true
 }

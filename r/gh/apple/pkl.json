@@ -1,0 +1,66 @@
+{
+  "id": "gh:apple/pkl",
+  "kind": "repo",
+  "url": "https://github.com/apple/pkl",
+  "title": "pkl",
+  "why": "Keeps configuration as code with rich validation, then emits JSON, YAML, XML or property lists from one source file.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.adoc",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apple/pkl",
+    "sha": "069c891ac86067cd26c68d4647100e26c5ed5ba0",
+    "file_url": "https://cdn.jsdelivr.net/gh/apple/pkl@069c891ac86067cd26c68d4647100e26c5ed5ba0/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 11582,
+    "size_mb": 11,
+    "created_at": "2024-01-19T17:28:45Z",
+    "last_commit_at": "2026-11-18T18:19:10Z",
+    "releases": 26,
+    "tags": 26,
+    "archived": false,
+    "release": {
+      "tag": "0.33.1",
+      "at": "2026-11-18T18:18:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "069c891ac86067cd26c68d4647100e26c5ed5ba0",
+    "v": 4
+  },
+  "pins_before": [
+    "da11b970101591b337256ef10c8f93bfa1d99c3a"
+  ],
+  "pinned_at": "2026-11-18T18:19:10Z"
+}

@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5ff81e45da073b8a9bc7e785dbdee1496a4f5204"
+  },
+  "id": "gh:pawamoy/docker-nginx-postgres-django-example",
+  "kind": "repo",
+  "url": "https://github.com/pawamoy/docker-nginx-postgres-django-example",
+  "title": "docker-nginx-postgres-django-example",
+  "why": "Example for running several Postgres databases behind Nginx and Gunicorn for Django, with tox and pytest wired in.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "infra/containers"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "infra/containers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pawamoy/docker-nginx-postgres-django-example",
+    "sha": "5ff81e45da073b8a9bc7e785dbdee1496a4f5204",
+    "file_url": "https://cdn.jsdelivr.net/gh/pawamoy/docker-nginx-postgres-django-example@5ff81e45da073b8a9bc7e785dbdee1496a4f5204/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "ISC",
+    "stars": 162,
+    "size_mb": 0,
+    "created_at": "2018-01-31T16:39:50Z",
+    "last_commit_at": "2022-01-21T20:07:38Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5ff81e45da073b8a9bc7e785dbdee1496a4f5204",
+    "v": 4
+  },
+  "pinned_at": "2022-01-21T20:07:38Z"
+}

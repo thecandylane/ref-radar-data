@@ -28,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/anthropics/anthropic-sdk-python",
-    "sha": "3fa305d99c4a1b8017bce15b1f1378a5871ca057",
-    "file_url": "https://cdn.jsdelivr.net/gh/anthropics/anthropic-sdk-python@3fa305d99c4a1b8017bce15b1f1378a5871ca057/{path}"
+    "sha": "10c82e8e8a968f624797df48d6115c4cc6b32551",
+    "file_url": "https://cdn.jsdelivr.net/gh/anthropics/anthropic-sdk-python@10c82e8e8a968f624797df48d6115c4cc6b32551/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 4084,
+    "stars": 4087,
     "size_mb": 37,
     "created_at": "2023-01-17T20:57:10Z",
     "last_commit_at": "2026-11-17T18:26:11Z",
@@ -60,10 +60,12 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "3fa305d99c4a1b8017bce15b1f1378a5871ca057",
-    "v": 3
+    "sha": "10c82e8e8a968f624797df48d6115c4cc6b32551",
+    "v": 4
   },
   "pins_before": [
+    "3fa305d99c4a1b8017bce15b1f1378a5871ca057",
     "5139cf2e7d07aa618a6c30b7e0c712f10ccb5ad9"
-  ]
+  ],
+  "pinned_at": "2026-11-17T18:26:11Z"
 }

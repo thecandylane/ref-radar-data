@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:fac9abd1f1e278a65828642a25b6db6a13bce2bf"
-  },
   "id": "gh:goharbor/harbor",
   "kind": "repo",
   "url": "https://github.com/goharbor/harbor",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/goharbor/harbor",
-    "sha": "fac9abd1f1e278a65828642a25b6db6a13bce2bf",
-    "file_url": "https://cdn.jsdelivr.net/gh/goharbor/harbor@fac9abd1f1e278a65828642a25b6db6a13bce2bf/{path}"
+    "sha": "67748c71ef12a1caad2a3c00ab03b0e84eea9c4c",
+    "file_url": "https://cdn.jsdelivr.net/gh/goharbor/harbor@67748c71ef12a1caad2a3c00ab03b0e84eea9c4c/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 29754,
+    "stars": 29757,
     "size_mb": 261,
     "created_at": "2016-01-28T21:10:28Z",
-    "last_commit_at": "2026-11-18T04:11:19Z",
+    "last_commit_at": "2026-11-19T03:18:28Z",
     "releases": 376,
     "tags": 387,
     "archived": false,
@@ -62,8 +59,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "fac9abd1f1e278a65828642a25b6db6a13bce2bf",
-    "v": 3
-  }
+  "pins_before": [
+    "fac9abd1f1e278a65828642a25b6db6a13bce2bf"
+  ],
+  "pinned_at": "2026-11-19T03:18:28Z"
 }

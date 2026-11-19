@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:aaa248d7fd4ca4924444dc027af9c7a62a9be348"
-  },
   "id": "gh:mobile-dev-inc/maestro",
   "kind": "repo",
   "url": "https://github.com/mobile-dev-inc/Maestro",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/mobile-dev-inc/Maestro",
-    "sha": "aaa248d7fd4ca4924444dc027af9c7a62a9be348",
-    "file_url": "https://cdn.jsdelivr.net/gh/mobile-dev-inc/Maestro@aaa248d7fd4ca4924444dc027af9c7a62a9be348/{path}"
+    "sha": "4413a3325bef192044c0a9a094364dafe1f285a0",
+    "file_url": "https://cdn.jsdelivr.net/gh/mobile-dev-inc/Maestro@4413a3325bef192044c0a9a094364dafe1f285a0/{path}"
   },
   "facts": {
     "lang": "Kotlin",
     "license": "Apache-2.0",
-    "stars": 16445,
+    "stars": 16453,
     "size_mb": 1024,
     "created_at": "2022-03-31T18:17:40Z",
     "last_commit_at": "2026-11-17T18:09:19Z",
@@ -62,9 +59,9 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "aaa248d7fd4ca4924444dc027af9c7a62a9be348",
-    "v": 3
-  },
+  "pins_before": [
+    "aaa248d7fd4ca4924444dc027af9c7a62a9be348"
+  ],
+  "pinned_at": "2026-11-17T18:09:19Z",
   "hot": true
 }

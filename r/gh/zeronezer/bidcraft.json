@@ -1,0 +1,62 @@
+{
+  "id": "gh:zeronezer/bidcraft",
+  "kind": "repo",
+  "url": "https://github.com/zeronezer/bidcraft",
+  "title": "bidcraft",
+  "why": "Drafts construction tender bid documents on LangGraph, drawing on a knowledge base distilled from past bids to keep each section grounded.",
+  "keys": {
+    "races": [
+      "construction/project-controls",
+      "agents/memory"
+    ],
+    "lanes": [
+      "construction/project-controls",
+      "agents/memory"
+    ],
+    "capabilities": [
+      "agents/memory/knowledge-brains"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zeronezer/bidcraft",
+    "sha": "fe9fc82788a64a64819b54b7495f654bc459349d",
+    "file_url": "https://cdn.jsdelivr.net/gh/zeronezer/bidcraft@fe9fc82788a64a64819b54b7495f654bc459349d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 87,
+    "size_mb": 3,
+    "created_at": "2026-09-17T03:42:48Z",
+    "last_commit_at": "2026-10-09T14:34:54Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fe9fc82788a64a64819b54b7495f654bc459349d",
+    "v": 4
+  },
+  "pinned_at": "2026-10-09T14:34:54Z"
+}

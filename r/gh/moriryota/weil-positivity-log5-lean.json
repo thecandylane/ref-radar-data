@@ -1,0 +1,67 @@
+{
+  "id": "gh:moriryota/weil-positivity-log5-lean",
+  "kind": "repo",
+  "url": "https://github.com/moriryota/weil-positivity-log5-lean",
+  "title": "weil-positivity-log5-lean",
+  "why": "Lean 4 proofs for Weil positivity over a log 5 window, with verify.py for file inventory and byte checks.",
+  "keys": {
+    "races": [
+      "languages/type-systems"
+    ],
+    "lanes": [
+      "languages/type-systems"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/moriryota/weil-positivity-log5-lean",
+    "sha": "c61b6a6c978d051cca0397fc3417edb7fd8bf60d",
+    "file_url": "https://cdn.jsdelivr.net/gh/moriryota/weil-positivity-log5-lean@c61b6a6c978d051cca0397fc3417edb7fd8bf60d/{path}"
+  },
+  "facts": {
+    "lang": "Lean",
+    "license": "Apache-2.0",
+    "stars": 1,
+    "size_mb": 64,
+    "created_at": "2026-09-28T13:16:41Z",
+    "last_commit_at": "2026-09-29T09:24:30Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-09-29T04:49:15.000Z"
+    },
+    "doi": "10.5281/zenodo.23031523",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-19"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c61b6a6c978d051cca0397fc3417edb7fd8bf60d",
+    "v": 3
+  },
+  "pinned_at": "2026-09-29T09:24:30Z"
+}

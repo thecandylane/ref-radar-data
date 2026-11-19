@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b306bead51483dae0ac9aaf14202542fb235c299"
+  },
+  "id": "gh:apidevtools/openapi-schemas",
+  "kind": "repo",
+  "url": "https://github.com/APIDevTools/openapi-schemas",
+  "title": "openapi-schemas",
+  "why": "Ships the official JSON Schemas for Swagger 1.2 through OpenAPI 3.1 as an npm package, ready for AJV validation of API definitions.",
+  "keys": {
+    "races": [
+      "websec/api",
+      "data/serialization"
+    ],
+    "lanes": [
+      "websec/api",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/APIDevTools/openapi-schemas",
+    "sha": "b306bead51483dae0ac9aaf14202542fb235c299",
+    "file_url": "https://cdn.jsdelivr.net/gh/APIDevTools/openapi-schemas@b306bead51483dae0ac9aaf14202542fb235c299/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 45,
+    "size_mb": 0,
+    "created_at": "2019-06-22T13:26:54Z",
+    "last_commit_at": "2025-04-18T19:07:18Z",
+    "releases": 0,
+    "tags": 10,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b306bead51483dae0ac9aaf14202542fb235c299",
+    "v": 4
+  },
+  "pinned_at": "2025-04-18T19:07:18Z"
+}

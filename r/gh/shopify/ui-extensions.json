@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d69199cd4266a11aea3bf67e2aeaced49e55a99f"
+  },
+  "id": "gh:shopify/ui-extensions",
+  "kind": "repo",
+  "url": "https://github.com/Shopify/ui-extensions",
+  "title": "ui-extensions",
+  "why": "Public TypeScript definitions for writing Shopify UI extensions, with examples and an AGENTS.md to steer coding agents.",
+  "keys": {
+    "races": [
+      "web/ui-components"
+    ],
+    "lanes": [
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Shopify/ui-extensions",
+    "sha": "d69199cd4266a11aea3bf67e2aeaced49e55a99f",
+    "file_url": "https://cdn.jsdelivr.net/gh/Shopify/ui-extensions@d69199cd4266a11aea3bf67e2aeaced49e55a99f/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 356,
+    "size_mb": 238,
+    "created_at": "2020-05-12T15:52:40Z",
+    "last_commit_at": "2026-10-23T16:26:23Z",
+    "releases": 123,
+    "tags": 902,
+    "archived": false,
+    "release": {
+      "tag": "@shopify/ui-extensions@2025.7.4",
+      "at": "2026-01-26T19:21:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d69199cd4266a11aea3bf67e2aeaced49e55a99f",
+    "v": 3
+  },
+  "pinned_at": "2026-10-23T16:26:23Z"
+}

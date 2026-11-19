@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a519bddd65fe9928b3415fc3b28d57203abfd03e"
+  },
   "id": "gh:apache/maven-jarsigner-plugin",
   "kind": "repo",
   "url": "https://github.com/apache/maven-jarsigner-plugin",
@@ -37,7 +40,7 @@
     "stars": 22,
     "size_mb": 0,
     "created_at": "2017-12-09T15:09:56Z",
-    "last_commit_at": "2026-11-08T13:11:11Z",
+    "last_commit_at": "2026-11-17T17:36:32Z",
     "releases": 1,
     "tags": 9,
     "archived": false,
@@ -58,5 +61,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "a519bddd65fe9928b3415fc3b28d57203abfd03e",
+    "v": 4
+  }
 }

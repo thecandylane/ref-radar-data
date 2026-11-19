@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a3fef9fe231024fe7bb218b75f11b43c43c6ee6a"
+  },
+  "id": "gh:rohitg00/kubectl-mcp-server",
+  "kind": "repo",
+  "url": "https://github.com/rohitg00/kubectl-mcp-server",
+  "title": "kubectl-mcp-server",
+  "why": "Gives an AI assistant kubectl access over MCP; it registers only 26 default tools and leaves the other toolsets opt-in.",
+  "keys": {
+    "races": [
+      "infra/kubernetes",
+      "agents/tools"
+    ],
+    "lanes": [
+      "infra/kubernetes",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rohitg00/kubectl-mcp-server",
+    "sha": "a3fef9fe231024fe7bb218b75f11b43c43c6ee6a",
+    "file_url": "https://cdn.jsdelivr.net/gh/rohitg00/kubectl-mcp-server@a3fef9fe231024fe7bb218b75f11b43c43c6ee6a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 975,
+    "size_mb": 98,
+    "created_at": "2025-03-23T17:49:07Z",
+    "last_commit_at": "2026-10-22T16:07:24Z",
+    "releases": 25,
+    "tags": 28,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.0",
+      "at": "2026-10-22T16:13:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a3fef9fe231024fe7bb218b75f11b43c43c6ee6a",
+    "v": 4
+  },
+  "pinned_at": "2026-10-22T16:07:24Z"
+}

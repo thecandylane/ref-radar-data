@@ -1,0 +1,66 @@
+{
+  "id": "gh:jquery/jquery",
+  "kind": "repo",
+  "url": "https://github.com/jquery/jquery",
+  "title": "jquery",
+  "why": "Browser JavaScript library for DOM, events and AJAX, with a build script that excludes modules to produce custom slim builds.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jquery/jquery",
+    "sha": "146084e660418c69acd14c72e77bfdf2cf6f9cb7",
+    "file_url": "https://cdn.jsdelivr.net/gh/jquery/jquery@146084e660418c69acd14c72e77bfdf2cf6f9cb7/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 60083,
+    "size_mb": 36,
+    "created_at": "2009-04-03T15:20:14Z",
+    "last_commit_at": "2026-11-17T19:00:42Z",
+    "releases": 15,
+    "tags": 166,
+    "archived": false,
+    "release": {
+      "tag": "4.1.0",
+      "at": "2026-11-17T18:59:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "146084e660418c69acd14c72e77bfdf2cf6f9cb7",
+    "v": 4
+  }
+}

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1ae4ddc3b21a6c21f290a1634c8be04afb9210c4"
-  },
   "id": "gh:browserslist/browserslist",
   "kind": "repo",
   "url": "https://github.com/browserslist/browserslist",
@@ -27,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/browserslist/browserslist",
-    "sha": "1ae4ddc3b21a6c21f290a1634c8be04afb9210c4",
-    "file_url": "https://cdn.jsdelivr.net/gh/browserslist/browserslist@1ae4ddc3b21a6c21f290a1634c8be04afb9210c4/{path}"
+    "sha": "9b0d9d970b606ceac13644e8c802d5ac9748a599",
+    "file_url": "https://cdn.jsdelivr.net/gh/browserslist/browserslist@9b0d9d970b606ceac13644e8c802d5ac9748a599/{path}"
   },
   "facts": {
     "lang": "JavaScript",
@@ -59,7 +56,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "1ae4ddc3b21a6c21f290a1634c8be04afb9210c4",
-    "v": 3
-  }
+    "sha": "9b0d9d970b606ceac13644e8c802d5ac9748a599",
+    "v": 4
+  },
+  "pins_before": [
+    "1ae4ddc3b21a6c21f290a1634c8be04afb9210c4"
+  ],
+  "pinned_at": "2026-11-16T21:31:19Z"
 }

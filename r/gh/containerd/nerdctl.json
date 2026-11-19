@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:27dac9462451c6f2ebde1889230480111521c766"
-  },
   "id": "gh:containerd/nerdctl",
   "kind": "repo",
   "url": "https://github.com/containerd/nerdctl",
@@ -33,13 +30,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/containerd/nerdctl",
-    "sha": "27dac9462451c6f2ebde1889230480111521c766",
-    "file_url": "https://cdn.jsdelivr.net/gh/containerd/nerdctl@27dac9462451c6f2ebde1889230480111521c766/{path}"
+    "sha": "52b705e52dc873da6db3b1d05c4ea352f7c167ab",
+    "file_url": "https://cdn.jsdelivr.net/gh/containerd/nerdctl@52b705e52dc873da6db3b1d05c4ea352f7c167ab/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 10489,
+    "stars": 10491,
     "size_mb": 15,
     "created_at": "2020-12-04T10:09:03Z",
     "last_commit_at": "2026-11-18T01:18:22Z",
@@ -65,7 +62,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "27dac9462451c6f2ebde1889230480111521c766",
-    "v": 3
-  }
+    "sha": "52b705e52dc873da6db3b1d05c4ea352f7c167ab",
+    "v": 4
+  },
+  "pins_before": [
+    "27dac9462451c6f2ebde1889230480111521c766"
+  ],
+  "pinned_at": "2026-11-18T01:18:22Z"
 }

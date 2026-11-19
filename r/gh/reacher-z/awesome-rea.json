@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a2eaec961b48b8deeb5b9b78289d4828534f13b8"
+  },
   "id": "gh:reacher-z/awesome-rea",
   "kind": "repo",
   "url": "https://github.com/reacher-z/Awesome-REA",
@@ -30,10 +33,10 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 3033,
-    "size_mb": 66,
+    "stars": 3182,
+    "size_mb": 70,
     "created_at": "2026-10-16T00:42:04Z",
-    "last_commit_at": "2026-11-17T08:51:30Z",
+    "last_commit_at": "2026-11-19T08:50:57Z",
     "releases": 12,
     "tags": 12,
     "archived": false,
@@ -54,5 +57,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "a2eaec961b48b8deeb5b9b78289d4828534f13b8",
+    "v": 3
+  }
 }

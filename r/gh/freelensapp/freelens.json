@@ -30,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/freelensapp/freelens",
-    "sha": "0fa3012a153d5ca3b447bede910f810a41e73eb7",
-    "file_url": "https://cdn.jsdelivr.net/gh/freelensapp/freelens@0fa3012a153d5ca3b447bede910f810a41e73eb7/{path}"
+    "sha": "f37c0d00e5509973cf444c99452b95f5b1e7482a",
+    "file_url": "https://cdn.jsdelivr.net/gh/freelensapp/freelens@f37c0d00e5509973cf444c99452b95f5b1e7482a/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 5842,
+    "stars": 5844,
     "size_mb": 43,
     "created_at": "2024-06-19T10:43:29Z",
-    "last_commit_at": "2026-11-18T07:38:04Z",
+    "last_commit_at": "2026-11-19T08:49:58Z",
     "releases": 30,
     "tags": 31,
     "archived": false,
@@ -56,13 +56,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 30,
+    "star_delta_7d": 29,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "0fa3012a153d5ca3b447bede910f810a41e73eb7",
-    "v": 3
-  }
+  "pins_before": [
+    "0fa3012a153d5ca3b447bede910f810a41e73eb7"
+  ],
+  "pinned_at": "2026-11-19T08:49:58Z"
 }

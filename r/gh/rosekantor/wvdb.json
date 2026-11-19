@@ -1,0 +1,60 @@
+{
+  "id": "gh:rosekantor/wvdb",
+  "kind": "repo",
+  "url": "https://github.com/rosekantor/wvdb",
+  "title": "wvdb",
+  "why": "Nextflow pipelines that cluster and trim metagenomic viral genomes into a dereplicated vOTU set, then annotate taxonomy and host.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rosekantor/wvdb",
+    "sha": "626665d4f328407ee494caf45b95cc4fba601a0c",
+    "file_url": "https://cdn.jsdelivr.net/gh/rosekantor/wvdb@626665d4f328407ee494caf45b95cc4fba601a0c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 1,
+    "size_mb": 10,
+    "created_at": "2026-06-22T22:06:28Z",
+    "last_commit_at": "2026-09-14T20:46:29Z",
+    "releases": 0,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "626665d4f328407ee494caf45b95cc4fba601a0c",
+    "v": 4
+  },
+  "pinned_at": "2026-09-14T20:46:29Z"
+}

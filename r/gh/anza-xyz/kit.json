@@ -1,0 +1,68 @@
+{
+  "id": "gh:anza-xyz/kit",
+  "kind": "repo",
+  "url": "https://github.com/anza-xyz/kit",
+  "title": "anza-xyz/kit",
+  "why": "Tree-shakable JavaScript toolkit for Solana apps, split into small packages for RPC, signers, codecs and transactions with no dependencies.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "languages/type-systems",
+      "data/serialization"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "languages/type-systems",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/anza-xyz/kit",
+    "sha": "a5c2b22fccce326244d62b0e0f3cb37d52c59214",
+    "file_url": "https://cdn.jsdelivr.net/gh/anza-xyz/kit@a5c2b22fccce326244d62b0e0f3cb37d52c59214/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 702,
+    "size_mb": 91,
+    "created_at": "2024-12-13T01:09:53Z",
+    "last_commit_at": "2026-11-18T18:01:52Z",
+    "releases": 40,
+    "tags": 50,
+    "archived": false,
+    "release": {
+      "tag": "v8.6.0",
+      "at": "2026-10-28T20:00:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a5c2b22fccce326244d62b0e0f3cb37d52c59214",
+    "v": 4
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "gh:alcalzone/jsonl-db",
+  "kind": "repo",
+  "url": "https://github.com/AlCalzone/jsonl-db",
+  "title": "jsonl-db",
+  "why": "Map-like key-value store on an append-only JSONL file, with dumps, compression, lockfiles and optional per-key timestamps.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/databases",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AlCalzone/jsonl-db",
+    "sha": "9820454b0b0b07cbd4c62a91cd7264229da2c4c7",
+    "file_url": "https://cdn.jsdelivr.net/gh/AlCalzone/jsonl-db@9820454b0b0b07cbd4c62a91cd7264229da2c4c7/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 18,
+    "size_mb": 3,
+    "created_at": "2020-04-24T08:52:19Z",
+    "last_commit_at": "2026-11-08T15:49:10Z",
+    "releases": 21,
+    "tags": 39,
+    "archived": false,
+    "release": {
+      "tag": "v4.0.2",
+      "at": "2025-10-15T09:04:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9820454b0b0b07cbd4c62a91cd7264229da2c4c7",
+    "v": 4
+  },
+  "pinned_at": "2026-11-08T15:49:10Z"
+}

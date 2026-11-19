@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:55e6a769e874ab598e70b4100d5e1309b0b1dba6"
-  },
   "id": "gh:aiagentandy/deepaa",
   "kind": "repo",
   "url": "https://github.com/AIAgentAndy/DeepAA",
@@ -33,8 +30,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/AIAgentAndy/DeepAA",
-    "sha": "55e6a769e874ab598e70b4100d5e1309b0b1dba6",
-    "file_url": "https://cdn.jsdelivr.net/gh/AIAgentAndy/DeepAA@55e6a769e874ab598e70b4100d5e1309b0b1dba6/{path}"
+    "sha": "d67df713ad2983e15344f562997452fc248c0056",
+    "file_url": "https://cdn.jsdelivr.net/gh/AIAgentAndy/DeepAA@d67df713ad2983e15344f562997452fc248c0056/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -65,10 +62,12 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "55e6a769e874ab598e70b4100d5e1309b0b1dba6",
-    "v": 3
+    "sha": "d67df713ad2983e15344f562997452fc248c0056",
+    "v": 4
   },
   "pins_before": [
+    "55e6a769e874ab598e70b4100d5e1309b0b1dba6",
     "a09c71c233a2090cb8606c95492e91664554b893"
-  ]
+  ],
+  "pinned_at": "2026-11-18T04:20:59Z"
 }

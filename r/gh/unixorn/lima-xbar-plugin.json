@@ -1,0 +1,65 @@
+{
+  "id": "gh:unixorn/lima-xbar-plugin",
+  "kind": "repo",
+  "url": "https://github.com/unixorn/lima-xbar-plugin",
+  "title": "lima-xbar-plugin",
+  "why": "xbar and SwiftBar menu that starts and stops Lima VMs, manages their containers and images, and runs commands inside them.",
+  "keys": {
+    "races": [
+      "infra/containers",
+      "desktop/app-shells"
+    ],
+    "lanes": [
+      "infra/containers",
+      "desktop/app-shells"
+    ],
+    "capabilities": [
+      "infra/containers/macos-containers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/unixorn/lima-xbar-plugin",
+    "sha": "ca71a43a36e37d3e7dccaa6141dc36930779ad0c",
+    "file_url": "https://cdn.jsdelivr.net/gh/unixorn/lima-xbar-plugin@ca71a43a36e37d3e7dccaa6141dc36930779ad0c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 145,
+    "size_mb": 1,
+    "created_at": "2021-09-15T05:00:40Z",
+    "last_commit_at": "2026-11-14T14:41:10Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v1.5.0",
+      "at": "2025-03-26T20:00:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ca71a43a36e37d3e7dccaa6141dc36930779ad0c",
+    "v": 4
+  },
+  "pinned_at": "2026-11-14T14:41:10Z"
+}

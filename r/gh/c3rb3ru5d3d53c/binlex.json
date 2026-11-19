@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:f02f270c378b652dcfaca8a88f7d65bd4a95347b"
+  },
   "id": "gh:c3rb3ru5d3d53c/binlex",
   "kind": "repo",
   "url": "https://github.com/c3rb3ru5d3d53c/binlex",
@@ -40,7 +43,7 @@
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 607,
+    "stars": 608,
     "size_mb": 23,
     "created_at": "2021-06-14T22:46:09Z",
     "last_commit_at": "2026-05-18T14:46:35Z",
@@ -64,5 +67,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "f02f270c378b652dcfaca8a88f7d65bd4a95347b",
+    "v": 4
+  },
+  "pinned_at": "2026-05-18T14:46:35Z"
 }

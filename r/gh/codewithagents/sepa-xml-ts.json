@@ -1,0 +1,69 @@
+{
+  "id": "gh:codewithagents/sepa-xml-ts",
+  "kind": "repo",
+  "url": "https://github.com/codewithagents/sepa-xml-ts",
+  "title": "sepa-xml-ts",
+  "why": "Writes, parses and validates SEPA pain.001 and pain.008 payment files in TypeScript, using integer money and checking output against the official XSD.",
+  "keys": {
+    "races": [
+      "finance/payments",
+      "finance/e-invoicing",
+      "data/serialization"
+    ],
+    "lanes": [
+      "finance/payments",
+      "finance/e-invoicing",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/codewithagents/sepa-xml-ts",
+    "sha": "aa224227513b008cc77285d53879bb6c30f3b694",
+    "file_url": "https://cdn.jsdelivr.net/gh/codewithagents/sepa-xml-ts@aa224227513b008cc77285d53879bb6c30f3b694/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 1,
+    "created_at": "2026-06-01T04:24:09Z",
+    "last_commit_at": "2026-11-02T13:39:31Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "sepa-xml-ts-v1.2.0",
+      "at": "2026-11-02T11:19:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "aa224227513b008cc77285d53879bb6c30f3b694",
+    "v": 4
+  },
+  "pinned_at": "2026-11-02T13:39:31Z"
+}

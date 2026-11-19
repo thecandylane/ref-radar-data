@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:6b4fbd5f9a17d383e25c32e48d8149e307aa0711"
+    "swh": "swh:1:rev:3e1cb72a72b15d32b236d1f558800db87e977370"
   },
   "id": "gh:nilbuild/developer-roadmap",
   "kind": "repo",
@@ -25,16 +25,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/nilbuild/developer-roadmap",
-    "sha": "6b4fbd5f9a17d383e25c32e48d8149e307aa0711",
-    "file_url": "https://cdn.jsdelivr.net/gh/nilbuild/developer-roadmap@6b4fbd5f9a17d383e25c32e48d8149e307aa0711/{path}"
+    "sha": "3e1cb72a72b15d32b236d1f558800db87e977370",
+    "file_url": "https://cdn.jsdelivr.net/gh/nilbuild/developer-roadmap@3e1cb72a72b15d32b236d1f558800db87e977370/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 372273,
+    "stars": 372330,
     "size_mb": 356,
     "created_at": "2017-03-15T13:45:52Z",
-    "last_commit_at": "2026-11-17T20:10:24Z",
+    "last_commit_at": "2026-11-18T13:44:50Z",
     "releases": 1,
     "tags": 4,
     "archived": false,
@@ -51,13 +51,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 483,
+    "star_delta_7d": 462,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "6b4fbd5f9a17d383e25c32e48d8149e307aa0711",
-    "v": 3
-  }
+  "pins_before": [
+    "6b4fbd5f9a17d383e25c32e48d8149e307aa0711"
+  ],
+  "pinned_at": "2026-11-18T13:44:50Z"
 }

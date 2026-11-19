@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7858329d1f05c483cc8ebad414bcf0283dde3267"
+  },
+  "id": "gh:anthonykasza/common-encodings",
+  "kind": "repo",
+  "url": "https://github.com/anthonykasza/common-encodings",
+  "title": "common-encodings",
+  "why": "Zeek package with base64 encoding and decoding, RC4 decryption, bit-shifting and XOR across single or multi-byte keys.",
+  "keys": {
+    "races": [
+      "netsec/capture",
+      "data/serialization"
+    ],
+    "lanes": [
+      "netsec/capture",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/anthonykasza/common-encodings",
+    "sha": "7858329d1f05c483cc8ebad414bcf0283dde3267",
+    "file_url": "https://cdn.jsdelivr.net/gh/anthonykasza/common-encodings@7858329d1f05c483cc8ebad414bcf0283dde3267/{path}"
+  },
+  "facts": {
+    "lang": "Zeek",
+    "license": "BSD-3-Clause",
+    "stars": 2,
+    "size_mb": 0,
+    "created_at": "2021-08-10T23:07:57Z",
+    "last_commit_at": "2021-11-03T14:43:11Z",
+    "releases": 1,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "1.0.1",
+      "at": "2021-11-03T14:49:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7858329d1f05c483cc8ebad414bcf0283dde3267",
+    "v": 4
+  },
+  "pinned_at": "2021-11-03T14:43:11Z"
+}

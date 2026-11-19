@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c83701219895aa6b5958f6d68ab58b2059ef9180"
-  },
   "id": "gh:lightpanda-io/browser",
   "kind": "repo",
   "url": "https://github.com/lightpanda-io/browser",
@@ -32,16 +29,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/lightpanda-io/browser",
-    "sha": "c83701219895aa6b5958f6d68ab58b2059ef9180",
-    "file_url": "https://cdn.jsdelivr.net/gh/lightpanda-io/browser@c83701219895aa6b5958f6d68ab58b2059ef9180/{path}"
+    "sha": "573566e94797f0ff776d8ab3f0cd8a8e00039994",
+    "file_url": "https://cdn.jsdelivr.net/gh/lightpanda-io/browser@573566e94797f0ff776d8ab3f0cd8a8e00039994/{path}"
   },
   "facts": {
     "lang": "Zig",
     "license": "AGPL-3.0",
-    "stars": 42204,
+    "stars": 42240,
     "size_mb": 46,
     "created_at": "2023-02-07T15:19:34Z",
-    "last_commit_at": "2026-11-18T02:08:20Z",
+    "last_commit_at": "2026-11-19T08:39:21Z",
     "releases": 28,
     "tags": 30,
     "archived": false,
@@ -58,13 +55,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 350,
+    "star_delta_7d": 304,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "c83701219895aa6b5958f6d68ab58b2059ef9180",
-    "v": 3
-  }
+  "pins_before": [
+    "c83701219895aa6b5958f6d68ab58b2059ef9180"
+  ],
+  "pinned_at": "2026-11-19T08:39:21Z"
 }

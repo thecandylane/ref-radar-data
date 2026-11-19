@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4e800626c4e64d33bcf7031a8265b95cb4590905"
+  },
+  "id": "gh:sonnylazuardi/chat-ai-desktop",
+  "kind": "repo",
+  "url": "https://github.com/sonnylazuardi/chat-ai-desktop",
+  "title": "chat-ai-desktop",
+  "why": "Wraps the ChatGPT website in a Tauri menubar app for Mac and Windows, with an optional API mode that takes your own OpenAI key.",
+  "keys": {
+    "races": [
+      "llm-infra/chat-apps",
+      "desktop/app-shells"
+    ],
+    "lanes": [
+      "llm-infra/chat-apps",
+      "desktop/app-shells"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sonnylazuardi/chat-ai-desktop",
+    "sha": "4e800626c4e64d33bcf7031a8265b95cb4590905",
+    "file_url": "https://cdn.jsdelivr.net/gh/sonnylazuardi/chat-ai-desktop@4e800626c4e64d33bcf7031a8265b95cb4590905/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 1997,
+    "size_mb": 63,
+    "created_at": "2022-12-04T07:57:40Z",
+    "last_commit_at": "2023-03-20T10:17:05Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.0",
+      "at": "2023-03-20T02:13:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4e800626c4e64d33bcf7031a8265b95cb4590905",
+    "v": 4
+  },
+  "pinned_at": "2023-03-20T10:17:05Z"
+}

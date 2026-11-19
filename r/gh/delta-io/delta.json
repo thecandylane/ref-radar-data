@@ -24,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/delta-io/delta",
-    "sha": "08f89f86b896801e8e713a517ff639c0e500f900",
-    "file_url": "https://cdn.jsdelivr.net/gh/delta-io/delta@08f89f86b896801e8e713a517ff639c0e500f900/{path}"
+    "sha": "fdfb7371bdb6fe04be7d8fc55a29a967f874f1e0",
+    "file_url": "https://cdn.jsdelivr.net/gh/delta-io/delta@fdfb7371bdb6fe04be7d8fc55a29a967f874f1e0/{path}"
   },
   "facts": {
     "lang": "Scala",
     "license": "Apache-2.0",
-    "stars": 9085,
-    "size_mb": 60,
+    "stars": 9086,
+    "size_mb": 61,
     "created_at": "2019-04-22T18:56:51Z",
-    "last_commit_at": "2026-11-18T07:22:56Z",
+    "last_commit_at": "2026-11-19T06:55:44Z",
     "releases": 39,
     "tags": 135,
     "archived": false,
@@ -55,8 +55,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "08f89f86b896801e8e713a517ff639c0e500f900",
-    "v": 3
-  }
+  "pins_before": [
+    "08f89f86b896801e8e713a517ff639c0e500f900"
+  ],
+  "pinned_at": "2026-11-19T06:55:44Z"
 }

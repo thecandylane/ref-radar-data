@@ -1,0 +1,67 @@
+{
+  "id": "gh:untitled-story/untitled-pixi-live2d-engine",
+  "kind": "repo",
+  "url": "https://github.com/Untitled-Story/untitled-pixi-live2d-engine",
+  "title": "untitled-pixi-live2d-engine",
+  "why": "Plugs Live2D Cubism 2 to 5 models into PixiJS v8 as a render pipe, so zIndex sorting and blend modes still apply.",
+  "keys": {
+    "races": [
+      "games/graphics",
+      "media/animation-vfx"
+    ],
+    "lanes": [
+      "games/graphics",
+      "media/animation-vfx"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Untitled-Story/untitled-pixi-live2d-engine",
+    "sha": "caea25713742ac3deedf6ec23a3d9d02ed13e8c1",
+    "file_url": "https://cdn.jsdelivr.net/gh/Untitled-Story/untitled-pixi-live2d-engine@caea25713742ac3deedf6ec23a3d9d02ed13e8c1/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 83,
+    "size_mb": 15,
+    "created_at": "2026-01-23T06:06:22Z",
+    "last_commit_at": "2026-11-15T06:14:04Z",
+    "releases": 15,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "v1.4.0",
+      "at": "2026-09-20T04:41:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "caea25713742ac3deedf6ec23a3d9d02ed13e8c1",
+    "v": 4
+  },
+  "pinned_at": "2026-11-15T06:14:04Z"
+}

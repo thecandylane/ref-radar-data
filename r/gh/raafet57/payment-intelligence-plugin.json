@@ -1,0 +1,67 @@
+{
+  "id": "gh:raafet57/payment-intelligence-plugin",
+  "kind": "repo",
+  "url": "https://github.com/Raafet57/Payment-intelligence-Plugin",
+  "title": "Payment-intelligence-Plugin",
+  "why": "Explains and scrubs ISO 20022 payment messages and checks SSI files offline, so account data never leaves your machine.",
+  "keys": {
+    "races": [
+      "finance/payments",
+      "agents/tools",
+      "agents/skills"
+    ],
+    "lanes": [
+      "finance/payments",
+      "agents/tools",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Raafet57/Payment-intelligence-Plugin",
+    "sha": "da7202c390503c2877b0919d50e41bdbc7cc7ecf",
+    "file_url": "https://cdn.jsdelivr.net/gh/Raafet57/Payment-intelligence-Plugin@da7202c390503c2877b0919d50e41bdbc7cc7ecf/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-10-19T02:40:15Z",
+    "last_commit_at": "2026-10-30T06:46:37Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.3",
+      "at": "2026-10-30T06:46:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "da7202c390503c2877b0919d50e41bdbc7cc7ecf",
+    "v": 4
+  },
+  "pinned_at": "2026-10-30T06:46:37Z"
+}

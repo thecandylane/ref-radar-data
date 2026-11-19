@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:e1753c71998a5b24e220c44767a2cb1b8ff03b40"
-  },
   "id": "gh:mastra-ai/mastra",
   "kind": "repo",
   "url": "https://github.com/mastra-ai/mastra",
@@ -33,22 +30,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/mastra-ai/mastra",
-    "sha": "e1753c71998a5b24e220c44767a2cb1b8ff03b40",
-    "file_url": "https://raw.githubusercontent.com/mastra-ai/mastra/e1753c71998a5b24e220c44767a2cb1b8ff03b40/{path}"
+    "sha": "b6e20f7c6878c338848487ea9f204c15ea951045",
+    "file_url": "https://raw.githubusercontent.com/mastra-ai/mastra/b6e20f7c6878c338848487ea9f204c15ea951045/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 29593,
-    "size_mb": 1878,
+    "stars": 29630,
+    "size_mb": 1886,
     "created_at": "2024-08-06T20:44:31Z",
-    "last_commit_at": "2026-11-18T08:43:39Z",
-    "releases": 134,
-    "tags": 8489,
+    "last_commit_at": "2026-11-19T08:52:29Z",
+    "releases": 135,
+    "tags": 8538,
     "archived": false,
     "release": {
-      "tag": "@mastra/core@1.83.0",
-      "at": "2026-11-13T14:32:29.000Z"
+      "tag": "@mastra/core@1.84.0",
+      "at": "2026-11-18T10:36:18.000Z"
     }
   },
   "reuse": "copy",
@@ -59,14 +56,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 123,
+    "star_delta_7d": 150,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "e1753c71998a5b24e220c44767a2cb1b8ff03b40",
-    "v": 3
-  },
+  "pins_before": [
+    "e1753c71998a5b24e220c44767a2cb1b8ff03b40"
+  ],
+  "pinned_at": "2026-11-19T08:52:29Z",
   "hot": true
 }

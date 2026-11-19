@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0f661479f5a8f7e95f01720a442bbb0f32d0f6ab"
+  },
+  "id": "gh:idaholabresearch/pyrapss",
+  "kind": "repo",
+  "url": "https://github.com/IdahoLabResearch/PyRAPSS",
+  "title": "PyRAPSS",
+  "why": "Sets hydropower generators in PSS/E models to a chosen reservoir water level, then runs a load flow to check the result.",
+  "keys": {
+    "races": [
+      "energy/power-grid"
+    ],
+    "lanes": [
+      "energy/power-grid"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/IdahoLabResearch/PyRAPSS",
+    "sha": "0f661479f5a8f7e95f01720a442bbb0f32d0f6ab",
+    "file_url": "https://cdn.jsdelivr.net/gh/IdahoLabResearch/PyRAPSS@0f661479f5a8f7e95f01720a442bbb0f32d0f6ab/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 1,
+    "created_at": "2026-07-07T15:56:36Z",
+    "last_commit_at": "2026-09-21T16:09:17Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0f661479f5a8f7e95f01720a442bbb0f32d0f6ab",
+    "v": 4
+  },
+  "pinned_at": "2026-09-21T16:09:17Z"
+}

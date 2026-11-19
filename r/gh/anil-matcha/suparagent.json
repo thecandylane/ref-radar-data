@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:8ededd4b0f6b0021ac507d0ca05ae83bce48a2df"
-  },
   "id": "gh:anil-matcha/suparagent",
   "kind": "repo",
   "url": "https://github.com/Anil-matcha/suparagent",
@@ -34,13 +31,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Anil-matcha/suparagent",
-    "sha": "8ededd4b0f6b0021ac507d0ca05ae83bce48a2df",
-    "file_url": "https://cdn.jsdelivr.net/gh/Anil-matcha/suparagent@8ededd4b0f6b0021ac507d0ca05ae83bce48a2df/{path}"
+    "sha": "f2ae9d0f5cc40e9acca9133be1b7abe9cb9af4fc",
+    "file_url": "https://cdn.jsdelivr.net/gh/Anil-matcha/suparagent@f2ae9d0f5cc40e9acca9133be1b7abe9cb9af4fc/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 7108,
+    "stars": 7117,
     "size_mb": 7,
     "created_at": "2023-05-25T14:21:12Z",
     "last_commit_at": "2026-11-17T18:47:43Z",
@@ -63,7 +60,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "8ededd4b0f6b0021ac507d0ca05ae83bce48a2df",
-    "v": 3
-  }
+    "sha": "f2ae9d0f5cc40e9acca9133be1b7abe9cb9af4fc",
+    "v": 4
+  },
+  "pins_before": [
+    "8ededd4b0f6b0021ac507d0ca05ae83bce48a2df"
+  ],
+  "pinned_at": "2026-11-17T18:47:43Z"
 }

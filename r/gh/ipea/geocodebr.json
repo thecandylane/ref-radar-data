@@ -1,0 +1,63 @@
+{
+  "id": "gh:ipea/geocodebr",
+  "kind": "repo",
+  "url": "https://github.com/ipea/geocodebr",
+  "title": "geocodebr",
+  "why": "Turns Brazilian address tables into coordinates in R or Python from the CNEFE dataset, with no query limit and reverse lookup by coordinates or CEP.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ipea/geocodebr",
+    "sha": "423d61076cf825708855d30f1badc898defc6b2f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ipea/geocodebr@423d61076cf825708855d30f1badc898defc6b2f/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 139,
+    "size_mb": 27,
+    "created_at": "2024-09-16T22:48:07Z",
+    "last_commit_at": "2026-11-09T01:20:38Z",
+    "releases": 13,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.0",
+      "at": "2026-09-23T11:47:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "423d61076cf825708855d30f1badc898defc6b2f",
+    "v": 4
+  },
+  "pinned_at": "2026-11-09T01:20:38Z"
+}

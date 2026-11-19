@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:65659fb7d401076fa8f1ac31f0585566c4de5cef"
-  },
   "id": "gh:kubeedge/kubeedge",
   "kind": "repo",
   "url": "https://github.com/kubeedge/kubeedge",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/kubeedge/kubeedge",
-    "sha": "65659fb7d401076fa8f1ac31f0585566c4de5cef",
-    "file_url": "https://raw.githubusercontent.com/kubeedge/kubeedge/65659fb7d401076fa8f1ac31f0585566c4de5cef/{path}"
+    "sha": "61e2bda528aa9708a4f82acafd472764d3091040",
+    "file_url": "https://cdn.jsdelivr.net/gh/kubeedge/kubeedge@61e2bda528aa9708a4f82acafd472764d3091040/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 7635,
+    "stars": 7636,
     "size_mb": 210,
     "created_at": "2018-09-28T08:57:49Z",
-    "last_commit_at": "2026-11-17T01:40:17Z",
+    "last_commit_at": "2026-11-19T08:53:18Z",
     "releases": 94,
     "tags": 117,
     "archived": false,
@@ -60,8 +57,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "65659fb7d401076fa8f1ac31f0585566c4de5cef",
-    "v": 3
-  }
+  "pins_before": [
+    "65659fb7d401076fa8f1ac31f0585566c4de5cef"
+  ],
+  "pinned_at": "2026-11-19T08:53:18Z"
 }

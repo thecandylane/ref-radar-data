@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:45925cdfbe8e4398b447a899c2b761269c4c8a92"
+  },
+  "id": "gh:city-of-bloomington/ureport",
+  "kind": "repo",
+  "url": "https://github.com/City-of-Bloomington/uReport",
+  "title": "uReport",
+  "why": "Tracks citizen issue tickets in a lightweight CRM for small municipalities and exposes them over Open311 with XML and JSON feeds.",
+  "keys": {
+    "races": [
+      "civic/service-delivery",
+      "sales/crm",
+      "support/helpdesk"
+    ],
+    "lanes": [
+      "civic/service-delivery",
+      "sales/crm",
+      "support/helpdesk"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/City-of-Bloomington/uReport",
+    "sha": "45925cdfbe8e4398b447a899c2b761269c4c8a92",
+    "file_url": "https://cdn.jsdelivr.net/gh/City-of-Bloomington/uReport@45925cdfbe8e4398b447a899c2b761269c4c8a92/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "AGPL-3.0",
+    "stars": 44,
+    "size_mb": 10,
+    "created_at": "2012-09-11T19:36:24Z",
+    "last_commit_at": "2026-10-12T14:58:13Z",
+    "releases": 18,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "2.3.1",
+      "at": "2026-06-04T14:19:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "45925cdfbe8e4398b447a899c2b761269c4c8a92",
+    "v": 4
+  },
+  "pinned_at": "2026-10-12T14:58:13Z"
+}

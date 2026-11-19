@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:28f9fdd031a4a8f3200811f9791f5ea355604c9a"
+  },
+  "id": "gh:frozensheep/rightmoveadf",
+  "kind": "repo",
+  "url": "https://github.com/frozensheep/rightmoveADF",
+  "title": "rightmoveADF",
+  "why": "PHP client for Rightmove's Real Time Property Datafeed that covers all 13 v1.2.3 endpoints, from sending listings to reading lead emails.",
+  "keys": {
+    "races": [
+      "real-estate/listings"
+    ],
+    "lanes": [
+      "real-estate/listings"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/frozensheep/rightmoveADF",
+    "sha": "28f9fdd031a4a8f3200811f9791f5ea355604c9a",
+    "file_url": "https://cdn.jsdelivr.net/gh/frozensheep/rightmoveADF@28f9fdd031a4a8f3200811f9791f5ea355604c9a/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 19,
+    "size_mb": 1,
+    "created_at": "2015-10-26T10:57:53Z",
+    "last_commit_at": "2016-12-07T11:01:01Z",
+    "releases": 0,
+    "tags": 6,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "28f9fdd031a4a8f3200811f9791f5ea355604c9a",
+    "v": 4
+  },
+  "pinned_at": "2016-12-07T11:01:01Z"
+}

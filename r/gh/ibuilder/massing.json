@@ -1,0 +1,82 @@
+{
+  "id": "gh:ibuilder/massing",
+  "kind": "repo",
+  "url": "https://github.com/ibuilder/massing",
+  "title": "massing",
+  "why": "Keeps RFIs, pay apps and CPM schedules tied to one IFC model, with an MCP server so agents can drive the project.",
+  "keys": {
+    "races": [
+      "engineering/bim",
+      "construction/project-controls",
+      "finance/accounting",
+      "real-estate/property-management",
+      "agents/tools",
+      "desktop/app-shells"
+    ],
+    "lanes": [
+      "engineering/bim",
+      "construction/project-controls",
+      "finance/accounting",
+      "real-estate/property-management",
+      "agents/tools",
+      "desktop/app-shells"
+    ],
+    "capabilities": [
+      "finance/accounting/bookkeeping",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ibuilder/massing",
+    "sha": "523e5b3a120bec5c593bdeae7abc44e1b559dc92",
+    "file_url": "https://cdn.jsdelivr.net/gh/ibuilder/massing@523e5b3a120bec5c593bdeae7abc44e1b559dc92/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 136,
+    "size_mb": 87,
+    "created_at": "2026-06-14T18:18:29Z",
+    "last_commit_at": "2026-09-24T13:14:55Z",
+    "releases": 884,
+    "tags": 1084,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.1133",
+      "at": "2026-09-01T06:01:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "523e5b3a120bec5c593bdeae7abc44e1b559dc92",
+    "v": 4
+  },
+  "pinned_at": "2026-09-24T13:14:55Z"
+}

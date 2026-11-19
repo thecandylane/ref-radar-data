@@ -1,0 +1,63 @@
+{
+  "id": "gh:earthaccess-dev/earthaccess",
+  "kind": "repo",
+  "url": "https://github.com/earthaccess-dev/earthaccess",
+  "title": "earthaccess",
+  "why": "Logs in once to NASA Earthdata Login, then searches granules and downloads or streams them, including cloud-hosted files.",
+  "keys": {
+    "races": [
+      "data/datasets",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/datasets",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/earthaccess-dev/earthaccess",
+    "sha": "38c1c784970aadcb183d984a0797ae53e4379377",
+    "file_url": "https://cdn.jsdelivr.net/gh/earthaccess-dev/earthaccess@38c1c784970aadcb183d984a0797ae53e4379377/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 653,
+    "size_mb": 28,
+    "created_at": "2021-08-25T15:25:00Z",
+    "last_commit_at": "2026-11-13T21:41:54Z",
+    "releases": 31,
+    "tags": 41,
+    "archived": false,
+    "release": {
+      "tag": "v0.19.0",
+      "at": "2026-09-04T00:37:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "38c1c784970aadcb183d984a0797ae53e4379377",
+    "v": 4
+  },
+  "pinned_at": "2026-11-13T21:41:54Z"
+}

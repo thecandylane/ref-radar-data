@@ -28,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ActiveInferenceInstitute/Generalized_Notation_Notation",
-    "sha": "2001b94fe6f55f7532619d8d53bb28c705997a94",
-    "file_url": "https://cdn.jsdelivr.net/gh/ActiveInferenceInstitute/Generalized_Notation_Notation@2001b94fe6f55f7532619d8d53bb28c705997a94/{path}"
+    "sha": "de6bc0ba084b85835ea264abddb60ec180ff331c",
+    "file_url": "https://cdn.jsdelivr.net/gh/ActiveInferenceInstitute/Generalized_Notation_Notation@de6bc0ba084b85835ea264abddb60ec180ff331c/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -66,12 +66,14 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "2001b94fe6f55f7532619d8d53bb28c705997a94",
-    "v": 3
+    "sha": "de6bc0ba084b85835ea264abddb60ec180ff331c",
+    "v": 4
   },
   "pins_before": [
+    "2001b94fe6f55f7532619d8d53bb28c705997a94",
     "843e4d99ed0666e90737dedec3ff978b42bdea49",
     "d18d8095d2f1daf16251ebe050f8c875ab1857ce",
     "92b773e845b3df3b3f0249fb5ba39600803aa28c"
-  ]
+  ],
+  "pinned_at": "2026-11-17T16:33:43Z"
 }

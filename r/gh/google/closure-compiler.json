@@ -32,18 +32,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/google/closure-compiler",
-    "sha": "030d049b25f74de12e2ed8e6ad8f3e6cbe8c7bee",
-    "file_url": "https://cdn.jsdelivr.net/gh/google/closure-compiler@030d049b25f74de12e2ed8e6ad8f3e6cbe8c7bee/{path}"
+    "sha": "906c51c853bfa14aa753aee956977361fd39dc1d",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/closure-compiler@906c51c853bfa14aa753aee956977361fd39dc1d/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "Apache-2.0",
-    "stars": 7706,
+    "stars": 7707,
     "size_mb": 191,
     "created_at": "2014-04-16T15:30:36Z",
-    "last_commit_at": "2026-11-18T01:45:26Z",
+    "last_commit_at": "2026-11-19T01:39:13Z",
     "releases": 0,
-    "tags": 436,
+    "tags": 437,
     "archived": false,
     "release": null
   },
@@ -60,8 +60,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "030d049b25f74de12e2ed8e6ad8f3e6cbe8c7bee",
-    "v": 3
-  }
+  "pins_before": [
+    "030d049b25f74de12e2ed8e6ad8f3e6cbe8c7bee"
+  ],
+  "pinned_at": "2026-11-19T01:39:13Z"
 }

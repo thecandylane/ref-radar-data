@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1af7efeca858dcfa29f797d7ae93f22eb2fdecf0"
-  },
   "id": "gh:9001/copyparty",
   "kind": "repo",
   "url": "https://github.com/9001/copyparty",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/9001/copyparty",
-    "sha": "1af7efeca858dcfa29f797d7ae93f22eb2fdecf0",
-    "file_url": "https://cdn.jsdelivr.net/gh/9001/copyparty@1af7efeca858dcfa29f797d7ae93f22eb2fdecf0/{path}"
+    "sha": "deb0380511737ad10b89c9ea929215d9330cf18f",
+    "file_url": "https://cdn.jsdelivr.net/gh/9001/copyparty@deb0380511737ad10b89c9ea929215d9330cf18f/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 47392,
-    "size_mb": 9,
+    "stars": 47404,
+    "size_mb": 10,
     "created_at": "2019-05-26T15:28:33Z",
-    "last_commit_at": "2026-10-21T05:09:00Z",
+    "last_commit_at": "2026-11-18T20:20:13Z",
     "releases": 351,
     "tags": 390,
     "archived": false,
@@ -61,8 +58,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "1af7efeca858dcfa29f797d7ae93f22eb2fdecf0",
-    "v": 3
+    "sha": "deb0380511737ad10b89c9ea929215d9330cf18f",
+    "v": 4
   },
-  "pinned_at": "2026-10-21T05:09:00Z"
+  "pins_before": [
+    "1af7efeca858dcfa29f797d7ae93f22eb2fdecf0"
+  ],
+  "pinned_at": "2026-11-18T20:20:13Z"
 }

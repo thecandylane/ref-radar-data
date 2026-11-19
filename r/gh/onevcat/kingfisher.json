@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:503d8e875623dcc3c1482370c4cd54579b9fa5ce"
-  },
   "id": "gh:onevcat/kingfisher",
   "kind": "repo",
   "url": "https://github.com/onevcat/Kingfisher",
@@ -25,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/onevcat/Kingfisher",
-    "sha": "503d8e875623dcc3c1482370c4cd54579b9fa5ce",
-    "file_url": "https://cdn.jsdelivr.net/gh/onevcat/Kingfisher@503d8e875623dcc3c1482370c4cd54579b9fa5ce/{path}"
+    "sha": "8e344e8621bc3d00c03c8b15a15102921a2c9b6e",
+    "file_url": "https://cdn.jsdelivr.net/gh/onevcat/Kingfisher@8e344e8621bc3d00c03c8b15a15102921a2c9b6e/{path}"
   },
   "facts": {
     "lang": "Swift",
     "license": "MIT",
-    "stars": 24411,
+    "stars": 24412,
     "size_mb": 8,
     "created_at": "2015-04-06T14:26:21Z",
-    "last_commit_at": "2026-11-17T01:08:23Z",
+    "last_commit_at": "2026-11-18T15:58:41Z",
     "releases": 217,
     "tags": 228,
     "archived": false,
@@ -51,13 +48,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 2,
+    "star_delta_7d": 3,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "503d8e875623dcc3c1482370c4cd54579b9fa5ce",
-    "v": 3
-  }
+  "pins_before": [
+    "503d8e875623dcc3c1482370c4cd54579b9fa5ce"
+  ],
+  "pinned_at": "2026-11-18T15:58:41Z"
 }

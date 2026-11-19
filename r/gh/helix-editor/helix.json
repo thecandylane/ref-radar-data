@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a714a818a3a4f6dd5aad3b003a78692f90a1703f"
-  },
   "id": "gh:helix-editor/helix",
   "kind": "repo",
   "url": "https://github.com/helix-editor/helix",
@@ -27,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/helix-editor/helix",
-    "sha": "a714a818a3a4f6dd5aad3b003a78692f90a1703f",
-    "file_url": "https://cdn.jsdelivr.net/gh/helix-editor/helix@a714a818a3a4f6dd5aad3b003a78692f90a1703f/{path}"
+    "sha": "92ba4c070e79e8c1cfaf609dc3588dac0ef187a6",
+    "file_url": "https://cdn.jsdelivr.net/gh/helix-editor/helix@92ba4c070e79e8c1cfaf609dc3588dac0ef187a6/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MPL-2.0",
-    "stars": 46920,
+    "stars": 46935,
     "size_mb": 89,
     "created_at": "2020-06-01T04:26:56Z",
     "last_commit_at": "2026-11-18T09:05:35Z",
@@ -53,13 +50,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": -34,
+    "star_delta_7d": 48,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "a714a818a3a4f6dd5aad3b003a78692f90a1703f",
-    "v": 3
-  }
+  "pins_before": [
+    "a714a818a3a4f6dd5aad3b003a78692f90a1703f"
+  ],
+  "pinned_at": "2026-11-18T09:05:35Z"
 }

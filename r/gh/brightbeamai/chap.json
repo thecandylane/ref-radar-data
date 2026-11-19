@@ -1,0 +1,68 @@
+{
+  "id": "gh:brightbeamai/chap",
+  "kind": "repo",
+  "url": "https://github.com/BrightbeamAI/chap",
+  "title": "chap",
+  "why": "Records human approvals, overrides and handoffs for agent work in an audit log where each entry carries the hash of the one before.",
+  "keys": {
+    "races": [
+      "agents/orchestration"
+    ],
+    "lanes": [
+      "agents/orchestration"
+    ],
+    "capabilities": [
+      "agents/orchestration/agent-networks",
+      "agents/orchestration/agent-teams"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/BrightbeamAI/chap",
+    "sha": "f7dfe946227789106c3aa31ead65e23e562aeb00",
+    "file_url": "https://cdn.jsdelivr.net/gh/BrightbeamAI/chap@f7dfe946227789106c3aa31ead65e23e562aeb00/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 123,
+    "size_mb": 11,
+    "created_at": "2026-05-17T02:23:11Z",
+    "last_commit_at": "2026-11-08T18:43:41Z",
+    "releases": 15,
+    "tags": 16,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.5",
+      "at": "2026-11-08T18:49:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f7dfe946227789106c3aa31ead65e23e562aeb00",
+    "v": 4
+  },
+  "pinned_at": "2026-11-08T18:43:41Z"
+}

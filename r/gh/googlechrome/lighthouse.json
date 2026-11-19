@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:3e506841ae751de3ca59c1f440d67744f3afea47"
-  },
   "id": "gh:googlechrome/lighthouse",
   "kind": "repo",
   "url": "https://github.com/GoogleChrome/lighthouse",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/GoogleChrome/lighthouse",
-    "sha": "3e506841ae751de3ca59c1f440d67744f3afea47",
-    "file_url": "https://raw.githubusercontent.com/GoogleChrome/lighthouse/3e506841ae751de3ca59c1f440d67744f3afea47/{path}"
+    "sha": "ae9c80854a5d73a1a0c42be3e088d2648293ae80",
+    "file_url": "https://raw.githubusercontent.com/GoogleChrome/lighthouse/ae9c80854a5d73a1a0c42be3e088d2648293ae80/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "Apache-2.0",
-    "stars": 31153,
+    "stars": 31158,
     "size_mb": 367,
     "created_at": "2016-03-08T01:03:11Z",
-    "last_commit_at": "2026-11-18T00:52:38Z",
+    "last_commit_at": "2026-11-18T20:55:58Z",
     "releases": 138,
     "tags": 165,
     "archived": false,
@@ -53,14 +50,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 111,
+    "star_delta_7d": 107,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "3e506841ae751de3ca59c1f440d67744f3afea47",
-    "v": 3
-  },
+  "pins_before": [
+    "3e506841ae751de3ca59c1f440d67744f3afea47"
+  ],
+  "pinned_at": "2026-11-18T20:55:58Z",
   "hot": true
 }

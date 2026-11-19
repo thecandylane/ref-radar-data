@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:b0a3065c6eb0e0fa526566869ac1298b204a11a5"
-  },
   "id": "gh:apache/skywalking",
   "kind": "repo",
   "url": "https://github.com/apache/skywalking",
@@ -25,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/skywalking",
-    "sha": "b0a3065c6eb0e0fa526566869ac1298b204a11a5",
-    "file_url": "https://cdn.jsdelivr.net/gh/apache/skywalking@b0a3065c6eb0e0fa526566869ac1298b204a11a5/{path}"
+    "sha": "11eb86d00139b0f32b10abe60297369a43957f05",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/skywalking@11eb86d00139b0f32b10abe60297369a43957f05/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 25012,
+    "stars": 25014,
     "size_mb": 179,
     "created_at": "2015-11-07T03:30:36Z",
-    "last_commit_at": "2026-11-17T23:47:36Z",
+    "last_commit_at": "2026-11-19T03:35:17Z",
     "releases": 66,
     "tags": 68,
     "archived": false,
@@ -57,7 +54,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "b0a3065c6eb0e0fa526566869ac1298b204a11a5",
-    "v": 3
-  }
+    "sha": "11eb86d00139b0f32b10abe60297369a43957f05",
+    "v": 4
+  },
+  "pins_before": [
+    "b0a3065c6eb0e0fa526566869ac1298b204a11a5"
+  ],
+  "pinned_at": "2026-11-19T03:35:17Z"
 }

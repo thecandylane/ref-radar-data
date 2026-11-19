@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ae4cd8958139ed8919f3783f89819b93e1303508"
+  },
+  "id": "gh:aplpy/aplpy",
+  "kind": "repo",
+  "url": "https://github.com/aplpy/aplpy",
+  "title": "aplpy",
+  "why": "Turns FITS imaging data into publication-quality plots from Python, installable with a single pip install.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/aplpy/aplpy",
+    "sha": "ae4cd8958139ed8919f3783f89819b93e1303508",
+    "file_url": "https://cdn.jsdelivr.net/gh/aplpy/aplpy@ae4cd8958139ed8919f3783f89819b93e1303508/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 181,
+    "size_mb": 6,
+    "created_at": "2011-01-04T15:20:56Z",
+    "last_commit_at": "2026-05-23T22:17:00Z",
+    "releases": 2,
+    "tags": 20,
+    "archived": false,
+    "release": {
+      "tag": "v2.2.1",
+      "at": "2026-05-23T22:16:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ae4cd8958139ed8919f3783f89819b93e1303508",
+    "v": 4
+  },
+  "pinned_at": "2026-05-23T22:17:00Z"
+}

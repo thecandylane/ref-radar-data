@@ -1,0 +1,66 @@
+{
+  "id": "gh:aqua5230/usage",
+  "kind": "repo",
+  "url": "https://github.com/aqua5230/usage",
+  "title": "usage",
+  "why": "Pins 5-hour and weekly Claude Code and Codex quota to the menu bar, with a side pane inside Claude Code and burn rate per tool.",
+  "keys": {
+    "races": [
+      "agents/clients",
+      "infra/observability",
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "agents/clients",
+      "infra/observability",
+      "desktop/terminal-ui"
+    ],
+    "capabilities": [
+      "agents/clients/desktop-apps"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/aqua5230/usage",
+    "sha": "e6eb42dbd66da24dc1e25255ac9db72045a3ee81",
+    "file_url": "https://cdn.jsdelivr.net/gh/aqua5230/usage@e6eb42dbd66da24dc1e25255ac9db72045a3ee81/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 349,
+    "size_mb": 136,
+    "created_at": "2026-05-17T11:52:27Z",
+    "last_commit_at": "2026-11-19T03:46:29Z",
+    "releases": 267,
+    "tags": 267,
+    "archived": false,
+    "release": {
+      "tag": "v0.34.23",
+      "at": "2026-11-19T00:23:50.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e6eb42dbd66da24dc1e25255ac9db72045a3ee81",
+    "v": 4
+  }
+}

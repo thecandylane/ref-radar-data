@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:562c6c6df52d62b219df4b1b2b8c3aea199cf499"
+    "swh": "swh:1:rev:9ff9b44cdffe7af85de3f3565e2307a6e51411e9"
   },
   "id": "gh:longhorn/longhorn",
   "kind": "repo",
@@ -27,8 +27,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/longhorn/longhorn",
-    "sha": "562c6c6df52d62b219df4b1b2b8c3aea199cf499",
-    "file_url": "https://cdn.jsdelivr.net/gh/longhorn/longhorn@562c6c6df52d62b219df4b1b2b8c3aea199cf499/{path}"
+    "sha": "9ff9b44cdffe7af85de3f3565e2307a6e51411e9",
+    "file_url": "https://cdn.jsdelivr.net/gh/longhorn/longhorn@9ff9b44cdffe7af85de3f3565e2307a6e51411e9/{path}"
   },
   "facts": {
     "lang": "Shell",
@@ -53,13 +53,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 16,
+    "star_delta_7d": 14,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "562c6c6df52d62b219df4b1b2b8c3aea199cf499",
-    "v": 3
-  }
+  "pins_before": [
+    "562c6c6df52d62b219df4b1b2b8c3aea199cf499"
+  ],
+  "pinned_at": "2026-11-16T01:11:58Z"
 }

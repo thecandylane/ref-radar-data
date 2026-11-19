@@ -28,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/honojs/hono",
-    "sha": "f6fbaf0299c48eea9e656e03e2ffe7ac755e8823",
-    "file_url": "https://cdn.jsdelivr.net/gh/honojs/hono@f6fbaf0299c48eea9e656e03e2ffe7ac755e8823/{path}"
+    "sha": "75ff8e3ea18485589816881c6278bc9783e56602",
+    "file_url": "https://cdn.jsdelivr.net/gh/honojs/hono@75ff8e3ea18485589816881c6278bc9783e56602/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 32971,
+    "stars": 32979,
     "size_mb": 10,
     "created_at": "2021-12-14T20:05:30Z",
-    "last_commit_at": "2026-11-18T09:08:24Z",
+    "last_commit_at": "2026-11-19T01:40:40Z",
     "releases": 465,
     "tags": 474,
     "archived": false,
@@ -54,14 +54,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 54,
+    "star_delta_7d": 47,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "f6fbaf0299c48eea9e656e03e2ffe7ac755e8823",
-    "v": 3
-  },
+  "pins_before": [
+    "f6fbaf0299c48eea9e656e03e2ffe7ac755e8823"
+  ],
+  "pinned_at": "2026-11-19T01:40:40Z",
   "hot": true
 }

@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:02095954751908eb3df5dffcc729addfa0d2dd20"
+  },
+  "id": "gh:phillippro/pexo",
+  "kind": "repo",
+  "url": "https://github.com/phillippro/pexo",
+  "title": "pexo",
+  "why": "Models pulsar timing, astrometry and radial velocities together, including binary motion, planetary reflex and relativistic delays.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/phillippro/pexo",
+    "sha": "02095954751908eb3df5dffcc729addfa0d2dd20",
+    "file_url": "https://raw.githubusercontent.com/phillippro/pexo/02095954751908eb3df5dffcc729addfa0d2dd20/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "MIT",
+    "stars": 5,
+    "size_mb": 405,
+    "created_at": "2019-09-24T17:04:46Z",
+    "last_commit_at": "2020-11-14T16:08:38Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v1.1",
+      "at": "2020-05-05T22:17:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "02095954751908eb3df5dffcc729addfa0d2dd20",
+    "v": 4
+  },
+  "pinned_at": "2020-11-14T16:08:38Z"
+}

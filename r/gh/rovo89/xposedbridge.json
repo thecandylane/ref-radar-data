@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a535c02ed9dfd53683cc0274d9f95bcb6ffb9f79"
+  },
+  "id": "gh:rovo89/xposedbridge",
+  "kind": "repo",
+  "url": "https://github.com/rovo89/XposedBridge",
+  "title": "XposedBridge",
+  "why": "Android-side Java layer that Xposed modules sit on, archived with the last commit in 2017, so read it to see the old design.",
+  "keys": {
+    "races": [
+      "mobile/android"
+    ],
+    "lanes": [
+      "mobile/android"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rovo89/XposedBridge",
+    "sha": "a535c02ed9dfd53683cc0274d9f95bcb6ffb9f79",
+    "file_url": "https://cdn.jsdelivr.net/gh/rovo89/XposedBridge@a535c02ed9dfd53683cc0274d9f95bcb6ffb9f79/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "none",
+    "stars": 4070,
+    "size_mb": 13,
+    "created_at": "2012-03-31T12:01:55Z",
+    "last_commit_at": "2017-10-30T10:15:04Z",
+    "releases": 0,
+    "tags": 25,
+    "archived": true,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a535c02ed9dfd53683cc0274d9f95bcb6ffb9f79",
+    "v": 4
+  },
+  "pinned_at": "2017-10-30T10:15:04Z"
+}

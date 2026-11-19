@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:943743b8bfa357fd0403f260df0ab8eebbae62dd"
-  },
   "id": "gh:getsentry/sentry-javascript",
   "kind": "repo",
   "url": "https://github.com/getsentry/sentry-javascript",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/getsentry/sentry-javascript",
-    "sha": "943743b8bfa357fd0403f260df0ab8eebbae62dd",
-    "file_url": "https://cdn.jsdelivr.net/gh/getsentry/sentry-javascript@943743b8bfa357fd0403f260df0ab8eebbae62dd/{path}"
+    "sha": "6d76aa084a53473c4bf079934e85a31e37cd096a",
+    "file_url": "https://cdn.jsdelivr.net/gh/getsentry/sentry-javascript@6d76aa084a53473c4bf079934e85a31e37cd096a/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
     "stars": 8778,
-    "size_mb": 283,
+    "size_mb": 284,
     "created_at": "2012-02-01T20:16:25Z",
-    "last_commit_at": "2026-11-18T09:09:50Z",
+    "last_commit_at": "2026-11-19T08:56:06Z",
     "releases": 768,
     "tags": 843,
     "archived": false,
@@ -62,8 +59,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "943743b8bfa357fd0403f260df0ab8eebbae62dd",
-    "v": 3
-  }
+  "pins_before": [
+    "943743b8bfa357fd0403f260df0ab8eebbae62dd"
+  ],
+  "pinned_at": "2026-11-19T08:56:06Z"
 }

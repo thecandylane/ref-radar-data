@@ -1,0 +1,77 @@
+{
+  "id": "gh:usertour/usertour",
+  "kind": "repo",
+  "url": "https://github.com/usertour/usertour",
+  "title": "usertour",
+  "why": "Gives an AI assistant a route to build tours and checklists in the project, matching the styling of its design system.",
+  "keys": {
+    "races": [
+      "web/ui-components",
+      "support/feedback",
+      "agents/tools",
+      "agents/skills"
+    ],
+    "lanes": [
+      "web/ui-components",
+      "support/feedback",
+      "agents/tools",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/usertour/usertour",
+    "sha": "814989a6ced203b3981a1825542b637f57ab1b14",
+    "file_url": "https://cdn.jsdelivr.net/gh/usertour/usertour@814989a6ced203b3981a1825542b637f57ab1b14/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 2343,
+    "size_mb": 34,
+    "created_at": "2025-01-24T10:40:44Z",
+    "last_commit_at": "2026-11-11T09:16:18Z",
+    "releases": 63,
+    "tags": 66,
+    "archived": false,
+    "release": {
+      "tag": "v0.9.8",
+      "at": "2026-11-11T02:18:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "814989a6ced203b3981a1825542b637f57ab1b14",
+    "v": 4
+  },
+  "pinned_at": "2026-11-11T09:16:18Z"
+}

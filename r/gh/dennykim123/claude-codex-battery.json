@@ -1,0 +1,70 @@
+{
+  "id": "gh:dennykim123/claude-codex-battery",
+  "kind": "repo",
+  "url": "https://github.com/dennykim123/claude-codex-battery",
+  "title": "claude-codex-battery",
+  "why": "Shows remaining Claude Code and Codex limits as battery icons in the menu bar, read through each tool's own login and usage endpoint.",
+  "keys": {
+    "races": [
+      "agents/clients",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "agents/clients",
+      "desktop/native-ui"
+    ],
+    "capabilities": [
+      "agents/clients/desktop-apps",
+      "agents/clients/terminal-clients"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dennykim123/claude-codex-battery",
+    "sha": "70be1f1e982f264ff3c3592c2a42c45d316d98e1",
+    "file_url": "https://cdn.jsdelivr.net/gh/dennykim123/claude-codex-battery@70be1f1e982f264ff3c3592c2a42c45d316d98e1/{path}"
+  },
+  "facts": {
+    "lang": "Swift",
+    "license": "MIT",
+    "stars": 103,
+    "size_mb": 4,
+    "created_at": "2026-07-08T12:50:55Z",
+    "last_commit_at": "2026-08-03T13:33:17Z",
+    "releases": 24,
+    "tags": 24,
+    "archived": false,
+    "release": {
+      "tag": "v2.6.3",
+      "at": "2026-08-03T13:33:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "70be1f1e982f264ff3c3592c2a42c45d316d98e1",
+    "v": 4
+  },
+  "pinned_at": "2026-08-03T13:33:17Z"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "gh:waldronlab/lefser",
+  "kind": "repo",
+  "url": "https://github.com/waldronlab/lefser",
+  "title": "lefser",
+  "why": "Finds metagenomic biomarkers between two sample classes in R, following the LEfSe steps of Kruskal-Wallis, Wilcoxon and LDA.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/waldronlab/lefser",
+    "sha": "c0a9baf1648fa890e7f3f11f279dfc0891210aa9",
+    "file_url": "https://cdn.jsdelivr.net/gh/waldronlab/lefser@c0a9baf1648fa890e7f3f11f279dfc0891210aa9/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 68,
+    "size_mb": 19,
+    "created_at": "2020-07-23T02:58:45Z",
+    "last_commit_at": "2026-11-05T13:22:20Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c0a9baf1648fa890e7f3f11f279dfc0891210aa9",
+    "v": 4
+  },
+  "pinned_at": "2026-11-05T13:22:20Z"
+}

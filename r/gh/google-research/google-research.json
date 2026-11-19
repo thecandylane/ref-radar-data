@@ -1,0 +1,57 @@
+{
+  "id": "gh:google-research/google-research",
+  "kind": "repo",
+  "url": "https://github.com/google-research/google-research",
+  "title": "google-research",
+  "why": "Collects released Google Research code in one repo, where a single folder can be pulled alone and cloned shallow with depth 1.",
+  "keys": {
+    "races": [
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google-research/google-research",
+    "sha": "f4598eb0d4f8947b880cad470e157d37bd2f858b",
+    "file_url": "https://raw.githubusercontent.com/google-research/google-research/f4598eb0d4f8947b880cad470e157d37bd2f858b/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "Apache-2.0",
+    "stars": 39227,
+    "size_mb": 1182,
+    "created_at": "2018-10-04T18:42:48Z",
+    "last_commit_at": "2026-11-19T07:12:48Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pins_before": [
+    "bb18d9b0cb460fee1a080fa2eeb4109fe3805275"
+  ],
+  "pinned_at": "2026-11-19T07:12:48Z"
+}

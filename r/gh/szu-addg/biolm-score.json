@@ -1,0 +1,62 @@
+{
+  "id": "gh:szu-addg/biolm-score",
+  "kind": "repo",
+  "url": "https://github.com/SZU-ADDG/BioLM-Score",
+  "title": "BioLM-Score",
+  "why": "Research code for protein-ligand scoring that reruns benchmark evaluations and embedding generation, without shipping the data or weights.",
+  "keys": {
+    "races": [
+      "engineering/chemistry",
+      "ml/embeddings",
+      "ml/training"
+    ],
+    "lanes": [
+      "engineering/chemistry",
+      "ml/embeddings",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SZU-ADDG/BioLM-Score",
+    "sha": "a8b442fa67f32b9fa6c3a0163335ece8f3b26c0a",
+    "file_url": "https://cdn.jsdelivr.net/gh/SZU-ADDG/BioLM-Score@a8b442fa67f32b9fa6c3a0163335ece8f3b26c0a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 3,
+    "created_at": "2026-05-08T15:09:59Z",
+    "last_commit_at": "2026-10-13T15:56:03Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a8b442fa67f32b9fa6c3a0163335ece8f3b26c0a",
+    "v": 4
+  },
+  "pinned_at": "2026-10-13T15:56:03Z"
+}

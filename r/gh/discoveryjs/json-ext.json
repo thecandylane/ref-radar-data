@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3872c34b35c35caee7bf9cbe379d10f61f18874d"
+  },
+  "id": "gh:discoveryjs/json-ext",
+  "kind": "repo",
+  "url": "https://github.com/discoveryjs/json-ext",
+  "title": "json-ext",
+  "why": "Parses and stringifies very large JSON and JSONL in chunks, so big files do not block the main thread or exhaust memory.",
+  "keys": {
+    "races": [
+      "data/serialization",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "data/serialization",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/discoveryjs/json-ext",
+    "sha": "3872c34b35c35caee7bf9cbe379d10f61f18874d",
+    "file_url": "https://cdn.jsdelivr.net/gh/discoveryjs/json-ext@3872c34b35c35caee7bf9cbe379d10f61f18874d/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 192,
+    "size_mb": 12,
+    "created_at": "2020-08-13T08:04:56Z",
+    "last_commit_at": "2026-10-26T21:15:24Z",
+    "releases": 21,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2026-05-03T22:18:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3872c34b35c35caee7bf9cbe379d10f61f18874d",
+    "v": 4
+  },
+  "pinned_at": "2026-10-26T21:15:24Z"
+}

@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:605c409deff5ac602ef3582bfc8a593426e5e511"
+  },
+  "id": "gh:antonkomarev/github-profile-views-counter",
+  "kind": "repo",
+  "url": "https://github.com/antonkomarev/github-profile-views-counter",
+  "title": "github-profile-views-counter",
+  "why": "Counts views of a GitHub profile through an image URL in the profile README, with color, style and label options.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/antonkomarev/github-profile-views-counter",
+    "sha": "605c409deff5ac602ef3582bfc8a593426e5e511",
+    "file_url": "https://cdn.jsdelivr.net/gh/antonkomarev/github-profile-views-counter@605c409deff5ac602ef3582bfc8a593426e5e511/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 5079,
+    "size_mb": 0,
+    "created_at": "2020-07-11T19:38:20Z",
+    "last_commit_at": "2025-09-22T04:48:17Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "605c409deff5ac602ef3582bfc8a593426e5e511",
+    "v": 4
+  },
+  "pinned_at": "2025-09-22T04:48:17Z"
+}

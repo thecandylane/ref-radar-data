@@ -1,0 +1,62 @@
+{
+  "id": "gh:i365dev/awesome-seo",
+  "kind": "repo",
+  "url": "https://github.com/i365dev/awesome-seo",
+  "title": "awesome-seo",
+  "why": "Pairs Search Console, Lighthouse and robots.txt references with notes on Cloudflare bot settings for site owners checking crawl access.",
+  "keys": {
+    "races": [
+      "seo/site-audits",
+      "seo/meta-sitemaps",
+      "seo/ai-visibility"
+    ],
+    "lanes": [
+      "seo/site-audits",
+      "seo/meta-sitemaps",
+      "seo/ai-visibility"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/i365dev/awesome-seo",
+    "sha": "db43b0f2662a7a03d891985c86313e80d33c41f3",
+    "file_url": "https://cdn.jsdelivr.net/gh/i365dev/awesome-seo@db43b0f2662a7a03d891985c86313e80d33c41f3/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "MIT",
+    "stars": 2868,
+    "size_mb": 0,
+    "created_at": "2021-01-06T13:43:25Z",
+    "last_commit_at": "2026-10-21T02:18:51Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "db43b0f2662a7a03d891985c86313e80d33c41f3",
+    "v": 4
+  },
+  "pinned_at": "2026-10-21T02:18:51Z"
+}

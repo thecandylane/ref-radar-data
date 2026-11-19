@@ -1,0 +1,65 @@
+{
+  "id": "gh:eddmann/claudemeter",
+  "kind": "repo",
+  "url": "https://github.com/eddmann/ClaudeMeter",
+  "title": "ClaudeMeter",
+  "why": "Reads Claude.ai session limits into a macOS menu bar gauge, and exports usage.json so Claude Code statusline scripts can show it.",
+  "keys": {
+    "races": [
+      "desktop/native-ui",
+      "agents/clients"
+    ],
+    "lanes": [
+      "desktop/native-ui",
+      "agents/clients"
+    ],
+    "capabilities": [
+      "agents/clients/desktop-apps"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/eddmann/ClaudeMeter",
+    "sha": "da44a403f89400b0af94b5fd801cd7d75542b960",
+    "file_url": "https://cdn.jsdelivr.net/gh/eddmann/ClaudeMeter@da44a403f89400b0af94b5fd801cd7d75542b960/{path}"
+  },
+  "facts": {
+    "lang": "Swift",
+    "license": "MIT",
+    "stars": 176,
+    "size_mb": 4,
+    "created_at": "2025-11-18T07:29:03Z",
+    "last_commit_at": "2026-05-19T11:06:26Z",
+    "releases": 17,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "v1.4.0",
+      "at": "2026-05-19T11:10:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "da44a403f89400b0af94b5fd801cd7d75542b960",
+    "v": 4
+  },
+  "pinned_at": "2026-05-19T11:06:26Z"
+}

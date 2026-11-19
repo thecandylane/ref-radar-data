@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3e2eaa9636390cd6bff851c05dd9a0e0dbdfcbdc"
+  },
+  "id": "gh:micrictor/smbfp",
+  "kind": "repo",
+  "url": "https://github.com/micrictor/smbfp",
+  "title": "smbfp",
+  "why": "Fingerprints SMB clients from their negotiation fields, so a blacklist can raise alerts and a whitelist can flag abnormal clients.",
+  "keys": {
+    "races": [
+      "netsec/capture",
+      "netsec/ids"
+    ],
+    "lanes": [
+      "netsec/capture",
+      "netsec/ids"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/micrictor/smbfp",
+    "sha": "3e2eaa9636390cd6bff851c05dd9a0e0dbdfcbdc",
+    "file_url": "https://cdn.jsdelivr.net/gh/micrictor/smbfp@3e2eaa9636390cd6bff851c05dd9a0e0dbdfcbdc/{path}"
+  },
+  "facts": {
+    "lang": "Zeek",
+    "license": "BSD-3-Clause",
+    "stars": 28,
+    "size_mb": 0,
+    "created_at": "2020-05-02T14:44:52Z",
+    "last_commit_at": "2020-05-05T19:20:37Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3e2eaa9636390cd6bff851c05dd9a0e0dbdfcbdc",
+    "v": 4
+  },
+  "pinned_at": "2020-05-05T19:20:37Z"
+}

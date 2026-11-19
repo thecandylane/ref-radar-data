@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c20da4f9bea82ed4794144c6c753c4d66066663b"
-  },
   "id": "gh:openai/tart",
   "kind": "repo",
   "url": "https://github.com/openai/tart",
@@ -29,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/openai/tart",
-    "sha": "c20da4f9bea82ed4794144c6c753c4d66066663b",
-    "file_url": "https://cdn.jsdelivr.net/gh/openai/tart@c20da4f9bea82ed4794144c6c753c4d66066663b/{path}"
+    "sha": "a8d03d4a1ae34705e153a376437cee3b4f6c4f63",
+    "file_url": "https://cdn.jsdelivr.net/gh/openai/tart@a8d03d4a1ae34705e153a376437cee3b4f6c4f63/{path}"
   },
   "facts": {
     "lang": "Swift",
     "license": "NOASSERTION",
-    "stars": 7950,
+    "stars": 7962,
     "size_mb": 20,
     "created_at": "2022-02-01T11:22:40Z",
     "last_commit_at": "2026-11-17T20:26:37Z",
@@ -55,14 +52,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 86,
+    "star_delta_7d": 85,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "c20da4f9bea82ed4794144c6c753c4d66066663b",
-    "v": 3
-  },
+  "pins_before": [
+    "c20da4f9bea82ed4794144c6c753c4d66066663b"
+  ],
+  "pinned_at": "2026-11-17T20:26:37Z",
   "hot": true
 }

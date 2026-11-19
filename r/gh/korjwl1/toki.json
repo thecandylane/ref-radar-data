@@ -1,0 +1,67 @@
+{
+  "id": "gh:korjwl1/toki",
+  "kind": "repo",
+  "url": "https://github.com/korjwl1/toki",
+  "title": "toki",
+  "why": "Runs a daemon that indexes Claude Code and Codex JSONL into a TSDB, so usage reports come back in 7 ms.",
+  "keys": {
+    "races": [
+      "data/analytics",
+      "infra/observability"
+    ],
+    "lanes": [
+      "data/analytics",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/korjwl1/toki",
+    "sha": "59162085a700aa05dc1472c7bf361559327229b0",
+    "file_url": "https://cdn.jsdelivr.net/gh/korjwl1/toki@59162085a700aa05dc1472c7bf361559327229b0/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 21,
+    "size_mb": 4,
+    "created_at": "2026-03-08T14:42:16Z",
+    "last_commit_at": "2026-08-27T10:12:41Z",
+    "releases": 17,
+    "tags": 20,
+    "archived": false,
+    "release": {
+      "tag": "v2.3.0",
+      "at": "2026-08-27T10:34:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "59162085a700aa05dc1472c7bf361559327229b0",
+    "v": 4
+  },
+  "pinned_at": "2026-08-27T10:12:41Z"
+}

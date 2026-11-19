@@ -1,0 +1,68 @@
+{
+  "id": "gh:sculptdotfun/viberank",
+  "kind": "repo",
+  "url": "https://github.com/sculptdotfun/viberank",
+  "title": "viberank",
+  "why": "Ranks developers by submitted Claude Code and Codex cost and token totals, with one row per profile and a CLI to submit.",
+  "keys": {
+    "races": [
+      "data/analytics",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "data/analytics",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sculptdotfun/viberank",
+    "sha": "1506fcf136ff613c6796adf4d03111a5dc444630",
+    "file_url": "https://cdn.jsdelivr.net/gh/sculptdotfun/viberank@1506fcf136ff613c6796adf4d03111a5dc444630/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 121,
+    "size_mb": 2,
+    "created_at": "2025-07-03T00:07:32Z",
+    "last_commit_at": "2026-10-26T12:06:22Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1506fcf136ff613c6796adf4d03111a5dc444630",
+    "v": 4
+  },
+  "pinned_at": "2026-10-26T12:06:22Z"
+}

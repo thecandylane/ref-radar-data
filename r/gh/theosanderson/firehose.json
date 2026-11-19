@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ee30c6b732722664443539d6a891f0da1c834bbe"
+  },
+  "id": "gh:theosanderson/firehose",
+  "kind": "repo",
+  "url": "https://github.com/theosanderson/firehose",
+  "title": "firehose",
+  "why": "Plays the Bluesky firehose in the style of a Windows 95 screensaver, a compact TypeScript example of a live feed.",
+  "keys": {
+    "races": [
+      "games/graphics"
+    ],
+    "lanes": [
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/theosanderson/firehose",
+    "sha": "ee30c6b732722664443539d6a891f0da1c834bbe",
+    "file_url": "https://cdn.jsdelivr.net/gh/theosanderson/firehose@ee30c6b732722664443539d6a891f0da1c834bbe/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "none",
+    "stars": 134,
+    "size_mb": 0,
+    "created_at": "2024-11-16T16:21:56Z",
+    "last_commit_at": "2024-11-28T00:27:04Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ee30c6b732722664443539d6a891f0da1c834bbe",
+    "v": 4
+  },
+  "pinned_at": "2024-11-28T00:27:04Z"
+}

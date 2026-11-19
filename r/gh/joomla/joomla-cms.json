@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:6bc667dde0e76c4fa6dab2ac3b1bd1b59bc405e5"
-  },
   "id": "gh:joomla/joomla-cms",
   "kind": "repo",
   "url": "https://github.com/joomla/joomla-cms",
@@ -25,13 +22,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/joomla/joomla-cms",
-    "sha": "6bc667dde0e76c4fa6dab2ac3b1bd1b59bc405e5",
-    "file_url": "https://cdn.jsdelivr.net/gh/joomla/joomla-cms@6bc667dde0e76c4fa6dab2ac3b1bd1b59bc405e5/{path}"
+    "sha": "7c99d01b86523b6af29a7e05d329c881e9f9815f",
+    "file_url": "https://cdn.jsdelivr.net/gh/joomla/joomla-cms@7c99d01b86523b6af29a7e05d329c881e9f9815f/{path}"
   },
   "facts": {
     "lang": "PHP",
     "license": "GPL-2.0",
-    "stars": 5167,
+    "stars": 5168,
     "size_mb": 342,
     "created_at": "2011-09-27T02:07:38Z",
     "last_commit_at": "2026-11-17T16:10:36Z",
@@ -51,13 +48,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": -1,
+    "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "6bc667dde0e76c4fa6dab2ac3b1bd1b59bc405e5",
-    "v": 3
-  }
+  "pins_before": [
+    "6bc667dde0e76c4fa6dab2ac3b1bd1b59bc405e5"
+  ],
+  "pinned_at": "2026-11-17T16:10:36Z"
 }

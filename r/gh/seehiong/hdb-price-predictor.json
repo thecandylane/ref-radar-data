@@ -1,0 +1,60 @@
+{
+  "id": "gh:seehiong/hdb-price-predictor",
+  "kind": "repo",
+  "url": "https://github.com/seehiong/hdb-price-predictor",
+  "title": "hdb-price-predictor",
+  "why": "Values Singapore HDB flats in the browser by walking 600 XGBoost trees in JavaScript, so nothing goes to a server.",
+  "keys": {
+    "races": [
+      "real-estate/property-data",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "real-estate/property-data",
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/seehiong/hdb-price-predictor",
+    "sha": "e4402fff2d371f4c5050775c045abfcf2a9ff331",
+    "file_url": "https://cdn.jsdelivr.net/gh/seehiong/hdb-price-predictor@e4402fff2d371f4c5050775c045abfcf2a9ff331/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "none",
+    "stars": 272,
+    "size_mb": 135,
+    "created_at": "2025-05-13T14:24:52Z",
+    "last_commit_at": "2026-09-12T03:59:12Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e4402fff2d371f4c5050775c045abfcf2a9ff331",
+    "v": 4
+  },
+  "pinned_at": "2026-09-12T03:59:12Z"
+}

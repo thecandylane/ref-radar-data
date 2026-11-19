@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:9648cacb21a71aa6c21b3fca504f146c39164a53"
+  },
   "id": "gh:google/binexport",
   "kind": "repo",
   "url": "https://github.com/google/binexport",
@@ -57,5 +60,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "9648cacb21a71aa6c21b3fca504f146c39164a53",
+    "v": 3
+  },
+  "pinned_at": "2026-10-27T14:54:17Z"
 }

@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:88db14026ec9619e16680c630a889ec9b604cfb0"
+    "swh": "swh:1:rev:78bb5f4ef0cafe82620f8d634421fd3006a19ff2"
   },
   "id": "gh:doxygen/doxygen",
   "kind": "repo",
@@ -29,13 +29,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/doxygen/doxygen",
-    "sha": "88db14026ec9619e16680c630a889ec9b604cfb0",
-    "file_url": "https://cdn.jsdelivr.net/gh/doxygen/doxygen@88db14026ec9619e16680c630a889ec9b604cfb0/{path}"
+    "sha": "78bb5f4ef0cafe82620f8d634421fd3006a19ff2",
+    "file_url": "https://cdn.jsdelivr.net/gh/doxygen/doxygen@78bb5f4ef0cafe82620f8d634421fd3006a19ff2/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "GPL-2.0",
-    "stars": 6620,
+    "stars": 6622,
     "size_mb": 93,
     "created_at": "2013-05-19T19:16:07Z",
     "last_commit_at": "2026-11-17T20:35:34Z",
@@ -55,13 +55,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 7,
+    "star_delta_7d": 9,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "88db14026ec9619e16680c630a889ec9b604cfb0",
-    "v": 3
-  }
+  "pins_before": [
+    "88db14026ec9619e16680c630a889ec9b604cfb0"
+  ],
+  "pinned_at": "2026-11-17T20:35:34Z"
 }

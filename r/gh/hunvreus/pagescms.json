@@ -1,0 +1,74 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6f4e860a35d934406580287e7042e5e111e207a1"
+  },
+  "id": "gh:hunvreus/pagescms",
+  "kind": "repo",
+  "url": "https://github.com/hunvreus/pagescms",
+  "title": "pagescms",
+  "why": "Edits content and media stored in a GitHub repo for Jekyll, Hugo, Astro and Next.js sites, through a hosted app or a local copy.",
+  "keys": {
+    "races": [
+      "web/cms",
+      "web/static-sites"
+    ],
+    "lanes": [
+      "web/cms",
+      "web/static-sites"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hunvreus/pagescms",
+    "sha": "6f4e860a35d934406580287e7042e5e111e207a1",
+    "file_url": "https://cdn.jsdelivr.net/gh/hunvreus/pagescms@6f4e860a35d934406580287e7042e5e111e207a1/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 4240,
+    "size_mb": 5,
+    "created_at": "2023-12-16T13:20:51Z",
+    "last_commit_at": "2026-06-08T12:29:07Z",
+    "releases": 31,
+    "tags": 51,
+    "archived": false,
+    "release": {
+      "tag": "2.1.8",
+      "at": "2026-06-08T13:20:35.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6f4e860a35d934406580287e7042e5e111e207a1",
+    "v": 4
+  },
+  "pinned_at": "2026-06-08T12:29:07Z"
+}

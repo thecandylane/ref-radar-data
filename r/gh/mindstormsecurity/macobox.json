@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:da652cd4c9faf14e140b2b372b5ffa0c4fab0639"
+  },
   "id": "gh:mindstormsecurity/macobox",
   "kind": "repo",
   "url": "https://github.com/mindstormsecurity/MACOBOX",
@@ -57,5 +60,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "da652cd4c9faf14e140b2b372b5ffa0c4fab0639",
+    "v": 3
+  },
+  "pinned_at": "2024-06-04T12:23:26Z"
 }

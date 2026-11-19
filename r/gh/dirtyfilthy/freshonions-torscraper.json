@@ -1,0 +1,63 @@
+{
+  "id": "gh:dirtyfilthy/freshonions-torscraper",
+  "kind": "repo",
+  "url": "https://github.com/dirtyfilthy/freshonions-torscraper",
+  "title": "freshonions-torscraper",
+  "why": "Spreads crawling over eight Tor instances, round-robined through squid and privoxy, since one Tor client ends up maxing out your CPU.",
+  "keys": {
+    "races": [
+      "privacy/anonymity",
+      "netsec/scanning"
+    ],
+    "lanes": [
+      "privacy/anonymity",
+      "netsec/scanning"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dirtyfilthy/freshonions-torscraper",
+    "sha": "ad0962168f0e8357ed6605e61d49c878ab997cdb",
+    "file_url": "https://cdn.jsdelivr.net/gh/dirtyfilthy/freshonions-torscraper@ad0962168f0e8357ed6605e61d49c878ab997cdb/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 544,
+    "size_mb": 2,
+    "created_at": "2017-02-15T03:33:04Z",
+    "last_commit_at": "2026-11-19T03:59:23Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pins_before": [
+    "381fdcebf1da7dd6f8b660ca5778d45382a11283"
+  ],
+  "pinned_at": "2026-11-19T03:59:23Z"
+}

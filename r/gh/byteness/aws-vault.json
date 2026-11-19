@@ -1,0 +1,63 @@
+{
+  "id": "gh:byteness/aws-vault",
+  "kind": "repo",
+  "url": "https://github.com/ByteNess/aws-vault",
+  "title": "aws-vault",
+  "why": "Keeps AWS IAM credentials in the system keychain and hands shells short-lived STS credentials, with MFA and role profiles.",
+  "keys": {
+    "races": [
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/secrets-management",
+      "cyber/identity/iam"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ByteNess/aws-vault",
+    "sha": "9acd4b5ff57090f8d9dcab36ac5ee459bcada6d4",
+    "file_url": "https://cdn.jsdelivr.net/gh/ByteNess/aws-vault@9acd4b5ff57090f8d9dcab36ac5ee459bcada6d4/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 491,
+    "size_mb": 11,
+    "created_at": "2025-05-22T20:15:33Z",
+    "last_commit_at": "2026-11-13T16:10:21Z",
+    "releases": 109,
+    "tags": 229,
+    "archived": false,
+    "release": {
+      "tag": "v7.18.0",
+      "at": "2026-11-13T16:49:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

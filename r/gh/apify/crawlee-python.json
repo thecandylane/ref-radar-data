@@ -1,0 +1,71 @@
+{
+  "id": "gh:apify/crawlee-python",
+  "kind": "repo",
+  "url": "https://github.com/apify/crawlee-python",
+  "title": "crawlee-python",
+  "why": "Picks plain HTTP with BeautifulSoup or a Playwright browser per crawler, with automatic retries when blocked and proxy rotation.",
+  "keys": {
+    "races": [
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/web-access",
+      "agents/tools/browser-automation"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apify/crawlee-python",
+    "sha": "d656fd81c57ccc413dca74d78d7587e2c1d7a128",
+    "file_url": "https://cdn.jsdelivr.net/gh/apify/crawlee-python@d656fd81c57ccc413dca74d78d7587e2c1d7a128/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 9680,
+    "size_mb": 51,
+    "created_at": "2024-01-10T08:44:47Z",
+    "last_commit_at": "2026-11-19T07:10:26Z",
+    "releases": 82,
+    "tags": 83,
+    "archived": false,
+    "release": {
+      "tag": "v1.11.2",
+      "at": "2026-11-10T10:12:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d656fd81c57ccc413dca74d78d7587e2c1d7a128",
+    "v": 4
+  },
+  "pins_before": [
+    "d8dd0d78f1e015428fb61528eff0719f9f84708c"
+  ],
+  "pinned_at": "2026-11-19T07:10:26Z"
+}

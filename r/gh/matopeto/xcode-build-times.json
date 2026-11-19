@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2f7caafa84b68bd575535e2b495bec821b6fe352"
+  },
+  "id": "gh:matopeto/xcode-build-times",
+  "kind": "repo",
+  "url": "https://github.com/matopeto/xcode-build-times",
+  "title": "xcode-build-times",
+  "why": "Shows in the macOS menu bar how long Xcode builds take, with daily totals, averages and medians, hooked in through Xcode behaviors.",
+  "keys": {
+    "races": [
+      "desktop/native-ui",
+      "practice/performance",
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "desktop/native-ui",
+      "practice/performance",
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/matopeto/xcode-build-times",
+    "sha": "2f7caafa84b68bd575535e2b495bec821b6fe352",
+    "file_url": "https://cdn.jsdelivr.net/gh/matopeto/xcode-build-times@2f7caafa84b68bd575535e2b495bec821b6fe352/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 167,
+    "size_mb": 2,
+    "created_at": "2020-04-26T19:23:03Z",
+    "last_commit_at": "2026-08-08T17:05:26Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2f7caafa84b68bd575535e2b495bec821b6fe352",
+    "v": 4
+  },
+  "pinned_at": "2026-08-08T17:05:26Z"
+}

@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a14f3a1f39b39803d57fbd48b2cf46b34840d953"
+  },
+  "id": "gh:rramatchandran/big-o-performance-java",
+  "kind": "repo",
+  "url": "https://github.com/rramatchandran/big-o-performance-java",
+  "title": "big-o-performance-java",
+  "why": "Compares what each data structure costs at runtime in a React page you run locally with npm start, to feel the Big-O differences.",
+  "keys": {
+    "races": [
+      "practice/performance",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "practice/performance",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rramatchandran/big-o-performance-java",
+    "sha": "a14f3a1f39b39803d57fbd48b2cf46b34840d953",
+    "file_url": "https://cdn.jsdelivr.net/gh/rramatchandran/big-o-performance-java@a14f3a1f39b39803d57fbd48b2cf46b34840d953/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 85,
+    "size_mb": 0,
+    "created_at": "2018-12-30T15:17:31Z",
+    "last_commit_at": "2018-12-30T18:50:18Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a14f3a1f39b39803d57fbd48b2cf46b34840d953",
+    "v": 4
+  },
+  "pinned_at": "2018-12-30T18:50:18Z"
+}

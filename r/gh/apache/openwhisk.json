@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:396d1e03d94170e73f9b2fc26ac57cf97f4704da"
-  },
   "id": "gh:apache/openwhisk",
   "kind": "repo",
   "url": "https://github.com/apache/openwhisk",
@@ -27,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/openwhisk",
-    "sha": "396d1e03d94170e73f9b2fc26ac57cf97f4704da",
-    "file_url": "https://cdn.jsdelivr.net/gh/apache/openwhisk@396d1e03d94170e73f9b2fc26ac57cf97f4704da/{path}"
+    "sha": "033793ea603e09ad5c5feaa29a4f9cb3cdcabaf2",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/openwhisk@033793ea603e09ad5c5feaa29a4f9cb3cdcabaf2/{path}"
   },
   "facts": {
     "lang": "Scala",
@@ -59,7 +56,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "396d1e03d94170e73f9b2fc26ac57cf97f4704da",
-    "v": 3
-  }
+    "sha": "033793ea603e09ad5c5feaa29a4f9cb3cdcabaf2",
+    "v": 4
+  },
+  "pins_before": [
+    "396d1e03d94170e73f9b2fc26ac57cf97f4704da"
+  ],
+  "pinned_at": "2026-11-13T19:15:59Z"
 }

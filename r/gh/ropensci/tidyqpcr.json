@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0d3f62f16ce3cc216a011ad5c64f270f34d1331d"
+  },
+  "id": "gh:ropensci/tidyqpcr",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/tidyqpcr",
+  "title": "tidyqpcr",
+  "why": "Lays out 96-well and 384-well plates and computes delta Cq results for qPCR in tibbles, following MIQE guidelines with four tutorial vignettes.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/tidyqpcr",
+    "sha": "0d3f62f16ce3cc216a011ad5c64f270f34d1331d",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/tidyqpcr@0d3f62f16ce3cc216a011ad5c64f270f34d1331d/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 60,
+    "size_mb": 18,
+    "created_at": "2019-09-14T09:39:04Z",
+    "last_commit_at": "2024-04-29T14:34:44Z",
+    "releases": 7,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2022-06-26T23:21:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0d3f62f16ce3cc216a011ad5c64f270f34d1331d",
+    "v": 4
+  },
+  "pinned_at": "2024-04-29T14:34:44Z"
+}

@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1635515440fcf13a01045aab3dd0cfb777a4b215"
+  },
+  "id": "gh:segasai/q3c",
+  "kind": "repo",
+  "url": "https://github.com/segasai/q3c",
+  "title": "q3c",
+  "why": "Adds spherical, sky-coordinate spatial indexing to PostgreSQL so astronomical catalog queries and nearest-neighbor searches run fast.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/databases",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/segasai/q3c",
+    "sha": "1635515440fcf13a01045aab3dd0cfb777a4b215",
+    "file_url": "https://cdn.jsdelivr.net/gh/segasai/q3c@1635515440fcf13a01045aab3dd0cfb777a4b215/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-2.0",
+    "stars": 89,
+    "size_mb": 2,
+    "created_at": "2015-03-28T15:01:30Z",
+    "last_commit_at": "2026-11-05T18:23:49Z",
+    "releases": 16,
+    "tags": 45,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.6",
+      "at": "2026-11-04T17:59:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1635515440fcf13a01045aab3dd0cfb777a4b215",
+    "v": 3
+  },
+  "pinned_at": "2026-11-05T18:23:49Z"
+}

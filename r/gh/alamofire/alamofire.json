@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:b3e74e8301cc53c8f82afb9db141d52952876e69"
+    "swh": "swh:1:rev:dea4bab91767a971d6e112bc955c6a82295589b7"
   },
   "id": "gh:alamofire/alamofire",
   "kind": "repo",
@@ -25,13 +25,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Alamofire/Alamofire",
-    "sha": "b3e74e8301cc53c8f82afb9db141d52952876e69",
-    "file_url": "https://cdn.jsdelivr.net/gh/Alamofire/Alamofire@b3e74e8301cc53c8f82afb9db141d52952876e69/{path}"
+    "sha": "dea4bab91767a971d6e112bc955c6a82295589b7",
+    "file_url": "https://cdn.jsdelivr.net/gh/Alamofire/Alamofire@dea4bab91767a971d6e112bc955c6a82295589b7/{path}"
   },
   "facts": {
     "lang": "Swift",
     "license": "MIT",
-    "stars": 42400,
+    "stars": 42399,
     "size_mb": 45,
     "created_at": "2014-07-31T05:56:19Z",
     "last_commit_at": "2026-11-14T03:41:37Z",
@@ -57,7 +57,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "b3e74e8301cc53c8f82afb9db141d52952876e69",
-    "v": 3
-  }
+    "sha": "dea4bab91767a971d6e112bc955c6a82295589b7",
+    "v": 4
+  },
+  "pins_before": [
+    "b3e74e8301cc53c8f82afb9db141d52952876e69"
+  ],
+  "pinned_at": "2026-11-14T03:41:37Z"
 }

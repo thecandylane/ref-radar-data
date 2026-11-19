@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bc383fcf649281ad291f2e255ca2280f6ced4b34"
+  },
+  "id": "gh:jbei/retrotide",
+  "kind": "repo",
+  "url": "https://github.com/JBEI/RetroTide",
+  "title": "RetroTide",
+  "why": "Designs polyketide synthase assemblies automatically from a target chemical structure, with a stereochemistry correction step for chimeric designs.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "engineering/chemistry"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "engineering/chemistry"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/JBEI/RetroTide",
+    "sha": "bc383fcf649281ad291f2e255ca2280f6ced4b34",
+    "file_url": "https://cdn.jsdelivr.net/gh/JBEI/RetroTide@bc383fcf649281ad291f2e255ca2280f6ced4b34/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "NOASSERTION",
+    "stars": 3,
+    "size_mb": 37,
+    "created_at": "2024-11-01T23:16:22Z",
+    "last_commit_at": "2026-09-18T00:55:28Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "bc383fcf649281ad291f2e255ca2280f6ced4b34",
+    "v": 4
+  },
+  "pinned_at": "2026-09-18T00:55:28Z"
+}

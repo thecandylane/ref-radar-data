@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:79bbe569fc86d3c4f70b356082a9e441805728de"
+    "swh": "swh:1:rev:b57a872374b9bc6be3d4b17650cf243e5308d964"
   },
   "id": "gh:evilmartians/lefthook",
   "kind": "repo",
@@ -33,13 +33,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/evilmartians/lefthook",
-    "sha": "79bbe569fc86d3c4f70b356082a9e441805728de",
-    "file_url": "https://cdn.jsdelivr.net/gh/evilmartians/lefthook@79bbe569fc86d3c4f70b356082a9e441805728de/{path}"
+    "sha": "b57a872374b9bc6be3d4b17650cf243e5308d964",
+    "file_url": "https://cdn.jsdelivr.net/gh/evilmartians/lefthook@b57a872374b9bc6be3d4b17650cf243e5308d964/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 9046,
+    "stars": 9048,
     "size_mb": 97,
     "created_at": "2019-02-05T14:00:56Z",
     "last_commit_at": "2026-11-16T08:25:05Z",
@@ -64,8 +64,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "79bbe569fc86d3c4f70b356082a9e441805728de",
-    "v": 3
-  }
+  "pins_before": [
+    "79bbe569fc86d3c4f70b356082a9e441805728de"
+  ],
+  "pinned_at": "2026-11-16T08:25:05Z"
 }

@@ -1,0 +1,65 @@
+{
+  "id": "gh:lnkiai/m3e-canvas",
+  "kind": "repo",
+  "url": "https://github.com/lnkiai/m3e-canvas",
+  "title": "m3e-canvas",
+  "why": "Next.js design tool for laying out Material 3 Expressive screens and exporting them as prompts for vibe coding.",
+  "keys": {
+    "races": [
+      "design/tools"
+    ],
+    "lanes": [
+      "design/tools"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lnkiai/m3e-canvas",
+    "sha": "49378e1e35f5de6aaadfcd3f852eeb0edffdbb95",
+    "file_url": "https://cdn.jsdelivr.net/gh/lnkiai/m3e-canvas@49378e1e35f5de6aaadfcd3f852eeb0edffdbb95/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 10638,
+    "size_mb": 29,
+    "created_at": "2026-09-02T04:36:34Z",
+    "last_commit_at": "2026-11-17T00:57:39Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "49378e1e35f5de6aaadfcd3f852eeb0edffdbb95",
+    "v": 3
+  }
+}

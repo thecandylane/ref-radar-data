@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:2f1e69ed409bf31ada0becffda5681bf08531a3a"
-  },
   "id": "gh:agentgateway/agentgateway",
   "kind": "repo",
   "url": "https://github.com/agentgateway/agentgateway",
@@ -33,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/agentgateway/agentgateway",
-    "sha": "2f1e69ed409bf31ada0becffda5681bf08531a3a",
-    "file_url": "https://cdn.jsdelivr.net/gh/agentgateway/agentgateway@2f1e69ed409bf31ada0becffda5681bf08531a3a/{path}"
+    "sha": "ed9b7c49008a211b24107e62ff7ac1890b15dc01",
+    "file_url": "https://cdn.jsdelivr.net/gh/agentgateway/agentgateway@ed9b7c49008a211b24107e62ff7ac1890b15dc01/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 6277,
+    "stars": 6299,
     "size_mb": 70,
     "created_at": "2025-03-18T20:55:22Z",
-    "last_commit_at": "2026-11-17T17:27:33Z",
+    "last_commit_at": "2026-11-18T22:51:20Z",
     "releases": 104,
     "tags": 110,
     "archived": false,
@@ -65,8 +62,12 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "2f1e69ed409bf31ada0becffda5681bf08531a3a",
-    "v": 3
+    "sha": "ed9b7c49008a211b24107e62ff7ac1890b15dc01",
+    "v": 4
   },
+  "pins_before": [
+    "2f1e69ed409bf31ada0becffda5681bf08531a3a"
+  ],
+  "pinned_at": "2026-11-18T22:51:20Z",
   "hot": true
 }

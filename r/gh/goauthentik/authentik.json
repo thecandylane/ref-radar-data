@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:98f94733d8f64672327f7f034a3658353e9f7e45"
-  },
   "id": "gh:goauthentik/authentik",
   "kind": "repo",
   "url": "https://github.com/goauthentik/authentik",
@@ -43,16 +40,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/goauthentik/authentik",
-    "sha": "98f94733d8f64672327f7f034a3658353e9f7e45",
-    "file_url": "https://cdn.jsdelivr.net/gh/goauthentik/authentik@98f94733d8f64672327f7f034a3658353e9f7e45/{path}"
+    "sha": "92c9df2abe8565ae862c5c7c4bc45eb0be61930b",
+    "file_url": "https://cdn.jsdelivr.net/gh/goauthentik/authentik@92c9df2abe8565ae862c5c7c4bc45eb0be61930b/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 26376,
+    "stars": 26386,
     "size_mb": 759,
     "created_at": "2019-12-30T09:19:48Z",
-    "last_commit_at": "2026-11-18T08:53:44Z",
+    "last_commit_at": "2026-11-19T08:16:58Z",
     "releases": 363,
     "tags": 470,
     "archived": false,
@@ -69,14 +66,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 71,
+    "star_delta_7d": 73,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "98f94733d8f64672327f7f034a3658353e9f7e45",
-    "v": 3
-  },
+  "pins_before": [
+    "98f94733d8f64672327f7f034a3658353e9f7e45"
+  ],
+  "pinned_at": "2026-11-19T08:16:58Z",
   "hot": true
 }

@@ -1,0 +1,62 @@
+{
+  "id": "gh:nahsra/antisamy",
+  "kind": "repo",
+  "url": "https://github.com/nahsra/antisamy",
+  "title": "antisamy",
+  "why": "Cleans untrusted HTML from user profiles and comments with policy files that filter, validate, remove, truncate or encode tags.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nahsra/antisamy",
+    "sha": "d3859a37d33bcdff17cca1aded90d5c9f2ac23d2",
+    "file_url": "https://cdn.jsdelivr.net/gh/nahsra/antisamy@d3859a37d33bcdff17cca1aded90d5c9f2ac23d2/{path}"
+  },
+  "facts": {
+    "lang": "DIGITAL Command Language",
+    "license": "BSD-3-Clause",
+    "stars": 207,
+    "size_mb": 5,
+    "created_at": "2016-09-24T22:00:02Z",
+    "last_commit_at": "2026-11-13T17:01:01Z",
+    "releases": 25,
+    "tags": 26,
+    "archived": false,
+    "release": {
+      "tag": "v1.7.8",
+      "at": "2025-05-07T22:41:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

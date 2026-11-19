@@ -26,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/1Panel-dev/1Panel",
-    "sha": "806de6307bd56b11883e04059ad9f1e41ecd06e8",
-    "file_url": "https://cdn.jsdelivr.net/gh/1Panel-dev/1Panel@806de6307bd56b11883e04059ad9f1e41ecd06e8/{path}"
+    "sha": "52790c0dca9579323e2593e55218b5a8e3d68e23",
+    "file_url": "https://cdn.jsdelivr.net/gh/1Panel-dev/1Panel@52790c0dca9579323e2593e55218b5a8e3d68e23/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "GPL-3.0",
-    "stars": 37463,
-    "size_mb": 112,
+    "stars": 37474,
+    "size_mb": 113,
     "created_at": "2022-07-19T15:44:52Z",
-    "last_commit_at": "2026-11-18T08:09:39Z",
+    "last_commit_at": "2026-11-19T08:12:17Z",
     "releases": 132,
     "tags": 135,
     "archived": false,
@@ -52,13 +52,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 34,
+    "star_delta_7d": 35,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "806de6307bd56b11883e04059ad9f1e41ecd06e8",
-    "v": 3
-  }
+    "sha": "52790c0dca9579323e2593e55218b5a8e3d68e23",
+    "v": 4
+  },
+  "pins_before": [
+    "806de6307bd56b11883e04059ad9f1e41ecd06e8"
+  ],
+  "pinned_at": "2026-11-19T08:12:17Z"
 }

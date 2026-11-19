@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:f992fe49fb72f3bf4d34396decfe3a49dec4cca5"
-  },
   "id": "gh:ariakit/ariakit",
   "kind": "repo",
   "url": "https://github.com/ariakit/ariakit",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ariakit/ariakit",
-    "sha": "f992fe49fb72f3bf4d34396decfe3a49dec4cca5",
-    "file_url": "https://cdn.jsdelivr.net/gh/ariakit/ariakit@f992fe49fb72f3bf4d34396decfe3a49dec4cca5/{path}"
+    "sha": "18cd31acb99f15bd25951fb2f93bf423acfc00e6",
+    "file_url": "https://cdn.jsdelivr.net/gh/ariakit/ariakit@18cd31acb99f15bd25951fb2f93bf423acfc00e6/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "none",
-    "stars": 8642,
+    "stars": 8641,
     "size_mb": 386,
     "created_at": "2017-09-19T22:00:42Z",
-    "last_commit_at": "2026-11-18T07:26:25Z",
+    "last_commit_at": "2026-11-19T03:27:10Z",
     "releases": 512,
     "tags": 1023,
     "archived": false,
@@ -61,13 +58,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 10,
+    "star_delta_7d": 9,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "f992fe49fb72f3bf4d34396decfe3a49dec4cca5",
-    "v": 3
-  }
+    "sha": "18cd31acb99f15bd25951fb2f93bf423acfc00e6",
+    "v": 4
+  },
+  "pins_before": [
+    "f992fe49fb72f3bf4d34396decfe3a49dec4cca5"
+  ],
+  "pinned_at": "2026-11-19T03:27:10Z"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5f3b46f048f9f0a693702cea5f29f2eaad840204"
-  },
   "id": "gh:gboeing/osmnx",
   "kind": "repo",
   "url": "https://github.com/gboeing/osmnx",
@@ -25,18 +22,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/gboeing/osmnx",
-    "sha": "5f3b46f048f9f0a693702cea5f29f2eaad840204",
-    "file_url": "https://cdn.jsdelivr.net/gh/gboeing/osmnx@5f3b46f048f9f0a693702cea5f29f2eaad840204/{path}"
+    "sha": "af346c03401c3f6960ae84617061fa5108533183",
+    "file_url": "https://cdn.jsdelivr.net/gh/gboeing/osmnx@af346c03401c3f6960ae84617061fa5108533183/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 5906,
+    "stars": 5907,
     "size_mb": 8,
     "created_at": "2016-07-24T02:57:47Z",
-    "last_commit_at": "2026-11-17T00:34:18Z",
+    "last_commit_at": "2026-11-18T21:33:14Z",
     "releases": 0,
-    "tags": 83,
+    "tags": 84,
     "archived": false,
     "release": null
   },
@@ -53,8 +50,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "5f3b46f048f9f0a693702cea5f29f2eaad840204",
-    "v": 3
-  }
+  "pins_before": [
+    "5f3b46f048f9f0a693702cea5f29f2eaad840204"
+  ],
+  "pinned_at": "2026-11-18T21:33:14Z"
 }

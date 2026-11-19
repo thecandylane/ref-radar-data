@@ -1,0 +1,60 @@
+{
+  "id": "gh:acruzgarcia/omiedata",
+  "kind": "repo",
+  "url": "https://github.com/acruzgarcia/OMIEData",
+  "title": "OMIEData",
+  "why": "Pulls OMIE daily and intra-day market prices, energy by technology and bid curves into pandas data frames for Spain and Portugal.",
+  "keys": {
+    "races": [
+      "energy/grid-data",
+      "data/datasets"
+    ],
+    "lanes": [
+      "energy/grid-data",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/acruzgarcia/OMIEData",
+    "sha": "2683a639ea57946c453a4157ddd40c6f9252f00d",
+    "file_url": "https://cdn.jsdelivr.net/gh/acruzgarcia/OMIEData@2683a639ea57946c453a4157ddd40c6f9252f00d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 38,
+    "size_mb": 1,
+    "created_at": "2020-10-24T18:02:03Z",
+    "last_commit_at": "2025-08-10T18:47:08Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2683a639ea57946c453a4157ddd40c6f9252f00d",
+    "v": 4
+  },
+  "pinned_at": "2025-08-10T18:47:08Z"
+}

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:227769493b2cd2fce5c82d3be42c769a947e0f70"
-  },
   "id": "gh:microsoft/pyright",
   "kind": "repo",
   "url": "https://github.com/microsoft/pyright",
@@ -29,18 +26,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/microsoft/pyright",
-    "sha": "227769493b2cd2fce5c82d3be42c769a947e0f70",
-    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/pyright@227769493b2cd2fce5c82d3be42c769a947e0f70/{path}"
+    "sha": "8daba0c71533a23e029f5c2879f6e805a770838a",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/pyright@8daba0c71533a23e029f5c2879f6e805a770838a/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 15751,
+    "stars": 15752,
     "size_mb": 138,
     "created_at": "2019-03-12T03:38:46Z",
-    "last_commit_at": "2026-11-17T23:56:56Z",
+    "last_commit_at": "2026-11-18T23:07:54Z",
     "releases": 495,
-    "tags": 495,
+    "tags": 496,
     "archived": false,
     "release": {
       "tag": "1.1.414",
@@ -55,13 +52,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 10,
+    "star_delta_7d": 8,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "227769493b2cd2fce5c82d3be42c769a947e0f70",
-    "v": 3
-  }
+  "pins_before": [
+    "227769493b2cd2fce5c82d3be42c769a947e0f70"
+  ],
+  "pinned_at": "2026-11-18T23:07:54Z"
 }

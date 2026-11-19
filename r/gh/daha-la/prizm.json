@@ -1,0 +1,63 @@
+{
+  "id": "gh:daha-la/prizm",
+  "kind": "repo",
+  "url": "https://github.com/daha-la/PRIZM",
+  "title": "PRIZM",
+  "why": "Picks the zero-shot protein model that correlates with a small experimental dataset, then ranks in silico mutants with it.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "ml/training"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/daha-la/PRIZM",
+    "sha": "fea57b89eb84844d340c1fe5bd5a70ded9d93014",
+    "file_url": "https://raw.githubusercontent.com/daha-la/PRIZM/fea57b89eb84844d340c1fe5bd5a70ded9d93014/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 12,
+    "size_mb": 715,
+    "created_at": "2025-01-10T09:03:28Z",
+    "last_commit_at": "2026-09-29T07:37:36Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.2",
+      "at": "2026-09-29T08:53:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fea57b89eb84844d340c1fe5bd5a70ded9d93014",
+    "v": 4
+  },
+  "pinned_at": "2026-09-29T07:37:36Z"
+}

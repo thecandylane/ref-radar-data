@@ -1,0 +1,67 @@
+{
+  "id": "gh:drix10/ai-resources",
+  "kind": "repo",
+  "url": "https://github.com/Drix10/ai-resources",
+  "title": "ai-resources",
+  "why": "Answers what changed in AI this week from dated briefings, each with a source link, through an MCP server or a skill.",
+  "keys": {
+    "races": [
+      "media/news",
+      "agents/skills",
+      "agents/tools"
+    ],
+    "lanes": [
+      "media/news",
+      "agents/skills",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Drix10/ai-resources",
+    "sha": "73a9f3bc441dcf9fbb9366a3a0e8caf3a8692ee9",
+    "file_url": "https://cdn.jsdelivr.net/gh/Drix10/ai-resources@73a9f3bc441dcf9fbb9366a3a0e8caf3a8692ee9/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "CC-BY-4.0",
+    "stars": 133,
+    "size_mb": 40,
+    "created_at": "2024-11-12T18:34:01Z",
+    "last_commit_at": "2026-11-17T16:46:01Z",
+    "releases": 202,
+    "tags": 202,
+    "archived": false,
+    "release": {
+      "tag": "v0.0.202",
+      "at": "2026-08-02T10:44:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "73a9f3bc441dcf9fbb9366a3a0e8caf3a8692ee9",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T16:46:01Z"
+}

@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8ac3ffde96ab72d992b5d5cf1743673e610cb07b"
+  },
+  "id": "gh:smol-ai/godmode",
+  "kind": "repo",
+  "url": "https://github.com/smol-ai/GodMode",
+  "title": "GodMode",
+  "why": "Sends what you type to ChatGPT, Claude, Bing and Bard webapps simultaneously from one Cmd+Shift+G shortcut, each webview independent.",
+  "keys": {
+    "races": [
+      "llm-infra/chat-apps",
+      "desktop/app-shells"
+    ],
+    "lanes": [
+      "llm-infra/chat-apps",
+      "desktop/app-shells"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/smol-ai/GodMode",
+    "sha": "8ac3ffde96ab72d992b5d5cf1743673e610cb07b",
+    "file_url": "https://cdn.jsdelivr.net/gh/smol-ai/GodMode@8ac3ffde96ab72d992b5d5cf1743673e610cb07b/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 6212,
+    "size_mb": 6,
+    "created_at": "2023-05-15T07:39:14Z",
+    "last_commit_at": "2023-11-17T01:32:46Z",
+    "releases": 28,
+    "tags": 29,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0-beta.10",
+      "at": "2023-11-17T02:30:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8ac3ffde96ab72d992b5d5cf1743673e610cb07b",
+    "v": 4
+  },
+  "pinned_at": "2023-11-17T01:32:46Z"
+}

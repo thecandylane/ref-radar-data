@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3b0c73833cad75136065f76ab58b706fa240385b"
+  },
+  "id": "gh:mfix22/eitherx",
+  "kind": "repo",
+  "url": "https://github.com/mfix22/eitherx",
+  "title": "eitherx",
+  "why": "Wraps a React subtree so a render error shows a second child instead, in wrapper or render-prop style.",
+  "keys": {
+    "races": [
+      "web/ui-components"
+    ],
+    "lanes": [
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mfix22/eitherx",
+    "sha": "3b0c73833cad75136065f76ab58b706fa240385b",
+    "file_url": "https://cdn.jsdelivr.net/gh/mfix22/eitherx@3b0c73833cad75136065f76ab58b706fa240385b/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 91,
+    "size_mb": 0,
+    "created_at": "2017-10-15T20:02:37Z",
+    "last_commit_at": "2022-05-07T18:43:09Z",
+    "releases": 3,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.3",
+      "at": "2021-08-15T01:48:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3b0c73833cad75136065f76ab58b706fa240385b",
+    "v": 4
+  },
+  "pinned_at": "2022-05-07T18:43:09Z"
+}

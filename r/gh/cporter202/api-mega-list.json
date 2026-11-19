@@ -1,0 +1,64 @@
+{
+  "id": "gh:cporter202/api-mega-list",
+  "kind": "repo",
+  "url": "https://github.com/cporter202/API-mega-list",
+  "title": "API-mega-list",
+  "why": "Browse thousands of ready-made scraping and automation APIs by category, from lead generation to real estate, before building your own scrapers.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "sales/prospecting",
+      "seo/site-audits"
+    ],
+    "lanes": [
+      "agents/tools",
+      "sales/prospecting",
+      "seo/site-audits"
+    ],
+    "capabilities": [
+      "agents/tools/api-directories"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cporter202/API-mega-list",
+    "sha": "b7c914f5abd7d0f7562bd1f2036411d3c8f7c29e",
+    "file_url": "https://cdn.jsdelivr.net/gh/cporter202/API-mega-list@b7c914f5abd7d0f7562bd1f2036411d3c8f7c29e/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "none",
+    "stars": 8404,
+    "size_mb": 35,
+    "created_at": "2025-12-09T15:36:20Z",
+    "last_commit_at": "2026-10-20T04:13:52Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b7c914f5abd7d0f7562bd1f2036411d3c8f7c29e",
+    "v": 4
+  },
+  "pinned_at": "2026-10-20T04:13:52Z"
+}

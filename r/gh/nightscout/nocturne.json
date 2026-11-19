@@ -1,0 +1,74 @@
+{
+  "id": "gh:nightscout/nocturne",
+  "kind": "repo",
+  "url": "https://github.com/nightscout/nocturne",
+  "title": "nocturne",
+  "why": "Serves the Nightscout API in C# on PostgreSQL, pulling glucose data from Dexcom, Glooko and LibreLinkUp connectors.",
+  "keys": {
+    "races": [
+      "medicine/diabetes-tech",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "medicine/diabetes-tech",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "sdk",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nightscout/nocturne",
+    "sha": "30ee1f282cf87a2d115def3e9f7477af952c0d67",
+    "file_url": "https://cdn.jsdelivr.net/gh/nightscout/nocturne@30ee1f282cf87a2d115def3e9f7477af952c0d67/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "none",
+    "stars": 169,
+    "size_mb": 209,
+    "created_at": "2025-11-15T17:41:39Z",
+    "last_commit_at": "2026-11-18T20:25:57Z",
+    "releases": 18,
+    "tags": 27,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.2",
+      "at": "2026-11-15T01:45:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "30ee1f282cf87a2d115def3e9f7477af952c0d67",
+    "v": 4
+  }
+}

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:09eb72096d5d29d2cd07997c98dc2d1d6006acaa"
-  },
   "id": "gh:babylonjs/babylon.js",
   "kind": "repo",
   "url": "https://github.com/BabylonJS/Babylon.js",
@@ -31,22 +28,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/BabylonJS/Babylon.js",
-    "sha": "09eb72096d5d29d2cd07997c98dc2d1d6006acaa",
-    "file_url": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/09eb72096d5d29d2cd07997c98dc2d1d6006acaa/{path}"
+    "sha": "abaa867956b4a03ebb81054ac5ec0f9ef0320a21",
+    "file_url": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/abaa867956b4a03ebb81054ac5ec0f9ef0320a21/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 26394,
-    "size_mb": 1463,
+    "stars": 26401,
+    "size_mb": 1461,
     "created_at": "2013-06-27T20:40:42Z",
-    "last_commit_at": "2026-11-17T23:52:38Z",
-    "releases": 676,
-    "tags": 917,
+    "last_commit_at": "2026-11-19T08:01:29Z",
+    "releases": 677,
+    "tags": 918,
     "archived": false,
     "release": {
-      "tag": "9.37.0",
-      "at": "2026-11-16T19:28:24.000Z"
+      "tag": "9.37.1",
+      "at": "2026-11-18T11:53:36.000Z"
     }
   },
   "reuse": "copy",
@@ -57,13 +54,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 70,
+    "star_delta_7d": 71,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "09eb72096d5d29d2cd07997c98dc2d1d6006acaa",
-    "v": 3
-  }
+    "sha": "abaa867956b4a03ebb81054ac5ec0f9ef0320a21",
+    "v": 4
+  },
+  "pins_before": [
+    "09eb72096d5d29d2cd07997c98dc2d1d6006acaa"
+  ],
+  "pinned_at": "2026-11-19T08:01:29Z"
 }

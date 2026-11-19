@@ -1,0 +1,68 @@
+{
+  "id": "gh:cobra91/better-ccusage",
+  "kind": "repo",
+  "url": "https://github.com/cobra91/better-ccusage",
+  "title": "better-ccusage",
+  "why": "Reads local JSONL files from Claude Code, Droid and codex to total token usage and cost across several agent tools.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cobra91/better-ccusage",
+    "sha": "c845567e696a3ef3f42a839939cdff09933675b2",
+    "file_url": "https://cdn.jsdelivr.net/gh/cobra91/better-ccusage@c845567e696a3ef3f42a839939cdff09933675b2/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 92,
+    "size_mb": 12,
+    "created_at": "2025-09-25T08:59:23Z",
+    "last_commit_at": "2026-11-18T14:32:27Z",
+    "releases": 27,
+    "tags": 128,
+    "archived": false,
+    "release": {
+      "tag": "v1.8.2",
+      "at": "2026-11-02T15:47:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c845567e696a3ef3f42a839939cdff09933675b2",
+    "v": 4
+  }
+}

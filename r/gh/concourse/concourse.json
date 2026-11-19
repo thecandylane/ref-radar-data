@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ba1eed4b7af562ea1ae2fd0b4deaf5390654b482"
-  },
   "id": "gh:concourse/concourse",
   "kind": "repo",
   "url": "https://github.com/concourse/concourse",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/concourse/concourse",
-    "sha": "ba1eed4b7af562ea1ae2fd0b4deaf5390654b482",
-    "file_url": "https://cdn.jsdelivr.net/gh/concourse/concourse@ba1eed4b7af562ea1ae2fd0b4deaf5390654b482/{path}"
+    "sha": "a541626c27d97c3b2c284e439b7c541de39a4443",
+    "file_url": "https://cdn.jsdelivr.net/gh/concourse/concourse@a541626c27d97c3b2c284e439b7c541de39a4443/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -63,7 +60,11 @@
   },
   "tier": "curated",
   "pack": {
-    "sha": "ba1eed4b7af562ea1ae2fd0b4deaf5390654b482",
-    "v": 3
-  }
+    "sha": "a541626c27d97c3b2c284e439b7c541de39a4443",
+    "v": 4
+  },
+  "pins_before": [
+    "ba1eed4b7af562ea1ae2fd0b4deaf5390654b482"
+  ],
+  "pinned_at": "2026-11-16T11:10:08Z"
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:30e1c6ff91f5ab67148b4dc4ec1333c297d74450"
+  },
   "id": "gh:apache/pulsar-client-go",
   "kind": "repo",
   "url": "https://github.com/apache/pulsar-client-go",
@@ -55,7 +58,7 @@
   "tier": "curated",
   "pack": {
     "sha": "30e1c6ff91f5ab67148b4dc4ec1333c297d74450",
-    "v": 3
+    "v": 4
   },
   "pins_before": [
     "15b0a140955f46bc13ed0c6873c7c52f127a9383"

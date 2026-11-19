@@ -1,0 +1,61 @@
+{
+  "id": "gh:nanograv/pint",
+  "kind": "repo",
+  "url": "https://github.com/nanograv/PINT",
+  "title": "PINT",
+  "why": "Python pulsar timing software for precise timing models, checked against tempo2 in its validation and test folders.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nanograv/PINT",
+    "sha": "5266ab3585f73a4f36a074fc442b16af91a3d8d1",
+    "file_url": "https://cdn.jsdelivr.net/gh/nanograv/PINT@5266ab3585f73a4f36a074fc442b16af91a3d8d1/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 149,
+    "size_mb": 95,
+    "created_at": "2013-12-04T22:21:19Z",
+    "last_commit_at": "2026-10-24T03:40:11Z",
+    "releases": 20,
+    "tags": 43,
+    "archived": false,
+    "release": {
+      "tag": "1.1.8",
+      "at": "2026-10-08T17:25:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "scan_partial": true
+}

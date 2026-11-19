@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fadea3b44e0dea41f4b66961721a65efa179c425"
+  },
+  "id": "gh:openrtb/examples",
+  "kind": "repo",
+  "url": "https://github.com/openrtb/examples",
+  "title": "openrtb/examples",
+  "why": "Sample OpenRTB requests and responses from Brandscreen, Rubicon Project and Spotxchange, to test an ad server against real payloads.",
+  "keys": {
+    "races": [
+      "marketing/ad-tech"
+    ],
+    "lanes": [
+      "marketing/ad-tech"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openrtb/examples",
+    "sha": "fadea3b44e0dea41f4b66961721a65efa179c425",
+    "file_url": "https://cdn.jsdelivr.net/gh/openrtb/examples@fadea3b44e0dea41f4b66961721a65efa179c425/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "none",
+    "stars": 149,
+    "size_mb": 0,
+    "created_at": "2014-01-15T16:29:51Z",
+    "last_commit_at": "2014-04-23T05:53:01Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fadea3b44e0dea41f4b66961721a65efa179c425",
+    "v": 4
+  },
+  "pinned_at": "2014-04-23T05:53:01Z"
+}

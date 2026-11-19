@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:63e4825784213e740bd6285ce06671600e82c744"
+  },
+  "id": "gh:isovector/ecstasy",
+  "kind": "repo",
+  "url": "https://github.com/isovector/ecstasy",
+  "title": "ecstasy",
+  "why": "Lets you derive performant entity stores from a plain record of components with GHC.Generics and type families, in idiomatic Haskell.",
+  "keys": {
+    "races": [
+      "games/engines"
+    ],
+    "lanes": [
+      "games/engines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.markdown",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/isovector/ecstasy",
+    "sha": "63e4825784213e740bd6285ce06671600e82c744",
+    "file_url": "https://cdn.jsdelivr.net/gh/isovector/ecstasy@63e4825784213e740bd6285ce06671600e82c744/{path}"
+  },
+  "facts": {
+    "lang": "Haskell",
+    "license": "BSD-3-Clause",
+    "stars": 77,
+    "size_mb": 0,
+    "created_at": "2017-12-05T06:03:53Z",
+    "last_commit_at": "2020-01-21T05:38:11Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.1.1",
+      "at": "2018-05-17T09:39:15.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "63e4825784213e740bd6285ce06671600e82c744",
+    "v": 4
+  },
+  "pinned_at": "2020-01-21T05:38:11Z"
+}

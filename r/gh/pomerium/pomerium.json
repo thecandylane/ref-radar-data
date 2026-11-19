@@ -1,0 +1,70 @@
+{
+  "id": "gh:pomerium/pomerium",
+  "kind": "repo",
+  "url": "https://github.com/pomerium/pomerium",
+  "title": "pomerium",
+  "why": "Reverse proxy that puts identity and context checks in front of internal web apps, so they need no corporate VPN client.",
+  "keys": {
+    "races": [
+      "cyber/identity",
+      "infra/networking"
+    ],
+    "lanes": [
+      "cyber/identity",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pomerium/pomerium",
+    "sha": "281830c45247c964507a705edf532067c8e31151",
+    "file_url": "https://cdn.jsdelivr.net/gh/pomerium/pomerium@281830c45247c964507a705edf532067c8e31151/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 5108,
+    "size_mb": 86,
+    "created_at": "2019-01-01T08:04:37Z",
+    "last_commit_at": "2026-11-16T16:51:41Z",
+    "releases": 159,
+    "tags": 179,
+    "archived": false,
+    "release": {
+      "tag": "v0.34.1",
+      "at": "2026-11-11T17:32:29.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

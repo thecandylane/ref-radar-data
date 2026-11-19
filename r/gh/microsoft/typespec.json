@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:ccde4f5b0f3ac1ec867c9dbc2ad339478895427c"
+    "swh": "swh:1:rev:3b98b20aef4f9765d74eb637a1b0cc3688800e37"
   },
   "id": "gh:microsoft/typespec",
   "kind": "repo",
@@ -31,16 +31,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/microsoft/typespec",
-    "sha": "ccde4f5b0f3ac1ec867c9dbc2ad339478895427c",
-    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/typespec@ccde4f5b0f3ac1ec867c9dbc2ad339478895427c/{path}"
+    "sha": "3b98b20aef4f9765d74eb637a1b0cc3688800e37",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/typespec@3b98b20aef4f9765d74eb637a1b0cc3688800e37/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "MIT",
-    "stars": 5947,
-    "size_mb": 108,
+    "stars": 5949,
+    "size_mb": 109,
     "created_at": "2021-06-30T23:29:49Z",
-    "last_commit_at": "2026-11-17T19:15:26Z",
+    "last_commit_at": "2026-11-18T16:28:29Z",
     "releases": 620,
     "tags": 638,
     "archived": false,
@@ -62,8 +62,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "ccde4f5b0f3ac1ec867c9dbc2ad339478895427c",
-    "v": 3
-  }
+  "pins_before": [
+    "ccde4f5b0f3ac1ec867c9dbc2ad339478895427c"
+  ],
+  "pinned_at": "2026-11-18T16:28:29Z"
 }

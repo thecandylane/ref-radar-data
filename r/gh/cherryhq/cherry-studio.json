@@ -34,18 +34,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/CherryHQ/cherry-studio",
-    "sha": "bc215da7204393c838b92bd19a4cfad20ec7d78d",
-    "file_url": "https://raw.githubusercontent.com/CherryHQ/cherry-studio/bc215da7204393c838b92bd19a4cfad20ec7d78d/{path}"
+    "sha": "377e7f641b01aa3a1720c5f31cd25ead0a7da7a6",
+    "file_url": "https://raw.githubusercontent.com/CherryHQ/cherry-studio/377e7f641b01aa3a1720c5f31cd25ead0a7da7a6/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 53620,
-    "size_mb": 865,
+    "stars": 53651,
+    "size_mb": 870,
     "created_at": "2024-05-24T01:56:26Z",
-    "last_commit_at": "2026-11-18T08:09:59Z",
+    "last_commit_at": "2026-11-19T08:29:15Z",
     "releases": 296,
-    "tags": 346,
+    "tags": 347,
     "archived": false,
     "release": {
       "tag": "v2.2.2",
@@ -60,13 +60,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 196,
+    "star_delta_7d": 210,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "bc215da7204393c838b92bd19a4cfad20ec7d78d",
-    "v": 3
-  }
+    "sha": "377e7f641b01aa3a1720c5f31cd25ead0a7da7a6",
+    "v": 4
+  },
+  "pins_before": [
+    "bc215da7204393c838b92bd19a4cfad20ec7d78d"
+  ],
+  "pinned_at": "2026-11-19T08:29:15Z"
 }
