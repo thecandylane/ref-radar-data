@@ -1,0 +1,80 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e950aa2cf1974c02816c1542f20beabf7cca496b"
+  },
+  "id": "gh:patrick-kidger/diffrax",
+  "kind": "repo",
+  "url": "https://github.com/patrick-kidger/diffrax",
+  "title": "diffrax",
+  "why": "Pick it for ODE, SDE and controlled equation solves in JAX, with adjoint methods and Brownian paths for stochastic terms.",
+  "keys": {
+    "races": [
+      "sci/numerics",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "sci/numerics",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/patrick-kidger/diffrax",
+    "sha": "e950aa2cf1974c02816c1542f20beabf7cca496b",
+    "file_url": "https://cdn.jsdelivr.net/gh/patrick-kidger/diffrax@e950aa2cf1974c02816c1542f20beabf7cca496b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 2128,
+    "size_mb": 8,
+    "created_at": "2021-07-25T23:42:12Z",
+    "last_commit_at": "2026-09-06T08:35:31Z",
+    "releases": 21,
+    "tags": 24,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.2",
+      "at": "2026-02-18T01:14:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e950aa2cf1974c02816c1542f20beabf7cca496b",
+    "v": 4
+  },
+  "pinned_at": "2026-09-06T08:35:31Z",
+  "papers": [
+    {
+      "id": "arxiv:2405.06464",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2202.02435",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

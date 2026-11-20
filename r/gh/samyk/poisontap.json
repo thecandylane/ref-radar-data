@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:076dc29e54544df3fa26e5a6bf217567e31778e9"
+  },
+  "id": "gh:samyk/poisontap",
+  "kind": "repo",
+  "url": "https://github.com/samyk/poisontap",
+  "title": "poisontap",
+  "why": "Raspberry Pi Zero USB attack that hijacks traffic from a locked machine, siphons cookies and leaves a persistent WebSocket backdoor, with defenses listed.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "infra/networking",
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "infra/networking",
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/samyk/poisontap",
+    "sha": "076dc29e54544df3fa26e5a6bf217567e31778e9",
+    "file_url": "https://cdn.jsdelivr.net/gh/samyk/poisontap@076dc29e54544df3fa26e5a6bf217567e31778e9/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "none",
+    "stars": 6482,
+    "size_mb": 4,
+    "created_at": "2016-11-16T11:51:34Z",
+    "last_commit_at": "2018-11-26T16:50:43Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "076dc29e54544df3fa26e5a6bf217567e31778e9",
+    "v": 4
+  },
+  "pinned_at": "2018-11-26T16:50:43Z"
+}

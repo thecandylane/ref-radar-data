@@ -1,0 +1,70 @@
+{
+  "id": "gh:renovatebot/osv-offline",
+  "kind": "repo",
+  "url": "https://github.com/renovatebot/osv-offline",
+  "title": "osv-offline",
+  "why": "Node.js packages that load osv.dev security advisories into a local database, so vulnerability checks run without calling the API.",
+  "keys": {
+    "races": [
+      "cyber/supply-chain",
+      "cyber/appsec",
+      "data/datasets"
+    ],
+    "lanes": [
+      "cyber/supply-chain",
+      "cyber/appsec",
+      "data/datasets"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/renovatebot/osv-offline",
+    "sha": "fbe5a85e6db77cbd8df67d01d330cd361f4c8300",
+    "file_url": "https://cdn.jsdelivr.net/gh/renovatebot/osv-offline@fbe5a85e6db77cbd8df67d01d330cd361f4c8300/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 25,
+    "size_mb": 8,
+    "created_at": "2021-02-08T00:07:17Z",
+    "last_commit_at": "2026-11-19T20:17:40Z",
+    "releases": 62,
+    "tags": 174,
+    "archived": false,
+    "release": {
+      "tag": "1-20261120080318",
+      "at": "2026-11-20T08:08:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fbe5a85e6db77cbd8df67d01d330cd361f4c8300",
+    "v": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "gh:sksarvesh007/antiglaude",
+  "kind": "repo",
+  "url": "https://github.com/sksarvesh007/antiglaude",
+  "title": "antiglaude",
+  "why": "Lets Claude Code talk to Gemini models by translating Anthropic Messages calls, with an observer for the traffic.",
+  "keys": {
+    "races": [
+      "llm-infra/gateways",
+      "infra/observability",
+      "agents/coding"
+    ],
+    "lanes": [
+      "llm-infra/gateways",
+      "infra/observability",
+      "agents/coding"
+    ],
+    "capabilities": [
+      "llm-infra/gateways/llm-gateway"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sksarvesh007/antiglaude",
+    "sha": "3cf2f57e18792d3f091c2c53b54530d13b15b70e",
+    "file_url": "https://cdn.jsdelivr.net/gh/sksarvesh007/antiglaude@3cf2f57e18792d3f091c2c53b54530d13b15b70e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 99,
+    "size_mb": 0,
+    "created_at": "2026-11-03T19:49:06Z",
+    "last_commit_at": "2026-11-04T21:39:17Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-11-03T20:17:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "fresh": true
+}

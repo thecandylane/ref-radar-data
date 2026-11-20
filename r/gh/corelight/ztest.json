@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:864454f71bfe12c4ec8ec2e587f44e8e4d5f1aeb"
+  },
   "id": "gh:corelight/ztest",
   "kind": "repo",
   "url": "https://github.com/corelight/ztest",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "Zeek",
     "license": "BSD-3-Clause",
-    "stars": 3,
+    "stars": 4,
     "size_mb": 0,
     "created_at": "2020-08-21T13:31:38Z",
     "last_commit_at": "2021-07-02T20:05:59Z",
@@ -53,5 +56,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "864454f71bfe12c4ec8ec2e587f44e8e4d5f1aeb",
+    "v": 4
+  },
+  "pinned_at": "2021-07-02T20:05:59Z"
 }

@@ -9,10 +9,12 @@
   "why": "Provides the firmware for the HackRF plus PortaPack H1, H2, H4 and H4M handheld software defined radio.",
   "keys": {
     "races": [
-      "embedded/firmware"
+      "embedded/firmware",
+      "hardware/radio"
     ],
     "lanes": [
-      "embedded/firmware"
+      "embedded/firmware",
+      "hardware/radio"
     ],
     "capabilities": []
   },
@@ -51,7 +53,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 12,
+    "star_delta_7d": 9,
     "votes": {},
     "ranks": {}
   },

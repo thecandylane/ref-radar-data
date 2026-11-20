@@ -1,0 +1,74 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:119ab9d3a22dff6f1492f2556ec5e8077a3c6db1"
+  },
+  "id": "gh:npm/metavuln-calculator",
+  "kind": "repo",
+  "url": "https://github.com/npm/metavuln-calculator",
+  "title": "metavuln-calculator",
+  "why": "Works out which packages are vulnerable only because a dependency is, using binary search across version sets to keep checks few.",
+  "keys": {
+    "races": [
+      "cyber/supply-chain",
+      "cyber/appsec",
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "cyber/supply-chain",
+      "cyber/appsec",
+      "dev-tools/build"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/npm/metavuln-calculator",
+    "sha": "119ab9d3a22dff6f1492f2556ec5e8077a3c6db1",
+    "file_url": "https://cdn.jsdelivr.net/gh/npm/metavuln-calculator@119ab9d3a22dff6f1492f2556ec5e8077a3c6db1/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "ISC",
+    "stars": 15,
+    "size_mb": 6,
+    "created_at": "2020-09-09T21:17:18Z",
+    "last_commit_at": "2026-06-18T15:48:27Z",
+    "releases": 21,
+    "tags": 27,
+    "archived": false,
+    "release": {
+      "tag": "v10.0.0",
+      "at": "2026-06-15T20:43:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "119ab9d3a22dff6f1492f2556ec5e8077a3c6db1",
+    "v": 4
+  },
+  "pinned_at": "2026-06-18T15:48:27Z"
+}

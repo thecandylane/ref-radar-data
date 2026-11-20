@@ -1,0 +1,68 @@
+{
+  "id": "gh:optimatika/ojalgo",
+  "kind": "repo",
+  "url": "https://github.com/optimatika/ojAlgo",
+  "title": "ojAlgo",
+  "why": "Java library for arrays, matrices and vector algebra, plus a neural network trainer with lasso and ridge regularisation.",
+  "keys": {
+    "races": [
+      "sci/numerics",
+      "sci/optimization",
+      "ml/training"
+    ],
+    "lanes": [
+      "sci/numerics",
+      "sci/optimization",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/optimatika/ojAlgo",
+    "sha": "d892ea8fbaef52cf299364c17456ac833f909fd6",
+    "file_url": "https://cdn.jsdelivr.net/gh/optimatika/ojAlgo@d892ea8fbaef52cf299364c17456ac833f909fd6/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "MIT",
+    "stars": 516,
+    "size_mb": 81,
+    "created_at": "2013-10-06T17:20:10Z",
+    "last_commit_at": "2026-11-19T15:19:43Z",
+    "releases": 11,
+    "tags": 77,
+    "archived": false,
+    "release": {
+      "tag": "v58.0.0",
+      "at": "2026-11-11T18:24:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d892ea8fbaef52cf299364c17456ac833f909fd6",
+    "v": 4
+  }
+}

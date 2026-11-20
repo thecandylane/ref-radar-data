@@ -6,10 +6,12 @@
   "why": "Couples parallel scientific codes over MPI so separate solvers can exchange data in one multi-physics run.",
   "keys": {
     "races": [
-      "engineering/simulation"
+      "engineering/simulation",
+      "sci/hpc"
     ],
     "lanes": [
-      "engineering/simulation"
+      "engineering/simulation",
+      "sci/hpc"
     ],
     "capabilities": []
   },

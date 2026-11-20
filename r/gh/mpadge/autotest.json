@@ -9,10 +9,12 @@
   "why": "Automatically fuzzes and tests R package functions using the parameter types and values documented in each function's help page.",
   "keys": {
     "races": [
-      "dev-tools/testing"
+      "dev-tools/testing",
+      "exploit/fuzzing"
     ],
     "lanes": [
-      "dev-tools/testing"
+      "dev-tools/testing",
+      "exploit/fuzzing"
     ],
     "capabilities": []
   },

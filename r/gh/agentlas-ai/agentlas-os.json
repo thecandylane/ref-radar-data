@@ -20,7 +20,9 @@
       "agents/memory",
       "agents/skills"
     ],
-    "capabilities": []
+    "capabilities": [
+      "agents/orchestration/agent-teams"
+    ]
   },
   "read": [
     {
@@ -37,7 +39,7 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 1460,
+    "stars": 1401,
     "size_mb": 172,
     "created_at": "2026-06-04T04:33:26Z",
     "last_commit_at": "2026-11-18T03:45:25Z",

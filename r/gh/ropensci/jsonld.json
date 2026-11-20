@@ -9,10 +9,12 @@
   "why": "Compacts, expands and flattens JSON-LD from R by wrapping the jsonld.js library, with RDF conversion included.",
   "keys": {
     "races": [
-      "data/serialization"
+      "data/serialization",
+      "seo/structured-data"
     ],
     "lanes": [
-      "data/serialization"
+      "data/serialization",
+      "seo/structured-data"
     ],
     "capabilities": [
       "data/serialization/schema-formats"

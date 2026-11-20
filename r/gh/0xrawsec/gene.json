@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:cfc3ab3e9b45c8e1217a940817511a40e28a3630"
+  },
   "id": "gh:0xrawsec/gene",
   "kind": "repo",
   "url": "https://github.com/0xrawsec/gene",
@@ -54,5 +57,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "cfc3ab3e9b45c8e1217a940817511a40e28a3630",
+    "v": 4
+  },
+  "pinned_at": "2023-11-07T07:59:57Z"
 }

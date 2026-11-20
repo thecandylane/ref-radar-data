@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:295e225fcb54c2142786ecacd5f6c52e1c038782"
+  },
+  "id": "gh:um-arm-lab/pytorch_kinematics",
+  "kind": "repo",
+  "url": "https://github.com/UM-ARM-Lab/pytorch_kinematics",
+  "title": "pytorch_kinematics",
+  "why": "Differentiable forward kinematics and damped least squares inverse kinematics in PyTorch, batched over joint configurations for URDF robots.",
+  "keys": {
+    "races": [
+      "embedded/robotics",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "embedded/robotics",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/UM-ARM-Lab/pytorch_kinematics",
+    "sha": "295e225fcb54c2142786ecacd5f6c52e1c038782",
+    "file_url": "https://cdn.jsdelivr.net/gh/UM-ARM-Lab/pytorch_kinematics@295e225fcb54c2142786ecacd5f6c52e1c038782/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 826,
+    "size_mb": 1,
+    "created_at": "2021-01-21T18:44:10Z",
+    "last_commit_at": "2026-04-15T23:32:08Z",
+    "releases": 10,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v0.10.0",
+      "at": "2026-04-16T00:44:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "295e225fcb54c2142786ecacd5f6c52e1c038782",
+    "v": 4
+  },
+  "pinned_at": "2026-04-15T23:32:08Z"
+}

@@ -9,10 +9,12 @@
   "why": "Swap between serial, multiprocessing, MPI and JobLib pools with one interface, so code moves from laptop to cluster unchanged.",
   "keys": {
     "races": [
-      "data/pipelines"
+      "data/pipelines",
+      "sci/hpc"
     ],
     "lanes": [
-      "data/pipelines"
+      "data/pipelines",
+      "sci/hpc"
     ],
     "capabilities": []
   },

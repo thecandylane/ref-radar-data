@@ -10,11 +10,13 @@
   "keys": {
     "races": [
       "cyber/appsec",
-      "cyber/offensive"
+      "cyber/offensive",
+      "websec/api"
     ],
     "lanes": [
       "cyber/appsec",
-      "cyber/offensive"
+      "cyber/offensive",
+      "websec/api"
     ],
     "capabilities": [
       "cyber/appsec/vuln-discovery"

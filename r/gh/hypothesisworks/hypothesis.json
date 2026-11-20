@@ -6,10 +6,12 @@
   "why": "Finds failing cases in Python code by generating inputs from property-based tests, with fuzzing and guides in the repo.",
   "keys": {
     "races": [
-      "dev-tools/testing"
+      "dev-tools/testing",
+      "exploit/fuzzing"
     ],
     "lanes": [
-      "dev-tools/testing"
+      "dev-tools/testing",
+      "exploit/fuzzing"
     ],
     "capabilities": []
   },
@@ -28,16 +30,16 @@
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 9190,
+    "stars": 9194,
     "size_mb": 44,
     "created_at": "2013-03-10T13:51:19Z",
-    "last_commit_at": "2026-11-18T23:25:34Z",
+    "last_commit_at": "2026-11-20T07:45:13Z",
     "releases": 1000,
-    "tags": 3351,
+    "tags": 3353,
     "archived": false,
     "release": {
-      "tag": "v6.170.15",
-      "at": "2026-11-06T09:55:24.000Z"
+      "tag": "v6.170.17",
+      "at": "2026-11-20T07:47:45.000Z"
     }
   },
   "reuse": "copy",
@@ -48,11 +50,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 17,
+    "star_delta_7d": 12,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "ecea8d2574aff63aee3a04d626cfd945762a7a88",
+    "v": 4
+  },
   "pins_before": [
     "9ab0be61aaaa27396fc1bbf4b34e7925cc68d1e2"
   ],

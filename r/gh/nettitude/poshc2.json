@@ -9,10 +9,12 @@
   "why": "Gives red teamers a proxy-aware command and control framework for post-exploitation and lateral movement, with Python 3, PowerShell and C# payloads.",
   "keys": {
     "races": [
-      "cyber/offensive"
+      "cyber/offensive",
+      "exploit/c2"
     ],
     "lanes": [
-      "cyber/offensive"
+      "cyber/offensive",
+      "exploit/c2"
     ],
     "capabilities": []
   },
@@ -51,7 +53,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 4,
+    "star_delta_7d": 3,
     "votes": {},
     "ranks": {}
   },

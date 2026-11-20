@@ -32,10 +32,10 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 27050,
-    "size_mb": 477,
+    "stars": 27058,
+    "size_mb": 480,
     "created_at": "2019-11-14T09:05:28Z",
-    "last_commit_at": "2026-11-19T08:46:08Z",
+    "last_commit_at": "2026-11-20T07:22:23Z",
     "releases": 256,
     "tags": 341,
     "archived": false,
@@ -52,7 +52,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 54,
+    "star_delta_7d": 57,
     "votes": {},
     "ranks": {}
   },
@@ -64,5 +64,19 @@
   "pins_before": [
     "23450d2d8741dd0f9a07349e577c5e0495c42666"
   ],
-  "pinned_at": "2026-11-19T08:46:08Z"
+  "pinned_at": "2026-11-19T08:46:08Z",
+  "papers": [
+    {
+      "id": "arxiv:2004.04906",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2002.08909",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
 }

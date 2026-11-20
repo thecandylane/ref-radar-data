@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:dcd4c361f9f5ba302294ed38b8ce278e8ba69006"
+  },
+  "id": "gh:tomnomnom/gf",
+  "kind": "repo",
+  "url": "https://github.com/tomnomnom/gf",
+  "title": "gf",
+  "why": "Saves long grep pattern and flag combinations as named JSON files, so auditing code for PHP sources or AWS keys is one short command.",
+  "keys": {
+    "races": [
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tomnomnom/gf",
+    "sha": "dcd4c361f9f5ba302294ed38b8ce278e8ba69006",
+    "file_url": "https://cdn.jsdelivr.net/gh/tomnomnom/gf@dcd4c361f9f5ba302294ed38b8ce278e8ba69006/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 2138,
+    "size_mb": 0,
+    "created_at": "2018-09-16T11:40:55Z",
+    "last_commit_at": "2020-06-18T13:41:22Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dcd4c361f9f5ba302294ed38b8ce278e8ba69006",
+    "v": 4
+  },
+  "pinned_at": "2020-06-18T13:41:22Z"
+}

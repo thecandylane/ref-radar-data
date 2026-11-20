@@ -10,11 +10,13 @@
   "keys": {
     "races": [
       "infra/networking",
-      "agents/tools"
+      "agents/tools",
+      "privacy/anonymity"
     ],
     "lanes": [
       "infra/networking",
-      "agents/tools"
+      "agents/tools",
+      "privacy/anonymity"
     ],
     "capabilities": [
       "agents/tools/web-access"
@@ -35,7 +37,7 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 1035,
+    "stars": 1034,
     "size_mb": 9,
     "created_at": "2020-04-27T23:41:08Z",
     "last_commit_at": "2026-11-19T00:05:41Z",

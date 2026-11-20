@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a560498be79a3bf40d7f3b203ad174661b8e81e7"
+  },
   "id": "gh:datalux/osintgram",
   "kind": "repo",
   "url": "https://github.com/Datalux/Osintgram",
@@ -36,7 +39,7 @@
   "facts": {
     "lang": "Python",
     "license": "GPL-3.0",
-    "stars": 15656,
+    "stars": 15702,
     "size_mb": 5,
     "created_at": "2019-06-07T23:23:40Z",
     "last_commit_at": "2026-10-26T08:25:05Z",
@@ -60,5 +63,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "a560498be79a3bf40d7f3b203ad174661b8e81e7",
+    "v": 4
+  },
+  "pinned_at": "2026-10-26T08:25:05Z"
 }

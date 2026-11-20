@@ -9,10 +9,12 @@
   "why": "Imputes HLA genotypes from SNP data with attribute bagging, packaged in R with a C++ core and optional GPU use.",
   "keys": {
     "races": [
-      "data/analytics"
+      "data/analytics",
+      "biology/bioinformatics"
     ],
     "lanes": [
-      "data/analytics"
+      "data/analytics",
+      "biology/bioinformatics"
     ],
     "capabilities": []
   },

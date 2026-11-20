@@ -6,10 +6,12 @@
   "why": "Keeps agent memory in 7 layers, with Hebbian learning, Bayesian confidence and FSRS-style spaced repetition for recall.",
   "keys": {
     "races": [
-      "agents/memory"
+      "agents/memory",
+      "learning/spaced-repetition"
     ],
     "lanes": [
-      "agents/memory"
+      "agents/memory",
+      "learning/spaced-repetition"
     ],
     "capabilities": [
       "agents/memory/long-term-memory"

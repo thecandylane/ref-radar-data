@@ -1,0 +1,64 @@
+{
+  "id": "gh:urbankitstudio/atlas",
+  "kind": "repo",
+  "url": "https://github.com/urbankitstudio/atlas",
+  "title": "atlas",
+  "why": "Catalogs county parcel endpoints by state with their search fields and access flags, so lookups know which counties answer.",
+  "keys": {
+    "races": [
+      "real-estate/property-data",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "real-estate/property-data",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/urbankitstudio/atlas",
+    "sha": "4f824a7bedb92ae6e1dd3ddfd1cd6526d828bace",
+    "file_url": "https://cdn.jsdelivr.net/gh/urbankitstudio/atlas@4f824a7bedb92ae6e1dd3ddfd1cd6526d828bace/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 3,
+    "created_at": "2026-09-18T18:59:49Z",
+    "last_commit_at": "2026-11-15T13:03:17Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4f824a7bedb92ae6e1dd3ddfd1cd6526d828bace",
+    "v": 4
+  },
+  "pinned_at": "2026-11-15T13:03:17Z"
+}

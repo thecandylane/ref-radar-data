@@ -9,10 +9,12 @@
   "why": "Graph tool that finds attack paths to Domain Admin, with a Go server, a web UI under packages and an AGENTS.md.",
   "keys": {
     "races": [
-      "cyber/offensive"
+      "cyber/offensive",
+      "cyber/identity"
     ],
     "lanes": [
-      "cyber/offensive"
+      "cyber/offensive",
+      "cyber/identity"
     ],
     "capabilities": []
   },
@@ -39,16 +41,16 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 3581,
-    "size_mb": 2992,
+    "stars": 3585,
+    "size_mb": 3270,
     "created_at": "2023-08-03T19:20:06Z",
-    "last_commit_at": "2026-11-19T00:40:31Z",
-    "releases": 336,
-    "tags": 353,
+    "last_commit_at": "2026-11-19T21:34:01Z",
+    "releases": 337,
+    "tags": 354,
     "archived": false,
     "release": {
-      "tag": "v9.10.0",
-      "at": "2026-11-16T19:47:15.000Z"
+      "tag": "v9.10.1",
+      "at": "2026-11-19T20:56:21.000Z"
     }
   },
   "reuse": "copy",
@@ -59,7 +61,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 26,
+    "star_delta_7d": 28,
     "votes": {},
     "ranks": {}
   },

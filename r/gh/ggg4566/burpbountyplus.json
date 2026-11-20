@@ -9,10 +9,12 @@
   "why": "Burp extension that adds right-click scans and fuzzing of single request parameters, driven by BurpBounty profiles.",
   "keys": {
     "races": [
-      "cyber/offensive"
+      "cyber/offensive",
+      "exploit/fuzzing"
     ],
     "lanes": [
-      "cyber/offensive"
+      "cyber/offensive",
+      "exploit/fuzzing"
     ],
     "capabilities": []
   },

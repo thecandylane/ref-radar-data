@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d779dc5d8c50e81b16159ad891c3465fd1ff5a81"
+  },
   "id": "gh:izar/pytm",
   "kind": "repo",
   "url": "https://github.com/izar/pytm",
@@ -51,5 +54,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "d779dc5d8c50e81b16159ad891c3465fd1ff5a81",
+    "v": 4
+  },
+  "pinned_at": "2026-10-31T17:54:15Z"
 }

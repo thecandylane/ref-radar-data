@@ -9,10 +9,12 @@
   "why": "Docker setup that rotates a Tor proxy behind HAProxy, with a script to request a new identity.",
   "keys": {
     "races": [
-      "infra/networking"
+      "infra/networking",
+      "privacy/anonymity"
     ],
     "lanes": [
-      "infra/networking"
+      "infra/networking",
+      "privacy/anonymity"
     ],
     "capabilities": []
   },

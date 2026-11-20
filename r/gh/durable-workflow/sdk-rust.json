@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c6eacb63a4b4d5c73879b0a38c923aed7fe897fe"
+  },
   "id": "gh:durable-workflow/sdk-rust",
   "kind": "repo",
   "url": "https://github.com/durable-workflow/sdk-rust",
@@ -37,15 +40,15 @@
     "lang": "Rust",
     "license": "MIT",
     "stars": 3,
-    "size_mb": 6,
+    "size_mb": 9,
     "created_at": "2026-07-10T13:40:42Z",
-    "last_commit_at": "2026-11-19T07:36:02Z",
-    "releases": 121,
-    "tags": 122,
+    "last_commit_at": "2026-11-20T08:50:09Z",
+    "releases": 122,
+    "tags": 123,
     "archived": false,
     "release": {
-      "tag": "4.20.0",
-      "at": "2026-11-19T07:39:34.000Z"
+      "tag": "4.21.0",
+      "at": "2026-11-19T18:17:47.000Z"
     }
   },
   "reuse": "copy",

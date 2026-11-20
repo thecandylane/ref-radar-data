@@ -9,10 +9,12 @@
   "why": "Python package on PennyLane for fermionic quantum machine learning and circuit simulation, with tutorials and a JOSS paper.",
   "keys": {
     "races": [
-      "ml/training"
+      "ml/training",
+      "sci/quantum"
     ],
     "lanes": [
-      "ml/training"
+      "ml/training",
+      "sci/quantum"
     ],
     "capabilities": []
   },
@@ -69,5 +71,13 @@
   "pack": {
     "sha": "3e51e1aed53f559bca0c4a1ad92177e0a79825d3",
     "v": 3
-  }
+  },
+  "papers": [
+    {
+      "id": "arxiv:2404.19032",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
 }

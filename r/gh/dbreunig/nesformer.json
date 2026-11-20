@@ -1,0 +1,53 @@
+{
+  "id": "gh:dbreunig/nesformer",
+  "kind": "repo",
+  "url": "https://github.com/dbreunig/nesformer",
+  "title": "nesformer",
+  "why": "Weights computed by a compiler instead of training let a stock Qwen3.5 checkpoint act as a 6502 CPU, predicting NES execution one token at a time.",
+  "keys": {
+    "races": [
+      "ml/open-models"
+    ],
+    "lanes": [
+      "ml/open-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dbreunig/nesformer",
+    "sha": "26b1b053f826154498926892815574580dc45c24",
+    "file_url": "https://cdn.jsdelivr.net/gh/dbreunig/nesformer@26b1b053f826154498926892815574580dc45c24/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 195,
+    "size_mb": 4,
+    "created_at": "2026-10-30T15:54:20Z",
+    "last_commit_at": "2026-10-30T15:59:16Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "fresh": true
+}

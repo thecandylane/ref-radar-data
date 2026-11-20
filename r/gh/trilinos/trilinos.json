@@ -1,0 +1,68 @@
+{
+  "id": "gh:trilinos/trilinos",
+  "kind": "repo",
+  "url": "https://github.com/trilinos/Trilinos",
+  "title": "Trilinos",
+  "why": "Holds the CI and build helpers for Trilinos, such as changed-package detection and build stats summaries for its test runs.",
+  "keys": {
+    "races": [
+      "sci/numerics",
+      "sci/hpc",
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "sci/numerics",
+      "sci/hpc",
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/trilinos/Trilinos",
+    "sha": "d4b2d9601dd3a6a0034d6b709946051d070487ef",
+    "file_url": "https://raw.githubusercontent.com/trilinos/Trilinos/d4b2d9601dd3a6a0034d6b709946051d070487ef/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 1445,
+    "size_mb": 866,
+    "created_at": "2015-11-16T19:39:16Z",
+    "last_commit_at": "2026-11-20T04:07:01Z",
+    "releases": 26,
+    "tags": 175,
+    "archived": false,
+    "release": {
+      "tag": "trilinos-release-17-3-0",
+      "at": "2026-11-04T22:49:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d4b2d9601dd3a6a0034d6b709946051d070487ef",
+    "v": 4
+  }
+}

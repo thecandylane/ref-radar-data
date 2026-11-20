@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:96cee75776cc58a3901d0b5b5e01460641991e39"
+  },
   "id": "gh:cloudyr/aws.signature",
   "kind": "repo",
   "url": "https://github.com/cloudyr/aws.signature",
@@ -56,5 +59,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "96cee75776cc58a3901d0b5b5e01460641991e39",
+    "v": 4
+  },
+  "pinned_at": "2026-07-18T03:25:34Z"
 }

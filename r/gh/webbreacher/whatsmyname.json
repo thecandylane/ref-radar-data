@@ -1,0 +1,55 @@
+{
+  "id": "gh:webbreacher/whatsmyname",
+  "kind": "repo",
+  "url": "https://github.com/WebBreacher/WhatsMyName",
+  "title": "WhatsMyName",
+  "why": "Archived JSON dataset of 691 sites with check URLs and response strings for finding whether a username exists.",
+  "keys": {
+    "races": [
+      "cyber/threat-intel",
+      "data/datasets"
+    ],
+    "lanes": [
+      "cyber/threat-intel",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/WebBreacher/WhatsMyName",
+    "sha": "abcb19d6809f0e963e353819c571133b45b6a106",
+    "file_url": "https://cdn.jsdelivr.net/gh/WebBreacher/WhatsMyName@abcb19d6809f0e963e353819c571133b45b6a106/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "NOASSERTION",
+    "stars": 3048,
+    "size_mb": 5,
+    "created_at": "2015-10-02T21:12:55Z",
+    "last_commit_at": "2026-11-09T15:06:40Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": true,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

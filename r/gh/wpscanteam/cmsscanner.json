@@ -10,13 +10,17 @@
   "keys": {
     "races": [
       "cyber/offensive",
-      "web/cms"
+      "web/cms",
+      "cyber/appsec"
     ],
     "lanes": [
       "cyber/offensive",
-      "web/cms"
+      "web/cms",
+      "cyber/appsec"
     ],
-    "capabilities": []
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
   },
   "read": [
     {

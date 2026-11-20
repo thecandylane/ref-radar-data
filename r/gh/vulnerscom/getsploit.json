@@ -1,0 +1,74 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b0520bb026d65bc0897374446836c268677317e3"
+  },
+  "id": "gh:vulnerscom/getsploit",
+  "kind": "repo",
+  "url": "https://github.com/vulnersCom/getsploit",
+  "title": "getsploit",
+  "why": "Command line search of public exploits through the Vulners database, or offline against a local SQLite FTS5 index with --mirror to save sources.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/appsec",
+      "data/search"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/appsec",
+      "data/search"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vulnersCom/getsploit",
+    "sha": "b0520bb026d65bc0897374446836c268677317e3",
+    "file_url": "https://cdn.jsdelivr.net/gh/vulnersCom/getsploit@b0520bb026d65bc0897374446836c268677317e3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1834,
+    "size_mb": 1,
+    "created_at": "2017-06-04T09:31:44Z",
+    "last_commit_at": "2026-08-17T16:56:25Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v3.0.1",
+      "at": "2026-08-17T16:58:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b0520bb026d65bc0897374446836c268677317e3",
+    "v": 4
+  },
+  "pinned_at": "2026-08-17T16:56:25Z"
+}

@@ -8,12 +8,14 @@
     "races": [
       "biology/bioinformatics",
       "desktop/app-shells",
-      "llm-infra/rag"
+      "llm-infra/rag",
+      "data/datasets"
     ],
     "lanes": [
       "biology/bioinformatics",
       "desktop/app-shells",
-      "llm-infra/rag"
+      "llm-infra/rag",
+      "data/datasets"
     ],
     "capabilities": [
       "llm-infra/rag/vector-search"

@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:dd8c1b2abb1d64636c995a2ac4c0c63adeffbdc0"
+  },
+  "id": "gh:vphill/pyoaiharvester",
+  "kind": "repo",
+  "url": "https://github.com/vphill/pyoaiharvester",
+  "title": "pyoaiharvester",
+  "why": "Command line harvester that pulls records from an OAI-PMH repository into an XML file, filtered by date, set or metadata format.",
+  "keys": {
+    "races": [
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vphill/pyoaiharvester",
+    "sha": "dd8c1b2abb1d64636c995a2ac4c0c63adeffbdc0",
+    "file_url": "https://cdn.jsdelivr.net/gh/vphill/pyoaiharvester@dd8c1b2abb1d64636c995a2ac4c0c63adeffbdc0/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 41,
+    "size_mb": 0,
+    "created_at": "2012-07-27T16:32:36Z",
+    "last_commit_at": "2022-09-25T01:58:19Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dd8c1b2abb1d64636c995a2ac4c0c63adeffbdc0",
+    "v": 4
+  },
+  "pinned_at": "2022-09-25T01:58:19Z"
+}

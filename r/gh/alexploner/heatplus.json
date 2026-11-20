@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a4faa3b2cb2dd393bbada3ff38a87b193e8690b8"
+  },
+  "id": "gh:alexploner/heatplus",
+  "kind": "repo",
+  "url": "https://github.com/alexploner/Heatplus",
+  "title": "Heatplus",
+  "why": "A Bioconductor-oriented R package for annotated heatmaps, last committed in 2021 and without tagged releases.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "DESCRIPTION",
+      "kind": "path"
+    },
+    {
+      "locator": "R",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/alexploner/Heatplus",
+    "sha": "a4faa3b2cb2dd393bbada3ff38a87b193e8690b8",
+    "file_url": "https://cdn.jsdelivr.net/gh/alexploner/Heatplus@a4faa3b2cb2dd393bbada3ff38a87b193e8690b8/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 2,
+    "size_mb": 0,
+    "created_at": "2014-06-17T13:22:22Z",
+    "last_commit_at": "2021-05-17T07:56:19Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a4faa3b2cb2dd393bbada3ff38a87b193e8690b8",
+    "v": 4
+  },
+  "pinned_at": "2021-05-17T07:56:19Z"
+}

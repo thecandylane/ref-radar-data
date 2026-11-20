@@ -10,11 +10,13 @@
   "keys": {
     "races": [
       "finance/markets",
-      "data/pipelines"
+      "data/pipelines",
+      "data/queues"
     ],
     "lanes": [
       "finance/markets",
-      "data/pipelines"
+      "data/pipelines",
+      "data/queues"
     ],
     "capabilities": [
       "finance/markets/market-data"

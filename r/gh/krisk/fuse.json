@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:edf2fb608eca0461508d1d71317e6e58309ffada"
+  },
+  "id": "gh:krisk/fuse",
+  "kind": "repo",
+  "url": "https://github.com/krisk/Fuse",
+  "title": "Fuse",
+  "why": "Typo-tolerant fuzzy search over small datasets in the browser or on the server, with weighted keys and token search.",
+  "keys": {
+    "races": [
+      "data/search",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "data/search",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/krisk/Fuse",
+    "sha": "edf2fb608eca0461508d1d71317e6e58309ffada",
+    "file_url": "https://cdn.jsdelivr.net/gh/krisk/Fuse@edf2fb608eca0461508d1d71317e6e58309ffada/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "Apache-2.0",
+    "stars": 20535,
+    "size_mb": 11,
+    "created_at": "2012-05-28T04:31:06Z",
+    "last_commit_at": "2026-08-09T04:37:27Z",
+    "releases": 44,
+    "tags": 130,
+    "archived": false,
+    "release": {
+      "tag": "v7.5.0",
+      "at": "2026-07-13T17:19:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "edf2fb608eca0461508d1d71317e6e58309ffada",
+    "v": 4
+  },
+  "pinned_at": "2026-08-09T04:37:27Z"
+}

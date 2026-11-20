@@ -9,10 +9,12 @@
   "why": "C library with Cython bindings that splits and handles meshes across many parallel processes for simulation codes.",
   "keys": {
     "races": [
-      "engineering/simulation"
+      "engineering/simulation",
+      "sci/hpc"
     ],
     "lanes": [
-      "engineering/simulation"
+      "engineering/simulation",
+      "sci/hpc"
     ],
     "capabilities": []
   },

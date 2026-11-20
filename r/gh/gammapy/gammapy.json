@@ -1,0 +1,60 @@
+{
+  "id": "gh:gammapy/gammapy",
+  "kind": "repo",
+  "url": "https://github.com/gammapy/gammapy",
+  "title": "gammapy",
+  "why": "Reduces gamma-ray event lists into datasets, fits source models, and reads Fermi, hess and hawc source catalogs.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gammapy/gammapy",
+    "sha": "610fce2b11a826489b0fe5cd0fca3bf8bd94ebf4",
+    "file_url": "https://cdn.jsdelivr.net/gh/gammapy/gammapy@610fce2b11a826489b0fe5cd0fca3bf8bd94ebf4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 295,
+    "size_mb": 56,
+    "created_at": "2013-05-15T07:50:40Z",
+    "last_commit_at": "2026-11-19T20:17:15Z",
+    "releases": 9,
+    "tags": 45,
+    "archived": false,
+    "release": {
+      "tag": "v2.1",
+      "at": "2026-04-02T13:49:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "610fce2b11a826489b0fe5cd0fca3bf8bd94ebf4",
+    "v": 4
+  }
+}

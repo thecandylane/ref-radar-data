@@ -6,10 +6,14 @@
   "why": "Library of 177 validated skills and 100+ scientific databases for biology, chemistry and medicine tasks.",
   "keys": {
     "races": [
-      "agents/skills"
+      "agents/skills",
+      "biology/bioinformatics",
+      "engineering/chemistry"
     ],
     "lanes": [
-      "agents/skills"
+      "agents/skills",
+      "biology/bioinformatics",
+      "engineering/chemistry"
     ],
     "capabilities": [
       "agents/skills/plugin-specs"
@@ -30,7 +34,7 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 57779,
+    "stars": 57895,
     "size_mb": 461,
     "created_at": "2025-10-19T20:54:15Z",
     "last_commit_at": "2026-11-16T09:19:24Z",
@@ -50,13 +54,26 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 884,
+    "star_delta_7d": 881,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "ec59a29a03d5c40f73ab40878df04860bc00e876",
+    "v": 4
+  },
   "pins_before": [
     "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5"
   ],
-  "pinned_at": "2026-11-16T09:19:24Z"
+  "pinned_at": "2026-11-16T09:19:24Z",
+  "papers": [
+    {
+      "id": "arxiv:2609.00065",
+      "via": [
+        "repo"
+      ]
+    }
+  ],
+  "hot": true
 }

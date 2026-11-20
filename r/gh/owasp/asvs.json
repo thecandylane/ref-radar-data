@@ -1,0 +1,62 @@
+{
+  "id": "gh:owasp/asvs",
+  "kind": "repo",
+  "url": "https://github.com/OWASP/ASVS",
+  "title": "ASVS",
+  "why": "OWASP security requirements standard for web apps and services, with numbered requirement IDs and translations in PDF, Word and CSV.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "learning/courses"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "learning/courses"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OWASP/ASVS",
+    "sha": "650b4bff6f1b1850a66d98b4c4e481706567eb4d",
+    "file_url": "https://raw.githubusercontent.com/OWASP/ASVS/650b4bff6f1b1850a66d98b4c4e481706567eb4d/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "CC-BY-SA-4.0",
+    "stars": 3806,
+    "size_mb": 158,
+    "created_at": "2014-10-30T21:39:07Z",
+    "last_commit_at": "2026-11-17T23:28:16Z",
+    "releases": 5,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "latest",
+      "at": "2026-11-17T23:29:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "650b4bff6f1b1850a66d98b4c4e481706567eb4d",
+    "v": 4
+  }
+}

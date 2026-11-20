@@ -1,0 +1,55 @@
+{
+  "id": "gh:elastic/labs-releases",
+  "kind": "repo",
+  "url": "https://github.com/elastic/labs-releases",
+  "title": "labs-releases",
+  "why": "Extractors that recover malware configuration, filed by family, with atomic indicators and a reverse engineering library.",
+  "keys": {
+    "races": [
+      "cyber/reversing",
+      "cyber/threat-intel"
+    ],
+    "lanes": [
+      "cyber/reversing",
+      "cyber/threat-intel"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/elastic/labs-releases",
+    "sha": "da555ec2e5261cdc5020f5758ca52bd6502252b9",
+    "file_url": "https://cdn.jsdelivr.net/gh/elastic/labs-releases@da555ec2e5261cdc5020f5758ca52bd6502252b9/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 92,
+    "size_mb": 1,
+    "created_at": "2023-02-22T22:30:24Z",
+    "last_commit_at": "2026-09-11T15:14:52Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

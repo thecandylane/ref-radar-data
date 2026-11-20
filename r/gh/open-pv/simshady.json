@@ -9,10 +9,12 @@
   "why": "Computes shading on 3D meshes on the GPU through WebGL, giving photovoltaic yield estimates for a site.",
   "keys": {
     "races": [
-      "data/geospatial"
+      "data/geospatial",
+      "energy/renewables"
     ],
     "lanes": [
-      "data/geospatial"
+      "data/geospatial",
+      "energy/renewables"
     ],
     "capabilities": []
   },

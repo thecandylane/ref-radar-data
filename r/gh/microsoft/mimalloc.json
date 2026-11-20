@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:1d8fd85aa3abe719cd9c42c855f1fc27dbccf84d"
+  },
   "id": "gh:microsoft/mimalloc",
   "kind": "repo",
   "url": "https://github.com/microsoft/mimalloc",
@@ -54,13 +57,25 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 18,
+    "star_delta_7d": 15,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "1d8fd85aa3abe719cd9c42c855f1fc27dbccf84d",
+    "v": 4
+  },
   "pins_before": [
     "dcd6f09b1d878e06d62949dabea3417eec98c89a"
   ],
-  "pinned_at": "2026-11-17T02:08:45Z"
+  "pinned_at": "2026-11-17T02:08:45Z",
+  "papers": [
+    {
+      "id": "arxiv:2601.11786",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
 }

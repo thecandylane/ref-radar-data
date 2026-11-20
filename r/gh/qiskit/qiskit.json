@@ -1,0 +1,77 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5a340d1001929ccafe791816b27888a56437699b"
+  },
+  "id": "gh:qiskit/qiskit",
+  "kind": "repo",
+  "url": "https://github.com/Qiskit/qiskit",
+  "title": "qiskit",
+  "why": "Builds quantum circuits and runs them on Sampler and Estimator primitives, with a transpiler that maps circuits to hardware gates.",
+  "keys": {
+    "races": [
+      "sci/quantum",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "sci/quantum",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Qiskit/qiskit",
+    "sha": "5a340d1001929ccafe791816b27888a56437699b",
+    "file_url": "https://cdn.jsdelivr.net/gh/Qiskit/qiskit@5a340d1001929ccafe791816b27888a56437699b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 7987,
+    "size_mb": 183,
+    "created_at": "2017-03-03T17:02:42Z",
+    "last_commit_at": "2026-11-19T19:24:20Z",
+    "releases": 174,
+    "tags": 176,
+    "archived": false,
+    "release": {
+      "tag": "2.6.2",
+      "at": "2026-11-05T12:27:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5a340d1001929ccafe791816b27888a56437699b",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2405.08810",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

@@ -15,7 +15,8 @@
     ],
     "capabilities": [
       "llm-infra/rag/knowledge-platforms",
-      "llm-infra/rag/vector-search"
+      "llm-infra/rag/vector-search",
+      "agents/frameworks/agent-workflows"
     ]
   },
   "read": [
@@ -33,8 +34,8 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 52952,
-    "size_mb": 517,
+    "stars": 52966,
+    "size_mb": 530,
     "created_at": "2022-11-02T04:24:54Z",
     "last_commit_at": "2026-11-14T02:10:23Z",
     "releases": 435,
@@ -53,7 +54,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 70,
+    "star_delta_7d": 80,
     "votes": {},
     "ranks": {}
   },
@@ -61,5 +62,13 @@
   "pack": {
     "sha": "baeabbfe26241a6916e13e2a8c8156a02e0602cd",
     "v": 3
-  }
+  },
+  "papers": [
+    {
+      "id": "arxiv:2504.07104",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
 }

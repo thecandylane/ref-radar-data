@@ -1,0 +1,62 @@
+{
+  "id": "gh:dimforge/nalgebra",
+  "kind": "repo",
+  "url": "https://github.com/dimforge/nalgebra",
+  "title": "nalgebra",
+  "why": "Matrix and vector types in Rust with decompositions and solvers, plus a glm-style layer of vec, mat and quat constructors.",
+  "keys": {
+    "races": [
+      "sci/numerics"
+    ],
+    "lanes": [
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dimforge/nalgebra",
+    "sha": "b2466e6c4070b06240d929895473c9141fe24720",
+    "file_url": "https://cdn.jsdelivr.net/gh/dimforge/nalgebra@b2466e6c4070b06240d929895473c9141fe24720/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 4816,
+    "size_mb": 8,
+    "created_at": "2013-05-14T19:10:06Z",
+    "last_commit_at": "2026-09-30T18:43:13Z",
+    "releases": 0,
+    "tags": 101,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b2466e6c4070b06240d929895473c9141fe24720",
+    "v": 4
+  },
+  "pinned_at": "2026-09-30T18:43:13Z"
+}

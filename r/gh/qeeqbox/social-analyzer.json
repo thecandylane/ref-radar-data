@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c585f429dcd08f390a47b5817946b880df0cc534"
+  },
   "id": "gh:qeeqbox/social-analyzer",
   "kind": "repo",
   "url": "https://github.com/qeeqbox/social-analyzer",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "JavaScript",
     "license": "AGPL-3.0",
-    "stars": 24575,
+    "stars": 24595,
     "size_mb": 61,
     "created_at": "2020-11-30T19:04:26Z",
     "last_commit_at": "2026-11-08T03:26:42Z",
@@ -51,5 +54,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "c585f429dcd08f390a47b5817946b880df0cc534",
+    "v": 4
+  },
+  "pinned_at": "2026-11-08T03:26:42Z"
 }

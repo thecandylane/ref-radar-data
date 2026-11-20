@@ -9,10 +9,12 @@
   "why": "Describe a part in plain text and get an OpenSCAD model you can tweak and export as STL, all in a React web app.",
   "keys": {
     "races": [
-      "agents/tools"
+      "agents/tools",
+      "engineering/cad"
     ],
     "lanes": [
-      "agents/tools"
+      "agents/tools",
+      "engineering/cad"
     ],
     "capabilities": [
       "agents/tools/text-to-cad"
@@ -37,7 +39,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "GPL-3.0",
-    "stars": 5442,
+    "stars": 5448,
     "size_mb": 36,
     "created_at": "2025-09-01T17:53:58Z",
     "last_commit_at": "2026-10-15T05:26:14Z",

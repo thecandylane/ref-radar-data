@@ -10,11 +10,13 @@
   "keys": {
     "races": [
       "agents/memory",
-      "agents/tools"
+      "agents/tools",
+      "learning/spaced-repetition"
     ],
     "lanes": [
       "agents/memory",
-      "agents/tools"
+      "agents/tools",
+      "learning/spaced-repetition"
     ],
     "capabilities": [
       "agents/memory/long-term-memory",

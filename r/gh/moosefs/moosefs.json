@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ac106b2ec8661ff00def725d042cb67d3ca2184d"
+  },
+  "id": "gh:moosefs/moosefs",
+  "kind": "repo",
+  "url": "https://github.com/moosefs/moosefs",
+  "title": "moosefs",
+  "why": "Spreads files over commodity servers with copies set per file, mounted through FUSE as a POSIX file system.",
+  "keys": {
+    "races": [
+      "data/storage",
+      "sci/hpc"
+    ],
+    "lanes": [
+      "data/storage",
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/moosefs/moosefs",
+    "sha": "ac106b2ec8661ff00def725d042cb67d3ca2184d",
+    "file_url": "https://cdn.jsdelivr.net/gh/moosefs/moosefs@ac106b2ec8661ff00def725d042cb67d3ca2184d/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-2.0",
+    "stars": 2011,
+    "size_mb": 8,
+    "created_at": "2016-01-27T12:28:13Z",
+    "last_commit_at": "2026-05-18T12:06:17Z",
+    "releases": 139,
+    "tags": 146,
+    "archived": false,
+    "release": {
+      "tag": "v4.59.2",
+      "at": "2026-05-18T12:35:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ac106b2ec8661ff00def725d042cb67d3ca2184d",
+    "v": 4
+  },
+  "pinned_at": "2026-05-18T12:06:17Z"
+}

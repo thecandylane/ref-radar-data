@@ -1,0 +1,64 @@
+{
+  "id": "gh:mpi4py/mpi4py",
+  "kind": "repo",
+  "url": "https://github.com/mpi4py/mpi4py",
+  "title": "mpi4py",
+  "why": "Python bindings for MPI message passing, with osu benchmark demos and build configs for several MPI vendors.",
+  "keys": {
+    "races": [
+      "sci/hpc"
+    ],
+    "lanes": [
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mpi4py/mpi4py",
+    "sha": "2e974763aa42fc05a7d1963915bfd69acf27051f",
+    "file_url": "https://cdn.jsdelivr.net/gh/mpi4py/mpi4py@2e974763aa42fc05a7d1963915bfd69acf27051f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 934,
+    "size_mb": 10,
+    "created_at": "2013-09-05T14:44:25Z",
+    "last_commit_at": "2026-11-19T09:03:54Z",
+    "releases": 20,
+    "tags": 26,
+    "archived": false,
+    "release": {
+      "tag": "4.1.2",
+      "at": "2026-05-16T09:26:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2e974763aa42fc05a7d1963915bfd69acf27051f",
+    "v": 4
+  }
+}

@@ -28,7 +28,7 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 5907,
+    "stars": 5906,
     "size_mb": 8,
     "created_at": "2016-07-24T02:57:47Z",
     "last_commit_at": "2026-11-18T21:33:14Z",
@@ -45,13 +45,25 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 10,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "af346c03401c3f6960ae84617061fa5108533183",
+    "v": 4
+  },
   "pins_before": [
     "5f3b46f048f9f0a693702cea5f29f2eaad840204"
   ],
-  "pinned_at": "2026-11-18T21:33:14Z"
+  "pinned_at": "2026-11-18T21:33:14Z",
+  "papers": [
+    {
+      "id": "arxiv:2505.00736",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
 }

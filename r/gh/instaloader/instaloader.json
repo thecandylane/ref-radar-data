@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:7acd1b6a75d9964b6e7bf91c0769e172e2a64359"
+  },
   "id": "gh:instaloader/instaloader",
   "kind": "repo",
   "url": "https://github.com/instaloader/instaloader",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 13923,
+    "stars": 13964,
     "size_mb": 2,
     "created_at": "2016-06-15T10:40:37Z",
     "last_commit_at": "2026-11-01T18:55:04Z",
@@ -56,5 +59,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "7acd1b6a75d9964b6e7bf91c0769e172e2a64359",
+    "v": 4
+  },
+  "pinned_at": "2026-11-01T18:55:04Z"
 }

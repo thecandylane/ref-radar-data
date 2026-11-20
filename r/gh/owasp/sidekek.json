@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:e246ab890d5bd2b3cf87593804632814399683a7"
+  },
   "id": "gh:owasp/sidekek",
   "kind": "repo",
   "url": "https://github.com/OWASP/SideKEK",
@@ -54,5 +57,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "e246ab890d5bd2b3cf87593804632814399683a7",
+    "v": 4
+  },
+  "pinned_at": "2020-06-26T16:44:39Z"
 }

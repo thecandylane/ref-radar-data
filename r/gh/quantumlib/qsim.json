@@ -1,0 +1,91 @@
+{
+  "id": "gh:quantumlib/qsim",
+  "kind": "repo",
+  "url": "https://github.com/quantumlib/qsim",
+  "title": "qsim",
+  "why": "Provides circuit simulation in C++ with AVX vector instructions on CPU and CUDA on GPUs, plus matrix product state and trajectory modes.",
+  "keys": {
+    "races": [
+      "sci/quantum",
+      "sci/hpc"
+    ],
+    "lanes": [
+      "sci/quantum",
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/quantumlib/qsim",
+    "sha": "2292aebd6b7d6a361a856a13fbee8bd8b60071c6",
+    "file_url": "https://cdn.jsdelivr.net/gh/quantumlib/qsim@2292aebd6b7d6a361a856a13fbee8bd8b60071c6/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 716,
+    "size_mb": 7,
+    "created_at": "2020-01-27T17:19:36Z",
+    "last_commit_at": "2026-11-17T17:41:14Z",
+    "releases": 55,
+    "tags": 55,
+    "archived": false,
+    "release": {
+      "tag": "v0.22.0",
+      "at": "2025-06-24T21:35:35.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2292aebd6b7d6a361a856a13fbee8bd8b60071c6",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T17:41:14Z",
+  "papers": [
+    {
+      "id": "arxiv:1807.10749",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1704.01127",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1601.07195",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

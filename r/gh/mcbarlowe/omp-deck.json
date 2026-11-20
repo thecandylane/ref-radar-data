@@ -1,0 +1,73 @@
+{
+  "id": "gh:mcbarlowe/omp-deck",
+  "kind": "repo",
+  "url": "https://github.com/mcbarlowe/omp-deck",
+  "title": "omp-deck",
+  "why": "Browser front end for the omp agent that keeps a kanban, cron routines and a Telegram bridge beside the chat.",
+  "keys": {
+    "races": [
+      "agents/clients",
+      "agents/memory",
+      "agents/assistants"
+    ],
+    "lanes": [
+      "agents/clients",
+      "agents/memory",
+      "agents/assistants"
+    ],
+    "capabilities": [
+      "agents/memory/knowledge-brains",
+      "agents/assistants/task-automation"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mcbarlowe/omp-deck",
+    "sha": "ea2a34feabfca016f0ea7e275564dfdb1408016a",
+    "file_url": "https://cdn.jsdelivr.net/gh/mcbarlowe/omp-deck@ea2a34feabfca016f0ea7e275564dfdb1408016a/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 26,
+    "size_mb": 8,
+    "created_at": "2026-05-29T04:36:09Z",
+    "last_commit_at": "2026-05-29T01:01:10Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ea2a34feabfca016f0ea7e275564dfdb1408016a",
+    "v": 4
+  },
+  "pinned_at": "2026-05-29T01:01:10Z"
+}

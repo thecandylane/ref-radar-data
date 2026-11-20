@@ -10,11 +10,13 @@
   "keys": {
     "races": [
       "agents/frameworks",
-      "llm-infra/inference"
+      "llm-infra/inference",
+      "ml/training"
     ],
     "lanes": [
       "agents/frameworks",
-      "llm-infra/inference"
+      "llm-infra/inference",
+      "ml/training"
     ],
     "capabilities": [
       "agents/frameworks/llm-sdks"
@@ -59,7 +61,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 13,
+    "star_delta_7d": 12,
     "votes": {},
     "ranks": {}
   },

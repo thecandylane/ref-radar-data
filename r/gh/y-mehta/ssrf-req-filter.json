@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1b4e097ab9e933ddf94b3efbbffe75d1f007262a"
+  },
+  "id": "gh:y-mehta/ssrf-req-filter",
+  "kind": "repo",
+  "url": "https://github.com/y-mehta/ssrf-req-filter",
+  "title": "ssrf-req-filter",
+  "why": "Blocks NodeJS requests to local and private IP addresses through agents for axios and node-fetch, closing the cross-protocol redirect bypass.",
+  "keys": {
+    "races": [
+      "websec/api",
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "websec/api",
+      "cyber/appsec"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/y-mehta/ssrf-req-filter",
+    "sha": "1b4e097ab9e933ddf94b3efbbffe75d1f007262a",
+    "file_url": "https://cdn.jsdelivr.net/gh/y-mehta/ssrf-req-filter@1b4e097ab9e933ddf94b3efbbffe75d1f007262a/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 22,
+    "size_mb": 2,
+    "created_at": "2020-10-26T03:13:47Z",
+    "last_commit_at": "2026-08-04T16:02:32Z",
+    "releases": 0,
+    "tags": 10,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1b4e097ab9e933ddf94b3efbbffe75d1f007262a",
+    "v": 4
+  },
+  "pinned_at": "2026-08-04T16:02:32Z"
+}

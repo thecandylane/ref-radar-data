@@ -10,11 +10,15 @@
   "keys": {
     "races": [
       "cyber/offensive",
-      "cyber/identity"
+      "cyber/identity",
+      "cyber/detection",
+      "infra/iac"
     ],
     "lanes": [
       "cyber/offensive",
-      "cyber/identity"
+      "cyber/identity",
+      "cyber/detection",
+      "infra/iac"
     ],
     "capabilities": [
       "cyber/identity/iam"

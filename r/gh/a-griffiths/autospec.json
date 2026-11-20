@@ -9,10 +9,12 @@
   "why": "Extracts spectra from IFU datacubes automatically by cross-correlation, mainly for MUSE data.",
   "keys": {
     "races": [
-      "data/analytics"
+      "data/analytics",
+      "space/astronomy"
     ],
     "lanes": [
-      "data/analytics"
+      "data/analytics",
+      "space/astronomy"
     ],
     "capabilities": []
   },
@@ -60,5 +62,13 @@
     "sha": "43cd26ef9bddcc686e6b20d7fd9e995acbb52e1c",
     "v": 4
   },
-  "pinned_at": "2018-10-04T10:48:42Z"
+  "pinned_at": "2018-10-04T10:48:42Z",
+  "papers": [
+    {
+      "id": "arxiv:1807.05922",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
 }

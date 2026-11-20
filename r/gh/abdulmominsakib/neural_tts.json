@@ -9,10 +9,12 @@
   "why": "On-device neural TTS for Flutter (Kokoro, Kitten, Supertonic) through native ONNX Runtime.",
   "keys": {
     "races": [
-      "media/speech"
+      "media/speech",
+      "mobile/cross-platform"
     ],
     "lanes": [
-      "media/speech"
+      "media/speech",
+      "mobile/cross-platform"
     ],
     "capabilities": [
       "media/speech/text-to-speech"

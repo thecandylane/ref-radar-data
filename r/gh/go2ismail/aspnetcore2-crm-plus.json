@@ -9,13 +9,20 @@
   "why": "Bundles CRM, invoicing, inventory, leave management and timesheets into one C# project as an ERP-style suite.",
   "keys": {
     "races": [
-      "finance/accounting"
+      "finance/accounting",
+      "hr/hris",
+      "logistics/warehouse",
+      "sales/crm"
     ],
     "lanes": [
-      "finance/accounting"
+      "finance/accounting",
+      "hr/hris",
+      "logistics/warehouse",
+      "sales/crm"
     ],
     "capabilities": [
-      "finance/accounting/erp"
+      "finance/accounting/erp",
+      "finance/accounting/bookkeeping"
     ]
   },
   "read": [

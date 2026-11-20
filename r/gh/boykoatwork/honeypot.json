@@ -9,10 +9,12 @@
   "why": "Captures what botnets type after SSH login, logging commands and payload delivery to SQLite for building attack datasets.",
   "keys": {
     "races": [
-      "cyber/threat-intel"
+      "cyber/threat-intel",
+      "netsec/honeypot"
     ],
     "lanes": [
-      "cyber/threat-intel"
+      "cyber/threat-intel",
+      "netsec/honeypot"
     ],
     "capabilities": []
   },

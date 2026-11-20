@@ -10,11 +10,13 @@
   "keys": {
     "races": [
       "data/geospatial",
-      "data/analytics"
+      "data/analytics",
+      "desktop/native-ui"
     ],
     "lanes": [
       "data/geospatial",
-      "data/analytics"
+      "data/analytics",
+      "desktop/native-ui"
     ],
     "capabilities": []
   },
@@ -37,10 +39,10 @@
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 1190,
+    "stars": 1189,
     "size_mb": 622,
     "created_at": "2019-05-17T16:13:33Z",
-    "last_commit_at": "2026-11-18T22:54:46Z",
+    "last_commit_at": "2026-11-19T21:22:00Z",
     "releases": 50,
     "tags": 150,
     "archived": false,

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:67fc6b552de36e13dee31cf17fa267ee08428b5c"
+  },
   "id": "gh:hugsy/proxenet",
   "kind": "repo",
   "url": "https://github.com/hugsy/proxenet",
@@ -52,5 +55,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "67fc6b552de36e13dee31cf17fa267ee08428b5c",
+    "v": 4
+  },
+  "pinned_at": "2016-11-25T09:23:04Z"
 }

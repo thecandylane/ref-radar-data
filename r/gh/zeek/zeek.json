@@ -10,11 +10,15 @@
   "keys": {
     "races": [
       "cyber/detection",
-      "infra/networking"
+      "infra/networking",
+      "netsec/capture",
+      "netsec/ids"
     ],
     "lanes": [
       "cyber/detection",
-      "infra/networking"
+      "infra/networking",
+      "netsec/capture",
+      "netsec/ids"
     ],
     "capabilities": []
   },
@@ -37,10 +41,10 @@
   "facts": {
     "lang": "C++",
     "license": "NOASSERTION",
-    "stars": 8260,
-    "size_mb": 279,
+    "stars": 8267,
+    "size_mb": 280,
     "created_at": "2012-07-06T20:30:16Z",
-    "last_commit_at": "2026-11-18T14:15:07Z",
+    "last_commit_at": "2026-11-20T08:55:39Z",
     "releases": 115,
     "tags": 223,
     "archived": false,
@@ -65,5 +69,6 @@
   "pack": {
     "sha": "3b30c77db3df08f2bcddf7a58c34f26be4a732dd",
     "v": 3
-  }
+  },
+  "hot": true
 }

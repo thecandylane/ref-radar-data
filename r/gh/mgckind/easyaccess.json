@@ -9,10 +9,12 @@
   "why": "Queries astronomical survey databases from an interactive Python shell using SQL, with Docker packaging.",
   "keys": {
     "races": [
-      "data/databases"
+      "data/databases",
+      "space/astronomy"
     ],
     "lanes": [
-      "data/databases"
+      "data/databases",
+      "space/astronomy"
     ],
     "capabilities": []
   },
@@ -60,5 +62,13 @@
     "sha": "c1cf082123094ec6435fb989d863825d294e461e",
     "v": 3
   },
-  "pinned_at": "2021-07-02T12:23:16Z"
+  "pinned_at": "2021-07-02T12:23:16Z",
+  "papers": [
+    {
+      "id": "arxiv:1810.02721",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
 }

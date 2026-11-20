@@ -10,11 +10,13 @@
   "keys": {
     "races": [
       "llm-infra/rag",
-      "data/analytics"
+      "data/analytics",
+      "data/databases"
     ],
     "lanes": [
       "llm-infra/rag",
-      "data/analytics"
+      "data/analytics",
+      "data/databases"
     ],
     "capabilities": [
       "llm-infra/rag/knowledge-platforms"
@@ -39,7 +41,7 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 2163,
+    "stars": 2172,
     "size_mb": 31,
     "created_at": "2026-10-07T05:10:45Z",
     "last_commit_at": "2026-11-17T10:41:44Z",

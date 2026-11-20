@@ -10,11 +10,13 @@
   "keys": {
     "races": [
       "cyber/appsec",
-      "dev-tools/testing"
+      "dev-tools/testing",
+      "exploit/fuzzing"
     ],
     "lanes": [
       "cyber/appsec",
-      "dev-tools/testing"
+      "dev-tools/testing",
+      "exploit/fuzzing"
     ],
     "capabilities": [
       "cyber/appsec/vuln-discovery"

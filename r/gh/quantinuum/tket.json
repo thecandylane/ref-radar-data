@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:51eb1a6d0768e1bd13e62b67b5ba2fb35ac49fb8"
+  },
+  "id": "gh:quantinuum/tket",
+  "kind": "repo",
+  "url": "https://github.com/Quantinuum/tket",
+  "title": "tket",
+  "why": "Compiles quantum circuits with routing and placement passes for device architectures, callable from Python or through a C API.",
+  "keys": {
+    "races": [
+      "sci/quantum",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "sci/quantum",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Quantinuum/tket",
+    "sha": "51eb1a6d0768e1bd13e62b67b5ba2fb35ac49fb8",
+    "file_url": "https://cdn.jsdelivr.net/gh/Quantinuum/tket@51eb1a6d0768e1bd13e62b67b5ba2fb35ac49fb8/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 319,
+    "size_mb": 714,
+    "created_at": "2021-09-13T12:46:23Z",
+    "last_commit_at": "2026-11-17T11:18:42Z",
+    "releases": 224,
+    "tags": 225,
+    "archived": false,
+    "release": {
+      "tag": "v2.18.5",
+      "at": "2026-10-08T09:34:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "51eb1a6d0768e1bd13e62b67b5ba2fb35ac49fb8",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T11:18:42Z"
+}

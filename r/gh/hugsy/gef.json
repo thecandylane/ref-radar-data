@@ -9,10 +9,12 @@
   "why": "Adds exploit-development and reverse-engineering helpers to GDB on Linux from one gef.py file, scriptable through a Python API.",
   "keys": {
     "races": [
-      "cyber/reversing"
+      "cyber/reversing",
+      "exploit/development"
     ],
     "lanes": [
-      "cyber/reversing"
+      "cyber/reversing",
+      "exploit/development"
     ],
     "capabilities": [
       "cyber/reversing/debuggers"
@@ -33,7 +35,7 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 8446,
+    "stars": 8444,
     "size_mb": 13,
     "created_at": "2015-03-26T22:25:45Z",
     "last_commit_at": "2026-11-16T16:02:09Z",
@@ -53,11 +55,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 15,
+    "star_delta_7d": 12,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "8514ebc8f1710beb3acb8ae4d09643b00031ead9",
+    "v": 4
+  },
   "pins_before": [
     "809864d00442f9993298e33fd9cd282d687d2f45"
   ],

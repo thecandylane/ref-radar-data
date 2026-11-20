@@ -10,11 +10,13 @@
   "keys": {
     "races": [
       "cyber/offensive",
-      "infra/networking"
+      "infra/networking",
+      "netsec/capture"
     ],
     "lanes": [
       "cyber/offensive",
-      "infra/networking"
+      "infra/networking",
+      "netsec/capture"
     ],
     "capabilities": []
   },
@@ -37,7 +39,7 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 1244,
+    "stars": 1243,
     "size_mb": 12,
     "created_at": "2017-02-20T18:32:32Z",
     "last_commit_at": "2020-10-14T04:00:26Z",
@@ -57,7 +59,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": -1,
     "votes": {},
     "ranks": {}
   },

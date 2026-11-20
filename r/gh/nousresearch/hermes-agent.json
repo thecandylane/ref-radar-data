@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:01e7f71373ce810e7dc798e49c57c77df0fa95c9"
+  },
   "id": "gh:nousresearch/hermes-agent",
   "kind": "repo",
   "url": "https://github.com/NousResearch/hermes-agent",
@@ -7,11 +10,13 @@
   "keys": {
     "races": [
       "agents/assistants",
-      "agents/memory"
+      "agents/memory",
+      "agents/skills"
     ],
     "lanes": [
       "agents/assistants",
-      "agents/memory"
+      "agents/memory",
+      "agents/skills"
     ],
     "capabilities": [
       "agents/assistants/personal-agents",
@@ -38,16 +43,16 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 264601,
-    "size_mb": 1486,
+    "stars": 264853,
+    "size_mb": 1502,
     "created_at": "2025-07-22T22:22:28Z",
-    "last_commit_at": "2026-11-19T09:21:51Z",
-    "releases": 56,
-    "tags": 266,
+    "last_commit_at": "2026-11-20T08:30:20Z",
+    "releases": 58,
+    "tags": 268,
     "archived": false,
     "release": {
-      "tag": "v0.23.2",
-      "at": "2026-11-16T20:59:18.000Z"
+      "tag": "v0.23.3",
+      "at": "2026-11-20T00:34:38.000Z"
     }
   },
   "reuse": "copy",
@@ -58,11 +63,15 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 1772,
+    "star_delta_7d": 1784,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "01e7f71373ce810e7dc798e49c57c77df0fa95c9",
+    "v": 4
+  },
   "pins_before": [
     "410b58a796aaeaf09ca70fedf552fecc2d7cd9fd"
   ],

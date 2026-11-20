@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d3859a37d33bcdff17cca1aded90d5c9f2ac23d2"
+  },
   "id": "gh:nahsra/antisamy",
   "kind": "repo",
   "url": "https://github.com/nahsra/antisamy",
@@ -37,7 +40,7 @@
     "stars": 207,
     "size_mb": 5,
     "created_at": "2016-09-24T22:00:02Z",
-    "last_commit_at": "2026-11-13T17:01:01Z",
+    "last_commit_at": "2026-11-19T15:41:29Z",
     "releases": 25,
     "tags": 26,
     "archived": false,
@@ -58,5 +61,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "d3859a37d33bcdff17cca1aded90d5c9f2ac23d2",
+    "v": 4
+  }
 }

@@ -6,10 +6,14 @@
   "why": "Run your business on one open-source ERP: accounting, stock, HRMS, manufacturing, CRM and point of sale.",
   "keys": {
     "races": [
-      "finance/accounting"
+      "finance/accounting",
+      "hr/hris",
+      "sales/crm"
     ],
     "lanes": [
-      "finance/accounting"
+      "finance/accounting",
+      "hr/hris",
+      "sales/crm"
     ],
     "capabilities": [
       "finance/accounting/erp"
@@ -30,10 +34,10 @@
   "facts": {
     "lang": "Python",
     "license": "GPL-3.0",
-    "stars": 41444,
-    "size_mb": 2016,
+    "stars": 41466,
+    "size_mb": 2017,
     "created_at": "2011-06-08T08:20:56Z",
-    "last_commit_at": "2026-11-19T08:29:38Z",
+    "last_commit_at": "2026-11-20T08:34:16Z",
     "releases": 1000,
     "tags": 1843,
     "archived": false,
@@ -50,11 +54,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 226,
+    "star_delta_7d": 209,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "1a1d8362584a2f89c7e654c7923bfff3fa3148a7",
+    "v": 4
+  },
   "pins_before": [
     "5a543f083fdee515dcf0567c318e596a00ad8aeb"
   ],

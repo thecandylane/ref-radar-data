@@ -9,10 +9,12 @@
   "why": "Offline speech-to-text engine on TensorFlow, with training files and a native client, now discontinued and archived.",
   "keys": {
     "races": [
-      "media/speech"
+      "media/speech",
+      "ml/training"
     ],
     "lanes": [
-      "media/speech"
+      "media/speech",
+      "ml/training"
     ],
     "capabilities": []
   },
@@ -31,7 +33,7 @@
   "facts": {
     "lang": "C++",
     "license": "MPL-2.0",
-    "stars": 26779,
+    "stars": 26775,
     "size_mb": 49,
     "created_at": "2016-06-02T15:04:53Z",
     "last_commit_at": "2025-06-19T12:52:50Z",
@@ -51,7 +53,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 3,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   },
@@ -60,5 +62,19 @@
     "sha": "6913ae817bc09159c64def7f130708682c197ba3",
     "v": 3
   },
-  "pinned_at": "2025-06-19T12:52:50Z"
+  "pinned_at": "2025-06-19T12:52:50Z",
+  "papers": [
+    {
+      "id": "arxiv:1904.08779",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1412.5567",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
 }

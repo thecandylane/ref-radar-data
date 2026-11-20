@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:09ac84b2abd2c3895ac0a1c51caac0e638dd7b18"
+  },
   "id": "gh:corelight/zerologon",
   "kind": "repo",
   "url": "https://github.com/corelight/zerologon",
@@ -49,5 +52,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "09ac84b2abd2c3895ac0a1c51caac0e638dd7b18",
+    "v": 4
+  },
+  "pinned_at": "2021-11-10T16:06:59Z"
 }

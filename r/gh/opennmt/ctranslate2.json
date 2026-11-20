@@ -1,0 +1,86 @@
+{
+  "id": "gh:opennmt/ctranslate2",
+  "kind": "repo",
+  "url": "https://github.com/OpenNMT/CTranslate2",
+  "title": "CTranslate2",
+  "why": "Runs translation and text generation with beam search or sampling, letting you pick int8, float16 or bfloat16 compute per device.",
+  "keys": {
+    "races": [
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "llm-infra/inference"
+    ],
+    "capabilities": [
+      "llm-infra/inference/low-bit"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OpenNMT/CTranslate2",
+    "sha": "26e31a43b86872c16b9c66eb2468febced186f11",
+    "file_url": "https://cdn.jsdelivr.net/gh/OpenNMT/CTranslate2@26e31a43b86872c16b9c66eb2468febced186f11/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 4757,
+    "size_mb": 19,
+    "created_at": "2019-09-23T08:10:42Z",
+    "last_commit_at": "2026-11-20T06:48:17Z",
+    "releases": 135,
+    "tags": 180,
+    "archived": false,
+    "release": {
+      "tag": "v4.9.0",
+      "at": "2026-11-10T19:49:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "26e31a43b86872c16b9c66eb2468febced186f11",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:1912.03393",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1803.02155",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1706.03762",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

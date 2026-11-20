@@ -1,0 +1,132 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3f71d76088711e181624d01d3063af38c5565260"
+  },
+  "id": "gh:pnnl/neuromancer",
+  "kind": "repo",
+  "url": "https://github.com/pnnl/neuromancer",
+  "title": "neuromancer",
+  "why": "Adds constraints to PyTorch training through PenaltyLoss, BarrierLoss and AugmentedLagrangeLoss objectives, with neural operator examples included.",
+  "keys": {
+    "races": [
+      "sci/sciml",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "sci/sciml",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pnnl/neuromancer",
+    "sha": "3f71d76088711e181624d01d3063af38c5565260",
+    "file_url": "https://raw.githubusercontent.com/pnnl/neuromancer/3f71d76088711e181624d01d3063af38c5565260/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 1399,
+    "size_mb": 456,
+    "created_at": "2020-10-14T19:35:17Z",
+    "last_commit_at": "2026-10-21T18:38:53Z",
+    "releases": 9,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v1.5.7",
+      "at": "2026-10-21T18:40:56.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3f71d76088711e181624d01d3063af38c5565260",
+    "v": 4
+  },
+  "pinned_at": "2026-10-21T18:38:53Z",
+  "papers": [
+    {
+      "id": "arxiv:2410.11061",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2406.19662",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2406.10433",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2404.00882",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2311.08496",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2208.02319",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2203.10582",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2203.08984",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2203.01447",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2004.11184",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

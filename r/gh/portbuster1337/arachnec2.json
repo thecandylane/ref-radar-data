@@ -6,10 +6,12 @@
   "why": "Builds a decentralized C2 framework on libp2p, giving red teams a peer-to-peer channel instead of a single team server.",
   "keys": {
     "races": [
-      "cyber/offensive"
+      "cyber/offensive",
+      "exploit/c2"
     ],
     "lanes": [
-      "cyber/offensive"
+      "cyber/offensive",
+      "exploit/c2"
     ],
     "capabilities": []
   },
@@ -62,6 +64,6 @@
     "signals": [
       "offensive or proof-of-concept code"
     ],
-    "scanned_at": "2026-11-04T05:48:25.211Z"
+    "scanned_at": "2026-11-19T15:43:09.320Z"
   }
 }

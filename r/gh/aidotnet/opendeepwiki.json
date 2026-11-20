@@ -10,11 +10,13 @@
   "keys": {
     "races": [
       "agents/code-intel",
-      "llm-infra/rag"
+      "llm-infra/rag",
+      "dev-tools/docs"
     ],
     "lanes": [
       "agents/code-intel",
-      "llm-infra/rag"
+      "llm-infra/rag",
+      "dev-tools/docs"
     ],
     "capabilities": [
       "agents/code-intel/codebase-docs",
@@ -60,7 +62,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 10,
+    "star_delta_7d": 8,
     "votes": {},
     "ranks": {}
   },

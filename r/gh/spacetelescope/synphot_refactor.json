@@ -9,10 +9,12 @@
   "why": "Computes synthetic photometry on top of Astropy, built as the Bioconductor-adjacent refactor of synphot.",
   "keys": {
     "races": [
-      "data/analytics"
+      "data/analytics",
+      "space/astronomy"
     ],
     "lanes": [
-      "data/analytics"
+      "data/analytics",
+      "space/astronomy"
     ],
     "capabilities": []
   },

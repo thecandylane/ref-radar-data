@@ -1,0 +1,56 @@
+{
+  "id": "gh:9bie/php2shell-bypass-aslr-exp",
+  "kind": "repo",
+  "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+  "title": "php2shell-bypass-aslr-exp",
+  "why": "Exploits php2shell on the official version without modifications, needing neither display_errors nor limit_memory.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+    "sha": "d6f888ebd3f0e188bb662e16f23747afdf35e42f",
+    "file_url": "https://cdn.jsdelivr.net/gh/9bie/php2shell-bypass-aslr-exp@d6f888ebd3f0e188bb662e16f23747afdf35e42f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 1529,
+    "size_mb": 21,
+    "created_at": "2026-10-21T11:11:57Z",
+    "last_commit_at": "2026-10-23T20:39:00Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

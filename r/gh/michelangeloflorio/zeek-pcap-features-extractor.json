@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:5d8da8c432b47b5d6cd493b455250a2f31b83504"
+  },
   "id": "gh:michelangeloflorio/zeek-pcap-features-extractor",
   "kind": "repo",
   "url": "https://github.com/MichelangeloFlorio/Zeek-Pcap-Features-Extractor",
@@ -51,5 +54,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "5d8da8c432b47b5d6cd493b455250a2f31b83504",
+    "v": 4
+  },
+  "pinned_at": "2023-12-15T17:03:33Z"
 }

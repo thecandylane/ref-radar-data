@@ -10,11 +10,13 @@
   "keys": {
     "races": [
       "engineering/simulation",
-      "space/astronomy"
+      "space/astronomy",
+      "sci/numerics"
     ],
     "lanes": [
       "engineering/simulation",
-      "space/astronomy"
+      "space/astronomy",
+      "sci/numerics"
     ],
     "capabilities": []
   },
@@ -62,5 +64,13 @@
     "sha": "4dd643b48596138861aca7fa8ad4b75e07f35c38",
     "v": 4
   },
-  "pinned_at": "2025-05-21T22:17:19Z"
+  "pinned_at": "2025-05-21T22:17:19Z",
+  "papers": [
+    {
+      "id": "arxiv:2007.05013",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
 }

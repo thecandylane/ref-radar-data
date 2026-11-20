@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ff50d58c8fc872e7fec8484d5e1b009255361691"
+  },
   "id": "gh:natashabatalha/pandexo",
   "kind": "repo",
   "url": "https://github.com/natashabatalha/PandExo",
@@ -53,5 +56,18 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "pack": {
+    "sha": "ff50d58c8fc872e7fec8484d5e1b009255361691",
+    "v": 4
+  },
+  "pinned_at": "2026-09-14T16:55:49Z",
+  "papers": [
+    {
+      "id": "arxiv:1702.01820",
+      "via": [
+        "pwc"
+      ]
+    }
+  ],
   "scan_partial": true
 }

@@ -9,10 +9,12 @@
   "why": "Pipe in domains and it prints only the hosts answering over HTTP or HTTPS, a quick first step in recon.",
   "keys": {
     "races": [
-      "cyber/offensive"
+      "cyber/offensive",
+      "recon/domains"
     ],
     "lanes": [
-      "cyber/offensive"
+      "cyber/offensive",
+      "recon/domains"
     ],
     "capabilities": []
   },

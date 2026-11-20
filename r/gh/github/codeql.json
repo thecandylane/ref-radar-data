@@ -34,12 +34,12 @@
   "facts": {
     "lang": "CodeQL",
     "license": "MIT",
-    "stars": 10387,
-    "size_mb": 528,
+    "stars": 10390,
+    "size_mb": 530,
     "created_at": "2018-07-31T16:35:51Z",
-    "last_commit_at": "2026-11-18T19:18:18Z",
+    "last_commit_at": "2026-11-20T09:05:14Z",
     "releases": 0,
-    "tags": 179,
+    "tags": 180,
     "archived": false,
     "release": null
   },
@@ -59,5 +59,13 @@
   "pack": {
     "sha": "f55d649f5197ca604ace732f6883de78ef7280ee",
     "v": 3
-  }
+  },
+  "papers": [
+    {
+      "id": "arxiv:2309.04833",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
 }

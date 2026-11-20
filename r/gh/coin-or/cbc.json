@@ -1,0 +1,65 @@
+{
+  "id": "gh:coin-or/cbc",
+  "kind": "repo",
+  "url": "https://github.com/coin-or/Cbc",
+  "title": "Cbc",
+  "why": "A generator writes the branch and cut parameter reference as HTML, LaTeX, Markdown and man pages from one source.",
+  "keys": {
+    "races": [
+      "sci/optimization"
+    ],
+    "lanes": [
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/coin-or/Cbc",
+    "sha": "883efa6575e5ca5e88b20d7437966c4d02931cfc",
+    "file_url": "https://cdn.jsdelivr.net/gh/coin-or/Cbc@883efa6575e5ca5e88b20d7437966c4d02931cfc/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 1025,
+    "size_mb": 195,
+    "created_at": "2019-03-02T23:20:41Z",
+    "last_commit_at": "2026-11-18T02:16:24Z",
+    "releases": 12,
+    "tags": 76,
+    "archived": false,
+    "release": {
+      "tag": "releases/2.10.13",
+      "at": "2026-03-11T23:59:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "883efa6575e5ca5e88b20d7437966c4d02931cfc",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T02:16:24Z"
+}

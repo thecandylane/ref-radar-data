@@ -9,10 +9,12 @@
   "why": "Strips ads and telemetry from a Fire TV over ADB without root, with every step undoable and its own home screen.",
   "keys": {
     "races": [
-      "mobile/android"
+      "mobile/android",
+      "privacy/anti-tracking"
     ],
     "lanes": [
-      "mobile/android"
+      "mobile/android",
+      "privacy/anti-tracking"
     ],
     "capabilities": []
   },
@@ -31,16 +33,16 @@
   "facts": {
     "lang": "Java",
     "license": "NOASSERTION",
-    "stars": 2117,
+    "stars": 2166,
     "size_mb": 2,
     "created_at": "2026-10-18T17:04:12Z",
-    "last_commit_at": "2026-11-14T12:06:26Z",
-    "releases": 11,
-    "tags": 11,
+    "last_commit_at": "2026-11-19T09:47:03Z",
+    "releases": 12,
+    "tags": 12,
     "archived": false,
     "release": {
-      "tag": "launcher-v1.10",
-      "at": "2026-11-14T12:14:38.000Z"
+      "tag": "launcher-v1.11",
+      "at": "2026-11-19T09:47:27.000Z"
     }
   },
   "reuse": "copy",
@@ -51,7 +53,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 77,
+    "star_delta_7d": 119,
     "votes": {},
     "ranks": {}
   },
@@ -59,5 +61,6 @@
   "pack": {
     "sha": "755991b17a66e753e82f7252368c8850c08fdc71",
     "v": 3
-  }
+  },
+  "hot": true
 }

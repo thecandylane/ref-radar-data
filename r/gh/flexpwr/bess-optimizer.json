@@ -1,0 +1,60 @@
+{
+  "id": "gh:flexpwr/bess-optimizer",
+  "kind": "repo",
+  "url": "https://github.com/FlexPwr/bess-optimizer",
+  "title": "bess-optimizer",
+  "why": "Calculates the optimal charge-discharge schedule of a BESS across three German markets, solved in Pyomo with GLPK.",
+  "keys": {
+    "races": [
+      "sci/optimization",
+      "energy/home-energy"
+    ],
+    "lanes": [
+      "sci/optimization",
+      "energy/home-energy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/FlexPwr/bess-optimizer",
+    "sha": "0f98f98e5070c50926fb184e5b319c0715309cb1",
+    "file_url": "https://cdn.jsdelivr.net/gh/FlexPwr/bess-optimizer@0f98f98e5070c50926fb184e5b319c0715309cb1/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "NOASSERTION",
+    "stars": 118,
+    "size_mb": 1,
+    "created_at": "2024-02-02T11:40:58Z",
+    "last_commit_at": "2025-03-12T15:54:29Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0f98f98e5070c50926fb184e5b319c0715309cb1",
+    "v": 4
+  },
+  "pinned_at": "2025-03-12T15:54:29Z"
+}

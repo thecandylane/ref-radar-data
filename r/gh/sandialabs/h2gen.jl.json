@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0769f1e8699895ed103a682cd896bdbe1792a45c"
+  },
+  "id": "gh:sandialabs/h2gen.jl",
+  "kind": "repo",
+  "url": "https://github.com/sandialabs/H2Gen.jl",
+  "title": "H2Gen.jl",
+  "why": "Julia package for electrolyzer and fuel cell conversion, static or dynamic, with no JuMP or optimization dependencies.",
+  "keys": {
+    "races": [
+      "energy/system-models"
+    ],
+    "lanes": [
+      "energy/system-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sandialabs/H2Gen.jl",
+    "sha": "0769f1e8699895ed103a682cd896bdbe1792a45c",
+    "file_url": "https://cdn.jsdelivr.net/gh/sandialabs/H2Gen.jl@0769f1e8699895ed103a682cd896bdbe1792a45c/{path}"
+  },
+  "facts": {
+    "lang": "Julia",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-06-26T20:17:39Z",
+    "last_commit_at": "2026-06-27T21:05:56Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0769f1e8699895ed103a682cd896bdbe1792a45c",
+    "v": 4
+  },
+  "pinned_at": "2026-06-27T21:05:56Z"
+}

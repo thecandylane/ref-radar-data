@@ -1,0 +1,82 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fdef915f275e7282507596923d75dc47734396b1"
+  },
+  "id": "gh:benmoseley/fbpinns",
+  "kind": "repo",
+  "url": "https://github.com/benmoseley/FBPINNs",
+  "title": "FBPINNs",
+  "why": "Splits a PDE domain into overlapping subdomains with a small network in each, to solve high-frequency forward and inverse problems in JAX.",
+  "keys": {
+    "races": [
+      "sci/sciml",
+      "sci/numerics",
+      "ml/training"
+    ],
+    "lanes": [
+      "sci/sciml",
+      "sci/numerics",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/benmoseley/FBPINNs",
+    "sha": "fdef915f275e7282507596923d75dc47734396b1",
+    "file_url": "https://cdn.jsdelivr.net/gh/benmoseley/FBPINNs@fdef915f275e7282507596923d75dc47734396b1/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 584,
+    "size_mb": 22,
+    "created_at": "2021-06-27T12:23:30Z",
+    "last_commit_at": "2026-05-29T15:02:01Z",
+    "releases": 1,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.0",
+      "at": "2023-07-30T17:26:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fdef915f275e7282507596923d75dc47734396b1",
+    "v": 4
+  },
+  "pinned_at": "2026-05-29T15:02:01Z",
+  "papers": [
+    {
+      "id": "arxiv:2306.05486",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2107.07871",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

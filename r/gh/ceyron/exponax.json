@@ -10,11 +10,13 @@
   "keys": {
     "races": [
       "engineering/simulation",
-      "ml/training"
+      "ml/training",
+      "sci/numerics"
     ],
     "lanes": [
       "engineering/simulation",
-      "ml/training"
+      "ml/training",
+      "sci/numerics"
     ],
     "capabilities": []
   },
@@ -62,5 +64,25 @@
     "sha": "440082404ccc1d8906c6ea66382edf2f202e66bd",
     "v": 4
   },
-  "pinned_at": "2026-11-01T13:01:51Z"
+  "pinned_at": "2026-11-01T13:01:51Z",
+  "papers": [
+    {
+      "id": "arxiv:2411.00180",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2102.01010",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2007.00016",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
 }

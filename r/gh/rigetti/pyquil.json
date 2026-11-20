@@ -1,0 +1,75 @@
+{
+  "id": "gh:rigetti/pyquil",
+  "kind": "repo",
+  "url": "https://github.com/rigetti/pyquil",
+  "title": "pyquil",
+  "why": "Builds Quil programs and runs them on Rigetti QPUs or a local QVM, with a simulator and noise models in the same package.",
+  "keys": {
+    "races": [
+      "sci/quantum"
+    ],
+    "lanes": [
+      "sci/quantum"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rigetti/pyquil",
+    "sha": "053d0c89beb10034c8c52b68d31da6e230484223",
+    "file_url": "https://cdn.jsdelivr.net/gh/rigetti/pyquil@053d0c89beb10034c8c52b68d31da6e230484223/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 1499,
+    "size_mb": 83,
+    "created_at": "2017-01-09T21:30:22Z",
+    "last_commit_at": "2026-10-30T17:01:21Z",
+    "releases": 285,
+    "tags": 318,
+    "archived": false,
+    "release": {
+      "tag": "v4.23.0",
+      "at": "2026-10-30T17:01:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "053d0c89beb10034c8c52b68d31da6e230484223",
+    "v": 4
+  },
+  "pinned_at": "2026-10-30T17:01:21Z",
+  "papers": [
+    {
+      "id": "arxiv:2001.04449",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1608.03355",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

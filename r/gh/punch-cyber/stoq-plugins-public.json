@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:8c2c94e43ce54221121e8e3f542b54d255862078"
+  },
   "id": "gh:punch-cyber/stoq-plugins-public",
   "kind": "repo",
   "url": "https://github.com/PUNCH-Cyber/stoq-plugins-public",
@@ -54,5 +57,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pack": {
+    "sha": "8c2c94e43ce54221121e8e3f542b54d255862078",
+    "v": 4
+  },
+  "pinned_at": "2022-02-07T14:35:03Z"
 }

@@ -1,0 +1,78 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:315408726434ae798ed778f76f15b143adccbda5"
+  },
+  "id": "gh:sciml/differentialequations.jl",
+  "kind": "repo",
+  "url": "https://github.com/SciML/DifferentialEquations.jl",
+  "title": "DifferentialEquations.jl",
+  "why": "Solves ODEs, SDEs, DDEs and DAEs in Julia, and the same solvers can be called from Python or R by changing one line of code.",
+  "keys": {
+    "races": [
+      "sci/numerics",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "sci/numerics",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SciML/DifferentialEquations.jl",
+    "sha": "315408726434ae798ed778f76f15b143adccbda5",
+    "file_url": "https://cdn.jsdelivr.net/gh/SciML/DifferentialEquations.jl@315408726434ae798ed778f76f15b143adccbda5/{path}"
+  },
+  "facts": {
+    "lang": "Julia",
+    "license": "NOASSERTION",
+    "stars": 3183,
+    "size_mb": 173,
+    "created_at": "2016-05-11T05:13:39Z",
+    "last_commit_at": "2026-10-17T17:27:11Z",
+    "releases": 82,
+    "tags": 102,
+    "archived": false,
+    "release": {
+      "tag": "v8.1.1",
+      "at": "2026-08-27T20:44:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "315408726434ae798ed778f76f15b143adccbda5",
+    "v": 4
+  },
+  "pinned_at": "2026-10-17T17:27:11Z",
+  "papers": [
+    {
+      "id": "arxiv:2001.04385",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

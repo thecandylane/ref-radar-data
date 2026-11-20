@@ -1,0 +1,59 @@
+{
+  "id": "gh:lyramakesmusic/neuron-explorer",
+  "kind": "repo",
+  "url": "https://github.com/lyramakesmusic/neuron-explorer",
+  "title": "neuron-explorer",
+  "why": "Pushes every MLP neuron in Qwen3.5-4B one at a time, keeps every rollout, and lets you browse the steering results.",
+  "keys": {
+    "races": [
+      "ml/open-models",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "ml/open-models",
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lyramakesmusic/neuron-explorer",
+    "sha": "6a6f0e95bf49ad6626940021148f775d7d55d1e4",
+    "file_url": "https://cdn.jsdelivr.net/gh/lyramakesmusic/neuron-explorer@6a6f0e95bf49ad6626940021148f775d7d55d1e4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 2029,
+    "size_mb": 151,
+    "created_at": "2026-10-21T04:09:05Z",
+    "last_commit_at": "2026-11-01T00:46:54Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6a6f0e95bf49ad6626940021148f775d7d55d1e4",
+    "v": 4
+  }
+}

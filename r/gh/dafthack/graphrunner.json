@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4ea4d95804c4ae714b995b201757ff6c9c855597"
+  },
+  "id": "gh:dafthack/graphrunner",
+  "kind": "repo",
+  "url": "https://github.com/dafthack/GraphRunner",
+  "title": "GraphRunner",
+  "why": "Post-exploitation toolset that searches and exports mail and OneDrive files through Microsoft Graph, with no third-party modules.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/identity"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dafthack/GraphRunner",
+    "sha": "4ea4d95804c4ae714b995b201757ff6c9c855597",
+    "file_url": "https://cdn.jsdelivr.net/gh/dafthack/GraphRunner@4ea4d95804c4ae714b995b201757ff6c9c855597/{path}"
+  },
+  "facts": {
+    "lang": "PowerShell",
+    "license": "MIT",
+    "stars": 1356,
+    "size_mb": 1,
+    "created_at": "2023-08-15T17:19:11Z",
+    "last_commit_at": "2026-04-09T20:13:38Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4ea4d95804c4ae714b995b201757ff6c9c855597",
+    "v": 4
+  },
+  "pinned_at": "2026-04-09T20:13:38Z"
+}

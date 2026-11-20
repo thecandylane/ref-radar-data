@@ -35,7 +35,7 @@
     "stars": 6705,
     "size_mb": 27,
     "created_at": "2024-08-06T17:47:52Z",
-    "last_commit_at": "2026-11-19T05:51:56Z",
+    "last_commit_at": "2026-11-20T00:11:48Z",
     "releases": 34,
     "tags": 34,
     "archived": false,
@@ -52,13 +52,25 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "33b66dca97c22f5f38edd7af98a500d44abef7ef",
+    "v": 4
+  },
   "pins_before": [
     "42dc23c41dcaf1f95d858837aed5301fd4faa27a"
   ],
-  "pinned_at": "2026-11-19T05:51:56Z"
+  "pinned_at": "2026-11-19T05:51:56Z",
+  "papers": [
+    {
+      "id": "arxiv:2410.10989",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
 }

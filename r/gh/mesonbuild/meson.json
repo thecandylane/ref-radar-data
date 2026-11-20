@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:317287039ee73071632cb1c2e48adefe7dff6aa9"
+  },
   "id": "gh:mesonbuild/meson",
   "kind": "repo",
   "url": "https://github.com/mesonbuild/meson",
@@ -31,7 +34,7 @@
     "stars": 6670,
     "size_mb": 49,
     "created_at": "2014-05-14T15:08:16Z",
-    "last_commit_at": "2026-11-19T09:05:33Z",
+    "last_commit_at": "2026-11-19T19:03:42Z",
     "releases": 191,
     "tags": 207,
     "archived": false,
@@ -53,6 +56,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "317287039ee73071632cb1c2e48adefe7dff6aa9",
+    "v": 4
+  },
   "pins_before": [
     "15a717f8b8ac52a613f903da0355e9993f4fbcd7"
   ],

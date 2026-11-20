@@ -1,0 +1,88 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:14d1c15147564603d4564198f38af1ea3c42be92"
+  },
+  "id": "gh:hpcaitech/colossalai",
+  "kind": "repo",
+  "url": "https://github.com/hpcaitech/ColossalAI",
+  "title": "ColossalAI",
+  "why": "Splits large model training across data, tensor and pipeline parallelism, set from one configuration file, with inference support.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "sci/hpc",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "ml/training",
+      "sci/hpc",
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hpcaitech/ColossalAI",
+    "sha": "14d1c15147564603d4564198f38af1ea3c42be92",
+    "file_url": "https://cdn.jsdelivr.net/gh/hpcaitech/ColossalAI@14d1c15147564603d4564198f38af1ea3c42be92/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 41419,
+    "size_mb": 68,
+    "created_at": "2021-10-28T16:19:44Z",
+    "last_commit_at": "2026-11-18T15:40:51Z",
+    "releases": 50,
+    "tags": 64,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.0",
+      "at": "2025-06-04T06:00:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "14d1c15147564603d4564198f38af1ea3c42be92",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T15:40:51Z",
+  "papers": [
+    {
+      "id": "arxiv:2302.02599",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2212.05339",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2110.14883",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

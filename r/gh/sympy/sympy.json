@@ -1,0 +1,62 @@
+{
+  "id": "gh:sympy/sympy",
+  "kind": "repo",
+  "url": "https://github.com/sympy/sympy",
+  "title": "sympy",
+  "why": "Computer algebra in pure Python: symbolic calculus, series expansion and equation solving, with an interactive console and LaTeX parsing.",
+  "keys": {
+    "races": [
+      "sci/symbolic",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "sci/symbolic",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sympy/sympy",
+    "sha": "70145823b48fec69f83a3e793ea544843d15e06f",
+    "file_url": "https://cdn.jsdelivr.net/gh/sympy/sympy@70145823b48fec69f83a3e793ea544843d15e06f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 15118,
+    "size_mb": 193,
+    "created_at": "2010-04-30T20:37:14Z",
+    "last_commit_at": "2026-11-19T23:48:51Z",
+    "releases": 61,
+    "tags": 118,
+    "archived": false,
+    "release": {
+      "tag": "1.14.0",
+      "at": "2025-04-27T18:05:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "70145823b48fec69f83a3e793ea544843d15e06f",
+    "v": 4
+  }
+}

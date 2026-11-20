@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e3f63c74159efcb95c4984aaac8b198bd59a1bec"
+  },
+  "id": "gh:arthurakay/cyberscavengerhunt",
+  "kind": "repo",
+  "url": "https://github.com/arthurakay/cyberscavengerhunt",
+  "title": "cyberscavengerhunt",
+  "why": "Create React App scaffold for a pentesting scavenger hunt; the README only covers the yarn scripts.",
+  "keys": {
+    "races": [
+      "learning/security-labs"
+    ],
+    "lanes": [
+      "learning/security-labs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/arthurakay/cyberscavengerhunt",
+    "sha": "e3f63c74159efcb95c4984aaac8b198bd59a1bec",
+    "file_url": "https://cdn.jsdelivr.net/gh/arthurakay/cyberscavengerhunt@e3f63c74159efcb95c4984aaac8b198bd59a1bec/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "none",
+    "stars": 17,
+    "size_mb": 2,
+    "created_at": "2020-07-11T17:38:22Z",
+    "last_commit_at": "2022-07-19T19:37:43Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e3f63c74159efcb95c4984aaac8b198bd59a1bec",
+    "v": 4
+  },
+  "pinned_at": "2022-07-19T19:37:43Z"
+}

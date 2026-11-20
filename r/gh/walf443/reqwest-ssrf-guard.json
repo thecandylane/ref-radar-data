@@ -1,0 +1,65 @@
+{
+  "id": "gh:walf443/reqwest-ssrf-guard",
+  "kind": "repo",
+  "url": "https://github.com/walf443/reqwest-ssrf-guard",
+  "title": "reqwest-ssrf-guard",
+  "why": "Wire it in with configure for the resolver and redirects, then call validate_url yourself for IP-literal first requests.",
+  "keys": {
+    "races": [
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/appsec"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/walf443/reqwest-ssrf-guard",
+    "sha": "2fc33ebe07f3e71449385c0f3427b8a62edb9aa1",
+    "file_url": "https://cdn.jsdelivr.net/gh/walf443/reqwest-ssrf-guard@2fc33ebe07f3e71449385c0f3427b8a62edb9aa1/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2026-05-25T07:20:34Z",
+    "last_commit_at": "2026-10-24T02:35:16Z",
+    "releases": 1,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.0",
+      "at": "2026-09-28T06:46:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2fc33ebe07f3e71449385c0f3427b8a62edb9aa1",
+    "v": 4
+  },
+  "pinned_at": "2026-10-24T02:35:16Z"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "gh:nextflow-io/nextflow",
+  "kind": "repo",
+  "url": "https://github.com/nextflow-io/nextflow",
+  "title": "nextflow",
+  "why": "Runs channel-based workflows across AWS Batch, Azure and Google backends, with cloud cache paths for reuse between runs.",
+  "keys": {
+    "races": [
+      "data/pipelines",
+      "sci/hpc"
+    ],
+    "lanes": [
+      "data/pipelines",
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nextflow-io/nextflow",
+    "sha": "c9826491d84a71df215059b38d026e0673593b02",
+    "file_url": "https://cdn.jsdelivr.net/gh/nextflow-io/nextflow@c9826491d84a71df215059b38d026e0673593b02/{path}"
+  },
+  "facts": {
+    "lang": "Groovy",
+    "license": "Apache-2.0",
+    "stars": 3530,
+    "size_mb": 77,
+    "created_at": "2013-03-27T11:17:33Z",
+    "last_commit_at": "2026-11-19T15:03:29Z",
+    "releases": 351,
+    "tags": 383,
+    "archived": false,
+    "release": {
+      "tag": "v26.10.6",
+      "at": "2026-11-12T23:24:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c9826491d84a71df215059b38d026e0673593b02",
+    "v": 4
+  }
+}

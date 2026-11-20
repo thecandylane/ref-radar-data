@@ -10,11 +10,13 @@
   "keys": {
     "races": [
       "cyber/reversing",
-      "agents/tools"
+      "agents/tools",
+      "agents/skills"
     ],
     "lanes": [
       "cyber/reversing",
-      "agents/tools"
+      "agents/tools",
+      "agents/skills"
     ],
     "capabilities": [
       "cyber/reversing/agentic-re",
@@ -40,7 +42,7 @@
   "facts": {
     "lang": "Rust",
     "license": "none",
-    "stars": 62,
+    "stars": 63,
     "size_mb": 1,
     "created_at": "2026-10-14T15:49:55Z",
     "last_commit_at": "2026-10-16T04:20:55Z",

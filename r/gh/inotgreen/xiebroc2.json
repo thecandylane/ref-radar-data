@@ -9,10 +9,12 @@
   "why": "Runs a penetration testing command and control with Lua plugin extensions, domain fronting over a CDN, memory loading and grouped implant management.",
   "keys": {
     "races": [
-      "cyber/offensive"
+      "cyber/offensive",
+      "exploit/c2"
     ],
     "lanes": [
-      "cyber/offensive"
+      "cyber/offensive",
+      "exploit/c2"
     ],
     "capabilities": []
   },
@@ -31,7 +33,7 @@
   "facts": {
     "lang": "Go",
     "license": "none",
-    "stars": 1393,
+    "stars": 1392,
     "size_mb": 53,
     "created_at": "2024-02-15T15:46:07Z",
     "last_commit_at": "2025-02-28T09:44:39Z",

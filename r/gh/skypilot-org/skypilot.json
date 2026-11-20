@@ -1,0 +1,78 @@
+{
+  "id": "gh:skypilot-org/skypilot",
+  "kind": "repo",
+  "url": "https://github.com/skypilot-org/skypilot",
+  "title": "skypilot",
+  "why": "Write one task YAML and it launches on whichever Kubernetes, Slurm or cloud has capacity, with auto-failover on errors.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "sci/hpc",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "ml/training",
+      "sci/hpc",
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/skypilot-org/skypilot",
+    "sha": "f2503e0911a3b1142e6b2630b998aa1c9c96fdd9",
+    "file_url": "https://cdn.jsdelivr.net/gh/skypilot-org/skypilot@f2503e0911a3b1142e6b2630b998aa1c9c96fdd9/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 10862,
+    "size_mb": 271,
+    "created_at": "2021-08-11T23:32:15Z",
+    "last_commit_at": "2026-11-20T09:13:46Z",
+    "releases": 48,
+    "tags": 170,
+    "archived": false,
+    "release": {
+      "tag": "v0.14.3",
+      "at": "2026-11-16T21:39:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f2503e0911a3b1142e6b2630b998aa1c9c96fdd9",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2411.01438",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2205.07147",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

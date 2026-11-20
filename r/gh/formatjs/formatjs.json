@@ -38,16 +38,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "none",
-    "stars": 14753,
-    "size_mb": 122,
+    "stars": 14752,
+    "size_mb": 116,
     "created_at": "2014-04-24T17:28:36Z",
-    "last_commit_at": "2026-11-19T04:26:23Z",
+    "last_commit_at": "2026-11-20T05:11:29Z",
     "releases": 1000,
-    "tags": 5242,
+    "tags": 5247,
     "archived": false,
     "release": {
-      "tag": "@formatjs/temporal@1.1.1",
-      "at": "2026-11-18T06:05:21.000Z"
+      "tag": "formatjs_temporal_v2.0.0",
+      "at": "2026-11-19T13:17:12.000Z"
     }
   },
   "reuse": "copy",
@@ -58,11 +58,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": -1,
+    "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "5bb6386b11e4bebd0e4ffdb138aad8f8091c64fb",
+    "v": 4
+  },
   "pins_before": [
     "35439b34f6531a3d336b55103780ccc1ae0043e9"
   ],

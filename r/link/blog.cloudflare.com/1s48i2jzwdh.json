@@ -1,0 +1,39 @@
+{
+  "archive": {
+    "page": "https://web.archive.org/web/20261030161133/https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/"
+  },
+  "id": "link:blog.cloudflare.com/revisiting-spectre-attacks-on-workers",
+  "kind": "link",
+  "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers",
+  "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+  "why": "Covers how remote timers and Spectre gadgets reach co-located Workers, and the hardening that followed.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "infra/isolation"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "infra/isolation"
+    ],
+    "capabilities": []
+  },
+  "read": [],
+  "fetch": {
+    "type": "http",
+    "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:60a6a57510000d3c9e771e02698093c16b7ebf04"
+  },
+  "id": "gh:mattiwatti/efiguard",
+  "kind": "repo",
+  "url": "https://github.com/Mattiwatti/EfiGuard",
+  "title": "EfiGuard",
+  "why": "Patches the Windows boot manager, loader and kernel from UEFI, with Zydis decoding instructions instead of signature matching.",
+  "keys": {
+    "races": [
+      "systems/os",
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "systems/os",
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Mattiwatti/EfiGuard",
+    "sha": "60a6a57510000d3c9e771e02698093c16b7ebf04",
+    "file_url": "https://cdn.jsdelivr.net/gh/Mattiwatti/EfiGuard@60a6a57510000d3c9e771e02698093c16b7ebf04/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-3.0",
+    "stars": 2583,
+    "size_mb": 1,
+    "created_at": "2019-03-25T19:47:39Z",
+    "last_commit_at": "2026-06-16T23:48:43Z",
+    "releases": 10,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v1.4",
+      "at": "2023-10-15T04:34:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "60a6a57510000d3c9e771e02698093c16b7ebf04",
+    "v": 4
+  },
+  "pinned_at": "2026-06-16T23:48:43Z"
+}

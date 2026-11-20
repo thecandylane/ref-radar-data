@@ -1,0 +1,73 @@
+{
+  "id": "gh:jump-dev/mathoptinterface.jl",
+  "kind": "repo",
+  "url": "https://github.com/jump-dev/MathOptInterface.jl",
+  "title": "MathOptInterface.jl",
+  "why": "Julia layer letting modelling tools talk to many solvers through one problem data structure, cited in a 2021 INFORMS paper.",
+  "keys": {
+    "races": [
+      "sci/optimization"
+    ],
+    "lanes": [
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jump-dev/MathOptInterface.jl",
+    "sha": "dd8fca4684ab650d3efae49ff380b20264f6cd9c",
+    "file_url": "https://cdn.jsdelivr.net/gh/jump-dev/MathOptInterface.jl@dd8fca4684ab650d3efae49ff380b20264f6cd9c/{path}"
+  },
+  "facts": {
+    "lang": "Julia",
+    "license": "NOASSERTION",
+    "stars": 510,
+    "size_mb": 95,
+    "created_at": "2017-06-29T22:02:15Z",
+    "last_commit_at": "2026-11-17T11:01:57Z",
+    "releases": 142,
+    "tags": 142,
+    "archived": false,
+    "release": {
+      "tag": "v1.54.0",
+      "at": "2026-09-22T03:31:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dd8fca4684ab650d3efae49ff380b20264f6cd9c",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T11:01:57Z",
+  "papers": [
+    {
+      "id": "arxiv:2002.03447",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

@@ -9,10 +9,12 @@
   "why": "Every 10 ms tick it samples the cells and publishes a 48-word register image an inverter reads, in portable C99 with no heap.",
   "keys": {
     "races": [
-      "embedded/firmware"
+      "embedded/firmware",
+      "energy/home-energy"
     ],
     "lanes": [
-      "embedded/firmware"
+      "embedded/firmware",
+      "energy/home-energy"
     ],
     "capabilities": []
   },

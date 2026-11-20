@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8a6ac96db419b56a18d295935217649039bcdd0a"
+  },
+  "id": "gh:zacharyhampton/homeharvest",
+  "kind": "repo",
+  "url": "https://github.com/ZacharyHampton/HomeHarvest",
+  "title": "HomeHarvest",
+  "why": "Scrapes Realtor.com listings into MLS-style tables, filtered by price, beds and sold dates, returned as pandas or Pydantic.",
+  "keys": {
+    "races": [
+      "real-estate/listings",
+      "real-estate/property-data"
+    ],
+    "lanes": [
+      "real-estate/listings",
+      "real-estate/property-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ZacharyHampton/HomeHarvest",
+    "sha": "8a6ac96db419b56a18d295935217649039bcdd0a",
+    "file_url": "https://cdn.jsdelivr.net/gh/ZacharyHampton/HomeHarvest@8a6ac96db419b56a18d295935217649039bcdd0a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 764,
+    "size_mb": 1,
+    "created_at": "2023-09-15T19:29:01Z",
+    "last_commit_at": "2025-12-26T07:29:53Z",
+    "releases": 100,
+    "tags": 102,
+    "archived": false,
+    "release": {
+      "tag": "v0.8.18",
+      "at": "2025-12-26T07:33:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8a6ac96db419b56a18d295935217649039bcdd0a",
+    "v": 4
+  },
+  "pinned_at": "2025-12-26T07:29:53Z"
+}

@@ -9,10 +9,12 @@
   "why": "Downloads Qualtrics survey responses straight into R data frames through the Qualtrics API.",
   "keys": {
     "races": [
-      "data/pipelines"
+      "data/pipelines",
+      "support/feedback"
     ],
     "lanes": [
-      "data/pipelines"
+      "data/pipelines",
+      "support/feedback"
     ],
     "capabilities": []
   },

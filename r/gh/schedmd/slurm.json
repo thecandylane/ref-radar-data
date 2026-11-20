@@ -1,0 +1,64 @@
+{
+  "id": "gh:schedmd/slurm",
+  "kind": "repo",
+  "url": "https://github.com/SchedMD/slurm",
+  "title": "slurm",
+  "why": "Its C headers cover job states, accounting database calls and PMI process startup, for running jobs on HPC clusters.",
+  "keys": {
+    "races": [
+      "sci/hpc"
+    ],
+    "lanes": [
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SchedMD/slurm",
+    "sha": "2b7f6abf451dc012e6c4c45c5af91556975b8688",
+    "file_url": "https://cdn.jsdelivr.net/gh/SchedMD/slurm@2b7f6abf451dc012e6c4c45c5af91556975b8688/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 4531,
+    "size_mb": 360,
+    "created_at": "2011-06-20T16:15:51Z",
+    "last_commit_at": "2026-11-19T19:05:55Z",
+    "releases": 33,
+    "tags": 501,
+    "archived": false,
+    "release": {
+      "tag": "slurm-26-05-6-1",
+      "at": "2026-11-10T21:14:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2b7f6abf451dc012e6c4c45c5af91556975b8688",
+    "v": 4
+  }
+}

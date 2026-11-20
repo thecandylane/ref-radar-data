@@ -6,10 +6,12 @@
   "why": "Pulls statements, receipts and pay stubs as PDFs from 60+ banks and employers after you sign in, then builds spreadsheets from them.",
   "keys": {
     "races": [
-      "finance/personal"
+      "finance/personal",
+      "business-apps/document-management"
     ],
     "lanes": [
-      "finance/personal"
+      "finance/personal",
+      "business-apps/document-management"
     ],
     "capabilities": []
   },
@@ -52,7 +54,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 4,
+    "star_delta_7d": 3,
     "votes": {},
     "ranks": {}
   },

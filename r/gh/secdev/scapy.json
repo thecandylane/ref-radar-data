@@ -10,11 +10,13 @@
   "keys": {
     "races": [
       "infra/networking",
-      "cyber/offensive"
+      "cyber/offensive",
+      "netsec/capture"
     ],
     "lanes": [
       "infra/networking",
-      "cyber/offensive"
+      "cyber/offensive",
+      "netsec/capture"
     ],
     "capabilities": []
   },
@@ -33,7 +35,7 @@
   "facts": {
     "lang": "Python",
     "license": "GPL-2.0",
-    "stars": 12702,
+    "stars": 12704,
     "size_mb": 86,
     "created_at": "2015-10-01T17:06:46Z",
     "last_commit_at": "2026-11-19T01:09:07Z",

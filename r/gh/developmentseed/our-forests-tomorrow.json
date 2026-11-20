@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9554c740d76f98192e5cffc2bc1a0a9ba45e78e7"
+  },
+  "id": "gh:developmentseed/our-forests-tomorrow",
+  "kind": "repo",
+  "url": "https://github.com/developmentseed/our-forests-tomorrow",
+  "title": "our-forests-tomorrow",
+  "why": "Mapbox minisite showing 67 European tree species on a 10km grid for 2035, 2065 and 2095, one cell at a time.",
+  "keys": {
+    "races": [
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/developmentseed/our-forests-tomorrow",
+    "sha": "9554c740d76f98192e5cffc2bc1a0a9ba45e78e7",
+    "file_url": "https://cdn.jsdelivr.net/gh/developmentseed/our-forests-tomorrow@9554c740d76f98192e5cffc2bc1a0a9ba45e78e7/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 26,
+    "size_mb": 34,
+    "created_at": "2023-04-04T12:21:09Z",
+    "last_commit_at": "2024-03-21T21:40:10Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9554c740d76f98192e5cffc2bc1a0a9ba45e78e7",
+    "v": 4
+  },
+  "pinned_at": "2024-03-21T21:40:10Z"
+}

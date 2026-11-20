@@ -1,0 +1,92 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4ff3e3a4aa1561721b5571fa3a048a0a463e0568"
+  },
+  "id": "gh:pdebench/pdebench",
+  "kind": "repo",
+  "url": "https://github.com/pdebench/PDEBench",
+  "title": "PDEBench",
+  "why": "Benchmark suite of PDE datasets and baseline FNO, U-Net and PINN models, with Hydra configs for training and evaluation.",
+  "keys": {
+    "races": [
+      "sci/sciml",
+      "data/datasets"
+    ],
+    "lanes": [
+      "sci/sciml",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pdebench/PDEBench",
+    "sha": "4ff3e3a4aa1561721b5571fa3a048a0a463e0568",
+    "file_url": "https://cdn.jsdelivr.net/gh/pdebench/PDEBench@4ff3e3a4aa1561721b5571fa3a048a0a463e0568/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 1231,
+    "size_mb": 1,
+    "created_at": "2022-06-02T14:11:04Z",
+    "last_commit_at": "2026-03-30T08:27:30Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.0",
+      "at": "2023-08-25T07:37:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4ff3e3a4aa1561721b5571fa3a048a0a463e0568",
+    "v": 4
+  },
+  "pinned_at": "2026-03-30T08:27:30Z",
+  "papers": [
+    {
+      "id": "arxiv:2408.01536",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2304.14118",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2210.07182",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2010.08895",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

@@ -9,10 +9,12 @@
   "why": "Parallel N-body integrator for planet formation that runs on CPU supercomputers using MPI and the FDPS library.",
   "keys": {
     "races": [
-      "engineering/simulation"
+      "engineering/simulation",
+      "sci/hpc"
     ],
     "lanes": [
-      "engineering/simulation"
+      "engineering/simulation",
+      "sci/hpc"
     ],
     "capabilities": []
   },
@@ -61,5 +63,13 @@
     "sha": "3d682bb493644a314d9192f72eac0217a52835b1",
     "v": 3
   },
-  "pinned_at": "2017-10-29T05:37:38Z"
+  "pinned_at": "2017-10-29T05:37:38Z",
+  "papers": [
+    {
+      "id": "arxiv:1810.11970",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
 }

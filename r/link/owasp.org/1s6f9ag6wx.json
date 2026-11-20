@@ -1,0 +1,37 @@
+{
+  "archive": {
+    "page": "https://web.archive.org/web/20260903090501/https://owasp.org/Top10/2025/"
+  },
+  "id": "link:owasp.org/Top10/2025",
+  "kind": "link",
+  "url": "https://owasp.org/Top10/2025",
+  "title": "OWASP Top 10:2025",
+  "why": "The 2025 OWASP Top 10, a ranked list of web application risks to check your application code against.",
+  "keys": {
+    "races": [
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/appsec"
+    ],
+    "capabilities": []
+  },
+  "read": [],
+  "fetch": {
+    "type": "http",
+    "url": "https://owasp.org/Top10/2025"
+  },
+  "reuse": null,
+  "maturity": null,
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

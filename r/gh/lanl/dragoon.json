@@ -9,10 +9,12 @@
   "why": "Gives agentic AI HPC architecture tasks as a set of benchmark runs, with the experiment code kept under src.",
   "keys": {
     "races": [
-      "llm-infra/evals"
+      "llm-infra/evals",
+      "sci/hpc"
     ],
     "lanes": [
-      "llm-infra/evals"
+      "llm-infra/evals",
+      "sci/hpc"
     ],
     "capabilities": []
   },

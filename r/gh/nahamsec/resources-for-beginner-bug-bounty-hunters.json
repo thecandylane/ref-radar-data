@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:13f606505c4e7b5128ab7de1f514915e41d66d11"
+  },
+  "id": "gh:nahamsec/resources-for-beginner-bug-bounty-hunters",
+  "kind": "repo",
+  "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+  "title": "Resources-for-Beginner-Bug-Bounty-Hunters",
+  "why": "$$$",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "sha": "13f606505c4e7b5128ab7de1f514915e41d66d11",
+    "file_url": "https://cdn.jsdelivr.net/gh/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters@13f606505c4e7b5128ab7de1f514915e41d66d11/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "none",
+    "stars": 12354,
+    "size_mb": 0,
+    "created_at": "2019-01-15T19:30:25Z",
+    "last_commit_at": "2024-07-23T17:01:39Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "13f606505c4e7b5128ab7de1f514915e41d66d11",
+    "v": 4
+  },
+  "pinned_at": "2024-07-23T17:01:39Z"
+}

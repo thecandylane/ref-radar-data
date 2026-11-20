@@ -1,0 +1,67 @@
+{
+  "id": "gh:owasp/nest",
+  "kind": "repo",
+  "url": "https://github.com/OWASP/Nest",
+  "title": "OWASP/Nest",
+  "why": "Community hub for exploring OWASP projects and contribution opportunities, with search, a Slack bot and AI-generated issue summaries on Django and React.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "cyber/appsec",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "cyber/appsec",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "llm-infra/rag/knowledge-platforms"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OWASP/Nest",
+    "sha": "8bbb35845037067d1584abfaf11cc5e9a65b6efd",
+    "file_url": "https://cdn.jsdelivr.net/gh/OWASP/Nest@8bbb35845037067d1584abfaf11cc5e9a65b6efd/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 482,
+    "size_mb": 1035,
+    "created_at": "2024-08-27T21:47:35Z",
+    "last_commit_at": "2026-11-20T02:54:39Z",
+    "releases": 192,
+    "tags": 192,
+    "archived": false,
+    "release": {
+      "tag": "2026.11.19",
+      "at": "2026-11-20T02:40:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8bbb35845037067d1584abfaf11cc5e9a65b6efd",
+    "v": 4
+  },
+  "scan_partial": true
+}

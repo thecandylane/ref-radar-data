@@ -1,0 +1,72 @@
+{
+  "id": "gh:serial-studio/serial-studio",
+  "kind": "repo",
+  "url": "https://github.com/Serial-Studio/Serial-Studio",
+  "title": "Serial-Studio",
+  "why": "Reads serial lines from a microcontroller and draws live plots and gauges, with Modbus, CAN and OPC UA drivers beside them.",
+  "keys": {
+    "races": [
+      "industrial/scada",
+      "industrial/protocols",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "industrial/scada",
+      "industrial/protocols",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Serial-Studio/Serial-Studio",
+    "sha": "6368e4b37930eb1b7c2418145a94e64da0f1afc7",
+    "file_url": "https://raw.githubusercontent.com/Serial-Studio/Serial-Studio/6368e4b37930eb1b7c2418145a94e64da0f1afc7/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 7333,
+    "size_mb": 600,
+    "created_at": "2020-10-18T11:49:02Z",
+    "last_commit_at": "2026-11-19T18:30:05Z",
+    "releases": 60,
+    "tags": 61,
+    "archived": false,
+    "release": {
+      "tag": "v4.2.2",
+      "at": "2026-11-16T13:40:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6368e4b37930eb1b7c2418145a94e64da0f1afc7",
+    "v": 4
+  }
+}

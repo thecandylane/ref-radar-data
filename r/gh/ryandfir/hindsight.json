@@ -9,10 +9,12 @@
   "why": "Reads Chrome, Chromium and Firefox profile data back into browsing history for browser forensics, with a GUI.",
   "keys": {
     "races": [
-      "cyber/detection"
+      "cyber/detection",
+      "forensics/triage"
     ],
     "lanes": [
-      "cyber/detection"
+      "cyber/detection",
+      "forensics/triage"
     ],
     "capabilities": []
   },
@@ -51,7 +53,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 6,
+    "star_delta_7d": 5,
     "votes": {},
     "ranks": {}
   },

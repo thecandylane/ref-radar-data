@@ -8,12 +8,14 @@
     "races": [
       "agents/assistants",
       "agents/frameworks",
-      "agents/tools"
+      "agents/tools",
+      "business-apps/low-code"
     ],
     "lanes": [
       "agents/assistants",
       "agents/frameworks",
-      "agents/tools"
+      "agents/tools",
+      "business-apps/low-code"
     ],
     "capabilities": [
       "agents/assistants/task-automation",
@@ -40,16 +42,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 211311,
-    "size_mb": 839,
+    "stars": 211484,
+    "size_mb": 858,
     "created_at": "2019-06-22T09:24:21Z",
-    "last_commit_at": "2026-11-19T09:06:10Z",
-    "releases": 912,
-    "tags": 2271,
+    "last_commit_at": "2026-11-20T09:12:57Z",
+    "releases": 915,
+    "tags": 2274,
     "archived": false,
     "release": {
-      "tag": "n8n@2.48.6",
-      "at": "2026-11-19T08:29:57.000Z"
+      "tag": "n8n@2.48.7",
+      "at": "2026-11-20T08:36:44.000Z"
     }
   },
   "reuse": "copy",
@@ -60,11 +62,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 1055,
+    "star_delta_7d": 1125,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "90616400e834fed17424f4317f8967b06d738917",
+    "v": 4
+  },
   "pins_before": [
     "f82deca323a6129e3f84f45bedb3223ea1884a88"
   ],

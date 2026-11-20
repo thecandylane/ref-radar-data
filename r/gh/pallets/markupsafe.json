@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4e111271b1494995708a9e878a10829b5e10c7ba"
+  },
+  "id": "gh:pallets/markupsafe",
+  "kind": "repo",
+  "url": "https://github.com/pallets/markupsafe",
+  "title": "markupsafe",
+  "why": "Escapes untrusted strings for HTML and XML, and its Markup str subclass escapes the arguments of its methods and operators.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pallets/markupsafe",
+    "sha": "4e111271b1494995708a9e878a10829b5e10c7ba",
+    "file_url": "https://cdn.jsdelivr.net/gh/pallets/markupsafe@4e111271b1494995708a9e878a10829b5e10c7ba/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 702,
+    "size_mb": 1,
+    "created_at": "2010-06-22T17:22:58Z",
+    "last_commit_at": "2026-10-03T00:01:42Z",
+    "releases": 14,
+    "tags": 39,
+    "archived": false,
+    "release": {
+      "tag": "3.0.4",
+      "at": "2026-10-02T23:09:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4e111271b1494995708a9e878a10829b5e10c7ba",
+    "v": 4
+  },
+  "pinned_at": "2026-10-03T00:01:42Z"
+}

@@ -10,11 +10,13 @@
   "keys": {
     "races": [
       "agents/assistants",
-      "agents/skills"
+      "agents/skills",
+      "agents/coding"
     ],
     "lanes": [
       "agents/assistants",
-      "agents/skills"
+      "agents/skills",
+      "agents/coding"
     ],
     "capabilities": [
       "agents/assistants/deep-research"
@@ -42,5 +44,6 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "citations": 0
 }

@@ -9,10 +9,12 @@
   "why": "Runs geneset enrichment workflows from R and reports the results, for bioinformatics and computational biology.",
   "keys": {
     "races": [
-      "data/analytics"
+      "data/analytics",
+      "biology/bioinformatics"
     ],
     "lanes": [
-      "data/analytics"
+      "data/analytics",
+      "biology/bioinformatics"
     ],
     "capabilities": []
   },

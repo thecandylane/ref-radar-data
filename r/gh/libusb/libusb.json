@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a46f434b6e9c62164808faed08f8027d37d775e8"
+  },
   "id": "gh:libusb/libusb",
   "kind": "repo",
   "url": "https://github.com/libusb/libusb",
@@ -53,6 +56,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "a46f434b6e9c62164808faed08f8027d37d775e8",
+    "v": 4
+  },
   "pins_before": [
     "9b2913977f7af7354301badd7412a910c510e178"
   ],

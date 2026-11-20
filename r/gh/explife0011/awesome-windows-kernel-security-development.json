@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:899f5a6ad12f520f4531461ae0929de4ce3292f3"
+  },
+  "id": "gh:explife0011/awesome-windows-kernel-security-development",
+  "kind": "repo",
+  "url": "https://github.com/ExpLife0011/awesome-windows-kernel-security-development",
+  "title": "awesome-windows-kernel-security-development",
+  "why": "Curated index of Windows kernel driver, minifilter and rootkit projects, grouped by topic like SSDT hook, debugger plugins and bootkits.",
+  "keys": {
+    "races": [
+      "systems/os",
+      "cyber/reversing",
+      "cyber/offensive",
+      "embedded/drivers"
+    ],
+    "lanes": [
+      "systems/os",
+      "cyber/reversing",
+      "cyber/offensive",
+      "embedded/drivers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ExpLife0011/awesome-windows-kernel-security-development",
+    "sha": "899f5a6ad12f520f4531461ae0929de4ce3292f3",
+    "file_url": "https://cdn.jsdelivr.net/gh/ExpLife0011/awesome-windows-kernel-security-development@899f5a6ad12f520f4531461ae0929de4ce3292f3/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "none",
+    "stars": 2070,
+    "size_mb": 3,
+    "created_at": "2018-03-19T02:16:43Z",
+    "last_commit_at": "2022-02-18T05:53:03Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "899f5a6ad12f520f4531461ae0929de4ce3292f3",
+    "v": 4
+  },
+  "pinned_at": "2022-02-18T05:53:03Z",
+  "scan_partial": true
+}

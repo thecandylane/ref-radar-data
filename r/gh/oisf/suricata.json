@@ -7,11 +7,13 @@
   "keys": {
     "races": [
       "cyber/detection",
-      "infra/observability"
+      "infra/observability",
+      "netsec/ids"
     ],
     "lanes": [
       "cyber/detection",
-      "infra/observability"
+      "infra/observability",
+      "netsec/ids"
     ],
     "capabilities": []
   },
@@ -34,7 +36,7 @@
   "facts": {
     "lang": "C",
     "license": "GPL-2.0",
-    "stars": 6915,
+    "stars": 6918,
     "size_mb": 84,
     "created_at": "2012-08-14T08:30:06Z",
     "last_commit_at": "2026-11-18T14:24:01Z",
@@ -54,11 +56,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 40,
+    "star_delta_7d": 41,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "5c7787ed61adb1aa7a26c23e093992350fc97d62",
+    "v": 4
+  },
   "pins_before": [
     "c48ca372deb3befae42f3dbcaa75467e20dbae3b"
   ],

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:7ae66ca5cf5e75dca18ba2f6cbdd21453c8e51a5"
+  },
   "id": "gh:eclipse-mosquitto/mosquitto",
   "kind": "repo",
   "url": "https://github.com/eclipse-mosquitto/mosquitto",
@@ -57,11 +60,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 115,
+    "star_delta_7d": 111,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "7ae66ca5cf5e75dca18ba2f6cbdd21453c8e51a5",
+    "v": 4
+  },
   "pins_before": [
     "fda14f2c196d9d2fcdd07d6c5d31a673524f7368"
   ],

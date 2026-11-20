@@ -8,12 +8,14 @@
     "races": [
       "llm-infra/inference",
       "desktop/app-shells",
-      "desktop/packaging"
+      "desktop/packaging",
+      "media/music-notation"
     ],
     "lanes": [
       "llm-infra/inference",
       "desktop/app-shells",
-      "desktop/packaging"
+      "desktop/packaging",
+      "media/music-notation"
     ],
     "capabilities": []
   },
@@ -40,16 +42,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 2355,
-    "size_mb": 145,
+    "stars": 2386,
+    "size_mb": 149,
     "created_at": "2026-09-22T23:06:11Z",
-    "last_commit_at": "2026-11-18T11:41:30Z",
-    "releases": 46,
-    "tags": 46,
+    "last_commit_at": "2026-11-19T11:39:42Z",
+    "releases": 47,
+    "tags": 47,
     "archived": false,
     "release": {
-      "tag": "v4.1.0",
-      "at": "2026-11-16T19:54:27.000Z"
+      "tag": "v4.1.1",
+      "at": "2026-11-19T20:08:04.000Z"
     }
   },
   "reuse": "copy",
@@ -60,7 +62,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 241,
+    "star_delta_7d": 231,
     "votes": {},
     "ranks": {}
   },
@@ -75,6 +77,6 @@
     "signals": [
       "contains raw shellcode bytes"
     ],
-    "scanned_at": "2026-11-02T08:36:08.131Z"
+    "scanned_at": "2026-11-19T20:13:37.588Z"
   }
 }

@@ -6,10 +6,12 @@
   "why": "Single-objective optimization algorithms in C++ with Python bindings, plus CEC input data and scripts for comparing them.",
   "keys": {
     "races": [
-      "ml/training"
+      "ml/training",
+      "sci/optimization"
     ],
     "lanes": [
-      "ml/training"
+      "ml/training",
+      "sci/optimization"
     ],
     "capabilities": []
   },
@@ -31,7 +33,7 @@
     "stars": 10,
     "size_mb": 17,
     "created_at": "2024-07-13T00:06:44Z",
-    "last_commit_at": "2026-11-19T09:16:24Z",
+    "last_commit_at": "2026-11-19T12:45:20Z",
     "releases": 5,
     "tags": 10,
     "archived": false,

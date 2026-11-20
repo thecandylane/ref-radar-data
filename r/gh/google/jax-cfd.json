@@ -9,10 +9,12 @@
   "why": "Write CFD solvers in JAX and work through them in notebooks, with the numerics expressed as array code.",
   "keys": {
     "races": [
-      "engineering/simulation"
+      "engineering/simulation",
+      "sci/numerics"
     ],
     "lanes": [
-      "engineering/simulation"
+      "engineering/simulation",
+      "sci/numerics"
     ],
     "capabilities": []
   },
@@ -61,5 +63,13 @@
     "v": 3
   },
   "pinned_at": "2026-10-25T05:41:18Z",
+  "papers": [
+    {
+      "id": "arxiv:2207.00556",
+      "via": [
+        "pwc"
+      ]
+    }
+  ],
   "scan_partial": true
 }

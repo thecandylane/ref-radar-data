@@ -35,8 +35,8 @@
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 41815,
-    "size_mb": 287,
+    "stars": 41828,
+    "size_mb": 288,
     "created_at": "2017-02-07T16:07:05Z",
     "last_commit_at": "2026-11-18T19:07:35Z",
     "releases": 30,
@@ -55,14 +55,50 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 339,
+    "star_delta_7d": 256,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "14392c952788ca1d6980361cf01d1c8736afc4db",
+    "v": 4
+  },
   "pins_before": [
     "7767c6396381c6586aba873fda72eec8d6819b7b"
   ],
   "pinned_at": "2026-11-18T19:07:35Z",
+  "papers": [
+    {
+      "id": "arxiv:2401.08281",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2211.15182",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1804.09996",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1702.08734",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1609.01882",
+      "via": [
+        "pwc"
+      ]
+    }
+  ],
   "hot": true
 }

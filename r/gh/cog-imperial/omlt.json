@@ -1,0 +1,75 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:75be2dbd65246ff91d07192c091eed341f10ed2b"
+  },
+  "id": "gh:cog-imperial/omlt",
+  "kind": "repo",
+  "url": "https://github.com/cog-imperial/OMLT",
+  "title": "OMLT",
+  "why": "Embeds trained Keras and ONNX neural networks and gradient-boosted trees into Pyomo models as full-space, reduced-space or MILP formulations.",
+  "keys": {
+    "races": [
+      "sci/optimization",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "sci/optimization",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cog-imperial/OMLT",
+    "sha": "75be2dbd65246ff91d07192c091eed341f10ed2b",
+    "file_url": "https://cdn.jsdelivr.net/gh/cog-imperial/OMLT@75be2dbd65246ff91d07192c091eed341f10ed2b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 350,
+    "size_mb": 15,
+    "created_at": "2021-06-03T12:39:38Z",
+    "last_commit_at": "2026-07-09T00:18:41Z",
+    "releases": 0,
+    "tags": 9,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "75be2dbd65246ff91d07192c091eed341f10ed2b",
+    "v": 4
+  },
+  "pinned_at": "2026-07-09T00:18:41Z",
+  "papers": [
+    {
+      "id": "arxiv:2202.02414",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

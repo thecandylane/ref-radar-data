@@ -10,11 +10,15 @@
   "keys": {
     "races": [
       "learning/security-labs",
-      "cyber/offensive"
+      "cyber/offensive",
+      "exploit/development",
+      "exploit/rop"
     ],
     "lanes": [
       "learning/security-labs",
-      "cyber/offensive"
+      "cyber/offensive",
+      "exploit/development",
+      "exploit/rop"
     ],
     "capabilities": []
   },
@@ -53,11 +57,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 20,
+    "star_delta_7d": 18,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "pack": {
+    "sha": "c45cbebe121bbef25eae306665c76d78ee4dbc5f",
+    "v": 4
+  },
   "pins_before": [
     "af4918c43fe1e605ea4caf98ff9ebb1e70b97bae"
   ],

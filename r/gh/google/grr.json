@@ -9,10 +9,12 @@
   "why": "Python agents on endpoints let responders pull live forensic data remotely during an incident.",
   "keys": {
     "races": [
-      "cyber/detection"
+      "cyber/detection",
+      "forensics/triage"
     ],
     "lanes": [
-      "cyber/detection"
+      "cyber/detection",
+      "forensics/triage"
     ],
     "capabilities": []
   },
@@ -31,7 +33,7 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 5113,
+    "stars": 5114,
     "size_mb": 167,
     "created_at": "2013-12-04T00:17:53Z",
     "last_commit_at": "2026-10-01T16:04:33Z",

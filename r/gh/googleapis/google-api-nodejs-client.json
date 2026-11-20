@@ -1,0 +1,69 @@
+{
+  "id": "gh:googleapis/google-api-nodejs-client",
+  "kind": "repo",
+  "url": "https://github.com/googleapis/google-api-nodejs-client",
+  "title": "google-api-nodejs-client",
+  "why": "Node.js client for calling Google APIs, with OAuth 2.0, API key and service account authentication built in.",
+  "keys": {
+    "races": [
+      "infra/serverless",
+      "agents/tools"
+    ],
+    "lanes": [
+      "infra/serverless",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/cloud-ops"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/googleapis/google-api-nodejs-client",
+    "sha": "93e74520dcababb23642937107e5e6e1b8097405",
+    "file_url": "https://raw.githubusercontent.com/googleapis/google-api-nodejs-client/93e74520dcababb23642937107e5e6e1b8097405/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 12290,
+    "size_mb": 694,
+    "created_at": "2013-03-06T17:02:23Z",
+    "last_commit_at": "2026-11-18T17:03:15Z",
+    "releases": 1000,
+    "tags": 13296,
+    "archived": false,
+    "release": {
+      "tag": "auditmanager-v2.2.0",
+      "at": "2026-11-12T20:17:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "93e74520dcababb23642937107e5e6e1b8097405",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T17:03:15Z"
+}

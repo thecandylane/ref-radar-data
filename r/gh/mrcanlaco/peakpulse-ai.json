@@ -10,14 +10,17 @@
   "keys": {
     "races": [
       "data/pipelines",
-      "finance/quant"
+      "finance/quant",
+      "finance/markets"
     ],
     "lanes": [
       "data/pipelines",
-      "finance/quant"
+      "finance/quant",
+      "finance/markets"
     ],
     "capabilities": [
-      "finance/quant/quant-ml"
+      "finance/quant/quant-ml",
+      "finance/markets/market-data"
     ]
   },
   "read": [
