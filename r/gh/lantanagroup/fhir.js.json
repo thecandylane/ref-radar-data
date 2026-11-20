@@ -1,0 +1,59 @@
+{
+  "id": "gh:lantanagroup/fhir.js",
+  "kind": "repo",
+  "url": "https://github.com/lantanagroup/FHIR.js",
+  "title": "FHIR.js",
+  "why": "Validates FHIR resources against custom profiles, and xmlToObj keeps decimal values as strings so precision is not lost.",
+  "keys": {
+    "races": [
+      "medicine/interoperability",
+      "data/serialization"
+    ],
+    "lanes": [
+      "medicine/interoperability",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lantanagroup/FHIR.js",
+    "sha": "fca22062f2725809c5ab89f1e94cd99e73788b86",
+    "file_url": "https://cdn.jsdelivr.net/gh/lantanagroup/FHIR.js@fca22062f2725809c5ab89f1e94cd99e73788b86/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 118,
+    "size_mb": 20,
+    "created_at": "2015-07-27T16:26:22Z",
+    "last_commit_at": "2026-03-07T19:51:12Z",
+    "releases": 0,
+    "tags": 10,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fca22062f2725809c5ab89f1e94cd99e73788b86",
+    "v": 4
+  }
+}

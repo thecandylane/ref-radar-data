@@ -1,0 +1,79 @@
+{
+  "id": "gh:ctian282/deepssm",
+  "kind": "repo",
+  "url": "https://github.com/ctian282/DeepSSM",
+  "title": "DeepSSM",
+  "why": "Neural network stand-in for the sound-shell model that returns gravitational wave spectra from cosmological phase transitions.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ctian282/DeepSSM",
+    "sha": "a724ce345e962795c55408d2cbe3c73c5a7507d0",
+    "file_url": "https://cdn.jsdelivr.net/gh/ctian282/DeepSSM@a724ce345e962795c55408d2cbe3c73c5a7507d0/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "none",
+    "stars": 4,
+    "size_mb": 1,
+    "created_at": "2025-01-07T06:40:47Z",
+    "last_commit_at": "2025-01-20T07:17:03Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a724ce345e962795c55408d2cbe3c73c5a7507d0",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2501.10244",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2308.12943",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1909.10040",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

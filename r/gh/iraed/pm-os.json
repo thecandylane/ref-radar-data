@@ -1,0 +1,72 @@
+{
+  "id": "gh:iraed/pm-os",
+  "kind": "repo",
+  "url": "https://github.com/iRaed/pm-os",
+  "title": "pm-os",
+  "why": "Laravel and Vue SaaS for managing rental properties, leases, invoices and maintenance work orders, with Arabic RTL and ZATCA e-invoicing for Saudi Arabia.",
+  "keys": {
+    "races": [
+      "real-estate/property-management",
+      "finance/e-invoicing",
+      "finance/accounting",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "real-estate/property-management",
+      "finance/e-invoicing",
+      "finance/accounting",
+      "web/frameworks"
+    ],
+    "capabilities": [
+      "finance/accounting/bookkeeping"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/iRaed/pm-os",
+    "sha": "c1b24fc6f92f1bc766f8a01248ffca8cb1182d5e",
+    "file_url": "https://cdn.jsdelivr.net/gh/iRaed/pm-os@c1b24fc6f92f1bc766f8a01248ffca8cb1182d5e/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 48,
+    "size_mb": 0,
+    "created_at": "2026-03-18T23:15:50Z",
+    "last_commit_at": "2026-03-19T02:16:55Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.0",
+      "at": "2026-03-19T02:41:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c1b24fc6f92f1bc766f8a01248ffca8cb1182d5e",
+    "v": 4
+  }
+}

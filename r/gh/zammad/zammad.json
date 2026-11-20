@@ -1,0 +1,67 @@
+{
+  "id": "gh:zammad/zammad",
+  "kind": "repo",
+  "url": "https://github.com/zammad/zammad",
+  "title": "zammad",
+  "why": "Web helpdesk and customer support system handling tickets from email, chat, telephone and social media, built on Rails with a GraphQL API.",
+  "keys": {
+    "races": [
+      "support/helpdesk",
+      "business-apps/document-management"
+    ],
+    "lanes": [
+      "support/helpdesk",
+      "business-apps/document-management"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zammad/zammad",
+    "sha": "6a04b9626ce2e91669dbad57e00d26d98a7d9965",
+    "file_url": "https://cdn.jsdelivr.net/gh/zammad/zammad@6a04b9626ce2e91669dbad57e00d26d98a7d9965/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "AGPL-3.0",
+    "stars": 6131,
+    "size_mb": 1107,
+    "created_at": "2012-04-02T08:50:33Z",
+    "last_commit_at": "2026-11-19T13:49:03Z",
+    "releases": 0,
+    "tags": 121,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6a04b9626ce2e91669dbad57e00d26d98a7d9965",
+    "v": 4
+  }
+}

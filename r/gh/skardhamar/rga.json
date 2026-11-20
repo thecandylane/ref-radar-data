@@ -1,0 +1,57 @@
+{
+  "id": "gh:skardhamar/rga",
+  "kind": "repo",
+  "url": "https://github.com/skardhamar/rga",
+  "title": "rga",
+  "why": "Pulls Google Analytics data into R data frames over OAuth, with batching past 10,000 rows and day-by-day unsampled queries.",
+  "keys": {
+    "races": [
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/skardhamar/rga",
+    "sha": "7908597aa1355f289cfbb3a7a40fd466fc982ace",
+    "file_url": "https://cdn.jsdelivr.net/gh/skardhamar/rga@7908597aa1355f289cfbb3a7a40fd466fc982ace/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 185,
+    "size_mb": 0,
+    "created_at": "2012-11-27T14:54:44Z",
+    "last_commit_at": "2017-02-01T19:27:23Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7908597aa1355f289cfbb3a7a40fd466fc982ace",
+    "v": 4
+  }
+}

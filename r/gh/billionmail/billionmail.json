@@ -1,0 +1,64 @@
+{
+  "id": "gh:billionmail/billionmail",
+  "kind": "repo",
+  "url": "https://github.com/Billionmail/BillionMail",
+  "title": "BillionMail",
+  "why": "Sets titles, meta tags, Open Graph, Twitter Cards and JSON-LD from Laravel controllers, with facades and views.",
+  "keys": {
+    "races": [
+      "seo/meta-sitemaps",
+      "seo/structured-data",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "seo/meta-sitemaps",
+      "seo/structured-data",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Billionmail/BillionMail",
+    "sha": "fc36c76c050c3775c5e899faf7403cf0262d2744",
+    "file_url": "https://cdn.jsdelivr.net/gh/Billionmail/BillionMail@fc36c76c050c3775c5e899faf7403cf0262d2744/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "AGPL-3.0",
+    "stars": 16426,
+    "size_mb": 30,
+    "created_at": "2025-02-14T06:25:45Z",
+    "last_commit_at": "2026-06-11T06:42:43Z",
+    "releases": 21,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v4.9",
+      "at": "2025-12-11T10:37:13.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fc36c76c050c3775c5e899faf7403cf0262d2744",
+    "v": 4
+  }
+}

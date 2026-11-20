@@ -1,0 +1,56 @@
+{
+  "id": "hf:internlm/internlm2_5-7b-chat",
+  "kind": "model",
+  "url": "https://huggingface.co/internlm/internlm2_5-7b-chat",
+  "title": "internlm2_5-7b-chat",
+  "why": "Chat model with a 1M context window, served via LMDeploy, vLLM or GGUF builds in llama.cpp for local or API use.",
+  "keys": {
+    "races": [
+      "ml/open-models",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "ml/open-models",
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://huggingface.co/internlm/internlm2_5-7b-chat",
+    "sha": "eb72b541689b0432dade0435feb339b89fdd39ff",
+    "file_url": "https://huggingface.co/internlm/internlm2_5-7b-chat/raw/eb72b541689b0432dade0435feb339b89fdd39ff/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 15477,
+    "created_at": "2024-06-27T13:01:58.000Z",
+    "last_commit_at": "2025-03-13T07:04:49.000Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "likes": 202,
+    "downloads_30d": 20986
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

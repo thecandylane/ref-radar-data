@@ -1,0 +1,63 @@
+{
+  "id": "gh:ntop/bro-pf_ring",
+  "kind": "repo",
+  "url": "https://github.com/ntop/bro-pf_ring",
+  "title": "bro-pf_ring",
+  "why": "Feeds traffic from PF_RING interfaces into Zeek and spreads it across several worker processes using lb_procs in node.cfg.",
+  "keys": {
+    "races": [
+      "netsec/capture",
+      "netsec/ids"
+    ],
+    "lanes": [
+      "netsec/capture",
+      "netsec/ids"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ntop/bro-pf_ring",
+    "sha": "3f3a9e1004bc9cafff62993d37f0d980e2af0416",
+    "file_url": "https://cdn.jsdelivr.net/gh/ntop/bro-pf_ring@3f3a9e1004bc9cafff62993d37f0d980e2af0416/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 238,
+    "size_mb": 0,
+    "created_at": "2017-07-17T21:35:45Z",
+    "last_commit_at": "2020-04-20T10:53:26Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3f3a9e1004bc9cafff62993d37f0d980e2af0416",
+    "v": 4
+  }
+}

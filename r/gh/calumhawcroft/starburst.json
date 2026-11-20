@@ -1,0 +1,57 @@
+{
+  "id": "gh:calumhawcroft/starburst",
+  "kind": "repo",
+  "url": "https://github.com/CalumHawcroft/Starburst",
+  "title": "Starburst",
+  "why": "Synthesizes stellar populations from an IMF and a star formation rate, choosing GENEC or MESA tracks and PoWR or WMBasic spectra.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CalumHawcroft/Starburst",
+    "sha": "af797faa3b64e82f66b8882f63d742c5c1c08395",
+    "file_url": "https://raw.githubusercontent.com/CalumHawcroft/Starburst/af797faa3b64e82f66b8882f63d742c5c1c08395/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "none",
+    "stars": 23,
+    "size_mb": 453,
+    "created_at": "2024-09-23T19:08:05Z",
+    "last_commit_at": "2026-08-06T22:10:46Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "af797faa3b64e82f66b8882f63d742c5c1c08395",
+    "v": 4
+  }
+}

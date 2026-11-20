@@ -1,0 +1,59 @@
+{
+  "id": "gh:juewangthu/icfinder",
+  "kind": "repo",
+  "url": "https://github.com/JueWangTHU/ICFinder",
+  "title": "ICFinder",
+  "why": "Predicts whether a protein sequence is an ion channel, and which residues permeate ions, from ESM-2 embeddings with a Bi-LSTM.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "ml/embeddings"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "ml/embeddings"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/JueWangTHU/ICFinder",
+    "sha": "110523a2807eec1cc7edee17d2e55a66ec39fb9c",
+    "file_url": "https://raw.githubusercontent.com/JueWangTHU/ICFinder/110523a2807eec1cc7edee17d2e55a66ec39fb9c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 3,
+    "size_mb": 200,
+    "created_at": "2025-08-25T06:10:49Z",
+    "last_commit_at": "2026-06-17T12:38:09Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "110523a2807eec1cc7edee17d2e55a66ec39fb9c",
+    "v": 4
+  }
+}

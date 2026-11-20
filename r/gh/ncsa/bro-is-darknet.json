@@ -1,0 +1,62 @@
+{
+  "id": "gh:ncsa/bro-is-darknet",
+  "kind": "repo",
+  "url": "https://github.com/ncsa/bro-is-darknet",
+  "title": "bro-is-darknet",
+  "why": "Zeek plugin that flags whether an address is darknet or honeynet space, so scripts tracking scan attempts can use it.",
+  "keys": {
+    "races": [
+      "netsec/honeypot",
+      "netsec/scanning"
+    ],
+    "lanes": [
+      "netsec/honeypot",
+      "netsec/scanning"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ncsa/bro-is-darknet",
+    "sha": "7564a8f2035aa62359199b64086ff14749f35f73",
+    "file_url": "https://cdn.jsdelivr.net/gh/ncsa/bro-is-darknet@7564a8f2035aa62359199b64086ff14749f35f73/{path}"
+  },
+  "facts": {
+    "lang": "Zeek",
+    "license": "NOASSERTION",
+    "stars": 7,
+    "size_mb": 0,
+    "created_at": "2017-09-10T18:27:06Z",
+    "last_commit_at": "2025-11-14T18:34:34Z",
+    "releases": 1,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "2.2",
+      "at": "2025-11-17T15:59:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7564a8f2035aa62359199b64086ff14749f35f73",
+    "v": 4
+  }
+}

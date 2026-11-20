@@ -1,4 +1,5 @@
 {
+  "access": "none",
   "id": "gh:rubby2001/rshell",
   "kind": "repo",
   "url": "https://github.com/Rubby2001/Rshell",
@@ -13,22 +14,7 @@
     ],
     "capabilities": []
   },
-  "read": [
-    {
-      "locator": "README.md",
-      "kind": "path"
-    },
-    {
-      "locator": "pkg",
-      "kind": "path"
-    }
-  ],
-  "fetch": {
-    "type": "git-sparse",
-    "repo": "https://github.com/Rubby2001/Rshell",
-    "sha": "b3ac0265b17746b852216a39b6770e637ac6e922",
-    "file_url": "https://raw.githubusercontent.com/Rubby2001/Rshell/b3ac0265b17746b852216a39b6770e637ac6e922/{path}"
-  },
+  "read": [],
   "facts": {
     "lang": "Go",
     "license": "MIT",
@@ -44,7 +30,7 @@
       "at": "2026-09-11T08:24:50.000Z"
     }
   },
-  "reuse": "copy",
+  "reuse": null,
   "maturity": "stable",
   "status": null,
   "stats": {
@@ -57,16 +43,12 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "b3ac0265b17746b852216a39b6770e637ac6e922",
-    "v": 3
-  },
   "pinned_at": "2026-09-11T08:09:34Z",
   "risk": {
     "level": "caution",
     "signals": [
       "offensive or proof-of-concept code"
     ],
-    "scanned_at": "2026-11-04T05:46:43.631Z"
+    "scanned_at": "2026-11-20T19:10:27.052Z"
   }
 }

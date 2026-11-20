@@ -1,0 +1,56 @@
+{
+  "id": "hf:internlm/internlm2_5-7b-chat-1m",
+  "kind": "model",
+  "url": "https://huggingface.co/internlm/internlm2_5-7b-chat-1m",
+  "title": "internlm2_5-7b-chat-1m",
+  "why": "Chat model with a 1M-token context window, run through LMDeploy or Transformers, needing four A100-80G GPUs for full length.",
+  "keys": {
+    "races": [
+      "llm-infra/inference",
+      "ml/open-models"
+    ],
+    "lanes": [
+      "llm-infra/inference",
+      "ml/open-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://huggingface.co/internlm/internlm2_5-7b-chat-1m",
+    "sha": "dfe8688420775b14e4400221c369c8585752aac2",
+    "file_url": "https://huggingface.co/internlm/internlm2_5-7b-chat-1m/raw/dfe8688420775b14e4400221c369c8585752aac2/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 30952,
+    "created_at": "2024-06-28T05:33:56.000Z",
+    "last_commit_at": "2025-03-13T07:04:47.000Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "likes": 72,
+    "downloads_30d": 849
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

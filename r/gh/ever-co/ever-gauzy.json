@@ -1,0 +1,78 @@
+{
+  "id": "gh:ever-co/ever-gauzy",
+  "kind": "repo",
+  "url": "https://github.com/ever-co/ever-gauzy",
+  "title": "ever-gauzy",
+  "why": "Covers invoicing, time tracking, CRM and recruiting in one TypeScript platform, and a desktop app runs it all locally.",
+  "keys": {
+    "races": [
+      "finance/accounting",
+      "finance/billing",
+      "hr/time-tracking",
+      "hr/hris",
+      "sales/crm",
+      "hr/recruiting"
+    ],
+    "lanes": [
+      "finance/accounting",
+      "finance/billing",
+      "hr/time-tracking",
+      "hr/hris",
+      "sales/crm",
+      "hr/recruiting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ever-co/ever-gauzy",
+    "sha": "d36941aa33c97c57c5d9459c845fb11dedf1b35d",
+    "file_url": "https://raw.githubusercontent.com/ever-co/ever-gauzy/d36941aa33c97c57c5d9459c845fb11dedf1b35d/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "AGPL-3.0",
+    "stars": 8866,
+    "size_mb": 323,
+    "created_at": "2019-06-02T09:47:13Z",
+    "last_commit_at": "2026-11-19T14:37:50Z",
+    "releases": 1000,
+    "tags": 5373,
+    "archived": false,
+    "release": {
+      "tag": "v111.142.11",
+      "at": "2026-10-29T04:06:35.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d36941aa33c97c57c5d9459c845fb11dedf1b35d",
+    "v": 4
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "gh:bioconductor/biobase",
+  "kind": "repo",
+  "url": "https://github.com/Bioconductor/Biobase",
+  "title": "Biobase",
+  "why": "Base R package that Bioconductor depends on, installed from Bioconductor rather than GitHub for the release version.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Bioconductor/Biobase",
+    "sha": "def16233048fa96b4f3aad4d0af5a9922818ed7d",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/Biobase@def16233048fa96b4f3aad4d0af5a9922818ed7d/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 9,
+    "size_mb": 6,
+    "created_at": "2017-09-01T20:16:32Z",
+    "last_commit_at": "2026-07-28T23:32:39Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "def16233048fa96b4f3aad4d0af5a9922818ed7d",
+    "v": 4
+  }
+}

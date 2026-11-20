@@ -1,0 +1,66 @@
+{
+  "id": "gh:mollie/laravel-cashier-mollie",
+  "kind": "repo",
+  "url": "https://github.com/mollie/laravel-cashier-mollie",
+  "title": "laravel-cashier-mollie",
+  "why": "Gives a Laravel app Cashier's subscription methods on top of Mollie, with docs on the cashiermollie site and 51 releases.",
+  "keys": {
+    "races": [
+      "finance/billing",
+      "finance/payments"
+    ],
+    "lanes": [
+      "finance/billing",
+      "finance/payments"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mollie/laravel-cashier-mollie",
+    "sha": "c10df7845561969dd716dd98a9632e8139280dc0",
+    "file_url": "https://cdn.jsdelivr.net/gh/mollie/laravel-cashier-mollie@c10df7845561969dd716dd98a9632e8139280dc0/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 180,
+    "size_mb": 3,
+    "created_at": "2021-08-25T08:11:38Z",
+    "last_commit_at": "2026-07-07T14:16:52Z",
+    "releases": 51,
+    "tags": 52,
+    "archived": false,
+    "release": {
+      "tag": "v2.21.1",
+      "at": "2026-07-07T14:17:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c10df7845561969dd716dd98a9632e8139280dc0",
+    "v": 4
+  }
+}

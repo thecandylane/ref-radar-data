@@ -1,0 +1,68 @@
+{
+  "id": "gh:immich-app/immich",
+  "kind": "repo",
+  "url": "https://github.com/immich-app/immich",
+  "title": "immich",
+  "why": "Self-hosted photo and video server whose Flutter phone app backs up in the background, with a web client for albums and sharing.",
+  "keys": {
+    "races": [
+      "infra/hosting",
+      "mobile/cross-platform",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "infra/hosting",
+      "mobile/cross-platform",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/immich-app/immich",
+    "sha": "b3e775d706b821a18da17c330939847edc5e6811",
+    "file_url": "https://cdn.jsdelivr.net/gh/immich-app/immich@b3e775d706b821a18da17c330939847edc5e6811/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "AGPL-3.0",
+    "stars": 119643,
+    "size_mb": 319,
+    "created_at": "2022-02-03T15:56:27Z",
+    "last_commit_at": "2026-11-19T14:03:56Z",
+    "releases": 327,
+    "tags": 352,
+    "archived": false,
+    "release": {
+      "tag": "v3.4.2",
+      "at": "2026-11-18T20:14:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b3e775d706b821a18da17c330939847edc5e6811",
+    "v": 4
+  }
+}

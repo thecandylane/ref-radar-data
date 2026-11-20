@@ -1,0 +1,62 @@
+{
+  "id": "gh:ropensci/ucscxenatools",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/UCSCXenaTools",
+  "title": "UCSCXenaTools",
+  "why": "Five-step workflow to filter, query, download and load UCSC Xena cancer genomics datasets into R for analysis.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/datasets"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/UCSCXenaTools",
+    "sha": "82ea9ada186f694ac0c47e95417952c67eeed472",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/UCSCXenaTools@82ea9ada186f694ac0c47e95417952c67eeed472/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 117,
+    "size_mb": 3,
+    "created_at": "2019-03-31T08:39:37Z",
+    "last_commit_at": "2026-02-06T17:29:57Z",
+    "releases": 16,
+    "tags": 36,
+    "archived": false,
+    "release": {
+      "tag": "v1.7.0",
+      "at": "2026-05-05T10:34:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "82ea9ada186f694ac0c47e95417952c67eeed472",
+    "v": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "gh:lanl/fp-tools",
+  "kind": "repo",
+  "url": "https://github.com/lanl/fp-tools",
+  "title": "fp-tools",
+  "why": "Analyzes molecular dynamics trajectories from LAMMPS, VASP and XYZ files through first-passage times, MSD, RDF and correlation functions.",
+  "keys": {
+    "races": [
+      "engineering/chemistry",
+      "sci/hpc"
+    ],
+    "lanes": [
+      "engineering/chemistry",
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lanl/fp-tools",
+    "sha": "14170e02821754f5c00d2d7784e99cf254a1282d",
+    "file_url": "https://cdn.jsdelivr.net/gh/lanl/fp-tools@14170e02821754f5c00d2d7784e99cf254a1282d/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "size_mb": 9,
+    "created_at": "2026-06-29T15:58:04Z",
+    "last_commit_at": "2026-07-06T21:40:26Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "14170e02821754f5c00d2d7784e99cf254a1282d",
+    "v": 4
+  }
+}

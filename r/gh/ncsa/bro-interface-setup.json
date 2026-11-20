@@ -1,0 +1,59 @@
+{
+  "id": "gh:ncsa/bro-interface-setup",
+  "kind": "repo",
+  "url": "https://github.com/ncsa/bro-interface-setup",
+  "title": "bro-interface-setup",
+  "why": "A broctl plugin that sets the MTU and turns off offload flags on capture interfaces so the sensor sees full packets.",
+  "keys": {
+    "races": [
+      "netsec/capture",
+      "netsec/ids"
+    ],
+    "lanes": [
+      "netsec/capture",
+      "netsec/ids"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ncsa/bro-interface-setup",
+    "sha": "05aad7f21392dc7f79148c68bcaa0e54ea325132",
+    "file_url": "https://cdn.jsdelivr.net/gh/ncsa/bro-interface-setup@05aad7f21392dc7f79148c68bcaa0e54ea325132/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 9,
+    "size_mb": 0,
+    "created_at": "2017-06-19T21:25:17Z",
+    "last_commit_at": "2020-03-18T03:29:48Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "05aad7f21392dc7f79148c68bcaa0e54ea325132",
+    "v": 4
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "gh:power-grid-lib/pglib-opf",
+  "kind": "repo",
+  "url": "https://github.com/power-grid-lib/pglib-opf",
+  "title": "pglib-opf",
+  "why": "Curated AC optimal power flow test networks in MATPOWER format, with baseline results for benchmarking solvers.",
+  "keys": {
+    "races": [
+      "energy/power-grid",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "energy/power-grid",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/power-grid-lib/pglib-opf",
+    "sha": "dc6be4b2f85ca0e776952ec22cbd4c22396ea5a3",
+    "file_url": "https://raw.githubusercontent.com/power-grid-lib/pglib-opf/dc6be4b2f85ca0e776952ec22cbd4c22396ea5a3/{path}"
+  },
+  "facts": {
+    "lang": "MATLAB",
+    "license": "NOASSERTION",
+    "stars": 432,
+    "size_mb": 90,
+    "created_at": "2017-06-27T19:02:06Z",
+    "last_commit_at": "2023-07-24T16:12:04Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v23.07",
+      "at": "2023-07-24T16:17:02.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dc6be4b2f85ca0e776952ec22cbd4c22396ea5a3",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:1908.02788",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:1502.07847",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

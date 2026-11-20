@@ -1,0 +1,65 @@
+{
+  "id": "gh:asalda/ficus",
+  "kind": "repo",
+  "url": "https://github.com/asalda/FiCUS",
+  "title": "FiCUS",
+  "why": "Fits galaxy UV spectra as a weighted mix of stellar population models, with Monte-Carlo errors over a set number of iterations.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/asalda/FiCUS",
+    "sha": "99318a7f4591acdba5b1ce02cc35d5b944fcba16",
+    "file_url": "https://cdn.jsdelivr.net/gh/asalda/FiCUS@99318a7f4591acdba5b1ce02cc35d5b944fcba16/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 11,
+    "size_mb": 172,
+    "created_at": "2021-08-31T10:07:28Z",
+    "last_commit_at": "2026-05-08T18:22:44Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "99318a7f4591acdba5b1ce02cc35d5b944fcba16",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2211.01351",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "gh:nskelsey/aaalm",
+  "kind": "repo",
+  "url": "https://github.com/NSkelsey/aaalm",
+  "title": "aaalm",
+  "why": "Zeek package that infers gateways, routers and subnets from raw packets, then draws the result as a diagram you can print on A4.",
+  "keys": {
+    "races": [
+      "netsec/capture",
+      "infra/networking"
+    ],
+    "lanes": [
+      "netsec/capture",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NSkelsey/aaalm",
+    "sha": "d42dfd79ae8e26b59383804cc0dfa4badea599fb",
+    "file_url": "https://cdn.jsdelivr.net/gh/NSkelsey/aaalm@d42dfd79ae8e26b59383804cc0dfa4badea599fb/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "BSD-2-Clause",
+    "stars": 30,
+    "size_mb": 4,
+    "created_at": "2019-08-22T11:40:19Z",
+    "last_commit_at": "2019-09-15T11:20:40Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d42dfd79ae8e26b59383804cc0dfa4badea599fb",
+    "v": 4
+  }
+}

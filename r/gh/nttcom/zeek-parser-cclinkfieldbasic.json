@@ -1,0 +1,59 @@
+{
+  "id": "gh:nttcom/zeek-parser-cclinkfieldbasic",
+  "kind": "repo",
+  "url": "https://github.com/nttcom/zeek-parser-CCLinkFieldBasic",
+  "title": "zeek-parser-CCLinkFieldBasic",
+  "why": "Zeek plugin that logs CC-Link IE Field Basic traffic from pcap captures to cclink-ief-basic.log, one row per function with its count.",
+  "keys": {
+    "races": [
+      "industrial/protocols",
+      "netsec/capture"
+    ],
+    "lanes": [
+      "industrial/protocols",
+      "netsec/capture"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nttcom/zeek-parser-CCLinkFieldBasic",
+    "sha": "c106485fe7ca929d6246e6e5a2ee067570440178",
+    "file_url": "https://cdn.jsdelivr.net/gh/nttcom/zeek-parser-CCLinkFieldBasic@c106485fe7ca929d6246e6e5a2ee067570440178/{path}"
+  },
+  "facts": {
+    "lang": "Zeek",
+    "license": "BSD-2-Clause",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2023-06-20T09:23:54Z",
+    "last_commit_at": "2023-09-25T08:50:06Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c106485fe7ca929d6246e6e5a2ee067570440178",
+    "v": 4
+  }
+}

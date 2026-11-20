@@ -1,0 +1,61 @@
+{
+  "id": "gh:shubhamsaboo/awesome-llm-apps",
+  "kind": "repo",
+  "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "title": "awesome-llm-apps",
+  "why": "Clone a folder of runnable agent and RAG templates, each started with pip install and one streamlit command, or add a skill with npx.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "agents/skills",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "agents/skills",
+      "llm-infra/rag"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "sha": "14c5f8ff0094659f321801385d2b52ccc65fea3b",
+    "file_url": "https://cdn.jsdelivr.net/gh/Shubhamsaboo/awesome-llm-apps@14c5f8ff0094659f321801385d2b52ccc65fea3b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 145068,
+    "size_mb": 217,
+    "created_at": "2024-04-29T05:30:25Z",
+    "last_commit_at": "2026-11-18T05:25:31Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "14c5f8ff0094659f321801385d2b52ccc65fea3b",
+    "v": 4
+  }
+}
