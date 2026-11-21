@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e386d962d16928d646a8ed6f8a44f940f6a87952"
+  },
+  "id": "gh:benh11235/pwnable_writeup",
+  "kind": "repo",
+  "url": "https://github.com/BenH11235/pwnable_writeup",
+  "title": "pwnable_writeup",
+  "why": "Walks through pwnable.kr challenges with worked solutions and lecture notes, explaining the reasoning behind each exploit step.",
+  "keys": {
+    "races": [
+      "learning/courses",
+      "learning/security-labs"
+    ],
+    "lanes": [
+      "learning/courses",
+      "learning/security-labs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/BenH11235/pwnable_writeup",
+    "sha": "e386d962d16928d646a8ed6f8a44f940f6a87952",
+    "file_url": "https://cdn.jsdelivr.net/gh/BenH11235/pwnable_writeup@e386d962d16928d646a8ed6f8a44f940f6a87952/{path}"
+  },
+  "facts": {
+    "lang": "TeX",
+    "license": "NOASSERTION",
+    "stars": 24,
+    "size_mb": 27,
+    "created_at": "2021-01-08T08:51:59Z",
+    "last_commit_at": "2025-02-21T16:30:03Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.5",
+      "at": "2021-04-14T13:07:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e386d962d16928d646a8ed6f8a44f940f6a87952",
+    "v": 4
+  },
+  "pinned_at": "2025-02-21T16:30:03Z"
+}

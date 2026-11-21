@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:8b576ba992d5ccfe0012f889138b9c8a594f91a7"
-  },
   "id": "gh:prometheus/node_exporter",
   "kind": "repo",
   "url": "https://github.com/prometheus/node_exporter",
@@ -25,13 +22,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/prometheus/node_exporter",
-    "sha": "8b576ba992d5ccfe0012f889138b9c8a594f91a7",
-    "file_url": "https://cdn.jsdelivr.net/gh/prometheus/node_exporter@8b576ba992d5ccfe0012f889138b9c8a594f91a7/{path}"
+    "sha": "0192dd896337e6eeb5935024cd5d8aec431caf3a",
+    "file_url": "https://cdn.jsdelivr.net/gh/prometheus/node_exporter@0192dd896337e6eeb5935024cd5d8aec431caf3a/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 13943,
+    "stars": 13948,
     "size_mb": 13,
     "created_at": "2013-04-18T14:44:52Z",
     "last_commit_at": "2026-11-19T17:31:41Z",
@@ -56,8 +53,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "8b576ba992d5ccfe0012f889138b9c8a594f91a7",
-    "v": 3
-  }
+  "pins_before": [
+    "8b576ba992d5ccfe0012f889138b9c8a594f91a7"
+  ],
+  "pinned_at": "2026-11-19T17:31:41Z"
 }

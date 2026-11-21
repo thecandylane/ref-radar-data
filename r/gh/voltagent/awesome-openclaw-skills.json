@@ -1,0 +1,65 @@
+{
+  "id": "gh:voltagent/awesome-openclaw-skills",
+  "kind": "repo",
+  "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+  "title": "awesome-openclaw-skills",
+  "why": "Browse a categorized list of 5300+ community OpenClaw skills from ClawHub, with install commands for the CLI or manual folders.",
+  "keys": {
+    "races": [
+      "agents/skills",
+      "agents/assistants",
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/skills",
+      "agents/assistants",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/assistants/personal-agents",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/VoltAgent/awesome-openclaw-skills",
+    "sha": "2ddb4d0ee520904c49cfd7f857535174cbd7669b",
+    "file_url": "https://cdn.jsdelivr.net/gh/VoltAgent/awesome-openclaw-skills@2ddb4d0ee520904c49cfd7f857535174cbd7669b/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "MIT",
+    "stars": 53902,
+    "size_mb": 3,
+    "created_at": "2026-01-25T09:22:32Z",
+    "last_commit_at": "2026-11-18T14:56:53Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2ddb4d0ee520904c49cfd7f857535174cbd7669b",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T14:56:53Z"
+}

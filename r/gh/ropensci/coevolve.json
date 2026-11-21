@@ -1,0 +1,61 @@
+{
+  "id": "gh:ropensci/coevolve",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/coevolve",
+  "title": "coevolve",
+  "why": "Fits a coevolution model with ordered logistic and Gaussian process covariance terms, written in JAX with Python benchmarks.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/coevolve",
+    "sha": "3127deefeb451dcc1c0d4cd89d33570f9a08b0b3",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/coevolve@3127deefeb451dcc1c0d4cd89d33570f9a08b0b3/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 18,
+    "size_mb": 52,
+    "created_at": "2023-10-19T00:07:40Z",
+    "last_commit_at": "2026-11-17T11:26:08Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.0",
+      "at": "2026-11-17T10:19:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3127deefeb451dcc1c0d4cd89d33570f9a08b0b3",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T11:26:08Z"
+}

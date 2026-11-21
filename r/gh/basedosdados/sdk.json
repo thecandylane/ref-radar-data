@@ -1,0 +1,63 @@
+{
+  "id": "gh:basedosdados/sdk",
+  "kind": "repo",
+  "url": "https://github.com/basedosdados/sdk",
+  "title": "basedosdados/sdk",
+  "why": "Python and R clients that load open tables of Brasil from BigQuery into dataframes, with read_sql and download for CSV files.",
+  "keys": {
+    "races": [
+      "data/datasets",
+      "data/databases"
+    ],
+    "lanes": [
+      "data/datasets",
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/basedosdados/sdk",
+    "sha": "df859a6e71e2fad8b9dc7c4d050985342f72e25c",
+    "file_url": "https://cdn.jsdelivr.net/gh/basedosdados/sdk@df859a6e71e2fad8b9dc7c4d050985342f72e25c/{path}"
+  },
+  "facts": {
+    "lang": "SQL",
+    "license": "MIT",
+    "stars": 433,
+    "size_mb": 36,
+    "created_at": "2020-09-11T13:26:45Z",
+    "last_commit_at": "2026-07-24T15:31:18Z",
+    "releases": 32,
+    "tags": 34,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.3",
+      "at": "2026-03-03T14:08:38.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "df859a6e71e2fad8b9dc7c4d050985342f72e25c",
+    "v": 4
+  },
+  "pinned_at": "2026-07-24T15:31:18Z"
+}

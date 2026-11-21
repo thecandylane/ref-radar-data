@@ -1,0 +1,60 @@
+{
+  "id": "gh:opensemanticworld/mediawiki-extensions-chatbot",
+  "kind": "repo",
+  "url": "https://github.com/opensemanticworld/mediawiki-extensions-Chatbot",
+  "title": "mediawiki-extensions-Chatbot",
+  "why": "Embeds a chatbot panel in MediaWiki pages whose actions must pass an action check and confirm_action step before running.",
+  "keys": {
+    "races": [
+      "web/cms",
+      "llm-infra/chat-apps"
+    ],
+    "lanes": [
+      "web/cms",
+      "llm-infra/chat-apps"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/opensemanticworld/mediawiki-extensions-Chatbot",
+    "sha": "98fa63a1617ef3fbd6643be5c285466c381a39e3",
+    "file_url": "https://cdn.jsdelivr.net/gh/opensemanticworld/mediawiki-extensions-Chatbot@98fa63a1617ef3fbd6643be5c285466c381a39e3/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "Apache-2.0",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2023-08-29T17:26:25Z",
+    "last_commit_at": "2026-10-22T05:45:01Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "98fa63a1617ef3fbd6643be5c285466c381a39e3",
+    "v": 4
+  },
+  "pinned_at": "2026-10-22T05:45:01Z"
+}

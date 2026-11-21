@@ -6,10 +6,12 @@
   "why": "Dependently typed language and proof assistant implemented in Haskell, with a standard library and cubical mode.",
   "keys": {
     "races": [
-      "languages/type-systems"
+      "languages/type-systems",
+      "math/formal-proofs"
     ],
     "lanes": [
-      "languages/type-systems"
+      "languages/type-systems",
+      "math/formal-proofs"
     ],
     "capabilities": []
   },
@@ -33,9 +35,9 @@
     "lang": "Haskell",
     "license": "NOASSERTION",
     "stars": 2980,
-    "size_mb": 162,
+    "size_mb": 163,
     "created_at": "2015-08-08T17:51:48Z",
-    "last_commit_at": "2026-11-19T19:41:31Z",
+    "last_commit_at": "2026-11-20T16:16:35Z",
     "releases": 20,
     "tags": 116,
     "archived": false,

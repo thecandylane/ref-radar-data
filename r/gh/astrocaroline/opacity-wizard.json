@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ba4e7cba22e47811e869bbe34ce245da1d17ab11"
+  },
+  "id": "gh:astrocaroline/opacity-wizard",
+  "kind": "repo",
+  "url": "https://github.com/astrocaroline/opacity-wizard",
+  "title": "opacity-wizard",
+  "why": "Plots opacity and abundance data for exoplanet and brown dwarf atmospheres in a notebook, showing where molecules' absorption features fall.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/astrocaroline/opacity-wizard",
+    "sha": "ba4e7cba22e47811e869bbe34ce245da1d17ab11",
+    "file_url": "https://cdn.jsdelivr.net/gh/astrocaroline/opacity-wizard@ba4e7cba22e47811e869bbe34ce245da1d17ab11/{path}"
+  },
+  "facts": {
+    "lang": "Groff",
+    "license": "MIT",
+    "stars": 5,
+    "size_mb": 1,
+    "created_at": "2015-01-09T18:42:49Z",
+    "last_commit_at": "2015-03-17T20:51:10Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0",
+      "at": "2015-01-20T22:02:38.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ba4e7cba22e47811e869bbe34ce245da1d17ab11",
+    "v": 4
+  },
+  "pinned_at": "2015-03-17T20:51:10Z"
+}

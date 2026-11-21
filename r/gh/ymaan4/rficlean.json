@@ -1,0 +1,79 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8972a50ff498bc7d7d02c8e28063a39a42e58792"
+  },
+  "id": "gh:ymaan4/rficlean",
+  "kind": "repo",
+  "url": "https://github.com/ymaan4/RFIClean",
+  "title": "RFIClean",
+  "why": "Cleans periodic, narrow-band and bursty interference from pulsar filterbank data, with a diagnostic plot of mitigated Fourier frequencies.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "hardware/radio"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "hardware/radio"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ymaan4/RFIClean",
+    "sha": "8972a50ff498bc7d7d02c8e28063a39a42e58792",
+    "file_url": "https://cdn.jsdelivr.net/gh/ymaan4/RFIClean@8972a50ff498bc7d7d02c8e28063a39a42e58792/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-2.0",
+    "stars": 19,
+    "size_mb": 0,
+    "created_at": "2019-11-15T16:16:58Z",
+    "last_commit_at": "2021-04-23T18:33:29Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.0",
+      "at": "2021-02-09T17:05:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8972a50ff498bc7d7d02c8e28063a39a42e58792",
+    "v": 4
+  },
+  "pinned_at": "2021-04-23T18:33:29Z",
+  "papers": [
+    {
+      "id": "arxiv:2012.11630",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

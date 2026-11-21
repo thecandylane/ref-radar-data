@@ -1,0 +1,75 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8ab9eb804d5b7090e7a9cb084e6b9f20319f8a79"
+  },
+  "id": "gh:fkeruzore/picasso",
+  "kind": "repo",
+  "url": "https://github.com/fkeruzore/picasso",
+  "title": "picasso",
+  "why": "Fills gravity-only cosmological simulations with gas thermodynamics from a neural network pre-trained on hydrodynamic runs, using JAX and Flax.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fkeruzore/picasso",
+    "sha": "8ab9eb804d5b7090e7a9cb084e6b9f20319f8a79",
+    "file_url": "https://cdn.jsdelivr.net/gh/fkeruzore/picasso@8ab9eb804d5b7090e7a9cb084e6b9f20319f8a79/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 2,
+    "size_mb": 16,
+    "created_at": "2023-09-15T16:57:29Z",
+    "last_commit_at": "2025-10-03T13:37:58Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "1.1.4",
+      "at": "2025-08-05T16:58:04.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8ab9eb804d5b7090e7a9cb084e6b9f20319f8a79",
+    "v": 4
+  },
+  "pinned_at": "2025-10-03T13:37:58Z",
+  "papers": [
+    {
+      "id": "arxiv:2408.17445",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

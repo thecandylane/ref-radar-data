@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0f213cc266882b2a92c7e8380455743436479033"
+  },
+  "id": "gh:r-lib/gh",
+  "kind": "repo",
+  "url": "https://github.com/r-lib/gh",
+  "title": "gh",
+  "why": "Calls any GitHub REST or GraphQL endpoint from R by pasting the documented path, with token handling and pagination.",
+  "keys": {
+    "races": [
+      "dev-tools/vcs",
+      "agents/tools"
+    ],
+    "lanes": [
+      "dev-tools/vcs",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/api-directories"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/r-lib/gh",
+    "sha": "0f213cc266882b2a92c7e8380455743436479033",
+    "file_url": "https://cdn.jsdelivr.net/gh/r-lib/gh@0f213cc266882b2a92c7e8380455743436479033/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 232,
+    "size_mb": 10,
+    "created_at": "2015-06-08T03:00:11Z",
+    "last_commit_at": "2026-09-02T09:44:03Z",
+    "releases": 10,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v1.6.1",
+      "at": "2026-07-20T11:33:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0f213cc266882b2a92c7e8380455743436479033",
+    "v": 4
+  },
+  "pinned_at": "2026-09-02T09:44:03Z"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "gh:bioconductor/hdf5array",
+  "kind": "repo",
+  "url": "https://github.com/Bioconductor/HDF5Array",
+  "title": "HDF5Array",
+  "why": "Keeps large arrays on disk in HDF5 and benchmarks normalize and PCA runs against them, so big matrices stay out of memory.",
+  "keys": {
+    "races": [
+      "data/storage"
+    ],
+    "lanes": [
+      "data/storage"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Bioconductor/HDF5Array",
+    "sha": "a55873c2e2456025f502ee43ed44f2bf01d3f524",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/HDF5Array@a55873c2e2456025f502ee43ed44f2bf01d3f524/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 13,
+    "size_mb": 9,
+    "created_at": "2017-08-23T17:43:11Z",
+    "last_commit_at": "2026-11-18T23:43:46Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a55873c2e2456025f502ee43ed44f2bf01d3f524",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T23:43:46Z"
+}

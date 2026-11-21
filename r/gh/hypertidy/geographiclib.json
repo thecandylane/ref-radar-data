@@ -1,0 +1,62 @@
+{
+  "id": "gh:hypertidy/geographiclib",
+  "kind": "repo",
+  "url": "https://github.com/hypertidy/geographiclib",
+  "title": "geographiclib",
+  "why": "R bindings to GeographicLib for geodesic distances, polygon area, MGRS and geohash codes and map projections on the WGS84 ellipsoid.",
+  "keys": {
+    "races": [
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hypertidy/geographiclib",
+    "sha": "dd9bac8e497dae419e01e38eb341f18bc9285082",
+    "file_url": "https://cdn.jsdelivr.net/gh/hypertidy/geographiclib@dd9bac8e497dae419e01e38eb341f18bc9285082/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 9,
+    "size_mb": 2,
+    "created_at": "2025-06-16T01:53:26Z",
+    "last_commit_at": "2026-03-06T00:40:00Z",
+    "releases": 0,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dd9bac8e497dae419e01e38eb341f18bc9285082",
+    "v": 4
+  },
+  "pinned_at": "2026-03-06T00:40:00Z"
+}

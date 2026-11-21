@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5d424750d494dc99dd49275344fa2f05c0744cf2"
+  },
+  "id": "gh:cybercog/youtrack-rest-php",
+  "kind": "repo",
+  "url": "https://github.com/cybercog/youtrack-rest-php",
+  "title": "youtrack-rest-php",
+  "why": "PHP client for the YouTrack REST API over PSR-7, with token or cookie authorization and framework-agnostic contracts.",
+  "keys": {
+    "races": [
+      "business-apps/bpm",
+      "support/helpdesk"
+    ],
+    "lanes": [
+      "business-apps/bpm",
+      "support/helpdesk"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cybercog/youtrack-rest-php",
+    "sha": "5d424750d494dc99dd49275344fa2f05c0744cf2",
+    "file_url": "https://cdn.jsdelivr.net/gh/cybercog/youtrack-rest-php@5d424750d494dc99dd49275344fa2f05c0744cf2/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 37,
+    "size_mb": 0,
+    "created_at": "2017-05-12T01:17:20Z",
+    "last_commit_at": "2026-03-02T07:48:34Z",
+    "releases": 24,
+    "tags": 24,
+    "archived": false,
+    "release": {
+      "tag": "8.0.3",
+      "at": "2026-03-01T09:37:32.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5d424750d494dc99dd49275344fa2f05c0744cf2",
+    "v": 4
+  },
+  "pinned_at": "2026-03-02T07:48:34Z"
+}

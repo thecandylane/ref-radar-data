@@ -1,0 +1,58 @@
+{
+  "id": "gh:lauriebelch/orthosimulator",
+  "kind": "repo",
+  "url": "https://github.com/lauriebelch/OrthoSimulator",
+  "title": "OrthoSimulator",
+  "why": "Generates orthogroup simulations, then measures OrthoFinder, Broccoli and SonicParanoid recall and precision against the reference gene families.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lauriebelch/OrthoSimulator",
+    "sha": "f3a195cc0a149d9665222cc583193bd22128f5a4",
+    "file_url": "https://cdn.jsdelivr.net/gh/lauriebelch/OrthoSimulator@f3a195cc0a149d9665222cc583193bd22128f5a4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 1,
+    "size_mb": 89,
+    "created_at": "2025-09-16T08:05:23Z",
+    "last_commit_at": "2026-11-10T13:57:23Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f3a195cc0a149d9665222cc583193bd22128f5a4",
+    "v": 4
+  },
+  "pinned_at": "2026-11-10T13:57:23Z"
+}

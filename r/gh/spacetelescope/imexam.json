@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a4f3cbfb6889c5888bf4910413961d7c4906eb01"
+  },
+  "id": "gh:spacetelescope/imexam",
+  "kind": "repo",
+  "url": "https://github.com/spacetelescope/imexam",
+  "title": "imexam",
+  "why": "Examines astronomy images from a Jupyter session, attaching to DS9 or Ginga, and grabs quick photometry without any viewer.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/spacetelescope/imexam",
+    "sha": "a4f3cbfb6889c5888bf4910413961d7c4906eb01",
+    "file_url": "https://cdn.jsdelivr.net/gh/spacetelescope/imexam@a4f3cbfb6889c5888bf4910413961d7c4906eb01/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 75,
+    "size_mb": 43,
+    "created_at": "2014-04-03T18:12:04Z",
+    "last_commit_at": "2025-10-08T18:46:08Z",
+    "releases": 5,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "0.8.1",
+      "at": "2018-12-14T21:32:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a4f3cbfb6889c5888bf4910413961d7c4906eb01",
+    "v": 4
+  },
+  "pinned_at": "2025-10-08T18:46:08Z"
+}

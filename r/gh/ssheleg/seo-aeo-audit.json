@@ -1,0 +1,67 @@
+{
+  "id": "gh:ssheleg/seo-aeo-audit",
+  "kind": "repo",
+  "url": "https://github.com/ssheleg/seo-aeo-audit",
+  "title": "seo-aeo-audit",
+  "why": "Audits pages, sitemaps, Search Console and PageSpeed data, then scores how AI answers cite the site, shipped as a plugin skill with one script per check.",
+  "keys": {
+    "races": [
+      "seo/site-audits",
+      "seo/ai-visibility",
+      "agents/skills"
+    ],
+    "lanes": [
+      "seo/site-audits",
+      "seo/ai-visibility",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/skills/plugin-specs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ssheleg/seo-aeo-audit",
+    "sha": "5bf4a12c8f08bc55e2567d2cb26049483e25ee88",
+    "file_url": "https://cdn.jsdelivr.net/gh/ssheleg/seo-aeo-audit@5bf4a12c8f08bc55e2567d2cb26049483e25ee88/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 3,
+    "size_mb": 3,
+    "created_at": "2026-07-27T23:16:43Z",
+    "last_commit_at": "2026-11-11T01:04:14Z",
+    "releases": 67,
+    "tags": 76,
+    "archived": false,
+    "release": {
+      "tag": "v0.32.5",
+      "at": "2026-11-11T01:18:50.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5bf4a12c8f08bc55e2567d2cb26049483e25ee88",
+    "v": 4
+  },
+  "pinned_at": "2026-11-11T01:04:14Z"
+}

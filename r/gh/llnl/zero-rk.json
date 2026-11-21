@@ -1,0 +1,65 @@
+{
+  "id": "gh:llnl/zero-rk",
+  "kind": "repo",
+  "url": "https://github.com/llnl/zero-rk",
+  "title": "zero-rk",
+  "why": "Lets a CFD code call a reactor model that advances many chemical reactors at once, on CPU or GPU, with CVODE or Radau solvers.",
+  "keys": {
+    "races": [
+      "engineering/process",
+      "engineering/simulation",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "engineering/process",
+      "engineering/simulation",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/llnl/zero-rk",
+    "sha": "672186f548886f4a364cbab414bf65608ae454ec",
+    "file_url": "https://cdn.jsdelivr.net/gh/llnl/zero-rk@672186f548886f4a364cbab414bf65608ae454ec/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "BSD-3-Clause",
+    "stars": 50,
+    "size_mb": 54,
+    "created_at": "2019-07-01T22:21:43Z",
+    "last_commit_at": "2026-11-20T19:34:45Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "672186f548886f4a364cbab414bf65608ae454ec",
+    "v": 4
+  }
+}

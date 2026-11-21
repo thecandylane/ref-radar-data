@@ -1,0 +1,58 @@
+{
+  "id": "gh:nf-core/ncrnannotator",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/ncrnannotator",
+  "title": "ncrnannotator",
+  "why": "Converts Rfam search hits into GTF, GFF3 and BED annotation files with gene ID, transcript ID and biotype fields.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/ncrnannotator",
+    "sha": "9b1ab40eeef9b246f7181a4d0ea5961c4c6cf8f6",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/ncrnannotator@9b1ab40eeef9b246f7181a4d0ea5961c4c6cf8f6/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 2,
+    "size_mb": 2,
+    "created_at": "2026-02-27T16:09:36Z",
+    "last_commit_at": "2026-11-04T11:24:49Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9b1ab40eeef9b246f7181a4d0ea5961c4c6cf8f6",
+    "v": 4
+  },
+  "pinned_at": "2026-11-04T11:24:49Z"
+}

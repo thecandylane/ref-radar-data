@@ -1,0 +1,62 @@
+{
+  "id": "gh:somamaley-ux/aasc-repos",
+  "kind": "repo",
+  "url": "https://github.com/somamaley-ux/AASC-REPOS",
+  "title": "AASC-REPOS",
+  "why": "Lean 4 formalization of the AASC paper family on claim standing, legitimacy and bivalence, with axiom audit checks per paper.",
+  "keys": {
+    "races": [
+      "math/formal-proofs"
+    ],
+    "lanes": [
+      "math/formal-proofs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/somamaley-ux/AASC-REPOS",
+    "sha": "ac7c291b5d990a45b63f30d03a465d37ec3347ae",
+    "file_url": "https://cdn.jsdelivr.net/gh/somamaley-ux/AASC-REPOS@ac7c291b5d990a45b63f30d03a465d37ec3347ae/{path}"
+  },
+  "facts": {
+    "lang": "Lean",
+    "license": "Apache-2.0",
+    "stars": 1,
+    "size_mb": 2,
+    "created_at": "2026-04-12T00:44:47Z",
+    "last_commit_at": "2026-05-30T13:44:47Z",
+    "releases": 2,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.1",
+      "at": "2026-05-29T08:54:25.000Z"
+    },
+    "doi": "10.5281/zenodo.19521790"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ac7c291b5d990a45b63f30d03a465d37ec3347ae",
+    "v": 4
+  },
+  "pinned_at": "2026-05-30T13:44:47Z"
+}

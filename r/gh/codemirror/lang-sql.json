@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f5b0b0ba1811f87db2d1733f005585bd43322980"
+  },
+  "id": "gh:codemirror/lang-sql",
+  "kind": "repo",
+  "url": "https://github.com/codemirror/lang-sql",
+  "title": "lang-sql",
+  "why": "Adds SQL highlighting and keyword and schema-based autocompletion to the CodeMirror editor, with dialects such as PostgreSQL and MySQL.",
+  "keys": {
+    "races": [
+      "dev-tools/editors",
+      "data/databases"
+    ],
+    "lanes": [
+      "dev-tools/editors",
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/codemirror/lang-sql",
+    "sha": "f5b0b0ba1811f87db2d1733f005585bd43322980",
+    "file_url": "https://cdn.jsdelivr.net/gh/codemirror/lang-sql@f5b0b0ba1811f87db2d1733f005585bd43322980/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 101,
+    "size_mb": 0,
+    "created_at": "2020-12-29T16:03:28Z",
+    "last_commit_at": "2026-04-15T10:20:20Z",
+    "releases": 0,
+    "tags": 41,
+    "archived": true,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f5b0b0ba1811f87db2d1733f005585bd43322980",
+    "v": 4
+  },
+  "pinned_at": "2026-04-15T10:20:20Z"
+}

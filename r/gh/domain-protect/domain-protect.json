@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d906ea91444e93d6f589da1be3921de3a311601c"
+  },
+  "id": "gh:domain-protect/domain-protect",
+  "kind": "repo",
+  "url": "https://github.com/domain-protect/domain-protect",
+  "title": "domain-protect",
+  "why": "Points readers from the archived subdomain takeover checker to its Terraform module and migration docs.",
+  "keys": {
+    "races": [
+      "recon/domains",
+      "infra/iac"
+    ],
+    "lanes": [
+      "recon/domains",
+      "infra/iac"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/domain-protect/domain-protect",
+    "sha": "d906ea91444e93d6f589da1be3921de3a311601c",
+    "file_url": "https://cdn.jsdelivr.net/gh/domain-protect/domain-protect@d906ea91444e93d6f589da1be3921de3a311601c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 394,
+    "size_mb": 19,
+    "created_at": "2021-05-10T07:44:00Z",
+    "last_commit_at": "2024-12-23T22:04:27Z",
+    "releases": 18,
+    "tags": 18,
+    "archived": true,
+    "release": {
+      "tag": "0.5.1",
+      "at": "2024-09-25T19:01:04.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d906ea91444e93d6f589da1be3921de3a311601c",
+    "v": 4
+  },
+  "pinned_at": "2024-12-23T22:04:27Z"
+}

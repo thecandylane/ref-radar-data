@@ -1,0 +1,64 @@
+{
+  "id": "gh:microsoft/powerbi-modeling-mcp",
+  "kind": "repo",
+  "url": "https://github.com/microsoft/powerbi-modeling-mcp",
+  "title": "powerbi-modeling-mcp",
+  "why": "Lets an agent create and edit tables, measures and relationships in a Power BI model, and run DAX queries against it.",
+  "keys": {
+    "races": [
+      "data/analytics",
+      "agents/tools"
+    ],
+    "lanes": [
+      "data/analytics",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microsoft/powerbi-modeling-mcp",
+    "sha": "caed9d3fcffd319a6820567890d833e120bb8f32",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/powerbi-modeling-mcp@caed9d3fcffd319a6820567890d833e120bb8f32/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "MIT",
+    "stars": 1297,
+    "size_mb": 3,
+    "created_at": "2025-10-16T08:48:43Z",
+    "last_commit_at": "2026-11-19T16:21:35Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.1",
+      "at": "2026-11-06T11:46:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "caed9d3fcffd319a6820567890d833e120bb8f32",
+    "v": 4
+  }
+}

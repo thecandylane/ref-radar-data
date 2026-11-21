@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7b6b084a3cb154fb2e454b70fdb66b955ca91308"
+  },
+  "id": "gh:rsnapshot/rsnapshot",
+  "kind": "repo",
+  "url": "https://github.com/rsnapshot/rsnapshot",
+  "title": "rsnapshot",
+  "why": "Keeps periodic rsync snapshots of local machines and hosts reached over ssh, using hard links so unchanged files cost little disk.",
+  "keys": {
+    "races": [
+      "data/storage"
+    ],
+    "lanes": [
+      "data/storage"
+    ],
+    "capabilities": [
+      "data/storage/object-storage"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rsnapshot/rsnapshot",
+    "sha": "7b6b084a3cb154fb2e454b70fdb66b955ca91308",
+    "file_url": "https://cdn.jsdelivr.net/gh/rsnapshot/rsnapshot@7b6b084a3cb154fb2e454b70fdb66b955ca91308/{path}"
+  },
+  "facts": {
+    "lang": "Perl",
+    "license": "GPL-2.0",
+    "stars": 3691,
+    "size_mb": 2,
+    "created_at": "2012-04-24T21:57:06Z",
+    "last_commit_at": "2026-10-10T05:22:46Z",
+    "releases": 10,
+    "tags": 16,
+    "archived": false,
+    "release": {
+      "tag": "1.5.1",
+      "at": "2025-01-27T02:01:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7b6b084a3cb154fb2e454b70fdb66b955ca91308",
+    "v": 4
+  },
+  "pinned_at": "2026-10-10T05:22:46Z"
+}

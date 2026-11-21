@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e31d7b4836f293c96332b48b680f396700a9a5c9"
+  },
+  "id": "gh:apache/commons-weaver",
+  "kind": "repo",
+  "url": "https://github.com/apache/commons-weaver",
+  "title": "commons-weaver",
+  "why": "Weaves annotated Java classes during Maven or Ant builds, with a scanner that finds the fields, methods and parameters to change.",
+  "keys": {
+    "races": [
+      "languages/compilers",
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "languages/compilers",
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/commons-weaver",
+    "sha": "e31d7b4836f293c96332b48b680f396700a9a5c9",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/commons-weaver@e31d7b4836f293c96332b48b680f396700a9a5c9/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 29,
+    "size_mb": 2,
+    "created_at": "2013-10-25T07:00:33Z",
+    "last_commit_at": "2026-11-17T13:21:20Z",
+    "releases": 0,
+    "tags": 17,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e31d7b4836f293c96332b48b680f396700a9a5c9",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T13:21:20Z"
+}

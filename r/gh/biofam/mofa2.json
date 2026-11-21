@@ -1,0 +1,61 @@
+{
+  "id": "gh:biofam/mofa2",
+  "kind": "repo",
+  "url": "https://github.com/bioFAM/MOFA2",
+  "title": "MOFA2",
+  "why": "Setup script that installs this package in one step, so the R build can run without manual steps.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bioFAM/MOFA2",
+    "sha": "0d07f924e7a38286c3d5a967adf546de8cf3d1ef",
+    "file_url": "https://cdn.jsdelivr.net/gh/bioFAM/MOFA2@0d07f924e7a38286c3d5a967adf546de8cf3d1ef/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "LGPL-3.0",
+    "stars": 432,
+    "size_mb": 166,
+    "created_at": "2017-10-04T12:23:33Z",
+    "last_commit_at": "2026-11-19T17:00:15Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2020-03-31T19:19:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0d07f924e7a38286c3d5a967adf546de8cf3d1ef",
+    "v": 4
+  },
+  "pinned_at": "2026-11-19T17:00:15Z"
+}

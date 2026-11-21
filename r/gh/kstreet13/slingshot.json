@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3fa552f37148a24a9ef4f7bb5ec00e594a39d8cf"
+  },
+  "id": "gh:kstreet13/slingshot",
+  "kind": "repo",
+  "url": "https://github.com/kstreet13/slingshot",
+  "title": "slingshot",
+  "why": "Infers branching developmental lineages from low-dimensional single-cell RNA data, and accepts prior knowledge through supervised graph construction.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kstreet13/slingshot",
+    "sha": "3fa552f37148a24a9ef4f7bb5ec00e594a39d8cf",
+    "file_url": "https://cdn.jsdelivr.net/gh/kstreet13/slingshot@3fa552f37148a24a9ef4f7bb5ec00e594a39d8cf/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 349,
+    "size_mb": 267,
+    "created_at": "2016-03-11T18:43:06Z",
+    "last_commit_at": "2023-03-29T19:36:15Z",
+    "releases": 0,
+    "tags": 11,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3fa552f37148a24a9ef4f7bb5ec00e594a39d8cf",
+    "v": 4
+  },
+  "pinned_at": "2023-03-29T19:36:15Z"
+}

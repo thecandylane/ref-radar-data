@@ -1,0 +1,73 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fc4483a6b88b3b613a9858dd5dbed6a0584b2524"
+  },
+  "id": "gh:darioizzo/audi",
+  "kind": "repo",
+  "url": "https://github.com/darioizzo/audi",
+  "title": "audi",
+  "why": "Computes Taylor expansions and derivatives in C++ with Python bindings, using generalized dual numbers and Taylor models for bounds.",
+  "keys": {
+    "races": [
+      "sci/numerics"
+    ],
+    "lanes": [
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/darioizzo/audi",
+    "sha": "fc4483a6b88b3b613a9858dd5dbed6a0584b2524",
+    "file_url": "https://cdn.jsdelivr.net/gh/darioizzo/audi@fc4483a6b88b3b613a9858dd5dbed6a0584b2524/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-3.0",
+    "stars": 82,
+    "size_mb": 14,
+    "created_at": "2015-09-01T07:12:06Z",
+    "last_commit_at": "2026-09-30T12:34:41Z",
+    "releases": 20,
+    "tags": 30,
+    "archived": false,
+    "release": {
+      "tag": "v1.10.3",
+      "at": "2026-09-29T08:21:39.000Z"
+    },
+    "doi": "10.21105/joss.09905"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fc4483a6b88b3b613a9858dd5dbed6a0584b2524",
+    "v": 4
+  },
+  "pinned_at": "2026-09-30T12:34:41Z",
+  "papers": [
+    {
+      "id": "arxiv:1611.04766",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

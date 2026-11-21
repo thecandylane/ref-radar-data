@@ -1,0 +1,68 @@
+{
+  "id": "gh:huggingface/diffusers",
+  "kind": "repo",
+  "url": "https://github.com/huggingface/diffusers",
+  "title": "diffusers",
+  "why": "Loads pretrained diffusion pipelines in a few lines of Python, with schedulers and models to build your own sampling loop.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "llm-infra/inference",
+      "media/video"
+    ],
+    "lanes": [
+      "ml/training",
+      "llm-infra/inference",
+      "media/video"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/huggingface/diffusers",
+    "sha": "ed32672706fec20ddac3a090c5a8290b3fd313cb",
+    "file_url": "https://cdn.jsdelivr.net/gh/huggingface/diffusers@ed32672706fec20ddac3a090c5a8290b3fd313cb/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 34963,
+    "size_mb": 114,
+    "created_at": "2022-05-30T16:04:02Z",
+    "last_commit_at": "2026-11-21T03:33:44Z",
+    "releases": 97,
+    "tags": 103,
+    "archived": false,
+    "release": {
+      "tag": "v0.43.0",
+      "at": "2026-11-12T05:22:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pins_before": [
+    "d5df05ed2a2d310c2e515f5de55bd9e7eb63235d"
+  ],
+  "pinned_at": "2026-11-21T03:33:44Z"
+}

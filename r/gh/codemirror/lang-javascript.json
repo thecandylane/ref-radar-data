@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:aac430a8d38669711cc2a4727fd6418b9634807d"
+  },
+  "id": "gh:codemirror/lang-javascript",
+  "kind": "repo",
+  "url": "https://github.com/codemirror/lang-javascript",
+  "title": "lang-javascript",
+  "why": "Adds JavaScript, TypeScript and JSX support to the CodeMirror editor, with snippets, local variable completion and ESLint linting.",
+  "keys": {
+    "races": [
+      "dev-tools/editors",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "dev-tools/editors",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/codemirror/lang-javascript",
+    "sha": "aac430a8d38669711cc2a4727fd6418b9634807d",
+    "file_url": "https://cdn.jsdelivr.net/gh/codemirror/lang-javascript@aac430a8d38669711cc2a4727fd6418b9634807d/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 78,
+    "size_mb": 0,
+    "created_at": "2020-12-29T16:03:13Z",
+    "last_commit_at": "2026-04-15T10:21:10Z",
+    "releases": 0,
+    "tags": 33,
+    "archived": true,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "aac430a8d38669711cc2a4727fd6418b9634807d",
+    "v": 4
+  },
+  "pinned_at": "2026-04-15T10:21:10Z"
+}

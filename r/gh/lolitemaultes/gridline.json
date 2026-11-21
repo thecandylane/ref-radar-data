@@ -1,0 +1,63 @@
+{
+  "id": "gh:lolitemaultes/gridline",
+  "kind": "repo",
+  "url": "https://github.com/lolitemaultes/Gridline",
+  "title": "Gridline",
+  "why": "C++ audio app with a piano roll, mixer and automation lanes, plus scripts that build its installers and UI sounds.",
+  "keys": {
+    "races": [
+      "media/audio-production",
+      "desktop/packaging"
+    ],
+    "lanes": [
+      "media/audio-production",
+      "desktop/packaging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lolitemaultes/Gridline",
+    "sha": "bd4b516e8aaf6bcbd4bc92de5d50807e4bfd2e0c",
+    "file_url": "https://cdn.jsdelivr.net/gh/lolitemaultes/Gridline@bd4b516e8aaf6bcbd4bc92de5d50807e4bfd2e0c/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-3.0",
+    "stars": 260,
+    "size_mb": 94,
+    "created_at": "2026-10-18T22:54:48Z",
+    "last_commit_at": "2026-11-19T20:59:34Z",
+    "releases": 14,
+    "tags": 16,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.7",
+      "at": "2026-11-19T15:23:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "scan_partial": true
+}

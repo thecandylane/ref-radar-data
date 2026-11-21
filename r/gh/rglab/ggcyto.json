@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2484d0d88328e9ff72d36f422dd4eaef9755b571"
+  },
+  "id": "gh:rglab/ggcyto",
+  "kind": "repo",
+  "url": "https://github.com/RGLab/ggcyto",
+  "title": "ggcyto",
+  "why": "Draws gated flow cytometry data with ggplot2 through quick plots, a wrapper with gate and overlay layers, or plain ggplot on flowSet objects.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/RGLab/ggcyto",
+    "sha": "2484d0d88328e9ff72d36f422dd4eaef9755b571",
+    "file_url": "https://cdn.jsdelivr.net/gh/RGLab/ggcyto@2484d0d88328e9ff72d36f422dd4eaef9755b571/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "MIT",
+    "stars": 66,
+    "size_mb": 48,
+    "created_at": "2015-04-23T19:30:38Z",
+    "last_commit_at": "2026-05-27T20:51:51Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "bioc_3.13",
+      "at": "2020-11-15T04:41:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2484d0d88328e9ff72d36f422dd4eaef9755b571",
+    "v": 4
+  },
+  "pinned_at": "2026-05-27T20:51:51Z"
+}

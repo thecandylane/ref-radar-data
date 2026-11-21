@@ -1,0 +1,70 @@
+{
+  "id": "gh:sergei-mironov/litrepl",
+  "kind": "repo",
+  "url": "https://github.com/sergei-mironov/litrepl",
+  "title": "litrepl",
+  "why": "Runs code blocks in Markdown or LaTeX through a Python, IPython or shell session and inserts the results.",
+  "keys": {
+    "races": [
+      "dev-tools/docs",
+      "media/typesetting",
+      "dev-tools/editors"
+    ],
+    "lanes": [
+      "dev-tools/docs",
+      "media/typesetting",
+      "dev-tools/editors"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sergei-mironov/litrepl",
+    "sha": "64da07ff83e535ae9cbc40b39e0d00beee89270b",
+    "file_url": "https://cdn.jsdelivr.net/gh/sergei-mironov/litrepl@64da07ff83e535ae9cbc40b39e0d00beee89270b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 9,
+    "size_mb": 5,
+    "created_at": "2022-08-13T22:33:25Z",
+    "last_commit_at": "2026-11-03T07:15:39Z",
+    "releases": 4,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "3.14.2",
+      "at": "2026-07-11T09:58:42.000Z"
+    },
+    "doi": "10.21105/joss.08384"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "papers": [
+    {
+      "id": "arxiv:2501.10738",
+      "via": [
+        "pwc"
+      ]
+    }
+  ],
+  "scan_partial": true
+}

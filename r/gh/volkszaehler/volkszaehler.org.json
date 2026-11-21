@@ -1,0 +1,67 @@
+{
+  "id": "gh:volkszaehler/volkszaehler.org",
+  "kind": "repo",
+  "url": "https://github.com/volkszaehler/volkszaehler.org",
+  "title": "volkszaehler.org",
+  "why": "Stores sensor readings as channels and rebuilds aggregates over time levels, pushing updates to WebSocket and WAMP clients.",
+  "keys": {
+    "races": [
+      "energy/home-energy",
+      "data/analytics"
+    ],
+    "lanes": [
+      "energy/home-energy",
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/volkszaehler/volkszaehler.org",
+    "sha": "c45c7631a6c07c2552f387831ed28f2dbe77cfae",
+    "file_url": "https://cdn.jsdelivr.net/gh/volkszaehler/volkszaehler.org@c45c7631a6c07c2552f387831ed28f2dbe77cfae/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "GPL-3.0",
+    "stars": 235,
+    "size_mb": 8,
+    "created_at": "2010-07-22T09:35:12Z",
+    "last_commit_at": "2026-11-19T19:05:19Z",
+    "releases": 6,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "1.0",
+      "at": "2019-03-11T10:34:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c45c7631a6c07c2552f387831ed28f2dbe77cfae",
+    "v": 4
+  },
+  "pinned_at": "2026-11-19T19:05:19Z"
+}

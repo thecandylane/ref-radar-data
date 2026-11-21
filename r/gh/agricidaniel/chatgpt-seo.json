@@ -1,0 +1,67 @@
+{
+  "id": "gh:agricidaniel/chatgpt-seo",
+  "kind": "repo",
+  "url": "https://github.com/AgriciDaniel/chatgpt-seo",
+  "title": "chatgpt-seo",
+  "why": "Checks crawls, GSC exports, hreflang, sitemaps and structured data from scripts, and rolls them into a scorecard.",
+  "keys": {
+    "races": [
+      "seo/site-audits",
+      "seo/structured-data",
+      "agents/skills"
+    ],
+    "lanes": [
+      "seo/site-audits",
+      "seo/structured-data",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/skills/plugin-specs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AgriciDaniel/chatgpt-seo",
+    "sha": "b9dd5c8fab722c7610184927a902ca689165d322",
+    "file_url": "https://cdn.jsdelivr.net/gh/AgriciDaniel/chatgpt-seo@b9dd5c8fab722c7610184927a902ca689165d322/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 938,
+    "size_mb": 2,
+    "created_at": "2026-04-27T22:43:34Z",
+    "last_commit_at": "2026-10-19T17:00:54Z",
+    "releases": 6,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.16",
+      "at": "2026-10-19T17:02:48.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b9dd5c8fab722c7610184927a902ca689165d322",
+    "v": 4
+  },
+  "pinned_at": "2026-10-19T17:00:54Z"
+}

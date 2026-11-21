@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c2d96f735ad88a7d8e0b0a79fdd1292327ba6d36"
+  },
+  "id": "gh:academysoftwarefoundation/openvdb",
+  "kind": "repo",
+  "url": "https://github.com/AcademySoftwareFoundation/openvdb",
+  "title": "openvdb",
+  "why": "Stores sparse volumetric data on three-dimensional grids in a hierarchical structure, with tools built for feature film production.",
+  "keys": {
+    "races": [
+      "media/animation-vfx",
+      "games/graphics"
+    ],
+    "lanes": [
+      "media/animation-vfx",
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AcademySoftwareFoundation/openvdb",
+    "sha": "c2d96f735ad88a7d8e0b0a79fdd1292327ba6d36",
+    "file_url": "https://cdn.jsdelivr.net/gh/AcademySoftwareFoundation/openvdb@c2d96f735ad88a7d8e0b0a79fdd1292327ba6d36/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 3540,
+    "size_mb": 127,
+    "created_at": "2013-04-12T18:39:57Z",
+    "last_commit_at": "2026-11-19T19:47:36Z",
+    "releases": 35,
+    "tags": 45,
+    "archived": false,
+    "release": {
+      "tag": "v14.0.0",
+      "at": "2026-10-29T21:08:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c2d96f735ad88a7d8e0b0a79fdd1292327ba6d36",
+    "v": 4
+  }
+}

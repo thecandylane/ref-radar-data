@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3f1b842d9fe9aaac08ea9265694a56fe5203dc16"
+  },
+  "id": "gh:iarna/iarna-toml",
+  "kind": "repo",
+  "url": "https://github.com/iarna/iarna-toml",
+  "title": "iarna-toml",
+  "why": "Parses and stringifies TOML 1.0.0-rc.1 through a JSON-style interface, with async and streaming parsing and readable error messages.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/iarna/iarna-toml",
+    "sha": "3f1b842d9fe9aaac08ea9265694a56fe5203dc16",
+    "file_url": "https://cdn.jsdelivr.net/gh/iarna/iarna-toml@3f1b842d9fe9aaac08ea9265694a56fe5203dc16/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "ISC",
+    "stars": 343,
+    "size_mb": 1,
+    "created_at": "2016-09-26T23:44:09Z",
+    "last_commit_at": "2022-08-03T20:00:49Z",
+    "releases": 0,
+    "tags": 29,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3f1b842d9fe9aaac08ea9265694a56fe5203dc16",
+    "v": 4
+  },
+  "pinned_at": "2022-08-03T20:00:49Z"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "gh:skyd666/podaura",
+  "kind": "repo",
+  "url": "https://github.com/SkyD666/PodAura",
+  "title": "PodAura",
+  "why": "Kotlin app shared across Android, iOS and desktop, with a download manager and Windows and macOS media session bridges.",
+  "keys": {
+    "races": [
+      "mobile/cross-platform",
+      "mobile/android"
+    ],
+    "lanes": [
+      "mobile/cross-platform",
+      "mobile/android"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SkyD666/PodAura",
+    "sha": "d83d3e1300616979c3b4ee8467215707f20eb8ab",
+    "file_url": "https://cdn.jsdelivr.net/gh/SkyD666/PodAura@d83d3e1300616979c3b4ee8467215707f20eb8ab/{path}"
+  },
+  "facts": {
+    "lang": "Kotlin",
+    "license": "GPL-3.0",
+    "stars": 1274,
+    "size_mb": 25,
+    "created_at": "2024-02-07T16:20:43Z",
+    "last_commit_at": "2026-11-17T15:51:24Z",
+    "releases": 9,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "34",
+      "at": "2026-11-15T16:36:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d83d3e1300616979c3b4ee8467215707f20eb8ab",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T15:51:24Z"
+}

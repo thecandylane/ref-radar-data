@@ -1,0 +1,65 @@
+{
+  "id": "gh:systran/faster-whisper",
+  "kind": "repo",
+  "url": "https://github.com/SYSTRAN/faster-whisper",
+  "title": "faster-whisper",
+  "why": "Transcribes audio on CPU or GPU through CTranslate2 with int8 quantization, running up to 4 times faster than openai/whisper.",
+  "keys": {
+    "races": [
+      "media/speech",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "media/speech",
+      "llm-infra/inference"
+    ],
+    "capabilities": [
+      "llm-infra/inference/low-bit"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SYSTRAN/faster-whisper",
+    "sha": "6cb639e70786aea42b9233006ae60eaf07190bdb",
+    "file_url": "https://cdn.jsdelivr.net/gh/SYSTRAN/faster-whisper@6cb639e70786aea42b9233006ae60eaf07190bdb/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 26921,
+    "size_mb": 40,
+    "created_at": "2023-02-11T09:17:27Z",
+    "last_commit_at": "2026-11-12T09:05:55Z",
+    "releases": 21,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.1",
+      "at": "2025-10-31T11:34:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6cb639e70786aea42b9233006ae60eaf07190bdb",
+    "v": 4
+  },
+  "pinned_at": "2026-11-12T09:05:55Z"
+}

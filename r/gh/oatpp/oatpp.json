@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:f83d648fd82dc222ef88aabbafb68efbd7d7bf50"
+  },
   "id": "gh:oatpp/oatpp",
   "kind": "repo",
   "url": "https://github.com/oatpp/oatpp",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "C++",
     "license": "Apache-2.0",
-    "stars": 8666,
+    "stars": 8664,
     "size_mb": 4,
     "created_at": "2018-03-13T01:52:44Z",
     "last_commit_at": "2025-11-12T06:19:27Z",
@@ -60,5 +63,6 @@
   "pack": {
     "sha": "f83d648fd82dc222ef88aabbafb68efbd7d7bf50",
     "v": 4
-  }
+  },
+  "pinned_at": "2025-11-12T06:19:27Z"
 }

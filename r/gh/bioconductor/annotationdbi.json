@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:00bc715f3ecc0d78d7794257c041d3d463766e11"
+  },
+  "id": "gh:bioconductor/annotationdbi",
+  "kind": "repo",
+  "url": "https://github.com/Bioconductor/AnnotationDbi",
+  "title": "AnnotationDbi",
+  "why": "Wraps SQLite-based annotation data packages from Bioconductor in an R interface for querying them directly.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Bioconductor/AnnotationDbi",
+    "sha": "00bc715f3ecc0d78d7794257c041d3d463766e11",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/AnnotationDbi@00bc715f3ecc0d78d7794257c041d3d463766e11/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 10,
+    "size_mb": 5,
+    "created_at": "2017-09-01T19:31:21Z",
+    "last_commit_at": "2026-08-27T01:54:04Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "00bc715f3ecc0d78d7794257c041d3d463766e11",
+    "v": 4
+  },
+  "pinned_at": "2026-08-27T01:54:04Z"
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:addf1d2a5e912d229bab669fec2c3bf92fda6bad"
+  },
   "id": "gh:kata-containers/kata-containers",
   "kind": "repo",
   "url": "https://github.com/kata-containers/kata-containers",
@@ -36,10 +39,10 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 9187,
+    "stars": 9194,
     "size_mb": 117,
     "created_at": "2017-12-07T05:01:12Z",
-    "last_commit_at": "2026-11-20T08:03:09Z",
+    "last_commit_at": "2026-11-20T20:04:16Z",
     "releases": 124,
     "tags": 155,
     "archived": false,
@@ -68,5 +71,6 @@
   "pins_before": [
     "f4360e22a54db46119fd658edde35b5f80fb9187"
   ],
-  "pinned_at": "2026-11-19T07:53:41Z"
+  "pinned_at": "2026-11-19T07:53:41Z",
+  "hot": true
 }

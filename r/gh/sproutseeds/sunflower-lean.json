@@ -1,0 +1,73 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6b7f3dcc19a111cf772a630092c48567ac1b51d8"
+  },
+  "id": "gh:sproutseeds/sunflower-lean",
+  "kind": "repo",
+  "url": "https://github.com/SproutSeeds/sunflower-lean",
+  "title": "sunflower-lean",
+  "why": "Machine-checked sunflower combinatorics in Lean 4, including bounds on three-sunflower-free set systems and a one-command verification script.",
+  "keys": {
+    "races": [
+      "math/formal-proofs"
+    ],
+    "lanes": [
+      "math/formal-proofs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SproutSeeds/sunflower-lean",
+    "sha": "6b7f3dcc19a111cf772a630092c48567ac1b51d8",
+    "file_url": "https://cdn.jsdelivr.net/gh/SproutSeeds/sunflower-lean@6b7f3dcc19a111cf772a630092c48567ac1b51d8/{path}"
+  },
+  "facts": {
+    "lang": "Lean",
+    "license": "Apache-2.0",
+    "stars": 1,
+    "size_mb": 59,
+    "created_at": "2026-02-26T04:41:13Z",
+    "last_commit_at": "2026-06-14T16:14:00Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "paper-v2",
+      "at": "2026-06-14T20:28:19.000Z"
+    },
+    "doi": "10.5281/zenodo.20670535"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6b7f3dcc19a111cf772a630092c48567ac1b51d8",
+    "v": 4
+  },
+  "pinned_at": "2026-06-14T16:14:00Z",
+  "papers": [
+    {
+      "id": "arxiv:2210.11961",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

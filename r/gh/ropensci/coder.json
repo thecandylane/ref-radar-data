@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:730d445598249bcafffdbbd47e450408befe486f"
+  },
+  "id": "gh:ropensci/coder",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/coder",
+  "title": "coder",
+  "why": "Maps ICD-10 and ATC patient codes to Charlson and Elixhauser comorbidity categories with regular expressions and time windows around surgery.",
+  "keys": {
+    "races": [
+      "medicine/health-data",
+      "medicine/ehr"
+    ],
+    "lanes": [
+      "medicine/health-data",
+      "medicine/ehr"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/coder",
+    "sha": "730d445598249bcafffdbbd47e450408befe486f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/coder@730d445598249bcafffdbbd47e450408befe486f/{path}"
+  },
+  "facts": {
+    "lang": "TeX",
+    "license": "none",
+    "stars": 22,
+    "size_mb": 77,
+    "created_at": "2016-08-18T07:35:21Z",
+    "last_commit_at": "2025-05-05T15:19:55Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v.0.13.2",
+      "at": "2020-12-16T21:08:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "730d445598249bcafffdbbd47e450408befe486f",
+    "v": 4
+  },
+  "pinned_at": "2025-05-05T15:19:55Z"
+}

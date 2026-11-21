@@ -1,0 +1,75 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:93aa3953a69f690ba9cc0926bafe9c86e37c4280"
+  },
+  "id": "gh:leigh2/cetra",
+  "kind": "repo",
+  "url": "https://github.com/leigh2/cetra",
+  "title": "cetra",
+  "why": "Finds exoplanet transits in light curves on NVIDIA GPUs, with a single-transit search then a periodic search using a physical transit model.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/leigh2/cetra",
+    "sha": "93aa3953a69f690ba9cc0926bafe9c86e37c4280",
+    "file_url": "https://cdn.jsdelivr.net/gh/leigh2/cetra@93aa3953a69f690ba9cc0926bafe9c86e37c4280/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 10,
+    "size_mb": 28,
+    "created_at": "2024-07-16T09:10:23Z",
+    "last_commit_at": "2026-04-20T11:17:22Z",
+    "releases": 0,
+    "tags": 5,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "93aa3953a69f690ba9cc0926bafe9c86e37c4280",
+    "v": 4
+  },
+  "pinned_at": "2026-04-20T11:17:22Z",
+  "papers": [
+    {
+      "id": "arxiv:2503.20875",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

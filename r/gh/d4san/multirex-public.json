@@ -1,0 +1,85 @@
+{
+  "id": "gh:d4san/multirex-public",
+  "kind": "repo",
+  "url": "https://github.com/D4san/MultiREx-public",
+  "title": "MultiREx-public",
+  "why": "Generates thousands of noisy exoplanet transmission spectra from random star, planet and atmosphere settings, to train classifiers for biosignatures.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "ml/training"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/D4san/MultiREx-public",
+    "sha": "2c4ffe9209f57f8eb87c485dc613d45bfe7174cd",
+    "file_url": "https://raw.githubusercontent.com/D4san/MultiREx-public/2c4ffe9209f57f8eb87c485dc613d45bfe7174cd/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "NOASSERTION",
+    "stars": 5,
+    "size_mb": 1327,
+    "created_at": "2023-12-13T16:53:21Z",
+    "last_commit_at": "2026-06-29T13:08:45Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.4",
+      "at": "2024-07-30T13:06:38.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2c4ffe9209f57f8eb87c485dc613d45bfe7174cd",
+    "v": 4
+  },
+  "pinned_at": "2026-06-29T13:08:45Z",
+  "papers": [
+    {
+      "id": "arxiv:2207.08636",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:1912.07759",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2407.19167",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

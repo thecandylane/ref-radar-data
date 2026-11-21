@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:688551fc29756cb546ecf9ead4924afa3453e072"
+  },
+  "id": "gh:robjhyndman/demography",
+  "kind": "repo",
+  "url": "https://github.com/robjhyndman/demography",
+  "title": "demography",
+  "why": "Runs lifetable calculations and Lee-Carter mortality models in R, and does stochastic population forecasting from fertility and net migration.",
+  "keys": {
+    "races": [
+      "insurance/actuarial",
+      "data/statistics"
+    ],
+    "lanes": [
+      "insurance/actuarial",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/robjhyndman/demography",
+    "sha": "688551fc29756cb546ecf9ead4924afa3453e072",
+    "file_url": "https://cdn.jsdelivr.net/gh/robjhyndman/demography@688551fc29756cb546ecf9ead4924afa3453e072/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 78,
+    "size_mb": 21,
+    "created_at": "2012-04-18T06:02:03Z",
+    "last_commit_at": "2025-10-06T07:55:04Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.1",
+      "at": "2025-10-06T07:53:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "688551fc29756cb546ecf9ead4924afa3453e072",
+    "v": 4
+  },
+  "pinned_at": "2025-10-06T07:55:04Z"
+}

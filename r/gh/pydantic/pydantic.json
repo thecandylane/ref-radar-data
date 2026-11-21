@@ -24,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/pydantic/pydantic",
-    "sha": "560f0f96a37d6913afdfddb2de22030ef08e68c3",
-    "file_url": "https://cdn.jsdelivr.net/gh/pydantic/pydantic@560f0f96a37d6913afdfddb2de22030ef08e68c3/{path}"
+    "sha": "ba7615c4d2fb8e84efcb5336724eaa46464beb6b",
+    "file_url": "https://cdn.jsdelivr.net/gh/pydantic/pydantic@ba7615c4d2fb8e84efcb5336724eaa46464beb6b/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 29588,
+    "stars": 29605,
     "size_mb": 463,
     "created_at": "2017-05-03T21:23:58Z",
-    "last_commit_at": "2026-11-19T19:12:52Z",
+    "last_commit_at": "2026-11-20T10:51:03Z",
     "releases": 208,
     "tags": 230,
     "archived": false,
@@ -50,14 +50,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 95,
+    "star_delta_7d": 112,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "560f0f96a37d6913afdfddb2de22030ef08e68c3",
-    "v": 3
-  },
+  "pins_before": [
+    "560f0f96a37d6913afdfddb2de22030ef08e68c3"
+  ],
+  "pinned_at": "2026-11-20T10:51:03Z",
   "hot": true
 }

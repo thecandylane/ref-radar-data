@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a4ef65154b10a9244cf874216b9891a0ad71fd6c"
+  },
+  "id": "gh:sbarisic/nanovg_dotnet",
+  "kind": "repo",
+  "url": "https://github.com/sbarisic/nanovg_dotnet",
+  "title": "nanovg_dotnet",
+  "why": "C# P/Invoke binding to the nanovg vector drawing library, with an OpenGL 3.2 context and support for custom renderers.",
+  "keys": {
+    "races": [
+      "games/graphics",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "games/graphics",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sbarisic/nanovg_dotnet",
+    "sha": "a4ef65154b10a9244cf874216b9891a0ad71fd6c",
+    "file_url": "https://cdn.jsdelivr.net/gh/sbarisic/nanovg_dotnet@a4ef65154b10a9244cf874216b9891a0ad71fd6c/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "MIT",
+    "stars": 32,
+    "size_mb": 1,
+    "created_at": "2018-08-10T19:27:17Z",
+    "last_commit_at": "2018-09-13T13:45:13Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a4ef65154b10a9244cf874216b9891a0ad71fd6c",
+    "v": 4
+  },
+  "pinned_at": "2018-09-13T13:45:13Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "hf:baai/bge-base-en-v1.5",
+  "kind": "model",
+  "url": "https://huggingface.co/BAAI/bge-base-en-v1.5",
+  "title": "bge-base-en-v1.5",
+  "why": "Sentence embeddings for similarity and retrieval, with MTEB scores per task for checking it fits your data before use.",
+  "keys": {
+    "races": [
+      "ml/embeddings",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "ml/embeddings",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "llm-infra/rag/vector-search"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://huggingface.co/BAAI/bge-base-en-v1.5",
+    "sha": "a5beb1e3e68b9ab74eb54cfd186867f64f240e1a",
+    "file_url": "https://huggingface.co/BAAI/bge-base-en-v1.5/raw/a5beb1e3e68b9ab74eb54cfd186867f64f240e1a/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 3579,
+    "created_at": "2023-09-11T15:04:22.000Z",
+    "last_commit_at": "2024-02-21T03:00:19.000Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "likes": 544,
+    "downloads_30d": 8613336
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2024-02-21T03:00:19.000Z"
+}

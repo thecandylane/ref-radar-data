@@ -1,0 +1,61 @@
+{
+  "id": "gh:zengyunhua/mestudy",
+  "kind": "repo",
+  "url": "https://github.com/zengyunhua/Mestudy",
+  "title": "Mestudy",
+  "why": "Java clients for a government insurance interface that fetch personal pay, health fee and health account records.",
+  "keys": {
+    "races": [
+      "civic/service-delivery"
+    ],
+    "lanes": [
+      "civic/service-delivery"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zengyunhua/Mestudy",
+    "sha": "1431a03053f068337b8a3388ef670d81c84b491a",
+    "file_url": "https://cdn.jsdelivr.net/gh/zengyunhua/Mestudy@1431a03053f068337b8a3388ef670d81c84b491a/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 632,
+    "size_mb": 93,
+    "created_at": "2018-08-30T08:28:27Z",
+    "last_commit_at": "2026-11-19T09:16:33Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2026-10-26T07:40:38.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1431a03053f068337b8a3388ef670d81c84b491a",
+    "v": 4
+  },
+  "pinned_at": "2026-11-19T09:16:33Z"
+}

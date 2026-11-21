@@ -1,0 +1,55 @@
+{
+  "id": "gh:micrictor/spl-spt",
+  "kind": "repo",
+  "url": "https://github.com/micrictor/spl-spt",
+  "title": "spl-spt",
+  "why": "Zeek plugin writing payload length and interval vectors per TLS session to spl.log for malware traffic analytics.",
+  "keys": {
+    "races": [
+      "netsec/capture",
+      "cyber/detection"
+    ],
+    "lanes": [
+      "netsec/capture",
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/micrictor/spl-spt",
+    "sha": "072bc17a892c56fdb43b1be29069e8b137bb22ea",
+    "file_url": "https://cdn.jsdelivr.net/gh/micrictor/spl-spt@072bc17a892c56fdb43b1be29069e8b137bb22ea/{path}"
+  },
+  "facts": {
+    "lang": "Zeek",
+    "license": "BSD-3-Clause",
+    "stars": 14,
+    "size_mb": 22,
+    "created_at": "2020-04-10T14:54:36Z",
+    "last_commit_at": "2020-04-21T18:45:58Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

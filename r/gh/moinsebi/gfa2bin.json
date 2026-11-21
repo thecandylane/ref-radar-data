@@ -1,0 +1,62 @@
+{
+  "id": "gh:moinsebi/gfa2bin",
+  "kind": "repo",
+  "url": "https://github.com/MoinSebi/gfa2bin",
+  "title": "gfa2bin",
+  "why": "Turns pangenome GFA graphs and coverage packs into PLINK or BIMBAM genotypes, with filter, split, merge and nearest-node commands.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MoinSebi/gfa2bin",
+    "sha": "f1ad1f8477204eaa782c7cafa6094eeb6b71ba2e",
+    "file_url": "https://cdn.jsdelivr.net/gh/MoinSebi/gfa2bin@f1ad1f8477204eaa782c7cafa6094eeb6b71ba2e/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 32,
+    "size_mb": 21,
+    "created_at": "2021-09-21T08:43:06Z",
+    "last_commit_at": "2026-10-07T08:57:41Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f1ad1f8477204eaa782c7cafa6094eeb6b71ba2e",
+    "v": 4
+  },
+  "pinned_at": "2026-10-07T08:57:41Z"
+}

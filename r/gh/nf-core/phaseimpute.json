@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4c73f594ff7cec20a1ddd5cd82588a1f46e61c06"
+  },
+  "id": "gh:nf-core/phaseimpute",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/phaseimpute",
+  "title": "phaseimpute",
+  "why": "Nextflow pipeline that phases a reference panel and imputes low-pass sequencing genotypes, then validates results against a truth set.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/phaseimpute",
+    "sha": "4c73f594ff7cec20a1ddd5cd82588a1f46e61c06",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/phaseimpute@4c73f594ff7cec20a1ddd5cd82588a1f46e61c06/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 36,
+    "size_mb": 21,
+    "created_at": "2023-07-12T14:41:51Z",
+    "last_commit_at": "2026-10-07T09:44:48Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "1.1.0",
+      "at": "2025-12-01T18:33:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4c73f594ff7cec20a1ddd5cd82588a1f46e61c06",
+    "v": 4
+  },
+  "pinned_at": "2026-10-07T09:44:48Z"
+}

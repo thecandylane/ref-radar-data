@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a1937fabaa4d1dfbff7efc11b67ca097f7e9ee75"
+  },
+  "id": "gh:ropensci/phylocomr",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/phylocomr",
+  "title": "phylocomr",
+  "why": "Runs Phylocom tools from R to build phylogenies from taxa lists, date tree nodes and measure trait signal and phylogenetic diversity.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "environment/earth-data"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "environment/earth-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/phylocomr",
+    "sha": "a1937fabaa4d1dfbff7efc11b67ca097f7e9ee75",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/phylocomr@a1937fabaa4d1dfbff7efc11b67ca097f7e9ee75/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "NOASSERTION",
+    "stars": 15,
+    "size_mb": 2,
+    "created_at": "2016-11-29T11:56:22Z",
+    "last_commit_at": "2023-04-21T19:44:27Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.3",
+      "at": "2022-12-05T22:37:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a1937fabaa4d1dfbff7efc11b67ca097f7e9ee75",
+    "v": 4
+  },
+  "pinned_at": "2023-04-21T19:44:27Z"
+}

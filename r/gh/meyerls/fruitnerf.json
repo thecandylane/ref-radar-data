@@ -1,0 +1,79 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:68b2d40be124010db62b9a78e08a00c592576901"
+  },
+  "id": "gh:meyerls/fruitnerf",
+  "kind": "repo",
+  "url": "https://github.com/meyerls/FruitNeRF",
+  "title": "FruitNeRF",
+  "why": "Counts apples and other fruit in 3D from monocular images by training a neural radiance field, which prevents double counting.",
+  "keys": {
+    "races": [
+      "agriculture/precision-ag",
+      "ml/vision"
+    ],
+    "lanes": [
+      "agriculture/precision-ag",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/meyerls/FruitNeRF",
+    "sha": "68b2d40be124010db62b9a78e08a00c592576901",
+    "file_url": "https://cdn.jsdelivr.net/gh/meyerls/FruitNeRF@68b2d40be124010db62b9a78e08a00c592576901/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 337,
+    "size_mb": 57,
+    "created_at": "2024-03-25T11:19:39Z",
+    "last_commit_at": "2025-06-13T07:39:15Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "68b2d40be124010db62b9a78e08a00c592576901",
+    "v": 4
+  },
+  "pinned_at": "2025-06-13T07:39:15Z",
+  "papers": [
+    {
+      "id": "arxiv:2505.19863",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2408.06190",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

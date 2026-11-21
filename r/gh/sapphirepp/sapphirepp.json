@@ -1,0 +1,75 @@
+{
+  "id": "gh:sapphirepp/sapphirepp",
+  "kind": "repo",
+  "url": "https://github.com/sapphirepp/sapphirepp",
+  "title": "sapphirepp",
+  "why": "Solves particle distribution PDEs with dealii in C++, and ships Python plotting scripts for shock and radiation reaction examples.",
+  "keys": {
+    "races": [
+      "engineering/simulation",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "engineering/simulation",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sapphirepp/sapphirepp",
+    "sha": "5dc529d9284af4f424124b4ebcf2f8fa489c9220",
+    "file_url": "https://cdn.jsdelivr.net/gh/sapphirepp/sapphirepp@5dc529d9284af4f424124b4ebcf2f8fa489c9220/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "LGPL-3.0",
+    "stars": 11,
+    "size_mb": 4,
+    "created_at": "2023-11-08T10:25:28Z",
+    "last_commit_at": "2026-11-17T23:17:07Z",
+    "releases": 4,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "v1.4.0",
+      "at": "2026-11-12T15:52:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5dc529d9284af4f424124b4ebcf2f8fa489c9220",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T23:17:07Z",
+  "papers": [
+    {
+      "id": "arxiv:2501.05110",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

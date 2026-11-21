@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:11f5d718fc18921162442136b2c6f21441e43050"
+  },
+  "id": "gh:natlabrockies/foilpolars",
+  "kind": "repo",
+  "url": "https://github.com/NatLabRockies/foilpolars",
+  "title": "foilpolars",
+  "why": "Samples perturbed foil shapes on a Grassmannian and solves each with XFoil and NeuralFoil for lift, drag and moment.",
+  "keys": {
+    "races": [
+      "engineering/simulation",
+      "energy/renewables"
+    ],
+    "lanes": [
+      "engineering/simulation",
+      "energy/renewables"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NatLabRockies/foilpolars",
+    "sha": "11f5d718fc18921162442136b2c6f21441e43050",
+    "file_url": "https://cdn.jsdelivr.net/gh/NatLabRockies/foilpolars@11f5d718fc18921162442136b2c6f21441e43050/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 0,
+    "size_mb": 15,
+    "created_at": "2026-06-23T19:09:35Z",
+    "last_commit_at": "2026-08-25T06:23:20Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "11f5d718fc18921162442136b2c6f21441e43050",
+    "v": 4
+  },
+  "pinned_at": "2026-08-25T06:23:20Z"
+}

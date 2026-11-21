@@ -1,0 +1,64 @@
+{
+  "id": "gh:bioconductor/h5mread",
+  "kind": "repo",
+  "url": "https://github.com/Bioconductor/h5mread",
+  "title": "h5mread",
+  "why": "Reads selected H5 dataset chunks into R arrays or sparse matrices, and can summarize them chunk by chunk instead of loading everything.",
+  "keys": {
+    "races": [
+      "data/serialization",
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "data/serialization",
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Bioconductor/h5mread",
+    "sha": "2860110fd8dee4b73004e04919ac95cb8f893df1",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/h5mread@2860110fd8dee4b73004e04919ac95cb8f893df1/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 3,
+    "size_mb": 2,
+    "created_at": "2024-11-28T03:39:45Z",
+    "last_commit_at": "2026-11-18T18:23:03Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2860110fd8dee4b73004e04919ac95cb8f893df1",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T18:23:03Z"
+}

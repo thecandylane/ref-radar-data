@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cf74435b0890f431412f38511e1bbe2f3d513728"
+  },
+  "id": "gh:apache/cordova-android",
+  "kind": "repo",
+  "url": "https://github.com/apache/cordova-android",
+  "title": "cordova-android",
+  "why": "Creates the Android project for a Cordova web app, then prepares, builds and runs it against Android targets.",
+  "keys": {
+    "races": [
+      "mobile/android",
+      "mobile/cross-platform"
+    ],
+    "lanes": [
+      "mobile/android",
+      "mobile/cross-platform"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/cordova-android",
+    "sha": "cf74435b0890f431412f38511e1bbe2f3d513728",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/cordova-android@cf74435b0890f431412f38511e1bbe2f3d513728/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "Apache-2.0",
+    "stars": 3793,
+    "size_mb": 38,
+    "created_at": "2012-11-28T08:00:22Z",
+    "last_commit_at": "2026-11-20T14:44:20Z",
+    "releases": 1,
+    "tags": 165,
+    "archived": false,
+    "release": {
+      "tag": "rel/15.1.0",
+      "at": "2026-07-22T09:10:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "cf74435b0890f431412f38511e1bbe2f3d513728",
+    "v": 4
+  }
+}

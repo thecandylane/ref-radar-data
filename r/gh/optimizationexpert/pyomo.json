@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:dd7d83610bcb3cfb09baa5ae29a23364957509b1"
+  },
+  "id": "gh:optimizationexpert/pyomo",
+  "kind": "repo",
+  "url": "https://github.com/OptimizationExpert/Pyomo",
+  "title": "OptimizationExpert/Pyomo",
+  "why": "Worked optimization examples as standalone Python scripts, covering puzzle solving, path finding and interdiction, with plots.",
+  "keys": {
+    "races": [
+      "sci/optimization"
+    ],
+    "lanes": [
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OptimizationExpert/Pyomo",
+    "sha": "dd7d83610bcb3cfb09baa5ae29a23364957509b1",
+    "file_url": "https://cdn.jsdelivr.net/gh/OptimizationExpert/Pyomo@dd7d83610bcb3cfb09baa5ae29a23364957509b1/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 320,
+    "size_mb": 21,
+    "created_at": "2023-01-07T11:50:31Z",
+    "last_commit_at": "2026-11-02T13:17:24Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dd7d83610bcb3cfb09baa5ae29a23364957509b1",
+    "v": 4
+  },
+  "pinned_at": "2026-11-02T13:17:24Z"
+}

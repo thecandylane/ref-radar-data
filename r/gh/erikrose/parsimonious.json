@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:eb79639859a9697a86c0992a045174a8856b5fb0"
+  },
+  "id": "gh:erikrose/parsimonious",
+  "kind": "repo",
+  "url": "https://github.com/erikrose/parsimonious",
+  "title": "parsimonious",
+  "why": "Builds a parser from a PEG grammar written in EBNF-like notation, with a node visitor to turn trees into output in pure Python.",
+  "keys": {
+    "races": [
+      "languages/compilers"
+    ],
+    "lanes": [
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/erikrose/parsimonious",
+    "sha": "eb79639859a9697a86c0992a045174a8856b5fb0",
+    "file_url": "https://cdn.jsdelivr.net/gh/erikrose/parsimonious@eb79639859a9697a86c0992a045174a8856b5fb0/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1919,
+    "size_mb": 1,
+    "created_at": "2012-02-03T09:10:42Z",
+    "last_commit_at": "2025-11-12T01:17:46Z",
+    "releases": 0,
+    "tags": 13,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "eb79639859a9697a86c0992a045174a8856b5fb0",
+    "v": 4
+  },
+  "pinned_at": "2025-11-12T01:17:46Z"
+}

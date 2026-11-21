@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8a6c2350b985afb909428d396081605e9b3e2f0b"
+  },
+  "id": "gh:joey711/phyloseq",
+  "kind": "repo",
+  "url": "https://github.com/joey711/phyloseq",
+  "title": "phyloseq",
+  "why": "Imports, stores and analyzes phylogenetic sequencing data in R, so microbiome census analyses and graphics can be shared reproducibly.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/joey711/phyloseq",
+    "sha": "8a6c2350b985afb909428d396081605e9b3e2f0b",
+    "file_url": "https://cdn.jsdelivr.net/gh/joey711/phyloseq@8a6c2350b985afb909428d396081605e9b3e2f0b/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 653,
+    "size_mb": 115,
+    "created_at": "2011-08-11T00:16:34Z",
+    "last_commit_at": "2026-02-27T23:48:23Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8a6c2350b985afb909428d396081605e9b3e2f0b",
+    "v": 4
+  },
+  "pinned_at": "2026-02-27T23:48:23Z",
+  "papers": [
+    {
+      "id": "arxiv:1310.0424",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

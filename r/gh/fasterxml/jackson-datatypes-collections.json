@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:306436136d52d9aa0158c480b25e67cb6c8ee4ac"
+  },
+  "id": "gh:fasterxml/jackson-datatypes-collections",
+  "kind": "repo",
+  "url": "https://github.com/FasterXML/jackson-datatypes-collections",
+  "title": "jackson-datatypes-collections",
+  "why": "Lets Jackson map Eclipse Collections, fastutil, Guava, HPPC and PCollections types to and from JSON, with one module each.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/FasterXML/jackson-datatypes-collections",
+    "sha": "306436136d52d9aa0158c480b25e67cb6c8ee4ac",
+    "file_url": "https://cdn.jsdelivr.net/gh/FasterXML/jackson-datatypes-collections@306436136d52d9aa0158c480b25e67cb6c8ee4ac/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 91,
+    "size_mb": 4,
+    "created_at": "2016-01-20T05:39:06Z",
+    "last_commit_at": "2026-11-08T03:00:16Z",
+    "releases": 0,
+    "tags": 165,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "306436136d52d9aa0158c480b25e67cb6c8ee4ac",
+    "v": 4
+  },
+  "pinned_at": "2026-11-08T03:00:16Z"
+}

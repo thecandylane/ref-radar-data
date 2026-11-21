@@ -1,0 +1,67 @@
+{
+  "id": "gh:emcie-co/parlant",
+  "kind": "repo",
+  "url": "https://github.com/emcie-co/parlant",
+  "title": "parlant",
+  "why": "Builds policy-driven customer chat agents that check tool calls and replies before they reach the customer, with a chat widget and human handoff.",
+  "keys": {
+    "races": [
+      "agents/frameworks",
+      "support/helpdesk"
+    ],
+    "lanes": [
+      "agents/frameworks",
+      "support/helpdesk"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/emcie-co/parlant",
+    "sha": "07b2bcb4bebfeda7c53f1e2bbf2c68415f389e83",
+    "file_url": "https://cdn.jsdelivr.net/gh/emcie-co/parlant@07b2bcb4bebfeda7c53f1e2bbf2c68415f389e83/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 18337,
+    "size_mb": 93,
+    "created_at": "2024-02-15T20:16:15Z",
+    "last_commit_at": "2026-11-18T12:46:30Z",
+    "releases": 37,
+    "tags": 99,
+    "archived": false,
+    "release": {
+      "tag": "v4.0.6",
+      "at": "2026-11-16T12:59:15.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "07b2bcb4bebfeda7c53f1e2bbf2c68415f389e83",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T12:46:30Z"
+}

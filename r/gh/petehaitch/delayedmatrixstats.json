@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fd7d3fb8c069fe69ca3f7e483a816d5d8411f9bb"
+  },
+  "id": "gh:petehaitch/delayedmatrixstats",
+  "kind": "repo",
+  "url": "https://github.com/PeteHaitch/DelayedMatrixStats",
+  "title": "DelayedMatrixStats",
+  "why": "Runs matrixStats functions on DelayedMatrix objects without realizing them in memory, with seed-aware versions for dense, sparse and Rle seeds.",
+  "keys": {
+    "races": [
+      "sci/numerics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "sci/numerics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/PeteHaitch/DelayedMatrixStats",
+    "sha": "fd7d3fb8c069fe69ca3f7e483a816d5d8411f9bb",
+    "file_url": "https://cdn.jsdelivr.net/gh/PeteHaitch/DelayedMatrixStats@fd7d3fb8c069fe69ca3f7e483a816d5d8411f9bb/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 15,
+    "size_mb": 1,
+    "created_at": "2017-05-20T21:10:36Z",
+    "last_commit_at": "2026-04-28T12:46:42Z",
+    "releases": 0,
+    "tags": 13,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fd7d3fb8c069fe69ca3f7e483a816d5d8411f9bb",
+    "v": 4
+  },
+  "pinned_at": "2026-04-28T12:46:42Z"
+}

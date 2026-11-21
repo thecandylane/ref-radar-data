@@ -1,0 +1,67 @@
+{
+  "id": "gh:bikeindex/bike_index",
+  "kind": "repo",
+  "url": "https://github.com/bikeindex/bike_index",
+  "title": "bike_index",
+  "why": "Rails app whose browser code runs a bike catalog that matches frame geometry, sizes and colorways across models.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "civic/service-delivery"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "civic/service-delivery"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bikeindex/bike_index",
+    "sha": "620312eec6bf165e2023055f15faa4e79b4f1e3b",
+    "file_url": "https://raw.githubusercontent.com/bikeindex/bike_index/620312eec6bf165e2023055f15faa4e79b4f1e3b/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "AGPL-3.0",
+    "stars": 308,
+    "size_mb": 286,
+    "created_at": "2013-07-25T21:52:26Z",
+    "last_commit_at": "2026-11-21T07:21:15Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "620312eec6bf165e2023055f15faa4e79b4f1e3b",
+    "v": 4
+  }
+}

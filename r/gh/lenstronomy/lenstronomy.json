@@ -1,0 +1,72 @@
+{
+  "id": "gh:lenstronomy/lenstronomy",
+  "kind": "repo",
+  "url": "https://github.com/lenstronomy/lenstronomy",
+  "title": "lenstronomy",
+  "why": "Models lens systems from images and velocity dispersions, and samples their parameters with emcee, dynesty or zeus-mcmc.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lenstronomy/lenstronomy",
+    "sha": "4b7802fc5d72ba3ecc1ff3d9bce7172174ddf309",
+    "file_url": "https://cdn.jsdelivr.net/gh/lenstronomy/lenstronomy@4b7802fc5d72ba3ecc1ff3d9bce7172174ddf309/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 226,
+    "size_mb": 49,
+    "created_at": "2017-02-02T22:01:06Z",
+    "last_commit_at": "2026-11-17T09:29:48Z",
+    "releases": 44,
+    "tags": 45,
+    "archived": false,
+    "release": {
+      "tag": "v1.14.3",
+      "at": "2026-10-29T01:25:13.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4b7802fc5d72ba3ecc1ff3d9bce7172174ddf309",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T09:29:48Z",
+  "papers": [
+    {
+      "id": "arxiv:1803.09746",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:26cd0da27bb690c6f4fa17339c940f491ac33a67"
+  },
+  "id": "gh:lberaldoesilva/tropygal",
+  "kind": "repo",
+  "url": "https://github.com/lberaldoesilva/tropygal",
+  "title": "tropygal",
+  "why": "Estimates entropy and computes analytical distribution functions and densities of states for galactic dynamics models, in pure Python.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lberaldoesilva/tropygal",
+    "sha": "26cd0da27bb690c6f4fa17339c940f491ac33a67",
+    "file_url": "https://cdn.jsdelivr.net/gh/lberaldoesilva/tropygal@26cd0da27bb690c6f4fa17339c940f491ac33a67/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 7,
+    "created_at": "2023-05-31T18:31:00Z",
+    "last_commit_at": "2025-08-22T01:45:09Z",
+    "releases": 4,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "0.1.4",
+      "at": "2025-08-16T16:30:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "26cd0da27bb690c6f4fa17339c940f491ac33a67",
+    "v": 4
+  },
+  "pinned_at": "2025-08-22T01:45:09Z"
+}

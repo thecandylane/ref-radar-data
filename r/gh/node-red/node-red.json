@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:f613ba109eff360a1c8f8cb9add7b39531c75f12"
+  },
   "id": "gh:node-red/node-red",
   "kind": "repo",
   "url": "https://github.com/node-red/node-red",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "JavaScript",
     "license": "Apache-2.0",
-    "stars": 23862,
+    "stars": 23863,
     "size_mb": 74,
     "created_at": "2013-09-05T13:30:47Z",
     "last_commit_at": "2026-11-17T10:44:21Z",
@@ -60,5 +63,6 @@
   "pack": {
     "sha": "f613ba109eff360a1c8f8cb9add7b39531c75f12",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-17T10:44:21Z"
 }

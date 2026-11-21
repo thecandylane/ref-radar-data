@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:bb09a61046f5c99eb1795589a307646df04b26d0"
+  },
   "id": "gh:ethanarbuckle/fairplay-decrypt",
   "kind": "repo",
   "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
@@ -30,13 +33,14 @@
   "facts": {
     "lang": "C",
     "license": "GPL-3.0",
-    "stars": 2288,
+    "stars": 2472,
     "size_mb": 12,
     "created_at": "2026-10-19T10:07:58Z",
-    "last_commit_at": "2026-10-30T20:03:21Z",
+    "last_commit_at": "2026-11-08T15:54:02Z",
     "releases": 0,
     "tags": 0,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "copy",
   "maturity": "new",

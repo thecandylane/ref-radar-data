@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ea147c57ed8977cd64d318b880da1cac649c5823"
+  },
+  "id": "gh:nf-core/panoramaseq",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/panoramaseq",
+  "title": "panoramaseq",
+  "why": "Batch demux script plus converters from tsv.gz output to h5ad, with a check for the resulting h5ad files.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/panoramaseq",
+    "sha": "ea147c57ed8977cd64d318b880da1cac649c5823",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/panoramaseq@ea147c57ed8977cd64d318b880da1cac649c5823/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 25,
+    "created_at": "2025-06-02T12:02:44Z",
+    "last_commit_at": "2026-10-07T13:05:57Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ea147c57ed8977cd64d318b880da1cac649c5823",
+    "v": 4
+  },
+  "pinned_at": "2026-10-07T13:05:57Z"
+}

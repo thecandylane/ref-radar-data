@@ -1,0 +1,62 @@
+{
+  "id": "gh:mixomics-org/mixomics",
+  "kind": "repo",
+  "url": "https://github.com/mixOmics-org/mixOmics",
+  "title": "mixOmics",
+  "why": "Runs multi-block models like DIABLO and block.pls on omics data, and plots their results such as plotVar and circosPlot.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mixOmics-org/mixOmics",
+    "sha": "76c07fcbfcf403b4c670a0b69c639de698b25f07",
+    "file_url": "https://cdn.jsdelivr.net/gh/mixOmics-org/mixOmics@76c07fcbfcf403b4c670a0b69c639de698b25f07/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "AGPL-3.0",
+    "stars": 277,
+    "size_mb": 18,
+    "created_at": "2018-10-04T01:12:35Z",
+    "last_commit_at": "2026-11-20T18:23:58Z",
+    "releases": 5,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "6.36.0",
+      "at": "2026-05-25T05:12:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "76c07fcbfcf403b4c670a0b69c639de698b25f07",
+    "v": 4
+  }
+}

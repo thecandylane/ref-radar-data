@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:25058b436763c516329791098a8ad6b1e13d9f35"
+  },
+  "id": "gh:dgiot/dgiot",
+  "kind": "repo",
+  "url": "https://github.com/dgiot/dgiot",
+  "title": "dgiot",
+  "why": "Industrial IoT platform that reads Modbus devices into TDengine and checks thing models and topology with an ontology reasoner.",
+  "keys": {
+    "races": [
+      "industrial/scada",
+      "industrial/protocols",
+      "data/databases"
+    ],
+    "lanes": [
+      "industrial/scada",
+      "industrial/protocols",
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dgiot/dgiot",
+    "sha": "25058b436763c516329791098a8ad6b1e13d9f35",
+    "file_url": "https://cdn.jsdelivr.net/gh/dgiot/dgiot@25058b436763c516329791098a8ad6b1e13d9f35/{path}"
+  },
+  "facts": {
+    "lang": "Erlang",
+    "license": "Apache-2.0",
+    "stars": 4870,
+    "size_mb": 127,
+    "created_at": "2021-02-23T05:45:57Z",
+    "last_commit_at": "2026-09-08T23:37:16Z",
+    "releases": 57,
+    "tags": 58,
+    "archived": false,
+    "release": {
+      "tag": "v4.9.3",
+      "at": "2026-08-11T15:59:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "25058b436763c516329791098a8ad6b1e13d9f35",
+    "v": 4
+  },
+  "pinned_at": "2026-09-08T23:37:16Z"
+}

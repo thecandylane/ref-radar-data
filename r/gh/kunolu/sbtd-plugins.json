@@ -1,0 +1,66 @@
+{
+  "id": "gh:kunolu/sbtd-plugins",
+  "kind": "repo",
+  "url": "https://github.com/KunoLu/sbtd-plugins",
+  "title": "sbtd-plugins",
+  "why": "Adds spec, plan, review and validate gates to a coding agent session, with hooks that block edits until required checks pass.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/coding/plugin-architectures",
+      "agents/skills/engineering-skills"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/KunoLu/sbtd-plugins",
+    "sha": "2b4ef110c2606a5f151012b237a4e97c13b7fdfc",
+    "file_url": "https://cdn.jsdelivr.net/gh/KunoLu/sbtd-plugins@2b4ef110c2606a5f151012b237a4e97c13b7fdfc/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "Apache-2.0",
+    "stars": 195,
+    "size_mb": 17,
+    "created_at": "2026-08-20T06:55:39Z",
+    "last_commit_at": "2026-11-20T01:40:27Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2b4ef110c2606a5f151012b237a4e97c13b7fdfc",
+    "v": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "gh:ivanek/seqlogo",
+  "kind": "repo",
+  "url": "https://github.com/ivanek/seqLogo",
+  "title": "seqLogo",
+  "why": "Plots a DNA or RNA position weight matrix as a sequence logo, as a Bioconductor package with a vignette.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ivanek/seqLogo",
+    "sha": "0504e87bf9f5218e1d87c7e7d4913980bc5b0f78",
+    "file_url": "https://cdn.jsdelivr.net/gh/ivanek/seqLogo@0504e87bf9f5218e1d87c7e7d4913980bc5b0f78/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 6,
+    "size_mb": 3,
+    "created_at": "2020-05-08T20:33:57Z",
+    "last_commit_at": "2026-11-09T21:14:02Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0504e87bf9f5218e1d87c7e7d4913980bc5b0f78",
+    "v": 4
+  },
+  "pinned_at": "2026-11-09T21:14:02Z"
+}

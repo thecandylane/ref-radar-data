@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1abd4f65ce997d0e4eb6e5ca2ac925c19c2d9761"
+  },
+  "id": "gh:natlabrockies/bleecam",
+  "kind": "repo",
+  "url": "https://github.com/NatLabRockies/bleecam",
+  "title": "bleecam",
+  "why": "Solves a supply network flow model for minerals with lexicographic and epsilon-constraint runs that trade impact against cost.",
+  "keys": {
+    "races": [
+      "sci/optimization",
+      "energy/system-models"
+    ],
+    "lanes": [
+      "sci/optimization",
+      "energy/system-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NatLabRockies/bleecam",
+    "sha": "1abd4f65ce997d0e4eb6e5ca2ac925c19c2d9761",
+    "file_url": "https://cdn.jsdelivr.net/gh/NatLabRockies/bleecam@1abd4f65ce997d0e4eb6e5ca2ac925c19c2d9761/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "AGPL-3.0",
+    "stars": 5,
+    "size_mb": 21,
+    "created_at": "2026-08-24T22:35:28Z",
+    "last_commit_at": "2026-10-23T16:21:26Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1abd4f65ce997d0e4eb6e5ca2ac925c19c2d9761",
+    "v": 4
+  },
+  "pinned_at": "2026-10-23T16:21:26Z"
+}

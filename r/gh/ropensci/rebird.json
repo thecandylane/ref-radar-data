@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f4e151e8c6e2bbe290b2791d733dcf152d99a1ef"
+  },
+  "id": "gh:ropensci/rebird",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/rebird",
+  "title": "rebird",
+  "why": "Pulls bird sightings, hotspots, notable observations and the eBird taxonomy into R from the eBird web services, using an API key.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/datasets"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/rebird",
+    "sha": "f4e151e8c6e2bbe290b2791d733dcf152d99a1ef",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/rebird@f4e151e8c6e2bbe290b2791d733dcf152d99a1ef/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "MIT",
+    "stars": 95,
+    "size_mb": 4,
+    "created_at": "2012-02-09T21:35:39Z",
+    "last_commit_at": "2025-05-01T17:35:11Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.0",
+      "at": "2021-09-21T03:05:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f4e151e8c6e2bbe290b2791d733dcf152d99a1ef",
+    "v": 4
+  },
+  "pinned_at": "2025-05-01T17:35:11Z"
+}

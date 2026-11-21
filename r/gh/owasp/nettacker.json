@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:c7ecc2c8cd40ff6ca586d5d22929516a3fd44954"
+    "swh": "swh:1:rev:067fa76970424080185869074f3fb551bfaa6678"
   },
   "id": "gh:owasp/nettacker",
   "kind": "repo",
@@ -29,8 +29,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/OWASP/Nettacker",
-    "sha": "c7ecc2c8cd40ff6ca586d5d22929516a3fd44954",
-    "file_url": "https://cdn.jsdelivr.net/gh/OWASP/Nettacker@c7ecc2c8cd40ff6ca586d5d22929516a3fd44954/{path}"
+    "sha": "067fa76970424080185869074f3fb551bfaa6678",
+    "file_url": "https://cdn.jsdelivr.net/gh/OWASP/Nettacker@067fa76970424080185869074f3fb551bfaa6678/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -55,13 +55,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 27,
+    "star_delta_7d": 26,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "c7ecc2c8cd40ff6ca586d5d22929516a3fd44954",
-    "v": 3
-  }
+  "pins_before": [
+    "c7ecc2c8cd40ff6ca586d5d22929516a3fd44954"
+  ],
+  "pinned_at": "2026-11-17T00:24:16Z"
 }

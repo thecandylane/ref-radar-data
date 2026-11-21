@@ -1,0 +1,79 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a31684d5fc71d070514c1d2e0f043dcad99f7a74"
+  },
+  "id": "gh:i-dot-ai/lex",
+  "kind": "repo",
+  "url": "https://github.com/i-dot-ai/lex",
+  "title": "lex",
+  "why": "Searches 220K UK Acts and statutory instruments with hybrid semantic search, and exposes them to assistants over MCP.",
+  "keys": {
+    "races": [
+      "civic/legislative-data",
+      "agents/tools",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "civic/legislative-data",
+      "agents/tools",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers",
+      "llm-infra/rag/knowledge-platforms"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/i-dot-ai/lex",
+    "sha": "a31684d5fc71d070514c1d2e0f043dcad99f7a74",
+    "file_url": "https://cdn.jsdelivr.net/gh/i-dot-ai/lex@a31684d5fc71d070514c1d2e0f043dcad99f7a74/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 82,
+    "size_mb": 3,
+    "created_at": "2025-06-05T16:31:31Z",
+    "last_commit_at": "2026-04-01T16:39:32Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2026-03-23T12:16:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a31684d5fc71d070514c1d2e0f043dcad99f7a74",
+    "v": 4
+  },
+  "pinned_at": "2026-04-01T16:39:32Z"
+}

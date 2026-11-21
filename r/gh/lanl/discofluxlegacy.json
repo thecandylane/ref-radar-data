@@ -1,0 +1,76 @@
+{
+  "id": "gh:lanl/discofluxlegacy",
+  "kind": "repo",
+  "url": "https://github.com/lanl/DiscoFluxLegacy",
+  "title": "DiscoFluxLegacy",
+  "why": "Converts Fortran input and output fields for a legacy run, then plots snapshots and dof history from the results.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lanl/DiscoFluxLegacy",
+    "sha": "5714340a05528debbc9e65ff450d70b04549b270",
+    "file_url": "https://cdn.jsdelivr.net/gh/lanl/DiscoFluxLegacy@5714340a05528debbc9e65ff450d70b04549b270/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "BSD-3-Clause",
+    "stars": 2,
+    "size_mb": 0,
+    "created_at": "2026-06-25T23:08:54Z",
+    "last_commit_at": "2026-11-19T18:29:06Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "2026.10",
+      "at": "2026-11-03T21:40:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5714340a05528debbc9e65ff450d70b04549b270",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2101.10497",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

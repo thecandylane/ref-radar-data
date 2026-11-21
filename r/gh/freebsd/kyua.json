@@ -1,0 +1,63 @@
+{
+  "id": "gh:freebsd/kyua",
+  "kind": "repo",
+  "url": "https://github.com/freebsd/kyua",
+  "title": "kyua",
+  "why": "Test runner that drives ATF, TAP and GoogleTest suites from a Kyuafile, stores results, and writes JUnit or HTML reports.",
+  "keys": {
+    "races": [
+      "dev-tools/testing",
+      "dev-tools/debugging"
+    ],
+    "lanes": [
+      "dev-tools/testing",
+      "dev-tools/debugging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/freebsd/kyua",
+    "sha": "aeb3fefbb1bbda75174324df3c8a78f0449b2743",
+    "file_url": "https://cdn.jsdelivr.net/gh/freebsd/kyua@aeb3fefbb1bbda75174324df3c8a78f0449b2743/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "BSD-3-Clause",
+    "stars": 176,
+    "size_mb": 5,
+    "created_at": "2014-02-16T15:30:04Z",
+    "last_commit_at": "2026-11-20T06:45:21Z",
+    "releases": 28,
+    "tags": 29,
+    "archived": false,
+    "release": {
+      "tag": "kyua-0.15.2",
+      "at": "2026-11-19T06:52:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "aeb3fefbb1bbda75174324df3c8a78f0449b2743",
+    "v": 4
+  },
+  "pinned_at": "2026-11-20T06:45:21Z"
+}

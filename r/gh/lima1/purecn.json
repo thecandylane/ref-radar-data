@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ae9d1b306e3f248a71003527008f9295c2779864"
+  },
+  "id": "gh:lima1/purecn",
+  "kind": "repo",
+  "url": "https://github.com/lima1/PureCN",
+  "title": "PureCN",
+  "why": "Bioconductor package that calls copy number adjusted for purity and ploidy and classifies variants as somatic or germline in tumor-only targeted sequencing.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lima1/PureCN",
+    "sha": "ae9d1b306e3f248a71003527008f9295c2779864",
+    "file_url": "https://cdn.jsdelivr.net/gh/lima1/PureCN@ae9d1b306e3f248a71003527008f9295c2779864/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "Artistic-2.0",
+    "stars": 149,
+    "size_mb": 19,
+    "created_at": "2017-08-04T17:49:35Z",
+    "last_commit_at": "2026-10-06T18:20:26Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ae9d1b306e3f248a71003527008f9295c2779864",
+    "v": 4
+  },
+  "pinned_at": "2026-10-06T18:20:26Z"
+}

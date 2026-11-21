@@ -1,0 +1,75 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:123a95287d4fc1c6d4d7585c3ba4c29e206147f6"
+  },
+  "id": "gh:stingraysoftware/hendrics",
+  "kind": "repo",
+  "url": "https://github.com/StingraySoftware/HENDRICS",
+  "title": "HENDRICS",
+  "why": "Runs periodograms, folding searches and pulsar TOA fits on event lists, with a GPU histogram path through CuPy when it is available.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/StingraySoftware/HENDRICS",
+    "sha": "123a95287d4fc1c6d4d7585c3ba4c29e206147f6",
+    "file_url": "https://cdn.jsdelivr.net/gh/StingraySoftware/HENDRICS@123a95287d4fc1c6d4d7585c3ba4c29e206147f6/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "NOASSERTION",
+    "stars": 26,
+    "size_mb": 46,
+    "created_at": "2017-06-19T07:00:03Z",
+    "last_commit_at": "2026-09-25T12:58:24Z",
+    "releases": 13,
+    "tags": 59,
+    "archived": false,
+    "release": {
+      "tag": "v8.5",
+      "at": "2026-03-20T16:13:38.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "123a95287d4fc1c6d4d7585c3ba4c29e206147f6",
+    "v": 4
+  },
+  "pinned_at": "2026-09-25T12:58:24Z",
+  "papers": [
+    {
+      "id": "arxiv:1409.3248",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

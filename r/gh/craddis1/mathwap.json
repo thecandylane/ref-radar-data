@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7cd70c46c0681ab365e43640f4d5920294e60293"
+  },
+  "id": "gh:craddis1/mathwap",
+  "kind": "repo",
+  "url": "https://github.com/craddis1/MathWAP",
+  "title": "MathWAP",
+  "why": "Mathematica notebooks that derive power spectrum and bispectrum expressions analytically, exporting terms to JSON for Python use.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/symbolic"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/symbolic"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/craddis1/MathWAP",
+    "sha": "7cd70c46c0681ab365e43640f4d5920294e60293",
+    "file_url": "https://cdn.jsdelivr.net/gh/craddis1/MathWAP@7cd70c46c0681ab365e43640f4d5920294e60293/{path}"
+  },
+  "facts": {
+    "lang": "Wolfram Language",
+    "license": "MIT",
+    "stars": 3,
+    "size_mb": 5,
+    "created_at": "2024-09-24T11:59:11Z",
+    "last_commit_at": "2026-05-26T10:32:25Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7cd70c46c0681ab365e43640f4d5920294e60293",
+    "v": 4
+  },
+  "pinned_at": "2026-05-26T10:32:25Z",
+  "papers": [
+    {
+      "id": "arxiv:2407.00168",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

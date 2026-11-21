@@ -1,0 +1,70 @@
+{
+  "id": "gh:learnhouse/learnhouse",
+  "kind": "repo",
+  "url": "https://github.com/learnhouse/learnhouse",
+  "title": "learnhouse",
+  "why": "Course platform where the web app resolves tenants per request and a separate collab service runs editor rooms and presence.",
+  "keys": {
+    "races": [
+      "learning/lms",
+      "learning/courses"
+    ],
+    "lanes": [
+      "learning/lms",
+      "learning/courses"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/learnhouse/learnhouse",
+    "sha": "328054cd47f0541c2cc77cc7785d1919f079bbe2",
+    "file_url": "https://cdn.jsdelivr.net/gh/learnhouse/learnhouse@328054cd47f0541c2cc77cc7785d1919f079bbe2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 2485,
+    "size_mb": 116,
+    "created_at": "2022-05-10T21:10:28Z",
+    "last_commit_at": "2026-11-19T20:13:04Z",
+    "releases": 45,
+    "tags": 47,
+    "archived": false,
+    "release": {
+      "tag": "1.4.5",
+      "at": "2026-11-14T09:52:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "328054cd47f0541c2cc77cc7785d1919f079bbe2",
+    "v": 4
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:21fd7719e89a7d22b4eac63141a60a7f1b01768c"
+  },
+  "id": "gh:poliastro/poliastro",
+  "kind": "repo",
+  "url": "https://github.com/poliastro/poliastro",
+  "title": "poliastro",
+  "why": "Orbit propagation, Lambert problem solving and orbit plots in Python, with units handled by astropy, though archived since 2022.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/poliastro/poliastro",
+    "sha": "21fd7719e89a7d22b4eac63141a60a7f1b01768c",
+    "file_url": "https://cdn.jsdelivr.net/gh/poliastro/poliastro@21fd7719e89a7d22b4eac63141a60a7f1b01768c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1018,
+    "size_mb": 45,
+    "created_at": "2013-07-04T14:14:45Z",
+    "last_commit_at": "2023-10-14T15:30:47Z",
+    "releases": 24,
+    "tags": 43,
+    "archived": true,
+    "release": {
+      "tag": "v0.17.0",
+      "at": "2022-07-11T09:07:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "21fd7719e89a7d22b4eac63141a60a7f1b01768c",
+    "v": 4
+  },
+  "pinned_at": "2023-10-14T15:30:47Z"
+}

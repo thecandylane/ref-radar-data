@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3ab79556aa7c4757d461a436507f2109db0f6a9e"
+  },
+  "id": "gh:sethmlarson/socksio",
+  "kind": "repo",
+  "url": "https://github.com/sethmlarson/socksio",
+  "title": "socksio",
+  "why": "Encodes and decodes SOCKS4, SOCKS4a and SOCKS5 requests as a connection object with send and receive_data calls.",
+  "keys": {
+    "races": [
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sethmlarson/socksio",
+    "sha": "3ab79556aa7c4757d461a436507f2109db0f6a9e",
+    "file_url": "https://cdn.jsdelivr.net/gh/sethmlarson/socksio@3ab79556aa7c4757d461a436507f2109db0f6a9e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 57,
+    "size_mb": 0,
+    "created_at": "2019-09-02T17:01:33Z",
+    "last_commit_at": "2026-08-24T14:44:51Z",
+    "releases": 0,
+    "tags": 3,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3ab79556aa7c4757d461a436507f2109db0f6a9e",
+    "v": 4
+  },
+  "pinned_at": "2026-08-24T14:44:51Z"
+}

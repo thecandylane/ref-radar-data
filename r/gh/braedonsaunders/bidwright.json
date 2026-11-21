@@ -1,0 +1,69 @@
+{
+  "id": "gh:braedonsaunders/bidwright",
+  "kind": "repo",
+  "url": "https://github.com/braedonsaunders/bidwright",
+  "title": "bidwright",
+  "why": "Parses construction dimensions and turns takeoff items into quote revisions, with agent evals for labor tree navigation.",
+  "keys": {
+    "races": [
+      "construction/project-controls"
+    ],
+    "lanes": [
+      "construction/project-controls"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/braedonsaunders/bidwright",
+    "sha": "9cc8dfc15601f8470160db7efe3bd434fca9a401",
+    "file_url": "https://raw.githubusercontent.com/braedonsaunders/bidwright/9cc8dfc15601f8470160db7efe3bd434fca9a401/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "AGPL-3.0",
+    "stars": 84,
+    "size_mb": 85,
+    "created_at": "2026-03-22T15:41:14Z",
+    "last_commit_at": "2026-11-03T18:12:44Z",
+    "releases": 9,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "desktop-v0.2.2",
+      "at": "2026-10-08T07:09:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9cc8dfc15601f8470160db7efe3bd434fca9a401",
+    "v": 4
+  },
+  "pinned_at": "2026-11-03T18:12:44Z"
+}

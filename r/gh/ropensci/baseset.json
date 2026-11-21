@@ -1,0 +1,63 @@
+{
+  "id": "gh:ropensci/baseset",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/BaseSet",
+  "title": "BaseSet",
+  "why": "Combines fuzzy and classical gene sets with union, intersection and subtract verbs, and reads GMT, GAF and OBO files.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/BaseSet",
+    "sha": "865435bf646ff0c5e6b9243439f40f70c150f00b",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/BaseSet@865435bf646ff0c5e6b9243439f40f70c150f00b/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 11,
+    "size_mb": 9,
+    "created_at": "2018-11-27T19:37:01Z",
+    "last_commit_at": "2026-11-09T10:04:46Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.1",
+      "at": "2026-11-09T10:03:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "865435bf646ff0c5e6b9243439f40f70c150f00b",
+    "v": 4
+  },
+  "pinned_at": "2026-11-09T10:04:46Z"
+}

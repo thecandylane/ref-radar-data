@@ -1,0 +1,60 @@
+{
+  "id": "gh:nf-core/mspepid",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/mspepid",
+  "title": "mspepid",
+  "why": "Chains ms2rescore with PSM format converters into a Nextflow workflow, turning PSM tables into pin and enhancedTSV files.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/mspepid",
+    "sha": "2f9b909cb5e8ff758549fc8e1c08780c5e747797",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/mspepid@2f9b909cb5e8ff758549fc8e1c08780c5e747797/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 5,
+    "size_mb": 247,
+    "created_at": "2026-01-05T09:36:31Z",
+    "last_commit_at": "2026-11-17T14:22:09Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2f9b909cb5e8ff758549fc8e1c08780c5e747797",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T14:22:09Z"
+}

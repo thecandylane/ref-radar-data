@@ -1,0 +1,63 @@
+{
+  "id": "gh:freecodecamp/freecodecamp",
+  "kind": "repo",
+  "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+  "title": "freeCodeCamp",
+  "why": "Platform code behind freeCodeCamp's certifications and interactive lessons, useful for seeing how an open-source learning site is built.",
+  "keys": {
+    "races": [
+      "learning/courses",
+      "learning/exercises"
+    ],
+    "lanes": [
+      "learning/courses",
+      "learning/exercises"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "sha": "a09ce850de64e38cbd3c5d02e360a35ddd39f201",
+    "file_url": "https://cdn.jsdelivr.net/gh/freeCodeCamp/freeCodeCamp@a09ce850de64e38cbd3c5d02e360a35ddd39f201/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "BSD-3-Clause",
+    "stars": 459406,
+    "size_mb": 573,
+    "created_at": "2014-12-24T17:49:19Z",
+    "last_commit_at": "2026-11-21T07:17:03Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pins_before": [
+    "7b4291332a35f8869c03eda8d634fae45efbbe87"
+  ],
+  "pinned_at": "2026-11-21T07:17:03Z"
+}

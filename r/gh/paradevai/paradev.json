@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:142df446dff728f77f3f53d9f742b445d99e4b4d"
-  },
   "id": "gh:paradevai/paradev",
   "kind": "repo",
   "url": "https://github.com/ParadevAI/Paradev",
@@ -37,22 +34,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ParadevAI/Paradev",
-    "sha": "142df446dff728f77f3f53d9f742b445d99e4b4d",
-    "file_url": "https://raw.githubusercontent.com/ParadevAI/Paradev/142df446dff728f77f3f53d9f742b445d99e4b4d/{path}"
+    "sha": "f9e295ff90d7c1d3ac99d1e02c1f982ac004563b",
+    "file_url": "https://raw.githubusercontent.com/ParadevAI/Paradev/f9e295ff90d7c1d3ac99d1e02c1f982ac004563b/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 16417,
-    "size_mb": 1111,
+    "stars": 16439,
+    "size_mb": 1107,
     "created_at": "2025-10-21T09:16:51Z",
-    "last_commit_at": "2026-11-20T09:21:19Z",
-    "releases": 269,
-    "tags": 368,
+    "last_commit_at": "2026-11-21T08:42:47Z",
+    "releases": 271,
+    "tags": 371,
     "archived": false,
     "release": {
-      "tag": "desktop-v2.0.10",
-      "at": "2026-11-19T06:54:07.000Z"
+      "tag": "desktop-v2.0.11",
+      "at": "2026-11-20T19:35:05.000Z"
     }
   },
   "reuse": "copy",
@@ -63,13 +60,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 149,
+    "star_delta_7d": 141,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "142df446dff728f77f3f53d9f742b445d99e4b4d",
-    "v": 3
-  }
+  "pins_before": [
+    "142df446dff728f77f3f53d9f742b445d99e4b4d"
+  ],
+  "pinned_at": "2026-11-21T08:42:47Z"
 }

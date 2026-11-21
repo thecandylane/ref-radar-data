@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f3f3fc83976d714962a45f6b90f10af8b05b5cc1"
+  },
+  "id": "gh:lanl-ansi/powermodelsannex.jl",
+  "kind": "repo",
+  "url": "https://github.com/lanl-ansi/PowerModelsAnnex.jl",
+  "title": "PowerModelsAnnex.jl",
+  "why": "Collects exploratory optimal power flow methods that extend PowerModels.jl, where features may break and testing stays minimal.",
+  "keys": {
+    "races": [
+      "energy/power-grid",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "energy/power-grid",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lanl-ansi/PowerModelsAnnex.jl",
+    "sha": "f3f3fc83976d714962a45f6b90f10af8b05b5cc1",
+    "file_url": "https://cdn.jsdelivr.net/gh/lanl-ansi/PowerModelsAnnex.jl@f3f3fc83976d714962a45f6b90f10af8b05b5cc1/{path}"
+  },
+  "facts": {
+    "lang": "Julia",
+    "license": "NOASSERTION",
+    "stars": 27,
+    "size_mb": 0,
+    "created_at": "2017-07-27T17:16:19Z",
+    "last_commit_at": "2025-12-03T03:32:44Z",
+    "releases": 43,
+    "tags": 49,
+    "archived": false,
+    "release": {
+      "tag": "v0.11.0",
+      "at": "2024-01-19T22:00:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f3f3fc83976d714962a45f6b90f10af8b05b5cc1",
+    "v": 4
+  },
+  "pinned_at": "2025-12-03T03:32:44Z"
+}

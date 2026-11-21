@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:851a2145e3256f2e67e5dfe24b0e456bf198b741"
+  },
+  "id": "gh:akheron/jansson",
+  "kind": "repo",
+  "url": "https://github.com/akheron/jansson",
+  "title": "jansson",
+  "why": "A C option for encoding and decoding JSON with no dependencies on other libraries and full UTF-8 support.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/akheron/jansson",
+    "sha": "851a2145e3256f2e67e5dfe24b0e456bf198b741",
+    "file_url": "https://cdn.jsdelivr.net/gh/akheron/jansson@851a2145e3256f2e67e5dfe24b0e456bf198b741/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 3379,
+    "size_mb": 2,
+    "created_at": "2009-04-23T06:35:33Z",
+    "last_commit_at": "2026-07-09T17:43:34Z",
+    "releases": 34,
+    "tags": 34,
+    "archived": false,
+    "release": {
+      "tag": "v2.15.1",
+      "at": "2026-07-01T18:52:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "851a2145e3256f2e67e5dfe24b0e456bf198b741",
+    "v": 4
+  },
+  "pinned_at": "2026-07-09T17:43:34Z"
+}

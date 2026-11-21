@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cdb80675e45236c2f57a2b41d4f98f4f2d6814b2"
+  },
+  "id": "gh:huber-group-embl/vsn",
+  "kind": "repo",
+  "url": "https://github.com/Huber-group-EMBL/vsn",
+  "title": "vsn",
+  "why": "Fits scaling factors by maximizing a log-likelihood, with the optimizer and gradient written in C rather than an external solver.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Huber-group-EMBL/vsn",
+    "sha": "cdb80675e45236c2f57a2b41d4f98f4f2d6814b2",
+    "file_url": "https://cdn.jsdelivr.net/gh/Huber-group-EMBL/vsn@cdb80675e45236c2f57a2b41d4f98f4f2d6814b2/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 5,
+    "created_at": "2025-11-27T12:04:12Z",
+    "last_commit_at": "2026-09-23T11:27:07Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "cdb80675e45236c2f57a2b41d4f98f4f2d6814b2",
+    "v": 4
+  },
+  "pinned_at": "2026-09-23T11:27:07Z"
+}

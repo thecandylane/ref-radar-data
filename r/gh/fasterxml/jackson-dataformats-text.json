@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b1cb09364ff84cbc04b7ed8a2866669dc7ee0cec"
+  },
+  "id": "gh:fasterxml/jackson-dataformats-text",
+  "kind": "repo",
+  "url": "https://github.com/FasterXML/jackson-dataformats-text",
+  "title": "jackson-dataformats-text",
+  "why": "Parses CSV, Java properties and TOML with Jackson's mapper and parser classes, and CsvSchema maps CSV columns.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/FasterXML/jackson-dataformats-text",
+    "sha": "b1cb09364ff84cbc04b7ed8a2866669dc7ee0cec",
+    "file_url": "https://cdn.jsdelivr.net/gh/FasterXML/jackson-dataformats-text@b1cb09364ff84cbc04b7ed8a2866669dc7ee0cec/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 454,
+    "size_mb": 8,
+    "created_at": "2017-03-19T19:57:44Z",
+    "last_commit_at": "2026-11-10T02:33:42Z",
+    "releases": 0,
+    "tags": 142,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b1cb09364ff84cbc04b7ed8a2866669dc7ee0cec",
+    "v": 4
+  },
+  "pinned_at": "2026-11-10T02:33:42Z"
+}

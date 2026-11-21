@@ -1,0 +1,58 @@
+{
+  "id": "gh:isee/isee",
+  "kind": "repo",
+  "url": "https://github.com/iSEE/iSEE",
+  "title": "iSEE",
+  "why": "Interactive web front end whose scripts add voice input and a spider controller for moving between linked views.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/iSEE/iSEE",
+    "sha": "32c53796673673bc23e31da26e39d0031de77b55",
+    "file_url": "https://cdn.jsdelivr.net/gh/iSEE/iSEE@32c53796673673bc23e31da26e39d0031de77b55/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 231,
+    "size_mb": 19,
+    "created_at": "2017-12-06T15:28:42Z",
+    "last_commit_at": "2026-11-11T12:12:48Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "32c53796673673bc23e31da26e39d0031de77b55",
+    "v": 4
+  },
+  "pinned_at": "2026-11-11T12:12:48Z"
+}

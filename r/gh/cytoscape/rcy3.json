@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:120ba273d257dc35d71ab7cbf965c29b528d01f1"
+  },
+  "id": "gh:cytoscape/rcy3",
+  "kind": "repo",
+  "url": "https://github.com/cytoscape/RCy3",
+  "title": "RCy3",
+  "why": "Drives Cytoscape from R scripts, with function names harmonized and support for Cytoscape commands and apps for network analysis.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/analytics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cytoscape/RCy3",
+    "sha": "120ba273d257dc35d71ab7cbf965c29b528d01f1",
+    "file_url": "https://cdn.jsdelivr.net/gh/cytoscape/RCy3@120ba273d257dc35d71ab7cbf965c29b528d01f1/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "MIT",
+    "stars": 60,
+    "size_mb": 20,
+    "created_at": "2018-01-23T00:21:43Z",
+    "last_commit_at": "2025-12-03T00:08:39Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "2.6.0",
+      "at": "2019-10-04T17:29:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "120ba273d257dc35d71ab7cbf965c29b528d01f1",
+    "v": 4
+  },
+  "pinned_at": "2025-12-03T00:08:39Z"
+}

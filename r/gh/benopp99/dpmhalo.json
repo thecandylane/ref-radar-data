@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:35a6aaf92b40b393911c9f28a3e503b20ce5fbc7"
+  },
+  "id": "gh:benopp99/dpmhalo",
+  "kind": "repo",
+  "url": "https://github.com/benopp99/DPMhalo",
+  "title": "DPMhalo",
+  "why": "Run one script with an M200c mass and a redshift to get halo radial profiles, and it explains its arguments when called bare.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/benopp99/DPMhalo",
+    "sha": "35a6aaf92b40b393911c9f28a3e503b20ce5fbc7",
+    "file_url": "https://cdn.jsdelivr.net/gh/benopp99/DPMhalo@35a6aaf92b40b393911c9f28a3e503b20ce5fbc7/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 3,
+    "size_mb": 1,
+    "created_at": "2024-08-27T23:21:42Z",
+    "last_commit_at": "2025-03-07T21:17:58Z",
+    "releases": 9,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v1.2",
+      "at": "2025-03-07T21:18:48.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "35a6aaf92b40b393911c9f28a3e503b20ce5fbc7",
+    "v": 4
+  },
+  "pinned_at": "2025-03-07T21:17:58Z",
+  "papers": [
+    {
+      "id": "arxiv:2505.14782",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

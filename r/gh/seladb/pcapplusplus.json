@@ -1,0 +1,63 @@
+{
+  "id": "gh:seladb/pcapplusplus",
+  "kind": "repo",
+  "url": "https://github.com/seladb/PcapPlusPlus",
+  "title": "PcapPlusPlus",
+  "why": "Library for capturing and crafting packets in C++, with DPDK fast-path examples for filtering traffic and collecting HTTP stats.",
+  "keys": {
+    "races": [
+      "netsec/capture",
+      "infra/networking"
+    ],
+    "lanes": [
+      "netsec/capture",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/seladb/PcapPlusPlus",
+    "sha": "8561a16c31dffd526ad2e525f883a7dc446498b7",
+    "file_url": "https://cdn.jsdelivr.net/gh/seladb/PcapPlusPlus@8561a16c31dffd526ad2e525f883a7dc446498b7/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Unlicense",
+    "stars": 3175,
+    "size_mb": 95,
+    "created_at": "2014-10-07T21:04:05Z",
+    "last_commit_at": "2026-11-19T09:23:06Z",
+    "releases": 16,
+    "tags": 16,
+    "archived": false,
+    "release": {
+      "tag": "v26.07",
+      "at": "2026-07-23T07:14:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8561a16c31dffd526ad2e525f883a7dc446498b7",
+    "v": 4
+  },
+  "pinned_at": "2026-11-19T09:23:06Z"
+}

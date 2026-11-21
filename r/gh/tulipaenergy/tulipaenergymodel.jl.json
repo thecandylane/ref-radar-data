@@ -1,0 +1,74 @@
+{
+  "id": "gh:tulipaenergy/tulipaenergymodel.jl",
+  "kind": "repo",
+  "url": "https://github.com/TulipaEnergy/TulipaEnergyModel.jl",
+  "title": "TulipaEnergyModel.jl",
+  "why": "Scripts that upgrade input tables for the Julia energy system model, covering storage levels, investment groups and limits.",
+  "keys": {
+    "races": [
+      "energy/system-models"
+    ],
+    "lanes": [
+      "energy/system-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/TulipaEnergy/TulipaEnergyModel.jl",
+    "sha": "f7be2f379f9c844270b83984c5172ad247def4df",
+    "file_url": "https://cdn.jsdelivr.net/gh/TulipaEnergy/TulipaEnergyModel.jl@f7be2f379f9c844270b83984c5172ad247def4df/{path}"
+  },
+  "facts": {
+    "lang": "Julia",
+    "license": "Apache-2.0",
+    "stars": 81,
+    "size_mb": 268,
+    "created_at": "2023-08-09T11:43:24Z",
+    "last_commit_at": "2026-11-17T18:14:06Z",
+    "releases": 49,
+    "tags": 49,
+    "archived": false,
+    "release": {
+      "tag": "v0.23.2",
+      "at": "2026-09-08T20:30:04.000Z"
+    },
+    "doi": "10.21105/joss.09878"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f7be2f379f9c844270b83984c5172ad247def4df",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T18:14:06Z",
+  "papers": [
+    {
+      "id": "arxiv:2309.07711",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

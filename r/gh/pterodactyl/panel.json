@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:90b2aa87469da4fffd941b3c99f3c1ca48a01b78"
-  },
   "id": "gh:pterodactyl/panel",
   "kind": "repo",
   "url": "https://github.com/pterodactyl/panel",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/pterodactyl/panel",
-    "sha": "90b2aa87469da4fffd941b3c99f3c1ca48a01b78",
-    "file_url": "https://cdn.jsdelivr.net/gh/pterodactyl/panel@90b2aa87469da4fffd941b3c99f3c1ca48a01b78/{path}"
+    "sha": "60a10015815835decffe4f77d15b0e7419d793b9",
+    "file_url": "https://cdn.jsdelivr.net/gh/pterodactyl/panel@60a10015815835decffe4f77d15b0e7419d793b9/{path}"
   },
   "facts": {
     "lang": "PHP",
     "license": "NOASSERTION",
-    "stars": 9529,
+    "stars": 9535,
     "size_mb": 37,
     "created_at": "2015-12-06T18:37:08Z",
     "last_commit_at": "2026-11-18T03:55:00Z",
@@ -57,13 +54,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 23,
+    "star_delta_7d": 25,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "90b2aa87469da4fffd941b3c99f3c1ca48a01b78",
-    "v": 3
-  }
+  "pins_before": [
+    "90b2aa87469da4fffd941b3c99f3c1ca48a01b78"
+  ],
+  "pinned_at": "2026-11-18T03:55:00Z"
 }

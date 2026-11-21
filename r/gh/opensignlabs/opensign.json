@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6fa4c778028f4ec94519a7c5106bf865f6395bf0"
+  },
+  "id": "gh:opensignlabs/opensign",
+  "kind": "repo",
+  "url": "https://github.com/OpenSignLabs/OpenSign",
+  "title": "OpenSign",
+  "why": "Self-hosted e-signing app with multi-signer flows, reusable PDF templates, audit trails and a completion certificate, plus an API.",
+  "keys": {
+    "races": [
+      "legal/e-signature",
+      "business-apps/document-management",
+      "legal/document-assembly"
+    ],
+    "lanes": [
+      "legal/e-signature",
+      "business-apps/document-management",
+      "legal/document-assembly"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OpenSignLabs/OpenSign",
+    "sha": "6fa4c778028f4ec94519a7c5106bf865f6395bf0",
+    "file_url": "https://cdn.jsdelivr.net/gh/OpenSignLabs/OpenSign@6fa4c778028f4ec94519a7c5106bf865f6395bf0/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "NOASSERTION",
+    "stars": 7317,
+    "size_mb": 166,
+    "created_at": "2023-10-02T15:53:30Z",
+    "last_commit_at": "2026-11-20T14:05:38Z",
+    "releases": 88,
+    "tags": 88,
+    "archived": false,
+    "release": {
+      "tag": "v3.2.0",
+      "at": "2026-11-20T14:07:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6fa4c778028f4ec94519a7c5106bf865f6395bf0",
+    "v": 4
+  }
+}

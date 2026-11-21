@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6d09fd11bdfa53eba52075c12cdf1c505af26600"
+  },
+  "id": "gh:bioconductor/shortread",
+  "kind": "repo",
+  "url": "https://github.com/Bioconductor/ShortRead",
+  "title": "ShortRead",
+  "why": "Core Bioconductor package in R; its src folder holds the ShortRead code for sequence reads.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Bioconductor/ShortRead",
+    "sha": "6d09fd11bdfa53eba52075c12cdf1c505af26600",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/ShortRead@6d09fd11bdfa53eba52075c12cdf1c505af26600/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 8,
+    "size_mb": 7,
+    "created_at": "2017-08-25T16:12:54Z",
+    "last_commit_at": "2026-07-04T16:59:11Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6d09fd11bdfa53eba52075c12cdf1c505af26600",
+    "v": 4
+  },
+  "pinned_at": "2026-07-04T16:59:11Z"
+}

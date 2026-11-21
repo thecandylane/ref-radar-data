@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4a95a378ca9da17bcb27a6c5a9e0652fd0745713"
+  },
+  "id": "gh:trnnick/nnfor",
+  "kind": "repo",
+  "url": "https://github.com/trnnick/nnfor",
+  "title": "nnfor",
+  "why": "Fits neural network forecasts to a time series in R, with torch or neuralnet backends and a compare_backends run for errors.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "ml/training"
+    ],
+    "lanes": [
+      "data/statistics",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/trnnick/nnfor",
+    "sha": "4a95a378ca9da17bcb27a6c5a9e0652fd0745713",
+    "file_url": "https://cdn.jsdelivr.net/gh/trnnick/nnfor@4a95a378ca9da17bcb27a6c5a9e0652fd0745713/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 30,
+    "size_mb": 0,
+    "created_at": "2017-10-29T12:06:04Z",
+    "last_commit_at": "2026-11-01T11:09:26Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4a95a378ca9da17bcb27a6c5a9e0652fd0745713",
+    "v": 4
+  },
+  "pinned_at": "2026-11-01T11:09:26Z"
+}

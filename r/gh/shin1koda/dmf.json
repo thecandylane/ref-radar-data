@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9f62bbaab0f21daa1b4d7fb950e64512b097c360"
+  },
+  "id": "gh:shin1koda/dmf",
+  "kind": "repo",
+  "url": "https://github.com/shin1koda/dmf",
+  "title": "shin1koda/dmf",
+  "why": "Finds transition states by running reaction-path optimization against any ASE calculator, without second energy derivatives.",
+  "keys": {
+    "races": [
+      "engineering/chemistry",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "engineering/chemistry",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/shin1koda/dmf",
+    "sha": "9f62bbaab0f21daa1b4d7fb950e64512b097c360",
+    "file_url": "https://cdn.jsdelivr.net/gh/shin1koda/dmf@9f62bbaab0f21daa1b4d7fb950e64512b097c360/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 45,
+    "size_mb": 6,
+    "created_at": "2023-11-09T23:46:01Z",
+    "last_commit_at": "2026-08-16T17:54:39Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.2",
+      "at": "2026-07-14T19:29:42.000Z"
+    },
+    "doi": "10.21105/joss.10379"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9f62bbaab0f21daa1b4d7fb950e64512b097c360",
+    "v": 4
+  },
+  "pinned_at": "2026-08-16T17:54:39Z"
+}

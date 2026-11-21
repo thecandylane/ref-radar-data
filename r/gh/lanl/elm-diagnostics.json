@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2b55912f0014643a14f563fccad04dc468105e38"
+  },
+  "id": "gh:lanl/elm-diagnostics",
+  "kind": "repo",
+  "url": "https://github.com/lanl/elm-diagnostics",
+  "title": "elm-diagnostics",
+  "why": "Checks water, carbon and energy budget closure in E3SM land model output, with plots and HTML reports comparing base and modified runs.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "dev-tools/testing",
+      "data/analytics"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "dev-tools/testing",
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lanl/elm-diagnostics",
+    "sha": "2b55912f0014643a14f563fccad04dc468105e38",
+    "file_url": "https://cdn.jsdelivr.net/gh/lanl/elm-diagnostics@2b55912f0014643a14f563fccad04dc468105e38/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 7,
+    "created_at": "2026-07-23T19:30:27Z",
+    "last_commit_at": "2026-07-23T00:29:45Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2b55912f0014643a14f563fccad04dc468105e38",
+    "v": 4
+  },
+  "pinned_at": "2026-07-23T00:29:45Z"
+}

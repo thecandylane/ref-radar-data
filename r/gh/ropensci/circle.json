@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e6821d301c8186c032d61ca60f2c438bf2914878"
+  },
+  "id": "gh:ropensci/circle",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/circle",
+  "title": "circle",
+  "why": "Drives Circle CI from R: list pipelines, set environment variables, restart builds and call the REST API, plus a deploy setup helper.",
+  "keys": {
+    "races": [
+      "infra/ci-cd",
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "infra/ci-cd",
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/circle",
+    "sha": "e6821d301c8186c032d61ca60f2c438bf2914878",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/circle@e6821d301c8186c032d61ca60f2c438bf2914878/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 13,
+    "size_mb": 2,
+    "created_at": "2019-10-12T19:32:22Z",
+    "last_commit_at": "2026-01-22T09:08:36Z",
+    "releases": 10,
+    "tags": 20,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.3",
+      "at": "2024-07-31T21:16:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e6821d301c8186c032d61ca60f2c438bf2914878",
+    "v": 4
+  },
+  "pinned_at": "2026-01-22T09:08:36Z"
+}

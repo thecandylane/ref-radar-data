@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:70971f679ec56c1dfdabe1c04a6bf4a9203c249b"
+  },
+  "id": "gh:ropensci/camsrad",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/camsRad",
+  "title": "camsRad",
+  "why": "R client that fetches hourly and daily solar irradiation series from the CAMS Radiation Service, returned as data frames or netCDF files.",
+  "keys": {
+    "races": [
+      "energy/renewables",
+      "environment/earth-data"
+    ],
+    "lanes": [
+      "energy/renewables",
+      "environment/earth-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/camsRad",
+    "sha": "70971f679ec56c1dfdabe1c04a6bf4a9203c249b",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/camsRad@70971f679ec56c1dfdabe1c04a6bf4a9203c249b/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 10,
+    "size_mb": 0,
+    "created_at": "2016-08-18T19:35:20Z",
+    "last_commit_at": "2019-12-09T12:16:03Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "70971f679ec56c1dfdabe1c04a6bf4a9203c249b",
+    "v": 4
+  },
+  "pinned_at": "2019-12-09T12:16:03Z"
+}

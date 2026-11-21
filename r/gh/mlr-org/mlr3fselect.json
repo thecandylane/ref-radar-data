@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f4ee5454163502262490b3687ed857e5a44cb4ca"
+  },
+  "id": "gh:mlr-org/mlr3fselect",
+  "kind": "repo",
+  "url": "https://github.com/mlr-org/mlr3fselect",
+  "title": "mlr3fselect",
+  "why": "Searches feature subsets for an mlr3 learner with Random Search or Recursive Feature Elimination, and nested resampling checks the result.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "data/statistics",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mlr-org/mlr3fselect",
+    "sha": "f4ee5454163502262490b3687ed857e5a44cb4ca",
+    "file_url": "https://cdn.jsdelivr.net/gh/mlr-org/mlr3fselect@f4ee5454163502262490b3687ed857e5a44cb4ca/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "LGPL-3.0",
+    "stars": 43,
+    "size_mb": 18,
+    "created_at": "2019-07-24T11:55:21Z",
+    "last_commit_at": "2026-09-23T13:08:26Z",
+    "releases": 30,
+    "tags": 32,
+    "archived": false,
+    "release": {
+      "tag": "v1.7.0",
+      "at": "2026-08-23T13:54:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f4ee5454163502262490b3687ed857e5a44cb4ca",
+    "v": 4
+  },
+  "pinned_at": "2026-09-23T13:08:26Z"
+}

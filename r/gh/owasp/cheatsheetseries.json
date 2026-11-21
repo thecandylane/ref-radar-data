@@ -24,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/OWASP/CheatSheetSeries",
-    "sha": "7af0ef1b745f1a38ce905c00c5a592d5b3a515a9",
-    "file_url": "https://cdn.jsdelivr.net/gh/OWASP/CheatSheetSeries@7af0ef1b745f1a38ce905c00c5a592d5b3a515a9/{path}"
+    "sha": "c2a1e3e32cec12f27be0a3b1e771ce51288a363e",
+    "file_url": "https://cdn.jsdelivr.net/gh/OWASP/CheatSheetSeries@c2a1e3e32cec12f27be0a3b1e771ce51288a363e/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "CC-BY-SA-4.0",
-    "stars": 34140,
+    "stars": 34148,
     "size_mb": 2839,
     "created_at": "2018-12-21T14:26:43Z",
     "last_commit_at": "2026-11-19T11:51:23Z",
@@ -52,8 +52,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "7af0ef1b745f1a38ce905c00c5a592d5b3a515a9",
-    "v": 4
-  }
+  "pins_before": [
+    "7af0ef1b745f1a38ce905c00c5a592d5b3a515a9"
+  ],
+  "pinned_at": "2026-11-19T11:51:23Z"
 }

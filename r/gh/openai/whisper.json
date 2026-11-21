@@ -1,0 +1,74 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:86098128c0b4f24f0e2aa2994de830614b474227"
+  },
+  "id": "gh:openai/whisper",
+  "kind": "repo",
+  "url": "https://github.com/openai/whisper",
+  "title": "whisper",
+  "why": "Runs speech-to-text on your own machine with six model sizes, and the turbo model trades a little accuracy for speed.",
+  "keys": {
+    "races": [
+      "media/speech",
+      "ml/open-models"
+    ],
+    "lanes": [
+      "media/speech",
+      "ml/open-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openai/whisper",
+    "sha": "86098128c0b4f24f0e2aa2994de830614b474227",
+    "file_url": "https://cdn.jsdelivr.net/gh/openai/whisper@86098128c0b4f24f0e2aa2994de830614b474227/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 113190,
+    "size_mb": 12,
+    "created_at": "2022-09-16T20:02:54Z",
+    "last_commit_at": "2026-08-31T17:19:19Z",
+    "releases": 13,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v20250625",
+      "at": "2025-06-26T01:06:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "86098128c0b4f24f0e2aa2994de830614b474227",
+    "v": 4
+  },
+  "pinned_at": "2026-08-31T17:19:19Z",
+  "papers": [
+    {
+      "id": "arxiv:2212.04356",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

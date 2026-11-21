@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b1272e70812dbc504321eeb5a43d14b0822c150d"
+  },
+  "id": "gh:expressjs/morgan",
+  "kind": "repo",
+  "url": "https://github.com/expressjs/morgan",
+  "title": "morgan",
+  "why": "Express middleware that writes one log line per request from tokens like :status and :response-time, and can skip some with a function.",
+  "keys": {
+    "races": [
+      "infra/observability",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "infra/observability",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/expressjs/morgan",
+    "sha": "b1272e70812dbc504321eeb5a43d14b0822c150d",
+    "file_url": "https://cdn.jsdelivr.net/gh/expressjs/morgan@b1272e70812dbc504321eeb5a43d14b0822c150d/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 8200,
+    "size_mb": 0,
+    "created_at": "2014-02-08T19:19:14Z",
+    "last_commit_at": "2026-09-11T08:51:58Z",
+    "releases": 30,
+    "tags": 30,
+    "archived": false,
+    "release": {
+      "tag": "1.12.1",
+      "at": "2026-09-11T08:55:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b1272e70812dbc504321eeb5a43d14b0822c150d",
+    "v": 4
+  },
+  "pinned_at": "2026-09-11T08:51:58Z"
+}

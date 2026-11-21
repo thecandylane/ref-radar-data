@@ -9,10 +9,12 @@
   "why": "Pulls groundwater and surface water timeseries from many public APIs into pandas-based objects you can analyze and write back out.",
   "keys": {
     "races": [
-      "data/pipelines"
+      "data/pipelines",
+      "environment/earth-data"
     ],
     "lanes": [
-      "data/pipelines"
+      "data/pipelines",
+      "environment/earth-data"
     ],
     "capabilities": []
   },

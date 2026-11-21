@@ -1,0 +1,63 @@
+{
+  "id": "gh:mailtrain-org/mailtrain",
+  "kind": "repo",
+  "url": "https://github.com/Mailtrain-org/mailtrain",
+  "title": "mailtrain",
+  "why": "Self-hosted newsletter app on Node.js and MySQL with list segmentation, MJML templates and a built-in Zone-MTA for sending mail.",
+  "keys": {
+    "races": [
+      "marketing/email",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "marketing/email",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Mailtrain-org/mailtrain",
+    "sha": "89b189d0f5fcb3bb069dde7c2da72d5acd071dd5",
+    "file_url": "https://cdn.jsdelivr.net/gh/Mailtrain-org/mailtrain@89b189d0f5fcb3bb069dde7c2da72d5acd071dd5/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "GPL-3.0",
+    "stars": 5749,
+    "size_mb": 31,
+    "created_at": "2016-04-04T12:04:33Z",
+    "last_commit_at": "2026-11-19T04:16:30Z",
+    "releases": 3,
+    "tags": 36,
+    "archived": false,
+    "release": {
+      "tag": "v2.20210609.0",
+      "at": "2021-06-09T07:10:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "89b189d0f5fcb3bb069dde7c2da72d5acd071dd5",
+    "v": 4
+  },
+  "pinned_at": "2026-11-19T04:16:30Z"
+}

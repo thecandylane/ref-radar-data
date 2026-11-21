@@ -1,0 +1,61 @@
+{
+  "id": "gh:zhang-zhixiang/spectool",
+  "kind": "repo",
+  "url": "https://github.com/zhang-zhixiang/spectool",
+  "title": "spectool",
+  "why": "Reduces spectra with rebinning, Gaussian smoothing and polynomial normalization, and measures radial velocity from them.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zhang-zhixiang/spectool",
+    "sha": "2d974d646ee95e655894035aa89d7dc11ccd78ec",
+    "file_url": "https://cdn.jsdelivr.net/gh/zhang-zhixiang/spectool@2d974d646ee95e655894035aa89d7dc11ccd78ec/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2023-11-21T11:17:45Z",
+    "last_commit_at": "2025-02-28T18:17:12Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.1",
+      "at": "2025-02-28T18:20:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2d974d646ee95e655894035aa89d7dc11ccd78ec",
+    "v": 4
+  },
+  "pinned_at": "2025-02-28T18:17:12Z"
+}

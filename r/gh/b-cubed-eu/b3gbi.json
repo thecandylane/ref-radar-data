@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1452bd7455eb4e2acf7c93ab52f94535e3219409"
+  },
+  "id": "gh:b-cubed-eu/b3gbi",
+  "kind": "repo",
+  "url": "https://github.com/b-cubed-eu/b3gbi",
+  "title": "b3gbi",
+  "why": "Turns GBIF data cubes into richness, evenness and Hill-Shannon indicators, and maps them by country for a chosen region.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/statistics"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/b-cubed-eu/b3gbi",
+    "sha": "1452bd7455eb4e2acf7c93ab52f94535e3219409",
+    "file_url": "https://cdn.jsdelivr.net/gh/b-cubed-eu/b3gbi@1452bd7455eb4e2acf7c93ab52f94535e3219409/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 10,
+    "size_mb": 105,
+    "created_at": "2023-09-18T15:17:15Z",
+    "last_commit_at": "2026-10-22T07:19:35Z",
+    "releases": 62,
+    "tags": 62,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.3",
+      "at": "2026-10-11T10:05:28.000Z"
+    },
+    "doi": "10.21105/joss.10963",
+    "citations": {
+      "count": 1,
+      "by": "Crossref",
+      "at": "2026-11-21"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1452bd7455eb4e2acf7c93ab52f94535e3219409",
+    "v": 4
+  },
+  "pinned_at": "2026-10-22T07:19:35Z"
+}

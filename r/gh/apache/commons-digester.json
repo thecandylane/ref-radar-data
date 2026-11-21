@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a3bb5dd27633623d110a6b2679cf9012357bfe2d"
+  },
+  "id": "gh:apache/commons-digester",
+  "kind": "repo",
+  "url": "https://github.com/apache/commons-digester",
+  "title": "commons-digester",
+  "why": "Turns parser events into Java object creation and setter calls via rule classes, so a digester builds objects without custom handlers.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/commons-digester",
+    "sha": "a3bb5dd27633623d110a6b2679cf9012357bfe2d",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/commons-digester@a3bb5dd27633623d110a6b2679cf9012357bfe2d/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 62,
+    "size_mb": 6,
+    "created_at": "2013-07-12T07:00:18Z",
+    "last_commit_at": "2026-11-17T13:19:56Z",
+    "releases": 0,
+    "tags": 45,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a3bb5dd27633623d110a6b2679cf9012357bfe2d",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T13:19:56Z"
+}

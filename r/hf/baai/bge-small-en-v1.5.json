@@ -1,0 +1,57 @@
+{
+  "id": "hf:baai/bge-small-en-v1.5",
+  "kind": "model",
+  "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
+  "title": "bge-small-en-v1.5",
+  "why": "Sentence-transformers model from BAAI with MTEB results for retrieval, clustering and STS, and 680 likes on the hub.",
+  "keys": {
+    "races": [
+      "ml/embeddings",
+      "ml/open-models"
+    ],
+    "lanes": [
+      "ml/embeddings",
+      "ml/open-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://huggingface.co/BAAI/bge-small-en-v1.5",
+    "sha": "5c38ec7c405ec4b44b94cc5a9bb96e735b38267a",
+    "file_url": "https://huggingface.co/BAAI/bge-small-en-v1.5/raw/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 901,
+    "created_at": "2023-09-12T05:20:55.000Z",
+    "last_commit_at": "2024-02-22T03:36:23.000Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "likes": 681,
+    "downloads_30d": 43425321
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2024-02-22T03:36:23.000Z"
+}

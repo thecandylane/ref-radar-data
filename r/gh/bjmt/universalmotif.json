@@ -1,0 +1,64 @@
+{
+  "id": "gh:bjmt/universalmotif",
+  "kind": "repo",
+  "url": "https://github.com/bjmt/universalmotif",
+  "title": "universalmotif",
+  "why": "Scans sequences for motif hits, compares and trims motifs, and shuffles sequences to build background models.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bjmt/universalmotif",
+    "sha": "331b057f0159bd20836801f18efe9b5f590afafa",
+    "file_url": "https://cdn.jsdelivr.net/gh/bjmt/universalmotif@331b057f0159bd20836801f18efe9b5f590afafa/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 33,
+    "size_mb": 14,
+    "created_at": "2017-02-22T14:10:28Z",
+    "last_commit_at": "2026-11-18T08:42:36Z",
+    "releases": 0,
+    "tags": 367,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "331b057f0159bd20836801f18efe9b5f590afafa",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T08:42:36Z"
+}

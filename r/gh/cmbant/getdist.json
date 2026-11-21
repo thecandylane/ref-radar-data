@@ -1,0 +1,83 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:53b4de6b4fad6839aefe0d978dbd6a67a4d17461"
+  },
+  "id": "gh:cmbant/getdist",
+  "kind": "repo",
+  "url": "https://github.com/cmbant/getdist",
+  "title": "getdist",
+  "why": "Turns MCMC chain files into marginalized limits, convergence checks and kernel density plots, scriptable from Python or a Qt window.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "desktop/native-ui",
+      "space/astronomy"
+    ],
+    "lanes": [
+      "data/statistics",
+      "desktop/native-ui",
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cmbant/getdist",
+    "sha": "53b4de6b4fad6839aefe0d978dbd6a67a4d17461",
+    "file_url": "https://cdn.jsdelivr.net/gh/cmbant/getdist@53b4de6b4fad6839aefe0d978dbd6a67a4d17461/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 197,
+    "size_mb": 79,
+    "created_at": "2015-05-20T15:26:59Z",
+    "last_commit_at": "2026-08-05T13:23:46Z",
+    "releases": 22,
+    "tags": 66,
+    "archived": false,
+    "release": {
+      "tag": "1.7.7",
+      "at": "2026-05-08T11:41:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "53b4de6b4fad6839aefe0d978dbd6a67a4d17461",
+    "v": 4
+  },
+  "pinned_at": "2026-08-05T13:23:46Z",
+  "papers": [
+    {
+      "id": "arxiv:1910.13970",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2503.21652",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

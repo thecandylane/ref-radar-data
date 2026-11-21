@@ -1,0 +1,62 @@
+{
+  "id": "gh:github/awesome-copilot",
+  "kind": "repo",
+  "url": "https://github.com/github/awesome-copilot",
+  "title": "awesome-copilot",
+  "why": "Browse a catalog of Copilot agent files, skills and plugins, and install one with a single copilot plugin install command.",
+  "keys": {
+    "races": [
+      "agents/skills",
+      "agents/coding"
+    ],
+    "lanes": [
+      "agents/skills",
+      "agents/coding"
+    ],
+    "capabilities": [
+      "agents/skills/plugin-specs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/github/awesome-copilot",
+    "sha": "f10fdb8b2660ce85c98f220b2f1ca24653768a5c",
+    "file_url": "https://raw.githubusercontent.com/github/awesome-copilot/f10fdb8b2660ce85c98f220b2f1ca24653768a5c/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 41408,
+    "size_mb": 137,
+    "created_at": "2025-06-11T16:57:39Z",
+    "last_commit_at": "2026-11-20T03:13:28Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f10fdb8b2660ce85c98f220b2f1ca24653768a5c",
+    "v": 4
+  },
+  "pinned_at": "2026-11-20T03:13:28Z"
+}

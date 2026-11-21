@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4c64b92d5caccd71c645e98e0fabb0c4dba7ff45"
+  },
+  "id": "gh:jsvine/pdfplumber",
+  "kind": "repo",
+  "url": "https://github.com/jsvine/pdfplumber",
+  "title": "pdfplumber",
+  "why": "Pulls characters, lines, rectangles and tables out of machine-generated PDFs, with visual debugging to check what was extracted.",
+  "keys": {
+    "races": [
+      "business-apps/document-management"
+    ],
+    "lanes": [
+      "business-apps/document-management"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jsvine/pdfplumber",
+    "sha": "4c64b92d5caccd71c645e98e0fabb0c4dba7ff45",
+    "file_url": "https://cdn.jsdelivr.net/gh/jsvine/pdfplumber@4c64b92d5caccd71c645e98e0fabb0c4dba7ff45/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 10918,
+    "size_mb": 21,
+    "created_at": "2015-08-24T03:14:48Z",
+    "last_commit_at": "2026-11-21T02:32:01Z",
+    "releases": 44,
+    "tags": 71,
+    "archived": false,
+    "release": {
+      "tag": "v0.11.11",
+      "at": "2026-11-21T02:41:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4c64b92d5caccd71c645e98e0fabb0c4dba7ff45",
+    "v": 4
+  }
+}

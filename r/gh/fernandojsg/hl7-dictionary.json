@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ccdca7ee3b8cb58f0c1d46d44c406f96cc1046a9"
+  },
+  "id": "gh:fernandojsg/hl7-dictionary",
+  "kind": "repo",
+  "url": "https://github.com/fernandojsg/hl7-dictionary",
+  "title": "hl7-dictionary",
+  "why": "Looks up HL7 message, segment, field and table definitions across versions 2.1 to 2.7.1 from JavaScript, with cardinality and allowed values.",
+  "keys": {
+    "races": [
+      "medicine/interoperability",
+      "data/serialization"
+    ],
+    "lanes": [
+      "medicine/interoperability",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fernandojsg/hl7-dictionary",
+    "sha": "ccdca7ee3b8cb58f0c1d46d44c406f96cc1046a9",
+    "file_url": "https://cdn.jsdelivr.net/gh/fernandojsg/hl7-dictionary@ccdca7ee3b8cb58f0c1d46d44c406f96cc1046a9/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 65,
+    "size_mb": 2,
+    "created_at": "2015-09-05T13:07:41Z",
+    "last_commit_at": "2015-09-05T13:26:50Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ccdca7ee3b8cb58f0c1d46d44c406f96cc1046a9",
+    "v": 4
+  },
+  "pinned_at": "2015-09-05T13:26:50Z"
+}

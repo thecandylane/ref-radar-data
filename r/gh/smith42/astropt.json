@@ -1,0 +1,86 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fa361ae5b6631c89525429755ed3fc2b2d304eca"
+  },
+  "id": "gh:smith42/astropt",
+  "kind": "repo",
+  "url": "https://github.com/Smith42/astroPT",
+  "title": "astroPT",
+  "why": "Pretrains a GPT-style model on galaxy images, spectra and photometry, then probes its embeddings with linear probes and sparse autoencoders.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "ml/training",
+      "ml/vision"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "ml/training",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Smith42/astroPT",
+    "sha": "fa361ae5b6631c89525429755ed3fc2b2d304eca",
+    "file_url": "https://cdn.jsdelivr.net/gh/Smith42/astroPT@fa361ae5b6631c89525429755ed3fc2b2d304eca/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 52,
+    "size_mb": 47,
+    "created_at": "2024-01-30T15:36:37Z",
+    "last_commit_at": "2026-09-28T21:26:41Z",
+    "releases": 16,
+    "tags": 16,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.9",
+      "at": "2025-09-09T15:50:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fa361ae5b6631c89525429755ed3fc2b2d304eca",
+    "v": 4
+  },
+  "pinned_at": "2026-09-28T21:26:41Z",
+  "papers": [
+    {
+      "id": "arxiv:2503.15312",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2405.14930",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

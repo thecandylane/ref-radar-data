@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9b471f1f6b1c1c1f357544f5c5ad0515ae7f43b8"
+  },
+  "id": "gh:saezlab/decoupler",
+  "kind": "repo",
+  "url": "https://github.com/saezlab/decoupleR",
+  "title": "decoupleR",
+  "why": "Scores pathway and transcription factor activity from omics data, weighing each network interaction by its sign and weight.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/saezlab/decoupleR",
+    "sha": "9b471f1f6b1c1c1f357544f5c5ad0515ae7f43b8",
+    "file_url": "https://cdn.jsdelivr.net/gh/saezlab/decoupleR@9b471f1f6b1c1c1f357544f5c5ad0515ae7f43b8/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 314,
+    "size_mb": 39,
+    "created_at": "2019-11-21T21:51:19Z",
+    "last_commit_at": "2025-12-16T14:23:49Z",
+    "releases": 0,
+    "tags": 4,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9b471f1f6b1c1c1f357544f5c5ad0515ae7f43b8",
+    "v": 4
+  },
+  "pinned_at": "2025-12-16T14:23:49Z"
+}

@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7fabc15eadb78cbd682b924a5455408f58c45a47"
+  },
+  "id": "gh:sandialabs/powerconverterdynamics.jl",
+  "kind": "repo",
+  "url": "https://github.com/sandialabs/PowerConverterDynamics.jl",
+  "title": "PowerConverterDynamics.jl",
+  "why": "Differentiable model of converter losses, bus voltage transients and battery SOC on a common DC bus, with smooth current clipping.",
+  "keys": {
+    "races": [
+      "energy/power-grid",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "energy/power-grid",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sandialabs/PowerConverterDynamics.jl",
+    "sha": "7fabc15eadb78cbd682b924a5455408f58c45a47",
+    "file_url": "https://cdn.jsdelivr.net/gh/sandialabs/PowerConverterDynamics.jl@7fabc15eadb78cbd682b924a5455408f58c45a47/{path}"
+  },
+  "facts": {
+    "lang": "Julia",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-06-26T22:11:42Z",
+    "last_commit_at": "2026-06-27T21:05:52Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7fabc15eadb78cbd682b924a5455408f58c45a47",
+    "v": 4
+  },
+  "pinned_at": "2026-06-27T21:05:52Z"
+}

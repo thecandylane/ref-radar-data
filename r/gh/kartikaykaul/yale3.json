@@ -1,0 +1,65 @@
+{
+  "id": "gh:kartikaykaul/yale3",
+  "kind": "repo",
+  "url": "https://github.com/KartikayKaul/Yale3",
+  "title": "Yale3",
+  "why": "Chrome extension that pulls experience, education, certification and skills sections from a LinkedIn profile into JSON, with optional save to MongoDB Atlas.",
+  "keys": {
+    "races": [
+      "hr/recruiting",
+      "agents/tools"
+    ],
+    "lanes": [
+      "hr/recruiting",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/web-access"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/KartikayKaul/Yale3",
+    "sha": "61638330e6b25936b0b5d3dcb2b4e4000b9edbcb",
+    "file_url": "https://cdn.jsdelivr.net/gh/KartikayKaul/Yale3@61638330e6b25936b0b5d3dcb2b4e4000b9edbcb/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "NOASSERTION",
+    "stars": 105,
+    "size_mb": 0,
+    "created_at": "2021-12-04T20:45:21Z",
+    "last_commit_at": "2026-03-23T05:54:32Z",
+    "releases": 14,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v2.3.0",
+      "at": "2026-02-09T14:28:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "61638330e6b25936b0b5d3dcb2b4e4000b9edbcb",
+    "v": 4
+  },
+  "pinned_at": "2026-03-23T05:54:32Z"
+}

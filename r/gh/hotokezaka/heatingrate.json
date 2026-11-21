@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:86209291b4ad1699681467e21bcf3ff4aad9266d"
+  },
+  "id": "gh:hotokezaka/heatingrate",
+  "kind": "repo",
+  "url": "https://github.com/hotokezaka/HeatingRate",
+  "title": "HeatingRate",
+  "why": "Computes radioactive heating rates from ENDF/B-VII.1 half-lives, then the kilonova light curve for a given ejecta mass and velocity.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hotokezaka/HeatingRate",
+    "sha": "86209291b4ad1699681467e21bcf3ff4aad9266d",
+    "file_url": "https://cdn.jsdelivr.net/gh/hotokezaka/HeatingRate@86209291b4ad1699681467e21bcf3ff4aad9266d/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "GPL-3.0",
+    "stars": 9,
+    "size_mb": 1,
+    "created_at": "2019-07-27T16:29:35Z",
+    "last_commit_at": "2021-04-06T05:05:13Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2020-01-08T20:30:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "86209291b4ad1699681467e21bcf3ff4aad9266d",
+    "v": 4
+  },
+  "pinned_at": "2021-04-06T05:05:13Z",
+  "papers": [
+    {
+      "id": "arxiv:1909.02581",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

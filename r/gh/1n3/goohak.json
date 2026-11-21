@@ -1,0 +1,55 @@
+{
+  "id": "gh:1n3/goohak",
+  "kind": "repo",
+  "url": "https://github.com/1N3/Goohak",
+  "title": "Goohak",
+  "why": "Opens Google hacking queries for one domain through xdg-open, so exposures show up without typing each search.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "cyber/threat-intel"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "cyber/threat-intel"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/1N3/Goohak",
+    "sha": "815a31e487c5f76d1e9b28c0f982d4807459db7f",
+    "file_url": "https://cdn.jsdelivr.net/gh/1N3/Goohak@815a31e487c5f76d1e9b28c0f982d4807459db7f/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "none",
+    "stars": 745,
+    "size_mb": 0,
+    "created_at": "2015-09-06T15:16:57Z",
+    "last_commit_at": "2021-09-27T01:44:43Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

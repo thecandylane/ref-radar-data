@@ -1,0 +1,63 @@
+{
+  "id": "gh:nf-core/proteinannotator",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/proteinannotator",
+  "title": "proteinannotator",
+  "why": "Nextflow pipeline that cleans protein FASTA files, then annotates domains with hmmer and InterProScan and predicts secondary structure with s4pred.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/proteinannotator",
+    "sha": "8210927a94a38d939d0f900e9333a7be27ad9900",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/proteinannotator@8210927a94a38d939d0f900e9333a7be27ad9900/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 16,
+    "size_mb": 13,
+    "created_at": "2025-03-12T17:00:07Z",
+    "last_commit_at": "2026-10-08T08:37:54Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "1.1.0",
+      "at": "2026-05-07T16:35:02.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8210927a94a38d939d0f900e9333a7be27ad9900",
+    "v": 4
+  },
+  "pinned_at": "2026-10-08T08:37:54Z"
+}

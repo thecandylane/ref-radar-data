@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c526b00ec4436cbce4827b153a66ef4e08a39dab"
+  },
+  "id": "gh:mpi-is/probinet",
+  "kind": "repo",
+  "url": "https://github.com/MPI-IS/probinet",
+  "title": "probinet",
+  "why": "Runs community detection and link prediction on networks, multilayer ones included, with cross validation over model settings.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MPI-IS/probinet",
+    "sha": "c526b00ec4436cbce4827b153a66ef4e08a39dab",
+    "file_url": "https://cdn.jsdelivr.net/gh/MPI-IS/probinet@c526b00ec4436cbce4827b153a66ef4e08a39dab/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 8,
+    "size_mb": 14,
+    "created_at": "2024-10-07T08:23:06Z",
+    "last_commit_at": "2026-08-26T13:29:34Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "1.1",
+      "at": "2026-02-06T16:55:56.000Z"
+    },
+    "doi": "10.21105/joss.08638"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c526b00ec4436cbce4827b153a66ef4e08a39dab",
+    "v": 4
+  },
+  "pinned_at": "2026-08-26T13:29:34Z"
+}

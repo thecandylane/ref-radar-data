@@ -1,0 +1,64 @@
+{
+  "id": "gh:freescout-help-desk/freescout",
+  "kind": "repo",
+  "url": "https://github.com/freescout-help-desk/freescout",
+  "title": "freescout",
+  "why": "Shared mailbox helpdesk that threads customer emails into conversations, with folders, notes and per-user subscriptions.",
+  "keys": {
+    "races": [
+      "support/helpdesk"
+    ],
+    "lanes": [
+      "support/helpdesk"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/freescout-help-desk/freescout",
+    "sha": "7769d477ef1e45275d3c0ee173648fce35719945",
+    "file_url": "https://cdn.jsdelivr.net/gh/freescout-help-desk/freescout@7769d477ef1e45275d3c0ee173648fce35719945/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "AGPL-3.0",
+    "stars": 4674,
+    "size_mb": 29,
+    "created_at": "2018-06-22T17:08:50Z",
+    "last_commit_at": "2026-11-21T07:19:09Z",
+    "releases": 377,
+    "tags": 378,
+    "archived": false,
+    "release": {
+      "tag": "1.8.252",
+      "at": "2026-11-21T07:31:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7769d477ef1e45275d3c0ee173648fce35719945",
+    "v": 4
+  }
+}

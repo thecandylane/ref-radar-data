@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7173c245aab4c2b417cd4c24f0b54e697a369864"
+  },
+  "id": "gh:leonidas-from-xiv/node-xml2js",
+  "kind": "repo",
+  "url": "https://github.com/Leonidas-from-XIV/node-xml2js",
+  "title": "node-xml2js",
+  "why": "Turns XML into plain JavaScript objects and back, with options for attributes, namespaces and tag name processors.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Leonidas-from-XIV/node-xml2js",
+    "sha": "7173c245aab4c2b417cd4c24f0b54e697a369864",
+    "file_url": "https://cdn.jsdelivr.net/gh/Leonidas-from-XIV/node-xml2js@7173c245aab4c2b417cd4c24f0b54e697a369864/{path}"
+  },
+  "facts": {
+    "lang": "CoffeeScript",
+    "license": "MIT",
+    "stars": 4956,
+    "size_mb": 1,
+    "created_at": "2010-07-17T09:05:57Z",
+    "last_commit_at": "2026-04-30T09:03:41Z",
+    "releases": 0,
+    "tags": 44,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7173c245aab4c2b417cd4c24f0b54e697a369864",
+    "v": 4
+  },
+  "pinned_at": "2026-04-30T09:03:41Z"
+}

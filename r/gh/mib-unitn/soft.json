@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4de0a50844a655f427a7f9791e12ce32c953e6c4"
+  },
+  "id": "gh:mib-unitn/soft",
+  "kind": "repo",
+  "url": "https://github.com/mib-unitn/SoFT",
+  "title": "SoFT",
+  "why": "Detects and tracks coronal holes across image sequences, then computes trajectory angles and feature maps.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mib-unitn/SoFT",
+    "sha": "4de0a50844a655f427a7f9791e12ce32c953e6c4",
+    "file_url": "https://cdn.jsdelivr.net/gh/mib-unitn/SoFT@4de0a50844a655f427a7f9791e12ce32c953e6c4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 6,
+    "size_mb": 6,
+    "created_at": "2024-06-21T09:39:32Z",
+    "last_commit_at": "2026-09-04T22:07:39Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v3.2",
+      "at": "2026-09-04T22:09:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4de0a50844a655f427a7f9791e12ce32c953e6c4",
+    "v": 4
+  },
+  "pinned_at": "2026-09-04T22:07:39Z"
+}

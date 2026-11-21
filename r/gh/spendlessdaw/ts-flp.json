@@ -1,0 +1,65 @@
+{
+  "id": "gh:spendlessdaw/ts-flp",
+  "kind": "repo",
+  "url": "https://github.com/SpendLessDaw/ts-flp",
+  "title": "ts-flp",
+  "why": "Reads and writes FLP project files in Node, exposing BPM, sample references and plugin references through a parser.",
+  "keys": {
+    "races": [
+      "media/audio-production"
+    ],
+    "lanes": [
+      "media/audio-production"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SpendLessDaw/ts-flp",
+    "sha": "9e346abf578585026e8a5c0167f2a8ff64141930",
+    "file_url": "https://cdn.jsdelivr.net/gh/SpendLessDaw/ts-flp@9e346abf578585026e8a5c0167f2a8ff64141930/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-01-25T14:21:20Z",
+    "last_commit_at": "2026-11-04T11:11:31Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "1.1.0",
+      "at": "2026-11-01T21:16:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9e346abf578585026e8a5c0167f2a8ff64141930",
+    "v": 4
+  },
+  "pinned_at": "2026-11-04T11:11:31Z"
+}

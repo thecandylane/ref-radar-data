@@ -28,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/openbq-org/OpenBB",
-    "sha": "11290d8b468570cea64b5feb0225ad9cbf5228e0",
-    "file_url": "https://raw.githubusercontent.com/openbq-org/OpenBB/11290d8b468570cea64b5feb0225ad9cbf5228e0/{path}"
+    "sha": "f0f1852b96dd3fc4d5868f8863cbe053ff49c6cd",
+    "file_url": "https://raw.githubusercontent.com/openbq-org/OpenBB/f0f1852b96dd3fc4d5868f8863cbe053ff49c6cd/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 75591,
+    "stars": 75614,
     "size_mb": 2383,
     "created_at": "2020-12-20T10:46:38Z",
     "last_commit_at": "2026-11-18T21:11:39Z",
@@ -54,14 +54,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 208,
+    "star_delta_7d": 204,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "11290d8b468570cea64b5feb0225ad9cbf5228e0",
-    "v": 3
-  },
+  "pins_before": [
+    "11290d8b468570cea64b5feb0225ad9cbf5228e0"
+  ],
+  "pinned_at": "2026-11-18T21:11:39Z",
   "hot": true
 }

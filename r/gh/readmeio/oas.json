@@ -1,0 +1,68 @@
+{
+  "id": "gh:readmeio/oas",
+  "kind": "repo",
+  "url": "https://github.com/readmeio/oas",
+  "title": "oas",
+  "why": "Parses, dereferences and validates OpenAPI definitions, and adds Jest matchers to test them in TypeScript projects.",
+  "keys": {
+    "races": [
+      "data/serialization",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "data/serialization",
+      "dev-tools/testing"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/readmeio/oas",
+    "sha": "016054aa6b85d942d25e11e0ee416c44e9790561",
+    "file_url": "https://cdn.jsdelivr.net/gh/readmeio/oas@016054aa6b85d942d25e11e0ee416c44e9790561/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 401,
+    "size_mb": 70,
+    "created_at": "2017-03-07T02:46:31Z",
+    "last_commit_at": "2026-11-19T21:04:06Z",
+    "releases": 110,
+    "tags": 729,
+    "archived": false,
+    "release": {
+      "tag": "22.0.0",
+      "at": "2023-09-25T23:55:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "016054aa6b85d942d25e11e0ee416c44e9790561",
+    "v": 4
+  }
+}

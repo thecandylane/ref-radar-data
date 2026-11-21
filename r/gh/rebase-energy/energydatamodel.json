@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d1892668e9090d6f54cb8602f71a5e44d282f1a9"
+  },
+  "id": "gh:rebase-energy/energydatamodel",
+  "kind": "repo",
+  "url": "https://github.com/rebase-energy/energydatamodel",
+  "title": "energydatamodel",
+  "why": "Dataclass-based Python models for grid assets, batteries, PV arrays, wind farms and buildings, with JSON round-trips.",
+  "keys": {
+    "races": [
+      "energy/power-grid",
+      "energy/renewables",
+      "energy/building-energy"
+    ],
+    "lanes": [
+      "energy/power-grid",
+      "energy/renewables",
+      "energy/building-energy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rebase-energy/energydatamodel",
+    "sha": "d1892668e9090d6f54cb8602f71a5e44d282f1a9",
+    "file_url": "https://cdn.jsdelivr.net/gh/rebase-energy/energydatamodel@d1892668e9090d6f54cb8602f71a5e44d282f1a9/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 99,
+    "size_mb": 5,
+    "created_at": "2023-12-23T11:12:27Z",
+    "last_commit_at": "2026-08-28T11:27:08Z",
+    "releases": 14,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v0.12.0",
+      "at": "2026-08-28T11:38:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d1892668e9090d6f54cb8602f71a5e44d282f1a9",
+    "v": 4
+  },
+  "pinned_at": "2026-08-28T11:27:08Z"
+}

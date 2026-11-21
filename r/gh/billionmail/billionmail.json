@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:fc36c76c050c3775c5e899faf7403cf0262d2744"
+  },
   "id": "gh:billionmail/billionmail",
   "kind": "repo",
   "url": "https://github.com/Billionmail/BillionMail",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "Go",
     "license": "AGPL-3.0",
-    "stars": 16426,
+    "stars": 16441,
     "size_mb": 30,
     "created_at": "2025-02-14T06:25:45Z",
     "last_commit_at": "2026-06-11T06:42:43Z",
@@ -60,5 +63,6 @@
   "pack": {
     "sha": "fc36c76c050c3775c5e899faf7403cf0262d2744",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-06-11T06:42:43Z"
 }

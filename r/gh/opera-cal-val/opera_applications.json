@@ -9,10 +9,12 @@
   "why": "Jupyter notebooks that stream OPERA CSLC and DSWx products from the cloud for flood, reservoir and wildfire mapping.",
   "keys": {
     "races": [
-      "data/geospatial"
+      "data/geospatial",
+      "environment/earth-data"
     ],
     "lanes": [
-      "data/geospatial"
+      "data/geospatial",
+      "environment/earth-data"
     ],
     "capabilities": []
   },

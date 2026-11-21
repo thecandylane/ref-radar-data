@@ -1,0 +1,68 @@
+{
+  "id": "gh:openobserve/openobserve",
+  "kind": "repo",
+  "url": "https://github.com/openobserve/openobserve",
+  "title": "openobserve",
+  "why": "One single-binary server keeps logs and traces in Parquet storage on S3, queried with SQL or PromQL.",
+  "keys": {
+    "races": [
+      "infra/observability",
+      "data/storage",
+      "data/search"
+    ],
+    "lanes": [
+      "infra/observability",
+      "data/storage",
+      "data/search"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openobserve/openobserve",
+    "sha": "571cdd52a53bf49c917e81332674c7b1634764ad",
+    "file_url": "https://raw.githubusercontent.com/openobserve/openobserve/571cdd52a53bf49c917e81332674c7b1634764ad/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "AGPL-3.0",
+    "stars": 23135,
+    "size_mb": 995,
+    "created_at": "2023-02-02T03:29:51Z",
+    "last_commit_at": "2026-11-21T08:59:01Z",
+    "releases": 236,
+    "tags": 246,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.0-rc2",
+      "at": "2026-11-12T12:32:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pins_before": [
+    "cb4124b9cf86f496eee628713767574b9e173910"
+  ],
+  "pinned_at": "2026-11-21T08:59:01Z"
+}

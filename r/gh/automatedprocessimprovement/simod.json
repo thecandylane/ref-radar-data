@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7e5de02e1b81ca4abb8d8dcd28b0ad315520b43e"
+  },
+  "id": "gh:automatedprocessimprovement/simod",
+  "kind": "repo",
+  "url": "https://github.com/AutomatedProcessImprovement/Simod",
+  "title": "Simod",
+  "why": "Discovers a process model and simulation parameters from an event log, then scores simulated runs with evaluation metrics.",
+  "keys": {
+    "races": [
+      "business-apps/bpm",
+      "data/statistics"
+    ],
+    "lanes": [
+      "business-apps/bpm",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AutomatedProcessImprovement/Simod",
+    "sha": "7e5de02e1b81ca4abb8d8dcd28b0ad315520b43e",
+    "file_url": "https://cdn.jsdelivr.net/gh/AutomatedProcessImprovement/Simod@7e5de02e1b81ca4abb8d8dcd28b0ad315520b43e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 58,
+    "size_mb": 422,
+    "created_at": "2018-03-28T23:26:49Z",
+    "last_commit_at": "2026-09-23T09:58:08Z",
+    "releases": 130,
+    "tags": 134,
+    "archived": false,
+    "release": {
+      "tag": "5.2.1",
+      "at": "2026-09-23T10:26:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7e5de02e1b81ca4abb8d8dcd28b0ad315520b43e",
+    "v": 4
+  },
+  "pinned_at": "2026-09-23T09:58:08Z"
+}

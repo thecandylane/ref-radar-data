@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d6f888ebd3f0e188bb662e16f23747afdf35e42f"
+  },
   "id": "gh:9bie/php2shell-bypass-aslr-exp",
   "kind": "repo",
   "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
@@ -32,13 +35,14 @@
   "facts": {
     "lang": "Python",
     "license": "none",
-    "stars": 1529,
+    "stars": 1586,
     "size_mb": 21,
     "created_at": "2026-10-21T11:11:57Z",
     "last_commit_at": "2026-10-23T20:39:00Z",
     "releases": 0,
     "tags": 0,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "copy",
   "maturity": "new",
@@ -56,5 +60,6 @@
   "pack": {
     "sha": "d6f888ebd3f0e188bb662e16f23747afdf35e42f",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-10-23T20:39:00Z"
 }

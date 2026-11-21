@@ -1,0 +1,62 @@
+{
+  "id": "gh:redblueteam/visto",
+  "kind": "repo",
+  "url": "https://github.com/redblueteam/VISTO",
+  "title": "VISTO",
+  "why": "Flask console where an AI agent drives nmap scans and OSINT lookups, logging each module's output under its project.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "netsec/scanning",
+      "recon/domains"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "netsec/scanning",
+      "recon/domains"
+    ],
+    "capabilities": [
+      "cyber/offensive/ai-pentesting"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/redblueteam/VISTO",
+    "sha": "ee02d343ec743b961e36c62e7ee952635d542e3e",
+    "file_url": "https://cdn.jsdelivr.net/gh/redblueteam/VISTO@ee02d343ec743b961e36c62e7ee952635d542e3e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 2,
+    "size_mb": 1,
+    "created_at": "2025-06-11T02:48:28Z",
+    "last_commit_at": "2025-06-12T00:30:01Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0",
+      "at": "2025-06-11T11:04:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

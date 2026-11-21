@@ -1,0 +1,61 @@
+{
+  "id": "gh:jkfarland-bot/fixedorderfactor-lean",
+  "kind": "repo",
+  "url": "https://github.com/jkfarland-bot/FixedOrderFactor-lean",
+  "title": "FixedOrderFactor-lean",
+  "why": "Lean 4 and Mathlib proofs of where the factor 35/34 comes from in the mean square of L(1, chi), with no sorry and no native_decide.",
+  "keys": {
+    "races": [
+      "math/formal-proofs"
+    ],
+    "lanes": [
+      "math/formal-proofs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jkfarland-bot/FixedOrderFactor-lean",
+    "sha": "6d020aefe5ea06080f89067284e235a28d6cd691",
+    "file_url": "https://cdn.jsdelivr.net/gh/jkfarland-bot/FixedOrderFactor-lean@6d020aefe5ea06080f89067284e235a28d6cd691/{path}"
+  },
+  "facts": {
+    "lang": "Lean",
+    "license": "Apache-2.0",
+    "stars": 2,
+    "size_mb": 0,
+    "created_at": "2026-10-20T03:15:08Z",
+    "last_commit_at": "2026-11-21T03:36:07Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.2",
+      "at": "2026-11-21T04:39:54.000Z"
+    },
+    "doi": "10.5281/zenodo.23489277"
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6d020aefe5ea06080f89067284e235a28d6cd691",
+    "v": 4
+  }
+}

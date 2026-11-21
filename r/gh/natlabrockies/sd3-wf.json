@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:353ff4378427a10c46d8b6d420892dfa92ca40a0"
+  },
+  "id": "gh:natlabrockies/sd3-wf",
+  "kind": "repo",
+  "url": "https://github.com/NatLabRockies/SD3-WF",
+  "title": "SD3-WF",
+  "why": "Packs DSS feeder files and pcap captures into one scenario, then charts feeder and network traffic in a Svelte viewer.",
+  "keys": {
+    "races": [
+      "energy/power-grid",
+      "netsec/capture"
+    ],
+    "lanes": [
+      "energy/power-grid",
+      "netsec/capture"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NatLabRockies/SD3-WF",
+    "sha": "353ff4378427a10c46d8b6d420892dfa92ca40a0",
+    "file_url": "https://cdn.jsdelivr.net/gh/NatLabRockies/SD3-WF@353ff4378427a10c46d8b6d420892dfa92ca40a0/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "BSD-3-Clause",
+    "stars": 1,
+    "size_mb": 41,
+    "created_at": "2025-11-12T18:00:03Z",
+    "last_commit_at": "2026-09-30T18:56:31Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "353ff4378427a10c46d8b6d420892dfa92ca40a0",
+    "v": 4
+  },
+  "pinned_at": "2026-09-30T18:56:31Z"
+}

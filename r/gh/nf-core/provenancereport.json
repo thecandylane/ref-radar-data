@@ -1,0 +1,63 @@
+{
+  "id": "gh:nf-core/provenancereport",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/provenancereport",
+  "title": "provenancereport",
+  "why": "Builds a Quarto notebook that records R session info and the Python version for each pipeline run.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/provenancereport",
+    "sha": "a1cea59800fd6c18c705324845c8a16f61ebf0f6",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/provenancereport@a1cea59800fd6c18c705324845c8a16f61ebf0f6/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 2,
+    "size_mb": 2,
+    "created_at": "2026-06-11T12:54:57Z",
+    "last_commit_at": "2026-11-10T12:34:18Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "1.0.1",
+      "at": "2026-11-10T14:45:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a1cea59800fd6c18c705324845c8a16f61ebf0f6",
+    "v": 4
+  },
+  "pinned_at": "2026-11-10T12:34:18Z"
+}

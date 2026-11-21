@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:acbb348e1340c5c2104ae1c3be150b52fb513a88"
+  },
+  "id": "gh:nf-core/riboseq",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/riboseq",
+  "title": "riboseq",
+  "why": "Collapses overlapping ORF calls, filters GTF annotation and converts FASTA and BED12 coordinates for a Nextflow ribo-seq pipeline.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/riboseq",
+    "sha": "acbb348e1340c5c2104ae1c3be150b52fb513a88",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/riboseq@acbb348e1340c5c2104ae1c3be150b52fb513a88/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 39,
+    "size_mb": 24,
+    "created_at": "2023-10-18T00:45:36Z",
+    "last_commit_at": "2026-10-08T09:44:28Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "2.0.0",
+      "at": "2026-09-15T17:01:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "acbb348e1340c5c2104ae1c3be150b52fb513a88",
+    "v": 4
+  },
+  "pinned_at": "2026-10-08T09:44:28Z"
+}

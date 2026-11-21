@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b0f2984db7f2db16fe2dc47c834f6caa8b19e02a"
+  },
+  "id": "gh:truenomad/agepopdenom",
+  "kind": "repo",
+  "url": "https://github.com/truenomad/AgePopDenom",
+  "title": "AgePopDenom",
+  "why": "Estimates single-year age population counts at 5km x 5km resolution from DHS surveys and WorldPop rasters, with 95% uncertainty intervals.",
+  "keys": {
+    "races": [
+      "medicine/health-data",
+      "data/geospatial",
+      "data/statistics"
+    ],
+    "lanes": [
+      "medicine/health-data",
+      "data/geospatial",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/truenomad/AgePopDenom",
+    "sha": "b0f2984db7f2db16fe2dc47c834f6caa8b19e02a",
+    "file_url": "https://cdn.jsdelivr.net/gh/truenomad/AgePopDenom@b0f2984db7f2db16fe2dc47c834f6caa8b19e02a/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 4,
+    "size_mb": 5,
+    "created_at": "2025-01-02T13:40:54Z",
+    "last_commit_at": "2026-09-14T19:29:57Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.3",
+      "at": "2026-09-14T19:29:03.000Z"
+    },
+    "doi": "10.21105/joss.10335"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b0f2984db7f2db16fe2dc47c834f6caa8b19e02a",
+    "v": 4
+  },
+  "pinned_at": "2026-09-14T19:29:57Z"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "gh:mahanaicoach/google-maps-scraper-kit",
+  "kind": "repo",
+  "url": "https://github.com/Mahanaicoach/google-maps-scraper-kit",
+  "title": "google-maps-scraper-kit",
+  "why": "Collects place data from Chrome over CDP into leads CSV files, with proxy support and a local job server.",
+  "keys": {
+    "races": [
+      "sales/prospecting"
+    ],
+    "lanes": [
+      "sales/prospecting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Mahanaicoach/google-maps-scraper-kit",
+    "sha": "c3e63f1934dc61e9b9ae52b56de6f0beceb0a703",
+    "file_url": "https://cdn.jsdelivr.net/gh/Mahanaicoach/google-maps-scraper-kit@c3e63f1934dc61e9b9ae52b56de6f0beceb0a703/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 2567,
+    "size_mb": 4,
+    "created_at": "2026-06-21T11:33:57Z",
+    "last_commit_at": "2026-11-19T00:10:32Z",
+    "releases": 9,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v2.3.2",
+      "at": "2026-11-10T18:25:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c3e63f1934dc61e9b9ae52b56de6f0beceb0a703",
+    "v": 4
+  },
+  "pinned_at": "2026-11-19T00:10:32Z"
+}

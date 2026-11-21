@@ -1,0 +1,64 @@
+{
+  "id": "gh:natlabrockies/optimization-layers-for-pyomo",
+  "kind": "repo",
+  "url": "https://github.com/NatLabRockies/Optimization-Layers-for-Pyomo",
+  "title": "Optimization-Layers-for-Pyomo",
+  "why": "Gives the gradient of a Pyomo and IPOPT optimal solution with respect to its parameters, via KKT conditions in the backward pass.",
+  "keys": {
+    "races": [
+      "sci/optimization",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "sci/optimization",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NatLabRockies/Optimization-Layers-for-Pyomo",
+    "sha": "61524ad6faaba1c1a4c1d7bb033c6423ec0fe6ad",
+    "file_url": "https://cdn.jsdelivr.net/gh/NatLabRockies/Optimization-Layers-for-Pyomo@61524ad6faaba1c1a4c1d7bb033c6423ec0fe6ad/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 73,
+    "created_at": "2026-06-05T16:42:19Z",
+    "last_commit_at": "2026-07-08T03:36:04Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "61524ad6faaba1c1a4c1d7bb033c6423ec0fe6ad",
+    "v": 4
+  },
+  "pinned_at": "2026-07-08T03:36:04Z"
+}

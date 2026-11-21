@@ -1,0 +1,56 @@
+{
+  "id": "gh:hyperionaidev/smolmaxxing",
+  "kind": "repo",
+  "url": "https://github.com/hyperionaidev/smolmaxxing",
+  "title": "smolmaxxing",
+  "why": "Runs 8B and 16B mixture-of-experts models on TV boxes and old tablets by paging experts from flash, with patched llama.cpp kernels.",
+  "keys": {
+    "races": [
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "llm-infra/inference"
+    ],
+    "capabilities": [
+      "llm-infra/inference/low-bit"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hyperionaidev/smolmaxxing",
+    "sha": "7171438f0b5b2856cfe22196ed06d59e57c2bd47",
+    "file_url": "https://cdn.jsdelivr.net/gh/hyperionaidev/smolmaxxing@7171438f0b5b2856cfe22196ed06d59e57c2bd47/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 448,
+    "size_mb": 10,
+    "created_at": "2026-11-04T07:09:41Z",
+    "last_commit_at": "2026-11-13T06:51:35Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "fresh": true
+}

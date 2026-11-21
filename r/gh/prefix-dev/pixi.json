@@ -28,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/prefix-dev/pixi",
-    "sha": "6c47d9962d0c3b608846d0d3b9538c7c6d8e7d88",
-    "file_url": "https://cdn.jsdelivr.net/gh/prefix-dev/pixi@6c47d9962d0c3b608846d0d3b9538c7c6d8e7d88/{path}"
+    "sha": "173cf59dbd388b533596132f88ee2f7cef961c1d",
+    "file_url": "https://cdn.jsdelivr.net/gh/prefix-dev/pixi@173cf59dbd388b533596132f88ee2f7cef961c1d/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "BSD-3-Clause",
-    "stars": 8000,
-    "size_mb": 258,
+    "stars": 8003,
+    "size_mb": 259,
     "created_at": "2023-04-28T10:51:16Z",
-    "last_commit_at": "2026-11-19T14:27:34Z",
+    "last_commit_at": "2026-11-20T20:19:27Z",
     "releases": 154,
     "tags": 259,
     "archived": false,
@@ -59,8 +59,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "6c47d9962d0c3b608846d0d3b9538c7c6d8e7d88",
-    "v": 4
-  }
+  "pins_before": [
+    "6c47d9962d0c3b608846d0d3b9538c7c6d8e7d88"
+  ],
+  "pinned_at": "2026-11-20T20:19:27Z"
 }

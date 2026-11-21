@@ -1,0 +1,69 @@
+{
+  "id": "gh:superdesigndev/treg",
+  "kind": "repo",
+  "url": "https://github.com/superdesigndev/treg",
+  "title": "treg",
+  "why": "Gives coding agents a catalog of paid API endpoints with per-call pricing and balance checks, plus setup pages for each agent host.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/tools",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/tools/api-directories"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/superdesigndev/treg",
+    "sha": "a1a647ad2f17aeedbebe5720e6329b1b1676de02",
+    "file_url": "https://cdn.jsdelivr.net/gh/superdesigndev/treg@a1a647ad2f17aeedbebe5720e6329b1b1676de02/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 8674,
+    "size_mb": 141,
+    "created_at": "2026-07-15T13:38:07Z",
+    "last_commit_at": "2026-11-21T09:19:35Z",
+    "releases": 4,
+    "tags": 6,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a1a647ad2f17aeedbebe5720e6329b1b1676de02",
+    "v": 4
+  }
+}

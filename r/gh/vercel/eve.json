@@ -1,0 +1,70 @@
+{
+  "id": "gh:vercel/eve",
+  "kind": "repo",
+  "url": "https://github.com/vercel/eve",
+  "title": "eve",
+  "why": "Lays an agent out as folders for instructions.md, tools, skills, channels and schedules, so each piece is easy to find and change.",
+  "keys": {
+    "races": [
+      "agents/frameworks"
+    ],
+    "lanes": [
+      "agents/frameworks"
+    ],
+    "capabilities": [
+      "agents/frameworks/agent-workflows"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vercel/eve",
+    "sha": "ac463ea23ba043fb53be7a7caebb7ba1ad45c5e6",
+    "file_url": "https://cdn.jsdelivr.net/gh/vercel/eve@ac463ea23ba043fb53be7a7caebb7ba1ad45c5e6/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 6033,
+    "size_mb": 163,
+    "created_at": "2026-06-16T10:51:20Z",
+    "last_commit_at": "2026-11-21T00:29:43Z",
+    "releases": 337,
+    "tags": 337,
+    "archived": false,
+    "release": {
+      "tag": "eve@1.3.0",
+      "at": "2026-11-20T23:18:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ac463ea23ba043fb53be7a7caebb7ba1ad45c5e6",
+    "v": 4
+  }
+}

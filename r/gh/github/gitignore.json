@@ -1,0 +1,57 @@
+{
+  "id": "gh:github/gitignore",
+  "kind": "repo",
+  "url": "https://github.com/github/gitignore",
+  "title": "gitignore",
+  "why": "Curated gitignore templates for languages, editors and tools, which also feed the template chooser on GitHub.",
+  "keys": {
+    "races": [
+      "dev-tools/vcs"
+    ],
+    "lanes": [
+      "dev-tools/vcs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/github/gitignore",
+    "sha": "eeb775f7cbd229e8cd487ef06a1176dc239201d9",
+    "file_url": "https://cdn.jsdelivr.net/gh/github/gitignore@eeb775f7cbd229e8cd487ef06a1176dc239201d9/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "CC0-1.0",
+    "stars": 176418,
+    "size_mb": 3,
+    "created_at": "2010-11-08T20:17:14Z",
+    "last_commit_at": "2026-11-20T23:32:30Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pins_before": [
+    "b71db924d35085e481ad7c7ad8a7435b8d8b3016"
+  ],
+  "pinned_at": "2026-11-20T23:32:30Z"
+}

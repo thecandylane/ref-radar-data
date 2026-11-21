@@ -1,0 +1,64 @@
+{
+  "id": "gh:geopinionated/openlr",
+  "kind": "repo",
+  "url": "https://github.com/geopinionated/openlr",
+  "title": "openlr",
+  "why": "Encodes and decodes road location references as base64 or binary, resolving them onto a directed graph with shortest-path routing.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "logistics/route-optimization"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "logistics/route-optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/geopinionated/openlr",
+    "sha": "6c52d9af0aa0901c6fbe07d3ed5767f07af0f88e",
+    "file_url": "https://cdn.jsdelivr.net/gh/geopinionated/openlr@6c52d9af0aa0901c6fbe07d3ed5767f07af0f88e/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 7,
+    "size_mb": 1,
+    "created_at": "2025-06-26T11:53:19Z",
+    "last_commit_at": "2026-09-22T08:05:43Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6c52d9af0aa0901c6fbe07d3ed5767f07af0f88e",
+    "v": 4
+  },
+  "pinned_at": "2026-09-22T08:05:43Z"
+}

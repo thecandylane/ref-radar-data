@@ -1,0 +1,62 @@
+{
+  "id": "gh:zingerlittlebee/heeler",
+  "kind": "repo",
+  "url": "https://github.com/ZingerLittleBee/Heeler",
+  "title": "Heeler",
+  "why": "Publishes signed iOS builds as ad hoc install links and refuses to upload when the signature or device list fails.",
+  "keys": {
+    "races": [
+      "mobile/ios",
+      "desktop/packaging"
+    ],
+    "lanes": [
+      "mobile/ios",
+      "desktop/packaging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ZingerLittleBee/Heeler",
+    "sha": "c2d54ba3222c70df12be4166960aa027ad4e4077",
+    "file_url": "https://raw.githubusercontent.com/ZingerLittleBee/Heeler/c2d54ba3222c70df12be4166960aa027ad4e4077/{path}"
+  },
+  "facts": {
+    "lang": "Swift",
+    "license": "Apache-2.0",
+    "stars": 922,
+    "size_mb": 247,
+    "created_at": "2026-07-18T01:49:37Z",
+    "last_commit_at": "2026-11-21T08:20:07Z",
+    "releases": 30,
+    "tags": 35,
+    "archived": false,
+    "release": {
+      "tag": "builds/0.1.20/52",
+      "at": "2026-11-16T17:08:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c2d54ba3222c70df12be4166960aa027ad4e4077",
+    "v": 4
+  }
+}

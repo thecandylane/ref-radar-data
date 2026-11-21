@@ -1,0 +1,64 @@
+{
+  "id": "gh:conceptual-machines/magda-core",
+  "kind": "repo",
+  "url": "https://github.com/Conceptual-Machines/magda-core",
+  "title": "magda-core",
+  "why": "Lets agents edit a session through automation, chord and Faust coder agents, and an MCP handler for outside tools.",
+  "keys": {
+    "races": [
+      "media/audio-production",
+      "agents/tools"
+    ],
+    "lanes": [
+      "media/audio-production",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Conceptual-Machines/magda-core",
+    "sha": "d187196ff15d112f1e3321ba37aa7a5976f726ab",
+    "file_url": "https://cdn.jsdelivr.net/gh/Conceptual-Machines/magda-core@d187196ff15d112f1e3321ba37aa7a5976f726ab/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-3.0",
+    "stars": 266,
+    "size_mb": 73,
+    "created_at": "2026-01-17T18:01:52Z",
+    "last_commit_at": "2026-11-20T23:09:53Z",
+    "releases": 116,
+    "tags": 122,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0-beta.2",
+      "at": "2026-11-07T22:15:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d187196ff15d112f1e3321ba37aa7a5976f726ab",
+    "v": 4
+  }
+}

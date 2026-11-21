@@ -1,0 +1,81 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b76b6fed2a6c8c5594c6f92d5058bef10079746a"
+  },
+  "id": "gh:cobayasampler/cobaya",
+  "kind": "repo",
+  "url": "https://github.com/CobayaSampler/cobaya",
+  "title": "cobaya",
+  "why": "Runs MCMC and nested samplers over cosmological priors and likelihoods, with CAMB and CLASS as theory codes.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CobayaSampler/cobaya",
+    "sha": "b76b6fed2a6c8c5594c6f92d5058bef10079746a",
+    "file_url": "https://cdn.jsdelivr.net/gh/CobayaSampler/cobaya@b76b6fed2a6c8c5594c6f92d5058bef10079746a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 184,
+    "size_mb": 9,
+    "created_at": "2018-09-16T10:52:52Z",
+    "last_commit_at": "2026-08-04T05:46:26Z",
+    "releases": 19,
+    "tags": 66,
+    "archived": false,
+    "release": {
+      "tag": "v3.6.2",
+      "at": "2026-03-27T15:17:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b76b6fed2a6c8c5594c6f92d5058bef10079746a",
+    "v": 4
+  },
+  "pinned_at": "2026-08-04T05:46:26Z",
+  "papers": [
+    {
+      "id": "arxiv:2005.05290",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2304.03750",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

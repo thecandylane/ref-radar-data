@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ada52cc7ed401153a8d0b026d1edf918bfc04c45"
-  },
   "id": "gh:openwrt/openwrt",
   "kind": "repo",
   "url": "https://github.com/openwrt/openwrt",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/openwrt/openwrt",
-    "sha": "ada52cc7ed401153a8d0b026d1edf918bfc04c45",
-    "file_url": "https://cdn.jsdelivr.net/gh/openwrt/openwrt@ada52cc7ed401153a8d0b026d1edf918bfc04c45/{path}"
+    "sha": "dee2ff6a77b1fd0eea6825aabaf97cc35ba642e2",
+    "file_url": "https://cdn.jsdelivr.net/gh/openwrt/openwrt@dee2ff6a77b1fd0eea6825aabaf97cc35ba642e2/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 29276,
+    "stars": 29288,
     "size_mb": 315,
     "created_at": "2015-11-09T07:13:55Z",
-    "last_commit_at": "2026-11-19T19:55:48Z",
+    "last_commit_at": "2026-11-21T08:07:33Z",
     "releases": 48,
     "tags": 101,
     "archived": false,
@@ -53,14 +50,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 81,
+    "star_delta_7d": 83,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "ada52cc7ed401153a8d0b026d1edf918bfc04c45",
-    "v": 3
-  },
+  "pins_before": [
+    "ada52cc7ed401153a8d0b026d1edf918bfc04c45"
+  ],
+  "pinned_at": "2026-11-21T08:07:33Z",
   "hot": true
 }

@@ -1,0 +1,68 @@
+{
+  "id": "gh:remotion-dev/remotion",
+  "kind": "repo",
+  "url": "https://github.com/remotion-dev/remotion",
+  "title": "remotion",
+  "why": "Builds videos as React code, from a prompt to your agent or an editor-style studio, and renders them in batches on your own infrastructure.",
+  "keys": {
+    "races": [
+      "media/video",
+      "agents/skills"
+    ],
+    "lanes": [
+      "media/video",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "media/video/code-video"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/remotion-dev/remotion",
+    "sha": "5e61f9ac09f46f140b65622f6b5c21c37b9533e0",
+    "file_url": "https://raw.githubusercontent.com/remotion-dev/remotion/5e61f9ac09f46f140b65622f6b5c21c37b9533e0/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 74648,
+    "size_mb": 4372,
+    "created_at": "2020-06-23T19:49:10Z",
+    "last_commit_at": "2026-11-20T21:05:54Z",
+    "releases": 704,
+    "tags": 939,
+    "archived": false,
+    "release": {
+      "tag": "v4.0.545",
+      "at": "2026-11-18T10:29:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5e61f9ac09f46f140b65622f6b5c21c37b9533e0",
+    "v": 4
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c8c460f60c3b4d6d08cf4b65656477efa5a65225"
+  },
+  "id": "gh:mihanke/athos",
+  "kind": "repo",
+  "url": "https://github.com/mihanke/athos",
+  "title": "athos",
+  "why": "Measures flux ratios in optical spectra of FGK stars to deduce temperature, iron abundance and surface gravity, in parallel across many spectra.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mihanke/athos",
+    "sha": "c8c460f60c3b4d6d08cf4b65656477efa5a65225",
+    "file_url": "https://cdn.jsdelivr.net/gh/mihanke/athos@c8c460f60c3b4d6d08cf4b65656477efa5a65225/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2018-09-03T07:19:26Z",
+    "last_commit_at": "2019-03-07T17:43:29Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c8c460f60c3b4d6d08cf4b65656477efa5a65225",
+    "v": 4
+  },
+  "pinned_at": "2019-03-07T17:43:29Z",
+  "papers": [
+    {
+      "id": "arxiv:1809.01655",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

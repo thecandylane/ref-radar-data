@@ -1,0 +1,67 @@
+{
+  "id": "gh:oxia-db/oxia",
+  "kind": "repo",
+  "url": "https://github.com/oxia-db/oxia",
+  "title": "oxia",
+  "why": "Stores keys with versions, sessions and change notifications in shards, with a Go client and Pebble storage underneath.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "data/queues"
+    ],
+    "lanes": [
+      "data/databases",
+      "data/queues"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/oxia-db/oxia",
+    "sha": "8449e757a35bd6edd3a4e6e8710d3ecac853a312",
+    "file_url": "https://cdn.jsdelivr.net/gh/oxia-db/oxia@8449e757a35bd6edd3a4e6e8710d3ecac853a312/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 377,
+    "size_mb": 82,
+    "created_at": "2022-02-03T00:28:48Z",
+    "last_commit_at": "2026-11-15T07:51:36Z",
+    "releases": 62,
+    "tags": 81,
+    "archived": false,
+    "release": {
+      "tag": "v0.16.13",
+      "at": "2026-10-30T19:53:38.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8449e757a35bd6edd3a4e6e8710d3ecac853a312",
+    "v": 4
+  },
+  "pinned_at": "2026-11-15T07:51:36Z"
+}

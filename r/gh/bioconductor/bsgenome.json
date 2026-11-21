@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:da2ce6bcbe3b850db8458bdb0d60bad5fadaea9d"
+  },
+  "id": "gh:bioconductor/bsgenome",
+  "kind": "repo",
+  "url": "https://github.com/Bioconductor/BSgenome",
+  "title": "BSgenome",
+  "why": "Stores genomes and SNP calls as efficient R objects that Bioconductor pipelines can pass between steps.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Bioconductor/BSgenome",
+    "sha": "da2ce6bcbe3b850db8458bdb0d60bad5fadaea9d",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/BSgenome@da2ce6bcbe3b850db8458bdb0d60bad5fadaea9d/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 11,
+    "size_mb": 12,
+    "created_at": "2017-08-24T00:56:27Z",
+    "last_commit_at": "2026-08-27T01:49:44Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "da2ce6bcbe3b850db8458bdb0d60bad5fadaea9d",
+    "v": 4
+  },
+  "pinned_at": "2026-08-27T01:49:44Z"
+}

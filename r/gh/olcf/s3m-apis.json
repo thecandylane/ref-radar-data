@@ -1,0 +1,65 @@
+{
+  "id": "gh:olcf/s3m-apis",
+  "kind": "repo",
+  "url": "https://github.com/olcf/s3m-apis",
+  "title": "s3m-apis",
+  "why": "Go and Python gRPC clients for the S3M service, with a factory that creates and closes client connections.",
+  "keys": {
+    "races": [
+      "sci/hpc",
+      "data/serialization"
+    ],
+    "lanes": [
+      "sci/hpc",
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/olcf/s3m-apis",
+    "sha": "24a2233b9e8d99303117498824c3926753b67fb5",
+    "file_url": "https://cdn.jsdelivr.net/gh/olcf/s3m-apis@24a2233b9e8d99303117498824c3926753b67fb5/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2026-04-10T21:07:55Z",
+    "last_commit_at": "2026-11-05T13:05:30Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.1",
+      "at": "2026-11-05T13:07:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "24a2233b9e8d99303117498824c3926753b67fb5",
+    "v": 4
+  },
+  "pinned_at": "2026-11-05T13:05:30Z"
+}

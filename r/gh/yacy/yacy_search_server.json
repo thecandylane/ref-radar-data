@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:eba3f94b4376180de5fbf3812c41e3c65dad4cfb"
+  },
+  "id": "gh:yacy/yacy_search_server",
+  "kind": "repo",
+  "url": "https://github.com/yacy/yacy_search_server",
+  "title": "yacy_search_server",
+  "why": "Peer search server where nodes forward queries to each other, with a crawler UI and Wikipedia dump tools for building an index.",
+  "keys": {
+    "races": [
+      "data/search"
+    ],
+    "lanes": [
+      "data/search"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/yacy/yacy_search_server",
+    "sha": "eba3f94b4376180de5fbf3812c41e3c65dad4cfb",
+    "file_url": "https://cdn.jsdelivr.net/gh/yacy/yacy_search_server@eba3f94b4376180de5fbf3812c41e3c65dad4cfb/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "NOASSERTION",
+    "stars": 4110,
+    "size_mb": 762,
+    "created_at": "2015-03-22T12:54:20Z",
+    "last_commit_at": "2026-11-03T22:11:43Z",
+    "releases": 0,
+    "tags": 28,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "eba3f94b4376180de5fbf3812c41e3c65dad4cfb",
+    "v": 4
+  },
+  "pinned_at": "2026-11-03T22:11:43Z"
+}

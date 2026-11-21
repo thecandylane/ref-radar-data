@@ -1,0 +1,60 @@
+{
+  "id": "gh:neuhausi/canvasxpress",
+  "kind": "repo",
+  "url": "https://github.com/neuhausi/canvasXpress",
+  "title": "canvasXpress",
+  "why": "Asks Claude to triage each GitHub issue, then sets labels through gh from the repo's .github scripts.",
+  "keys": {
+    "races": [
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/neuhausi/canvasXpress",
+    "sha": "14fdb44bc8e66ea3e988ade936857bb21e9bb40e",
+    "file_url": "https://cdn.jsdelivr.net/gh/neuhausi/canvasXpress@14fdb44bc8e66ea3e988ade936857bb21e9bb40e/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 318,
+    "size_mb": 181,
+    "created_at": "2016-02-03T04:48:37Z",
+    "last_commit_at": "2026-11-19T16:15:40Z",
+    "releases": 597,
+    "tags": 602,
+    "archived": false,
+    "release": {
+      "tag": "74.5.0",
+      "at": "2026-11-19T04:41:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "14fdb44bc8e66ea3e988ade936857bb21e9bb40e",
+    "v": 4
+  }
+}

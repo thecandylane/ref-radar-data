@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e61217c1463064bb3b97f5cba56c7fcf8e57ef74"
+  },
+  "id": "gh:calliope-project/calliope",
+  "kind": "repo",
+  "url": "https://github.com/calliope-project/calliope",
+  "title": "calliope",
+  "why": "Builds and solves energy system models from YAML definitions, with Pyomo, Gurobi or HiGHS as interchangeable backends.",
+  "keys": {
+    "races": [
+      "energy/system-models",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "energy/system-models",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/calliope-project/calliope",
+    "sha": "e61217c1463064bb3b97f5cba56c7fcf8e57ef74",
+    "file_url": "https://cdn.jsdelivr.net/gh/calliope-project/calliope@e61217c1463064bb3b97f5cba56c7fcf8e57ef74/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 380,
+    "size_mb": 66,
+    "created_at": "2013-09-18T17:58:41Z",
+    "last_commit_at": "2026-10-20T20:53:56Z",
+    "releases": 32,
+    "tags": 38,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.0",
+      "at": "2026-09-01T18:05:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e61217c1463064bb3b97f5cba56c7fcf8e57ef74",
+    "v": 4
+  },
+  "pinned_at": "2026-10-20T20:53:56Z"
+}

@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f51a5241e340ea151940becd19d1ca2a63810995"
+  },
+  "id": "gh:exoclim/aeolus",
+  "kind": "repo",
+  "url": "https://github.com/exoclim/aeolus",
+  "title": "aeolus",
+  "why": "Analyses atmospheric model output from simulated planets, computing energy balance and winds, and regridding to tidally locked coordinates before plotting.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/exoclim/aeolus",
+    "sha": "f51a5241e340ea151940becd19d1ca2a63810995",
+    "file_url": "https://cdn.jsdelivr.net/gh/exoclim/aeolus@f51a5241e340ea151940becd19d1ca2a63810995/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "LGPL-3.0",
+    "stars": 19,
+    "size_mb": 20,
+    "created_at": "2019-02-28T17:46:28Z",
+    "last_commit_at": "2026-11-03T11:02:15Z",
+    "releases": 10,
+    "tags": 27,
+    "archived": false,
+    "release": {
+      "tag": "24.11.1.2",
+      "at": "2024-11-03T07:42:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f51a5241e340ea151940becd19d1ca2a63810995",
+    "v": 4
+  },
+  "pinned_at": "2026-11-03T11:02:15Z"
+}

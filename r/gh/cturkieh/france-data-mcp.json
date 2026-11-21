@@ -1,0 +1,71 @@
+{
+  "id": "gh:cturkieh/france-data-mcp",
+  "kind": "repo",
+  "url": "https://github.com/cturkieh/france-data-mcp",
+  "title": "france-data-mcp",
+  "why": "Lets an agent query French registries such as RPPS, FINESS and DVF property sales over MCP, with ingest scripts for each source.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "data/datasets",
+      "real-estate/property-data"
+    ],
+    "lanes": [
+      "agents/tools",
+      "data/datasets",
+      "real-estate/property-data"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cturkieh/france-data-mcp",
+    "sha": "4fdbedb46f22bdfe8c4c42a4225bed4d2d6a46f5",
+    "file_url": "https://cdn.jsdelivr.net/gh/cturkieh/france-data-mcp@4fdbedb46f22bdfe8c4c42a4225bed4d2d6a46f5/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 5,
+    "size_mb": 8,
+    "created_at": "2026-05-07T15:14:36Z",
+    "last_commit_at": "2026-11-07T01:04:21Z",
+    "releases": 78,
+    "tags": 78,
+    "archived": false,
+    "release": {
+      "tag": "v0.32.0",
+      "at": "2026-11-07T01:05:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4fdbedb46f22bdfe8c4c42a4225bed4d2d6a46f5",
+    "v": 4
+  },
+  "pinned_at": "2026-11-07T01:04:21Z"
+}

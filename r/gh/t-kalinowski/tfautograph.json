@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:60b59a7f42eac3b2b893cca2d7c3b34f0ae1088e"
+  },
+  "id": "gh:t-kalinowski/tfautograph",
+  "kind": "repo",
+  "url": "https://github.com/t-kalinowski/tfautograph",
+  "title": "tfautograph",
+  "why": "Turns R if, while and for statements over tensors into TensorFlow graphs automatically, so a training loop runs inside the graph.",
+  "keys": {
+    "races": [
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/t-kalinowski/tfautograph",
+    "sha": "60b59a7f42eac3b2b893cca2d7c3b34f0ae1088e",
+    "file_url": "https://cdn.jsdelivr.net/gh/t-kalinowski/tfautograph@60b59a7f42eac3b2b893cca2d7c3b34f0ae1088e/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 18,
+    "size_mb": 1,
+    "created_at": "2019-06-16T00:38:44Z",
+    "last_commit_at": "2023-05-16T00:03:09Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.2",
+      "at": "2021-09-17T20:40:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "60b59a7f42eac3b2b893cca2d7c3b34f0ae1088e",
+    "v": 4
+  },
+  "pinned_at": "2023-05-16T00:03:09Z"
+}

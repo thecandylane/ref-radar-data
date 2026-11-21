@@ -1,0 +1,66 @@
+{
+  "id": "gh:martinrotter/rssguard",
+  "kind": "repo",
+  "url": "https://github.com/martinrotter/rssguard",
+  "title": "rssguard",
+  "why": "Keeps Feedly, Gmail, Nextcloud and Greader accounts in one desktop reader, with importers for QuiteRss and RssGuard4 databases.",
+  "keys": {
+    "races": [
+      "media/news",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "media/news",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/martinrotter/rssguard",
+    "sha": "70a3da194a74967e5bc60e8e91778afd04e9b4bc",
+    "file_url": "https://raw.githubusercontent.com/martinrotter/rssguard/70a3da194a74967e5bc60e8e91778afd04e9b4bc/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-3.0",
+    "stars": 2852,
+    "size_mb": 451,
+    "created_at": "2014-09-11T05:54:40Z",
+    "last_commit_at": "2026-11-20T11:36:19Z",
+    "releases": 95,
+    "tags": 128,
+    "archived": false,
+    "release": {
+      "tag": "5.3.0",
+      "at": "2026-11-12T13:45:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "70a3da194a74967e5bc60e8e91778afd04e9b4bc",
+    "v": 4
+  }
+}

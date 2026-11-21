@@ -1,0 +1,67 @@
+{
+  "id": "gh:maizzle/framework",
+  "kind": "repo",
+  "url": "https://github.com/maizzle/framework",
+  "title": "maizzle/framework",
+  "why": "Builds Tailwind styled email templates into HTML with inlined CSS and a plaintext copy, plus a dev server for previews.",
+  "keys": {
+    "races": [
+      "marketing/email",
+      "web/css"
+    ],
+    "lanes": [
+      "marketing/email",
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/maizzle/framework",
+    "sha": "66e0f3d12ebe46983f716a6fc287d28ec385644d",
+    "file_url": "https://cdn.jsdelivr.net/gh/maizzle/framework@66e0f3d12ebe46983f716a6fc287d28ec385644d/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1623,
+    "size_mb": 13,
+    "created_at": "2018-12-11T10:38:14Z",
+    "last_commit_at": "2026-11-16T16:07:16Z",
+    "releases": 311,
+    "tags": 315,
+    "archived": false,
+    "release": {
+      "tag": "v6.4.0",
+      "at": "2026-11-16T16:09:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "66e0f3d12ebe46983f716a6fc287d28ec385644d",
+    "v": 4
+  },
+  "pinned_at": "2026-11-16T16:07:16Z"
+}

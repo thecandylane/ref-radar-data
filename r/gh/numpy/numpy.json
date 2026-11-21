@@ -1,0 +1,70 @@
+{
+  "id": "gh:numpy/numpy",
+  "kind": "repo",
+  "url": "https://github.com/numpy/numpy",
+  "title": "numpy",
+  "why": "Provides the N-dimensional array object that Python scientific code builds on, with linear algebra, Fourier transform and random number tools.",
+  "keys": {
+    "races": [
+      "sci/numerics",
+      "sci/hpc"
+    ],
+    "lanes": [
+      "sci/numerics",
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/numpy/numpy",
+    "sha": "e092b9144edcdf1c52f46b4b2a0ad0869109c500",
+    "file_url": "https://cdn.jsdelivr.net/gh/numpy/numpy@e092b9144edcdf1c52f46b4b2a0ad0869109c500/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 33446,
+    "size_mb": 183,
+    "created_at": "2010-09-13T23:02:39Z",
+    "last_commit_at": "2026-11-20T20:29:09Z",
+    "releases": 150,
+    "tags": 282,
+    "archived": false,
+    "release": {
+      "tag": "v2.5.5",
+      "at": "2026-11-15T23:35:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pins_before": [
+    "85c4843a638055bfbfc87246122f8482192c9f53"
+  ],
+  "pinned_at": "2026-11-20T20:29:09Z",
+  "papers": [
+    {
+      "id": "arxiv:2006.10256",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

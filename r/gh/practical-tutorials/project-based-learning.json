@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:322fb30147c809574ed71d1c34e3480e80a6b0e8"
+    "swh": "swh:1:rev:f99ea242247b9b6df9bd277f832fa5a8f1da28e1"
   },
   "id": "gh:practical-tutorials/project-based-learning",
   "kind": "repo",
@@ -27,13 +27,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/practical-tutorials/project-based-learning",
-    "sha": "322fb30147c809574ed71d1c34e3480e80a6b0e8",
-    "file_url": "https://cdn.jsdelivr.net/gh/practical-tutorials/project-based-learning@322fb30147c809574ed71d1c34e3480e80a6b0e8/{path}"
+    "sha": "f99ea242247b9b6df9bd277f832fa5a8f1da28e1",
+    "file_url": "https://cdn.jsdelivr.net/gh/practical-tutorials/project-based-learning@f99ea242247b9b6df9bd277f832fa5a8f1da28e1/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 290074,
+    "stars": 290139,
     "size_mb": 0,
     "created_at": "2017-04-12T05:07:46Z",
     "last_commit_at": "2026-11-16T06:44:29Z",
@@ -50,13 +50,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 442,
+    "star_delta_7d": 435,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "322fb30147c809574ed71d1c34e3480e80a6b0e8",
-    "v": 3
-  }
+  "pins_before": [
+    "322fb30147c809574ed71d1c34e3480e80a6b0e8"
+  ],
+  "pinned_at": "2026-11-16T06:44:29Z"
 }

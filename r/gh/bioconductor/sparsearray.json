@@ -1,0 +1,62 @@
+{
+  "id": "gh:bioconductor/sparsearray",
+  "kind": "repo",
+  "url": "https://github.com/Bioconductor/SparseArray",
+  "title": "SparseArray",
+  "why": "Runs sum, min, max and comparison on sparse R arrays in C, so zero cells need not be read.",
+  "keys": {
+    "races": [
+      "sci/numerics"
+    ],
+    "lanes": [
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Bioconductor/SparseArray",
+    "sha": "7f0a66c63139d0986ab344fe6f5737dd23242935",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/SparseArray@7f0a66c63139d0986ab344fe6f5737dd23242935/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 13,
+    "size_mb": 1,
+    "created_at": "2022-08-04T17:54:07Z",
+    "last_commit_at": "2026-11-13T18:15:42Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7f0a66c63139d0986ab344fe6f5737dd23242935",
+    "v": 4
+  },
+  "pinned_at": "2026-11-13T18:15:42Z"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "gh:ropensci/bowerbird",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/bowerbird",
+  "title": "bowerbird",
+  "why": "Client-side scripts for a pkgdown docs site that mark matched words in search hits and update link tooltips on the page.",
+  "keys": {
+    "races": [
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/bowerbird",
+    "sha": "8b57ab587b6dab0f00357f5dedf35713cd6c1bf6",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/bowerbird@8b57ab587b6dab0f00357f5dedf35713cd6c1bf6/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 52,
+    "size_mb": 2,
+    "created_at": "2017-06-17T09:26:22Z",
+    "last_commit_at": "2026-11-10T23:08:15Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8b57ab587b6dab0f00357f5dedf35713cd6c1bf6",
+    "v": 4
+  },
+  "pinned_at": "2026-11-10T23:08:15Z"
+}

@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:03dcd190a363be6e501b2819803e70495200551c"
+  },
+  "id": "gh:django/asgiref",
+  "kind": "repo",
+  "url": "https://github.com/django/asgiref",
+  "title": "asgiref",
+  "why": "Bridges sync and async Python apps, wrapping WSGI apps for ASGI servers and running blocking calls on threads without rewriting callers.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/django/asgiref",
+    "sha": "03dcd190a363be6e501b2819803e70495200551c",
+    "file_url": "https://cdn.jsdelivr.net/gh/django/asgiref@03dcd190a363be6e501b2819803e70495200551c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 1638,
+    "size_mb": 1,
+    "created_at": "2015-12-23T17:07:13Z",
+    "last_commit_at": "2026-10-23T08:07:52Z",
+    "releases": 0,
+    "tags": 71,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "03dcd190a363be6e501b2819803e70495200551c",
+    "v": 4
+  },
+  "pinned_at": "2026-10-23T08:07:52Z"
+}

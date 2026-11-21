@@ -1,0 +1,67 @@
+{
+  "id": "gh:opendatalab/mineru",
+  "kind": "repo",
+  "url": "https://github.com/opendatalab/MinerU",
+  "title": "MinerU",
+  "why": "Parses PDFs, scans and Office files into markdown and JSON for agents, with stable page and block locators for citing results.",
+  "keys": {
+    "races": [
+      "business-apps/document-management",
+      "llm-infra/rag",
+      "agents/skills"
+    ],
+    "lanes": [
+      "business-apps/document-management",
+      "llm-infra/rag",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "llm-infra/rag/knowledge-platforms"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/opendatalab/MinerU",
+    "sha": "097de7f63f54722c9b805ee1c9a14a0c5b02e078",
+    "file_url": "https://cdn.jsdelivr.net/gh/opendatalab/MinerU@097de7f63f54722c9b805ee1c9a14a0c5b02e078/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 84088,
+    "size_mb": 187,
+    "created_at": "2024-02-29T08:52:34Z",
+    "last_commit_at": "2026-11-18T09:20:25Z",
+    "releases": 211,
+    "tags": 238,
+    "archived": false,
+    "release": {
+      "tag": "mineru-4.2.3-released",
+      "at": "2026-11-16T18:13:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "097de7f63f54722c9b805ee1c9a14a0c5b02e078",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T09:20:25Z"
+}

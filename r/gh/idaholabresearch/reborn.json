@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:de5cc2b9998e913cfa61d42b55af99976c4d6e99"
+  },
+  "id": "gh:idaholabresearch/reborn",
+  "kind": "repo",
+  "url": "https://github.com/IdahoLabResearch/REBORN",
+  "title": "REBORN",
+  "why": "Desktop planner that places facilities and dealerships by yearly demand, then solves a Pyomo model with cplex for costs.",
+  "keys": {
+    "races": [
+      "sci/optimization",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "sci/optimization",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/IdahoLabResearch/REBORN",
+    "sha": "de5cc2b9998e913cfa61d42b55af99976c4d6e99",
+    "file_url": "https://cdn.jsdelivr.net/gh/IdahoLabResearch/REBORN@de5cc2b9998e913cfa61d42b55af99976c4d6e99/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 3,
+    "size_mb": 57,
+    "created_at": "2026-05-13T14:54:48Z",
+    "last_commit_at": "2026-09-15T17:50:28Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "de5cc2b9998e913cfa61d42b55af99976c4d6e99",
+    "v": 4
+  },
+  "pinned_at": "2026-09-15T17:50:28Z"
+}

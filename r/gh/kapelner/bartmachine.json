@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ca90cdd752e574cf2302d30a05f947e2f12a8469"
+  },
+  "id": "gh:kapelner/bartmachine",
+  "kind": "repo",
+  "url": "https://github.com/kapelner/bartMachine",
+  "title": "bartMachine",
+  "why": "Samples tree forests by Gibbs for regression and classification, reporting credible intervals and predicting on the GPU.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kapelner/bartMachine",
+    "sha": "ca90cdd752e574cf2302d30a05f947e2f12a8469",
+    "file_url": "https://cdn.jsdelivr.net/gh/kapelner/bartMachine@ca90cdd752e574cf2302d30a05f947e2f12a8469/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "MIT",
+    "stars": 67,
+    "size_mb": 43,
+    "created_at": "2013-12-02T18:45:54Z",
+    "last_commit_at": "2026-09-03T13:11:19Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ca90cdd752e574cf2302d30a05f947e2f12a8469",
+    "v": 4
+  },
+  "pinned_at": "2026-09-03T13:11:19Z"
+}

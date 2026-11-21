@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:144fad921e8ee30f03c73ed72208bfa7355eb75d"
+  },
+  "id": "gh:iamvishnusankar/next-sitemap",
+  "kind": "repo",
+  "url": "https://github.com/iamvishnusankar/next-sitemap",
+  "title": "next-sitemap",
+  "why": "Generates sitemap XML files and robots.txt for a Next.js build, as a postbuild step that also covers dynamic pages.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "seo/meta-sitemaps"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "seo/meta-sitemaps"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/iamvishnusankar/next-sitemap",
+    "sha": "144fad921e8ee30f03c73ed72208bfa7355eb75d",
+    "file_url": "https://cdn.jsdelivr.net/gh/iamvishnusankar/next-sitemap@144fad921e8ee30f03c73ed72208bfa7355eb75d/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 3751,
+    "size_mb": 6,
+    "created_at": "2020-08-02T13:07:45Z",
+    "last_commit_at": "2026-03-10T19:47:09Z",
+    "releases": 236,
+    "tags": 332,
+    "archived": false,
+    "release": {
+      "tag": "v4.2.3",
+      "at": "2023-09-06T07:11:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "144fad921e8ee30f03c73ed72208bfa7355eb75d",
+    "v": 4
+  },
+  "pinned_at": "2026-03-10T19:47:09Z"
+}

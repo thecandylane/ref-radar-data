@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3d2703d38c2812ee144d7d364ce472f2d43a0def"
+  },
+  "id": "gh:bioconductor/bioccheck",
+  "kind": "repo",
+  "url": "https://github.com/Bioconductor/BiocCheck",
+  "title": "BiocCheck",
+  "why": "Checks R packages for Bioconductor submission problems, using a small bundled C test package to exercise the checks.",
+  "keys": {
+    "races": [
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Bioconductor/BiocCheck",
+    "sha": "3d2703d38c2812ee144d7d364ce472f2d43a0def",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/BiocCheck@3d2703d38c2812ee144d7d364ce472f2d43a0def/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 11,
+    "size_mb": 6,
+    "created_at": "2015-06-05T19:07:09Z",
+    "last_commit_at": "2026-11-19T16:47:11Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3d2703d38c2812ee144d7d364ce472f2d43a0def",
+    "v": 4
+  },
+  "pinned_at": "2026-11-19T16:47:11Z"
+}

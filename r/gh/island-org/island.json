@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3cb72404f8bdf07b49b301690d8ecdd28d424ffa"
+  },
+  "id": "gh:island-org/island",
+  "kind": "repo",
+  "url": "https://github.com/island-org/island",
+  "title": "island",
+  "why": "Ships C sample apps like a Processing port and a CUDA shader toy, so you can see how OpenGL code is laid out.",
+  "keys": {
+    "races": [
+      "games/graphics",
+      "games/engines"
+    ],
+    "lanes": [
+      "games/graphics",
+      "games/engines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/island-org/island",
+    "sha": "3cb72404f8bdf07b49b301690d8ecdd28d424ffa",
+    "file_url": "https://cdn.jsdelivr.net/gh/island-org/island@3cb72404f8bdf07b49b301690d8ecdd28d424ffa/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 249,
+    "size_mb": 5,
+    "created_at": "2014-04-24T08:30:32Z",
+    "last_commit_at": "2018-05-03T15:06:29Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3cb72404f8bdf07b49b301690d8ecdd28d424ffa",
+    "v": 4
+  },
+  "pinned_at": "2018-05-03T15:06:29Z"
+}

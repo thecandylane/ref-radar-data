@@ -1,0 +1,83 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9251502434075a96d7086f38605de530350b478b"
+  },
+  "id": "gh:geoffryan/afterglowpy",
+  "kind": "repo",
+  "url": "https://github.com/geoffryan/afterglowpy",
+  "title": "afterglowpy",
+  "why": "Computes light curves and spectra for GRB afterglows, including jet spreading, arbitrary viewing angles and synchrotron emission.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/geoffryan/afterglowpy",
+    "sha": "9251502434075a96d7086f38605de530350b478b",
+    "file_url": "https://cdn.jsdelivr.net/gh/geoffryan/afterglowpy@9251502434075a96d7086f38605de530350b478b/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 45,
+    "size_mb": 0,
+    "created_at": "2017-11-16T16:15:14Z",
+    "last_commit_at": "2025-03-14T19:26:11Z",
+    "releases": 0,
+    "tags": 8,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9251502434075a96d7086f38605de530350b478b",
+    "v": 4
+  },
+  "pinned_at": "2025-03-14T19:26:11Z",
+  "papers": [
+    {
+      "id": "arxiv:1801.01848",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1110.5089",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1006.5125",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

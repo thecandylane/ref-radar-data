@@ -1,0 +1,64 @@
+{
+  "id": "gh:jcputney/scorm-again",
+  "kind": "repo",
+  "url": "https://github.com/jcputney/scorm-again",
+  "title": "scorm-again",
+  "why": "Runs SCORM 1.2 and 2004 courses in the browser and stores progress offline, syncing after reconnect.",
+  "keys": {
+    "races": [
+      "learning/lms"
+    ],
+    "lanes": [
+      "learning/lms"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jcputney/scorm-again",
+    "sha": "cc5b60b38ef237393a58047f24ba459fe06d97a5",
+    "file_url": "https://cdn.jsdelivr.net/gh/jcputney/scorm-again@cc5b60b38ef237393a58047f24ba459fe06d97a5/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 366,
+    "size_mb": 86,
+    "created_at": "2019-11-10T17:22:34Z",
+    "last_commit_at": "2026-11-20T18:43:29Z",
+    "releases": 63,
+    "tags": 63,
+    "archived": false,
+    "release": {
+      "tag": "3.5.0",
+      "at": "2026-10-26T20:40:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "cc5b60b38ef237393a58047f24ba459fe06d97a5",
+    "v": 4
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "gh:memorilabs/memori-cookbook",
+  "kind": "repo",
+  "url": "https://github.com/MemoriLabs/memori-cookbook",
+  "title": "memori-cookbook",
+  "why": "Shows an OpenAI client wired to Memori's Python SDK for memory across sessions, with the project managed by uv.",
+  "keys": {
+    "races": [
+      "agents/memory",
+      "learning/courses"
+    ],
+    "lanes": [
+      "agents/memory",
+      "learning/courses"
+    ],
+    "capabilities": [
+      "agents/memory/long-term-memory"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MemoriLabs/memori-cookbook",
+    "sha": "af2e683fb7f26d510ca68e64b7cc0247befa7446",
+    "file_url": "https://cdn.jsdelivr.net/gh/MemoriLabs/memori-cookbook@af2e683fb7f26d510ca68e64b7cc0247befa7446/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 17,
+    "size_mb": 1,
+    "created_at": "2025-12-04T20:16:47Z",
+    "last_commit_at": "2026-06-04T15:44:42Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "af2e683fb7f26d510ca68e64b7cc0247befa7446",
+    "v": 4
+  },
+  "pinned_at": "2026-06-04T15:44:42Z"
+}

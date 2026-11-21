@@ -1,0 +1,69 @@
+{
+  "id": "gh:moisoni97/google-inapp-billing",
+  "kind": "repo",
+  "url": "https://github.com/moisoni97/google-inapp-billing",
+  "title": "google-inapp-billing",
+  "why": "Wraps Google billing for Android apps so consumable, non-consumable and subscription purchases get verified and acknowledged by one connector.",
+  "keys": {
+    "races": [
+      "mobile/android",
+      "finance/payments",
+      "finance/billing"
+    ],
+    "lanes": [
+      "mobile/android",
+      "finance/payments",
+      "finance/billing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/moisoni97/google-inapp-billing",
+    "sha": "2e222e41aa9d166d70c4cf3043efecbcc6ebcb83",
+    "file_url": "https://cdn.jsdelivr.net/gh/moisoni97/google-inapp-billing@2e222e41aa9d166d70c4cf3043efecbcc6ebcb83/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 149,
+    "size_mb": 5,
+    "created_at": "2021-06-13T15:29:42Z",
+    "last_commit_at": "2026-10-01T22:47:47Z",
+    "releases": 21,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "2.0.0",
+      "at": "2026-10-01T23:09:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2e222e41aa9d166d70c4cf3043efecbcc6ebcb83",
+    "v": 4
+  },
+  "pinned_at": "2026-10-01T22:47:47Z"
+}

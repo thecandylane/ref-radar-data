@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f7ef2e686c83449babaea49815c69db3668d2ab7"
+  },
+  "id": "gh:suren-atoyan/monaco-react",
+  "kind": "repo",
+  "url": "https://github.com/suren-atoyan/monaco-react",
+  "title": "monaco-react",
+  "why": "Embeds the Monaco editor in any React app as one component, with no webpack config or plugins needed.",
+  "keys": {
+    "races": [
+      "dev-tools/editors",
+      "web/ui-components"
+    ],
+    "lanes": [
+      "dev-tools/editors",
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/suren-atoyan/monaco-react",
+    "sha": "f7ef2e686c83449babaea49815c69db3668d2ab7",
+    "file_url": "https://cdn.jsdelivr.net/gh/suren-atoyan/monaco-react@f7ef2e686c83449babaea49815c69db3668d2ab7/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 4758,
+    "size_mb": 2,
+    "created_at": "2019-06-16T07:46:31Z",
+    "last_commit_at": "2026-01-25T19:24:29Z",
+    "releases": 52,
+    "tags": 52,
+    "archived": false,
+    "release": {
+      "tag": "v4.8.0-rc.3",
+      "at": "2025-11-21T07:39:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f7ef2e686c83449babaea49815c69db3668d2ab7",
+    "v": 4
+  },
+  "pinned_at": "2026-01-25T19:24:29Z"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "gh:bostrot/telegram-support-bot",
+  "kind": "repo",
+  "url": "https://github.com/bostrot/telegram-support-bot",
+  "title": "telegram-support-bot",
+  "why": "Routes Telegram, Discord, Slack and Signal messages into staff ticket threads, with ban, mute and CSAT commands built in.",
+  "keys": {
+    "races": [
+      "support/helpdesk"
+    ],
+    "lanes": [
+      "support/helpdesk"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bostrot/telegram-support-bot",
+    "sha": "dfb22598cb96f9691a12f441038d0105c9a726f5",
+    "file_url": "https://cdn.jsdelivr.net/gh/bostrot/telegram-support-bot@dfb22598cb96f9691a12f441038d0105c9a726f5/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "GPL-3.0",
+    "stars": 618,
+    "size_mb": 2,
+    "created_at": "2017-06-30T19:35:11Z",
+    "last_commit_at": "2026-11-20T04:57:10Z",
+    "releases": 18,
+    "tags": 20,
+    "archived": false,
+    "release": {
+      "tag": "v6.0.1",
+      "at": "2026-11-19T18:39:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dfb22598cb96f9691a12f441038d0105c9a726f5",
+    "v": 4
+  },
+  "pinned_at": "2026-11-20T04:57:10Z"
+}

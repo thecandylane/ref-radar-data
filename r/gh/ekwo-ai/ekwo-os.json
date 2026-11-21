@@ -1,0 +1,73 @@
+{
+  "id": "gh:ekwo-ai/ekwo-os",
+  "kind": "repo",
+  "url": "https://github.com/Ekwo-ai/ekwo-os",
+  "title": "ekwo-os",
+  "why": "Keeps company books as a Postgres schema on your own Supabase project, with country tax packs and an MCP server so an agent can record and report.",
+  "keys": {
+    "races": [
+      "finance/accounting",
+      "finance/e-invoicing",
+      "agents/tools",
+      "data/databases"
+    ],
+    "lanes": [
+      "finance/accounting",
+      "finance/e-invoicing",
+      "agents/tools",
+      "data/databases"
+    ],
+    "capabilities": [
+      "finance/accounting/bookkeeping",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Ekwo-ai/ekwo-os",
+    "sha": "005da8fad8dad3fbad9d1231d118807eea81e426",
+    "file_url": "https://cdn.jsdelivr.net/gh/Ekwo-ai/ekwo-os@005da8fad8dad3fbad9d1231d118807eea81e426/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "AGPL-3.0",
+    "stars": 42,
+    "size_mb": 31,
+    "created_at": "2026-09-19T17:55:39Z",
+    "last_commit_at": "2026-11-21T06:22:10Z",
+    "releases": 17,
+    "tags": 37,
+    "archived": false,
+    "release": {
+      "tag": "v0.25.0",
+      "at": "2026-11-07T07:29:32.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "005da8fad8dad3fbad9d1231d118807eea81e426",
+    "v": 4
+  }
+}

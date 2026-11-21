@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:29f3f1698f341e3d8fcc4f4eb5340ee43427fe63"
+  },
+  "id": "gh:polonel/trudesk",
+  "kind": "repo",
+  "url": "https://github.com/polonel/trudesk",
+  "title": "trudesk",
+  "why": "Self-hosted ticketing app on Node.js and MongoDB, with Elasticsearch optional for search, deployable on docker, bare metal or a Raspberry Pi.",
+  "keys": {
+    "races": [
+      "support/helpdesk",
+      "business-apps/bpm"
+    ],
+    "lanes": [
+      "support/helpdesk",
+      "business-apps/bpm"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/polonel/trudesk",
+    "sha": "29f3f1698f341e3d8fcc4f4eb5340ee43427fe63",
+    "file_url": "https://cdn.jsdelivr.net/gh/polonel/trudesk@29f3f1698f341e3d8fcc4f4eb5340ee43427fe63/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "NOASSERTION",
+    "stars": 1496,
+    "size_mb": 87,
+    "created_at": "2014-07-14T20:57:48Z",
+    "last_commit_at": "2024-07-24T22:49:58Z",
+    "releases": 53,
+    "tags": 56,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.11",
+      "at": "2024-07-24T22:50:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "29f3f1698f341e3d8fcc4f4eb5340ee43427fe63",
+    "v": 4
+  },
+  "pinned_at": "2024-07-24T22:49:58Z"
+}

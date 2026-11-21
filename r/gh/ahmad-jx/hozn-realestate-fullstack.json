@@ -1,0 +1,66 @@
+{
+  "id": "gh:ahmad-jx/hozn-realestate-fullstack",
+  "kind": "repo",
+  "url": "https://github.com/AHMAD-JX/Hozn-RealEstate-Fullstack",
+  "title": "Hozn-RealEstate-Fullstack",
+  "why": "Next.js and Express real estate site with property listings, buy and sell endpoints, and an admin dashboard over PostgreSQL.",
+  "keys": {
+    "races": [
+      "real-estate/listings",
+      "web/frameworks",
+      "data/databases"
+    ],
+    "lanes": [
+      "real-estate/listings",
+      "web/frameworks",
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AHMAD-JX/Hozn-RealEstate-Fullstack",
+    "sha": "146f804de9b7fc09eb3ead9da71826e979794978",
+    "file_url": "https://cdn.jsdelivr.net/gh/AHMAD-JX/Hozn-RealEstate-Fullstack@146f804de9b7fc09eb3ead9da71826e979794978/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 188,
+    "size_mb": 42,
+    "created_at": "2025-03-27T16:14:35Z",
+    "last_commit_at": "2025-03-27T22:29:25Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "146f804de9b7fc09eb3ead9da71826e979794978",
+    "v": 4
+  },
+  "pinned_at": "2025-03-27T22:29:25Z"
+}

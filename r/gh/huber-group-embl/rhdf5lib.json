@@ -24,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Huber-group-EMBL/Rhdf5lib",
-    "sha": "deb7fc6cb4618d745a072e713d43adf1ab778c97",
-    "file_url": "https://cdn.jsdelivr.net/gh/Huber-group-EMBL/Rhdf5lib@deb7fc6cb4618d745a072e713d43adf1ab778c97/{path}"
+    "sha": "b6629950018b2fbbfd91e08b5c5095a734eb27d6",
+    "file_url": "https://cdn.jsdelivr.net/gh/Huber-group-EMBL/Rhdf5lib@b6629950018b2fbbfd91e08b5c5095a734eb27d6/{path}"
   },
   "facts": {
     "lang": "R",
@@ -33,7 +33,7 @@
     "stars": 7,
     "size_mb": 148,
     "created_at": "2017-08-21T13:46:44Z",
-    "last_commit_at": "2026-06-16T13:45:06Z",
+    "last_commit_at": "2026-11-19T18:04:41Z",
     "releases": 0,
     "tags": 1,
     "archived": false,
@@ -52,8 +52,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "deb7fc6cb4618d745a072e713d43adf1ab778c97",
-    "v": 4
-  }
+  "pins_before": [
+    "deb7fc6cb4618d745a072e713d43adf1ab778c97"
+  ],
+  "pinned_at": "2026-11-19T18:04:41Z"
 }

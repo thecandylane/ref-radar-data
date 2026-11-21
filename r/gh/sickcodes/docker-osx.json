@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:aa05a2c9a06aabfc8542c1c373ad1ad0af74ede3"
+  },
+  "id": "gh:sickcodes/docker-osx",
+  "kind": "repo",
+  "url": "https://github.com/sickcodes/Docker-OSX",
+  "title": "Docker-OSX",
+  "why": "Runs macOS releases from Catalina to Tahoe in a Docker container under KVM, with X11 forwarding for a graphical desktop.",
+  "keys": {
+    "races": [
+      "infra/containers",
+      "infra/isolation"
+    ],
+    "lanes": [
+      "infra/containers",
+      "infra/isolation"
+    ],
+    "capabilities": [
+      "infra/containers/macos-containers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sickcodes/Docker-OSX",
+    "sha": "aa05a2c9a06aabfc8542c1c373ad1ad0af74ede3",
+    "file_url": "https://cdn.jsdelivr.net/gh/sickcodes/Docker-OSX@aa05a2c9a06aabfc8542c1c373ad1ad0af74ede3/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "GPL-3.0",
+    "stars": 53015,
+    "size_mb": 13,
+    "created_at": "2020-06-04T11:01:37Z",
+    "last_commit_at": "2025-11-11T05:23:39Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "aa05a2c9a06aabfc8542c1c373ad1ad0af74ede3",
+    "v": 4
+  },
+  "pinned_at": "2025-11-11T05:23:39Z"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "gh:techfunway/rental",
+  "kind": "repo",
+  "url": "https://github.com/TechFunWay/rental",
+  "title": "rental",
+  "why": "Runs rooms, tenants, contracts, meter records and arrears for rentals, with per-ledger member permissions in a Go server.",
+  "keys": {
+    "races": [
+      "real-estate/property-management",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "real-estate/property-management",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/TechFunWay/rental",
+    "sha": "7d0c8817770b4451a8d56f27bf41242665e83d84",
+    "file_url": "https://cdn.jsdelivr.net/gh/TechFunWay/rental@7d0c8817770b4451a8d56f27bf41242665e83d84/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 23,
+    "size_mb": 8,
+    "created_at": "2026-09-23T06:32:27Z",
+    "last_commit_at": "2026-10-20T14:56:15Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.0",
+      "at": "2026-10-19T14:38:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7d0c8817770b4451a8d56f27bf41242665e83d84",
+    "v": 4
+  },
+  "pinned_at": "2026-10-20T14:56:15Z"
+}

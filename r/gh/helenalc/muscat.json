@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:861683175a1804430ced420397e72fff16fe92ed"
+  },
+  "id": "gh:helenalc/muscat",
+  "kind": "repo",
+  "url": "https://github.com/HelenaLC/muscat",
+  "title": "muscat",
+  "why": "Runs pseudobulk and mixed-model differential state tests on multi-sample single-cell data, plus a differential detection workflow.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/HelenaLC/muscat",
+    "sha": "861683175a1804430ced420397e72fff16fe92ed",
+    "file_url": "https://cdn.jsdelivr.net/gh/HelenaLC/muscat@861683175a1804430ced420397e72fff16fe92ed/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 249,
+    "size_mb": 24,
+    "created_at": "2018-11-02T15:24:50Z",
+    "last_commit_at": "2026-04-28T12:50:48Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "861683175a1804430ced420397e72fff16fe92ed",
+    "v": 4
+  },
+  "pinned_at": "2026-04-28T12:50:48Z"
+}

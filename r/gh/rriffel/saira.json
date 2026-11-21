@@ -1,0 +1,58 @@
+{
+  "id": "gh:rriffel/saira",
+  "kind": "repo",
+  "url": "https://github.com/rriffel/saira",
+  "title": "saira",
+  "why": "Batch-measures equivalent widths on spectra listed in a table, with a PyQt window for editing index definitions.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rriffel/saira",
+    "sha": "ac720f7850f1f5a04c346a387210fbb31d8f4658",
+    "file_url": "https://raw.githubusercontent.com/rriffel/saira/ac720f7850f1f5a04c346a387210fbb31d8f4658/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 346,
+    "created_at": "2023-11-28T12:36:04Z",
+    "last_commit_at": "2026-10-16T19:13:07Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ac720f7850f1f5a04c346a387210fbb31d8f4658",
+    "v": 4
+  },
+  "pinned_at": "2026-10-16T19:13:07Z"
+}

@@ -1,0 +1,83 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4af3eac9c1be18f2d8d9f10bc2eaa2b1dfa64c2d"
+  },
+  "id": "gh:yk748/cxreg",
+  "kind": "repo",
+  "url": "https://github.com/yk748/cxreg",
+  "title": "cxreg",
+  "why": "R package that loads compiled C++ code when attached, for its statistical modelling routines.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/yk748/cxreg",
+    "sha": "4af3eac9c1be18f2d8d9f10bc2eaa2b1dfa64c2d",
+    "file_url": "https://cdn.jsdelivr.net/gh/yk748/cxreg@4af3eac9c1be18f2d8d9f10bc2eaa2b1dfa64c2d/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 5,
+    "created_at": "2024-04-29T19:24:04Z",
+    "last_commit_at": "2026-08-23T18:46:24Z",
+    "releases": 3,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.4",
+      "at": "2026-08-23T18:53:06.000Z"
+    },
+    "doi": "10.21105/joss.09698"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4af3eac9c1be18f2d8d9f10bc2eaa2b1dfa64c2d",
+    "v": 4
+  },
+  "pinned_at": "2026-08-23T18:46:24Z",
+  "papers": [
+    {
+      "id": "arxiv:2606.07986",
+      "via": [
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2401.11128",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

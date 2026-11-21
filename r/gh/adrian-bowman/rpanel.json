@@ -1,0 +1,66 @@
+{
+  "id": "gh:adrian-bowman/rpanel",
+  "kind": "repo",
+  "url": "https://github.com/adrian-bowman/rpanel",
+  "title": "rpanel",
+  "why": "R package for building panel-style dialogs, so a script can present its inputs as a small window.",
+  "keys": {
+    "races": [
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "DESCRIPTION",
+      "kind": "path"
+    },
+    {
+      "locator": "R",
+      "kind": "path"
+    },
+    {
+      "locator": "demo",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/adrian-bowman/rpanel",
+    "sha": "1b6e7bd446661e3024811abe99a37ebdd092f319",
+    "file_url": "https://cdn.jsdelivr.net/gh/adrian-bowman/rpanel@1b6e7bd446661e3024811abe99a37ebdd092f319/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 214,
+    "created_at": "2021-08-17T10:57:51Z",
+    "last_commit_at": "2026-04-27T09:13:23Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1b6e7bd446661e3024811abe99a37ebdd092f319",
+    "v": 4
+  },
+  "pinned_at": "2026-04-27T09:13:23Z"
+}

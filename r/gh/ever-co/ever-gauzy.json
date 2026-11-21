@@ -40,18 +40,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ever-co/ever-gauzy",
-    "sha": "d36941aa33c97c57c5d9459c845fb11dedf1b35d",
-    "file_url": "https://raw.githubusercontent.com/ever-co/ever-gauzy/d36941aa33c97c57c5d9459c845fb11dedf1b35d/{path}"
+    "sha": "0dc826c76e04d6c8803e5933b398aeb4fed8b8b6",
+    "file_url": "https://raw.githubusercontent.com/ever-co/ever-gauzy/0dc826c76e04d6c8803e5933b398aeb4fed8b8b6/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 8866,
-    "size_mb": 323,
+    "stars": 8874,
+    "size_mb": 326,
     "created_at": "2019-06-02T09:47:13Z",
-    "last_commit_at": "2026-11-19T14:37:50Z",
+    "last_commit_at": "2026-11-20T23:01:03Z",
     "releases": 1000,
-    "tags": 5373,
+    "tags": 5384,
     "archived": false,
     "release": {
       "tag": "v111.142.11",
@@ -71,8 +71,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "d36941aa33c97c57c5d9459c845fb11dedf1b35d",
-    "v": 4
-  }
+  "pins_before": [
+    "d36941aa33c97c57c5d9459c845fb11dedf1b35d"
+  ],
+  "pinned_at": "2026-11-20T23:01:03Z"
 }

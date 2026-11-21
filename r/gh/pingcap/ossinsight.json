@@ -1,0 +1,67 @@
+{
+  "id": "gh:pingcap/ossinsight",
+  "kind": "repo",
+  "url": "https://github.com/pingcap/ossinsight",
+  "title": "ossinsight",
+  "why": "Turns natural language questions into SQL over 10+ billion GitHub events, with repo comparisons and collection rankings.",
+  "keys": {
+    "races": [
+      "data/analytics",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "data/analytics",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pingcap/ossinsight",
+    "sha": "77538008b8fe8b0dd3dc6caa3fc4ba987e10360a",
+    "file_url": "https://cdn.jsdelivr.net/gh/pingcap/ossinsight@77538008b8fe8b0dd3dc6caa3fc4ba987e10360a/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 2535,
+    "size_mb": 656,
+    "created_at": "2022-01-19T10:41:15Z",
+    "last_commit_at": "2026-11-20T18:51:53Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "77538008b8fe8b0dd3dc6caa3fc4ba987e10360a",
+    "v": 4
+  }
+}

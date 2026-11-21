@@ -1,0 +1,71 @@
+{
+  "id": "gh:robertoshimizu/session-graph",
+  "kind": "repo",
+  "url": "https://github.com/robertoshimizu/session-graph",
+  "title": "session-graph",
+  "why": "Pulls triples out of Claude Code, Cursor and Codex session logs into a Fuseki store you query with SPARQL.",
+  "keys": {
+    "races": [
+      "agents/memory"
+    ],
+    "lanes": [
+      "agents/memory"
+    ],
+    "capabilities": [
+      "agents/memory/knowledge-brains"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/robertoshimizu/session-graph",
+    "sha": "4adefaa41772504e3530ab45f91ded17a29e128e",
+    "file_url": "https://cdn.jsdelivr.net/gh/robertoshimizu/session-graph@4adefaa41772504e3530ab45f91ded17a29e128e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 116,
+    "size_mb": 1,
+    "created_at": "2026-02-20T14:33:40Z",
+    "last_commit_at": "2026-07-29T23:30:35Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.6.0",
+      "at": "2026-02-21T19:18:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4adefaa41772504e3530ab45f91ded17a29e128e",
+    "v": 4
+  },
+  "pinned_at": "2026-07-29T23:30:35Z",
+  "papers": [
+    {
+      "id": "arxiv:2002.09440",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

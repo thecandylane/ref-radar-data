@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:19f92a93bc61523af1cf294bf089771e2ac88711"
+  },
+  "id": "gh:nf-core/references",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/references",
+  "title": "references",
+  "why": "Turns FASTA records into GTF annotation lines, letting extra sequences join a Nextflow pipeline's reference set.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/references",
+    "sha": "19f92a93bc61523af1cf294bf089771e2ac88711",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/references@19f92a93bc61523af1cf294bf089771e2ac88711/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 24,
+    "size_mb": 2,
+    "created_at": "2023-12-02T02:13:29Z",
+    "last_commit_at": "2026-10-07T14:07:28Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "0.1",
+      "at": "2024-12-30T10:55:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "19f92a93bc61523af1cf294bf089771e2ac88711",
+    "v": 4
+  },
+  "pinned_at": "2026-10-07T14:07:28Z"
+}

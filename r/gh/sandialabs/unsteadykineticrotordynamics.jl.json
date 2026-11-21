@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:73faed7239206b012e98d62e2f5787abe978d0b8"
+  },
+  "id": "gh:sandialabs/unsteadykineticrotordynamics.jl",
+  "kind": "repo",
+  "url": "https://github.com/sandialabs/UnsteadyKineticRotorDynamics.jl",
+  "title": "UnsteadyKineticRotorDynamics.jl",
+  "why": "Low-pass filters steady CCBlade rotor outputs in the time domain, so wind and hydrokinetic rotors respond to unsteady flow.",
+  "keys": {
+    "races": [
+      "energy/renewables",
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "energy/renewables",
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sandialabs/UnsteadyKineticRotorDynamics.jl",
+    "sha": "73faed7239206b012e98d62e2f5787abe978d0b8",
+    "file_url": "https://cdn.jsdelivr.net/gh/sandialabs/UnsteadyKineticRotorDynamics.jl@73faed7239206b012e98d62e2f5787abe978d0b8/{path}"
+  },
+  "facts": {
+    "lang": "Julia",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2026-06-26T22:11:24Z",
+    "last_commit_at": "2026-07-09T22:29:38Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "73faed7239206b012e98d62e2f5787abe978d0b8",
+    "v": 4
+  },
+  "pinned_at": "2026-07-09T22:29:38Z"
+}

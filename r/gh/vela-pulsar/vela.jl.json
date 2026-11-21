@@ -1,0 +1,84 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b3b4e47437b5ee128fc6f76ef726b6771865569d"
+  },
+  "id": "gh:vela-pulsar/vela.jl",
+  "kind": "repo",
+  "url": "https://github.com/Vela-pulsar/Vela.jl",
+  "title": "Vela.jl",
+  "why": "Converts PINT pulsar timing models into Vela and fits arrival times with emcee MCMC until the chains converge.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Vela-pulsar/Vela.jl",
+    "sha": "b3b4e47437b5ee128fc6f76ef726b6771865569d",
+    "file_url": "https://cdn.jsdelivr.net/gh/Vela-pulsar/Vela.jl@b3b4e47437b5ee128fc6f76ef726b6771865569d/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "GPL-3.0",
+    "stars": 16,
+    "size_mb": 41,
+    "created_at": "2024-01-08T16:44:58Z",
+    "last_commit_at": "2026-09-22T07:20:06Z",
+    "releases": 11,
+    "tags": 12,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.6",
+      "at": "2026-08-01T07:43:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b3b4e47437b5ee128fc6f76ef726b6771865569d",
+    "v": 4
+  },
+  "pinned_at": "2026-09-22T07:20:06Z",
+  "papers": [
+    {
+      "id": "arxiv:2505.10141",
+      "via": [
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2412.15858",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

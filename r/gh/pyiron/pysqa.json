@@ -1,0 +1,65 @@
+{
+  "id": "gh:pyiron/pysqa",
+  "kind": "repo",
+  "url": "https://github.com/pyiron/pysqa",
+  "title": "pysqa",
+  "why": "Submits and deletes jobs on Slurm, LSF, Torque and other queues through one Python interface, including remote hosts over ssh.",
+  "keys": {
+    "races": [
+      "sci/hpc"
+    ],
+    "lanes": [
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pyiron/pysqa",
+    "sha": "8acc408b77dea35878e823b9c9199b326182e6d5",
+    "file_url": "https://cdn.jsdelivr.net/gh/pyiron/pysqa@8acc408b77dea35878e823b9c9199b326182e6d5/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 36,
+    "size_mb": 2,
+    "created_at": "2019-02-11T09:41:18Z",
+    "last_commit_at": "2026-11-20T16:26:55Z",
+    "releases": 71,
+    "tags": 75,
+    "archived": false,
+    "release": {
+      "tag": "pysqa-1.2.0",
+      "at": "2026-11-10T03:23:11.000Z"
+    },
+    "doi": "10.21105/joss.10961"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8acc408b77dea35878e823b9c9199b326182e6d5",
+    "v": 4
+  }
+}

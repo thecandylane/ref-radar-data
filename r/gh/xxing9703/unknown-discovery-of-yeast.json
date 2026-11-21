@@ -1,0 +1,58 @@
+{
+  "id": "gh:xxing9703/unknown-discovery-of-yeast",
+  "kind": "repo",
+  "url": "https://github.com/xxing9703/Unknown-discovery-of-Yeast",
+  "title": "Unknown-discovery-of-Yeast",
+  "why": "Peak annotation for yeast LC-MS data that flags isotopes, adducts and in-source fragments, then matches formulas against HMDB and YMDB.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/xxing9703/Unknown-discovery-of-Yeast",
+    "sha": "1c5f4603bcaeff4e4c047101bd95483a62fff9d2",
+    "file_url": "https://raw.githubusercontent.com/xxing9703/Unknown-discovery-of-Yeast/1c5f4603bcaeff4e4c047101bd95483a62fff9d2/{path}"
+  },
+  "facts": {
+    "lang": "MATLAB",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 1226,
+    "created_at": "2026-01-13T17:35:26Z",
+    "last_commit_at": "2026-06-18T19:12:28Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1c5f4603bcaeff4e4c047101bd95483a62fff9d2",
+    "v": 4
+  },
+  "pinned_at": "2026-06-18T19:12:28Z"
+}

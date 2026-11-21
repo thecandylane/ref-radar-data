@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1bca62311e447fd9c39fc93de2c4b96cd5ce971c"
+  },
+  "id": "gh:cisco/openh264",
+  "kind": "repo",
+  "url": "https://github.com/cisco/openh264",
+  "title": "openh264",
+  "why": "C++ H.264 encoder and decoder library for real time uses like WebRTC, with simulcast, temporal layers and builds for Windows, Linux, Android and iOS.",
+  "keys": {
+    "races": [
+      "media/video"
+    ],
+    "lanes": [
+      "media/video"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cisco/openh264",
+    "sha": "1bca62311e447fd9c39fc93de2c4b96cd5ce971c",
+    "file_url": "https://cdn.jsdelivr.net/gh/cisco/openh264@1bca62311e447fd9c39fc93de2c4b96cd5ce971c/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "BSD-2-Clause",
+    "stars": 6175,
+    "size_mb": 126,
+    "created_at": "2013-10-27T20:20:31Z",
+    "last_commit_at": "2026-11-20T05:21:29Z",
+    "releases": 21,
+    "tags": 23,
+    "archived": false,
+    "release": {
+      "tag": "v2.7.0",
+      "at": "2026-10-22T07:49:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1bca62311e447fd9c39fc93de2c4b96cd5ce971c",
+    "v": 4
+  }
+}

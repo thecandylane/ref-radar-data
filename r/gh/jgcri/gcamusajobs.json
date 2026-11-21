@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7a6370b82805371debca7cbd0adbd0c8fbaa750d"
+  },
+  "id": "gh:jgcri/gcamusajobs",
+  "kind": "repo",
+  "url": "https://github.com/JGCRI/GCAMUSAJobs",
+  "title": "GCAMUSAJobs",
+  "why": "Client-side scripts for a package documentation site, covering search, a light and dark theme switch and tooltips.",
+  "keys": {
+    "races": [
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/JGCRI/GCAMUSAJobs",
+    "sha": "7a6370b82805371debca7cbd0adbd0c8fbaa750d",
+    "file_url": "https://cdn.jsdelivr.net/gh/JGCRI/GCAMUSAJobs@7a6370b82805371debca7cbd0adbd0c8fbaa750d/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "size_mb": 14,
+    "created_at": "2024-09-04T20:24:24Z",
+    "last_commit_at": "2026-09-25T12:29:30Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.1",
+      "at": "2026-07-24T20:09:28.000Z"
+    },
+    "doi": "10.21105/joss.10142"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7a6370b82805371debca7cbd0adbd0c8fbaa750d",
+    "v": 4
+  },
+  "pinned_at": "2026-09-25T12:29:30Z"
+}

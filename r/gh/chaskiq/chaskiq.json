@@ -1,0 +1,74 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:46dfdd11c63c6849ecde16a0dcc54d388e2613a3"
+  },
+  "id": "gh:chaskiq/chaskiq",
+  "kind": "repo",
+  "url": "https://github.com/chaskiq/chaskiq",
+  "title": "chaskiq",
+  "why": "Rails app pairing a web messenger and help center with mailing campaigns, so support and marketing share customer segment filters.",
+  "keys": {
+    "races": [
+      "support/helpdesk",
+      "marketing/email"
+    ],
+    "lanes": [
+      "support/helpdesk",
+      "marketing/email"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/chaskiq/chaskiq",
+    "sha": "46dfdd11c63c6849ecde16a0dcc54d388e2613a3",
+    "file_url": "https://cdn.jsdelivr.net/gh/chaskiq/chaskiq@46dfdd11c63c6849ecde16a0dcc54d388e2613a3/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 3584,
+    "size_mb": 34,
+    "created_at": "2018-05-29T06:26:06Z",
+    "last_commit_at": "2026-06-30T17:20:11Z",
+    "releases": 28,
+    "tags": 31,
+    "archived": false,
+    "release": {
+      "tag": "2.0.3",
+      "at": "2023-11-14T20:58:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "46dfdd11c63c6849ecde16a0dcc54d388e2613a3",
+    "v": 4
+  },
+  "pinned_at": "2026-06-30T17:20:11Z"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "gh:thorvg/thorvg",
+  "kind": "repo",
+  "url": "https://github.com/thorvg/thorvg",
+  "title": "thorvg",
+  "why": "A C++ vector graphics engine that renders Lottie animations and SVG-style paths in software or on GPU canvases.",
+  "keys": {
+    "races": [
+      "games/graphics"
+    ],
+    "lanes": [
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/thorvg/thorvg",
+    "sha": "2cbf025e61dc9f4de76490149a7c04e9f496a52c",
+    "file_url": "https://cdn.jsdelivr.net/gh/thorvg/thorvg@2cbf025e61dc9f4de76490149a7c04e9f496a52c/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 1929,
+    "size_mb": 403,
+    "created_at": "2020-08-24T04:40:42Z",
+    "last_commit_at": "2026-11-18T18:17:39Z",
+    "releases": 133,
+    "tags": 133,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.4",
+      "at": "2026-11-19T16:33:50.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2cbf025e61dc9f4de76490149a7c04e9f496a52c",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T18:17:39Z"
+}

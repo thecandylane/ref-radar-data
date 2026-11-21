@@ -1,0 +1,60 @@
+{
+  "id": "gh:rformassspectrometry/qfeatures",
+  "kind": "repo",
+  "url": "https://github.com/rformassspectrometry/QFeatures",
+  "title": "QFeatures",
+  "why": "Bioconductor class that manages quantitative proteomics data across precursor, peptide and protein levels in one object.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rformassspectrometry/QFeatures",
+    "sha": "d77e62d9f04afdb4049a195711dd764dcdf90b55",
+    "file_url": "https://cdn.jsdelivr.net/gh/rformassspectrometry/QFeatures@d77e62d9f04afdb4049a195711dd764dcdf90b55/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 30,
+    "size_mb": 28,
+    "created_at": "2019-04-22T16:27:59Z",
+    "last_commit_at": "2026-11-13T14:12:31Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d77e62d9f04afdb4049a195711dd764dcdf90b55",
+    "v": 4
+  },
+  "pinned_at": "2026-11-13T14:12:31Z"
+}

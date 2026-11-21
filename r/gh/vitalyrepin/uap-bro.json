@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:10c62bb3e40239c0c3592e2e8939c23f4397d34d"
+  },
+  "id": "gh:vitalyrepin/uap-bro",
+  "kind": "repo",
+  "url": "https://github.com/vitalyrepin/uap-bro",
+  "title": "uap-bro",
+  "why": "Gives Bro scripts a parse function that turns each user-agent string into a record, using uap-core regexp data.",
+  "keys": {
+    "races": [
+      "netsec/capture"
+    ],
+    "lanes": [
+      "netsec/capture"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vitalyrepin/uap-bro",
+    "sha": "10c62bb3e40239c0c3592e2e8939c23f4397d34d",
+    "file_url": "https://cdn.jsdelivr.net/gh/vitalyrepin/uap-bro@10c62bb3e40239c0c3592e2e8939c23f4397d34d/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "BSD-3-Clause",
+    "stars": 9,
+    "size_mb": 0,
+    "created_at": "2018-02-08T23:16:14Z",
+    "last_commit_at": "2018-11-26T07:29:28Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "10c62bb3e40239c0c3592e2e8939c23f4397d34d",
+    "v": 4
+  },
+  "pinned_at": "2018-11-26T07:29:28Z"
+}

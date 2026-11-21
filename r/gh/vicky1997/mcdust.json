@@ -1,0 +1,66 @@
+{
+  "id": "gh:vicky1997/mcdust",
+  "kind": "repo",
+  "url": "https://github.com/vicky1997/mcdust",
+  "title": "mcdust",
+  "why": "Models dust growth in a protoplanetary disk, reading HDF5 output to plot dust density and particle scatter by radius.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Readme.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vicky1997/mcdust",
+    "sha": "3198f7541df618036252dacbdb3a36e4725d2962",
+    "file_url": "https://cdn.jsdelivr.net/gh/vicky1997/mcdust@3198f7541df618036252dacbdb3a36e4725d2962/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "GPL-3.0",
+    "stars": 10,
+    "size_mb": 9,
+    "created_at": "2023-08-18T12:09:20Z",
+    "last_commit_at": "2026-11-12T16:57:03Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-07-02T11:47:29.000Z"
+    },
+    "doi": "10.21105/joss.10140"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3198f7541df618036252dacbdb3a36e4725d2962",
+    "v": 4
+  },
+  "pinned_at": "2026-11-12T16:57:03Z"
+}

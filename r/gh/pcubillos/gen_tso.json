@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5e5cab31f6732448e1a80b883e5762e2a0ce31db"
+  },
+  "id": "gh:pcubillos/gen_tso",
+  "kind": "repo",
+  "url": "https://github.com/pcubillos/gen_tso",
+  "title": "gen_tso",
+  "why": "Plans JWST observations by running pandeia exposure time and saturation checks in a Shiny app, with target catalogs.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pcubillos/gen_tso",
+    "sha": "5e5cab31f6732448e1a80b883e5762e2a0ce31db",
+    "file_url": "https://cdn.jsdelivr.net/gh/pcubillos/gen_tso@5e5cab31f6732448e1a80b883e5762e2a0ce31db/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-2.0",
+    "stars": 10,
+    "size_mb": 22,
+    "created_at": "2023-08-27T18:06:43Z",
+    "last_commit_at": "2026-10-21T14:40:11Z",
+    "releases": 0,
+    "tags": 24,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5e5cab31f6732448e1a80b883e5762e2a0ce31db",
+    "v": 4
+  },
+  "pinned_at": "2026-10-21T14:40:11Z",
+  "papers": [
+    {
+      "id": "arxiv:2410.04856",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

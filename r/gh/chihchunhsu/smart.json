@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:41beaf34ad863d91978567cbe9d377c1a0f780ab"
+  },
+  "id": "gh:chihchunhsu/smart",
+  "kind": "repo",
+  "url": "https://github.com/chihchunhsu/smart",
+  "title": "smart",
+  "why": "Forward-models spectra with telluric absorption and fringe terms, sampling the fit with MCMC runs for IGRINS and APOGEE data.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/chihchunhsu/smart",
+    "sha": "41beaf34ad863d91978567cbe9d377c1a0f780ab",
+    "file_url": "https://cdn.jsdelivr.net/gh/chihchunhsu/smart@41beaf34ad863d91978567cbe9d377c1a0f780ab/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 9,
+    "size_mb": 101,
+    "created_at": "2020-01-17T21:20:53Z",
+    "last_commit_at": "2026-10-16T22:52:08Z",
+    "releases": 1,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2021-05-16T00:24:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "41beaf34ad863d91978567cbe9d377c1a0f780ab",
+    "v": 4
+  },
+  "pinned_at": "2026-10-16T22:52:08Z"
+}

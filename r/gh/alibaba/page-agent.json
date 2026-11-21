@@ -1,0 +1,71 @@
+{
+  "id": "gh:alibaba/page-agent",
+  "kind": "repo",
+  "url": "https://github.com/alibaba/page-agent",
+  "title": "page-agent",
+  "why": "Puts a GUI agent inside any page as plain JavaScript, working on text-based DOM with no screenshots or multi-modal LLMs.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "agents/frameworks"
+    ],
+    "lanes": [
+      "agents/tools",
+      "agents/frameworks"
+    ],
+    "capabilities": [
+      "agents/tools/browser-automation",
+      "agents/tools/mcp-servers",
+      "agents/frameworks/embedded-agents"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/alibaba/page-agent",
+    "sha": "d8dd334487cb2de14206aa8ca939a1613cd612dc",
+    "file_url": "https://cdn.jsdelivr.net/gh/alibaba/page-agent@d8dd334487cb2de14206aa8ca939a1613cd612dc/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 29729,
+    "size_mb": 3,
+    "created_at": "2025-09-23T09:30:17Z",
+    "last_commit_at": "2026-11-18T12:12:33Z",
+    "releases": 39,
+    "tags": 99,
+    "archived": false,
+    "release": {
+      "tag": "v1.12.4",
+      "at": "2026-09-06T07:46:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d8dd334487cb2de14206aa8ca939a1613cd612dc",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T12:12:33Z"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "gh:inbo/etn",
+  "kind": "repo",
+  "url": "https://github.com/inbo/etn",
+  "title": "etn",
+  "why": "Pulls animal, tag, receiver and acoustic detection records for tracked fish into R tibbles, with credentials set up first.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/inbo/etn",
+    "sha": "2ec2d49cf4e4141d006fa1b2cdfa6fb546ffb1b2",
+    "file_url": "https://cdn.jsdelivr.net/gh/inbo/etn@2ec2d49cf4e4141d006fa1b2cdfa6fb546ffb1b2/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "NOASSERTION",
+    "stars": 14,
+    "size_mb": 283,
+    "created_at": "2017-06-30T15:26:34Z",
+    "last_commit_at": "2026-11-20T09:16:09Z",
+    "releases": 9,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v3.0.0",
+      "at": "2026-02-24T12:48:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2ec2d49cf4e4141d006fa1b2cdfa6fb546ffb1b2",
+    "v": 4
+  },
+  "pinned_at": "2026-11-20T09:16:09Z"
+}

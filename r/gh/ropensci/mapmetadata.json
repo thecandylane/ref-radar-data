@@ -9,10 +9,12 @@
   "why": "Helps researchers map publicly available health metadata variables, like those from the SAIL Databank and HDRUK Gateway, onto research domains.",
   "keys": {
     "races": [
-      "data/datasets"
+      "data/datasets",
+      "medicine/health-data"
     ],
     "lanes": [
-      "data/datasets"
+      "data/datasets",
+      "medicine/health-data"
     ],
     "capabilities": []
   },

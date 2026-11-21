@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a8e7728b541b7cdca73c4b3ddd4117fed546820c"
+  },
+  "id": "gh:bioconductor/genomicalignments",
+  "kind": "repo",
+  "url": "https://github.com/Bioconductor/GenomicAlignments",
+  "title": "GenomicAlignments",
+  "why": "Encodes overlaps between ranges and hits in C, returning a compact overlap label per alignment for R code to reuse.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Bioconductor/GenomicAlignments",
+    "sha": "a8e7728b541b7cdca73c4b3ddd4117fed546820c",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/GenomicAlignments@a8e7728b541b7cdca73c4b3ddd4117fed546820c/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 12,
+    "size_mb": 7,
+    "created_at": "2017-09-01T20:20:36Z",
+    "last_commit_at": "2026-09-16T00:57:32Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a8e7728b541b7cdca73c4b3ddd4117fed546820c",
+    "v": 4
+  },
+  "pinned_at": "2026-09-16T00:57:32Z"
+}

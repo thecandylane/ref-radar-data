@@ -1,0 +1,69 @@
+{
+  "id": "gh:node-opcua/node-i3x",
+  "kind": "repo",
+  "url": "https://github.com/node-opcua/node-i3x",
+  "title": "node-i3x",
+  "why": "Lets an agent browse an industrial OPC UA server through MCP tools, reading values and history from its address space.",
+  "keys": {
+    "races": [
+      "industrial/protocols",
+      "agents/tools"
+    ],
+    "lanes": [
+      "industrial/protocols",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/node-opcua/node-i3x",
+    "sha": "5446e4d289489a61d7bde8ce7b55ce565484bb41",
+    "file_url": "https://cdn.jsdelivr.net/gh/node-opcua/node-i3x@5446e4d289489a61d7bde8ce7b55ce565484bb41/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 3,
+    "size_mb": 3,
+    "created_at": "2026-06-09T22:09:31Z",
+    "last_commit_at": "2026-10-26T10:33:58Z",
+    "releases": 36,
+    "tags": 45,
+    "archived": false,
+    "release": {
+      "tag": "v0.12.0",
+      "at": "2026-10-26T10:38:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5446e4d289489a61d7bde8ce7b55ce565484bb41",
+    "v": 4
+  },
+  "pinned_at": "2026-10-26T10:33:58Z"
+}

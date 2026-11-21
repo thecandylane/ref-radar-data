@@ -1,0 +1,72 @@
+{
+  "id": "gh:advancedphotonsource/cvevolve",
+  "kind": "repo",
+  "url": "https://github.com/AdvancedPhotonSource/CVEvolve",
+  "title": "CVEvolve",
+  "why": "Runs generate, tune and evolve rounds where an agent builds its own testbed for an open-ended vision task and logs candidates in SQLite.",
+  "keys": {
+    "races": [
+      "agents/optimization",
+      "ml/vision"
+    ],
+    "lanes": [
+      "agents/optimization",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AdvancedPhotonSource/CVEvolve",
+    "sha": "af2a49452307a178385de37fbcdc43d4ad2accfb",
+    "file_url": "https://cdn.jsdelivr.net/gh/AdvancedPhotonSource/CVEvolve@af2a49452307a178385de37fbcdc43d4ad2accfb/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 2,
+    "size_mb": 2,
+    "created_at": "2026-03-15T15:21:06Z",
+    "last_commit_at": "2026-07-20T17:41:17Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "af2a49452307a178385de37fbcdc43d4ad2accfb",
+    "v": 4
+  },
+  "pinned_at": "2026-07-20T17:41:17Z",
+  "papers": [
+    {
+      "id": "arxiv:2605.11359",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

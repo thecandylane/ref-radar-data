@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:75107e286bf13c8696ea2c3962ed9cd0c7c50d48"
+  },
+  "id": "gh:bioconductor/iranges",
+  "kind": "repo",
+  "url": "https://github.com/Bioconductor/IRanges",
+  "title": "IRanges",
+  "why": "Stores integer ranges as start and width vectors and runs overlap, reduce and gaps operations on them in C.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Bioconductor/IRanges",
+    "sha": "75107e286bf13c8696ea2c3962ed9cd0c7c50d48",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/IRanges@75107e286bf13c8696ea2c3962ed9cd0c7c50d48/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 24,
+    "size_mb": 5,
+    "created_at": "2017-08-24T01:02:36Z",
+    "last_commit_at": "2026-08-27T01:13:55Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "75107e286bf13c8696ea2c3962ed9cd0c7c50d48",
+    "v": 4
+  },
+  "pinned_at": "2026-08-27T01:13:55Z"
+}

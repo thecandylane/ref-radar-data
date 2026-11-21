@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:616b7a4dbbf3d011760af8066262cd5c6b3868f3"
+  },
+  "id": "gh:tailwindlabs/heroicons",
+  "kind": "repo",
+  "url": "https://github.com/tailwindlabs/heroicons",
+  "title": "heroicons",
+  "why": "Inline SVG icons, plus React and Vue packages, that take color from CSS so Tailwind utility classes can restyle them.",
+  "keys": {
+    "races": [
+      "web/ui-components",
+      "web/css"
+    ],
+    "lanes": [
+      "web/ui-components",
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tailwindlabs/heroicons",
+    "sha": "616b7a4dbbf3d011760af8066262cd5c6b3868f3",
+    "file_url": "https://cdn.jsdelivr.net/gh/tailwindlabs/heroicons@616b7a4dbbf3d011760af8066262cd5c6b3868f3/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 23914,
+    "size_mb": 3,
+    "created_at": "2020-02-24T14:16:00Z",
+    "last_commit_at": "2026-05-12T13:51:15Z",
+    "releases": 37,
+    "tags": 45,
+    "archived": false,
+    "release": {
+      "tag": "v2.2.0",
+      "at": "2024-11-18T15:32:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "616b7a4dbbf3d011760af8066262cd5c6b3868f3",
+    "v": 4
+  },
+  "pinned_at": "2026-05-12T13:51:15Z"
+}

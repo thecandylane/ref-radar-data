@@ -1,0 +1,67 @@
+{
+  "id": "gh:emsl-computing/metabwatch",
+  "kind": "repo",
+  "url": "https://github.com/EMSL-Computing/MetabWatch",
+  "title": "MetabWatch",
+  "why": "Matches QC compounds in each new Thermo raw file, then rebuilds a dashboard that works offline with no internet.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "infra/observability"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/EMSL-Computing/MetabWatch",
+    "sha": "d50d2240c07ff05daa4b81db4dc328ad24980f76",
+    "file_url": "https://cdn.jsdelivr.net/gh/EMSL-Computing/MetabWatch@d50d2240c07ff05daa4b81db4dc328ad24980f76/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "size_mb": 2,
+    "created_at": "2026-09-08T18:18:04Z",
+    "last_commit_at": "2026-11-10T20:33:28Z",
+    "releases": 2,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.1",
+      "at": "2026-11-10T20:40:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d50d2240c07ff05daa4b81db4dc328ad24980f76",
+    "v": 4
+  },
+  "pinned_at": "2026-11-10T20:33:28Z"
+}

@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5ef1fd1171e6be49c947cd3e56e485509b9c1d64"
+  },
+  "id": "gh:n-wouda/alns",
+  "kind": "repo",
+  "url": "https://github.com/N-Wouda/ALNS",
+  "title": "ALNS",
+  "why": "Plugs your own destroy and repair operators into an adaptive large neighbourhood search, with acceptance and stopping criteria ready to use.",
+  "keys": {
+    "races": [
+      "sci/optimization",
+      "logistics/route-optimization"
+    ],
+    "lanes": [
+      "sci/optimization",
+      "logistics/route-optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/N-Wouda/ALNS",
+    "sha": "5ef1fd1171e6be49c947cd3e56e485509b9c1d64",
+    "file_url": "https://cdn.jsdelivr.net/gh/N-Wouda/ALNS@5ef1fd1171e6be49c947cd3e56e485509b9c1d64/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 668,
+    "size_mb": 4,
+    "created_at": "2019-06-02T12:30:28Z",
+    "last_commit_at": "2025-02-25T10:33:13Z",
+    "releases": 40,
+    "tags": 42,
+    "archived": false,
+    "release": {
+      "tag": "v7.0.0",
+      "at": "2024-10-21T21:12:32.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5ef1fd1171e6be49c947cd3e56e485509b9c1d64",
+    "v": 4
+  },
+  "pinned_at": "2025-02-25T10:33:13Z"
+}

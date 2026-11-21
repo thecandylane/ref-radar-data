@@ -1,0 +1,65 @@
+{
+  "id": "gh:emf-creaf/medfate",
+  "kind": "repo",
+  "url": "https://github.com/emf-creaf/medfate",
+  "title": "medfate",
+  "why": "Models soil water balance and fire hazard for forest cohorts, with the C++ core exposed to R through Rcpp wrappers.",
+  "keys": {
+    "races": [
+      "environment/earth-data"
+    ],
+    "lanes": [
+      "environment/earth-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/emf-creaf/medfate",
+    "sha": "5f9845903ac7dc3ec1f8246f15dacae9dd511bfa",
+    "file_url": "https://cdn.jsdelivr.net/gh/emf-creaf/medfate@5f9845903ac7dc3ec1f8246f15dacae9dd511bfa/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-2.0",
+    "stars": 15,
+    "size_mb": 147,
+    "created_at": "2019-06-06T10:13:25Z",
+    "last_commit_at": "2026-11-17T21:35:47Z",
+    "releases": 17,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "v5.2.0",
+      "at": "2026-10-27T14:35:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5f9845903ac7dc3ec1f8246f15dacae9dd511bfa",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T21:35:47Z"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "gh:google/flax",
+  "kind": "repo",
+  "url": "https://github.com/google/flax",
+  "title": "flax",
+  "why": "Build and debug neural networks in JAX with plain Python objects, using Linear, Conv, attention and MNIST or Gemma examples to fork.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "ml/training",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google/flax",
+    "sha": "8213ae30f31bc27034935ba4b1fbd4ba1854372d",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/flax@8213ae30f31bc27034935ba4b1fbd4ba1854372d/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "Apache-2.0",
+    "stars": 7368,
+    "size_mb": 45,
+    "created_at": "2020-01-10T09:48:37Z",
+    "last_commit_at": "2026-11-17T18:45:59Z",
+    "releases": 67,
+    "tags": 67,
+    "archived": false,
+    "release": {
+      "tag": "v0.12.12",
+      "at": "2026-10-27T01:30:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8213ae30f31bc27034935ba4b1fbd4ba1854372d",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T18:45:59Z",
+  "papers": [
+    {
+      "id": "arxiv:2303.14753",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1701.05517",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1312.6114",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

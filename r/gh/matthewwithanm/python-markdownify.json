@@ -1,0 +1,63 @@
+{
+  "id": "gh:matthewwithanm/python-markdownify",
+  "kind": "repo",
+  "url": "https://github.com/matthewwithanm/python-markdownify",
+  "title": "python-markdownify",
+  "why": "Converts HTML into Markdown by walking the parsed tree with BeautifulSoup, with a main entry point for the command line.",
+  "keys": {
+    "races": [
+      "data/serialization",
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "data/serialization",
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/matthewwithanm/python-markdownify",
+    "sha": "dc6ad25cf1f7f4925b202f141d9de4c464d479c6",
+    "file_url": "https://cdn.jsdelivr.net/gh/matthewwithanm/python-markdownify@dc6ad25cf1f7f4925b202f141d9de4c464d479c6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 2260,
+    "size_mb": 0,
+    "created_at": "2012-06-29T16:30:23Z",
+    "last_commit_at": "2026-11-18T18:11:56Z",
+    "releases": 44,
+    "tags": 51,
+    "archived": false,
+    "release": {
+      "tag": "1.2.4",
+      "at": "2026-11-18T18:16:48.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dc6ad25cf1f7f4925b202f141d9de4c464d479c6",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T18:11:56Z"
+}

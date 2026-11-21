@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6da9b6856906507f734fcccfe85f341a3ed381f0"
+  },
+  "id": "gh:kevinblighe/pcatools",
+  "kind": "repo",
+  "url": "https://github.com/kevinblighe/PCAtools",
+  "title": "PCAtools",
+  "why": "Shuffles the entries of a matrix in compiled C++ code, with Rcpp exports that let R scripts call it.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kevinblighe/PCAtools",
+    "sha": "6da9b6856906507f734fcccfe85f341a3ed381f0",
+    "file_url": "https://cdn.jsdelivr.net/gh/kevinblighe/PCAtools@6da9b6856906507f734fcccfe85f341a3ed381f0/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 379,
+    "size_mb": 30,
+    "created_at": "2018-11-06T15:37:13Z",
+    "last_commit_at": "2026-09-02T18:37:30Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6da9b6856906507f734fcccfe85f341a3ed381f0",
+    "v": 4
+  },
+  "pinned_at": "2026-09-02T18:37:30Z"
+}

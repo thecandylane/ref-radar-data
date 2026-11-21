@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bc1c9a46ec0fe4315495f23778156d04e8ef2d6e"
+  },
+  "id": "gh:invoiced/invoiced-php",
+  "kind": "repo",
+  "url": "https://github.com/Invoiced/invoiced-php",
+  "title": "invoiced-php",
+  "why": "Lets PHP code fetch an invoice and mark it paid through the Invoiced API, with a second client argument to switch to sandbox.",
+  "keys": {
+    "races": [
+      "finance/billing",
+      "finance/accounting"
+    ],
+    "lanes": [
+      "finance/billing",
+      "finance/accounting"
+    ],
+    "capabilities": [
+      "finance/accounting/bookkeeping"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Invoiced/invoiced-php",
+    "sha": "bc1c9a46ec0fe4315495f23778156d04e8ef2d6e",
+    "file_url": "https://cdn.jsdelivr.net/gh/Invoiced/invoiced-php@bc1c9a46ec0fe4315495f23778156d04e8ef2d6e/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 14,
+    "size_mb": 0,
+    "created_at": "2015-08-06T02:30:29Z",
+    "last_commit_at": "2026-02-24T17:02:40Z",
+    "releases": 26,
+    "tags": 29,
+    "archived": false,
+    "release": {
+      "tag": "2.4.2",
+      "at": "2023-02-21T16:31:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "bc1c9a46ec0fe4315495f23778156d04e8ef2d6e",
+    "v": 4
+  },
+  "pinned_at": "2026-02-24T17:02:40Z"
+}

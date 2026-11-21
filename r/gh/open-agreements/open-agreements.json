@@ -1,0 +1,72 @@
+{
+  "id": "gh:open-agreements/open-agreements",
+  "kind": "repo",
+  "url": "https://github.com/open-agreements/open-agreements",
+  "title": "open-agreements",
+  "why": "Generates and checks contract templates as DOCX, Markdoc and JSON, with an MCP server that agents can call.",
+  "keys": {
+    "races": [
+      "legal/document-assembly",
+      "agents/tools"
+    ],
+    "lanes": [
+      "legal/document-assembly",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/open-agreements/open-agreements",
+    "sha": "f6e293d2e2ed9cf2152e7b450f7106619974d576",
+    "file_url": "https://cdn.jsdelivr.net/gh/open-agreements/open-agreements@f6e293d2e2ed9cf2152e7b450f7106619974d576/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 66,
+    "size_mb": 80,
+    "created_at": "2026-02-09T09:26:34Z",
+    "last_commit_at": "2026-11-21T09:11:19Z",
+    "releases": 20,
+    "tags": 24,
+    "archived": false,
+    "release": {
+      "tag": "v0.10.2",
+      "at": "2026-09-10T05:12:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f6e293d2e2ed9cf2152e7b450f7106619974d576",
+    "v": 4
+  }
+}

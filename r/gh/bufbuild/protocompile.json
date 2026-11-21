@@ -1,0 +1,69 @@
+{
+  "id": "gh:bufbuild/protocompile",
+  "kind": "repo",
+  "url": "https://github.com/bufbuild/protocompile",
+  "title": "protocompile",
+  "why": "Compiles schema files into descriptors in pure Go, resolving imports and linking options for tools that skip protoc.",
+  "keys": {
+    "races": [
+      "languages/compilers",
+      "data/serialization"
+    ],
+    "lanes": [
+      "languages/compilers",
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bufbuild/protocompile",
+    "sha": "fbe8bbfcfbbd2b0556e736d4cbcb2f6a5ab8a21a",
+    "file_url": "https://cdn.jsdelivr.net/gh/bufbuild/protocompile@fbe8bbfcfbbd2b0556e736d4cbcb2f6a5ab8a21a/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 347,
+    "size_mb": 11,
+    "created_at": "2022-08-11T15:06:04Z",
+    "last_commit_at": "2026-11-19T15:37:07Z",
+    "releases": 17,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "v0.14.1",
+      "at": "2024-08-30T17:10:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fbe8bbfcfbbd2b0556e736d4cbcb2f6a5ab8a21a",
+    "v": 4
+  },
+  "pinned_at": "2026-11-19T15:37:07Z"
+}

@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:68696aa8b0a3023c7c23330f397024db753f8ca1"
+  },
+  "id": "gh:laubblatt/2018_diurnalevaporation",
+  "kind": "repo",
+  "url": "https://github.com/laubblatt/2018_DiurnalEvaporation",
+  "title": "2018_DiurnalEvaporation",
+  "why": "Pulls the GFZ observation and model data itself, so one R script regenerates the phase lag figures for the 2019 study.",
+  "keys": {
+    "races": [
+      "environment/earth-data"
+    ],
+    "lanes": [
+      "environment/earth-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/laubblatt/2018_DiurnalEvaporation",
+    "sha": "68696aa8b0a3023c7c23330f397024db753f8ca1",
+    "file_url": "https://cdn.jsdelivr.net/gh/laubblatt/2018_DiurnalEvaporation@68696aa8b0a3023c7c23330f397024db753f8ca1/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 2,
+    "size_mb": 0,
+    "created_at": "2018-11-15T12:38:37Z",
+    "last_commit_at": "2019-04-26T07:51:54Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "1.0.0",
+      "at": "2019-01-15T12:53:16.000Z"
+    },
+    "doi": "10.5281/zenodo.2540690"
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "68696aa8b0a3023c7c23330f397024db753f8ca1",
+    "v": 4
+  },
+  "pinned_at": "2019-04-26T07:51:54Z"
+}

@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:419a49d0fe82ecb69eb8e9343a9eb3382f1040fd"
+  },
+  "id": "gh:coastalcph/lex-glue",
+  "kind": "repo",
+  "url": "https://github.com/coastalcph/lex-glue",
+  "title": "lex-glue",
+  "why": "Loads seven English legal classification tasks from Hugging Face and runs Transformer scripts to score models on them.",
+  "keys": {
+    "races": [
+      "legal/legal-ai",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "legal/legal-ai",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/coastalcph/lex-glue",
+    "sha": "419a49d0fe82ecb69eb8e9343a9eb3382f1040fd",
+    "file_url": "https://cdn.jsdelivr.net/gh/coastalcph/lex-glue@419a49d0fe82ecb69eb8e9343a9eb3382f1040fd/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 276,
+    "size_mb": 0,
+    "created_at": "2021-09-27T23:25:52Z",
+    "last_commit_at": "2025-07-23T07:39:33Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "419a49d0fe82ecb69eb8e9343a9eb3382f1040fd",
+    "v": 4
+  },
+  "pinned_at": "2025-07-23T07:39:33Z",
+  "papers": [
+    {
+      "id": "arxiv:2110.00976",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:18723858561ed3e7e8f3cf4dc26f1e0cdefc3496"
+  },
+  "id": "gh:prowide/prowide-iso20022",
+  "kind": "repo",
+  "url": "https://github.com/prowide/prowide-iso20022",
+  "title": "prowide-iso20022",
+  "why": "Parses and builds ISO 20022 XML messages as Java objects and converts them to JSON, covering pacs and camt categories.",
+  "keys": {
+    "races": [
+      "finance/payments",
+      "data/serialization"
+    ],
+    "lanes": [
+      "finance/payments",
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/prowide/prowide-iso20022",
+    "sha": "18723858561ed3e7e8f3cf4dc26f1e0cdefc3496",
+    "file_url": "https://raw.githubusercontent.com/prowide/prowide-iso20022/18723858561ed3e7e8f3cf4dc26f1e0cdefc3496/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 240,
+    "size_mb": 76,
+    "created_at": "2020-04-20T22:26:39Z",
+    "last_commit_at": "2026-11-01T23:24:55Z",
+    "releases": 93,
+    "tags": 99,
+    "archived": false,
+    "release": {
+      "tag": "SRU2025-10.4.0",
+      "at": "2026-09-24T00:10:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "18723858561ed3e7e8f3cf4dc26f1e0cdefc3496",
+    "v": 4
+  },
+  "pinned_at": "2026-11-01T23:24:55Z"
+}

@@ -2,7 +2,7 @@
   "id": "gh:redpanda-data/connect",
   "kind": "repo",
   "url": "https://github.com/redpanda-data/connect",
-  "title": "connect",
+  "title": "redpanda-data/connect",
   "why": "Go stream processor that moves messages between Kafka, NATS, RabbitMQ and AMQP using config files, with transforms and ETL jobs in the middle.",
   "keys": {
     "races": [
@@ -38,10 +38,10 @@
   "facts": {
     "lang": "Go",
     "license": "none",
-    "stars": 8803,
+    "stars": 8804,
     "size_mb": 56,
     "created_at": "2016-03-22T01:18:48Z",
-    "last_commit_at": "2026-11-20T08:06:02Z",
+    "last_commit_at": "2026-11-20T20:50:19Z",
     "releases": 563,
     "tags": 804,
     "archived": false,

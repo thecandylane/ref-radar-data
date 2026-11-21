@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:37487e67e905af3a21360f72c7075be20c533ad9"
+  },
+  "id": "gh:tum-ens/urbs",
+  "kind": "repo",
+  "url": "https://github.com/tum-ens/urbs",
+  "title": "urbs",
+  "why": "Builds Pyomo models that plan capacity expansion for urban energy systems and compare scenario costs.",
+  "keys": {
+    "races": [
+      "energy/system-models",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "energy/system-models",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tum-ens/urbs",
+    "sha": "37487e67e905af3a21360f72c7075be20c533ad9",
+    "file_url": "https://cdn.jsdelivr.net/gh/tum-ens/urbs@37487e67e905af3a21360f72c7075be20c533ad9/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 211,
+    "size_mb": 100,
+    "created_at": "2014-07-19T13:40:41Z",
+    "last_commit_at": "2026-08-27T10:23:33Z",
+    "releases": 9,
+    "tags": 20,
+    "archived": false,
+    "release": {
+      "tag": "1.0.1",
+      "at": "2019-07-02T11:54:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "37487e67e905af3a21360f72c7075be20c533ad9",
+    "v": 4
+  },
+  "pinned_at": "2026-08-27T10:23:33Z"
+}

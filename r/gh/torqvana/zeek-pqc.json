@@ -1,0 +1,60 @@
+{
+  "id": "gh:torqvana/zeek-pqc",
+  "kind": "repo",
+  "url": "https://github.com/Torqvana/zeek-pqc",
+  "title": "zeek-pqc",
+  "why": "Adds an is_pqc flag to Zeek's ssl and ssh logs and a pqc.log of hosts that advertise post-quantum key exchange.",
+  "keys": {
+    "races": [
+      "netsec/ids",
+      "netsec/capture"
+    ],
+    "lanes": [
+      "netsec/ids",
+      "netsec/capture"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Torqvana/zeek-pqc",
+    "sha": "73d97d9dac7f44ce71bebc4aa8415d1034c76ced",
+    "file_url": "https://cdn.jsdelivr.net/gh/Torqvana/zeek-pqc@73d97d9dac7f44ce71bebc4aa8415d1034c76ced/{path}"
+  },
+  "facts": {
+    "lang": "Zeek",
+    "license": "BSD-3-Clause",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2025-12-31T12:47:33Z",
+    "last_commit_at": "2025-12-31T13:28:32Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "73d97d9dac7f44ce71bebc4aa8415d1034c76ced",
+    "v": 4
+  },
+  "pinned_at": "2025-12-31T13:28:32Z"
+}

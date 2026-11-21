@@ -6,10 +6,12 @@
   "why": "Applies geospatial exploratory statistics to spatial -omics and transcriptomics data, carrying ESDA methods over from geography.",
   "keys": {
     "races": [
-      "data/geospatial"
+      "data/geospatial",
+      "data/statistics"
     ],
     "lanes": [
-      "data/geospatial"
+      "data/geospatial",
+      "data/statistics"
     ],
     "capabilities": []
   },

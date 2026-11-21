@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:460c39d2042d875ba45fb4e606ab1ad1dabde2ce"
+  },
+  "id": "gh:nersc/aqdrop-client",
+  "kind": "repo",
+  "url": "https://github.com/NERSC/aqdrop-client",
+  "title": "aqdrop-client",
+  "why": "Submits and lists jobs on the AQT quantum testbed through an authenticated API, with an agent skill that dry-runs Qiskit jobs first.",
+  "keys": {
+    "races": [
+      "sci/quantum",
+      "agents/skills"
+    ],
+    "lanes": [
+      "sci/quantum",
+      "agents/skills"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NERSC/aqdrop-client",
+    "sha": "460c39d2042d875ba45fb4e606ab1ad1dabde2ce",
+    "file_url": "https://cdn.jsdelivr.net/gh/NERSC/aqdrop-client@460c39d2042d875ba45fb4e606ab1ad1dabde2ce/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-05-26T23:36:48Z",
+    "last_commit_at": "2026-08-08T23:20:53Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "460c39d2042d875ba45fb4e606ab1ad1dabde2ce",
+    "v": 4
+  },
+  "pinned_at": "2026-08-08T23:20:53Z"
+}

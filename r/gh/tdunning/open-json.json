@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2027333b18b8be4c78da91e056a3d9ee721bc995"
+  },
+  "id": "gh:tdunning/open-json",
+  "kind": "repo",
+  "url": "https://github.com/tdunning/open-json",
+  "title": "open-json",
+  "why": "Clean-room Java implementation of the JSON API under a free license, a small standalone dependency with no use restriction.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tdunning/open-json",
+    "sha": "2027333b18b8be4c78da91e056a3d9ee721bc995",
+    "file_url": "https://cdn.jsdelivr.net/gh/tdunning/open-json@2027333b18b8be4c78da91e056a3d9ee721bc995/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 19,
+    "size_mb": 0,
+    "created_at": "2016-11-17T02:15:28Z",
+    "last_commit_at": "2020-10-12T19:01:40Z",
+    "releases": 0,
+    "tags": 9,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2027333b18b8be4c78da91e056a3d9ee721bc995",
+    "v": 4
+  },
+  "pinned_at": "2020-10-12T19:01:40Z"
+}

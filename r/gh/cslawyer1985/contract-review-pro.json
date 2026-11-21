@@ -1,0 +1,60 @@
+{
+  "id": "gh:cslawyer1985/contract-review-pro",
+  "kind": "repo",
+  "url": "https://github.com/CSlawyer1985/contract-review-pro",
+  "title": "contract-review-pro",
+  "why": "Reviews a contract under Chinese law in 7 steps, with stance declaration, risk labels and a Track Changes copy as output.",
+  "keys": {
+    "races": [
+      "legal/legal-ai",
+      "agents/skills"
+    ],
+    "lanes": [
+      "legal/legal-ai",
+      "agents/skills"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CSlawyer1985/contract-review-pro",
+    "sha": "74c0a615f2118837f650c9d4bdf804e0eca9f640",
+    "file_url": "https://cdn.jsdelivr.net/gh/CSlawyer1985/contract-review-pro@74c0a615f2118837f650c9d4bdf804e0eca9f640/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 311,
+    "size_mb": 0,
+    "created_at": "2026-01-19T06:59:49Z",
+    "last_commit_at": "2026-08-14T02:11:03Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "74c0a615f2118837f650c9d4bdf804e0eca9f640",
+    "v": 4
+  },
+  "pinned_at": "2026-08-14T02:11:03Z"
+}

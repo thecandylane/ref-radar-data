@@ -1,0 +1,64 @@
+{
+  "id": "gh:elastic/elastic-labs",
+  "kind": "repo",
+  "url": "https://github.com/elastic/elastic-labs",
+  "title": "elastic-labs",
+  "why": "Elasticsearch example apps covering embedding search, hybrid OCR retrieval and LangGraph agents, one folder per example.",
+  "keys": {
+    "races": [
+      "data/search",
+      "llm-infra/rag",
+      "agents/frameworks"
+    ],
+    "lanes": [
+      "data/search",
+      "llm-infra/rag",
+      "agents/frameworks"
+    ],
+    "capabilities": [
+      "agents/frameworks/agent-workflows"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/elastic/elastic-labs",
+    "sha": "ef1b6ec378971cc67023ea21add70435877681b5",
+    "file_url": "https://raw.githubusercontent.com/elastic/elastic-labs/ef1b6ec378971cc67023ea21add70435877681b5/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "Apache-2.0",
+    "stars": 1140,
+    "size_mb": 177,
+    "created_at": "2023-06-14T17:50:22Z",
+    "last_commit_at": "2026-11-18T10:44:51Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ef1b6ec378971cc67023ea21add70435877681b5",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T10:44:51Z"
+}

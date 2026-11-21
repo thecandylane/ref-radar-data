@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:36f72d9d0bdc27b95ed553d907edc39e1b069cc1"
+  },
+  "id": "gh:singler-inc/singler",
+  "kind": "repo",
+  "url": "https://github.com/SingleR-inc/SingleR",
+  "title": "SingleR",
+  "why": "Trains reference profiles and classifies new samples against them, with a search for classic markers.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SingleR-inc/SingleR",
+    "sha": "36f72d9d0bdc27b95ed553d907edc39e1b069cc1",
+    "file_url": "https://cdn.jsdelivr.net/gh/SingleR-inc/SingleR@36f72d9d0bdc27b95ed553d907edc39e1b069cc1/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 207,
+    "size_mb": 1,
+    "created_at": "2019-06-19T23:25:34Z",
+    "last_commit_at": "2026-09-10T08:03:20Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "36f72d9d0bdc27b95ed553d907edc39e1b069cc1",
+    "v": 4
+  },
+  "pinned_at": "2026-09-10T08:03:20Z"
+}

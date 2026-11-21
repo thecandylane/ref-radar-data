@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:be33ccd2088aeae44d02953fb287daac731ff7f8"
+  },
+  "id": "gh:saezlab/omnipathr",
+  "kind": "repo",
+  "url": "https://github.com/saezlab/OmnipathR",
+  "title": "OmnipathR",
+  "why": "Client-side scripts for a documentation site, adding a light and dark theme toggle and page search with Fuse.",
+  "keys": {
+    "races": [
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/saezlab/OmnipathR",
+    "sha": "be33ccd2088aeae44d02953fb287daac731ff7f8",
+    "file_url": "https://cdn.jsdelivr.net/gh/saezlab/OmnipathR@be33ccd2088aeae44d02953fb287daac731ff7f8/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 177,
+    "size_mb": 37,
+    "created_at": "2018-11-09T16:13:50Z",
+    "last_commit_at": "2026-10-30T00:42:36Z",
+    "releases": 6,
+    "tags": 42,
+    "archived": false,
+    "release": {
+      "tag": "v3.17.4",
+      "at": "2025-10-08T11:10:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "be33ccd2088aeae44d02953fb287daac731ff7f8",
+    "v": 4
+  },
+  "pinned_at": "2026-10-30T00:42:36Z"
+}

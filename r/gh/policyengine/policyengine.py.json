@@ -1,0 +1,66 @@
+{
+  "id": "gh:policyengine/policyengine.py",
+  "kind": "repo",
+  "url": "https://github.com/PolicyEngine/policyengine.py",
+  "title": "policyengine.py",
+  "why": "Runs tax-benefit simulations over datasets with versioned parameters, and writes a run record for each simulation.",
+  "keys": {
+    "races": [
+      "civic/rules-as-code"
+    ],
+    "lanes": [
+      "civic/rules-as-code"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/PolicyEngine/policyengine.py",
+    "sha": "47d1d8bf5ed7a37d2375f38378d99fde68ab4fe7",
+    "file_url": "https://cdn.jsdelivr.net/gh/PolicyEngine/policyengine.py@47d1d8bf5ed7a37d2375f38378d99fde68ab4fe7/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 8,
+    "size_mb": 19,
+    "created_at": "2024-04-05T23:18:31Z",
+    "last_commit_at": "2026-11-16T23:51:24Z",
+    "releases": 142,
+    "tags": 145,
+    "archived": false,
+    "release": {
+      "tag": "6.20.2",
+      "at": "2026-11-16T23:52:14.000Z"
+    },
+    "doi": "10.21105/joss.11115"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "47d1d8bf5ed7a37d2375f38378d99fde68ab4fe7",
+    "v": 4
+  },
+  "pinned_at": "2026-11-16T23:51:24Z"
+}

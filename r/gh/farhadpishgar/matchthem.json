@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7a644175e58f4392b8bf68b018eb8012c89a27f8"
+  },
+  "id": "gh:farhadpishgar/matchthem",
+  "kind": "repo",
+  "url": "https://github.com/FarhadPishgar/MatchThem",
+  "title": "MatchThem",
+  "why": "R package that matches or weights each multiply imputed dataset, then analyses and pools the causal effect estimates across them.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "data/statistics",
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/FarhadPishgar/MatchThem",
+    "sha": "7a644175e58f4392b8bf68b018eb8012c89a27f8",
+    "file_url": "https://cdn.jsdelivr.net/gh/FarhadPishgar/MatchThem@7a644175e58f4392b8bf68b018eb8012c89a27f8/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 20,
+    "size_mb": 2,
+    "created_at": "2019-09-11T17:26:02Z",
+    "last_commit_at": "2024-10-24T15:41:52Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.1",
+      "at": "2024-04-01T23:38:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7a644175e58f4392b8bf68b018eb8012c89a27f8",
+    "v": 4
+  },
+  "pinned_at": "2024-10-24T15:41:52Z"
+}

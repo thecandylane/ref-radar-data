@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fdeb694ee1f148db9bbb675b61ea2238e8f12eb6"
+  },
+  "id": "gh:tylermorganwall/spacefillr",
+  "kind": "repo",
+  "url": "https://github.com/tylermorganwall/spacefillr",
+  "title": "spacefillr",
+  "why": "Supplies Halton, Sobol and PMJ point sets for Monte Carlo runs, with a C++ API, so Pi estimates converge faster than uniform random draws.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "data/statistics",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tylermorganwall/spacefillr",
+    "sha": "fdeb694ee1f148db9bbb675b61ea2238e8f12eb6",
+    "file_url": "https://cdn.jsdelivr.net/gh/tylermorganwall/spacefillr@fdeb694ee1f148db9bbb675b61ea2238e8f12eb6/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 10,
+    "size_mb": 28,
+    "created_at": "2021-02-14T19:51:05Z",
+    "last_commit_at": "2025-02-23T23:42:17Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fdeb694ee1f148db9bbb675b61ea2238e8f12eb6",
+    "v": 4
+  },
+  "pinned_at": "2025-02-23T23:42:17Z"
+}

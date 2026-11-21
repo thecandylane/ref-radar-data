@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3ba042b201470e1f8b74e4356247565b4f8aee0d"
+  },
+  "id": "gh:pypsa/pypsa-china",
+  "kind": "repo",
+  "url": "https://github.com/PyPSA/PyPSA-China",
+  "title": "PyPSA-China",
+  "why": "Snakemake workflow around PyPSA that builds a provincial Chinese power and heat network and co-optimizes hourly dispatch and investment.",
+  "keys": {
+    "races": [
+      "energy/system-models",
+      "energy/power-grid",
+      "energy/renewables"
+    ],
+    "lanes": [
+      "energy/system-models",
+      "energy/power-grid",
+      "energy/renewables"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/PyPSA/PyPSA-China",
+    "sha": "3ba042b201470e1f8b74e4356247565b4f8aee0d",
+    "file_url": "https://cdn.jsdelivr.net/gh/PyPSA/PyPSA-China@3ba042b201470e1f8b74e4356247565b4f8aee0d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 49,
+    "size_mb": 178,
+    "created_at": "2024-11-06T16:00:45Z",
+    "last_commit_at": "2026-07-13T09:22:00Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.2",
+      "at": "2025-12-19T18:44:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3ba042b201470e1f8b74e4356247565b4f8aee0d",
+    "v": 4
+  },
+  "pinned_at": "2026-07-13T09:22:00Z"
+}

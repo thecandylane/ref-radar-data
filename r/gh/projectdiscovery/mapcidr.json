@@ -1,0 +1,67 @@
+{
+  "id": "gh:projectdiscovery/mapcidr",
+  "kind": "repo",
+  "url": "https://github.com/projectdiscovery/mapcidr",
+  "title": "mapcidr",
+  "why": "Splits, counts and shuffles CIDR blocks, picks IPs and ports from them, and gets CIDRs for an ASN number.",
+  "keys": {
+    "races": [
+      "netsec/scanning",
+      "infra/networking"
+    ],
+    "lanes": [
+      "netsec/scanning",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/projectdiscovery/mapcidr",
+    "sha": "0fa644e1ae29e16bd2e6e53d34993dc6d3944bda",
+    "file_url": "https://cdn.jsdelivr.net/gh/projectdiscovery/mapcidr@0fa644e1ae29e16bd2e6e53d34993dc6d3944bda/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 1248,
+    "size_mb": 2,
+    "created_at": "2020-08-21T14:57:44Z",
+    "last_commit_at": "2026-11-17T14:54:50Z",
+    "releases": 35,
+    "tags": 35,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.97",
+      "at": "2025-10-28T08:36:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0fa644e1ae29e16bd2e6e53d34993dc6d3944bda",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T14:54:50Z"
+}

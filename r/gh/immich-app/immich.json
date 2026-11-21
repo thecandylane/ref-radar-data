@@ -30,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/immich-app/immich",
-    "sha": "b3e775d706b821a18da17c330939847edc5e6811",
-    "file_url": "https://cdn.jsdelivr.net/gh/immich-app/immich@b3e775d706b821a18da17c330939847edc5e6811/{path}"
+    "sha": "9b3d3d861ccf5f52f05a2a53c3a8bfb5b9bb2aee",
+    "file_url": "https://cdn.jsdelivr.net/gh/immich-app/immich@9b3d3d861ccf5f52f05a2a53c3a8bfb5b9bb2aee/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 119643,
-    "size_mb": 319,
+    "stars": 119753,
+    "size_mb": 320,
     "created_at": "2022-02-03T15:56:27Z",
-    "last_commit_at": "2026-11-19T14:03:56Z",
+    "last_commit_at": "2026-11-20T19:56:41Z",
     "releases": 327,
     "tags": 352,
     "archived": false,
@@ -61,8 +61,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "b3e775d706b821a18da17c330939847edc5e6811",
-    "v": 4
-  }
+  "pins_before": [
+    "b3e775d706b821a18da17c330939847edc5e6811"
+  ],
+  "pinned_at": "2026-11-20T19:56:41Z"
 }

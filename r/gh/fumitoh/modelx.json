@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fec516d7e9b5813e7d40819a72731bd35fc2972f"
+  },
+  "id": "gh:fumitoh/modelx",
+  "kind": "repo",
+  "url": "https://github.com/fumitoh/modelx",
+  "title": "modelx",
+  "why": "Builds spreadsheet-style Python models where cells and spaces hold formulas, with actuarial lifetable and loan samples to adapt.",
+  "keys": {
+    "races": [
+      "insurance/actuarial"
+    ],
+    "lanes": [
+      "insurance/actuarial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fumitoh/modelx",
+    "sha": "fec516d7e9b5813e7d40819a72731bd35fc2972f",
+    "file_url": "https://cdn.jsdelivr.net/gh/fumitoh/modelx@fec516d7e9b5813e7d40819a72731bd35fc2972f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "LGPL-3.0",
+    "stars": 137,
+    "size_mb": 6,
+    "created_at": "2017-09-17T17:20:25Z",
+    "last_commit_at": "2026-10-18T12:53:30Z",
+    "releases": 20,
+    "tags": 69,
+    "archived": false,
+    "release": {
+      "tag": "v0.33.0",
+      "at": "2026-09-05T03:05:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fec516d7e9b5813e7d40819a72731bd35fc2972f",
+    "v": 4
+  },
+  "pinned_at": "2026-10-18T12:53:30Z"
+}

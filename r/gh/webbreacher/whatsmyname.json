@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:abcb19d6809f0e963e353819c571133b45b6a106"
+  },
   "id": "gh:webbreacher/whatsmyname",
   "kind": "repo",
   "url": "https://github.com/WebBreacher/WhatsMyName",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": null,
     "license": "NOASSERTION",
-    "stars": 3048,
+    "stars": 3056,
     "size_mb": 5,
     "created_at": "2015-10-02T21:12:55Z",
     "last_commit_at": "2026-11-09T15:06:40Z",
@@ -55,5 +58,6 @@
   "pack": {
     "sha": "abcb19d6809f0e963e353819c571133b45b6a106",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-09T15:06:40Z"
 }

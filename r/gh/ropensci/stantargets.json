@@ -9,10 +9,12 @@
   "why": "Runs cmdstanr Bayesian models as steps in a targets pipeline in R, keeping the analysis reproducible.",
   "keys": {
     "races": [
-      "data/pipelines"
+      "data/pipelines",
+      "data/statistics"
     ],
     "lanes": [
-      "data/pipelines"
+      "data/pipelines",
+      "data/statistics"
     ],
     "capabilities": []
   },

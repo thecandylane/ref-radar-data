@@ -1,0 +1,70 @@
+{
+  "id": "gh:tchivs/gsd-omp",
+  "kind": "repo",
+  "url": "https://github.com/tchivs/gsd-omp",
+  "title": "gsd-omp",
+  "why": "Projects planning commands and skills into an agent runtime through a plugin, and updates itself from GitHub releases.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/coding/plugin-architectures",
+      "agents/skills/plugin-specs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tchivs/gsd-omp",
+    "sha": "7df847d2224b90f4b601f97152e6e6e8975fc2d0",
+    "file_url": "https://cdn.jsdelivr.net/gh/tchivs/gsd-omp@7df847d2224b90f4b601f97152e6e6e8975fc2d0/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 20,
+    "size_mb": 0,
+    "created_at": "2026-07-17T03:06:02Z",
+    "last_commit_at": "2026-09-30T07:35:57Z",
+    "releases": 0,
+    "tags": 26,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.25",
+      "at": "2026-09-30T07:36:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7df847d2224b90f4b601f97152e6e6e8975fc2d0",
+    "v": 4
+  },
+  "pinned_at": "2026-09-30T07:35:57Z"
+}

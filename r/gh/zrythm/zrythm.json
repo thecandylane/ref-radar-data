@@ -1,0 +1,64 @@
+{
+  "id": "gh:zrythm/zrythm",
+  "kind": "repo",
+  "url": "https://github.com/zrythm/zrythm",
+  "title": "zrythm",
+  "why": "Imports audio and MIDI files onto tracks and loads plugins, with chord pads and arranger editing in the same code base.",
+  "keys": {
+    "races": [
+      "media/audio-production"
+    ],
+    "lanes": [
+      "media/audio-production"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zrythm/zrythm",
+    "sha": "c680fbad9265cbad578d6fda1ba251766e91edaa",
+    "file_url": "https://cdn.jsdelivr.net/gh/zrythm/zrythm@c680fbad9265cbad578d6fda1ba251766e91edaa/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 3217,
+    "size_mb": 226,
+    "created_at": "2019-07-11T09:24:15Z",
+    "last_commit_at": "2026-11-21T02:46:33Z",
+    "releases": 33,
+    "tags": 308,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2024-11-21T14:23:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c680fbad9265cbad578d6fda1ba251766e91edaa",
+    "v": 4
+  }
+}

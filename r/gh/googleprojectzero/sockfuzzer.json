@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e50796677f58f6514530997ffb7c1f1e483a3725"
+  },
+  "id": "gh:googleprojectzero/sockfuzzer",
+  "kind": "repo",
+  "url": "https://github.com/googleprojectzero/SockFuzzer",
+  "title": "SockFuzzer",
+  "why": "Builds the XNU kernel as a library and fuzzes its BSD, Mach and networking code in userspace with Centipede and ASAN.",
+  "keys": {
+    "races": [
+      "exploit/fuzzing",
+      "systems/os"
+    ],
+    "lanes": [
+      "exploit/fuzzing",
+      "systems/os"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/googleprojectzero/SockFuzzer",
+    "sha": "e50796677f58f6514530997ffb7c1f1e483a3725",
+    "file_url": "https://cdn.jsdelivr.net/gh/googleprojectzero/SockFuzzer@e50796677f58f6514530997ffb7c1f1e483a3725/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 452,
+    "size_mb": 25,
+    "created_at": "2021-04-22T17:50:10Z",
+    "last_commit_at": "2024-10-03T18:46:57Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": true,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e50796677f58f6514530997ffb7c1f1e483a3725",
+    "v": 4
+  },
+  "pinned_at": "2024-10-03T18:46:57Z"
+}

@@ -1,0 +1,75 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9565508df8f7f7bba4119f4f523fc4635455a4db"
+  },
+  "id": "gh:1313e/prism",
+  "kind": "repo",
+  "url": "https://github.com/1313e/PRISM",
+  "title": "PRISM",
+  "why": "Builds an emulator by history matching, narrowing parameter space with a few thousand model evaluations where MCMC runs far more.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "data/statistics",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/1313e/PRISM",
+    "sha": "9565508df8f7f7bba4119f4f523fc4635455a4db",
+    "file_url": "https://cdn.jsdelivr.net/gh/1313e/PRISM@9565508df8f7f7bba4119f4f523fc4635455a4db/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 48,
+    "size_mb": 10,
+    "created_at": "2018-02-06T02:53:21Z",
+    "last_commit_at": "2021-02-01T04:08:52Z",
+    "releases": 13,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.2",
+      "at": "2021-02-01T04:09:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9565508df8f7f7bba4119f4f523fc4635455a4db",
+    "v": 4
+  },
+  "pinned_at": "2021-02-01T04:08:52Z",
+  "papers": [
+    {
+      "id": "arxiv:1901.08725",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

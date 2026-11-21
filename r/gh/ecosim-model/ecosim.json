@@ -1,0 +1,62 @@
+{
+  "id": "gh:ecosim-model/ecosim",
+  "kind": "repo",
+  "url": "https://github.com/EcoSIM-model/EcoSIM",
+  "title": "EcoSIM",
+  "why": "Tunes EcoSIM parameters in a calibration environment that resets, steps and rewards each model run against target output.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "agents/optimization"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "agents/optimization"
+    ],
+    "capabilities": [
+      "agents/optimization/rl-environments"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/EcoSIM-model/EcoSIM",
+    "sha": "c1965c7da5cbab2cd43955a26384e05d439c2c49",
+    "file_url": "https://cdn.jsdelivr.net/gh/EcoSIM-model/EcoSIM@c1965c7da5cbab2cd43955a26384e05d439c2c49/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "NOASSERTION",
+    "stars": 5,
+    "size_mb": 72,
+    "created_at": "2021-10-04T16:50:02Z",
+    "last_commit_at": "2026-11-19T20:21:59Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c1965c7da5cbab2cd43955a26384e05d439c2c49",
+    "v": 4
+  },
+  "pinned_at": "2026-11-19T20:21:59Z"
+}

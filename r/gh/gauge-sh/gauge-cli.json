@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:0847aacbdf796f53829d8183cefdf754b7ae9ae5"
+  },
   "id": "gh:gauge-sh/gauge-cli",
   "kind": "repo",
   "url": "https://github.com/gauge-sh/gauge-cli",
@@ -37,13 +40,13 @@
     "stars": 154,
     "size_mb": 2,
     "created_at": "2026-10-20T08:02:21Z",
-    "last_commit_at": "2026-11-19T19:01:21Z",
-    "releases": 6,
-    "tags": 19,
+    "last_commit_at": "2026-11-21T01:04:33Z",
+    "releases": 7,
+    "tags": 20,
     "archived": false,
     "release": {
-      "tag": "cli-v0.34.0",
-      "at": "2026-11-19T19:04:06.000Z"
+      "tag": "cli-v0.35.0",
+      "at": "2026-11-21T01:10:47.000Z"
     }
   },
   "reuse": "copy",

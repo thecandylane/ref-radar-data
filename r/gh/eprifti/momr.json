@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4245fe9ad326147c7386565ac1f6612b136b34a0"
+  },
+  "id": "gh:eprifti/momr",
+  "kind": "repo",
+  "url": "https://github.com/eprifti/momr",
+  "title": "momr",
+  "why": "R package with an R/ source folder and bundled data/ and man/ pages, for working through metagenomics data in R.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "DESCRIPTION",
+      "kind": "path"
+    },
+    {
+      "locator": "R",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/eprifti/momr",
+    "sha": "4245fe9ad326147c7386565ac1f6612b136b34a0",
+    "file_url": "https://cdn.jsdelivr.net/gh/eprifti/momr@4245fe9ad326147c7386565ac1f6612b136b34a0/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 9,
+    "created_at": "2015-07-26T09:49:09Z",
+    "last_commit_at": "2024-12-09T12:31:34Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4245fe9ad326147c7386565ac1f6612b136b34a0",
+    "v": 4
+  },
+  "pinned_at": "2024-12-09T12:31:34Z"
+}

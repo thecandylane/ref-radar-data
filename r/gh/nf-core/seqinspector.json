@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d97d2b1728e6c0bad7b0f01789ba0e1c2ee74620"
+  },
+  "id": "gh:nf-core/seqinspector",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/seqinspector",
+  "title": "seqinspector",
+  "why": "Reads Illumina run parameters and builds the MultiQC config, so sequencing QC reports pull metadata from the run folder.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/seqinspector",
+    "sha": "d97d2b1728e6c0bad7b0f01789ba0e1c2ee74620",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/seqinspector@d97d2b1728e6c0bad7b0f01789ba0e1c2ee74620/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 28,
+    "size_mb": 4,
+    "created_at": "2024-03-14T10:40:33Z",
+    "last_commit_at": "2026-10-08T08:36:02Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "1.1.2",
+      "at": "2026-08-19T12:20:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d97d2b1728e6c0bad7b0f01789ba0e1c2ee74620",
+    "v": 4
+  },
+  "pinned_at": "2026-10-08T08:36:02Z"
+}

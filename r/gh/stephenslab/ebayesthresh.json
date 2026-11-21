@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:924b907ab3d1e9c4b80d45b9da9bd8eb7062cf9f"
+  },
+  "id": "gh:stephenslab/ebayesthresh",
+  "kind": "repo",
+  "url": "https://github.com/stephenslab/EbayesThresh",
+  "title": "EbayesThresh",
+  "why": "Gives an R interface to empirical Bayes thresholding after Johnstone and Silverman, with a vignette that walks through the methods.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/stephenslab/EbayesThresh",
+    "sha": "924b907ab3d1e9c4b80d45b9da9bd8eb7062cf9f",
+    "file_url": "https://cdn.jsdelivr.net/gh/stephenslab/EbayesThresh@924b907ab3d1e9c4b80d45b9da9bd8eb7062cf9f/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 5,
+    "size_mb": 3,
+    "created_at": "2017-07-26T21:15:16Z",
+    "last_commit_at": "2017-12-18T19:41:27Z",
+    "releases": 3,
+    "tags": 51,
+    "archived": false,
+    "release": {
+      "tag": "v1.4-12",
+      "at": "2017-07-30T03:48:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "924b907ab3d1e9c4b80d45b9da9bd8eb7062cf9f",
+    "v": 4
+  },
+  "pinned_at": "2017-12-18T19:41:27Z"
+}

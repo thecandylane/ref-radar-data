@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:99e6dbe3ca0fd1f10476dbf1bed8482541692337"
+  },
+  "id": "gh:linetools/linetools",
+  "kind": "repo",
+  "url": "https://github.com/linetools/linetools",
+  "title": "linetools",
+  "why": "Handles 1d astronomical spectra, quasar and galaxy ones especially, and is powered by AstroPy.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/linetools/linetools",
+    "sha": "99e6dbe3ca0fd1f10476dbf1bed8482541692337",
+    "file_url": "https://cdn.jsdelivr.net/gh/linetools/linetools@99e6dbe3ca0fd1f10476dbf1bed8482541692337/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 33,
+    "size_mb": 36,
+    "created_at": "2015-05-25T00:15:17Z",
+    "last_commit_at": "2025-10-24T11:25:45Z",
+    "releases": 3,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v0.3",
+      "at": "2017-10-25T16:10:56.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "99e6dbe3ca0fd1f10476dbf1bed8482541692337",
+    "v": 4
+  },
+  "pinned_at": "2025-10-24T11:25:45Z"
+}

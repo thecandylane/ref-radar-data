@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:af0426f5adac1ed1d6652b3916d926a83724fb17"
+  },
+  "id": "gh:biancoroyal/node-red-contrib-modbus",
+  "kind": "repo",
+  "url": "https://github.com/BiancoRoyal/node-red-contrib-modbus",
+  "title": "node-red-contrib-modbus",
+  "why": "Modbus client, server and read and write nodes for Node-RED flows, with a sequencer for ordering queued requests.",
+  "keys": {
+    "races": [
+      "industrial/protocols",
+      "industrial/scada"
+    ],
+    "lanes": [
+      "industrial/protocols",
+      "industrial/scada"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/BiancoRoyal/node-red-contrib-modbus",
+    "sha": "af0426f5adac1ed1d6652b3916d926a83724fb17",
+    "file_url": "https://cdn.jsdelivr.net/gh/BiancoRoyal/node-red-contrib-modbus@af0426f5adac1ed1d6652b3916d926a83724fb17/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "BSD-3-Clause",
+    "stars": 348,
+    "size_mb": 15,
+    "created_at": "2017-01-18T18:16:03Z",
+    "last_commit_at": "2026-10-25T09:59:47Z",
+    "releases": 17,
+    "tags": 67,
+    "archived": false,
+    "release": {
+      "tag": "v5.62.1",
+      "at": "2026-10-25T10:03:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "af0426f5adac1ed1d6652b3916d926a83724fb17",
+    "v": 4
+  },
+  "pinned_at": "2026-10-25T09:59:47Z"
+}

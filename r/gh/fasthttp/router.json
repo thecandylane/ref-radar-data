@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3e6dd1241c468f501a9f8154c92904eba84dddd2"
+  },
+  "id": "gh:fasthttp/router",
+  "kind": "repo",
+  "url": "https://github.com/fasthttp/router",
+  "title": "fasthttp/router",
+  "why": "Routes fasthttp requests through a radix tree of path patterns, with groups, file serving and case-insensitive path lookup.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fasthttp/router",
+    "sha": "3e6dd1241c468f501a9f8154c92904eba84dddd2",
+    "file_url": "https://cdn.jsdelivr.net/gh/fasthttp/router@3e6dd1241c468f501a9f8154c92904eba84dddd2/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "BSD-3-Clause",
+    "stars": 503,
+    "size_mb": 0,
+    "created_at": "2018-10-15T14:09:19Z",
+    "last_commit_at": "2026-10-20T23:34:18Z",
+    "releases": 79,
+    "tags": 80,
+    "archived": false,
+    "release": {
+      "tag": "v1.5.4",
+      "at": "2025-01-01T23:00:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3e6dd1241c468f501a9f8154c92904eba84dddd2",
+    "v": 4
+  },
+  "pinned_at": "2026-10-20T23:34:18Z"
+}

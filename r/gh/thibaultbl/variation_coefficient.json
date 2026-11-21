@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:84204fa3a8b85771626b48a869f0e39d037eb604"
+  },
+  "id": "gh:thibaultbl/variation_coefficient",
+  "kind": "repo",
+  "url": "https://github.com/thibaultbl/variation_coefficient",
+  "title": "variation_coefficient",
+  "why": "Adds a coefficient of variation calculation to Zeek's Sumstats, so network logs can report spread relative to the mean.",
+  "keys": {
+    "races": [
+      "netsec/capture",
+      "data/statistics"
+    ],
+    "lanes": [
+      "netsec/capture",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/thibaultbl/variation_coefficient",
+    "sha": "84204fa3a8b85771626b48a869f0e39d037eb604",
+    "file_url": "https://cdn.jsdelivr.net/gh/thibaultbl/variation_coefficient@84204fa3a8b85771626b48a869f0e39d037eb604/{path}"
+  },
+  "facts": {
+    "lang": "Zeek",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2021-07-01T07:13:54Z",
+    "last_commit_at": "2021-07-01T07:51:07Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "84204fa3a8b85771626b48a869f0e39d037eb604",
+    "v": 4
+  },
+  "pinned_at": "2021-07-01T07:51:07Z"
+}

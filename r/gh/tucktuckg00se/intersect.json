@@ -1,0 +1,65 @@
+{
+  "id": "gh:tucktuckg00se/intersect",
+  "kind": "repo",
+  "url": "https://github.com/tucktuckg00se/INTERSECT",
+  "title": "INTERSECT",
+  "why": "Maps audio slices to MIDI notes in a sampler plugin, with stem separation and an undo history for edits.",
+  "keys": {
+    "races": [
+      "media/audio-production"
+    ],
+    "lanes": [
+      "media/audio-production"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tucktuckg00se/INTERSECT",
+    "sha": "dd3d7ab230b7b5ea62da7f235b97a42ebddccb2a",
+    "file_url": "https://cdn.jsdelivr.net/gh/tucktuckg00se/INTERSECT@dd3d7ab230b7b5ea62da7f235b97a42ebddccb2a/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-3.0",
+    "stars": 346,
+    "size_mb": 17,
+    "created_at": "2026-02-14T08:09:38Z",
+    "last_commit_at": "2026-11-15T16:42:28Z",
+    "releases": 68,
+    "tags": 70,
+    "archived": false,
+    "release": {
+      "tag": "v0.20.0",
+      "at": "2026-11-15T17:03:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dd3d7ab230b7b5ea62da7f235b97a42ebddccb2a",
+    "v": 4
+  },
+  "pinned_at": "2026-11-15T16:42:28Z"
+}

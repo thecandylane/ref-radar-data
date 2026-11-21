@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e40dd8ac9380fdd36d5bf6656c36a2c36985741d"
+  },
+  "id": "gh:constantcontact/php-sdk",
+  "kind": "repo",
+  "url": "https://github.com/constantcontact/php-sdk",
+  "title": "php-sdk",
+  "why": "PHP client for the Constant Contact v2 API, with a contact service and parameter arrays for calls, built on Guzzle.",
+  "keys": {
+    "races": [
+      "marketing/email",
+      "sales/crm"
+    ],
+    "lanes": [
+      "marketing/email",
+      "sales/crm"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/constantcontact/php-sdk",
+    "sha": "e40dd8ac9380fdd36d5bf6656c36a2c36985741d",
+    "file_url": "https://cdn.jsdelivr.net/gh/constantcontact/php-sdk@e40dd8ac9380fdd36d5bf6656c36a2c36985741d/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "NOASSERTION",
+    "stars": 105,
+    "size_mb": 4,
+    "created_at": "2013-03-06T17:16:51Z",
+    "last_commit_at": "2016-03-29T22:40:03Z",
+    "releases": 14,
+    "tags": 17,
+    "archived": true,
+    "release": {
+      "tag": "2.1.4",
+      "at": "2016-02-17T14:21:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e40dd8ac9380fdd36d5bf6656c36a2c36985741d",
+    "v": 4
+  },
+  "pinned_at": "2016-03-29T22:40:03Z"
+}

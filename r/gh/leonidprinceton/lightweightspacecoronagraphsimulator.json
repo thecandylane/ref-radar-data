@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:173a9b491342eb348847573d1d565a4432fbfc00"
+  },
+  "id": "gh:leonidprinceton/lightweightspacecoronagraphsimulator",
+  "kind": "repo",
+  "url": "https://github.com/leonidprinceton/LightweightSpaceCoronagraphSimulator",
+  "title": "LightweightSpaceCoronagraphSimulator",
+  "why": "Simulates the Roman Space Telescope's Hybrid Lyot Coronagraph, with E-field sensitivity, a dark hole mask and images with shot noise.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/leonidprinceton/LightweightSpaceCoronagraphSimulator",
+    "sha": "173a9b491342eb348847573d1d565a4432fbfc00",
+    "file_url": "https://raw.githubusercontent.com/leonidprinceton/LightweightSpaceCoronagraphSimulator/173a9b491342eb348847573d1d565a4432fbfc00/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 2,
+    "size_mb": 446,
+    "created_at": "2020-04-10T13:40:34Z",
+    "last_commit_at": "2020-08-19T21:05:36Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "173a9b491342eb348847573d1d565a4432fbfc00",
+    "v": 4
+  },
+  "pinned_at": "2020-08-19T21:05:36Z"
+}

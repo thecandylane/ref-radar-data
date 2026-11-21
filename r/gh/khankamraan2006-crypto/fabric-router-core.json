@@ -1,0 +1,60 @@
+{
+  "id": "gh:khankamraan2006-crypto/fabric-router-core",
+  "kind": "repo",
+  "url": "https://github.com/khankamraan2006-crypto/fabric-router-core",
+  "title": "fabric-router-core",
+  "why": "Routes each LLM request to a provider by latency, error rate and cost-per-token, with Droid OAuth checks on the way in.",
+  "keys": {
+    "races": [
+      "llm-infra/gateways"
+    ],
+    "lanes": [
+      "llm-infra/gateways"
+    ],
+    "capabilities": [
+      "llm-infra/gateways/llm-gateway",
+      "llm-infra/gateways/model-routing"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/khankamraan2006-crypto/fabric-router-core",
+    "sha": "e14caeb401a5bdf6029a9b46fc9796384209b3f3",
+    "file_url": "https://cdn.jsdelivr.net/gh/khankamraan2006-crypto/fabric-router-core@e14caeb401a5bdf6029a9b46fc9796384209b3f3/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "none",
+    "stars": 115,
+    "size_mb": 2,
+    "created_at": "2026-06-28T20:37:54Z",
+    "last_commit_at": "2026-11-21T07:57:52Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e14caeb401a5bdf6029a9b46fc9796384209b3f3",
+    "v": 4
+  }
+}

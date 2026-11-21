@@ -1,0 +1,55 @@
+{
+  "id": "gh:mitre-attack/bzar",
+  "kind": "repo",
+  "url": "https://github.com/mitre-attack/bzar",
+  "title": "bzar",
+  "why": "Zeek scripts that flag ATT&CK lateral movement and discovery in SMB and DCE-RPC traffic, combining several indicators into one notice.",
+  "keys": {
+    "races": [
+      "netsec/ids",
+      "cyber/detection"
+    ],
+    "lanes": [
+      "netsec/ids",
+      "cyber/detection"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mitre-attack/bzar",
+    "sha": "59bae4a0e7849a75fa5ea86a206f10f3ce8dbe22",
+    "file_url": "https://cdn.jsdelivr.net/gh/mitre-attack/bzar@59bae4a0e7849a75fa5ea86a206f10f3ce8dbe22/{path}"
+  },
+  "facts": {
+    "lang": "Zeek",
+    "license": "BSD-3-Clause",
+    "stars": 626,
+    "size_mb": 0,
+    "created_at": "2019-05-16T19:47:16Z",
+    "last_commit_at": "2024-06-26T16:32:59Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

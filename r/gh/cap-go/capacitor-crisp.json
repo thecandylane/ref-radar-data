@@ -1,0 +1,71 @@
+{
+  "id": "gh:cap-go/capacitor-crisp",
+  "kind": "repo",
+  "url": "https://github.com/Cap-go/capacitor-crisp",
+  "title": "capacitor-crisp",
+  "why": "Capacitor plugin that opens Crisp chat, sends messages and sets user data, with push notifications on iOS and Android.",
+  "keys": {
+    "races": [
+      "mobile/cross-platform",
+      "support/helpdesk",
+      "mobile/android",
+      "mobile/ios"
+    ],
+    "lanes": [
+      "mobile/cross-platform",
+      "support/helpdesk",
+      "mobile/android",
+      "mobile/ios"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Cap-go/capacitor-crisp",
+    "sha": "6c03adc6104650c3b0a7a703ca4d3da52fe38028",
+    "file_url": "https://cdn.jsdelivr.net/gh/Cap-go/capacitor-crisp@6c03adc6104650c3b0a7a703ca4d3da52fe38028/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MPL-2.0",
+    "stars": 19,
+    "size_mb": 2,
+    "created_at": "2021-11-20T00:08:45Z",
+    "last_commit_at": "2026-11-18T15:43:54Z",
+    "releases": 84,
+    "tags": 211,
+    "archived": false,
+    "release": {
+      "tag": "8.2.17",
+      "at": "2026-11-13T12:47:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6c03adc6104650c3b0a7a703ca4d3da52fe38028",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T15:43:54Z"
+}

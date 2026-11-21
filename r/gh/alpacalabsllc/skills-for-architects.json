@@ -1,0 +1,63 @@
+{
+  "id": "gh:alpacalabsllc/skills-for-architects",
+  "kind": "repo",
+  "url": "https://github.com/AlpacaLabsLLC/skills-for-architects",
+  "title": "skills-for-architects",
+  "why": "Skill pack for architects that turns drawing quantities, lighting schedules and product lists into PDF and CSV outputs.",
+  "keys": {
+    "races": [
+      "agents/skills",
+      "construction/project-controls"
+    ],
+    "lanes": [
+      "agents/skills",
+      "construction/project-controls"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AlpacaLabsLLC/skills-for-architects",
+    "sha": "f11144680c93a1fdf52f3f96fe94875b7d0103f3",
+    "file_url": "https://cdn.jsdelivr.net/gh/AlpacaLabsLLC/skills-for-architects@f11144680c93a1fdf52f3f96fe94875b7d0103f3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 427,
+    "size_mb": 3,
+    "created_at": "2026-03-02T08:45:27Z",
+    "last_commit_at": "2026-11-11T19:06:47Z",
+    "releases": 20,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v1.5.3",
+      "at": "2026-11-11T19:08:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f11144680c93a1fdf52f3f96fe94875b7d0103f3",
+    "v": 4
+  },
+  "pinned_at": "2026-11-11T19:06:47Z"
+}

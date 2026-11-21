@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a0a8100b2b439f5fea9c6c08dd702558fe239eef"
+  },
+  "id": "gh:taylorhakes/promise-polyfill",
+  "kind": "repo",
+  "url": "https://github.com/taylorhakes/promise-polyfill",
+  "title": "promise-polyfill",
+  "why": "Adds a global Promise to browsers such as IE8 that lack one, in under 1kb gzipped, or exposes a ponyfill that leaves globals alone.",
+  "keys": {
+    "races": [
+      "web/browsers",
+      "languages/runtimes"
+    ],
+    "lanes": [
+      "web/browsers",
+      "languages/runtimes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/taylorhakes/promise-polyfill",
+    "sha": "a0a8100b2b439f5fea9c6c08dd702558fe239eef",
+    "file_url": "https://cdn.jsdelivr.net/gh/taylorhakes/promise-polyfill@a0a8100b2b439f5fea9c6c08dd702558fe239eef/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 2139,
+    "size_mb": 1,
+    "created_at": "2014-02-21T19:01:46Z",
+    "last_commit_at": "2024-05-17T15:50:05Z",
+    "releases": 0,
+    "tags": 34,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a0a8100b2b439f5fea9c6c08dd702558fe239eef",
+    "v": 4
+  },
+  "pinned_at": "2024-05-17T15:50:05Z"
+}

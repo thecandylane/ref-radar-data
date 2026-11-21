@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:13:22.249Z",
+  "generated_at": "2026-11-21T12:54:37.248Z",
   "nodes": [
     {
       "key": "agents",
@@ -724,6 +724,13 @@
       "label": "Schema-based formats"
     },
     {
+      "key": "data/statistics",
+      "parent": "data",
+      "level": "race",
+      "label": "Statistics and modelling",
+      "scope": "in: statistical methods, regression and survival models, econometrics, model comparison and Bayesian inference / out: dashboards and BI see data/analytics"
+    },
+    {
       "key": "data/storage",
       "parent": "data",
       "level": "race",
@@ -1050,6 +1057,20 @@
       "level": "race",
       "label": "Reservoir and subsurface",
       "scope": "in: reservoir simulators, well-log formats, seismic and geological models / out: general open datasets see data/datasets"
+    },
+    {
+      "key": "environment",
+      "parent": null,
+      "level": "domain",
+      "label": "Earth and environment",
+      "discipline": "earth"
+    },
+    {
+      "key": "environment/earth-data",
+      "parent": "environment",
+      "level": "race",
+      "label": "Environmental data and models",
+      "scope": "in: hydrology, weather, land-use, agriculture and biodiversity data clients and models / out: maps and GIS see data/geospatial"
     },
     {
       "key": "exploit",
@@ -1766,6 +1787,20 @@
       "scope": "in: social post schedulers, cross-posting tools and content calendars / out: news readers and feeds see media/news"
     },
     {
+      "key": "math",
+      "parent": null,
+      "level": "domain",
+      "label": "Mathematics",
+      "discipline": "science"
+    },
+    {
+      "key": "math/formal-proofs",
+      "parent": "math",
+      "level": "race",
+      "label": "Formal proofs",
+      "scope": "in: Lean, Coq and Isabelle proof developments, formalized mathematics and proof checking scripts / out: type checkers for programming languages see languages/type-systems"
+    },
+    {
       "key": "media",
       "parent": null,
       "level": "domain",
@@ -1886,6 +1921,13 @@
       "level": "race",
       "label": "EHR and hospital systems",
       "scope": "in: electronic health records, hospital information systems, practice management and lab information systems / out: genomics and lab omics see biology/bioinformatics"
+    },
+    {
+      "key": "medicine/health-data",
+      "parent": "medicine",
+      "level": "race",
+      "label": "Health data and epidemiology",
+      "scope": "in: clinical, survey and registry data access, epidemiology and reproducible health study code / out: open datasets in general see data/datasets"
     },
     {
       "key": "medicine/interoperability",
@@ -2307,6 +2349,13 @@
       "discipline": "apps"
     },
     {
+      "key": "web/browsers",
+      "parent": "web",
+      "level": "race",
+      "label": "Web browsers",
+      "scope": "in: web browsers and browser engines / out: UI component libraries see web/ui-components"
+    },
+    {
       "key": "web/cms",
       "parent": "web",
       "level": "race",
@@ -2439,10 +2488,12 @@
     "baas": "mobile/app-backends",
     "backend-as-a-service": "mobile/app-backends",
     "backtest": "finance/trading/backtesting",
+    "bayesian-statistics": "data/statistics",
     "billing": "finance/billing",
     "bim": "engineering/bim",
     "binary-analysis": "cyber/reversing",
     "binary-ninja": "cyber/reversing/disassemblers",
+    "biodiversity": "environment/earth-data",
     "bioinformatics": "biology/bioinformatics",
     "bitnet-cpp": "llm-infra/inference/low-bit",
     "block-storage": "data/storage",
@@ -2451,6 +2502,8 @@
     "bpm": "business-apps/bpm",
     "bpmn": "business-apps/bpm",
     "breach-simulation": "exploit/adversary-emulation",
+    "browser": "web/browsers",
+    "browser-engine": "web/browsers",
     "browser-fingerprinting": "privacy/fingerprinting",
     "budget": "finance/personal/budgeting",
     "buffer-alternative": "marketing/social-media",
@@ -2492,6 +2545,7 @@
     "claude-skills": "agents/skills",
     "cli-proxy-api": "llm-infra/gateways/api-proxy",
     "climate-risk": "insurance/catastrophe-risk",
+    "clinical-data": "medicine/health-data",
     "clinical-ml": "medicine/clinical-ml",
     "clinical-nlp": "medicine/clinical-ml",
     "cloud": "infra",
@@ -2609,6 +2663,7 @@
     "e-voting": "civic/elections",
     "e2e": "dev-tools/testing/e2e-testing",
     "e2e-testing": "dev-tools/testing/e2e-testing",
+    "econometrics": "data/statistics",
     "eda": "engineering/eda",
     "edge-functions": "infra/serverless",
     "edms": "business-apps/document-management",
@@ -2635,6 +2690,7 @@
     "engineering-management": "practice/process",
     "enterprise-search": "llm-infra/rag/knowledge-platforms",
     "entso-e": "energy/grid-data",
+    "epidemiology": "medicine/health-data",
     "esp32": "embedded/firmware",
     "ethercat": "industrial/protocols",
     "ethical-hacking": "cyber/offensive",
@@ -2672,6 +2728,8 @@
     "fonts": "media/fonts",
     "food-hub": "agriculture/farm-management",
     "form-builder": "support/feedback",
+    "formal-proofs": "math/formal-proofs",
+    "formalized-math": "math/formal-proofs",
     "fpga": "engineering/hdl",
     "free-api": "llm-infra/gateways/free-providers",
     "freedom-of-information": "civic/service-delivery",
@@ -2706,6 +2764,7 @@
     "gui-toolkit": "desktop/native-ui",
     "hdl": "engineering/hdl",
     "headless-cms": "web/cms",
+    "health-data": "medicine/health-data",
     "healthcare-ai": "medicine/clinical-ml",
     "healthcare-interoperability": "medicine/interoperability",
     "helpdesk": "support/helpdesk",
@@ -2722,6 +2781,7 @@
     "hpc": "sci/hpc",
     "hris": "hr/hris",
     "hrms": "hr/hris",
+    "hydrology": "environment/earth-data",
     "iam": "cyber/identity",
     "ida-pro": "cyber/reversing/disassemblers",
     "identity-management": "cyber/identity",
@@ -2767,10 +2827,12 @@
     "kubernetes-client": "infra/kubernetes/desktop-clients",
     "kubernetes-dashboard": "infra/kubernetes/desktop-clients",
     "kubernetes-gui": "infra/kubernetes/desktop-clients",
+    "land-use": "environment/earth-data",
     "landlord": "real-estate/property-management",
     "latex": "media/typesetting",
     "lead-generation": "sales/prospecting",
     "leakage-analysis": "hardware/side-channel",
+    "lean4": "math/formal-proofs",
     "learn-by-doing": "learning/exercises",
     "learning-management-system": "learning/lms",
     "learning-path": "learning/courses",
@@ -2838,6 +2900,7 @@
     "message-queue": "data/queues",
     "meta-tags": "seo/meta-sitemaps",
     "metal": "llm-infra/inference/apple-silicon",
+    "meteorology": "environment/earth-data",
     "microcontroller": "embedded/firmware",
     "microsimulation": "civic/rules-as-code",
     "mifare": "hardware/nfc",
@@ -2962,6 +3025,7 @@
     "project-scheduling": "construction/project-controls",
     "prompt-injection": "cyber/agent-security",
     "prompt-optimization": "agents/optimization",
+    "proof-assistant": "math/formal-proofs",
     "property-listings": "real-estate/listings",
     "property-management": "real-estate/property-management",
     "property-tax": "real-estate/property-data",
@@ -2970,6 +3034,7 @@
     "protocol-buffers": "data/serialization/schema-formats",
     "prototyping": "design/tools",
     "proxy-chains": "privacy/anonymity",
+    "public-health": "medicine/health-data",
     "pull-request-review": "dev-tools/code-review",
     "pulumi": "infra/iac",
     "purple-team": "exploit/adversary-emulation",
@@ -3086,6 +3151,8 @@
     "sre": "practice/reliability",
     "ssg": "web/static-sites",
     "static-site-generator": "web/static-sites",
+    "statistical-modeling": "data/statistics",
+    "statistics": "data/statistics",
     "stealth": "agents/tools/browser-automation",
     "stock-analysis": "finance/markets",
     "stock-data": "finance/markets/market-data",
@@ -3184,6 +3251,7 @@
     "wasm-runtime": "languages/runtimes",
     "wcag": "design/accessibility",
     "wealth-management": "finance/personal/wealth-tracking",
+    "web-browser": "web/browsers",
     "web-framework": "web/frameworks",
     "web-hosting": "infra/hosting/control-panels",
     "web-maps": "data/geospatial",
@@ -3277,6 +3345,7 @@
         "biology",
         "construction",
         "engineering",
+        "math",
         "sci",
         "space"
       ]
@@ -3287,7 +3356,8 @@
       "ord": 8,
       "domains": [
         "agriculture",
-        "energy"
+        "energy",
+        "environment"
       ]
     },
     {

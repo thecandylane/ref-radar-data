@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:516dfc99f40c083994fe1dbff69ebd6542faaf08"
+  },
+  "id": "gh:mikakaraila/node-red-contrib-opcua",
+  "kind": "repo",
+  "url": "https://github.com/mikakaraila/node-red-contrib-opcua",
+  "title": "node-red-contrib-opcua",
+  "why": "Node-RED nodes that connect flows to OPC UA servers, browse their nodes, and call methods, with certificate handling.",
+  "keys": {
+    "races": [
+      "industrial/protocols"
+    ],
+    "lanes": [
+      "industrial/protocols"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Readme.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mikakaraila/node-red-contrib-opcua",
+    "sha": "516dfc99f40c083994fe1dbff69ebd6542faaf08",
+    "file_url": "https://cdn.jsdelivr.net/gh/mikakaraila/node-red-contrib-opcua@516dfc99f40c083994fe1dbff69ebd6542faaf08/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "NOASSERTION",
+    "stars": 269,
+    "size_mb": 6,
+    "created_at": "2015-01-12T07:17:11Z",
+    "last_commit_at": "2026-08-26T09:34:07Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "516dfc99f40c083994fe1dbff69ebd6542faaf08",
+    "v": 4
+  },
+  "pinned_at": "2026-08-26T09:34:07Z"
+}

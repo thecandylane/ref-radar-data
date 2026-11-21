@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ee4950a9d30d6687f394eae61c3c552554678404"
+  },
+  "id": "gh:henrikbengtsson/illuminaio",
+  "kind": "repo",
+  "url": "https://github.com/HenrikBengtsson/illuminaio",
+  "title": "illuminaio",
+  "why": "Parses Illumina microarray output files from R, as a Bioconductor package that also compiles native code for reading the formats.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/HenrikBengtsson/illuminaio",
+    "sha": "ee4950a9d30d6687f394eae61c3c552554678404",
+    "file_url": "https://cdn.jsdelivr.net/gh/HenrikBengtsson/illuminaio@ee4950a9d30d6687f394eae61c3c552554678404/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 5,
+    "size_mb": 15,
+    "created_at": "2014-10-02T17:29:13Z",
+    "last_commit_at": "2023-01-02T19:55:39Z",
+    "releases": 0,
+    "tags": 29,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ee4950a9d30d6687f394eae61c3c552554678404",
+    "v": 4
+  },
+  "pinned_at": "2023-01-02T19:55:39Z"
+}

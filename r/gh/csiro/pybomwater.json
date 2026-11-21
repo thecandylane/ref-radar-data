@@ -1,0 +1,58 @@
+{
+  "id": "gh:csiro/pybomwater",
+  "kind": "repo",
+  "url": "https://github.com/csiro/pybomwater",
+  "title": "pybomwater",
+  "why": "Pulls water observations from the BoM Sensor Observation Service as WaterML 2.0, with a cache so repeat requests stay quick.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/datasets"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/csiro/pybomwater",
+    "sha": "a0888fa8e24ff39eb9168e9025e9b313a0c61db9",
+    "file_url": "https://cdn.jsdelivr.net/gh/csiro/pybomwater@a0888fa8e24ff39eb9168e9025e9b313a0c61db9/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 26,
+    "size_mb": 13,
+    "created_at": "2020-11-12T04:05:30Z",
+    "last_commit_at": "2026-09-29T23:45:07Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.5",
+      "at": "2026-09-24T00:11:56.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

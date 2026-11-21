@@ -1,0 +1,76 @@
+{
+  "id": "gh:nischalcs50/nsevdx",
+  "kind": "repo",
+  "url": "https://github.com/Nischalcs50/nsEVDx",
+  "title": "nsEVDx",
+  "why": "Fits extreme value models whose parameters drift over time using HMC and Mala samplers, then reports return periods and risk.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Nischalcs50/nsEVDx",
+    "sha": "4a0a1dcf3e13d3e39d206845db8c853c10927cd3",
+    "file_url": "https://cdn.jsdelivr.net/gh/Nischalcs50/nsEVDx@4a0a1dcf3e13d3e39d206845db8c853c10927cd3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 14,
+    "size_mb": 28,
+    "created_at": "2025-07-09T00:53:03Z",
+    "last_commit_at": "2026-09-29T16:24:21Z",
+    "releases": 6,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.8",
+      "at": "2026-09-04T15:52:22.000Z"
+    },
+    "doi": "10.21105/joss.11187"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "4a0a1dcf3e13d3e39d206845db8c853c10927cd3",
+    "v": 4
+  },
+  "pinned_at": "2026-09-29T16:24:21Z",
+  "papers": [
+    {
+      "id": "arxiv:1912.11554",
+      "via": [
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:1701.02434",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

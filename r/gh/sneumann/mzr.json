@@ -1,0 +1,62 @@
+{
+  "id": "gh:sneumann/mzr",
+  "kind": "repo",
+  "url": "https://github.com/sneumann/mzR",
+  "title": "mzR",
+  "why": "Opens and writes mass spectrometry run files from R via C++ bindings to the pwiz library, with peak lists, scan headers and chromatograms.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sneumann/mzR",
+    "sha": "9ce54db9d6e146c325fc80654c01d00d02a6256a",
+    "file_url": "https://cdn.jsdelivr.net/gh/sneumann/mzR@9ce54db9d6e146c325fc80654c01d00d02a6256a/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "none",
+    "stars": 44,
+    "size_mb": 107,
+    "created_at": "2014-04-07T13:33:50Z",
+    "last_commit_at": "2026-11-02T16:18:09Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9ce54db9d6e146c325fc80654c01d00d02a6256a",
+    "v": 4
+  },
+  "pinned_at": "2026-11-02T16:18:09Z"
+}

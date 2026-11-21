@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3a24a98a21b917bf0db871a9750480c282dbb1c3"
+  },
+  "id": "gh:ramikrispin/tsstudio",
+  "kind": "repo",
+  "url": "https://github.com/RamiKrispin/TSstudio",
+  "title": "TSstudio",
+  "why": "Plots seasonality and lags of a series, then trains six forecasting models with backtesting and ranks them by MAPE.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/RamiKrispin/TSstudio",
+    "sha": "3a24a98a21b917bf0db871a9750480c282dbb1c3",
+    "file_url": "https://cdn.jsdelivr.net/gh/RamiKrispin/TSstudio@3a24a98a21b917bf0db871a9750480c282dbb1c3/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 429,
+    "size_mb": 42,
+    "created_at": "2017-12-13T02:37:43Z",
+    "last_commit_at": "2023-08-09T04:47:38Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.6",
+      "at": "2020-01-21T05:32:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3a24a98a21b917bf0db871a9750480c282dbb1c3",
+    "v": 4
+  },
+  "pinned_at": "2023-08-09T04:47:38Z"
+}

@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6cfb11c18efb3b12a4e12d38ea1cbf426b777e7b"
+  },
+  "id": "gh:lmterryn/itsme",
+  "kind": "repo",
+  "url": "https://github.com/lmterryn/ITSMe",
+  "title": "ITSMe",
+  "why": "Samples R functions that compute tree structure metrics from point clouds and TreeQSM files, with a batch summary over whole folders.",
+  "keys": {
+    "races": [
+      "infra/iac"
+    ],
+    "lanes": [
+      "infra/iac"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lmterryn/ITSMe",
+    "sha": "6cfb11c18efb3b12a4e12d38ea1cbf426b777e7b",
+    "file_url": "https://cdn.jsdelivr.net/gh/lmterryn/ITSMe@6cfb11c18efb3b12a4e12d38ea1cbf426b777e7b/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 61,
+    "size_mb": 122,
+    "created_at": "2022-01-12T09:37:41Z",
+    "last_commit_at": "2026-05-19T10:04:31Z",
+    "releases": 5,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.0",
+      "at": "2025-07-17T11:03:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6cfb11c18efb3b12a4e12d38ea1cbf426b777e7b",
+    "v": 4
+  },
+  "pinned_at": "2026-05-19T10:04:31Z"
+}

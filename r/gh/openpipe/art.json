@@ -28,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/OpenPipe/ART",
-    "sha": "534620a41b82ed89667f4642cc0b8e1d00e2269b",
-    "file_url": "https://cdn.jsdelivr.net/gh/OpenPipe/ART@534620a41b82ed89667f4642cc0b8e1d00e2269b/{path}"
+    "sha": "55b423c3004afeec3362fd35717b47356dfdd9fa",
+    "file_url": "https://cdn.jsdelivr.net/gh/OpenPipe/ART@55b423c3004afeec3362fd35717b47356dfdd9fa/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -59,8 +59,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "534620a41b82ed89667f4642cc0b8e1d00e2269b",
-    "v": 3
-  }
+  "pins_before": [
+    "534620a41b82ed89667f4642cc0b8e1d00e2269b"
+  ],
+  "pinned_at": "2026-11-16T22:44:07Z"
 }

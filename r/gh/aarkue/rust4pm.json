@@ -1,0 +1,60 @@
+{
+  "id": "gh:aarkue/rust4pm",
+  "kind": "repo",
+  "url": "https://github.com/aarkue/rust4pm",
+  "title": "rust4pm",
+  "why": "Rust library for process mining that loads event logs from CSV, XML, DuckDB and Parquet, then runs discovery and alignments.",
+  "keys": {
+    "races": [
+      "business-apps/bpm"
+    ],
+    "lanes": [
+      "business-apps/bpm"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/aarkue/rust4pm",
+    "sha": "dc25aaf86d8ce13edaec3f37ba90fa8041b82b90",
+    "file_url": "https://cdn.jsdelivr.net/gh/aarkue/rust4pm@dc25aaf86d8ce13edaec3f37ba90fa8041b82b90/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 42,
+    "size_mb": 5,
+    "created_at": "2023-09-01T15:13:42Z",
+    "last_commit_at": "2026-11-20T19:31:55Z",
+    "releases": 5,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.0",
+      "at": "2026-11-18T15:32:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dc25aaf86d8ce13edaec3f37ba90fa8041b82b90",
+    "v": 4
+  }
+}

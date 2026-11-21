@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:03ee84edfc13962a9b01b4d956e64456aaa16fc7"
+  },
+  "id": "gh:lanl/esm_watermasses",
+  "kind": "repo",
+  "url": "https://github.com/lanl/esm_watermasses",
+  "title": "esm_watermasses",
+  "why": "Post-processes each Earth system model results file in parallel, with all settings read from one params.yaml file.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lanl/esm_watermasses",
+    "sha": "03ee84edfc13962a9b01b4d956e64456aaa16fc7",
+    "file_url": "https://cdn.jsdelivr.net/gh/lanl/esm_watermasses@03ee84edfc13962a9b01b4d956e64456aaa16fc7/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-04-29T20:51:26Z",
+    "last_commit_at": "2026-04-30T20:10:30Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "03ee84edfc13962a9b01b4d956e64456aaa16fc7",
+    "v": 4
+  },
+  "pinned_at": "2026-04-30T20:10:30Z"
+}

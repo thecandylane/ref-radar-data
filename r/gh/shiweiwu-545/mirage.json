@@ -1,0 +1,60 @@
+{
+  "id": "gh:shiweiwu-545/mirage",
+  "kind": "repo",
+  "url": "https://github.com/ShiweiWu-545/MIRAGE",
+  "title": "MIRAGE",
+  "why": "Predicts how a single residue mutation changes affinity between protein chains, scoring nearby residues from a PDB structure.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "ml/training"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ShiweiWu-545/MIRAGE",
+    "sha": "01e872fad77ded61f05a514068fcfddbf1219e66",
+    "file_url": "https://cdn.jsdelivr.net/gh/ShiweiWu-545/MIRAGE@01e872fad77ded61f05a514068fcfddbf1219e66/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 3,
+    "size_mb": 13,
+    "created_at": "2026-04-17T05:28:32Z",
+    "last_commit_at": "2026-09-08T08:28:29Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "01e872fad77ded61f05a514068fcfddbf1219e66",
+    "v": 4
+  },
+  "pinned_at": "2026-09-08T08:28:29Z"
+}

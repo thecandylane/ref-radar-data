@@ -1,0 +1,63 @@
+{
+  "id": "gh:ahacker-1/cre-agent-skills",
+  "kind": "repo",
+  "url": "https://github.com/ahacker-1/cre-agent-skills",
+  "title": "cre-agent-skills",
+  "why": "Stamps attribution lines and footers onto target markdown files, then checks each file has a heading via a validator script.",
+  "keys": {
+    "races": [
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/skills/agent-configs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ahacker-1/cre-agent-skills",
+    "sha": "a9a4e2936a5d55f548544c2677c4876fd7cb6b36",
+    "file_url": "https://cdn.jsdelivr.net/gh/ahacker-1/cre-agent-skills@a9a4e2936a5d55f548544c2677c4876fd7cb6b36/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 142,
+    "size_mb": 2,
+    "created_at": "2026-03-31T02:28:04Z",
+    "last_commit_at": "2026-09-02T00:54:26Z",
+    "releases": 3,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.0",
+      "at": "2026-04-22T08:28:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a9a4e2936a5d55f548544c2677c4876fd7cb6b36",
+    "v": 4
+  },
+  "pinned_at": "2026-09-02T00:54:26Z"
+}

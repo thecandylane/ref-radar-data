@@ -1,0 +1,63 @@
+{
+  "id": "gh:iaa-aitf/actuarial-ai-case-studies",
+  "kind": "repo",
+  "url": "https://github.com/IAA-AITF/Actuarial-AI-Case-Studies",
+  "title": "Actuarial-AI-Case-Studies",
+  "why": "Worked actuarial examples where claim cost prediction uses LLM-extracted features and car damage uses vision models.",
+  "keys": {
+    "races": [
+      "insurance/actuarial",
+      "ml/vision"
+    ],
+    "lanes": [
+      "insurance/actuarial",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/IAA-AITF/Actuarial-AI-Case-Studies",
+    "sha": "e16bf130ef4ae10d7340a8c544dd867571ea2eb5",
+    "file_url": "https://cdn.jsdelivr.net/gh/IAA-AITF/Actuarial-AI-Case-Studies@e16bf130ef4ae10d7340a8c544dd867571ea2eb5/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "NOASSERTION",
+    "stars": 55,
+    "size_mb": 14,
+    "created_at": "2025-02-26T18:58:14Z",
+    "last_commit_at": "2026-11-01T12:52:10Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "eaj-v1.0",
+      "at": "2026-06-24T11:43:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e16bf130ef4ae10d7340a8c544dd867571ea2eb5",
+    "v": 4
+  },
+  "pinned_at": "2026-11-01T12:52:10Z"
+}

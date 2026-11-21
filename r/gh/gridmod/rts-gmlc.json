@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3ece0d3725c844056132393ee252b3083dd4eab4"
+  },
+  "id": "gh:gridmod/rts-gmlc",
+  "kind": "repo",
+  "url": "https://github.com/GridMod/RTS-GMLC",
+  "title": "RTS-GMLC",
+  "why": "Reliability test system data for production cost modeling, shipped as csv plus formats for MATPOWER, PSS/E, PLEXOS and pandapower.",
+  "keys": {
+    "races": [
+      "energy/power-grid",
+      "energy/system-models",
+      "data/datasets"
+    ],
+    "lanes": [
+      "energy/power-grid",
+      "energy/system-models",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/GridMod/RTS-GMLC",
+    "sha": "3ece0d3725c844056132393ee252b3083dd4eab4",
+    "file_url": "https://raw.githubusercontent.com/GridMod/RTS-GMLC/3ece0d3725c844056132393ee252b3083dd4eab4/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "none",
+    "stars": 268,
+    "size_mb": 245,
+    "created_at": "2017-01-13T22:10:37Z",
+    "last_commit_at": "2025-10-23T02:33:26Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.3",
+      "at": "2025-10-23T02:49:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3ece0d3725c844056132393ee252b3083dd4eab4",
+    "v": 4
+  },
+  "pinned_at": "2025-10-23T02:33:26Z"
+}

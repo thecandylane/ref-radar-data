@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:cd4117974dc609530fb90fb25a99cb9c37869e5f"
+    "swh": "swh:1:rev:a9ebe256817497571927439d8e499fd48db61950"
   },
   "id": "gh:podman-container-tools/buildah",
   "kind": "repo",
@@ -37,8 +37,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/podman-container-tools/buildah",
-    "sha": "cd4117974dc609530fb90fb25a99cb9c37869e5f",
-    "file_url": "https://cdn.jsdelivr.net/gh/podman-container-tools/buildah@cd4117974dc609530fb90fb25a99cb9c37869e5f/{path}"
+    "sha": "a9ebe256817497571927439d8e499fd48db61950",
+    "file_url": "https://cdn.jsdelivr.net/gh/podman-container-tools/buildah@a9ebe256817497571927439d8e499fd48db61950/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -46,7 +46,7 @@
     "stars": 9193,
     "size_mb": 97,
     "created_at": "2017-01-26T16:59:13Z",
-    "last_commit_at": "2026-11-19T14:46:42Z",
+    "last_commit_at": "2026-11-20T19:47:05Z",
     "releases": 225,
     "tags": 241,
     "archived": false,
@@ -68,8 +68,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "cd4117974dc609530fb90fb25a99cb9c37869e5f",
-    "v": 3
-  }
+  "pins_before": [
+    "cd4117974dc609530fb90fb25a99cb9c37869e5f"
+  ],
+  "pinned_at": "2026-11-20T19:47:05Z"
 }

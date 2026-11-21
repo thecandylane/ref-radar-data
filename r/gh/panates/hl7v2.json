@@ -1,0 +1,67 @@
+{
+  "id": "gh:panates/hl7v2",
+  "kind": "repo",
+  "url": "https://github.com/panates/hl7v2",
+  "title": "hl7v2",
+  "why": "Parses and validates HL7 messages against versioned schemas, with an MLLP network layer for sending and acknowledgment.",
+  "keys": {
+    "races": [
+      "medicine/interoperability",
+      "data/serialization"
+    ],
+    "lanes": [
+      "medicine/interoperability",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/panates/hl7v2",
+    "sha": "8c01a41c72630830b8163e66e2f5fa1fae8dc763",
+    "file_url": "https://cdn.jsdelivr.net/gh/panates/hl7v2@8c01a41c72630830b8163e66e2f5fa1fae8dc763/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "BSD-3-Clause",
+    "stars": 29,
+    "size_mb": 4,
+    "created_at": "2018-10-18T06:30:25Z",
+    "last_commit_at": "2026-11-15T19:18:25Z",
+    "releases": 45,
+    "tags": 51,
+    "archived": false,
+    "release": {
+      "tag": "v2.3.4",
+      "at": "2026-11-15T19:06:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "8c01a41c72630830b8163e66e2f5fa1fae8dc763",
+    "v": 4
+  },
+  "pinned_at": "2026-11-15T19:18:25Z"
+}

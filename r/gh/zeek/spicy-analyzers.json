@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:35555866c82dfa4293f96ddd798bcb7275b48d62"
+  },
+  "id": "gh:zeek/spicy-analyzers",
+  "kind": "repo",
+  "url": "https://github.com/zeek/spicy-analyzers",
+  "title": "spicy-analyzers",
+  "why": "Installs Spicy-built protocol parsers for Zeek covering DHCP, DNS, HTTP, LDAP, TFTP, PNG, PE and ZIP, each replacing a stock analyzer.",
+  "keys": {
+    "races": [
+      "netsec/capture",
+      "netsec/ids"
+    ],
+    "lanes": [
+      "netsec/capture",
+      "netsec/ids"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zeek/spicy-analyzers",
+    "sha": "35555866c82dfa4293f96ddd798bcb7275b48d62",
+    "file_url": "https://cdn.jsdelivr.net/gh/zeek/spicy-analyzers@35555866c82dfa4293f96ddd798bcb7275b48d62/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "NOASSERTION",
+    "stars": 33,
+    "size_mb": 1,
+    "created_at": "2021-02-18T13:29:07Z",
+    "last_commit_at": "2024-09-16T08:19:18Z",
+    "releases": 0,
+    "tags": 36,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "35555866c82dfa4293f96ddd798bcb7275b48d62",
+    "v": 4
+  },
+  "pinned_at": "2024-09-16T08:19:18Z"
+}

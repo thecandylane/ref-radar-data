@@ -1,0 +1,78 @@
+{
+  "id": "gh:hjkqubit/qsp4pde",
+  "kind": "repo",
+  "url": "https://github.com/hjkqubit/qsp4pde",
+  "title": "qsp4pde",
+  "why": "Builds Qiskit circuits that solve advection, wave and Poisson equations in Fourier space using quantum signal processing.",
+  "keys": {
+    "races": [
+      "sci/quantum",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "sci/quantum",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hjkqubit/qsp4pde",
+    "sha": "dda9a5dc87eb63241b460499ed2122e985bd25d2",
+    "file_url": "https://cdn.jsdelivr.net/gh/hjkqubit/qsp4pde@dda9a5dc87eb63241b460499ed2122e985bd25d2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "size_mb": 22,
+    "created_at": "2026-04-28T15:31:32Z",
+    "last_commit_at": "2026-05-28T20:55:54Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dda9a5dc87eb63241b460499ed2122e985bd25d2",
+    "v": 4
+  },
+  "pinned_at": "2026-05-28T20:55:54Z",
+  "papers": [
+    {
+      "id": "arxiv:2402.03016",
+      "via": [
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2308.01501",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

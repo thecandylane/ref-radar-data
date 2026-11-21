@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ed5a530750b6e96e86ea725ef3990c9209fc0028"
+  },
+  "id": "gh:andymatuschak/orbit",
+  "kind": "repo",
+  "url": "https://github.com/andymatuschak/orbit",
+  "title": "orbit",
+  "why": "Experimental spaced repetition platform that schedules small review tasks across web, mobile and desktop apps, with Anki import and a sync backend.",
+  "keys": {
+    "races": [
+      "learning/spaced-repetition"
+    ],
+    "lanes": [
+      "learning/spaced-repetition"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Readme.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/andymatuschak/orbit",
+    "sha": "ed5a530750b6e96e86ea725ef3990c9209fc0028",
+    "file_url": "https://cdn.jsdelivr.net/gh/andymatuschak/orbit@ed5a530750b6e96e86ea725ef3990c9209fc0028/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 1841,
+    "size_mb": 74,
+    "created_at": "2020-03-24T17:47:54Z",
+    "last_commit_at": "2024-10-14T03:25:03Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ed5a530750b6e96e86ea725ef3990c9209fc0028",
+    "v": 4
+  },
+  "pinned_at": "2024-10-14T03:25:03Z"
+}

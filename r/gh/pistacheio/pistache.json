@@ -1,0 +1,67 @@
+{
+  "id": "gh:pistacheio/pistache",
+  "kind": "repo",
+  "url": "https://github.com/pistacheio/pistache",
+  "title": "pistache",
+  "why": "Lets C++ code run an HTTP server and client with cookies, SSL and REST descriptions, spread over threads.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "infra/networking"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pistacheio/pistache",
+    "sha": "ddf06c2fab8d8efeb7b33561117b9de8e5e55f5c",
+    "file_url": "https://cdn.jsdelivr.net/gh/pistacheio/pistache@ddf06c2fab8d8efeb7b33561117b9de8e5e55f5c/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 3466,
+    "size_mb": 8,
+    "created_at": "2015-08-12T19:44:15Z",
+    "last_commit_at": "2026-11-17T13:32:44Z",
+    "releases": 3,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.25",
+      "at": "2024-12-21T22:42:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ddf06c2fab8d8efeb7b33561117b9de8e5e55f5c",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T13:32:44Z"
+}

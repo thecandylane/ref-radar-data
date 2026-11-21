@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7abd96e8284bfae232048fdb77b52397a2114847"
+  },
+  "id": "gh:mlabonne/llm-course",
+  "kind": "repo",
+  "url": "https://github.com/mlabonne/llm-course",
+  "title": "llm-course",
+  "why": "Roadmap course with Colab notebooks covering LLM fundamentals, fine-tuning, quantization and merging of models.",
+  "keys": {
+    "races": [
+      "learning/courses",
+      "ml/training"
+    ],
+    "lanes": [
+      "learning/courses",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mlabonne/llm-course",
+    "sha": "7abd96e8284bfae232048fdb77b52397a2114847",
+    "file_url": "https://cdn.jsdelivr.net/gh/mlabonne/llm-course@7abd96e8284bfae232048fdb77b52397a2114847/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "Apache-2.0",
+    "stars": 85167,
+    "size_mb": 7,
+    "created_at": "2023-06-17T22:16:25Z",
+    "last_commit_at": "2026-02-05T13:09:26Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7abd96e8284bfae232048fdb77b52397a2114847",
+    "v": 4
+  },
+  "pinned_at": "2026-02-05T13:09:26Z"
+}

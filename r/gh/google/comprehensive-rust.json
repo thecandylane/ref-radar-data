@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:baf25efd192d7c68ef0552aa6803c8aba0f77c4f"
+  },
+  "id": "gh:google/comprehensive-rust",
+  "kind": "repo",
+  "url": "https://github.com/google/comprehensive-rust",
+  "title": "comprehensive-rust",
+  "why": "Course for experienced engineers coming from C++ or Java, run as a classroom with mdbook pages and exercises.",
+  "keys": {
+    "races": [
+      "learning/courses",
+      "mobile/android"
+    ],
+    "lanes": [
+      "learning/courses",
+      "mobile/android"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google/comprehensive-rust",
+    "sha": "baf25efd192d7c68ef0552aa6803c8aba0f77c4f",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/comprehensive-rust@baf25efd192d7c68ef0552aa6803c8aba0f77c4f/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 33556,
+    "size_mb": 28,
+    "created_at": "2022-12-21T15:17:24Z",
+    "last_commit_at": "2026-11-17T14:00:47Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "baf25efd192d7c68ef0552aa6803c8aba0f77c4f",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T14:00:47Z"
+}

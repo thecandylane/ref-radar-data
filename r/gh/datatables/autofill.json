@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:54aa6b2371cf74e5698d48b4455eaa8d9aedf688"
+  },
+  "id": "gh:datatables/autofill",
+  "kind": "repo",
+  "url": "https://github.com/DataTables/AutoFill",
+  "title": "AutoFill",
+  "why": "Adds a drag fill handle to DataTables grids so a selected cell's value can be copied down a column, tracked by a TypeScript class.",
+  "keys": {
+    "races": [
+      "web/ui-components"
+    ],
+    "lanes": [
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Readme.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/DataTables/AutoFill",
+    "sha": "54aa6b2371cf74e5698d48b4455eaa8d9aedf688",
+    "file_url": "https://cdn.jsdelivr.net/gh/DataTables/AutoFill@54aa6b2371cf74e5698d48b4455eaa8d9aedf688/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 31,
+    "size_mb": 0,
+    "created_at": "2010-09-07T16:35:21Z",
+    "last_commit_at": "2026-10-29T17:42:37Z",
+    "releases": 0,
+    "tags": 41,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "54aa6b2371cf74e5698d48b4455eaa8d9aedf688",
+    "v": 4
+  },
+  "pinned_at": "2026-10-29T17:42:37Z"
+}

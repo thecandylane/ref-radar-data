@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ff2bab7e91c6f248919e779e56fb93ba60c19be4"
+  },
+  "id": "gh:daattali/timevis",
+  "kind": "repo",
+  "url": "https://github.com/daattali/timevis",
+  "title": "timevis",
+  "why": "Turns a data frame into an interactive timeline in R that can sit in Shiny apps or R Markdown and be edited from code.",
+  "keys": {
+    "races": [
+      "web/ui-components"
+    ],
+    "lanes": [
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/daattali/timevis",
+    "sha": "ff2bab7e91c6f248919e779e56fb93ba60c19be4",
+    "file_url": "https://cdn.jsdelivr.net/gh/daattali/timevis@ff2bab7e91c6f248919e779e56fb93ba60c19be4/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 684,
+    "size_mb": 1,
+    "created_at": "2016-07-13T05:49:23Z",
+    "last_commit_at": "2024-08-18T18:43:47Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "2.1.0",
+      "at": "2022-10-22T18:22:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ff2bab7e91c6f248919e779e56fb93ba60c19be4",
+    "v": 4
+  },
+  "pinned_at": "2024-08-18T18:43:47Z"
+}

@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9e183847ac3d224a8dc6a4a8fc5b33b49cbd40d5"
+  },
+  "id": "gh:ropensci/wikitaxa",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/wikitaxa",
+  "title": "wikitaxa",
+  "why": "Pulls taxonomy records from Wikipedia, Wikidata, Wikispecies and Wikimedia Commons into R, with low-level parsers and high-level search functions.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "environment/earth-data",
+      "data/datasets"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "environment/earth-data",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/wikitaxa",
+    "sha": "9e183847ac3d224a8dc6a4a8fc5b33b49cbd40d5",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/wikitaxa@9e183847ac3d224a8dc6a4a8fc5b33b49cbd40d5/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 22,
+    "size_mb": 3,
+    "created_at": "2016-06-16T17:56:58Z",
+    "last_commit_at": "2026-02-12T17:47:19Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.0",
+      "at": "2026-02-13T20:19:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9e183847ac3d224a8dc6a4a8fc5b33b49cbd40d5",
+    "v": 4
+  },
+  "pinned_at": "2026-02-12T17:47:19Z"
+}

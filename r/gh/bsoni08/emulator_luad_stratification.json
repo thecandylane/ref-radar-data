@@ -1,0 +1,60 @@
+{
+  "id": "gh:bsoni08/emulator_luad_stratification",
+  "kind": "repo",
+  "url": "https://github.com/bsoni08/emulator_luad_stratification",
+  "title": "emulator_luad_stratification",
+  "why": "Trains a TensorFlow emulator with scikeras and a validation split, feeding the LUAD stratification in this repo.",
+  "keys": {
+    "races": [
+      "sci/sciml",
+      "ml/training"
+    ],
+    "lanes": [
+      "sci/sciml",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bsoni08/emulator_luad_stratification",
+    "sha": "d19f8b0daebb0d074b5c83cbb244425affb8fadb",
+    "file_url": "https://cdn.jsdelivr.net/gh/bsoni08/emulator_luad_stratification@d19f8b0daebb0d074b5c83cbb244425affb8fadb/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-09-21T12:23:59Z",
+    "last_commit_at": "2026-11-16T13:07:54Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d19f8b0daebb0d074b5c83cbb244425affb8fadb",
+    "v": 4
+  },
+  "pinned_at": "2026-11-16T13:07:54Z"
+}

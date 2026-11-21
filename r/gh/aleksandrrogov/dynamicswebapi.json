@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c68f4984ee4ef56bf4304dc4a37bb1bdc2c750e6"
+  },
+  "id": "gh:aleksandrrogov/dynamicswebapi",
+  "kind": "repo",
+  "url": "https://github.com/AleksandrRogov/DynamicsWebApi",
+  "title": "DynamicsWebApi",
+  "why": "Typed client for the Dynamics 365 Web API that handles batch requests, file upload and download, FetchXML paging and metadata calls.",
+  "keys": {
+    "races": [
+      "sales/crm"
+    ],
+    "lanes": [
+      "sales/crm"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AleksandrRogov/DynamicsWebApi",
+    "sha": "c68f4984ee4ef56bf4304dc4a37bb1bdc2c750e6",
+    "file_url": "https://cdn.jsdelivr.net/gh/AleksandrRogov/DynamicsWebApi@c68f4984ee4ef56bf4304dc4a37bb1bdc2c750e6/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 313,
+    "size_mb": 6,
+    "created_at": "2016-10-31T17:00:14Z",
+    "last_commit_at": "2026-10-15T14:00:31Z",
+    "releases": 88,
+    "tags": 93,
+    "archived": false,
+    "release": {
+      "tag": "v2.5.1",
+      "at": "2026-10-15T13:18:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c68f4984ee4ef56bf4304dc4a37bb1bdc2c750e6",
+    "v": 4
+  },
+  "pinned_at": "2026-10-15T14:00:31Z"
+}

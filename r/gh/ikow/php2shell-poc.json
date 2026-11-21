@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:caffb96b0a165eb3796828a9a1dc7445ec7ff77d"
+  },
   "id": "gh:ikow/php2shell-poc",
   "kind": "repo",
   "url": "https://github.com/ikow/php2shell-poc",
@@ -30,13 +33,14 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 1912,
+    "stars": 1991,
     "size_mb": 3,
     "created_at": "2026-10-21T07:55:16Z",
     "last_commit_at": "2026-10-28T23:21:56Z",
     "releases": 0,
     "tags": 0,
-    "archived": false
+    "archived": false,
+    "release": null
   },
   "reuse": "copy",
   "maturity": "new",
@@ -54,5 +58,6 @@
   "pack": {
     "sha": "caffb96b0a165eb3796828a9a1dc7445ec7ff77d",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-10-28T23:21:56Z"
 }

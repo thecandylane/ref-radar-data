@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:046df0a5b25773830f19f791135cdae14f2a6986"
+  },
+  "id": "gh:juliaactuary/actuaryutilities.jl",
+  "kind": "repo",
+  "url": "https://github.com/JuliaActuary/ActuaryUtilities.jl",
+  "title": "ActuaryUtilities.jl",
+  "why": "Julia functions for cashflow present value, duration, convexity, key-rate sensitivities, IRR and risk measures like CTE and VaR.",
+  "keys": {
+    "races": [
+      "insurance/actuarial",
+      "finance/quant",
+      "data/statistics"
+    ],
+    "lanes": [
+      "insurance/actuarial",
+      "finance/quant",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/JuliaActuary/ActuaryUtilities.jl",
+    "sha": "046df0a5b25773830f19f791135cdae14f2a6986",
+    "file_url": "https://cdn.jsdelivr.net/gh/JuliaActuary/ActuaryUtilities.jl@046df0a5b25773830f19f791135cdae14f2a6986/{path}"
+  },
+  "facts": {
+    "lang": "Julia",
+    "license": "MIT",
+    "stars": 43,
+    "size_mb": 3,
+    "created_at": "2020-03-31T02:16:43Z",
+    "last_commit_at": "2026-10-25T13:52:48Z",
+    "releases": 87,
+    "tags": 88,
+    "archived": false,
+    "release": {
+      "tag": "v6.0.1",
+      "at": "2026-10-25T03:52:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "046df0a5b25773830f19f791135cdae14f2a6986",
+    "v": 4
+  },
+  "pinned_at": "2026-10-25T13:52:48Z"
+}

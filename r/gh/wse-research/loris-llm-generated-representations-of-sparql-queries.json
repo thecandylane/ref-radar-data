@@ -1,0 +1,61 @@
+{
+  "id": "gh:wse-research/loris-llm-generated-representations-of-sparql-queries",
+  "kind": "repo",
+  "url": "https://github.com/WSE-research/LoRiS-LLM-generated-Representations-of-SPARQL-queries",
+  "title": "LoRiS-LLM-generated-Representations-of-SPARQL-queries",
+  "why": "Pairs each SPARQL query with an LLM-written explanation, drawn from example sets, and collects feedback on every explanation.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.adoc",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/WSE-research/LoRiS-LLM-generated-Representations-of-SPARQL-queries",
+    "sha": "a4805f158f1f966b3c902a8aedccd40c4fd77231",
+    "file_url": "https://cdn.jsdelivr.net/gh/WSE-research/LoRiS-LLM-generated-Representations-of-SPARQL-queries@a4805f158f1f966b3c902a8aedccd40c4fd77231/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 9,
+    "size_mb": 2,
+    "created_at": "2024-03-03T00:52:37Z",
+    "last_commit_at": "2026-11-15T17:23:33Z",
+    "releases": 17,
+    "tags": 20,
+    "archived": false,
+    "release": {
+      "tag": "0.4.8",
+      "at": "2025-12-31T16:37:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a4805f158f1f966b3c902a8aedccd40c4fd77231",
+    "v": 4
+  },
+  "pinned_at": "2026-11-15T17:23:33Z"
+}

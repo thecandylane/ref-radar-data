@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:779a47c5b4f3cd522062180317bc847e314a3b7f"
+  },
+  "id": "gh:ropensci/landscapetools",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/landscapetools",
+  "title": "landscapetools",
+  "why": "Binarize, classify and rescale raster layers with small utilities, then plot them with a ggplot2 theme for landscape maps.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "environment/earth-data"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "environment/earth-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/landscapetools",
+    "sha": "779a47c5b4f3cd522062180317bc847e314a3b7f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/landscapetools@779a47c5b4f3cd522062180317bc847e314a3b7f/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 50,
+    "size_mb": 24,
+    "created_at": "2018-03-15T13:41:56Z",
+    "last_commit_at": "2026-07-31T10:01:33Z",
+    "releases": 2,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.6.3",
+      "at": "2026-07-10T09:44:48.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "779a47c5b4f3cd522062180317bc847e314a3b7f",
+    "v": 4
+  },
+  "pinned_at": "2026-07-31T10:01:33Z"
+}

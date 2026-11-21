@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d46c1d16951b0689b6d18e5f90f8d7f1f0b06910"
+  },
+  "id": "gh:rglab/mast",
+  "kind": "repo",
+  "url": "https://github.com/RGLab/MAST",
+  "title": "MAST",
+  "why": "Models zero-inflated single-cell gene counts with a two-part regression, then tests which genes shift between groups after covariate adjustment.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/RGLab/MAST",
+    "sha": "d46c1d16951b0689b6d18e5f90f8d7f1f0b06910",
+    "file_url": "https://cdn.jsdelivr.net/gh/RGLab/MAST@d46c1d16951b0689b6d18e5f90f8d7f1f0b06910/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 267,
+    "size_mb": 99,
+    "created_at": "2012-09-11T21:51:09Z",
+    "last_commit_at": "2025-10-17T17:04:22Z",
+    "releases": 3,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.1",
+      "at": "2015-06-12T18:47:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d46c1d16951b0689b6d18e5f90f8d7f1f0b06910",
+    "v": 4
+  },
+  "pinned_at": "2025-10-17T17:04:22Z"
+}

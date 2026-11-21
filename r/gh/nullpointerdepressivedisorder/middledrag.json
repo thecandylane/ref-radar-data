@@ -1,0 +1,63 @@
+{
+  "id": "gh:nullpointerdepressivedisorder/middledrag",
+  "kind": "repo",
+  "url": "https://github.com/NullPointerDepressiveDisorder/MiddleDrag",
+  "title": "MiddleDrag",
+  "why": "Maps a three-finger tap and drag on a Mac trackpad to middle-click and middle-drag from a menu bar app, alongside system gestures.",
+  "keys": {
+    "races": [
+      "desktop/native-ui",
+      "desktop/packaging"
+    ],
+    "lanes": [
+      "desktop/native-ui",
+      "desktop/packaging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NullPointerDepressiveDisorder/MiddleDrag",
+    "sha": "3cb680cbb9b2d43666150c8f78a8a2ef60b37f62",
+    "file_url": "https://cdn.jsdelivr.net/gh/NullPointerDepressiveDisorder/MiddleDrag@3cb680cbb9b2d43666150c8f78a8a2ef60b37f62/{path}"
+  },
+  "facts": {
+    "lang": "Swift",
+    "license": "MIT",
+    "stars": 245,
+    "size_mb": 11,
+    "created_at": "2025-11-25T22:54:51Z",
+    "last_commit_at": "2026-04-17T12:34:34Z",
+    "releases": 40,
+    "tags": 40,
+    "archived": false,
+    "release": {
+      "tag": "v1.4.3",
+      "at": "2026-03-20T02:00:15.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3cb680cbb9b2d43666150c8f78a8a2ef60b37f62",
+    "v": 4
+  },
+  "pinned_at": "2026-04-17T12:34:34Z"
+}

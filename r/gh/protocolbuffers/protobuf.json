@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:22a3684ea3a9db90dad03e31e5623bb3a2a43f27"
-  },
   "id": "gh:protocolbuffers/protobuf",
   "kind": "repo",
   "url": "https://github.com/protocolbuffers/protobuf",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/protocolbuffers/protobuf",
-    "sha": "22a3684ea3a9db90dad03e31e5623bb3a2a43f27",
-    "file_url": "https://cdn.jsdelivr.net/gh/protocolbuffers/protobuf@22a3684ea3a9db90dad03e31e5623bb3a2a43f27/{path}"
+    "sha": "5cc8d84df6d92b36c035bc362760a91b9c237461",
+    "file_url": "https://cdn.jsdelivr.net/gh/protocolbuffers/protobuf@5cc8d84df6d92b36c035bc362760a91b9c237461/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "NOASSERTION",
-    "stars": 72191,
+    "stars": 72188,
     "size_mb": 249,
     "created_at": "2014-08-26T15:52:15Z",
-    "last_commit_at": "2026-11-20T05:13:34Z",
+    "last_commit_at": "2026-11-21T07:53:19Z",
     "releases": 224,
     "tags": 475,
     "archived": false,
@@ -61,13 +58,13 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 22,
+    "star_delta_7d": 14,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "22a3684ea3a9db90dad03e31e5623bb3a2a43f27",
-    "v": 3
-  }
+  "pins_before": [
+    "22a3684ea3a9db90dad03e31e5623bb3a2a43f27"
+  ],
+  "pinned_at": "2026-11-21T07:53:19Z"
 }

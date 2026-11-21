@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:92ec587c7cb25837879db52e2cd0cd46763ceaf4"
+  },
+  "id": "gh:rwth-ebc/teaser",
+  "kind": "repo",
+  "url": "https://github.com/RWTH-EBC/TEASER",
+  "title": "TEASER",
+  "why": "Generates archetype building models from few inputs and exports ready-to-run Modelica simulations for urban building stock energy studies.",
+  "keys": {
+    "races": [
+      "energy/building-energy"
+    ],
+    "lanes": [
+      "energy/building-energy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/RWTH-EBC/TEASER",
+    "sha": "92ec587c7cb25837879db52e2cd0cd46763ceaf4",
+    "file_url": "https://cdn.jsdelivr.net/gh/RWTH-EBC/TEASER@92ec587c7cb25837879db52e2cd0cd46763ceaf4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 148,
+    "size_mb": 83,
+    "created_at": "2015-10-22T13:57:56Z",
+    "last_commit_at": "2025-12-23T08:51:24Z",
+    "releases": 51,
+    "tags": 54,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.1",
+      "at": "2025-12-11T08:02:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "92ec587c7cb25837879db52e2cd0cd46763ceaf4",
+    "v": 4
+  },
+  "pinned_at": "2025-12-23T08:51:24Z"
+}

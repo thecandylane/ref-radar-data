@@ -1,0 +1,62 @@
+{
+  "id": "gh:apache/commons-vfs",
+  "kind": "repo",
+  "url": "https://github.com/apache/commons-vfs",
+  "title": "commons-vfs",
+  "why": "Java library whose FileObject API reaches many file systems, with selectors by depth, extension or pattern and file change monitoring.",
+  "keys": {
+    "races": [
+      "data/storage"
+    ],
+    "lanes": [
+      "data/storage"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/commons-vfs",
+    "sha": "a062143553e890bacae915a176248b56c5517995",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/commons-vfs@a062143553e890bacae915a176248b56c5517995/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 251,
+    "size_mb": 14,
+    "created_at": "2013-07-13T07:00:13Z",
+    "last_commit_at": "2026-11-19T11:49:01Z",
+    "releases": 0,
+    "tags": 53,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a062143553e890bacae915a176248b56c5517995",
+    "v": 4
+  },
+  "pinned_at": "2026-11-19T11:49:01Z"
+}

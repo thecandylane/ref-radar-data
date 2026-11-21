@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:028264e37bfe77b80bbe5ed96628040237be3881"
+  },
+  "id": "gh:joule-profiler/joule-profiler",
+  "kind": "repo",
+  "url": "https://github.com/joule-profiler/joule-profiler",
+  "title": "joule-profiler",
+  "why": "Measures energy use of Linux programs per phase from RAPL, perf counters and GPU sources, with terminal, JSON or CSV output.",
+  "keys": {
+    "races": [
+      "practice/performance",
+      "dev-tools/debugging"
+    ],
+    "lanes": [
+      "practice/performance",
+      "dev-tools/debugging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/joule-profiler/joule-profiler",
+    "sha": "028264e37bfe77b80bbe5ed96628040237be3881",
+    "file_url": "https://cdn.jsdelivr.net/gh/joule-profiler/joule-profiler@028264e37bfe77b80bbe5ed96628040237be3881/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 20,
+    "size_mb": 9,
+    "created_at": "2026-04-24T09:02:50Z",
+    "last_commit_at": "2026-08-18T12:50:29Z",
+    "releases": 31,
+    "tags": 35,
+    "archived": false,
+    "release": {
+      "tag": "joule-profiler-cli-v3.0.1",
+      "at": "2026-08-13T13:17:18.000Z"
+    },
+    "doi": "10.21105/joss.10575"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "028264e37bfe77b80bbe5ed96628040237be3881",
+    "v": 4
+  },
+  "pinned_at": "2026-08-18T12:50:29Z"
+}

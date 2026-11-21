@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:22e051bd3c404cf4bc4389e1719215f7c3592e3e"
+  },
+  "id": "gh:kkma89/dmcalc",
+  "kind": "repo",
+  "url": "https://github.com/kkma89/dmcalc",
+  "title": "dmcalc",
+  "why": "Estimates dispersion measure from wide-band pulsar fits files, rejecting outlier ToAs with a MAD cut before fitting.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kkma89/dmcalc",
+    "sha": "22e051bd3c404cf4bc4389e1719215f7c3592e3e",
+    "file_url": "https://cdn.jsdelivr.net/gh/kkma89/dmcalc@22e051bd3c404cf4bc4389e1719215f7c3592e3e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 5,
+    "size_mb": 0,
+    "created_at": "2021-01-13T14:21:44Z",
+    "last_commit_at": "2021-02-22T07:44:55Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "22e051bd3c404cf4bc4389e1719215f7c3592e3e",
+    "v": 4
+  },
+  "pinned_at": "2021-02-22T07:44:55Z",
+  "papers": [
+    {
+      "id": "arxiv:2101.05334",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

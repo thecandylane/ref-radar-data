@@ -1,0 +1,66 @@
+{
+  "id": "gh:urlaubsverwaltung/zeiterfassung",
+  "kind": "repo",
+  "url": "https://github.com/urlaubsverwaltung/zeiterfassung",
+  "title": "zeiterfassung",
+  "why": "Records working hours and absences in a Java web app, with a time clock and report graphs rendered by Turbo and date-fns components.",
+  "keys": {
+    "races": [
+      "hr/time-tracking",
+      "hr/hris"
+    ],
+    "lanes": [
+      "hr/time-tracking",
+      "hr/hris"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/urlaubsverwaltung/zeiterfassung",
+    "sha": "f2dc536617686f1ccc27143c5b6518331c834e33",
+    "file_url": "https://cdn.jsdelivr.net/gh/urlaubsverwaltung/zeiterfassung@f2dc536617686f1ccc27143c5b6518331c834e33/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "AGPL-3.0",
+    "stars": 70,
+    "size_mb": 15,
+    "created_at": "2022-11-16T19:54:47Z",
+    "last_commit_at": "2026-11-20T16:48:18Z",
+    "releases": 126,
+    "tags": 126,
+    "archived": false,
+    "release": {
+      "tag": "zeiterfassung-3.8.0",
+      "at": "2026-11-20T16:49:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f2dc536617686f1ccc27143c5b6518331c834e33",
+    "v": 4
+  }
+}

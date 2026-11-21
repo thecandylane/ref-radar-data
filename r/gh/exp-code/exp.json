@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:437b91fc72e4eb3842a88a48845066e74856dc91"
+  },
+  "id": "gh:exp-code/exp",
+  "kind": "repo",
+  "url": "https://github.com/EXP-code/EXP",
+  "title": "EXP",
+  "why": "N-body galactic simulation code in C++ with Python bindings, using basis function expansion and mSSA to analyze the simulation coefficients.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/EXP-code/EXP",
+    "sha": "437b91fc72e4eb3842a88a48845066e74856dc91",
+    "file_url": "https://cdn.jsdelivr.net/gh/EXP-code/EXP@437b91fc72e4eb3842a88a48845066e74856dc91/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-3.0",
+    "stars": 31,
+    "size_mb": 31,
+    "created_at": "2022-12-07T21:22:25Z",
+    "last_commit_at": "2026-07-27T13:14:07Z",
+    "releases": 10,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "v7.10.1",
+      "at": "2026-07-28T12:40:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "437b91fc72e4eb3842a88a48845066e74856dc91",
+    "v": 4
+  },
+  "pinned_at": "2026-07-27T13:14:07Z"
+}

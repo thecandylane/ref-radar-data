@@ -1,0 +1,66 @@
+{
+  "id": "gh:pancakes-labs/astrbot_plugin_proactive_chat",
+  "kind": "repo",
+  "url": "https://github.com/Pancakes-Labs/astrbot_plugin_proactive_chat",
+  "title": "astrbot_plugin_proactive_chat",
+  "why": "Lets a chat bot start conversations on its own on a heartbeat schedule, skipping configured quiet hours for each session.",
+  "keys": {
+    "races": [
+      "agents/frameworks",
+      "agents/assistants"
+    ],
+    "lanes": [
+      "agents/frameworks",
+      "agents/assistants"
+    ],
+    "capabilities": [
+      "agents/frameworks/bot-frameworks",
+      "agents/assistants/personal-agents"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Pancakes-Labs/astrbot_plugin_proactive_chat",
+    "sha": "fdc4edd16e996672fc8873c4b7127a5c2edd306e",
+    "file_url": "https://cdn.jsdelivr.net/gh/Pancakes-Labs/astrbot_plugin_proactive_chat@fdc4edd16e996672fc8873c4b7127a5c2edd306e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 540,
+    "size_mb": 2,
+    "created_at": "2025-10-25T02:23:54Z",
+    "last_commit_at": "2026-11-09T15:25:54Z",
+    "releases": 29,
+    "tags": 29,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.0-beta.2",
+      "at": "2026-11-09T15:28:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "fdc4edd16e996672fc8873c4b7127a5c2edd306e",
+    "v": 4
+  },
+  "pinned_at": "2026-11-09T15:25:54Z"
+}

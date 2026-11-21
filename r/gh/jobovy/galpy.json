@@ -1,0 +1,60 @@
+{
+  "id": "gh:jobovy/galpy",
+  "kind": "repo",
+  "url": "https://github.com/jobovy/galpy",
+  "title": "galpy",
+  "why": "Computes action-angle variables and disk distribution functions from orbits, with Staeckel and torus solvers, and reads NEMO snapshots.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jobovy/galpy",
+    "sha": "32e50319dea5efb724ebe3ced3430288ef4577ac",
+    "file_url": "https://cdn.jsdelivr.net/gh/jobovy/galpy@32e50319dea5efb724ebe3ced3430288ef4577ac/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 286,
+    "size_mb": 111,
+    "created_at": "2011-09-13T03:20:30Z",
+    "last_commit_at": "2026-11-20T12:54:00Z",
+    "releases": 28,
+    "tags": 28,
+    "archived": false,
+    "release": {
+      "tag": "v1.12.1",
+      "at": "2026-11-02T18:32:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "32e50319dea5efb724ebe3ced3430288ef4577ac",
+    "v": 4
+  }
+}

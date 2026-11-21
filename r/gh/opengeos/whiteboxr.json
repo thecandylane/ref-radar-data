@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:91be5dde205c903cb106a5eb1905ff245968354b"
+  },
+  "id": "gh:opengeos/whiteboxr",
+  "kind": "repo",
+  "url": "https://github.com/opengeos/whiteboxR",
+  "title": "whiteboxR",
+  "why": "Runs WhiteboxTools tools on rasters from R, with wrapper functions generated from the Python source code.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "environment/earth-data"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "environment/earth-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/opengeos/whiteboxR",
+    "sha": "91be5dde205c903cb106a5eb1905ff245968354b",
+    "file_url": "https://cdn.jsdelivr.net/gh/opengeos/whiteboxR@91be5dde205c903cb106a5eb1905ff245968354b/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 190,
+    "size_mb": 18,
+    "created_at": "2019-01-22T02:09:29Z",
+    "last_commit_at": "2026-10-21T13:55:02Z",
+    "releases": 23,
+    "tags": 23,
+    "archived": false,
+    "release": {
+      "tag": "v2.4.3",
+      "at": "2025-10-21T00:15:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "91be5dde205c903cb106a5eb1905ff245968354b",
+    "v": 4
+  },
+  "pinned_at": "2026-10-21T13:55:02Z"
+}

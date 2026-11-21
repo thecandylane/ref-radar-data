@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:78d7840018d750a5917547e71843da953a3a89cb"
+  },
+  "id": "gh:ropensci/birdsize",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/birdsize",
+  "title": "birdsize",
+  "why": "Simulates individual bird body mass from species means and standard deviations, for macroecology studies where individuals were never measured.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/statistics"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/birdsize",
+    "sha": "78d7840018d750a5917547e71843da953a3a89cb",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/birdsize@78d7840018d750a5917547e71843da953a3a89cb/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 3,
+    "size_mb": 8,
+    "created_at": "2022-03-10T17:58:24Z",
+    "last_commit_at": "2023-12-08T19:24:29Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "78d7840018d750a5917547e71843da953a3a89cb",
+    "v": 4
+  },
+  "pinned_at": "2023-12-08T19:24:29Z"
+}

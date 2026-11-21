@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d3d80e6b5a68544caa4fe7652238220d55d17e63"
+  },
+  "id": "gh:nf-core/radseq",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/radseq",
+  "title": "radseq",
+  "why": "Runs RADseq reads through FastQC, fastp, BWA and FreeBayes in Nextflow, with one container per process for reproducible variant calls.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/radseq",
+    "sha": "d3d80e6b5a68544caa4fe7652238220d55d17e63",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/radseq@d3d80e6b5a68544caa4fe7652238220d55d17e63/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 8,
+    "size_mb": 3,
+    "created_at": "2022-11-11T04:10:08Z",
+    "last_commit_at": "2026-07-28T13:30:20Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d3d80e6b5a68544caa4fe7652238220d55d17e63",
+    "v": 4
+  },
+  "pinned_at": "2026-07-28T13:30:20Z"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "gh:apache/opendal",
+  "kind": "repo",
+  "url": "https://github.com/apache/opendal",
+  "title": "opendal",
+  "why": "One Operator API reads, writes and streams across 50+ backends, and retry and timeout layers wrap any of them.",
+  "keys": {
+    "races": [
+      "data/storage"
+    ],
+    "lanes": [
+      "data/storage"
+    ],
+    "capabilities": [
+      "data/storage/object-storage"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/opendal",
+    "sha": "6bd12994fa315d83f21ea778c94374516a456d80",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/opendal@6bd12994fa315d83f21ea778c94374516a456d80/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 5484,
+    "size_mb": 107,
+    "created_at": "2022-02-14T05:18:44Z",
+    "last_commit_at": "2026-11-21T08:36:06Z",
+    "releases": 160,
+    "tags": 301,
+    "archived": false,
+    "release": {
+      "tag": "v0.59.5",
+      "at": "2026-10-18T05:29:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6bd12994fa315d83f21ea778c94374516a456d80",
+    "v": 4
+  }
+}

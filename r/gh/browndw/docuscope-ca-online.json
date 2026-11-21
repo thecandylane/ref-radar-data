@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c69e1212a73b25785fba99597b683124a37e5e27"
+  },
+  "id": "gh:browndw/docuscope-ca-online",
+  "kind": "repo",
+  "url": "https://github.com/browndw/docuscope-ca-online",
+  "title": "docuscope-ca-online",
+  "why": "Runs corpus processing and keyness comparisons in a Streamlit web app, with a cli module for processing jobs outside the browser.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/statistics",
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/browndw/docuscope-ca-online",
+    "sha": "c69e1212a73b25785fba99597b683124a37e5e27",
+    "file_url": "https://raw.githubusercontent.com/browndw/docuscope-ca-online/c69e1212a73b25785fba99597b683124a37e5e27/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 1,
+    "size_mb": 1337,
+    "created_at": "2022-10-09T12:25:13Z",
+    "last_commit_at": "2026-08-31T20:32:59Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.2",
+      "at": "2026-08-31T20:43:10.000Z"
+    },
+    "doi": "10.21105/joss.10418",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-21"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "c69e1212a73b25785fba99597b683124a37e5e27",
+    "v": 4
+  },
+  "pinned_at": "2026-08-31T20:32:59Z"
+}

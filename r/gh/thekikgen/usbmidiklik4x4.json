@@ -1,0 +1,63 @@
+{
+  "id": "gh:thekikgen/usbmidiklik4x4",
+  "kind": "repo",
+  "url": "https://github.com/TheKikGen/USBMidiKliK4x4",
+  "title": "USBMidiKliK4x4",
+  "why": "Firmware for an STM32 board that turns it into a multi-port USB MIDI interface with routing, clock and sysex control.",
+  "keys": {
+    "races": [
+      "embedded/firmware",
+      "media/audio-production"
+    ],
+    "lanes": [
+      "embedded/firmware",
+      "media/audio-production"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/TheKikGen/USBMidiKliK4x4",
+    "sha": "9f7ecd872c09ff754e3200ef1e5654de82fa565d",
+    "file_url": "https://cdn.jsdelivr.net/gh/TheKikGen/USBMidiKliK4x4@9f7ecd872c09ff754e3200ef1e5654de82fa565d/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 163,
+    "size_mb": 34,
+    "created_at": "2018-03-19T16:40:28Z",
+    "last_commit_at": "2026-03-28T11:41:51Z",
+    "releases": 7,
+    "tags": 24,
+    "archived": false,
+    "release": {
+      "tag": "v2.5.4",
+      "at": "2025-01-05T00:41:38.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9f7ecd872c09ff754e3200ef1e5654de82fa565d",
+    "v": 4
+  },
+  "pinned_at": "2026-03-28T11:41:51Z"
+}

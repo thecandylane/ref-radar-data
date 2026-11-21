@@ -1,0 +1,71 @@
+{
+  "id": "gh:hemantaph/gwsnr",
+  "kind": "repo",
+  "url": "https://github.com/hemantaph/gwsnr",
+  "title": "gwsnr",
+  "why": "Computes optimal SNR and detection probability for gw signals, swapping in interpolators or a trained ANN to speed it up.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hemantaph/gwsnr",
+    "sha": "9957ed8f55274a6de5d27b8e7c84b1d85480438f",
+    "file_url": "https://cdn.jsdelivr.net/gh/hemantaph/gwsnr@9957ed8f55274a6de5d27b8e7c84b1d85480438f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 10,
+    "size_mb": 180,
+    "created_at": "2023-04-12T05:40:40Z",
+    "last_commit_at": "2026-11-13T15:15:50Z",
+    "releases": 2,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "0.3.8",
+      "at": "2025-12-03T14:17:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "9957ed8f55274a6de5d27b8e7c84b1d85480438f",
+    "v": 4
+  },
+  "pinned_at": "2026-11-13T15:15:50Z",
+  "papers": [
+    {
+      "id": "arxiv:2412.09888",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

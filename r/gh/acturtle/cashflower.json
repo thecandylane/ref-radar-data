@@ -1,0 +1,61 @@
+{
+  "id": "gh:acturtle/cashflower",
+  "kind": "repo",
+  "url": "https://github.com/acturtle/cashflower",
+  "title": "cashflower",
+  "why": "Projects cashflow per model point for actuarial models, starting single-core or multiprocessing runs and averaging stochastic results.",
+  "keys": {
+    "races": [
+      "insurance/actuarial"
+    ],
+    "lanes": [
+      "insurance/actuarial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/acturtle/cashflower",
+    "sha": "5d75836caebff08a4306ae6927382bf3c4cbd30c",
+    "file_url": "https://cdn.jsdelivr.net/gh/acturtle/cashflower@5d75836caebff08a4306ae6927382bf3c4cbd30c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 63,
+    "size_mb": 3,
+    "created_at": "2022-06-27T06:47:17Z",
+    "last_commit_at": "2026-10-12T12:44:35Z",
+    "releases": 52,
+    "tags": 54,
+    "archived": false,
+    "release": {
+      "tag": "v0.10.9",
+      "at": "2026-10-12T12:45:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5d75836caebff08a4306ae6927382bf3c4cbd30c",
+    "v": 4
+  },
+  "pinned_at": "2026-10-12T12:44:35Z"
+}

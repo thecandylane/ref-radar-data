@@ -1,0 +1,64 @@
+{
+  "id": "gh:p-ortega/mf6rtm",
+  "kind": "repo",
+  "url": "https://github.com/p-ortega/mf6rtm",
+  "title": "mf6rtm",
+  "why": "Couples MODFLOW 6 groundwater flow with PhreeqcRM chemistry in Python, for reactive transport on structured or unstructured grids.",
+  "keys": {
+    "races": [
+      "engineering/subsurface",
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/subsurface",
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/p-ortega/mf6rtm",
+    "sha": "e0b2933ab1f298baf6fd292bb5e99bd21c649685",
+    "file_url": "https://cdn.jsdelivr.net/gh/p-ortega/mf6rtm@e0b2933ab1f298baf6fd292bb5e99bd21c649685/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 40,
+    "size_mb": 165,
+    "created_at": "2024-05-10T02:47:34Z",
+    "last_commit_at": "2026-11-17T03:23:50Z",
+    "releases": 15,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "0.6.1",
+      "at": "2026-11-17T03:30:54.000Z"
+    },
+    "doi": "10.21105/joss.11173"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e0b2933ab1f298baf6fd292bb5e99bd21c649685",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T03:23:50Z"
+}

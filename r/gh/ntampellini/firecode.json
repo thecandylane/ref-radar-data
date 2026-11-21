@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7be3dde817e577f77c0544dd921d55ee0973c8fd"
+  },
+  "id": "gh:ntampellini/firecode",
+  "kind": "repo",
+  "url": "https://github.com/ntampellini/FIRECODE",
+  "title": "FIRECODE",
+  "why": "Drives conformer generation, transition state search and ensemble optimization through xTB, tblite, AIMNET2 and UMA calculators in one input-file workflow.",
+  "keys": {
+    "races": [
+      "engineering/chemistry",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "engineering/chemistry",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ntampellini/FIRECODE",
+    "sha": "7be3dde817e577f77c0544dd921d55ee0973c8fd",
+    "file_url": "https://cdn.jsdelivr.net/gh/ntampellini/FIRECODE@7be3dde817e577f77c0544dd921d55ee0973c8fd/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "LGPL-3.0",
+    "stars": 23,
+    "size_mb": 16,
+    "created_at": "2024-07-05T22:52:45Z",
+    "last_commit_at": "2026-08-19T00:35:03Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.3",
+      "at": "2026-06-23T15:50:54.000Z"
+    },
+    "doi": "10.21105/joss.10698"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7be3dde817e577f77c0544dd921d55ee0973c8fd",
+    "v": 4
+  },
+  "pinned_at": "2026-08-19T00:35:03Z"
+}

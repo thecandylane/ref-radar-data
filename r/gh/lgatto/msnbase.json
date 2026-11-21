@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:55c17d2c64ed952898a76724d8cdce16f9690fc8"
+  },
+  "id": "gh:lgatto/msnbase",
+  "kind": "repo",
+  "url": "https://github.com/lgatto/MSnbase",
+  "title": "MSnbase",
+  "why": "Builds spectrum objects in R with C code for mz-sorting and neighbour averaging, so peak lists stay quick to handle.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lgatto/MSnbase",
+    "sha": "55c17d2c64ed952898a76724d8cdce16f9690fc8",
+    "file_url": "https://cdn.jsdelivr.net/gh/lgatto/MSnbase@55c17d2c64ed952898a76724d8cdce16f9690fc8/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 142,
+    "size_mb": 134,
+    "created_at": "2010-10-02T15:27:36Z",
+    "last_commit_at": "2026-10-29T08:23:54Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "55c17d2c64ed952898a76724d8cdce16f9690fc8",
+    "v": 4
+  },
+  "pinned_at": "2026-10-29T08:23:54Z"
+}

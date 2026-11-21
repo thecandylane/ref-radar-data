@@ -1,0 +1,64 @@
+{
+  "id": "gh:resiprocate/resiprocate",
+  "kind": "repo",
+  "url": "https://github.com/resiprocate/resiprocate",
+  "title": "resiprocate",
+  "why": "C++ peer-to-peer stack with a Chord overlay, TURN-style socket relay and ICE candidate collection for connecting peers.",
+  "keys": {
+    "races": [
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/resiprocate/resiprocate",
+    "sha": "32861fd9e09d8b5f6e19dda7c3b47608783466e9",
+    "file_url": "https://cdn.jsdelivr.net/gh/resiprocate/resiprocate@32861fd9e09d8b5f6e19dda7c3b47608783466e9/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 798,
+    "size_mb": 97,
+    "created_at": "2012-11-18T13:59:59Z",
+    "last_commit_at": "2026-11-20T23:57:13Z",
+    "releases": 5,
+    "tags": 190,
+    "archived": false,
+    "release": {
+      "tag": "resiprocate-1.14.0",
+      "at": "2026-06-18T17:43:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "32861fd9e09d8b5f6e19dda7c3b47608783466e9",
+    "v": 4
+  }
+}

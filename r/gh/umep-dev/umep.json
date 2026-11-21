@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0a4b7f97391ac1b9188ee49aa76f078bb3d389de"
+  },
+  "id": "gh:umep-dev/umep",
+  "kind": "repo",
+  "url": "https://github.com/UMEP-dev/UMEP",
+  "title": "UMEP",
+  "why": "Runs urban climate tools inside a GIS plugin, covering land cover fractions, footprint models and SUEWS benchmarking.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/UMEP-dev/UMEP",
+    "sha": "0a4b7f97391ac1b9188ee49aa76f078bb3d389de",
+    "file_url": "https://cdn.jsdelivr.net/gh/UMEP-dev/UMEP@0a4b7f97391ac1b9188ee49aa76f078bb3d389de/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 106,
+    "size_mb": 18,
+    "created_at": "2020-03-25T22:57:46Z",
+    "last_commit_at": "2026-09-30T12:49:44Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0a4b7f97391ac1b9188ee49aa76f078bb3d389de",
+    "v": 4
+  },
+  "pinned_at": "2026-09-30T12:49:44Z"
+}

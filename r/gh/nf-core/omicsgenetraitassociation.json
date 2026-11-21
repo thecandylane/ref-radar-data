@@ -1,0 +1,64 @@
+{
+  "id": "gh:nf-core/omicsgenetraitassociation",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/omicsgenetraitassociation",
+  "title": "omicsgenetraitassociation",
+  "why": "Nextflow pipeline that runs PASCAL on gene scores, with a samplesheet checker that validates FASTQ rows before each step.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/omicsgenetraitassociation",
+    "sha": "f6702ce5f9e423dd896f55034af2f4f78ba7223f",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/omicsgenetraitassociation@f6702ce5f9e423dd896f55034af2f4f78ba7223f/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 11,
+    "size_mb": 3,
+    "created_at": "2023-04-21T21:36:16Z",
+    "last_commit_at": "2026-10-07T13:07:28Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f6702ce5f9e423dd896f55034af2f4f78ba7223f",
+    "v": 4
+  },
+  "pinned_at": "2026-10-07T13:07:28Z"
+}

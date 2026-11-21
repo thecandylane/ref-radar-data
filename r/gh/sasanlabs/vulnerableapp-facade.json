@@ -1,0 +1,62 @@
+{
+  "id": "gh:sasanlabs/vulnerableapp-facade",
+  "kind": "repo",
+  "url": "https://github.com/SasanLabs/VulnerableApp-facade",
+  "title": "VulnerableApp-facade",
+  "why": "Routes requests to several vulnerable apps run as Docker containers, behind one shared skeleton UI for all of them.",
+  "keys": {
+    "races": [
+      "learning/security-labs",
+      "infra/containers"
+    ],
+    "lanes": [
+      "learning/security-labs",
+      "infra/containers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SasanLabs/VulnerableApp-facade",
+    "sha": "d44cd63e92cb18e62e2e9d60a95cc77c9d04620b",
+    "file_url": "https://cdn.jsdelivr.net/gh/SasanLabs/VulnerableApp-facade@d44cd63e92cb18e62e2e9d60a95cc77c9d04620b/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 57,
+    "size_mb": 7,
+    "created_at": "2020-12-28T13:39:53Z",
+    "last_commit_at": "2026-11-20T21:48:59Z",
+    "releases": 8,
+    "tags": 77,
+    "archived": false,
+    "release": {
+      "tag": "1.3.0",
+      "at": "2026-07-03T01:35:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "d44cd63e92cb18e62e2e9d60a95cc77c9d04620b",
+    "v": 4
+  }
+}

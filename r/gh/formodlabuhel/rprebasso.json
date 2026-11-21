@@ -1,0 +1,67 @@
+{
+  "id": "gh:formodlabuhel/rprebasso",
+  "kind": "repo",
+  "url": "https://github.com/ForModLabUHel/Rprebasso",
+  "title": "Rprebasso",
+  "why": "Calls the preles routine from R to compute GPP, evapotranspiration and snow, plus wind-risk and mortality draws.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "agriculture/crop-models"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "agriculture/crop-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ForModLabUHel/Rprebasso",
+    "sha": "a5f32322dd0a0d9ee461e0331e6d8e612bd1ace2",
+    "file_url": "https://cdn.jsdelivr.net/gh/ForModLabUHel/Rprebasso@a5f32322dd0a0d9ee461e0331e6d8e612bd1ace2/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 1,
+    "size_mb": 5,
+    "created_at": "2018-11-16T16:13:12Z",
+    "last_commit_at": "2026-11-19T14:20:43Z",
+    "releases": 7,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2023-01-24T11:46:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a5f32322dd0a0d9ee461e0331e6d8e612bd1ace2",
+    "v": 4
+  },
+  "pinned_at": "2026-11-19T14:20:43Z"
+}

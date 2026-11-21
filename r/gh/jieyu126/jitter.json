@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ddf9f7ac51e4572c2885b75f6259fb1dc7bdf233"
+  },
+  "id": "gh:jieyu126/jitter",
+  "kind": "repo",
+  "url": "https://github.com/Jieyu126/Jitter",
+  "title": "Jitter",
+  "why": "Predicts radial velocity jitter from stellar oscillations and granulation given luminosity, mass, temperature or surface gravity, with Monte Carlo error bars.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Jieyu126/Jitter",
+    "sha": "ddf9f7ac51e4572c2885b75f6259fb1dc7bdf233",
+    "file_url": "https://cdn.jsdelivr.net/gh/Jieyu126/Jitter@ddf9f7ac51e4572c2885b75f6259fb1dc7bdf233/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "none",
+    "stars": 2,
+    "size_mb": 0,
+    "created_at": "2018-05-31T07:44:54Z",
+    "last_commit_at": "2018-06-28T08:15:40Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ddf9f7ac51e4572c2885b75f6259fb1dc7bdf233",
+    "v": 4
+  },
+  "pinned_at": "2018-06-28T08:15:40Z",
+  "papers": [
+    {
+      "id": "arxiv:1807.00096",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

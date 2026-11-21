@@ -26,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/openlayers/openlayers",
-    "sha": "94f6e25e6d26a18dcef54af1ec114a9345edcbee",
-    "file_url": "https://cdn.jsdelivr.net/gh/openlayers/openlayers@94f6e25e6d26a18dcef54af1ec114a9345edcbee/{path}"
+    "sha": "fcaf3b442611366fb17a6ef7379a4fdb1a5b187e",
+    "file_url": "https://cdn.jsdelivr.net/gh/openlayers/openlayers@fcaf3b442611366fb17a6ef7379a4fdb1a5b187e/{path}"
   },
   "facts": {
     "lang": "JavaScript",
@@ -57,8 +57,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "94f6e25e6d26a18dcef54af1ec114a9345edcbee",
-    "v": 3
-  }
+  "pins_before": [
+    "94f6e25e6d26a18dcef54af1ec114a9345edcbee"
+  ],
+  "pinned_at": "2026-11-20T00:04:40Z"
 }

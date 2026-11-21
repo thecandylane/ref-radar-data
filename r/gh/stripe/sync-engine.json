@@ -1,0 +1,71 @@
+{
+  "id": "gh:stripe/sync-engine",
+  "kind": "repo",
+  "url": "https://github.com/stripe/sync-engine",
+  "title": "sync-engine",
+  "why": "Syncs Stripe API objects into Postgres, SQLite, Redis or Google Sheets destinations, keeping state for each stream.",
+  "keys": {
+    "races": [
+      "data/pipelines",
+      "finance/billing"
+    ],
+    "lanes": [
+      "data/pipelines",
+      "finance/billing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/stripe/sync-engine",
+    "sha": "0cb8ca453d7ad266de714f83838f4e38565e8a57",
+    "file_url": "https://cdn.jsdelivr.net/gh/stripe/sync-engine@0cb8ca453d7ad266de714f83838f4e38565e8a57/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 1088,
+    "size_mb": 10,
+    "created_at": "2021-04-29T13:12:48Z",
+    "last_commit_at": "2026-09-14T18:25:32Z",
+    "releases": 91,
+    "tags": 92,
+    "archived": false,
+    "release": {
+      "tag": "v0.48.5",
+      "at": "2026-03-26T05:42:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0cb8ca453d7ad266de714f83838f4e38565e8a57",
+    "v": 4
+  },
+  "pinned_at": "2026-09-14T18:25:32Z"
+}

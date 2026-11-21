@@ -1,0 +1,66 @@
+{
+  "id": "gh:haomingsj98/multi-output-gp-cosmology-surrogate",
+  "kind": "repo",
+  "url": "https://github.com/haomingsj98/Multi-Output-GP-Cosmology-Surrogate",
+  "title": "Multi-Output-GP-Cosmology-Surrogate",
+  "why": "Trains GP surrogates on Nyx datasets with gpflow, then fits them to observation data using MCMC chains.",
+  "keys": {
+    "races": [
+      "sci/sciml",
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "sci/sciml",
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/haomingsj98/Multi-Output-GP-Cosmology-Surrogate",
+    "sha": "f61b7cc225a2484ee2ecf382a1a38410298a1413",
+    "file_url": "https://cdn.jsdelivr.net/gh/haomingsj98/Multi-Output-GP-Cosmology-Surrogate@f61b7cc225a2484ee2ecf382a1a38410298a1413/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 12,
+    "created_at": "2025-07-14T19:01:22Z",
+    "last_commit_at": "2026-08-30T16:32:35Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f61b7cc225a2484ee2ecf382a1a38410298a1413",
+    "v": 4
+  },
+  "pinned_at": "2026-08-30T16:32:35Z"
+}

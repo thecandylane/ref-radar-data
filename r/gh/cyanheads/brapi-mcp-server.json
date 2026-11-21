@@ -1,0 +1,70 @@
+{
+  "id": "gh:cyanheads/brapi-mcp-server",
+  "kind": "repo",
+  "url": "https://github.com/cyanheads/brapi-mcp-server",
+  "title": "brapi-mcp-server",
+  "why": "Queries breeding databases over BrAPI for germplasm, studies and genotype calls, then exports matrices as VCF or TSV.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "agriculture/farm-management",
+      "agents/tools"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "agriculture/farm-management",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cyanheads/brapi-mcp-server",
+    "sha": "01da73152ef97f09f65feaaa1d884b84870b2759",
+    "file_url": "https://cdn.jsdelivr.net/gh/cyanheads/brapi-mcp-server@01da73152ef97f09f65feaaa1d884b84870b2759/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 4,
+    "size_mb": 3,
+    "created_at": "2026-04-24T00:30:24Z",
+    "last_commit_at": "2026-11-20T22:55:36Z",
+    "releases": 25,
+    "tags": 61,
+    "archived": false,
+    "release": {
+      "tag": "v0.12.0",
+      "at": "2026-11-21T01:51:02.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "01da73152ef97f09f65feaaa1d884b84870b2759",
+    "v": 4
+  }
+}

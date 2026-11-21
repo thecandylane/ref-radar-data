@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:56e547d376381a6d42cfc4b5cb2f3797eaad43d8"
+  },
+  "id": "gh:ropensci/comtradr",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/comtradr",
+  "title": "comtradr",
+  "why": "R client for the UN Comtrade API that returns country-level trade data for commodities as a tidy data frame.",
+  "keys": {
+    "races": [
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/comtradr",
+    "sha": "56e547d376381a6d42cfc4b5cb2f3797eaad43d8",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/comtradr@56e547d376381a6d42cfc4b5cb2f3797eaad43d8/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 85,
+    "size_mb": 14,
+    "created_at": "2017-02-02T22:07:38Z",
+    "last_commit_at": "2026-09-19T15:00:55Z",
+    "releases": 14,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.6",
+      "at": "2026-07-31T08:20:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "56e547d376381a6d42cfc4b5cb2f3797eaad43d8",
+    "v": 4
+  },
+  "pinned_at": "2026-09-19T15:00:55Z"
+}

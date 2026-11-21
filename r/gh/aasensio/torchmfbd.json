@@ -1,0 +1,70 @@
+{
+  "id": "gh:aasensio/torchmfbd",
+  "kind": "repo",
+  "url": "https://github.com/aasensio/torchmfbd",
+  "title": "torchmfbd",
+  "why": "Deconvolves several telescope frames at once with a modal point spread function model, running on torch with regularization and annealing.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/aasensio/torchmfbd",
+    "sha": "3cf4d00624ff0e25d56855a0ed3b367471758e5d",
+    "file_url": "https://cdn.jsdelivr.net/gh/aasensio/torchmfbd@3cf4d00624ff0e25d56855a0ed3b367471758e5d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 12,
+    "size_mb": 97,
+    "created_at": "2024-12-19T08:29:48Z",
+    "last_commit_at": "2026-11-13T14:06:16Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3cf4d00624ff0e25d56855a0ed3b367471758e5d",
+    "v": 4
+  },
+  "pinned_at": "2026-11-13T14:06:16Z",
+  "papers": [
+    {
+      "id": "arxiv:2505.10639",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

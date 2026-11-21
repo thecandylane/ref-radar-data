@@ -1,0 +1,62 @@
+{
+  "id": "gh:2404589803/hf-daily-paper-newsletter-chinese",
+  "kind": "repo",
+  "url": "https://github.com/2404589803/hf-daily-paper-newsletter-chinese",
+  "title": "hf-daily-paper-newsletter-chinese",
+  "why": "Collects each day's Hugging Face papers, has DeepSeek interpret them, and writes a Chinese newsletter in Markdown and HTML with audio.",
+  "keys": {
+    "races": [
+      "media/news",
+      "media/speech"
+    ],
+    "lanes": [
+      "media/news",
+      "media/speech"
+    ],
+    "capabilities": [
+      "media/news/news-digests",
+      "media/speech/text-to-speech"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/2404589803/hf-daily-paper-newsletter-chinese",
+    "sha": "ae159ce86522b79e2a2507686110f91ebb9b4cc2",
+    "file_url": "https://raw.githubusercontent.com/2404589803/hf-daily-paper-newsletter-chinese/ae159ce86522b79e2a2507686110f91ebb9b4cc2/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "Apache-2.0",
+    "stars": 61,
+    "size_mb": 1047,
+    "created_at": "2024-02-23T10:39:12Z",
+    "last_commit_at": "2026-11-20T16:22:26Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "ae159ce86522b79e2a2507686110f91ebb9b4cc2",
+    "v": 4
+  }
+}

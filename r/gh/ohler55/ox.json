@@ -1,0 +1,65 @@
+{
+  "id": "gh:ohler55/ox",
+  "kind": "repo",
+  "url": "https://github.com/ohler55/ox",
+  "title": "ox",
+  "why": "Ruby C extension that loads and dumps XML through SAX parsing, hash and object mapping, and a builder API for writing documents.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ohler55/ox",
+    "sha": "2974f59a376d23800eef7fc043782ccc548aa66e",
+    "file_url": "https://cdn.jsdelivr.net/gh/ohler55/ox@2974f59a376d23800eef7fc043782ccc548aa66e/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "MIT",
+    "stars": 911,
+    "size_mb": 3,
+    "created_at": "2011-02-09T05:56:41Z",
+    "last_commit_at": "2026-11-19T13:58:07Z",
+    "releases": 8,
+    "tags": 117,
+    "archived": false,
+    "release": {
+      "tag": "v2.14.29",
+      "at": "2026-08-08T17:57:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2974f59a376d23800eef7fc043782ccc548aa66e",
+    "v": 4
+  },
+  "pinned_at": "2026-11-19T13:58:07Z"
+}

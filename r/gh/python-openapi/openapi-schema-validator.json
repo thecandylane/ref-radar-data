@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:867fea58603bb4eba27ec46eef3e30cd9649e52f"
+  },
+  "id": "gh:python-openapi/openapi-schema-validator",
+  "kind": "repo",
+  "url": "https://github.com/python-openapi/openapi-schema-validator",
+  "title": "openapi-schema-validator",
+  "why": "Validates OpenAPI schemas against each spec version with a cache of compiled validators, plus ECMA regex and format checks.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/python-openapi/openapi-schema-validator",
+    "sha": "867fea58603bb4eba27ec46eef3e30cd9649e52f",
+    "file_url": "https://cdn.jsdelivr.net/gh/python-openapi/openapi-schema-validator@867fea58603bb4eba27ec46eef3e30cd9649e52f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 128,
+    "size_mb": 1,
+    "created_at": "2020-03-05T09:23:39Z",
+    "last_commit_at": "2026-11-09T15:13:19Z",
+    "releases": 35,
+    "tags": 36,
+    "archived": false,
+    "release": {
+      "tag": "0.9.0",
+      "at": "2026-04-27T17:30:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "867fea58603bb4eba27ec46eef3e30cd9649e52f",
+    "v": 4
+  },
+  "pinned_at": "2026-11-09T15:13:19Z"
+}

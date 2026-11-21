@@ -1,0 +1,67 @@
+{
+  "id": "gh:ait-energy/iesopt.jl",
+  "kind": "repo",
+  "url": "https://github.com/ait-energy/IESopt.jl",
+  "title": "IESopt.jl",
+  "why": "Combines abstract building blocks of integrated energy systems into a model run from a config.iesopt.yaml file, with no coding needed.",
+  "keys": {
+    "races": [
+      "energy/system-models",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "energy/system-models",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ait-energy/IESopt.jl",
+    "sha": "5991907ae2287f64253f40c72c0258f217678321",
+    "file_url": "https://cdn.jsdelivr.net/gh/ait-energy/IESopt.jl@5991907ae2287f64253f40c72c0258f217678321/{path}"
+  },
+  "facts": {
+    "lang": "Julia",
+    "license": "MIT",
+    "stars": 29,
+    "size_mb": 5,
+    "created_at": "2023-09-19T13:27:11Z",
+    "last_commit_at": "2026-11-18T09:19:55Z",
+    "releases": 34,
+    "tags": 34,
+    "archived": false,
+    "release": {
+      "tag": "v2.12.1",
+      "at": "2026-11-04T09:26:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5991907ae2287f64253f40c72c0258f217678321",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T09:19:55Z"
+}

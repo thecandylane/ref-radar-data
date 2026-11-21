@@ -1,0 +1,66 @@
+{
+  "id": "gh:chen08209/flclash",
+  "kind": "repo",
+  "url": "https://github.com/chen08209/FlClash",
+  "title": "FlClash",
+  "why": "Runs a mihomo core behind a Flutter app, with profiles from subscription links and live views of connections and DNS queries.",
+  "keys": {
+    "races": [
+      "infra/networking",
+      "mobile/cross-platform"
+    ],
+    "lanes": [
+      "infra/networking",
+      "mobile/cross-platform"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/chen08209/FlClash",
+    "sha": "afe7136002271fd64f098b154e7fff40be721eb8",
+    "file_url": "https://cdn.jsdelivr.net/gh/chen08209/FlClash@afe7136002271fd64f098b154e7fff40be721eb8/{path}"
+  },
+  "facts": {
+    "lang": "Dart",
+    "license": "GPL-3.0",
+    "stars": 64502,
+    "size_mb": 82,
+    "created_at": "2023-08-15T07:47:22Z",
+    "last_commit_at": "2026-11-20T11:45:22Z",
+    "releases": 114,
+    "tags": 249,
+    "archived": false,
+    "release": {
+      "tag": "v0.9.4",
+      "at": "2026-11-19T07:31:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pins_before": [
+    "9f2759e2d6ab16181cf77f038dab200378e8ace5"
+  ],
+  "pinned_at": "2026-11-20T11:45:22Z"
+}

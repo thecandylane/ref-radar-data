@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0fbb64c9423f09109e684fb648dac95ae943199d"
+  },
+  "id": "gh:bioconductor/keggrest",
+  "kind": "repo",
+  "url": "https://github.com/Bioconductor/KEGGREST",
+  "title": "KEGGREST",
+  "why": "Queries the Kyoto Encyclopedia of Genes and Genomes REST API from R, giving Bioconductor workflows direct client access to KEGG records.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Bioconductor/KEGGREST",
+    "sha": "0fbb64c9423f09109e684fb648dac95ae943199d",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/KEGGREST@0fbb64c9423f09109e684fb648dac95ae943199d/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 15,
+    "size_mb": 0,
+    "created_at": "2017-09-01T20:23:21Z",
+    "last_commit_at": "2026-07-22T20:09:17Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "0fbb64c9423f09109e684fb648dac95ae943199d",
+    "v": 4
+  },
+  "pinned_at": "2026-07-22T20:09:17Z"
+}

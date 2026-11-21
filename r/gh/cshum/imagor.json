@@ -1,0 +1,56 @@
+{
+  "id": "gh:cshum/imagor",
+  "kind": "repo",
+  "url": "https://github.com/cshum/imagor",
+  "title": "imagor",
+  "why": "Resizes and filters images from thumbor-style URLs with libvips streaming, so a Docker container can replace thumbor.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cshum/imagor",
+    "sha": "8d9380585b890419adf5a24f6998ca9b64c8ac92",
+    "file_url": "https://cdn.jsdelivr.net/gh/cshum/imagor@8d9380585b890419adf5a24f6998ca9b64c8ac92/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 4059,
+    "size_mb": 28,
+    "created_at": "2021-05-15T13:04:01Z",
+    "last_commit_at": "2026-11-13T19:07:01Z",
+    "releases": 132,
+    "tags": 211,
+    "archived": false,
+    "release": {
+      "tag": "v1.10.4",
+      "at": "2026-11-13T16:34:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

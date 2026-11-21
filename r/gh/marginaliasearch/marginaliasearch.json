@@ -1,0 +1,63 @@
+{
+  "id": "gh:marginaliasearch/marginaliasearch",
+  "kind": "repo",
+  "url": "https://github.com/MarginaliaSearch/MarginaliaSearch",
+  "title": "MarginaliaSearch",
+  "why": "Search engine with actors that crawl, convert and build the index, plus a native library for decoding docids.",
+  "keys": {
+    "races": [
+      "data/search",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "data/search",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MarginaliaSearch/MarginaliaSearch",
+    "sha": "dd0486f3eff0561a75cdde7c1fd1ae99d844d995",
+    "file_url": "https://cdn.jsdelivr.net/gh/MarginaliaSearch/MarginaliaSearch@dd0486f3eff0561a75cdde7c1fd1ae99d844d995/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "NOASSERTION",
+    "stars": 2241,
+    "size_mb": 31,
+    "created_at": "2023-03-20T14:16:45Z",
+    "last_commit_at": "2026-11-18T20:01:09Z",
+    "releases": 13,
+    "tags": 332,
+    "archived": false,
+    "release": {
+      "tag": "v24.10.0",
+      "at": "2024-10-14T12:34:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "dd0486f3eff0561a75cdde7c1fd1ae99d844d995",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T20:01:09Z"
+}

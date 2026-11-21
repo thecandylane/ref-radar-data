@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:73562e513ef50d54df51daefa5243fa8427df7af"
+  },
   "id": "gh:colinhacks/reylo",
   "kind": "repo",
   "url": "https://github.com/reylosql/reylo",
@@ -38,16 +41,16 @@
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 1613,
-    "size_mb": 109,
+    "stars": 1616,
+    "size_mb": 110,
     "created_at": "2026-10-21T00:16:54Z",
-    "last_commit_at": "2026-11-20T06:18:15Z",
-    "releases": 10,
-    "tags": 10,
+    "last_commit_at": "2026-11-21T09:02:53Z",
+    "releases": 11,
+    "tags": 11,
     "archived": false,
     "release": {
-      "tag": "v0.7.0",
-      "at": "2026-11-03T01:40:52.000Z"
+      "tag": "v0.8.0",
+      "at": "2026-11-21T01:54:35.000Z"
     }
   },
   "reuse": "copy",

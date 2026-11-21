@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:f1795c239808628f660ae42c8e2584d8552e4784"
-  },
   "id": "gh:pola-rs/polars",
   "kind": "repo",
   "url": "https://github.com/pola-rs/polars",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/pola-rs/polars",
-    "sha": "f1795c239808628f660ae42c8e2584d8552e4784",
-    "file_url": "https://cdn.jsdelivr.net/gh/pola-rs/polars@f1795c239808628f660ae42c8e2584d8552e4784/{path}"
+    "sha": "1695451f24519c8728bf2bf903c442036a756663",
+    "file_url": "https://cdn.jsdelivr.net/gh/pola-rs/polars@1695451f24519c8728bf2bf903c442036a756663/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 40392,
-    "size_mb": 236,
+    "stars": 40412,
+    "size_mb": 239,
     "created_at": "2020-05-13T19:45:33Z",
-    "last_commit_at": "2026-11-20T09:26:28Z",
+    "last_commit_at": "2026-11-21T09:21:15Z",
     "releases": 272,
     "tags": 578,
     "archived": false,
@@ -55,14 +52,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 48,
+    "star_delta_7d": 74,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "f1795c239808628f660ae42c8e2584d8552e4784",
-    "v": 3
-  },
+  "pins_before": [
+    "f1795c239808628f660ae42c8e2584d8552e4784"
+  ],
+  "pinned_at": "2026-11-21T09:21:15Z",
   "hot": true
 }

@@ -36,16 +36,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/oxc-project/oxc",
-    "sha": "33d65acad32800cc7f79d575352259ae8949afa5",
-    "file_url": "https://cdn.jsdelivr.net/gh/oxc-project/oxc@33d65acad32800cc7f79d575352259ae8949afa5/{path}"
+    "sha": "209f078ba8572400fbf75e59cbd48fa8c291e71a",
+    "file_url": "https://cdn.jsdelivr.net/gh/oxc-project/oxc@209f078ba8572400fbf75e59cbd48fa8c291e71a/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 23514,
-    "size_mb": 220,
+    "stars": 23526,
+    "size_mb": 222,
     "created_at": "2023-02-09T05:46:51Z",
-    "last_commit_at": "2026-11-20T08:29:20Z",
+    "last_commit_at": "2026-11-20T14:42:31Z",
     "releases": 306,
     "tags": 578,
     "archived": false,
@@ -62,14 +62,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 66,
+    "star_delta_7d": 88,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "33d65acad32800cc7f79d575352259ae8949afa5",
-    "v": 3
-  },
+  "pins_before": [
+    "33d65acad32800cc7f79d575352259ae8949afa5"
+  ],
+  "pinned_at": "2026-11-20T14:42:31Z",
   "hot": true
 }

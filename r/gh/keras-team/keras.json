@@ -1,0 +1,62 @@
+{
+  "id": "gh:keras-team/keras",
+  "kind": "repo",
+  "url": "https://github.com/keras-team/keras",
+  "title": "keras",
+  "why": "Runs one model on JAX, TensorFlow, PyTorch or OpenVINO, so existing tf.keras code moves across backends with little change.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "ml/vision"
+    ],
+    "lanes": [
+      "ml/training",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/keras-team/keras",
+    "sha": "e1705782f99a692cd5b5aef181590f69342847c2",
+    "file_url": "https://cdn.jsdelivr.net/gh/keras-team/keras@e1705782f99a692cd5b5aef181590f69342847c2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 64446,
+    "size_mb": 58,
+    "created_at": "2015-03-28T00:35:42Z",
+    "last_commit_at": "2026-11-20T23:54:36Z",
+    "releases": 93,
+    "tags": 121,
+    "archived": false,
+    "release": {
+      "tag": "v3.12.4",
+      "at": "2026-07-29T22:19:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pins_before": [
+    "a8c8a995833ee1fcbe751c568b1a547d5dbd4860"
+  ],
+  "pinned_at": "2026-11-20T23:54:36Z"
+}

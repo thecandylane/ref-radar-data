@@ -1,0 +1,63 @@
+{
+  "id": "gh:atps/scicer",
+  "kind": "repo",
+  "url": "https://github.com/ATPs/scICER",
+  "title": "scICER",
+  "why": "Checks which cluster counts stay consistent for Leiden clustering on a Seurat object, using bootstrap runs.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ATPs/scICER",
+    "sha": "aa90dc907062adb3bf5d97cfc8bfe17f5ad1963f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ATPs/scICER@aa90dc907062adb3bf5d97cfc8bfe17f5ad1963f/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 5,
+    "size_mb": 0,
+    "created_at": "2025-07-09T02:32:14Z",
+    "last_commit_at": "2026-05-20T10:47:43Z",
+    "releases": 10,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.1",
+      "at": "2026-05-20T03:59:32.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "aa90dc907062adb3bf5d97cfc8bfe17f5ad1963f",
+    "v": 4
+  },
+  "pinned_at": "2026-05-20T10:47:43Z"
+}

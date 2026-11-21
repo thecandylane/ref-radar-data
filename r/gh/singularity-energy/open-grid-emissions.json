@@ -1,0 +1,68 @@
+{
+  "id": "gh:singularity-energy/open-grid-emissions",
+  "kind": "repo",
+  "url": "https://github.com/singularity-energy/open-grid-emissions",
+  "title": "open-grid-emissions",
+  "why": "Rebuilds hourly plant emissions from EIA and EPA inputs, flagging CEMS outliers and applying fuel emission factors per generator.",
+  "keys": {
+    "races": [
+      "energy/grid-data",
+      "energy/power-grid",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "energy/grid-data",
+      "energy/power-grid",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/singularity-energy/open-grid-emissions",
+    "sha": "44e135836aadfd693cfe395e2771acf358a8fb72",
+    "file_url": "https://cdn.jsdelivr.net/gh/singularity-energy/open-grid-emissions@44e135836aadfd693cfe395e2771acf358a8fb72/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 96,
+    "size_mb": 62,
+    "created_at": "2022-02-17T20:59:40Z",
+    "last_commit_at": "2026-11-20T22:06:51Z",
+    "releases": 17,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "v0.8.0",
+      "at": "2026-08-14T16:56:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "44e135836aadfd693cfe395e2771acf358a8fb72",
+    "v": 4
+  }
+}

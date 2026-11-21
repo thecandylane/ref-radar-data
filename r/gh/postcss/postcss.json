@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:93452db941992ba4725815a3ae4938527700ad9f"
-  },
   "id": "gh:postcss/postcss",
   "kind": "repo",
   "url": "https://github.com/postcss/postcss",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/postcss/postcss",
-    "sha": "93452db941992ba4725815a3ae4938527700ad9f",
-    "file_url": "https://cdn.jsdelivr.net/gh/postcss/postcss@93452db941992ba4725815a3ae4938527700ad9f/{path}"
+    "sha": "8b7a14a76542016ac462a0205e89b58d171c89b6",
+    "file_url": "https://cdn.jsdelivr.net/gh/postcss/postcss@8b7a14a76542016ac462a0205e89b58d171c89b6/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -40,7 +37,7 @@
     "stars": 28976,
     "size_mb": 11,
     "created_at": "2013-09-24T23:06:48Z",
-    "last_commit_at": "2026-11-13T22:43:58Z",
+    "last_commit_at": "2026-11-20T20:11:41Z",
     "releases": 295,
     "tags": 296,
     "archived": false,
@@ -62,8 +59,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "93452db941992ba4725815a3ae4938527700ad9f",
-    "v": 3
-  }
+  "pins_before": [
+    "93452db941992ba4725815a3ae4938527700ad9f"
+  ],
+  "pinned_at": "2026-11-20T20:11:41Z"
 }

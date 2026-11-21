@@ -1,0 +1,70 @@
+{
+  "id": "gh:storytold/lightcraft",
+  "kind": "repo",
+  "url": "https://github.com/storytold/lightcraft",
+  "title": "lightcraft",
+  "why": "Rust photo app that culls large RAW sets, with Sony distortion checks and gain map support built on its own codec crates.",
+  "keys": {
+    "races": [
+      "media/photo-editing",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "media/photo-editing",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/storytold/lightcraft",
+    "sha": "5eca431541958bb6a6a2caed74f5640ed9a784f0",
+    "file_url": "https://cdn.jsdelivr.net/gh/storytold/lightcraft@5eca431541958bb6a6a2caed74f5640ed9a784f0/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 16246,
+    "size_mb": 71,
+    "created_at": "2026-09-30T14:09:27Z",
+    "last_commit_at": "2026-11-21T01:57:14Z",
+    "releases": 24,
+    "tags": 24,
+    "archived": false,
+    "release": {
+      "tag": "v0.21.1",
+      "at": "2026-11-12T05:08:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "5eca431541958bb6a6a2caed74f5640ed9a784f0",
+    "v": 4
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "gh:spatialecology/camtrapreport",
+  "kind": "repo",
+  "url": "https://github.com/spatialecology/camtrapReport",
+  "title": "camtrapReport",
+  "why": "R package that builds camera trap reports, with a map basemap script that waits for layers to settle and handles offline failures.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/spatialecology/camtrapReport",
+    "sha": "867980d5b51e888216c5c8560d61ce62d43d19ea",
+    "file_url": "https://cdn.jsdelivr.net/gh/spatialecology/camtrapReport@867980d5b51e888216c5c8560d61ce62d43d19ea/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 11,
+    "size_mb": 134,
+    "created_at": "2025-06-16T22:41:09Z",
+    "last_commit_at": "2026-11-16T08:59:03Z",
+    "releases": 1,
+    "tags": 6,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "867980d5b51e888216c5c8560d61ce62d43d19ea",
+    "v": 4
+  },
+  "pinned_at": "2026-11-16T08:59:03Z"
+}

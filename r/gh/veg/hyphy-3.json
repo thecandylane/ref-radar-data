@@ -1,0 +1,65 @@
+{
+  "id": "gh:veg/hyphy-3",
+  "kind": "repo",
+  "url": "https://github.com/veg/hyphy-3",
+  "title": "hyphy-3",
+  "why": "Browser viewer for HyPhy selection results, with site tracks, Newick branch trees and evidence bands for each codon site.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/veg/hyphy-3",
+    "sha": "cd6ba1183fdf047a2a68d34ae3019daba84b2ad9",
+    "file_url": "https://cdn.jsdelivr.net/gh/veg/hyphy-3@cd6ba1183fdf047a2a68d34ae3019daba84b2ad9/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 18,
+    "size_mb": 8,
+    "created_at": "2026-10-09T17:26:35Z",
+    "last_commit_at": "2026-11-18T20:32:14Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v0.0.2",
+      "at": "2026-11-17T20:11:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "cd6ba1183fdf047a2a68d34ae3019daba84b2ad9",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T20:32:14Z"
+}

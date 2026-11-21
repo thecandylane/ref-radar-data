@@ -1,0 +1,69 @@
+{
+  "id": "gh:nordsecurity/nordvpn-linux",
+  "kind": "repo",
+  "url": "https://github.com/NordSecurity/nordvpn-linux",
+  "title": "nordvpn-linux",
+  "why": "Drives NordVPN from a command line, with connect, disconnect, allowlist, meshnet and fileshare commands.",
+  "keys": {
+    "races": [
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NordSecurity/nordvpn-linux",
+    "sha": "a96e6978519f684fb4fd659a56d0e95018ce8bbe",
+    "file_url": "https://cdn.jsdelivr.net/gh/NordSecurity/nordvpn-linux@a96e6978519f684fb4fd659a56d0e95018ce8bbe/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "GPL-3.0",
+    "stars": 502,
+    "size_mb": 26,
+    "created_at": "2023-03-10T18:04:52Z",
+    "last_commit_at": "2026-11-18T12:53:18Z",
+    "releases": 49,
+    "tags": 53,
+    "archived": false,
+    "release": {
+      "tag": "6.1.0",
+      "at": "2026-11-18T12:56:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a96e6978519f684fb4fd659a56d0e95018ce8bbe",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T12:53:18Z"
+}

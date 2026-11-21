@@ -1,8 +1,11 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:244a35f2cad7e1c9882e7575c7e6957144bc7131"
+  },
   "id": "gh:gin-contrib/i18n",
   "kind": "repo",
   "url": "https://github.com/gin-contrib/i18n",
-  "title": "i18n",
+  "title": "gin-contrib/i18n",
   "why": "Adds locale selection to Gin apps, loading translation bundles with fallback languages and a customizable language lookup per request.",
   "keys": {
     "races": [

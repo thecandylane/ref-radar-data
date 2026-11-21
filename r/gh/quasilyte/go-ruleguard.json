@@ -1,0 +1,68 @@
+{
+  "id": "gh:quasilyte/go-ruleguard",
+  "kind": "repo",
+  "url": "https://github.com/quasilyte/go-ruleguard",
+  "title": "go-ruleguard",
+  "why": "Lets you write Go lint rules as gogrep patterns with type filters, run over the AST by a shared analyzer.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "languages/compilers"
+    ],
+    "capabilities": [
+      "cyber/appsec/static-analysis"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/quasilyte/go-ruleguard",
+    "sha": "711735fb6d1b8f9b07022faae848fad9e091c02f",
+    "file_url": "https://cdn.jsdelivr.net/gh/quasilyte/go-ruleguard@711735fb6d1b8f9b07022faae848fad9e091c02f/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "BSD-3-Clause",
+    "stars": 883,
+    "size_mb": 2,
+    "created_at": "2019-12-11T21:42:32Z",
+    "last_commit_at": "2026-11-10T09:36:23Z",
+    "releases": 35,
+    "tags": 59,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.5",
+      "at": "2025-09-25T14:03:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

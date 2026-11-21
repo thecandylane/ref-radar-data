@@ -1,0 +1,60 @@
+{
+  "id": "gh:cporter202/real-estate-data-apis",
+  "kind": "repo",
+  "url": "https://github.com/cporter202/real-estate-data-apis",
+  "title": "real-estate-data-apis",
+  "why": "Script that pulls catalog text from source URLs and rewrites local files only when their content has changed.",
+  "keys": {
+    "races": [
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/api-directories"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cporter202/real-estate-data-apis",
+    "sha": "f6cedcba3706c9022561134aa96d29d08422e50e",
+    "file_url": "https://cdn.jsdelivr.net/gh/cporter202/real-estate-data-apis@f6cedcba3706c9022561134aa96d29d08422e50e/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 91,
+    "size_mb": 2,
+    "created_at": "2026-08-26T12:49:20Z",
+    "last_commit_at": "2026-10-17T16:09:43Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "f6cedcba3706c9022561134aa96d29d08422e50e",
+    "v": 4
+  },
+  "pinned_at": "2026-10-17T16:09:43Z"
+}

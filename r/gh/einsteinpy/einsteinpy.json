@@ -1,0 +1,78 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:63e1c54537a385c9f56d7d4075b0261ddaa96069"
+  },
+  "id": "gh:einsteinpy/einsteinpy",
+  "kind": "repo",
+  "url": "https://github.com/einsteinpy/einsteinpy",
+  "title": "einsteinpy",
+  "why": "Calculates trajectories in Schwarzschild and Kerr spacetimes, and symbolic curvature tensors from a metric you define.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/symbolic"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/symbolic"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/einsteinpy/einsteinpy",
+    "sha": "63e1c54537a385c9f56d7d4075b0261ddaa96069",
+    "file_url": "https://cdn.jsdelivr.net/gh/einsteinpy/einsteinpy@63e1c54537a385c9f56d7d4075b0261ddaa96069/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 707,
+    "size_mb": 75,
+    "created_at": "2019-01-30T07:56:15Z",
+    "last_commit_at": "2026-11-10T15:36:37Z",
+    "releases": 7,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.0",
+      "at": "2026-10-21T00:57:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "63e1c54537a385c9f56d7d4075b0261ddaa96069",
+    "v": 4
+  },
+  "pinned_at": "2026-11-10T15:36:37Z",
+  "papers": [
+    {
+      "id": "arxiv:2005.11288",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

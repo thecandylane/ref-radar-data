@@ -1,0 +1,68 @@
+{
+  "id": "gh:ssglenn-lanl/bootesa",
+  "kind": "repo",
+  "url": "https://github.com/ssglenn-LANL/bootESA",
+  "title": "bootESA",
+  "why": "Builds bootstrap confidence intervals for the Elastic Shape Distance between closed curves, so a hypothesis test can check a null shape.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/statistics",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ssglenn-LANL/bootESA",
+    "sha": "77320c664b30313548b56a0292bea2c3cb685fb8",
+    "file_url": "https://cdn.jsdelivr.net/gh/ssglenn-LANL/bootESA@77320c664b30313548b56a0292bea2c3cb685fb8/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 6,
+    "created_at": "2026-07-07T14:37:13Z",
+    "last_commit_at": "2026-07-09T14:36:49Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "77320c664b30313548b56a0292bea2c3cb685fb8",
+    "v": 4
+  },
+  "pinned_at": "2026-07-09T14:36:49Z",
+  "papers": [
+    {
+      "id": "arxiv:2606.04879",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b5bd916318e33d7000f401a0f38087850a94454e"
+  },
+  "id": "gh:hjozwiak-umk/bigos_h2he",
+  "kind": "repo",
+  "url": "https://github.com/hjozwiak-umk/bigos_h2he",
+  "title": "bigos_h2he",
+  "why": "Solves coupled equations for diatom-atom scattering to output S-matrix elements and state-to-state cross-sections in Fortran 90.",
+  "keys": {
+    "races": [
+      "engineering/chemistry",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "engineering/chemistry",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hjozwiak-umk/bigos_h2he",
+    "sha": "b5bd916318e33d7000f401a0f38087850a94454e",
+    "file_url": "https://cdn.jsdelivr.net/gh/hjozwiak-umk/bigos_h2he@b5bd916318e33d7000f401a0f38087850a94454e/{path}"
+  },
+  "facts": {
+    "lang": "Roff",
+    "license": "none",
+    "stars": 1,
+    "size_mb": 102,
+    "created_at": "2023-12-24T22:23:34Z",
+    "last_commit_at": "2024-03-05T10:42:35Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.0.1",
+      "at": "2024-03-04T10:03:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "b5bd916318e33d7000f401a0f38087850a94454e",
+    "v": 4
+  },
+  "pinned_at": "2024-03-05T10:42:35Z",
+  "papers": [
+    {
+      "id": "arxiv:2311.09890",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

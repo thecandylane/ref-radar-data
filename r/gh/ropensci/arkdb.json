@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1dda73d138f51536d8958462d01650c19dec88d1"
+  },
+  "id": "gh:ropensci/arkdb",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/arkdb",
+  "title": "arkdb",
+  "why": "Moves tables between DBI databases and compressed csv or tsv files in fixed-size chunks, so tables too big for memory still load.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "data/databases",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/arkdb",
+    "sha": "1dda73d138f51536d8958462d01650c19dec88d1",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/arkdb@1dda73d138f51536d8958462d01650c19dec88d1/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 80,
+    "size_mb": 1,
+    "created_at": "2018-06-07T19:29:36Z",
+    "last_commit_at": "2026-02-09T15:07:47Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v0.0.14",
+      "at": "2021-10-19T19:20:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "1dda73d138f51536d8958462d01650c19dec88d1",
+    "v": 4
+  },
+  "pinned_at": "2026-02-09T15:07:47Z"
+}

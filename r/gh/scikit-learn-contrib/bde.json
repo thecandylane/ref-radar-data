@@ -1,0 +1,75 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bb2d8fc7255b17270664103f1ff1725682bbac66"
+  },
+  "id": "gh:scikit-learn-contrib/bde",
+  "kind": "repo",
+  "url": "https://github.com/scikit-learn-contrib/bde",
+  "title": "bde",
+  "why": "Gives tabular neural networks credible intervals by sampling ensemble posteriors, behind scikit-learn fit and predict calls.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "ml/training"
+    ],
+    "lanes": [
+      "data/statistics",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/scikit-learn-contrib/bde",
+    "sha": "bb2d8fc7255b17270664103f1ff1725682bbac66",
+    "file_url": "https://cdn.jsdelivr.net/gh/scikit-learn-contrib/bde@bb2d8fc7255b17270664103f1ff1725682bbac66/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 46,
+    "size_mb": 19,
+    "created_at": "2025-08-20T13:46:01Z",
+    "last_commit_at": "2026-08-03T13:30:57Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.2",
+      "at": "2026-07-20T08:02:48.000Z"
+    },
+    "doi": "10.21105/joss.10653"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "bb2d8fc7255b17270664103f1ff1725682bbac66",
+    "v": 4
+  },
+  "pinned_at": "2026-08-03T13:30:57Z",
+  "papers": [
+    {
+      "id": "arxiv:2502.06335",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

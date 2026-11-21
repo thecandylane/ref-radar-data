@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3e8c8b101b3178424f9eb729607fd12a0d30d9fd"
+  },
+  "id": "gh:bernatgel/karyoploter",
+  "kind": "repo",
+  "url": "https://github.com/bernatgel/karyoploteR",
+  "title": "karyoploteR",
+  "why": "Plots data along karyotype genomes with freely placed tracks in base graphics, inspired by Circos.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bernatgel/karyoploteR",
+    "sha": "3e8c8b101b3178424f9eb729607fd12a0d30d9fd",
+    "file_url": "https://cdn.jsdelivr.net/gh/bernatgel/karyoploteR@3e8c8b101b3178424f9eb729607fd12a0d30d9fd/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 380,
+    "size_mb": 3,
+    "created_at": "2016-06-07T16:32:27Z",
+    "last_commit_at": "2026-04-28T12:45:01Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "1.8.4",
+      "at": "2018-11-28T07:33:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3e8c8b101b3178424f9eb729607fd12a0d30d9fd",
+    "v": 4
+  },
+  "pinned_at": "2026-04-28T12:45:01Z"
+}

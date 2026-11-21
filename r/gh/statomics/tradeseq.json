@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:02a9050674d8f0c0ebae8688fa9326dd76360d7d"
+  },
+  "id": "gh:statomics/tradeseq",
+  "kind": "repo",
+  "url": "https://github.com/statOmics/tradeSeq",
+  "title": "tradeSeq",
+  "why": "Finds genes whose expression changes along one or several lineages in sequencing data, using a set of tests for different questions.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/statOmics/tradeSeq",
+    "sha": "02a9050674d8f0c0ebae8688fa9326dd76360d7d",
+    "file_url": "https://cdn.jsdelivr.net/gh/statOmics/tradeSeq@02a9050674d8f0c0ebae8688fa9326dd76360d7d/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "NOASSERTION",
+    "stars": 319,
+    "size_mb": 63,
+    "created_at": "2018-08-29T09:56:04Z",
+    "last_commit_at": "2025-06-17T14:45:33Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.99.46",
+      "at": "2019-09-03T15:37:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "02a9050674d8f0c0ebae8688fa9326dd76360d7d",
+    "v": 4
+  },
+  "pinned_at": "2025-06-17T14:45:33Z"
+}

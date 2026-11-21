@@ -1,0 +1,74 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:78f5192dbb937550f6d796a30a536678abaf1461"
+  },
+  "id": "gh:pj-watson/pygcg",
+  "kind": "repo",
+  "url": "https://github.com/PJ-Watson/pyGCG",
+  "title": "pyGCG",
+  "why": "Lets you view and classify NIRISS grism spectra in a desktop GUI, with the catalogue and line overlays set in a TOML file.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/PJ-Watson/pyGCG",
+    "sha": "78f5192dbb937550f6d796a30a536678abaf1461",
+    "file_url": "https://cdn.jsdelivr.net/gh/PJ-Watson/pyGCG@78f5192dbb937550f6d796a30a536678abaf1461/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2023-09-22T09:08:36Z",
+    "last_commit_at": "2026-07-23T12:41:12Z",
+    "releases": 16,
+    "tags": 37,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2025-05-29T16:03:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "78f5192dbb937550f6d796a30a536678abaf1461",
+    "v": 4
+  },
+  "pinned_at": "2026-07-23T12:41:12Z",
+  "papers": [
+    {
+      "id": "arxiv:2504.00823",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

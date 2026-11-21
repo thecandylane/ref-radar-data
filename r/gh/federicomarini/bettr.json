@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e002746632eb63ca94c90bfdcb5549e6b85192d1"
+  },
+  "id": "gh:federicomarini/bettr",
+  "kind": "repo",
+  "url": "https://github.com/federicomarini/bettr",
+  "title": "bettr",
+  "why": "Combines benchmark metrics into a ranking you can reweight in an interactive session, shown as heatmap and polar views.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/federicomarini/bettr",
+    "sha": "e002746632eb63ca94c90bfdcb5549e6b85192d1",
+    "file_url": "https://cdn.jsdelivr.net/gh/federicomarini/bettr@e002746632eb63ca94c90bfdcb5549e6b85192d1/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 7,
+    "size_mb": 7,
+    "created_at": "2019-03-19T15:23:44Z",
+    "last_commit_at": "2026-09-16T10:37:52Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "joss_review",
+      "at": "2026-09-30T13:34:25.000Z"
+    },
+    "doi": "10.21105/joss.10333"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e002746632eb63ca94c90bfdcb5549e6b85192d1",
+    "v": 4
+  },
+  "pinned_at": "2026-09-16T10:37:52Z"
+}

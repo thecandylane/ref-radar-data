@@ -1,0 +1,68 @@
+{
+  "id": "gh:portabletext/editor",
+  "kind": "repo",
+  "url": "https://github.com/portabletext/editor",
+  "title": "portabletext/editor",
+  "why": "Ships a Portable Text editor whose changes come out as structured patches, so React apps can apply each edit as data.",
+  "keys": {
+    "races": [
+      "web/ui-components"
+    ],
+    "lanes": [
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/portabletext/editor",
+    "sha": "a77bf9eebc4ce0583cdc33bc7099a6ec32ee497a",
+    "file_url": "https://cdn.jsdelivr.net/gh/portabletext/editor@a77bf9eebc4ce0583cdc33bc7099a6ec32ee497a/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 288,
+    "size_mb": 43,
+    "created_at": "2024-06-18T08:58:48Z",
+    "last_commit_at": "2026-11-20T17:20:40Z",
+    "releases": 1000,
+    "tags": 3906,
+    "archived": false,
+    "release": {
+      "tag": "@portabletext/test@3.0.0",
+      "at": "2026-11-17T15:42:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "a77bf9eebc4ce0583cdc33bc7099a6ec32ee497a",
+    "v": 4
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "gh:pocoproject/poco",
+  "kind": "repo",
+  "url": "https://github.com/pocoproject/poco",
+  "title": "poco",
+  "why": "Reconstructs images from interferometric u,v coordinates with a model trained on MCFOST radiative transfer models.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "ml/vision"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pocoproject/poco",
+    "sha": "5a217e736a0d0b87fb8cf2e707c02b12c02ccfd1",
+    "file_url": "https://cdn.jsdelivr.net/gh/pocoproject/poco@5a217e736a0d0b87fb8cf2e707c02b12c02ccfd1/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 9499,
+    "size_mb": 168,
+    "created_at": "2012-10-24T19:39:16Z",
+    "last_commit_at": "2026-11-20T14:07:19Z",
+    "releases": 38,
+    "tags": 78,
+    "archived": false,
+    "release": {
+      "tag": "poco-1.15.4-release",
+      "at": "2026-09-22T16:24:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pins_before": [
+    "8f9ec8b290a099333b3e8e610f0080d33af442a6"
+  ],
+  "pinned_at": "2026-11-20T14:07:19Z"
+}

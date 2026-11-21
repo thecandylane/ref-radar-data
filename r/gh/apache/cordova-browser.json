@@ -1,0 +1,62 @@
+{
+  "id": "gh:apache/cordova-browser",
+  "kind": "repo",
+  "url": "https://github.com/apache/cordova-browser",
+  "title": "cordova-browser",
+  "why": "Lets a Cordova project build, prepare and run its app in a desktop browser through a dev server it launches itself.",
+  "keys": {
+    "races": [
+      "mobile/cross-platform"
+    ],
+    "lanes": [
+      "mobile/cross-platform"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/cordova-browser",
+    "sha": "3daa41ed579cef7b1d15ce8e542a525e664d7444",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/cordova-browser@3daa41ed579cef7b1d15ce8e542a525e664d7444/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "Apache-2.0",
+    "stars": 175,
+    "size_mb": 10,
+    "created_at": "2014-01-06T17:23:03Z",
+    "last_commit_at": "2026-11-12T07:16:22Z",
+    "releases": 0,
+    "tags": 18,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "3daa41ed579cef7b1d15ce8e542a525e664d7444",
+    "v": 4
+  },
+  "pinned_at": "2026-11-12T07:16:22Z"
+}

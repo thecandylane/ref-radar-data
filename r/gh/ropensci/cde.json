@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e4f5b508559c5919351edeb032645fd13a20096e"
+  },
+  "id": "gh:ropensci/cde",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/cde",
+  "title": "cde",
+  "why": "R client that searches and downloads Water Framework Directive status, objectives and protected area data for English waterbodies, with consistent column names.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/datasets"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/cde",
+    "sha": "e4f5b508559c5919351edeb032645fd13a20096e",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/cde@e4f5b508559c5919351edeb032645fd13a20096e/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 5,
+    "size_mb": 2,
+    "created_at": "2017-05-29T06:30:28Z",
+    "last_commit_at": "2025-03-31T15:54:56Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "0.4.1",
+      "at": "2019-06-29T20:00:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "e4f5b508559c5919351edeb032645fd13a20096e",
+    "v": 4
+  },
+  "pinned_at": "2025-03-31T15:54:56Z"
+}

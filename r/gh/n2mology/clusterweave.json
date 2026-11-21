@@ -1,0 +1,61 @@
+{
+  "id": "gh:n2mology/clusterweave",
+  "kind": "repo",
+  "url": "https://github.com/n2mology/clusterweave",
+  "title": "clusterweave",
+  "why": "Chains genome fetch, antismash annotation, bigscape clustering, clinker comparison and phylogeny in Docker runs for gene cluster studies.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/n2mology/clusterweave",
+    "sha": "6a6f03aa326a49245fb2be7476060b222ea43829",
+    "file_url": "https://cdn.jsdelivr.net/gh/n2mology/clusterweave@6a6f03aa326a49245fb2be7476060b222ea43829/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 1,
+    "size_mb": 7,
+    "created_at": "2026-04-21T15:48:24Z",
+    "last_commit_at": "2026-11-04T18:43:51Z",
+    "releases": 7,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.5",
+      "at": "2026-11-04T18:44:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "6a6f03aa326a49245fb2be7476060b222ea43829",
+    "v": 4
+  },
+  "pinned_at": "2026-11-04T18:43:51Z"
+}

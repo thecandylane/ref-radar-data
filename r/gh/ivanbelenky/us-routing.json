@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2426022c747e4e45db1c01eb160b058d5eeb2ba3"
+  },
+  "id": "gh:ivanbelenky/us-routing",
+  "kind": "repo",
+  "url": "https://github.com/ivanbelenky/us-routing",
+  "title": "us-routing",
+  "why": "Routes between cities, zip codes or coordinates on a cached road graph, trading exactness for speed when approximations are fine.",
+  "keys": {
+    "races": [
+      "logistics/route-optimization",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "logistics/route-optimization",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ivanbelenky/us-routing",
+    "sha": "2426022c747e4e45db1c01eb160b058d5eeb2ba3",
+    "file_url": "https://cdn.jsdelivr.net/gh/ivanbelenky/us-routing@2426022c747e4e45db1c01eb160b058d5eeb2ba3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 195,
+    "size_mb": 3,
+    "created_at": "2024-09-05T06:44:34Z",
+    "last_commit_at": "2025-01-08T22:30:36Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "0.1.0",
+      "at": "2024-09-06T01:53:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "2426022c747e4e45db1c01eb160b058d5eeb2ba3",
+    "v": 4
+  },
+  "pinned_at": "2025-01-08T22:30:36Z"
+}

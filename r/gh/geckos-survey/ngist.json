@@ -1,0 +1,75 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:038e9fa4839758e9dae53baeaf93a82bd75d8026"
+  },
+  "id": "gh:geckos-survey/ngist",
+  "kind": "repo",
+  "url": "https://github.com/geckos-survey/ngist",
+  "title": "ngist",
+  "why": "Runs a galaxy IFS analysis pipeline on MUSE data: stellar kinematics, emission lines, star formation histories and line-strength indices as 2D maps.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/geckos-survey/ngist",
+    "sha": "038e9fa4839758e9dae53baeaf93a82bd75d8026",
+    "file_url": "https://cdn.jsdelivr.net/gh/geckos-survey/ngist@038e9fa4839758e9dae53baeaf93a82bd75d8026/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 12,
+    "size_mb": 45,
+    "created_at": "2023-01-20T00:42:57Z",
+    "last_commit_at": "2026-02-03T21:41:16Z",
+    "releases": 15,
+    "tags": 46,
+    "archived": false,
+    "release": {
+      "tag": "7.6.8",
+      "at": "2026-02-03T12:36:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "038e9fa4839758e9dae53baeaf93a82bd75d8026",
+    "v": 4
+  },
+  "pinned_at": "2026-02-03T21:41:16Z",
+  "papers": [
+    {
+      "id": "arxiv:2411.03430",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

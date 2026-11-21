@@ -1,0 +1,67 @@
+{
+  "id": "gh:vercel-labs/agent-browser",
+  "kind": "repo",
+  "url": "https://github.com/vercel-labs/agent-browser",
+  "title": "agent-browser",
+  "why": "Gives an agent a Rust command line for driving a browser, with evals that report context footprint.",
+  "keys": {
+    "races": [
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/browser-automation",
+      "agents/tools/web-access"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vercel-labs/agent-browser",
+    "sha": "25b5d76f2843bce7be6c59a56d3461b162ad4ac9",
+    "file_url": "https://cdn.jsdelivr.net/gh/vercel-labs/agent-browser@25b5d76f2843bce7be6c59a56d3461b162ad4ac9/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 53132,
+    "size_mb": 37,
+    "created_at": "2026-01-11T05:38:15Z",
+    "last_commit_at": "2026-11-21T08:45:13Z",
+    "releases": 122,
+    "tags": 122,
+    "archived": false,
+    "release": {
+      "tag": "v0.43.0",
+      "at": "2026-11-12T23:09:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "25b5d76f2843bce7be6c59a56d3461b162ad4ac9",
+    "v": 4
+  }
+}

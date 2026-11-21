@@ -1,0 +1,65 @@
+{
+  "id": "gh:nlmixr2/nonmem2rx",
+  "kind": "repo",
+  "url": "https://github.com/nlmixr2/nonmem2rx",
+  "title": "nonmem2rx",
+  "why": "Parses NONMEM control-file records like theta, omega and abbrev, then translates them into model code R can run.",
+  "keys": {
+    "races": [
+      "languages/compilers"
+    ],
+    "lanes": [
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nlmixr2/nonmem2rx",
+    "sha": "eb47317430bfaaa54e2fe06a22aabc94b5fdf8ce",
+    "file_url": "https://cdn.jsdelivr.net/gh/nlmixr2/nonmem2rx@eb47317430bfaaa54e2fe06a22aabc94b5fdf8ce/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 15,
+    "size_mb": 162,
+    "created_at": "2023-01-25T19:11:05Z",
+    "last_commit_at": "2026-11-19T00:10:31Z",
+    "releases": 10,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.11",
+      "at": "2026-09-23T02:29:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "eb47317430bfaaa54e2fe06a22aabc94b5fdf8ce",
+    "v": 4
+  },
+  "pinned_at": "2026-11-19T00:10:31Z"
+}

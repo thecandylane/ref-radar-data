@@ -1,0 +1,69 @@
+{
+  "id": "gh:google/opensk",
+  "kind": "repo",
+  "url": "https://github.com/google/OpenSK",
+  "title": "OpenSK",
+  "why": "Rust security key firmware implementing the FIDO2 authenticator, with its own CBOR library, ECDSA and Ed25519 crypto, PIN handling and USB HID transport.",
+  "keys": {
+    "races": [
+      "embedded/firmware",
+      "data/serialization",
+      "hardware/nfc"
+    ],
+    "lanes": [
+      "embedded/firmware",
+      "data/serialization",
+      "hardware/nfc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google/OpenSK",
+    "sha": "7b369f097dfa55b84ff9f37d2b176c6ec13c308d",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/OpenSK@7b369f097dfa55b84ff9f37d2b176c6ec13c308d/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 3493,
+    "size_mb": 8,
+    "created_at": "2019-12-17T18:55:43Z",
+    "last_commit_at": "2026-11-18T15:11:43Z",
+    "releases": 1,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "ctap2.0",
+      "at": "2021-06-23T10:02:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pack": {
+    "sha": "7b369f097dfa55b84ff9f37d2b176c6ec13c308d",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T15:11:43Z"
+}
