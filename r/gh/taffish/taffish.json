@@ -1,0 +1,56 @@
+{
+  "id": "gh:taffish/taffish",
+  "kind": "repo",
+  "url": "https://github.com/taffish/taffish",
+  "title": "taffish",
+  "why": "Installs the taffish toolchain on each platform through a shell script, and release builds ship with sha and asc signing files.",
+  "keys": {
+    "races": [
+      "cyber/supply-chain"
+    ],
+    "lanes": [
+      "cyber/supply-chain"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/taffish/taffish",
+    "sha": "fbdef57a4d23e0c7b832043a34666b351188eb6e",
+    "file_url": "https://cdn.jsdelivr.net/gh/taffish/taffish@fbdef57a4d23e0c7b832043a34666b351188eb6e/{path}"
+  },
+  "facts": {
+    "lang": "Common Lisp",
+    "license": "Apache-2.0",
+    "stars": 0,
+    "size_mb": 221,
+    "created_at": "2026-05-07T16:23:55Z",
+    "last_commit_at": "2026-11-12T09:07:07Z",
+    "releases": 17,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "v0.12.0",
+      "at": "2026-11-12T05:36:50.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

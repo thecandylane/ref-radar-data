@@ -1,0 +1,62 @@
+{
+  "id": "gh:pydicom/pydicom",
+  "kind": "repo",
+  "url": "https://github.com/pydicom/pydicom",
+  "title": "pydicom",
+  "why": "Reads and writes DICOM files from Python, handling encapsulated pixel frames, character set conversion and tag dictionaries.",
+  "keys": {
+    "races": [
+      "medicine/medical-imaging",
+      "data/serialization"
+    ],
+    "lanes": [
+      "medicine/medical-imaging",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pydicom/pydicom",
+    "sha": "6c8881341bee6b438b4cbd0e1a5391774d7919e6",
+    "file_url": "https://cdn.jsdelivr.net/gh/pydicom/pydicom@6c8881341bee6b438b4cbd0e1a5391774d7919e6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 2238,
+    "size_mb": 152,
+    "created_at": "2013-10-31T02:58:52Z",
+    "last_commit_at": "2026-11-20T18:49:24Z",
+    "releases": 33,
+    "tags": 49,
+    "archived": false,
+    "release": {
+      "tag": "v2.4.5",
+      "at": "2026-03-20T14:38:56.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

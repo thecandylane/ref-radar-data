@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:683eb60de35efaec6efc6d222e9254768c5eeabb"
+    "swh": "swh:1:rev:0e9e88fea0fc93f20ee6a65a27a795a666be43e8"
   },
   "id": "gh:adonisjs/core",
   "kind": "repo",
@@ -31,8 +31,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/adonisjs/core",
-    "sha": "683eb60de35efaec6efc6d222e9254768c5eeabb",
-    "file_url": "https://cdn.jsdelivr.net/gh/adonisjs/core@683eb60de35efaec6efc6d222e9254768c5eeabb/{path}"
+    "sha": "0e9e88fea0fc93f20ee6a65a27a795a666be43e8",
+    "file_url": "https://cdn.jsdelivr.net/gh/adonisjs/core@0e9e88fea0fc93f20ee6a65a27a795a666be43e8/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -62,8 +62,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "683eb60de35efaec6efc6d222e9254768c5eeabb",
-    "v": 4
-  }
+  "pins_before": [
+    "683eb60de35efaec6efc6d222e9254768c5eeabb"
+  ],
+  "pinned_at": "2026-11-19T06:48:15Z"
 }

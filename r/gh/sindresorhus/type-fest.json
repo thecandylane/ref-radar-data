@@ -22,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/sindresorhus/type-fest",
-    "sha": "78a1fd9fb9663ddf531d889b77be5e5c8853f3ae",
-    "file_url": "https://cdn.jsdelivr.net/gh/sindresorhus/type-fest@78a1fd9fb9663ddf531d889b77be5e5c8853f3ae/{path}"
+    "sha": "fb6bf5f00ee658e1dacc91cb9cd12d5abbbc499f",
+    "file_url": "https://cdn.jsdelivr.net/gh/sindresorhus/type-fest@fb6bf5f00ee658e1dacc91cb9cd12d5abbbc499f/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -53,8 +53,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "78a1fd9fb9663ddf531d889b77be5e5c8853f3ae",
-    "v": 3
-  }
+  "pins_before": [
+    "78a1fd9fb9663ddf531d889b77be5e5c8853f3ae"
+  ],
+  "pinned_at": "2026-11-19T07:45:10Z"
 }

@@ -1,0 +1,60 @@
+{
+  "id": "gh:ruby/json",
+  "kind": "repo",
+  "url": "https://github.com/ruby/json",
+  "title": "ruby/json",
+  "why": "Parses and generates JSON for Ruby with native C and Java extensions, using SIMD-based string scanning for speed.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ruby/json",
+    "sha": "5a75bc26e8a5af06586708915a5935db2b614852",
+    "file_url": "https://cdn.jsdelivr.net/gh/ruby/json@5a75bc26e8a5af06586708915a5935db2b614852/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "NOASSERTION",
+    "stars": 786,
+    "size_mb": 6,
+    "created_at": "2009-08-24T22:21:39Z",
+    "last_commit_at": "2026-11-17T22:47:55Z",
+    "releases": 120,
+    "tags": 122,
+    "archived": false,
+    "release": {
+      "tag": "v3.1.0",
+      "at": "2026-11-17T18:32:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

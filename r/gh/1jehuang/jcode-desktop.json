@@ -32,8 +32,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/1jehuang/jcode-desktop",
-    "sha": "464e10fba6c9b16896edf4a6d713204bc1e847db",
-    "file_url": "https://cdn.jsdelivr.net/gh/1jehuang/jcode-desktop@464e10fba6c9b16896edf4a6d713204bc1e847db/{path}"
+    "sha": "cd04887ff42e8574a0b08c3a1528dd51c145b2f8",
+    "file_url": "https://cdn.jsdelivr.net/gh/1jehuang/jcode-desktop@cd04887ff42e8574a0b08c3a1528dd51c145b2f8/{path}"
   },
   "facts": {
     "lang": "Rust",
@@ -63,14 +63,11 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "464e10fba6c9b16896edf4a6d713204bc1e847db",
-    "v": 4
-  },
   "pins_before": [
+    "464e10fba6c9b16896edf4a6d713204bc1e847db",
     "ba0d19af62daaff2d1c5daf1b9a51d18c25383d2",
     "783c5c364ef39020601589525c286aa3eb84b1b3",
     "ca6ecdf2e33ca9f10814e64d98a0924d7ff04036"
   ],
-  "pinned_at": "2026-11-17T02:46:46Z"
+  "pinned_at": "2026-11-19T10:42:34Z"
 }

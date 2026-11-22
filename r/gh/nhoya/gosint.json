@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:9c86ed2202516f10fb83eca6cb71a24abe0bca57"
+  },
   "id": "gh:nhoya/gosint",
   "kind": "repo",
   "url": "https://github.com/Nhoya/gOSINT",
@@ -38,7 +41,7 @@
   "facts": {
     "lang": "Go",
     "license": "GPL-3.0",
-    "stars": 680,
+    "stars": 679,
     "size_mb": 4,
     "created_at": "2017-08-16T12:12:09Z",
     "last_commit_at": "2019-06-17T11:34:49Z",
@@ -62,5 +65,6 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pinned_at": "2019-06-17T11:34:49Z"
 }

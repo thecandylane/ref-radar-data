@@ -1,0 +1,53 @@
+{
+  "id": "gh:microbiome/microbiome",
+  "kind": "repo",
+  "url": "https://github.com/microbiome/microbiome",
+  "title": "microbiome",
+  "why": "Analysis package for microbiome data, written in R, with a setup script that installs dependencies from source and GitHub.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microbiome/microbiome",
+    "sha": "c0ff2962723f8135c5aa004c735e200f4b99852a",
+    "file_url": "https://cdn.jsdelivr.net/gh/microbiome/microbiome@c0ff2962723f8135c5aa004c735e200f4b99852a/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 322,
+    "size_mb": 402,
+    "created_at": "2012-08-07T11:38:02Z",
+    "last_commit_at": "2026-10-24T21:42:25Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

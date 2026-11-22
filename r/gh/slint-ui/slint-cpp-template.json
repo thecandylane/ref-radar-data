@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:112572d33c7d676fb7b11d2937a4aaa27400afed"
+    "swh": "swh:1:rev:8641a3ee4b7ccf973f0170466cd4bac31b229a94"
   },
   "id": "gh:slint-ui/slint-cpp-template",
   "kind": "repo",
@@ -33,8 +33,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/slint-ui/slint-cpp-template",
-    "sha": "112572d33c7d676fb7b11d2937a4aaa27400afed",
-    "file_url": "https://cdn.jsdelivr.net/gh/slint-ui/slint-cpp-template@112572d33c7d676fb7b11d2937a4aaa27400afed/{path}"
+    "sha": "8641a3ee4b7ccf973f0170466cd4bac31b229a94",
+    "file_url": "https://cdn.jsdelivr.net/gh/slint-ui/slint-cpp-template@8641a3ee4b7ccf973f0170466cd4bac31b229a94/{path}"
   },
   "facts": {
     "lang": "CMake",
@@ -61,8 +61,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "112572d33c7d676fb7b11d2937a4aaa27400afed",
-    "v": 3
-  }
+  "pins_before": [
+    "112572d33c7d676fb7b11d2937a4aaa27400afed"
+  ],
+  "pinned_at": "2026-11-16T11:47:54Z"
 }

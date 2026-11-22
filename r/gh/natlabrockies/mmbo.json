@@ -1,0 +1,59 @@
+{
+  "id": "gh:natlabrockies/mmbo",
+  "kind": "repo",
+  "url": "https://github.com/NatLabRockies/mmbo",
+  "title": "mmbo",
+  "why": "Fits BNN regressors with SVI guides and estimates entropy and mutual information through a copula KNN density.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "data/statistics",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NatLabRockies/mmbo",
+    "sha": "ce174e1373bd9be02b4e2ad6cb0cf6bd68f65f55",
+    "file_url": "https://cdn.jsdelivr.net/gh/NatLabRockies/mmbo@ce174e1373bd9be02b4e2ad6cb0cf6bd68f65f55/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 0,
+    "size_mb": 33,
+    "created_at": "2026-04-27T13:56:26Z",
+    "last_commit_at": "2026-11-05T00:26:01Z",
+    "releases": 0,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

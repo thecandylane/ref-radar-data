@@ -1,0 +1,60 @@
+{
+  "id": "gh:tzinfo/tzinfo-data",
+  "kind": "repo",
+  "url": "https://github.com/tzinfo/tzinfo-data",
+  "title": "tzinfo-data",
+  "why": "Ruby gem that ships the IANA time zone database as modules, so TZInfo loads zone rules without relying on system zoneinfo files.",
+  "keys": {
+    "races": [
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tzinfo/tzinfo-data",
+    "sha": "27267629cb2235723ced57a1b26b21dc3144428b",
+    "file_url": "https://cdn.jsdelivr.net/gh/tzinfo/tzinfo-data@27267629cb2235723ced57a1b26b21dc3144428b/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "MIT",
+    "stars": 131,
+    "size_mb": 4,
+    "created_at": "2013-08-04T14:26:49Z",
+    "last_commit_at": "2026-10-28T22:44:24Z",
+    "releases": 81,
+    "tags": 81,
+    "archived": false,
+    "release": {
+      "tag": "v1.2026.6",
+      "at": "2026-10-28T22:57:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

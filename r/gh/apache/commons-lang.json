@@ -1,0 +1,53 @@
+{
+  "id": "gh:apache/commons-lang",
+  "kind": "repo",
+  "url": "https://github.com/apache/commons-lang",
+  "title": "commons-lang",
+  "why": "Java helpers for arrays, enums, ranges and booleans, plus Failable functional interfaces for lambdas that may fail.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/commons-lang",
+    "sha": "06e9c27a900dc086eecccfd4a9d978e1c14c06c5",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/commons-lang@06e9c27a900dc086eecccfd4a9d978e1c14c06c5/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 3019,
+    "size_mb": 32,
+    "created_at": "2009-05-21T01:24:46Z",
+    "last_commit_at": "2026-11-19T11:41:25Z",
+    "releases": 0,
+    "tags": 118,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "gh:madderscientist/jpfun",
+  "kind": "repo",
+  "url": "https://github.com/madderscientist/jpFun",
+  "title": "jpFun",
+  "why": "Compiles a score language into pages and MIDI playback, importing MusicXML and MIDI files into editable source.",
+  "keys": {
+    "races": [
+      "media/music-notation",
+      "media/audio-production",
+      "dev-tools/editors"
+    ],
+    "lanes": [
+      "media/music-notation",
+      "media/audio-production",
+      "dev-tools/editors"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/madderscientist/jpFun",
+    "sha": "34487d4b396994e0d5f2b29e6d23f14b893d003c",
+    "file_url": "https://cdn.jsdelivr.net/gh/madderscientist/jpFun@34487d4b396994e0d5f2b29e6d23f14b893d003c/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 38,
+    "size_mb": 9,
+    "created_at": "2026-03-10T12:06:43Z",
+    "last_commit_at": "2026-11-20T17:18:21Z",
+    "releases": 0,
+    "tags": 11,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

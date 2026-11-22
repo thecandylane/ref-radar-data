@@ -1,0 +1,59 @@
+{
+  "id": "gh:miroslavpejic85/call-me",
+  "kind": "repo",
+  "url": "https://github.com/miroslavpejic85/call-me",
+  "title": "call-me",
+  "why": "Runs video calls on your own server using socket.io for connections, web push for alerts and an ngrok tunnel option.",
+  "keys": {
+    "races": [
+      "media/video",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "media/video",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/miroslavpejic85/call-me",
+    "sha": "5856b13a3e9659dc575e7929efa2f62d59237668",
+    "file_url": "https://cdn.jsdelivr.net/gh/miroslavpejic85/call-me@5856b13a3e9659dc575e7929efa2f62d59237668/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "AGPL-3.0",
+    "stars": 769,
+    "size_mb": 7,
+    "created_at": "2024-09-12T18:03:13Z",
+    "last_commit_at": "2026-11-19T11:58:52Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

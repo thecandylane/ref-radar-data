@@ -1,0 +1,53 @@
+{
+  "id": "gh:c3bi-pasteur-fr/cyfj11",
+  "kind": "repo",
+  "url": "https://github.com/C3BI-pasteur-fr/CyFj11",
+  "title": "CyFj11",
+  "why": "Reads FlowJo v11 workspace files and turns the gating tree into GatingSet objects, with export back to v10 XML.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/C3BI-pasteur-fr/CyFj11",
+    "sha": "813b63419eddaa50e8fb18cf6e7a22289c06ab8a",
+    "file_url": "https://cdn.jsdelivr.net/gh/C3BI-pasteur-fr/CyFj11@813b63419eddaa50e8fb18cf6e7a22289c06ab8a/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "size_mb": 12,
+    "created_at": "2026-04-13T12:17:32Z",
+    "last_commit_at": "2026-11-19T13:59:48Z",
+    "releases": 1,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

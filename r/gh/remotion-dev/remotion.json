@@ -30,13 +30,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/remotion-dev/remotion",
-    "sha": "5e61f9ac09f46f140b65622f6b5c21c37b9533e0",
-    "file_url": "https://raw.githubusercontent.com/remotion-dev/remotion/5e61f9ac09f46f140b65622f6b5c21c37b9533e0/{path}"
+    "sha": "970849fc1921ed7e0c3175132fe9580e8875ab2f",
+    "file_url": "https://raw.githubusercontent.com/remotion-dev/remotion/970849fc1921ed7e0c3175132fe9580e8875ab2f/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 74648,
+    "stars": 74843,
     "size_mb": 4372,
     "created_at": "2020-06-23T19:49:10Z",
     "last_commit_at": "2026-11-20T21:05:54Z",
@@ -61,8 +61,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "5e61f9ac09f46f140b65622f6b5c21c37b9533e0",
-    "v": 4
-  }
+  "pins_before": [
+    "5e61f9ac09f46f140b65622f6b5c21c37b9533e0"
+  ],
+  "pinned_at": "2026-11-20T21:05:54Z"
 }

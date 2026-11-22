@@ -1,0 +1,55 @@
+{
+  "id": "gh:dusadrian/qca",
+  "kind": "repo",
+  "url": "https://github.com/dusadrian/QCA",
+  "title": "QCA",
+  "why": "Builds truth tables from membership data and reduces them to prime implicants, using Gurobi or lpsolve for the covering step.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "data/statistics",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dusadrian/QCA",
+    "sha": "225ecf9d26c6c61e5aed582b7f45c566e99a14ec",
+    "file_url": "https://cdn.jsdelivr.net/gh/dusadrian/QCA@225ecf9d26c6c61e5aed582b7f45c566e99a14ec/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 7,
+    "size_mb": 2,
+    "created_at": "2024-03-18T10:32:07Z",
+    "last_commit_at": "2026-11-21T03:25:46Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

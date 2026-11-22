@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ebc05b0a7d5fde6042048d70dc4bb96f5e0948da"
-  },
   "id": "gh:serenityos/serenity",
   "kind": "repo",
   "url": "https://github.com/SerenityOS/serenity",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/SerenityOS/serenity",
-    "sha": "ebc05b0a7d5fde6042048d70dc4bb96f5e0948da",
-    "file_url": "https://cdn.jsdelivr.net/gh/SerenityOS/serenity@ebc05b0a7d5fde6042048d70dc4bb96f5e0948da/{path}"
+    "sha": "fe81230488fea19eb2e06c30d9851555e04bc2a9",
+    "file_url": "https://cdn.jsdelivr.net/gh/SerenityOS/serenity@fe81230488fea19eb2e06c30d9851555e04bc2a9/{path}"
   },
   "facts": {
     "lang": "C++",
@@ -48,13 +45,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 16,
+    "star_delta_7d": 17,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "ebc05b0a7d5fde6042048d70dc4bb96f5e0948da",
-    "v": 3
-  }
+  "pins_before": [
+    "ebc05b0a7d5fde6042048d70dc4bb96f5e0948da"
+  ],
+  "pinned_at": "2026-11-20T21:06:50Z"
 }

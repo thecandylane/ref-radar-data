@@ -1,0 +1,60 @@
+{
+  "id": "gh:wireghoul/htshells",
+  "kind": "repo",
+  "url": "https://github.com/wireghoul/htshells",
+  "title": "htshells",
+  "why": "Pick a single .htaccess file to get an Apache web shell, an info disclosure or a traversal attack, with prepare.sh to build it.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wireghoul/htshells",
+    "sha": "32165235ff97dfe2c2ceeec2704ed7edddad7de7",
+    "file_url": "https://cdn.jsdelivr.net/gh/wireghoul/htshells@32165235ff97dfe2c2ceeec2704ed7edddad7de7/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "GPL-3.0",
+    "stars": 1074,
+    "size_mb": 0,
+    "created_at": "2011-05-16T02:21:59Z",
+    "last_commit_at": "2022-02-17T00:26:17Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "a YARA rule for offensive tools matched"
+    ],
+    "scanned_at": "2026-11-21T14:47:20.059Z"
+  }
+}

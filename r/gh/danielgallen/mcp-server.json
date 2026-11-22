@@ -1,0 +1,64 @@
+{
+  "id": "gh:danielgallen/mcp-server",
+  "kind": "repo",
+  "url": "https://github.com/danielgallen/mcp-server",
+  "title": "danielgallen/mcp-server",
+  "why": "Gives an agent Burp proxy history and request sending through a local server, asking approval before it reads data.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "agents/tools"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/danielgallen/mcp-server",
+    "sha": "ecc0481f8f4d7103267415736a35c4bb898beaf6",
+    "file_url": "https://cdn.jsdelivr.net/gh/danielgallen/mcp-server@ecc0481f8f4d7103267415736a35c4bb898beaf6/{path}"
+  },
+  "facts": {
+    "lang": "Kotlin",
+    "license": "GPL-3.0",
+    "stars": 1274,
+    "size_mb": 50,
+    "created_at": "2025-04-02T12:25:28Z",
+    "last_commit_at": "2026-11-05T09:04:32Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.0",
+      "at": "2026-05-26T17:56:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

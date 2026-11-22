@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:697745c6236d7f3b71ca89995d73b20e2ae35401"
+    "swh": "swh:1:rev:f5887b46307bdacb451ee6fd79349bbb8a79eaeb"
   },
   "id": "gh:sfml/sfml",
   "kind": "repo",
@@ -31,8 +31,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/SFML/SFML",
-    "sha": "697745c6236d7f3b71ca89995d73b20e2ae35401",
-    "file_url": "https://cdn.jsdelivr.net/gh/SFML/SFML@697745c6236d7f3b71ca89995d73b20e2ae35401/{path}"
+    "sha": "f5887b46307bdacb451ee6fd79349bbb8a79eaeb",
+    "file_url": "https://cdn.jsdelivr.net/gh/SFML/SFML@f5887b46307bdacb451ee6fd79349bbb8a79eaeb/{path}"
   },
   "facts": {
     "lang": "C++",
@@ -62,8 +62,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "697745c6236d7f3b71ca89995d73b20e2ae35401",
-    "v": 3
-  }
+  "pins_before": [
+    "697745c6236d7f3b71ca89995d73b20e2ae35401"
+  ],
+  "pinned_at": "2026-11-13T14:54:38Z"
 }

@@ -1,0 +1,58 @@
+{
+  "id": "gh:agricidaniel/claude-ads",
+  "kind": "repo",
+  "url": "https://github.com/AgriciDaniel/claude-ads",
+  "title": "claude-ads",
+  "why": "Scores ad accounts against a control registry and renders each audit as Markdown, HTML or PDF reports with redacted paths.",
+  "keys": {
+    "races": [
+      "marketing/ad-tech",
+      "agents/skills"
+    ],
+    "lanes": [
+      "marketing/ad-tech",
+      "agents/skills"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AgriciDaniel/claude-ads",
+    "sha": "fc3908e786c318776df89a3a098333da377364be",
+    "file_url": "https://cdn.jsdelivr.net/gh/AgriciDaniel/claude-ads@fc3908e786c318776df89a3a098333da377364be/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 11202,
+    "size_mb": 6,
+    "created_at": "2026-02-11T13:01:49Z",
+    "last_commit_at": "2026-10-17T01:33:38Z",
+    "releases": 18,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "v2.1.0",
+      "at": "2026-10-16T22:53:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

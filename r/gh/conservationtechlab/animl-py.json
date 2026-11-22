@@ -1,0 +1,60 @@
+{
+  "id": "gh:conservationtechlab/animl-py",
+  "kind": "repo",
+  "url": "https://github.com/conservationtechlab/animl-py",
+  "title": "animl-py",
+  "why": "Detects and classifies animals in camera trap images, then exports the labels to COCO, YOLO and camtrapR layouts.",
+  "keys": {
+    "races": [
+      "ml/vision"
+    ],
+    "lanes": [
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/conservationtechlab/animl-py",
+    "sha": "e87f65984481633fa25f91d27a3329e11f0554d8",
+    "file_url": "https://raw.githubusercontent.com/conservationtechlab/animl-py/e87f65984481633fa25f91d27a3329e11f0554d8/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 14,
+    "size_mb": 471,
+    "created_at": "2023-03-07T19:31:04Z",
+    "last_commit_at": "2026-09-21T22:25:03Z",
+    "releases": 12,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v3.3.1rc1",
+      "at": "2026-09-21T22:24:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

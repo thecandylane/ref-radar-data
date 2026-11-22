@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:87ab38c362b61b87d719924dce4956bdb916afcb"
+    "swh": "swh:1:rev:9a05ae4cfcca50ffb24d084e554743288ce3d41d"
   },
   "id": "gh:s3fs-fuse/s3fs-fuse",
   "kind": "repo",
@@ -31,8 +31,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/s3fs-fuse/s3fs-fuse",
-    "sha": "87ab38c362b61b87d719924dce4956bdb916afcb",
-    "file_url": "https://cdn.jsdelivr.net/gh/s3fs-fuse/s3fs-fuse@87ab38c362b61b87d719924dce4956bdb916afcb/{path}"
+    "sha": "9a05ae4cfcca50ffb24d084e554743288ce3d41d",
+    "file_url": "https://cdn.jsdelivr.net/gh/s3fs-fuse/s3fs-fuse@9a05ae4cfcca50ffb24d084e554743288ce3d41d/{path}"
   },
   "facts": {
     "lang": "C++",
@@ -57,13 +57,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 3,
+    "star_delta_7d": 2,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "87ab38c362b61b87d719924dce4956bdb916afcb",
-    "v": 3
-  }
+  "pins_before": [
+    "87ab38c362b61b87d719924dce4956bdb916afcb"
+  ],
+  "pinned_at": "2026-11-18T18:24:25Z"
 }

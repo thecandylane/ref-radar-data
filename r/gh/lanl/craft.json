@@ -1,0 +1,58 @@
+{
+  "id": "gh:lanl/craft",
+  "kind": "repo",
+  "url": "https://github.com/lanl/CRAFT",
+  "title": "CRAFT",
+  "why": "Fits a neural network emulator to model outputs, then runs DREAM MCMC over Bayes posteriors with a batched sampler for speed.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "data/statistics",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lanl/CRAFT",
+    "sha": "a78289191310be26b6f2320df22edfadd4285475",
+    "file_url": "https://cdn.jsdelivr.net/gh/lanl/CRAFT@a78289191310be26b6f2320df22edfadd4285475/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 4,
+    "size_mb": 16,
+    "created_at": "2025-06-24T21:55:16Z",
+    "last_commit_at": "2026-08-27T20:29:53Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-06-01T19:56:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9a22293d8ce0ca33e40146e9878b64f7a67c44bc"
-  },
   "id": "gh:agronholm/anyio",
   "kind": "repo",
   "url": "https://github.com/agronholm/anyio",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/agronholm/anyio",
-    "sha": "9a22293d8ce0ca33e40146e9878b64f7a67c44bc",
-    "file_url": "https://cdn.jsdelivr.net/gh/agronholm/anyio@9a22293d8ce0ca33e40146e9878b64f7a67c44bc/{path}"
+    "sha": "37ba52b9137d72764d3bcbd31842b58a1e1ea992",
+    "file_url": "https://cdn.jsdelivr.net/gh/agronholm/anyio@37ba52b9137d72764d3bcbd31842b58a1e1ea992/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -57,19 +54,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 4,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "9a22293d8ce0ca33e40146e9878b64f7a67c44bc",
-    "v": 4
-  },
   "pins_before": [
+    "9a22293d8ce0ca33e40146e9878b64f7a67c44bc",
     "9df02f0b8362e9f4a1fc3a4404052d0d7016e4f0",
     "4d53ea15daec445b2bf368285f6ef60297b8f4ab",
     "63cb00c67a9418b62bbd139f9e088159e1454971"
   ],
-  "pinned_at": "2026-11-17T00:12:49Z"
+  "pinned_at": "2026-11-20T00:26:38Z"
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c282080cefce4c25467f213dbc523c96919829c9"
+  },
   "id": "gh:a5chin/python-uv",
   "kind": "repo",
   "url": "https://github.com/a5chin/python-uv",
@@ -26,8 +29,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/a5chin/python-uv",
-    "sha": "fe18178f7dd9f149ff48ba3b8f09b0e9d94b84eb",
-    "file_url": "https://cdn.jsdelivr.net/gh/a5chin/python-uv@fe18178f7dd9f149ff48ba3b8f09b0e9d94b84eb/{path}"
+    "sha": "c282080cefce4c25467f213dbc523c96919829c9",
+    "file_url": "https://cdn.jsdelivr.net/gh/a5chin/python-uv@c282080cefce4c25467f213dbc523c96919829c9/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -57,13 +60,10 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "fe18178f7dd9f149ff48ba3b8f09b0e9d94b84eb",
-    "v": 4
-  },
   "pins_before": [
+    "fe18178f7dd9f149ff48ba3b8f09b0e9d94b84eb",
     "18ae9b82222d04213094b7172bda1f643c858136",
     "16f9507435c41b7cb94265498cb8f660f4d387cc"
   ],
-  "pinned_at": "2026-11-16T06:58:31Z"
+  "pinned_at": "2026-11-20T14:34:30Z"
 }

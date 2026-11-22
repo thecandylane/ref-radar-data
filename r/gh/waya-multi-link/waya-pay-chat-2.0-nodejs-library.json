@@ -1,0 +1,57 @@
+{
+  "id": "gh:waya-multi-link/waya-pay-chat-2.0-nodejs-library",
+  "kind": "repo",
+  "url": "https://github.com/WAYA-MULTI-LINK/WAYA-PAY-CHAT-2.0-NODEJS-LIBRARY",
+  "title": "WAYA-PAY-CHAT-2.0-NODEJS-LIBRARY",
+  "why": "TypeScript client for WAYA Pay collections and payouts, checking webhook signatures and mapping status results to outcomes.",
+  "keys": {
+    "races": [
+      "finance/payments"
+    ],
+    "lanes": [
+      "finance/payments"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/WAYA-MULTI-LINK/WAYA-PAY-CHAT-2.0-NODEJS-LIBRARY",
+    "sha": "84423362e68a28fb88befe30d99cf4bdf5b4c05b",
+    "file_url": "https://cdn.jsdelivr.net/gh/WAYA-MULTI-LINK/WAYA-PAY-CHAT-2.0-NODEJS-LIBRARY@84423362e68a28fb88befe30d99cf4bdf5b4c05b/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 2,
+    "size_mb": 0,
+    "created_at": "2022-03-15T11:06:59Z",
+    "last_commit_at": "2026-11-03T17:13:23Z",
+    "releases": 0,
+    "tags": 3,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

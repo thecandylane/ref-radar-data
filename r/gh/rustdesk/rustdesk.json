@@ -30,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/rustdesk/rustdesk",
-    "sha": "c50ae975128e3061ee5c209f4eb8fb4a2605380f",
-    "file_url": "https://cdn.jsdelivr.net/gh/rustdesk/rustdesk@c50ae975128e3061ee5c209f4eb8fb4a2605380f/{path}"
+    "sha": "be181a9d182491a5859fc1bf3ced99bc5aa86a8c",
+    "file_url": "https://cdn.jsdelivr.net/gh/rustdesk/rustdesk@be181a9d182491a5859fc1bf3ced99bc5aa86a8c/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "AGPL-3.0",
-    "stars": 130564,
+    "stars": 130703,
     "size_mb": 88,
     "created_at": "2020-09-28T15:36:08Z",
-    "last_commit_at": "2026-11-21T05:02:01Z",
+    "last_commit_at": "2026-11-22T09:14:24Z",
     "releases": 42,
     "tags": 42,
     "archived": false,
@@ -61,8 +61,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "c50ae975128e3061ee5c209f4eb8fb4a2605380f",
-    "v": 4
-  }
+  "pins_before": [
+    "c50ae975128e3061ee5c209f4eb8fb4a2605380f"
+  ],
+  "pinned_at": "2026-11-22T09:14:24Z"
 }

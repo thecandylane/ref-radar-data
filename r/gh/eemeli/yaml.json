@@ -1,0 +1,60 @@
+{
+  "id": "gh:eemeli/yaml",
+  "kind": "repo",
+  "url": "https://github.com/eemeli/yaml",
+  "title": "eemeli/yaml",
+  "why": "Parses and stringifies YAML in TypeScript, with a Document type that keeps comments and anchors while you edit them.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/eemeli/yaml",
+    "sha": "528ef30d6ded4bd9f2c3521b670eb2b29d503c5c",
+    "file_url": "https://cdn.jsdelivr.net/gh/eemeli/yaml@528ef30d6ded4bd9f2c3521b670eb2b29d503c5c/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "ISC",
+    "stars": 1705,
+    "size_mb": 9,
+    "created_at": "2018-01-29T20:45:06Z",
+    "last_commit_at": "2026-09-23T00:29:02Z",
+    "releases": 91,
+    "tags": 96,
+    "archived": false,
+    "release": {
+      "tag": "v2.9.1",
+      "at": "2026-09-11T20:29:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

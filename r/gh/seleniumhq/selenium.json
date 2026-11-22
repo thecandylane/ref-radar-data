@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5d83fe9448e750e9dc17016c8a256cb94396e77e"
-  },
   "id": "gh:seleniumhq/selenium",
   "kind": "repo",
   "url": "https://github.com/SeleniumHQ/selenium",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/SeleniumHQ/selenium",
-    "sha": "5d83fe9448e750e9dc17016c8a256cb94396e77e",
-    "file_url": "https://cdn.jsdelivr.net/gh/SeleniumHQ/selenium@5d83fe9448e750e9dc17016c8a256cb94396e77e/{path}"
+    "sha": "a056c9f13142d9f7ed35f45b2a79291fa9652130",
+    "file_url": "https://cdn.jsdelivr.net/gh/SeleniumHQ/selenium@a056c9f13142d9f7ed35f45b2a79291fa9652130/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 34602,
+    "stars": 34604,
     "size_mb": 2361,
     "created_at": "2013-01-14T21:40:56Z",
-    "last_commit_at": "2026-11-20T20:54:15Z",
+    "last_commit_at": "2026-11-21T21:42:40Z",
     "releases": 126,
     "tags": 268,
     "archived": false,
@@ -58,8 +55,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "5d83fe9448e750e9dc17016c8a256cb94396e77e",
-    "v": 3
-  }
+  "pins_before": [
+    "5d83fe9448e750e9dc17016c8a256cb94396e77e"
+  ],
+  "pinned_at": "2026-11-21T21:42:40Z"
 }

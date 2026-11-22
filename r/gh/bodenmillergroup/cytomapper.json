@@ -1,0 +1,56 @@
+{
+  "id": "gh:bodenmillergroup/cytomapper",
+  "kind": "repo",
+  "url": "https://github.com/BodenmillerGroup/cytomapper",
+  "title": "cytomapper",
+  "why": "Plots pixel-level channels and cell-level metadata over segmentation masks, and includes a Shiny app for gating cells.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/BodenmillerGroup/cytomapper",
+    "sha": "2efbbe1b58492660783b898a3c1cbf87676ecb22",
+    "file_url": "https://cdn.jsdelivr.net/gh/BodenmillerGroup/cytomapper@2efbbe1b58492660783b898a3c1cbf87676ecb22/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 37,
+    "size_mb": 240,
+    "created_at": "2020-01-17T10:23:22Z",
+    "last_commit_at": "2026-08-25T10:29:00Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.0",
+      "at": "2020-11-19T13:09:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

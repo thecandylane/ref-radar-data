@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:dd41d19e2f80ff6891951f7ced74c2c9a650b065"
-  },
   "id": "gh:shadcn-ui/ui",
   "kind": "repo",
   "url": "https://github.com/shadcn-ui/ui",
@@ -37,16 +34,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/shadcn-ui/ui",
-    "sha": "dd41d19e2f80ff6891951f7ced74c2c9a650b065",
-    "file_url": "https://cdn.jsdelivr.net/gh/shadcn-ui/ui@dd41d19e2f80ff6891951f7ced74c2c9a650b065/{path}"
+    "sha": "bfa64ff4d1cb7317d2403ecb176df6826d4caffc",
+    "file_url": "https://cdn.jsdelivr.net/gh/shadcn-ui/ui@bfa64ff4d1cb7317d2403ecb176df6826d4caffc/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 128667,
+    "stars": 128719,
     "size_mb": 73,
     "created_at": "2023-01-04T12:43:27Z",
-    "last_commit_at": "2026-11-20T14:43:53Z",
+    "last_commit_at": "2026-11-21T13:43:03Z",
     "releases": 140,
     "tags": 141,
     "archived": false,
@@ -63,14 +60,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 511,
+    "star_delta_7d": 507,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "dd41d19e2f80ff6891951f7ced74c2c9a650b065",
-    "v": 3
-  },
+  "pins_before": [
+    "dd41d19e2f80ff6891951f7ced74c2c9a650b065"
+  ],
+  "pinned_at": "2026-11-21T13:43:03Z",
   "hot": true
 }

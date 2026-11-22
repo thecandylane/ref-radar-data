@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:9c1758483047c7aa426286ad764ade2f2bfcdeb1"
+  },
   "id": "gh:aarkue/rust4pm",
   "kind": "repo",
   "url": "https://github.com/aarkue/rust4pm",
@@ -22,8 +25,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/aarkue/rust4pm",
-    "sha": "dc25aaf86d8ce13edaec3f37ba90fa8041b82b90",
-    "file_url": "https://cdn.jsdelivr.net/gh/aarkue/rust4pm@dc25aaf86d8ce13edaec3f37ba90fa8041b82b90/{path}"
+    "sha": "9c1758483047c7aa426286ad764ade2f2bfcdeb1",
+    "file_url": "https://cdn.jsdelivr.net/gh/aarkue/rust4pm@9c1758483047c7aa426286ad764ade2f2bfcdeb1/{path}"
   },
   "facts": {
     "lang": "Rust",
@@ -53,8 +56,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "dc25aaf86d8ce13edaec3f37ba90fa8041b82b90",
-    "v": 4
-  }
+  "pins_before": [
+    "dc25aaf86d8ce13edaec3f37ba90fa8041b82b90"
+  ],
+  "pinned_at": "2026-11-20T19:31:55Z"
 }

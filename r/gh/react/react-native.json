@@ -30,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/react/react-native",
-    "sha": "897cca8273c689dfa99568e33aea7bc4baf0e8aa",
-    "file_url": "https://cdn.jsdelivr.net/gh/react/react-native@897cca8273c689dfa99568e33aea7bc4baf0e8aa/{path}"
+    "sha": "d6ea9fc1eed3da1bbb74d8a8ad77d539c430a7cf",
+    "file_url": "https://cdn.jsdelivr.net/gh/react/react-native@d6ea9fc1eed3da1bbb74d8a8ad77d539c430a7cf/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 126984,
+    "stars": 126994,
     "size_mb": 981,
     "created_at": "2015-01-09T18:10:16Z",
-    "last_commit_at": "2026-11-21T00:16:19Z",
+    "last_commit_at": "2026-11-22T00:35:34Z",
     "releases": 485,
     "tags": 701,
     "archived": false,
@@ -61,8 +61,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "897cca8273c689dfa99568e33aea7bc4baf0e8aa",
-    "v": 3
-  }
+  "pins_before": [
+    "897cca8273c689dfa99568e33aea7bc4baf0e8aa"
+  ],
+  "pinned_at": "2026-11-22T00:35:34Z"
 }

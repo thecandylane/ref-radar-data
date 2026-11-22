@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:6d0e5419ff7f6ee2d4c2eab35cd6366b996c1ac0"
-  },
   "id": "gh:rust-windowing/winit",
   "kind": "repo",
   "url": "https://github.com/rust-windowing/winit",
@@ -27,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/rust-windowing/winit",
-    "sha": "6d0e5419ff7f6ee2d4c2eab35cd6366b996c1ac0",
-    "file_url": "https://cdn.jsdelivr.net/gh/rust-windowing/winit@6d0e5419ff7f6ee2d4c2eab35cd6366b996c1ac0/{path}"
+    "sha": "321e9035c0a67cfb09731bb7d75ec4a282160282",
+    "file_url": "https://cdn.jsdelivr.net/gh/rust-windowing/winit@321e9035c0a67cfb09731bb7d75ec4a282160282/{path}"
   },
   "facts": {
     "lang": "Rust",
@@ -36,7 +33,7 @@
     "stars": 6291,
     "size_mb": 14,
     "created_at": "2016-02-23T11:17:06Z",
-    "last_commit_at": "2026-11-21T02:52:40Z",
+    "last_commit_at": "2026-11-22T08:36:50Z",
     "releases": 76,
     "tags": 86,
     "archived": false,
@@ -53,13 +50,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 21,
+    "star_delta_7d": 19,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "6d0e5419ff7f6ee2d4c2eab35cd6366b996c1ac0",
-    "v": 3
-  }
+  "pins_before": [
+    "6d0e5419ff7f6ee2d4c2eab35cd6366b996c1ac0"
+  ],
+  "pinned_at": "2026-11-22T08:36:50Z"
 }

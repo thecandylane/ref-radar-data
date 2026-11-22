@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:556ee49cf02708a68dcbaabe41fec2d783d20b74"
-  },
   "id": "gh:ruby/ruby",
   "kind": "repo",
   "url": "https://github.com/ruby/ruby",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ruby/ruby",
-    "sha": "556ee49cf02708a68dcbaabe41fec2d783d20b74",
-    "file_url": "https://cdn.jsdelivr.net/gh/ruby/ruby@556ee49cf02708a68dcbaabe41fec2d783d20b74/{path}"
+    "sha": "11f224ae615f4e9bc84a73c959891be4ef208cd0",
+    "file_url": "https://cdn.jsdelivr.net/gh/ruby/ruby@11f224ae615f4e9bc84a73c959891be4ef208cd0/{path}"
   },
   "facts": {
     "lang": "Ruby",
     "license": "NOASSERTION",
-    "stars": 23856,
+    "stars": 23857,
     "size_mb": 411,
     "created_at": "2010-02-27T15:55:23Z",
-    "last_commit_at": "2026-11-21T06:46:31Z",
+    "last_commit_at": "2026-11-22T09:30:45Z",
     "releases": 90,
     "tags": 1203,
     "archived": false,
@@ -66,9 +63,9 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "556ee49cf02708a68dcbaabe41fec2d783d20b74",
-    "v": 3
-  },
+  "pins_before": [
+    "556ee49cf02708a68dcbaabe41fec2d783d20b74"
+  ],
+  "pinned_at": "2026-11-22T09:30:45Z",
   "hot": true
 }

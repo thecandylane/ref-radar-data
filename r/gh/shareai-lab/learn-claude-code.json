@@ -31,13 +31,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/shareAI-lab/learn-claude-code",
-    "sha": "33a5d856be91de4b5ce043c950e57a2d7de85ddb",
-    "file_url": "https://cdn.jsdelivr.net/gh/shareAI-lab/learn-claude-code@33a5d856be91de4b5ce043c950e57a2d7de85ddb/{path}"
+    "sha": "448c75bb596917ad196cc1fb7558f459c5c50fdd",
+    "file_url": "https://cdn.jsdelivr.net/gh/shareAI-lab/learn-claude-code@448c75bb596917ad196cc1fb7558f459c5c50fdd/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 80690,
+    "stars": 80717,
     "size_mb": 7,
     "created_at": "2025-06-29T15:34:15Z",
     "last_commit_at": "2026-11-15T13:41:46Z",
@@ -59,8 +59,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "33a5d856be91de4b5ce043c950e57a2d7de85ddb",
-    "v": 3
-  }
+  "pins_before": [
+    "33a5d856be91de4b5ce043c950e57a2d7de85ddb"
+  ],
+  "pinned_at": "2026-11-15T13:41:46Z"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a8f22ed8bae48af0bce99a218c902261ea472d45"
-  },
   "id": "gh:runtipi/runtipi",
   "kind": "repo",
   "url": "https://github.com/runtipi/runtipi",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/runtipi/runtipi",
-    "sha": "a8f22ed8bae48af0bce99a218c902261ea472d45",
-    "file_url": "https://cdn.jsdelivr.net/gh/runtipi/runtipi@a8f22ed8bae48af0bce99a218c902261ea472d45/{path}"
+    "sha": "881559aebc745eb61cb2e35e7b351ddac25caa7e",
+    "file_url": "https://cdn.jsdelivr.net/gh/runtipi/runtipi@881559aebc745eb61cb2e35e7b351ddac25caa7e/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -57,13 +54,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "a8f22ed8bae48af0bce99a218c902261ea472d45",
-    "v": 3
-  }
+  "pins_before": [
+    "a8f22ed8bae48af0bce99a218c902261ea472d45"
+  ],
+  "pinned_at": "2026-11-15T18:00:01Z"
 }

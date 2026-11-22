@@ -1,0 +1,61 @@
+{
+  "id": "gh:ayghri/i-have-adhd",
+  "kind": "repo",
+  "url": "https://github.com/ayghri/i-have-adhd",
+  "title": "i-have-adhd",
+  "why": "Injects an ADHD mode and its rules into agent sessions, and ships judge and eval scripts to check how those rules change answers.",
+  "keys": {
+    "races": [
+      "agents/skills",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "agents/skills",
+      "llm-infra/evals"
+    ],
+    "capabilities": [
+      "agents/skills/agent-configs",
+      "agents/skills/plugin-specs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ayghri/i-have-adhd",
+    "sha": "1ecea1993b7fce257ffbd686c070948b5e07eda6",
+    "file_url": "https://cdn.jsdelivr.net/gh/ayghri/i-have-adhd@1ecea1993b7fce257ffbd686c070948b5e07eda6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 61851,
+    "size_mb": 0,
+    "created_at": "2026-05-13T20:42:06Z",
+    "last_commit_at": "2026-10-11T16:03:54Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.1",
+      "at": "2026-10-19T19:46:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

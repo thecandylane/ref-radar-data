@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1c0ff6d3123840c7fff198864b99a9421ab5a897"
-  },
   "id": "gh:saeyslab/peacoqc",
   "kind": "repo",
   "url": "https://github.com/saeyslab/PeacoQC",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/saeyslab/PeacoQC",
-    "sha": "1c0ff6d3123840c7fff198864b99a9421ab5a897",
-    "file_url": "https://cdn.jsdelivr.net/gh/saeyslab/PeacoQC@1c0ff6d3123840c7fff198864b99a9421ab5a897/{path}"
+    "sha": "60fc3852882257b69b65c628515131455bb598df",
+    "file_url": "https://cdn.jsdelivr.net/gh/saeyslab/PeacoQC@60fc3852882257b69b65c628515131455bb598df/{path}"
   },
   "facts": {
     "lang": "R",
@@ -53,8 +50,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "1c0ff6d3123840c7fff198864b99a9421ab5a897",
-    "v": 4
-  }
+  "pins_before": [
+    "1c0ff6d3123840c7fff198864b99a9421ab5a897"
+  ],
+  "pinned_at": "2026-11-17T14:07:22Z"
 }

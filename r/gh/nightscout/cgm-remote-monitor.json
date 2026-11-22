@@ -1,0 +1,62 @@
+{
+  "id": "gh:nightscout/cgm-remote-monitor",
+  "kind": "repo",
+  "url": "https://github.com/nightscout/cgm-remote-monitor",
+  "title": "cgm-remote-monitor",
+  "why": "Runs a self-hosted dashboard for treatment records and alarms, with plugins that send alerts to Pushover, Alexa or webhooks.",
+  "keys": {
+    "races": [
+      "medicine/diabetes-tech",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "medicine/diabetes-tech",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nightscout/cgm-remote-monitor",
+    "sha": "c6a0d8ed65637bc90d3090e6e7a0f752041c57fd",
+    "file_url": "https://cdn.jsdelivr.net/gh/nightscout/cgm-remote-monitor@c6a0d8ed65637bc90d3090e6e7a0f752041c57fd/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "AGPL-3.0",
+    "stars": 2863,
+    "size_mb": 56,
+    "created_at": "2014-05-22T00:32:28Z",
+    "last_commit_at": "2026-10-21T20:09:51Z",
+    "releases": 67,
+    "tags": 76,
+    "archived": false,
+    "release": {
+      "tag": "v15.0.9",
+      "at": "2026-10-21T20:21:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

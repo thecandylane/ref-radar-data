@@ -1,0 +1,58 @@
+{
+  "id": "gh:tiledesk/tiledesk",
+  "kind": "repo",
+  "url": "https://github.com/Tiledesk/tiledesk",
+  "title": "tiledesk",
+  "why": "Deploys a live chat and chatbot server with Helm charts or Docker Compose, bundling its own MongoDB container for trials.",
+  "keys": {
+    "races": [
+      "support/helpdesk",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "support/helpdesk",
+      "infra/kubernetes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Tiledesk/tiledesk",
+    "sha": "cbdca12c4ef1a61c21b99214bff595f48bd23d68",
+    "file_url": "https://cdn.jsdelivr.net/gh/Tiledesk/tiledesk@cbdca12c4ef1a61c21b99214bff595f48bd23d68/{path}"
+  },
+  "facts": {
+    "lang": "Mustache",
+    "license": "MIT",
+    "stars": 331,
+    "size_mb": 44,
+    "created_at": "2020-07-10T10:20:23Z",
+    "last_commit_at": "2026-11-04T13:50:35Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "1.2.1",
+      "at": "2026-10-06T13:23:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:3205f0bf0211f9346dad8583944f007bd0ef73c2"
-  },
   "id": "gh:agentclientprotocol/claude-agent-acp",
   "kind": "repo",
   "url": "https://github.com/agentclientprotocol/claude-agent-acp",
@@ -31,22 +28,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/agentclientprotocol/claude-agent-acp",
-    "sha": "3205f0bf0211f9346dad8583944f007bd0ef73c2",
-    "file_url": "https://cdn.jsdelivr.net/gh/agentclientprotocol/claude-agent-acp@3205f0bf0211f9346dad8583944f007bd0ef73c2/{path}"
+    "sha": "4af4581ad510a85d5cdfa3b9100412479e1cfef4",
+    "file_url": "https://cdn.jsdelivr.net/gh/agentclientprotocol/claude-agent-acp@4af4581ad510a85d5cdfa3b9100412479e1cfef4/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 2799,
-    "size_mb": 7,
+    "stars": 2798,
+    "size_mb": 10,
     "created_at": "2025-08-27T07:10:19Z",
-    "last_commit_at": "2026-11-20T15:48:20Z",
-    "releases": 186,
-    "tags": 496,
+    "last_commit_at": "2026-11-21T15:33:53Z",
+    "releases": 187,
+    "tags": 502,
     "archived": false,
     "release": {
-      "tag": "v0.109.0",
-      "at": "2026-11-19T13:32:22.000Z"
+      "tag": "v0.109.1",
+      "at": "2026-11-21T15:34:09.000Z"
     }
   },
   "reuse": "copy",
@@ -62,8 +59,9 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "3205f0bf0211f9346dad8583944f007bd0ef73c2",
-    "v": 4
-  }
+  "pins_before": [
+    "184b7df993c0c64df593188f15bb0e5206f3e6fb",
+    "3205f0bf0211f9346dad8583944f007bd0ef73c2"
+  ],
+  "pinned_at": "2026-11-21T15:33:53Z"
 }

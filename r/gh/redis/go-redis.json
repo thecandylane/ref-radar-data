@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:7420be752c7e45ce49d16a10e227cfe1ebcb0328"
+    "swh": "swh:1:rev:7eca3a191d2cf944d591123a95cd8d010b85925c"
   },
   "id": "gh:redis/go-redis",
   "kind": "repo",
@@ -29,13 +29,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/redis/go-redis",
-    "sha": "7420be752c7e45ce49d16a10e227cfe1ebcb0328",
-    "file_url": "https://cdn.jsdelivr.net/gh/redis/go-redis@7420be752c7e45ce49d16a10e227cfe1ebcb0328/{path}"
+    "sha": "7eca3a191d2cf944d591123a95cd8d010b85925c",
+    "file_url": "https://cdn.jsdelivr.net/gh/redis/go-redis@7eca3a191d2cf944d591123a95cd8d010b85925c/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "BSD-2-Clause",
-    "stars": 22293,
+    "stars": 22294,
     "size_mb": 22,
     "created_at": "2012-07-25T13:01:39Z",
     "last_commit_at": "2026-11-20T13:44:53Z",
@@ -60,8 +60,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "7420be752c7e45ce49d16a10e227cfe1ebcb0328",
-    "v": 3
-  }
+  "pins_before": [
+    "7420be752c7e45ce49d16a10e227cfe1ebcb0328"
+  ],
+  "pinned_at": "2026-11-20T13:44:53Z"
 }

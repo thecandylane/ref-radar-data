@@ -1,0 +1,62 @@
+{
+  "id": "gh:jedib0t/go-pretty",
+  "kind": "repo",
+  "url": "https://github.com/jedib0t/go-pretty",
+  "title": "go-pretty",
+  "why": "Go library that prints tables, lists and progress trackers in the terminal, and renders the same table as HTML, Markdown, CSV or TSV.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui",
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "desktop/terminal-ui",
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jedib0t/go-pretty",
+    "sha": "61c0409409fc7cf34b7f2a6119a12966866b46fb",
+    "file_url": "https://cdn.jsdelivr.net/gh/jedib0t/go-pretty@61c0409409fc7cf34b7f2a6119a12966866b46fb/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 3559,
+    "size_mb": 4,
+    "created_at": "2018-04-30T01:54:06Z",
+    "last_commit_at": "2026-11-14T17:02:03Z",
+    "releases": 102,
+    "tags": 102,
+    "archived": false,
+    "release": {
+      "tag": "v6.9.2",
+      "at": "2026-11-14T17:03:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

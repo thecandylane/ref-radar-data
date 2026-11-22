@@ -28,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/spack/spack",
-    "sha": "7188f9d6e0f345d023d1f947401eeaaf5ced9f5f",
-    "file_url": "https://cdn.jsdelivr.net/gh/spack/spack@7188f9d6e0f345d023d1f947401eeaaf5ced9f5f/{path}"
+    "sha": "f68ec829f8b5c35f2ecf7235b0c33663458c6ba3",
+    "file_url": "https://cdn.jsdelivr.net/gh/spack/spack@f68ec829f8b5c35f2ecf7235b0c33663458c6ba3/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -59,8 +59,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "7188f9d6e0f345d023d1f947401eeaaf5ced9f5f",
-    "v": 4
-  }
+  "pins_before": [
+    "7188f9d6e0f345d023d1f947401eeaaf5ced9f5f"
+  ],
+  "pinned_at": "2026-11-19T15:03:36Z"
 }

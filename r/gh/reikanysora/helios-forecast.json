@@ -1,0 +1,58 @@
+{
+  "id": "gh:reikanysora/helios-forecast",
+  "kind": "repo",
+  "url": "https://github.com/ReikanYsora/Helios-Forecast",
+  "title": "Helios-Forecast",
+  "why": "Forecasts PV power per array using a sky residual map, projects battery SOC and rates forecast reliability.",
+  "keys": {
+    "races": [
+      "energy/renewables",
+      "energy/home-energy"
+    ],
+    "lanes": [
+      "energy/renewables",
+      "energy/home-energy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ReikanYsora/Helios-Forecast",
+    "sha": "76d305ebfced57fe254a6f1553404337d8e2fff1",
+    "file_url": "https://cdn.jsdelivr.net/gh/ReikanYsora/Helios-Forecast@76d305ebfced57fe254a6f1553404337d8e2fff1/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 296,
+    "size_mb": 1,
+    "created_at": "2026-06-11T16:43:21Z",
+    "last_commit_at": "2026-09-11T16:42:10Z",
+    "releases": 13,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "2026.9.6",
+      "at": "2026-09-08T17:15:50.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

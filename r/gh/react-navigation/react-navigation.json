@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5e31b0a0e0a80d89375ace102685083b5ff9cc3b"
-  },
   "id": "gh:react-navigation/react-navigation",
   "kind": "repo",
   "url": "https://github.com/react-navigation/react-navigation",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/react-navigation/react-navigation",
-    "sha": "5e31b0a0e0a80d89375ace102685083b5ff9cc3b",
-    "file_url": "https://cdn.jsdelivr.net/gh/react-navigation/react-navigation@5e31b0a0e0a80d89375ace102685083b5ff9cc3b/{path}"
+    "sha": "ca036e815f01f5ea9cf7db2c6955d9afa8a10b20",
+    "file_url": "https://cdn.jsdelivr.net/gh/react-navigation/react-navigation@ca036e815f01f5ea9cf7db2c6955d9afa8a10b20/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "none",
-    "stars": 24529,
+    "stars": 24528,
     "size_mb": 172,
     "created_at": "2017-01-26T19:51:40Z",
-    "last_commit_at": "2026-11-19T19:48:52Z",
+    "last_commit_at": "2026-11-21T14:20:14Z",
     "releases": 1000,
     "tags": 4128,
     "archived": false,
@@ -62,8 +59,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "5e31b0a0e0a80d89375ace102685083b5ff9cc3b",
-    "v": 3
-  }
+  "pins_before": [
+    "5e31b0a0e0a80d89375ace102685083b5ff9cc3b"
+  ],
+  "pinned_at": "2026-11-21T14:20:14Z"
 }

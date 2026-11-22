@@ -1,0 +1,55 @@
+{
+  "id": "gh:fermitools/fnal-vncpasswd",
+  "kind": "repo",
+  "url": "https://github.com/fermitools/fnal-vncpasswd",
+  "title": "fnal-vncpasswd",
+  "why": "Sets the VNC password file with a salted hash and checks it through a PAM module, so VNC logins go through the normal login stack.",
+  "keys": {
+    "races": [
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/secrets-management"
+    ]
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fermitools/fnal-vncpasswd",
+    "sha": "3358e6649c3aff1baa8afe3853fbc3ae5a9d7b19",
+    "file_url": "https://cdn.jsdelivr.net/gh/fermitools/fnal-vncpasswd@3358e6649c3aff1baa8afe3853fbc3ae5a9d7b19/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-02-20T22:11:32Z",
+    "last_commit_at": "2026-11-05T20:11:58Z",
+    "releases": 0,
+    "tags": 4,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

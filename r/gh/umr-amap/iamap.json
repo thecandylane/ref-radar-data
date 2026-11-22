@@ -1,0 +1,63 @@
+{
+  "id": "gh:umr-amap/iamap",
+  "kind": "repo",
+  "url": "https://github.com/umr-amap/iamap",
+  "title": "iamap",
+  "why": "Encodes rasters with PANGAEA geospatial encoders inside QGIS, then clusters, reduces and compares the features.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "ml/vision"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/umr-amap/iamap",
+    "sha": "c7a3938ace615df618a1f6624062cdacfa76f006",
+    "file_url": "https://cdn.jsdelivr.net/gh/umr-amap/iamap@c7a3938ace615df618a1f6624062cdacfa76f006/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 4,
+    "size_mb": 157,
+    "created_at": "2024-09-02T09:51:38Z",
+    "last_commit_at": "2026-09-01T15:40:26Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.2",
+      "at": "2026-06-26T09:21:10.000Z"
+    },
+    "doi": "10.21105/joss.10329"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

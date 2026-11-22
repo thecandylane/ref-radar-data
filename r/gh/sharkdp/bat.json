@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:8cf33bdde9a6e4c11d0f866415b1fc867df0cd40"
-  },
   "id": "gh:sharkdp/bat",
   "kind": "repo",
   "url": "https://github.com/sharkdp/bat",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/sharkdp/bat",
-    "sha": "8cf33bdde9a6e4c11d0f866415b1fc867df0cd40",
-    "file_url": "https://cdn.jsdelivr.net/gh/sharkdp/bat@8cf33bdde9a6e4c11d0f866415b1fc867df0cd40/{path}"
+    "sha": "dbc11b6924729c9cdfe9a2555daa1cec2baa90fa",
+    "file_url": "https://cdn.jsdelivr.net/gh/sharkdp/bat@dbc11b6924729c9cdfe9a2555daa1cec2baa90fa/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 61343,
+    "stars": 61358,
     "size_mb": 36,
     "created_at": "2018-04-21T10:52:23Z",
     "last_commit_at": "2026-11-21T05:49:59Z",
@@ -57,14 +54,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 93,
+    "star_delta_7d": 97,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "8cf33bdde9a6e4c11d0f866415b1fc867df0cd40",
-    "v": 3
-  },
+  "pins_before": [
+    "8cf33bdde9a6e4c11d0f866415b1fc867df0cd40"
+  ],
+  "pinned_at": "2026-11-21T05:49:59Z",
   "hot": true
 }

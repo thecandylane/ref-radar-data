@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c3cf6a82e96c6e27a47dacf0b04847120aab2c38"
-  },
   "id": "gh:aeron-io/simple-binary-encoding",
   "kind": "repo",
   "url": "https://github.com/aeron-io/simple-binary-encoding",
@@ -27,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/aeron-io/simple-binary-encoding",
-    "sha": "c3cf6a82e96c6e27a47dacf0b04847120aab2c38",
-    "file_url": "https://cdn.jsdelivr.net/gh/aeron-io/simple-binary-encoding@c3cf6a82e96c6e27a47dacf0b04847120aab2c38/{path}"
+    "sha": "6c20e6242e63ac67854707470dcee931eabf68fe",
+    "file_url": "https://cdn.jsdelivr.net/gh/aeron-io/simple-binary-encoding@6c20e6242e63ac67854707470dcee931eabf68fe/{path}"
   },
   "facts": {
     "lang": "Java",
@@ -58,12 +55,9 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "c3cf6a82e96c6e27a47dacf0b04847120aab2c38",
-    "v": 4
-  },
   "pins_before": [
+    "c3cf6a82e96c6e27a47dacf0b04847120aab2c38",
     "36f830782efbf1284e3d6ec9836790494dd69b2d"
   ],
-  "pinned_at": "2026-11-17T13:05:48Z"
+  "pinned_at": "2026-11-19T15:28:59Z"
 }

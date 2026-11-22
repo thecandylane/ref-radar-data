@@ -1,0 +1,58 @@
+{
+  "id": "gh:pupnp/pupnp",
+  "kind": "repo",
+  "url": "https://github.com/pupnp/pupnp",
+  "title": "pupnp",
+  "why": "C stack for UPnP devices and control points, with an XML DOM parser and fuzz harnesses for its inputs.",
+  "keys": {
+    "races": [
+      "infra/networking",
+      "data/serialization"
+    ],
+    "lanes": [
+      "infra/networking",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pupnp/pupnp",
+    "sha": "3884e2ea47092b9ee4d49ec4a504ed6f95f6a011",
+    "file_url": "https://cdn.jsdelivr.net/gh/pupnp/pupnp@3884e2ea47092b9ee4d49ec4a504ed6f95f6a011/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "BSD-3-Clause",
+    "stars": 444,
+    "size_mb": 10,
+    "created_at": "2010-08-23T03:03:20Z",
+    "last_commit_at": "2026-11-20T23:32:32Z",
+    "releases": 77,
+    "tags": 109,
+    "archived": false,
+    "release": {
+      "tag": "release-22.2.4",
+      "at": "2026-11-18T19:57:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

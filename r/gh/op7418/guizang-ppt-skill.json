@@ -1,0 +1,60 @@
+{
+  "id": "gh:op7418/guizang-ppt-skill",
+  "kind": "repo",
+  "url": "https://github.com/op7418/guizang-ppt-skill",
+  "title": "guizang-ppt-skill",
+  "why": "Builds HTML slide decks with derived color themes, then measures rendered pages with Playwright to catch overflow before a talk.",
+  "keys": {
+    "races": [
+      "agents/skills",
+      "design/tools"
+    ],
+    "lanes": [
+      "agents/skills",
+      "design/tools"
+    ],
+    "capabilities": [
+      "agents/skills/design-skills"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/op7418/guizang-ppt-skill",
+    "sha": "93d21bf4a73a851907a6eb00acbf30618236667a",
+    "file_url": "https://cdn.jsdelivr.net/gh/op7418/guizang-ppt-skill@93d21bf4a73a851907a6eb00acbf30618236667a/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "AGPL-3.0",
+    "stars": 30206,
+    "size_mb": 5,
+    "created_at": "2026-04-23T13:23:07Z",
+    "last_commit_at": "2026-10-30T11:40:22Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2026-05-15T05:15:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:59bae4a0e7849a75fa5ea86a206f10f3ce8dbe22"
+  },
   "id": "gh:mitre-attack/bzar",
   "kind": "repo",
   "url": "https://github.com/mitre-attack/bzar",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "Zeek",
     "license": "BSD-3-Clause",
-    "stars": 626,
+    "stars": 625,
     "size_mb": 0,
     "created_at": "2019-05-16T19:47:16Z",
     "last_commit_at": "2024-06-26T16:32:59Z",
@@ -51,5 +54,6 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pinned_at": "2024-06-26T16:32:59Z"
 }

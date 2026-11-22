@@ -1,0 +1,62 @@
+{
+  "id": "gh:zerodytrash/tiktok-live-connector",
+  "kind": "repo",
+  "url": "https://github.com/zerodytrash/TikTok-Live-Connector",
+  "title": "TikTok-Live-Connector",
+  "why": "Streams TikTok live room events such as chat, gifts and viewers over a WebSocket, with a Docker entrypoint for headless runs.",
+  "keys": {
+    "races": [
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/web-access"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zerodytrash/TikTok-Live-Connector",
+    "sha": "58c8d5a5806dc4fc6633458cf820be324fc527c6",
+    "file_url": "https://cdn.jsdelivr.net/gh/zerodytrash/TikTok-Live-Connector@58c8d5a5806dc4fc6633458cf820be324fc527c6/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "AGPL-3.0",
+    "stars": 2332,
+    "size_mb": 2,
+    "created_at": "2022-02-04T02:41:27Z",
+    "last_commit_at": "2026-11-11T18:56:14Z",
+    "releases": 18,
+    "tags": 27,
+    "archived": false,
+    "release": {
+      "tag": "v2.5.0",
+      "at": "2026-09-16T11:14:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

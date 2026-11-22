@@ -1,0 +1,56 @@
+{
+  "id": "gh:easystats/see",
+  "kind": "repo",
+  "url": "https://github.com/easystats/see",
+  "title": "see",
+  "why": "Turns easystats model summaries into ggplot2 figures with one plot call, such as dot-and-whisker plots and normality checks.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/easystats/see",
+    "sha": "ae212b017a52d05805848e77b9a2a26408417243",
+    "file_url": "https://cdn.jsdelivr.net/gh/easystats/see@ae212b017a52d05805848e77b9a2a26408417243/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 956,
+    "size_mb": 3136,
+    "created_at": "2019-04-09T03:28:04Z",
+    "last_commit_at": "2026-11-03T12:19:34Z",
+    "releases": 23,
+    "tags": 23,
+    "archived": false,
+    "release": {
+      "tag": "v0.15.0",
+      "at": "2026-10-16T17:32:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

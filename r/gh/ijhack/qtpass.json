@@ -1,0 +1,66 @@
+{
+  "id": "gh:ijhack/qtpass",
+  "kind": "repo",
+  "url": "https://github.com/IJHack/QtPass",
+  "title": "QtPass",
+  "why": "Qt front end for the pass password store, with GPG key generation, OTP codes and a clipboard that clears itself after a set time.",
+  "keys": {
+    "races": [
+      "cyber/identity",
+      "desktop/native-ui",
+      "dev-tools/vcs"
+    ],
+    "lanes": [
+      "cyber/identity",
+      "desktop/native-ui",
+      "dev-tools/vcs"
+    ],
+    "capabilities": [
+      "cyber/identity/secrets-management"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/IJHack/QtPass",
+    "sha": "e2a9dea8a45b20dec6de55b562a4a49ee165c48a",
+    "file_url": "https://cdn.jsdelivr.net/gh/IJHack/QtPass@e2a9dea8a45b20dec6de55b562a4a49ee165c48a/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-3.0",
+    "stars": 1184,
+    "size_mb": 320,
+    "created_at": "2014-07-31T21:07:58Z",
+    "last_commit_at": "2026-11-21T12:17:34Z",
+    "releases": 46,
+    "tags": 46,
+    "archived": false,
+    "release": {
+      "tag": "v1.8.4",
+      "at": "2026-10-26T14:38:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

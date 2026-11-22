@@ -26,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/skypilot-org/skypilot",
-    "sha": "f2503e0911a3b1142e6b2630b998aa1c9c96fdd9",
-    "file_url": "https://cdn.jsdelivr.net/gh/skypilot-org/skypilot@f2503e0911a3b1142e6b2630b998aa1c9c96fdd9/{path}"
+    "sha": "d0b6d75bc8dfa489c8bfd970fa22011c3e319a8b",
+    "file_url": "https://cdn.jsdelivr.net/gh/skypilot-org/skypilot@d0b6d75bc8dfa489c8bfd970fa22011c3e319a8b/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 10868,
+    "stars": 10869,
     "size_mb": 271,
     "created_at": "2021-08-11T23:32:15Z",
-    "last_commit_at": "2026-11-20T11:00:17Z",
+    "last_commit_at": "2026-11-22T06:28:22Z",
     "releases": 48,
     "tags": 170,
     "archived": false,
@@ -57,10 +57,10 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "f2503e0911a3b1142e6b2630b998aa1c9c96fdd9",
-    "v": 4
-  },
+  "pins_before": [
+    "f2503e0911a3b1142e6b2630b998aa1c9c96fdd9"
+  ],
+  "pinned_at": "2026-11-22T06:28:22Z",
   "papers": [
     {
       "id": "arxiv:2411.01438",

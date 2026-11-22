@@ -1,0 +1,59 @@
+{
+  "id": "gh:rsetienne/ddd",
+  "kind": "repo",
+  "url": "https://github.com/rsetienne/DDD",
+  "title": "DDD",
+  "why": "Fits diversity-dependent models by integrating differential equations in compiled code, then computes their likelihoods.",
+  "keys": {
+    "races": [
+      "sci/numerics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "sci/numerics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rsetienne/DDD",
+    "sha": "92f67487fc738372e49ec19bd0a31b92db7bf077",
+    "file_url": "https://cdn.jsdelivr.net/gh/rsetienne/DDD@92f67487fc738372e49ec19bd0a31b92db7bf077/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 4,
+    "size_mb": 3,
+    "created_at": "2019-02-27T12:43:36Z",
+    "last_commit_at": "2026-10-27T14:47:33Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

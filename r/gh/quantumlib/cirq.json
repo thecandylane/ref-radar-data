@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:7769af942669e85586c9660a607999d1a7387302"
-  },
   "id": "gh:quantumlib/cirq",
   "kind": "repo",
   "url": "https://github.com/quantumlib/Cirq",
@@ -27,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/quantumlib/Cirq",
-    "sha": "7769af942669e85586c9660a607999d1a7387302",
-    "file_url": "https://cdn.jsdelivr.net/gh/quantumlib/Cirq@7769af942669e85586c9660a607999d1a7387302/{path}"
+    "sha": "e713975b7148e1511a7f99a1c166e74d176cdce5",
+    "file_url": "https://cdn.jsdelivr.net/gh/quantumlib/Cirq@e713975b7148e1511a7f99a1c166e74d176cdce5/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -58,10 +55,10 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "7769af942669e85586c9660a607999d1a7387302",
-    "v": 4
-  },
+  "pins_before": [
+    "7769af942669e85586c9660a607999d1a7387302"
+  ],
+  "pinned_at": "2026-11-21T04:35:46Z",
   "papers": [
     {
       "id": "arxiv:1801.00862",

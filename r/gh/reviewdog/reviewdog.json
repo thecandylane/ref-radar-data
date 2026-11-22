@@ -30,8 +30,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/reviewdog/reviewdog",
-    "sha": "50f9c30e1d1cca4a6958ea93a9ed6fe3bdc25deb",
-    "file_url": "https://cdn.jsdelivr.net/gh/reviewdog/reviewdog@50f9c30e1d1cca4a6958ea93a9ed6fe3bdc25deb/{path}"
+    "sha": "976651e6d0cd1053f4ee6b4d2e19e54026d130d2",
+    "file_url": "https://cdn.jsdelivr.net/gh/reviewdog/reviewdog@976651e6d0cd1053f4ee6b4d2e19e54026d130d2/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -39,7 +39,7 @@
     "stars": 9754,
     "size_mb": 8,
     "created_at": "2016-10-17T11:58:34Z",
-    "last_commit_at": "2026-11-21T05:29:58Z",
+    "last_commit_at": "2026-11-21T23:03:46Z",
     "releases": 47,
     "tags": 47,
     "archived": false,
@@ -56,13 +56,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 10,
+    "star_delta_7d": 11,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "50f9c30e1d1cca4a6958ea93a9ed6fe3bdc25deb",
-    "v": 3
-  }
+  "pins_before": [
+    "50f9c30e1d1cca4a6958ea93a9ed6fe3bdc25deb"
+  ],
+  "pinned_at": "2026-11-21T23:03:46Z"
 }

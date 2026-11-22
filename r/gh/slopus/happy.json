@@ -31,13 +31,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/slopus/happy",
-    "sha": "f810c51a6df9664ada52faacd0dff4fa8e7a4483",
-    "file_url": "https://raw.githubusercontent.com/slopus/happy/f810c51a6df9664ada52faacd0dff4fa8e7a4483/{path}"
+    "sha": "42d90b4c786b3bcff6111b363ff8fe3fbc42b4f2",
+    "file_url": "https://raw.githubusercontent.com/slopus/happy/42d90b4c786b3bcff6111b363ff8fe3fbc42b4f2/{path}"
   },
   "facts": {
     "lang": "Swift",
     "license": "MIT",
-    "stars": 24740,
+    "stars": 24753,
     "size_mb": 531,
     "created_at": "2025-07-18T05:53:18Z",
     "last_commit_at": "2026-11-20T07:22:26Z",
@@ -57,13 +57,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 105,
+    "star_delta_7d": 103,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "f810c51a6df9664ada52faacd0dff4fa8e7a4483",
-    "v": 3
-  }
+  "pins_before": [
+    "f810c51a6df9664ada52faacd0dff4fa8e7a4483"
+  ],
+  "pinned_at": "2026-11-20T07:22:26Z"
 }

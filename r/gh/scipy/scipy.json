@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:3c1752220728cdf0a5669f36604ff828e2b04749"
-  },
   "id": "gh:scipy/scipy",
   "kind": "repo",
   "url": "https://github.com/scipy/scipy",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/scipy/scipy",
-    "sha": "3c1752220728cdf0a5669f36604ff828e2b04749",
-    "file_url": "https://cdn.jsdelivr.net/gh/scipy/scipy@3c1752220728cdf0a5669f36604ff828e2b04749/{path}"
+    "sha": "b12d2a77fbbaee8c46b6b17968fdb2b1ab9fb081",
+    "file_url": "https://cdn.jsdelivr.net/gh/scipy/scipy@b12d2a77fbbaee8c46b6b17968fdb2b1ab9fb081/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "BSD-3-Clause",
-    "stars": 15231,
+    "stars": 15237,
     "size_mb": 205,
     "created_at": "2011-03-09T18:52:03Z",
-    "last_commit_at": "2026-11-20T19:12:52Z",
+    "last_commit_at": "2026-11-21T20:39:14Z",
     "releases": 113,
     "tags": 188,
     "archived": false,
@@ -58,10 +55,10 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "3c1752220728cdf0a5669f36604ff828e2b04749",
-    "v": 4
-  },
+  "pins_before": [
+    "3c1752220728cdf0a5669f36604ff828e2b04749"
+  ],
+  "pinned_at": "2026-11-21T20:39:14Z",
   "papers": [
     {
       "id": "arxiv:1907.10121",

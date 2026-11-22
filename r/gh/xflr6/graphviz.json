@@ -1,0 +1,53 @@
+{
+  "id": "gh:xflr6/graphviz",
+  "kind": "repo",
+  "url": "https://github.com/xflr6/graphviz",
+  "title": "graphviz",
+  "why": "Writes Graphviz graphs as Python objects and renders them with the dot command, with source saved to file.",
+  "keys": {
+    "races": [
+      "dev-tools/diagrams"
+    ],
+    "lanes": [
+      "dev-tools/diagrams"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/xflr6/graphviz",
+    "sha": "6ef1ce23fbd4fcbb7f8fe567fa5a517b257e29ee",
+    "file_url": "https://cdn.jsdelivr.net/gh/xflr6/graphviz@6ef1ce23fbd4fcbb7f8fe567fa5a517b257e29ee/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1819,
+    "size_mb": 2,
+    "created_at": "2014-01-12T17:49:29Z",
+    "last_commit_at": "2026-10-24T05:56:57Z",
+    "releases": 0,
+    "tags": 59,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

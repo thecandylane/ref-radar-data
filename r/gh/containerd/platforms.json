@@ -1,0 +1,56 @@
+{
+  "id": "gh:containerd/platforms",
+  "kind": "repo",
+  "url": "https://github.com/containerd/platforms",
+  "title": "platforms",
+  "why": "Parses, normalizes and matches OS, architecture and CPU variant strings, with Windows version checks, for picking container images.",
+  "keys": {
+    "races": [
+      "infra/containers"
+    ],
+    "lanes": [
+      "infra/containers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/containerd/platforms",
+    "sha": "848e0109dc3e6d79bdcc7c5829f891c87d756643",
+    "file_url": "https://cdn.jsdelivr.net/gh/containerd/platforms@848e0109dc3e6d79bdcc7c5829f891c87d756643/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 13,
+    "size_mb": 0,
+    "created_at": "2024-01-10T00:23:20Z",
+    "last_commit_at": "2026-11-09T21:39:20Z",
+    "releases": 10,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.1",
+      "at": "2024-06-11T22:00:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

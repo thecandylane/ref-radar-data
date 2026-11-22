@@ -1,0 +1,62 @@
+{
+  "id": "gh:leaperone/multipost-extension",
+  "kind": "repo",
+  "url": "https://github.com/leaperone/MultiPost-Extension",
+  "title": "MultiPost-Extension",
+  "why": "Publishes one article or video to dozens of platforms by driving each site's upload form in your open browser tabs.",
+  "keys": {
+    "races": [
+      "marketing/social-media",
+      "web/browsers"
+    ],
+    "lanes": [
+      "marketing/social-media",
+      "web/browsers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/leaperone/MultiPost-Extension",
+    "sha": "5522ca01100a58572de3a652aebd7851f5fa648a",
+    "file_url": "https://cdn.jsdelivr.net/gh/leaperone/MultiPost-Extension@5522ca01100a58572de3a652aebd7851f5fa648a/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 3941,
+    "size_mb": 13,
+    "created_at": "2024-11-12T03:35:15Z",
+    "last_commit_at": "2026-10-24T15:29:46Z",
+    "releases": 46,
+    "tags": 47,
+    "archived": false,
+    "release": {
+      "tag": "extension-v1.5.0",
+      "at": "2026-09-28T03:45:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

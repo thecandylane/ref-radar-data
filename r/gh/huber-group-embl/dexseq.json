@@ -1,0 +1,61 @@
+{
+  "id": "gh:huber-group-embl/dexseq",
+  "kind": "repo",
+  "url": "https://github.com/Huber-group-EMBL/DEXSeq",
+  "title": "DEXSeq",
+  "why": "Python helper that maps read pairs and flips reverse strand reads into count vectors for DEXSeq exon counting.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "DESCRIPTION",
+      "kind": "path"
+    },
+    {
+      "locator": "R",
+      "kind": "path"
+    },
+    {
+      "locator": "inst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Huber-group-EMBL/DEXSeq",
+    "sha": "00f799966b6b0bda83e3f110b7ce1009958dfe92",
+    "file_url": "https://cdn.jsdelivr.net/gh/Huber-group-EMBL/DEXSeq@00f799966b6b0bda83e3f110b7ce1009958dfe92/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 10,
+    "size_mb": 3,
+    "created_at": "2018-03-28T19:42:32Z",
+    "last_commit_at": "2026-11-07T16:57:57Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

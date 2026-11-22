@@ -1,0 +1,55 @@
+{
+  "id": "gh:minimax-ai/minimax-h3",
+  "kind": "repo",
+  "url": "https://github.com/MiniMax-AI/MiniMax-H3",
+  "title": "MiniMax-H3",
+  "why": "Video and audio VAE modules with spatial parallel support, loaded from pretrained weights, for encoding and decoding in torch.",
+  "keys": {
+    "races": [
+      "media/video",
+      "ml/open-models"
+    ],
+    "lanes": [
+      "media/video",
+      "ml/open-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MiniMax-AI/MiniMax-H3",
+    "sha": "199b7d0e1fd95e7b3eafa8c15eca692534142427",
+    "file_url": "https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/199b7d0e1fd95e7b3eafa8c15eca692534142427/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 12106,
+    "size_mb": 91,
+    "created_at": "2026-07-30T08:41:09Z",
+    "last_commit_at": "2026-10-28T10:13:57Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

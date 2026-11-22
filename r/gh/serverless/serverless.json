@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:e6a53f2252fb55a9812cde36d340022571a962c5"
-  },
   "id": "gh:serverless/serverless",
   "kind": "repo",
   "url": "https://github.com/serverless/serverless",
@@ -33,8 +30,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/serverless/serverless",
-    "sha": "e6a53f2252fb55a9812cde36d340022571a962c5",
-    "file_url": "https://cdn.jsdelivr.net/gh/serverless/serverless@e6a53f2252fb55a9812cde36d340022571a962c5/{path}"
+    "sha": "0c1a2bb23e06ab912c38377c50bcad18959d14f0",
+    "file_url": "https://cdn.jsdelivr.net/gh/serverless/serverless@0c1a2bb23e06ab912c38377c50bcad18959d14f0/{path}"
   },
   "facts": {
     "lang": "JavaScript",
@@ -64,8 +61,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "e6a53f2252fb55a9812cde36d340022571a962c5",
-    "v": 3
-  }
+  "pins_before": [
+    "e6a53f2252fb55a9812cde36d340022571a962c5"
+  ],
+  "pinned_at": "2026-11-20T17:40:38Z"
 }

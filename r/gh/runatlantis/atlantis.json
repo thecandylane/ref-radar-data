@@ -28,22 +28,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/runatlantis/atlantis",
-    "sha": "dcbc0e21be4cd6f791ad8e8d411d8bf76865e441",
-    "file_url": "https://cdn.jsdelivr.net/gh/runatlantis/atlantis@dcbc0e21be4cd6f791ad8e8d411d8bf76865e441/{path}"
+    "sha": "128c31a37d18f651e3275f687167e34dcfc7aac8",
+    "file_url": "https://cdn.jsdelivr.net/gh/runatlantis/atlantis@128c31a37d18f651e3275f687167e34dcfc7aac8/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 9366,
+    "stars": 9365,
     "size_mb": 70,
     "created_at": "2018-02-06T20:28:06Z",
-    "last_commit_at": "2026-11-21T03:32:57Z",
-    "releases": 167,
-    "tags": 168,
+    "last_commit_at": "2026-11-22T03:11:16Z",
+    "releases": 168,
+    "tags": 169,
     "archived": false,
     "release": {
-      "tag": "v0.49.0",
-      "at": "2026-10-25T01:47:25.000Z"
+      "tag": "v0.50.0",
+      "at": "2026-11-21T21:15:18.000Z"
     }
   },
   "reuse": "copy",
@@ -54,13 +54,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 9,
+    "star_delta_7d": 8,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "dcbc0e21be4cd6f791ad8e8d411d8bf76865e441",
-    "v": 3
-  }
+  "pins_before": [
+    "dcbc0e21be4cd6f791ad8e8d411d8bf76865e441"
+  ],
+  "pinned_at": "2026-11-22T03:11:16Z"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:4254992f6115e92c1dbd86f90bb0aee0b869f15e"
-  },
   "id": "gh:redpanda-data/redpanda",
   "kind": "repo",
   "url": "https://github.com/redpanda-data/redpanda",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/redpanda-data/redpanda",
-    "sha": "4254992f6115e92c1dbd86f90bb0aee0b869f15e",
-    "file_url": "https://cdn.jsdelivr.net/gh/redpanda-data/redpanda@4254992f6115e92c1dbd86f90bb0aee0b869f15e/{path}"
+    "sha": "d99448713fc75ac2d5f25021287cc00ffd8e5851",
+    "file_url": "https://cdn.jsdelivr.net/gh/redpanda-data/redpanda@d99448713fc75ac2d5f25021287cc00ffd8e5851/{path}"
   },
   "facts": {
     "lang": "C++",
@@ -55,13 +52,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": -7,
+    "star_delta_7d": -5,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "4254992f6115e92c1dbd86f90bb0aee0b869f15e",
-    "v": 3
-  }
+  "pins_before": [
+    "4254992f6115e92c1dbd86f90bb0aee0b869f15e"
+  ],
+  "pinned_at": "2026-11-12T15:52:04Z"
 }

@@ -1,0 +1,64 @@
+{
+  "id": "gh:xerial/sqlite-jdbc",
+  "kind": "repo",
+  "url": "https://github.com/xerial/sqlite-jdbc",
+  "title": "sqlite-jdbc",
+  "why": "Gives Java code a JDBC connection to SQLite, with native libraries loaded per OS and extension functions for math and strings.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.adoc",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/xerial/sqlite-jdbc",
+    "sha": "a7840960c70d0563da5fa43fec910483826e1be9",
+    "file_url": "https://cdn.jsdelivr.net/gh/xerial/sqlite-jdbc@a7840960c70d0563da5fa43fec910483826e1be9/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 3308,
+    "size_mb": 717,
+    "created_at": "2014-08-06T14:01:00Z",
+    "last_commit_at": "2026-11-12T02:45:07Z",
+    "releases": 57,
+    "tags": 95,
+    "archived": false,
+    "release": {
+      "tag": "3.54.1.0",
+      "at": "2026-10-29T05:52:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

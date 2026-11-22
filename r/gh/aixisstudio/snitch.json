@@ -1,0 +1,60 @@
+{
+  "id": "gh:aixisstudio/snitch",
+  "kind": "repo",
+  "url": "https://github.com/aixisstudio/Snitch",
+  "title": "Snitch",
+  "why": "Electron app that watches packets and flows, scoring domains for DGA and matching C2 fingerprints before it blocks IPs.",
+  "keys": {
+    "races": [
+      "netsec/ids",
+      "netsec/capture",
+      "desktop/app-shells"
+    ],
+    "lanes": [
+      "netsec/ids",
+      "netsec/capture",
+      "desktop/app-shells"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/aixisstudio/Snitch",
+    "sha": "c2d220150b2aaea0ae45c4ad62f3cbf283a153da",
+    "file_url": "https://cdn.jsdelivr.net/gh/aixisstudio/Snitch@c2d220150b2aaea0ae45c4ad62f3cbf283a153da/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 813,
+    "size_mb": 70,
+    "created_at": "2026-10-01T15:47:55Z",
+    "last_commit_at": "2026-11-19T14:40:42Z",
+    "releases": 16,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "v1.6.4",
+      "at": "2026-10-23T10:58:15.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

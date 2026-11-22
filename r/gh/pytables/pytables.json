@@ -1,0 +1,62 @@
+{
+  "id": "gh:pytables/pytables",
+  "kind": "repo",
+  "url": "https://github.com/PyTables/PyTables",
+  "title": "PyTables",
+  "why": "Stores large numeric tables and arrays in HDF5 files, with indexed queries and bzip2 and blosc compression.",
+  "keys": {
+    "races": [
+      "data/storage",
+      "data/databases"
+    ],
+    "lanes": [
+      "data/storage",
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/PyTables/PyTables",
+    "sha": "6b5d4dbec75c8272af6d8e9ba76626e30c413a02",
+    "file_url": "https://cdn.jsdelivr.net/gh/PyTables/PyTables@6b5d4dbec75c8272af6d8e9ba76626e30c413a02/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 1375,
+    "size_mb": 43,
+    "created_at": "2011-06-03T19:44:46Z",
+    "last_commit_at": "2026-11-21T10:31:00Z",
+    "releases": 21,
+    "tags": 59,
+    "archived": false,
+    "release": {
+      "tag": "v3.11.1",
+      "at": "2026-03-07T11:51:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

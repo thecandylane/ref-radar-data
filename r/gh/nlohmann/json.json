@@ -5,7 +5,7 @@
   "id": "gh:nlohmann/json",
   "kind": "repo",
   "url": "https://github.com/nlohmann/json",
-  "title": "json",
+  "title": "nlohmann/json",
   "why": "Header-only C++ library that reads and writes JSON, plus CBOR, MessagePack, BSON and UBJSON, through STL-style containers.",
   "keys": {
     "races": [
@@ -35,10 +35,10 @@
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 50939,
+    "stars": 50978,
     "size_mb": 319,
     "created_at": "2013-07-04T08:47:49Z",
-    "last_commit_at": "2026-11-18T21:43:38Z",
+    "last_commit_at": "2026-11-21T15:13:15Z",
     "releases": 45,
     "tags": 57,
     "archived": false,
@@ -55,7 +55,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 53,
+    "star_delta_7d": 85,
     "votes": {},
     "ranks": {}
   },

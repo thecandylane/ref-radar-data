@@ -1,0 +1,58 @@
+{
+  "id": "gh:p11-glue/p11-kit",
+  "kind": "repo",
+  "url": "https://github.com/p11-glue/p11-kit",
+  "title": "p11-kit",
+  "why": "Loads pkcs11 token modules listed in a config file and lets you iterate and filter their slots as one set.",
+  "keys": {
+    "races": [
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/secrets-management"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/p11-glue/p11-kit",
+    "sha": "422072e4d6a2eddf36fde36036f17407305bbffe",
+    "file_url": "https://cdn.jsdelivr.net/gh/p11-glue/p11-kit@422072e4d6a2eddf36fde36036f17407305bbffe/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 205,
+    "size_mb": 4,
+    "created_at": "2013-08-12T16:16:15Z",
+    "last_commit_at": "2026-11-20T02:42:49Z",
+    "releases": 42,
+    "tags": 93,
+    "archived": false,
+    "release": {
+      "tag": "0.26.6",
+      "at": "2026-11-12T14:43:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

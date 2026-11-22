@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d465a6da955db9d44d8ef267ea5e6ac4260c93a2"
+  },
   "id": "gh:nyancrimew/goop",
   "kind": "repo",
   "url": "https://github.com/nyancrimew/goop",
@@ -42,7 +45,7 @@
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 656,
+    "stars": 655,
     "size_mb": 0,
     "created_at": "2020-10-30T17:49:11Z",
     "last_commit_at": "2026-09-04T06:10:59Z",
@@ -63,5 +66,6 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pinned_at": "2026-09-04T06:10:59Z"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5a340d1001929ccafe791816b27888a56437699b"
-  },
   "id": "gh:qiskit/qiskit",
   "kind": "repo",
   "url": "https://github.com/Qiskit/qiskit",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Qiskit/qiskit",
-    "sha": "5a340d1001929ccafe791816b27888a56437699b",
-    "file_url": "https://cdn.jsdelivr.net/gh/Qiskit/qiskit@5a340d1001929ccafe791816b27888a56437699b/{path}"
+    "sha": "9bea90bd30999fec69ce9b9c6b360cb6ed1a67d0",
+    "file_url": "https://cdn.jsdelivr.net/gh/Qiskit/qiskit@9bea90bd30999fec69ce9b9c6b360cb6ed1a67d0/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 7989,
+    "stars": 7990,
     "size_mb": 183,
     "created_at": "2017-03-03T17:02:42Z",
-    "last_commit_at": "2026-11-20T16:43:05Z",
+    "last_commit_at": "2026-11-21T16:20:54Z",
     "releases": 174,
     "tags": 176,
     "archived": false,
@@ -62,10 +59,10 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "5a340d1001929ccafe791816b27888a56437699b",
-    "v": 4
-  },
+  "pins_before": [
+    "5a340d1001929ccafe791816b27888a56437699b"
+  ],
+  "pinned_at": "2026-11-21T16:20:54Z",
   "papers": [
     {
       "id": "arxiv:2405.08810",

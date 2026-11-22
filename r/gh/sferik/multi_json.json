@@ -1,0 +1,60 @@
+{
+  "id": "gh:sferik/multi_json",
+  "kind": "repo",
+  "url": "https://github.com/sferik/multi_json",
+  "title": "multi_json",
+  "why": "Lets a Ruby library call one JSON API while the backend underneath is chosen from what is installed, with json_gem ranked first.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sferik/multi_json",
+    "sha": "010093a969727d750fe79696314205f045dfc8a6",
+    "file_url": "https://cdn.jsdelivr.net/gh/sferik/multi_json@010093a969727d750fe79696314205f045dfc8a6/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "MIT",
+    "stars": 28,
+    "size_mb": 1,
+    "created_at": "2025-06-24T17:34:24Z",
+    "last_commit_at": "2026-11-20T16:49:51Z",
+    "releases": 3,
+    "tags": 71,
+    "archived": false,
+    "release": {
+      "tag": "v1.21.2",
+      "at": "2026-09-07T19:39:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:95f814d46a713c024bc79ba7a816fd4cdb0d624a"
+  },
   "id": "gh:hackerschoice/gsocket",
   "kind": "repo",
   "url": "https://github.com/hackerschoice/gsocket",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "C",
     "license": "BSD-2-Clause",
-    "stars": 1983,
+    "stars": 1987,
     "size_mb": 2,
     "created_at": "2020-09-18T16:14:22Z",
     "last_commit_at": "2026-11-12T18:22:13Z",
@@ -58,5 +61,6 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pinned_at": "2026-11-12T18:22:13Z"
 }

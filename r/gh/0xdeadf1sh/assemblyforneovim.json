@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:58a471ec97fb5987eca2b955fd2cba8693a414f6"
-  },
   "id": "gh:0xdeadf1sh/assemblyforneovim",
   "kind": "repo",
   "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
-    "sha": "58a471ec97fb5987eca2b955fd2cba8693a414f6",
-    "file_url": "https://cdn.jsdelivr.net/gh/0xdeadf1sh/AssemblyForNeovim@58a471ec97fb5987eca2b955fd2cba8693a414f6/{path}"
+    "sha": "5b6e1c204449e4baa1ba1d8c2d6d76ac1a3201db",
+    "file_url": "https://cdn.jsdelivr.net/gh/0xdeadf1sh/AssemblyForNeovim@5b6e1c204449e4baa1ba1d8c2d6d76ac1a3201db/{path}"
   },
   "facts": {
     "lang": "Lua",
@@ -53,9 +50,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "58a471ec97fb5987eca2b955fd2cba8693a414f6",
-    "v": 4
-  },
-  "pinned_at": "2026-11-12T08:22:58Z"
+  "pins_before": [
+    "58a471ec97fb5987eca2b955fd2cba8693a414f6"
+  ],
+  "pinned_at": "2026-11-19T06:38:34Z"
 }

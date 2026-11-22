@@ -28,22 +28,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/renovatebot/renovate",
-    "sha": "52cd080650c249d3cfd7693c86f3740dc854b4e5",
-    "file_url": "https://cdn.jsdelivr.net/gh/renovatebot/renovate@52cd080650c249d3cfd7693c86f3740dc854b4e5/{path}"
+    "sha": "de7270481304156775a40c832b1be7d4094557b1",
+    "file_url": "https://cdn.jsdelivr.net/gh/renovatebot/renovate@de7270481304156775a40c832b1be7d4094557b1/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 23215,
+    "stars": 23220,
     "size_mb": 168,
     "created_at": "2016-12-17T16:21:21Z",
-    "last_commit_at": "2026-11-21T09:23:04Z",
+    "last_commit_at": "2026-11-22T07:20:59Z",
     "releases": 1000,
-    "tags": 12793,
+    "tags": 12796,
     "archived": false,
     "release": {
-      "tag": "44.257.6",
-      "at": "2026-11-21T03:49:45.000Z"
+      "tag": "44.257.9",
+      "at": "2026-11-21T13:44:37.000Z"
     }
   },
   "reuse": "copy",
@@ -59,9 +59,9 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "52cd080650c249d3cfd7693c86f3740dc854b4e5",
-    "v": 3
-  },
+  "pins_before": [
+    "52cd080650c249d3cfd7693c86f3740dc854b4e5"
+  ],
+  "pinned_at": "2026-11-22T07:20:59Z",
   "hot": true
 }

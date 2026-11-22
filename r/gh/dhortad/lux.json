@@ -1,0 +1,57 @@
+{
+  "id": "gh:dhortad/lux",
+  "kind": "repo",
+  "url": "https://github.com/DHortaD/Lux",
+  "title": "Lux",
+  "why": "Derives stellar labels from spectra with the Cannon method, loading GALAH data and checking the fit by k-fold cross-validation.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/DHortaD/Lux",
+    "sha": "db9d2aef175c402ecbf064cd05e1ab8429aaa76c",
+    "file_url": "https://cdn.jsdelivr.net/gh/DHortaD/Lux@db9d2aef175c402ecbf064cd05e1ab8429aaa76c/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 3,
+    "size_mb": 8,
+    "created_at": "2025-02-04T10:42:24Z",
+    "last_commit_at": "2026-11-01T16:53:01Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "gh:opensc/opensc",
+  "kind": "repo",
+  "url": "https://github.com/OpenSC/OpenSC",
+  "title": "OpenSC",
+  "why": "Smart card driver library in C that talks to many card types over APDUs and reads certificates and keys held on the cards.",
+  "keys": {
+    "races": [
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/identity"
+    ],
+    "capabilities": [
+      "cyber/identity/secrets-management"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OpenSC/OpenSC",
+    "sha": "1b7dea4d5f31bb0c60640efa4cabd36f1e98b964",
+    "file_url": "https://cdn.jsdelivr.net/gh/OpenSC/OpenSC@1b7dea4d5f31bb0c60640efa4cabd36f1e98b964/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "LGPL-2.1",
+    "stars": 3130,
+    "size_mb": 25,
+    "created_at": "2011-07-05T09:45:08Z",
+    "last_commit_at": "2026-11-18T15:42:45Z",
+    "releases": 40,
+    "tags": 55,
+    "archived": false,
+    "release": {
+      "tag": "0.27.1",
+      "at": "2026-03-31T12:36:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

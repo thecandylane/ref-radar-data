@@ -32,8 +32,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/redpanda-data/connect",
-    "sha": "515fea903a5bad85bec26948cbdf79845e79ec55",
-    "file_url": "https://cdn.jsdelivr.net/gh/redpanda-data/connect@515fea903a5bad85bec26948cbdf79845e79ec55/{path}"
+    "sha": "aa0991d9a219a5bb208cad5398308f7c189b8e92",
+    "file_url": "https://cdn.jsdelivr.net/gh/redpanda-data/connect@aa0991d9a219a5bb208cad5398308f7c189b8e92/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -58,13 +58,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 4,
+    "star_delta_7d": 5,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "515fea903a5bad85bec26948cbdf79845e79ec55",
-    "v": 3
-  }
+  "pins_before": [
+    "515fea903a5bad85bec26948cbdf79845e79ec55"
+  ],
+  "pinned_at": "2026-11-20T20:50:19Z"
 }

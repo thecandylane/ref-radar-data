@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:815a31e487c5f76d1e9b28c0f982d4807459db7f"
+  },
   "id": "gh:1n3/goohak",
   "kind": "repo",
   "url": "https://github.com/1N3/Goohak",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "Shell",
     "license": "none",
-    "stars": 745,
+    "stars": 744,
     "size_mb": 0,
     "created_at": "2015-09-06T15:16:57Z",
     "last_commit_at": "2021-09-27T01:44:43Z",
@@ -51,5 +54,6 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pinned_at": "2021-09-27T01:44:43Z"
 }

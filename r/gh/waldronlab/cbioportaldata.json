@@ -1,0 +1,58 @@
+{
+  "id": "gh:waldronlab/cbioportaldata",
+  "kind": "repo",
+  "url": "https://github.com/waldronlab/cBioPortalData",
+  "title": "cBioPortalData",
+  "why": "Pulls cBioPortal studies from the API or packaged tarballs into MultiAssayExperiment objects, with patient clinical data linked to each assay.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "medicine/health-data"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "medicine/health-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/waldronlab/cBioPortalData",
+    "sha": "2ba6e868634d6305bb71f87931457adfb0bc5c1d",
+    "file_url": "https://cdn.jsdelivr.net/gh/waldronlab/cBioPortalData@2ba6e868634d6305bb71f87931457adfb0bc5c1d/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 37,
+    "size_mb": 1,
+    "created_at": "2017-05-10T18:51:39Z",
+    "last_commit_at": "2026-11-20T23:46:40Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0",
+      "at": "2020-01-07T20:05:35.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

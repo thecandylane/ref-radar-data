@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:b771ea18afb9e6b625906a641d2d331e6d0c282b"
+    "swh": "swh:1:rev:6e417ab3cacda0d3a604b625bb13dd0918816a82"
   },
   "id": "gh:rack/rack-attack",
   "kind": "repo",
@@ -31,8 +31,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/rack/rack-attack",
-    "sha": "b771ea18afb9e6b625906a641d2d331e6d0c282b",
-    "file_url": "https://cdn.jsdelivr.net/gh/rack/rack-attack@b771ea18afb9e6b625906a641d2d331e6d0c282b/{path}"
+    "sha": "6e417ab3cacda0d3a604b625bb13dd0918816a82",
+    "file_url": "https://cdn.jsdelivr.net/gh/rack/rack-attack@6e417ab3cacda0d3a604b625bb13dd0918816a82/{path}"
   },
   "facts": {
     "lang": "Ruby",
@@ -62,8 +62,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "b771ea18afb9e6b625906a641d2d331e6d0c282b",
-    "v": 3
-  }
+  "pins_before": [
+    "b771ea18afb9e6b625906a641d2d331e6d0c282b"
+  ],
+  "pinned_at": "2026-11-12T14:26:15Z"
 }

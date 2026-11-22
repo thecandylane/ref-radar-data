@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1c159304abe6d470d23958878f32c126fed21714"
-  },
   "id": "gh:skyvern-ai/skyvern",
   "kind": "repo",
   "url": "https://github.com/Skyvern-AI/skyvern",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Skyvern-AI/skyvern",
-    "sha": "1c159304abe6d470d23958878f32c126fed21714",
-    "file_url": "https://raw.githubusercontent.com/Skyvern-AI/skyvern/1c159304abe6d470d23958878f32c126fed21714/{path}"
+    "sha": "90d9685456fff1615355b905ad12f14c83d82c3a",
+    "file_url": "https://cdn.jsdelivr.net/gh/Skyvern-AI/skyvern@90d9685456fff1615355b905ad12f14c83d82c3a/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "AGPL-3.0",
-    "stars": 23483,
+    "stars": 23490,
     "size_mb": 661,
     "created_at": "2024-02-28T15:45:19Z",
-    "last_commit_at": "2026-11-21T08:51:18Z",
+    "last_commit_at": "2026-11-22T06:01:16Z",
     "releases": 162,
     "tags": 162,
     "archived": false,
@@ -62,8 +59,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "1c159304abe6d470d23958878f32c126fed21714",
-    "v": 3
-  }
+  "pins_before": [
+    "1c159304abe6d470d23958878f32c126fed21714"
+  ],
+  "pinned_at": "2026-11-22T06:01:16Z"
 }

@@ -1,0 +1,60 @@
+{
+  "id": "gh:sigstore/sigstore-js",
+  "kind": "repo",
+  "url": "https://github.com/sigstore/sigstore-js",
+  "title": "sigstore-js",
+  "why": "Signs, verifies and bundles artifacts with Sigstore in TypeScript, including OCI image attach and TUF trust roots.",
+  "keys": {
+    "races": [
+      "cyber/supply-chain"
+    ],
+    "lanes": [
+      "cyber/supply-chain"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sigstore/sigstore-js",
+    "sha": "3154029799fe44e6a037fc634e175abe091521b3",
+    "file_url": "https://cdn.jsdelivr.net/gh/sigstore/sigstore-js@3154029799fe44e6a037fc634e175abe091521b3/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 188,
+    "size_mb": 8,
+    "created_at": "2022-05-23T21:10:15Z",
+    "last_commit_at": "2026-11-05T16:33:56Z",
+    "releases": 188,
+    "tags": 188,
+    "archived": false,
+    "release": {
+      "tag": "sigstore@5.0.1",
+      "at": "2026-11-05T00:18:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

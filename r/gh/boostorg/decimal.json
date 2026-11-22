@@ -1,0 +1,59 @@
+{
+  "id": "gh:boostorg/decimal",
+  "kind": "repo",
+  "url": "https://github.com/boostorg/decimal",
+  "title": "boostorg/decimal",
+  "why": "C++ decimal types with BID and DPD conversions, charconv and printf support, and gdb and lldb printers for values.",
+  "keys": {
+    "races": [
+      "sci/numerics",
+      "dev-tools/debugging"
+    ],
+    "lanes": [
+      "sci/numerics",
+      "dev-tools/debugging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/boostorg/decimal",
+    "sha": "215bbf025ee3839b4d4f25c54522bedf5bb8e44f",
+    "file_url": "https://cdn.jsdelivr.net/gh/boostorg/decimal@215bbf025ee3839b4d4f25c54522bedf5bb8e44f/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "BSL-1.0",
+    "stars": 67,
+    "size_mb": 24,
+    "created_at": "2023-06-30T09:18:01Z",
+    "last_commit_at": "2026-11-14T17:57:57Z",
+    "releases": 22,
+    "tags": 26,
+    "archived": false,
+    "release": {
+      "tag": "boost-1.92.0",
+      "at": "2026-08-12T15:58:31.000Z"
+    },
+    "doi": "10.21105/joss.10345"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

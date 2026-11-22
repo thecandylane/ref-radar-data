@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:8de36f89b36396a8ba5ec6fb7c586d2f72d7f276"
-  },
   "id": "gh:rethinkdb/rethinkdb",
   "kind": "repo",
   "url": "https://github.com/rethinkdb/rethinkdb",
@@ -29,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/rethinkdb/rethinkdb",
-    "sha": "8de36f89b36396a8ba5ec6fb7c586d2f72d7f276",
-    "file_url": "https://cdn.jsdelivr.net/gh/rethinkdb/rethinkdb@8de36f89b36396a8ba5ec6fb7c586d2f72d7f276/{path}"
+    "sha": "d94cbeade2df1aa6ec009bbac010bb6ddc617e59",
+    "file_url": "https://cdn.jsdelivr.net/gh/rethinkdb/rethinkdb@d94cbeade2df1aa6ec009bbac010bb6ddc617e59/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "NOASSERTION",
-    "stars": 27013,
+    "stars": 27014,
     "size_mb": 277,
     "created_at": "2012-10-30T05:37:47Z",
     "last_commit_at": "2026-11-16T14:18:33Z",
@@ -55,13 +52,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 4,
+    "star_delta_7d": 3,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "8de36f89b36396a8ba5ec6fb7c586d2f72d7f276",
-    "v": 3
-  }
+  "pins_before": [
+    "8de36f89b36396a8ba5ec6fb7c586d2f72d7f276"
+  ],
+  "pinned_at": "2026-11-16T14:18:33Z"
 }

@@ -1,0 +1,61 @@
+{
+  "id": "gh:openserpapi/sdk-js",
+  "kind": "repo",
+  "url": "https://github.com/openserpapi/sdk-js",
+  "title": "sdk-js",
+  "why": "Typed TypeScript client for OpenSERP, with search, image and page extract calls, engine status and proxy stats.",
+  "keys": {
+    "races": [
+      "seo/site-audits",
+      "agents/tools"
+    ],
+    "lanes": [
+      "seo/site-audits",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/web-access"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openserpapi/sdk-js",
+    "sha": "b047ead297f0aa03e2e25bd2516ecfa00ff21201",
+    "file_url": "https://cdn.jsdelivr.net/gh/openserpapi/sdk-js@b047ead297f0aa03e2e25bd2516ecfa00ff21201/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 2,
+    "size_mb": 0,
+    "created_at": "2026-07-06T18:27:45Z",
+    "last_commit_at": "2026-10-27T20:37:53Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

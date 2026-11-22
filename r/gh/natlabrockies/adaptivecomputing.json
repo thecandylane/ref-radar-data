@@ -1,0 +1,59 @@
+{
+  "id": "gh:natlabrockies/adaptivecomputing",
+  "kind": "repo",
+  "url": "https://github.com/NatLabRockies/AdaptiveComputing",
+  "title": "AdaptiveComputing",
+  "why": "Runs surrogate-guided sampling on HPC through Slurm or PBS schedulers, and exposes experiments to agents as MCP tools.",
+  "keys": {
+    "races": [
+      "sci/optimization",
+      "sci/hpc",
+      "agents/tools"
+    ],
+    "lanes": [
+      "sci/optimization",
+      "sci/hpc",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NatLabRockies/AdaptiveComputing",
+    "sha": "b7371db94a211d416a7c515c2f8aa2c3b236519b",
+    "file_url": "https://cdn.jsdelivr.net/gh/NatLabRockies/AdaptiveComputing@b7371db94a211d416a7c515c2f8aa2c3b236519b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 0,
+    "size_mb": 4,
+    "created_at": "2023-07-03T21:24:51Z",
+    "last_commit_at": "2026-11-20T22:12:18Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

@@ -28,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/a2aproject/a2a-js",
-    "sha": "605d9637eeeb442a74c41ce7c8c9e6676a98196c",
-    "file_url": "https://cdn.jsdelivr.net/gh/a2aproject/a2a-js@605d9637eeeb442a74c41ce7c8c9e6676a98196c/{path}"
+    "sha": "20108e67c468b223e48865606cf55190672eb3a2",
+    "file_url": "https://cdn.jsdelivr.net/gh/a2aproject/a2a-js@20108e67c468b223e48865606cf55190672eb3a2/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -59,14 +59,11 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "605d9637eeeb442a74c41ce7c8c9e6676a98196c",
-    "v": 4
-  },
   "pins_before": [
+    "605d9637eeeb442a74c41ce7c8c9e6676a98196c",
     "4adce08dffed9113b60d73be45ed5c19b2968d86",
     "41335e66b6941db20065580782b909ff6e8476c0",
     "f8ce0b90ce5e1a01aed2d86e98fb838d1d032bbc"
   ],
-  "pinned_at": "2026-11-18T07:53:19Z"
+  "pinned_at": "2026-11-21T08:03:18Z"
 }

@@ -1,0 +1,59 @@
+{
+  "id": "gh:sandialabs/sola",
+  "kind": "repo",
+  "url": "https://github.com/sandialabs/Sola",
+  "title": "Sola",
+  "why": "Computes misfit gradients and Hessian actions for a 1D fluid flow tracer model, with model discrepancy priors wired to Python.",
+  "keys": {
+    "races": [
+      "engineering/simulation",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "engineering/simulation",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sandialabs/Sola",
+    "sha": "033de8f622347a25982a7005f8394f9581fd7619",
+    "file_url": "https://cdn.jsdelivr.net/gh/sandialabs/Sola@033de8f622347a25982a7005f8394f9581fd7619/{path}"
+  },
+  "facts": {
+    "lang": "MATLAB",
+    "license": "BSD-3-Clause",
+    "stars": 3,
+    "size_mb": 30,
+    "created_at": "2026-05-01T00:39:24Z",
+    "last_commit_at": "2026-09-17T21:44:41Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

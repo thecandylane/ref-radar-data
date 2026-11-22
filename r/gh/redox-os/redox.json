@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:fc1dc1e5781db41cc1d01d2bde23a84cc5aefd2b"
-  },
   "id": "gh:redox-os/redox",
   "kind": "repo",
   "url": "https://github.com/redox-os/redox",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/redox-os/redox",
-    "sha": "fc1dc1e5781db41cc1d01d2bde23a84cc5aefd2b",
-    "file_url": "https://cdn.jsdelivr.net/gh/redox-os/redox@fc1dc1e5781db41cc1d01d2bde23a84cc5aefd2b/{path}"
+    "sha": "2af3311aa512ac478eeb6cbda8f29c7e400dc64e",
+    "file_url": "https://cdn.jsdelivr.net/gh/redox-os/redox@2af3311aa512ac478eeb6cbda8f29c7e400dc64e/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 16740,
+    "stars": 16743,
     "size_mb": 28,
     "created_at": "2015-04-20T17:35:19Z",
-    "last_commit_at": "2026-11-20T14:45:12Z",
+    "last_commit_at": "2026-11-21T17:13:33Z",
     "releases": 24,
     "tags": 28,
     "archived": false,
@@ -62,8 +59,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "fc1dc1e5781db41cc1d01d2bde23a84cc5aefd2b",
-    "v": 3
-  }
+  "pins_before": [
+    "fc1dc1e5781db41cc1d01d2bde23a84cc5aefd2b"
+  ],
+  "pinned_at": "2026-11-21T17:13:33Z"
 }

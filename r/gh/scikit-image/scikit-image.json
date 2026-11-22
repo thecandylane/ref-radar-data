@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:8dd4c63927588c324d4d2c87c4b3f127e08c449e"
-  },
   "id": "gh:scikit-image/scikit-image",
   "kind": "repo",
   "url": "https://github.com/scikit-image/scikit-image",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/scikit-image/scikit-image",
-    "sha": "8dd4c63927588c324d4d2c87c4b3f127e08c449e",
-    "file_url": "https://cdn.jsdelivr.net/gh/scikit-image/scikit-image@8dd4c63927588c324d4d2c87c4b3f127e08c449e/{path}"
+    "sha": "ae5a9eba9b0c092214aec7026455d985b4b594c1",
+    "file_url": "https://cdn.jsdelivr.net/gh/scikit-image/scikit-image@ae5a9eba9b0c092214aec7026455d985b4b594c1/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -55,15 +52,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 2,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "8dd4c63927588c324d4d2c87c4b3f127e08c449e",
-    "v": 3
-  },
+  "pins_before": [
+    "8dd4c63927588c324d4d2c87c4b3f127e08c449e"
+  ],
+  "pinned_at": "2026-11-21T05:55:36Z",
   "papers": [
     {
       "id": "arxiv:1407.6245",

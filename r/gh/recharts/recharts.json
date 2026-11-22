@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:6890c245fada882b2668a4e9c4e05fa8886df89d"
-  },
   "id": "gh:recharts/recharts",
   "kind": "repo",
   "url": "https://github.com/recharts/recharts",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/recharts/recharts",
-    "sha": "6890c245fada882b2668a4e9c4e05fa8886df89d",
-    "file_url": "https://cdn.jsdelivr.net/gh/recharts/recharts@6890c245fada882b2668a4e9c4e05fa8886df89d/{path}"
+    "sha": "31b891413c1730f77c9c1881d5490a4a0b06c5c6",
+    "file_url": "https://cdn.jsdelivr.net/gh/recharts/recharts@31b891413c1730f77c9c1881d5490a4a0b06c5c6/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
     "stars": 27728,
-    "size_mb": 5678,
+    "size_mb": 5687,
     "created_at": "2015-08-07T06:50:27Z",
-    "last_commit_at": "2026-11-20T08:18:18Z",
+    "last_commit_at": "2026-11-21T18:42:02Z",
     "releases": 104,
     "tags": 259,
     "archived": false,
@@ -60,8 +57,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "6890c245fada882b2668a4e9c4e05fa8886df89d",
-    "v": 3
-  }
+  "pins_before": [
+    "6890c245fada882b2668a4e9c4e05fa8886df89d"
+  ],
+  "pinned_at": "2026-11-21T18:42:02Z"
 }

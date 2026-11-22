@@ -1,0 +1,58 @@
+{
+  "id": "gh:ropensci/ibger",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/ibger",
+  "title": "ibger",
+  "why": "Pulls IBGE aggregate tables into tidy tibbles, checking variables and localities against the metadata before each query.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/statistics",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/ibger",
+    "sha": "1ed1c3041fd6505c8b9bdbcd7409089336fbe187",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/ibger@1ed1c3041fd6505c8b9bdbcd7409089336fbe187/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 5,
+    "size_mb": 12,
+    "created_at": "2026-02-10T19:11:37Z",
+    "last_commit_at": "2026-11-08T12:03:06Z",
+    "releases": 1,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.1",
+      "at": "2026-10-14T12:15:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}
