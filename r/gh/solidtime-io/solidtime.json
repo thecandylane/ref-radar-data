@@ -1,0 +1,63 @@
+{
+  "id": "gh:solidtime-io/solidtime",
+  "kind": "repo",
+  "url": "https://github.com/solidtime-io/solidtime",
+  "title": "solidtime",
+  "why": "Time tracker for freelancers and agencies that can be self-hosted, with imports from Toggl, Clockify and Timeentry CSV files.",
+  "keys": {
+    "races": [
+      "hr/time-tracking",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "hr/time-tracking",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/solidtime-io/solidtime",
+    "sha": "d0f5e7452f1aeb9ff842395b654e4588af29eac6",
+    "file_url": "https://cdn.jsdelivr.net/gh/solidtime-io/solidtime@d0f5e7452f1aeb9ff842395b654e4588af29eac6/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "AGPL-3.0",
+    "stars": 9140,
+    "size_mb": 10,
+    "created_at": "2024-01-16T15:30:47Z",
+    "last_commit_at": "2026-11-19T17:14:40Z",
+    "releases": 35,
+    "tags": 41,
+    "archived": false,
+    "release": {
+      "tag": "v0.23.0",
+      "at": "2026-11-19T18:32:02.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-19T17:14:40Z"
+}

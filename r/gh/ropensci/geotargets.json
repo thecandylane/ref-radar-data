@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:878c73f28dc2d031e6cedd97588588b90a689db9"
+  },
+  "id": "gh:ropensci/geotargets",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/geotargets",
+  "title": "geotargets",
+  "why": "Lets targets pipelines read and write terra rasters, vectors and stars objects without the read and write errors.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/geotargets",
+    "sha": "878c73f28dc2d031e6cedd97588588b90a689db9",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/geotargets@878c73f28dc2d031e6cedd97588588b90a689db9/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 99,
+    "size_mb": 4,
+    "created_at": "2024-03-03T23:24:01Z",
+    "last_commit_at": "2026-06-11T22:53:58Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.1",
+      "at": "2025-05-16T01:22:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-06-11T22:53:58Z"
+}

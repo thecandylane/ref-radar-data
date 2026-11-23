@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c87565b8b0db5d5d5bfd2b8b00ad6573e5d06d9f"
-  },
   "id": "gh:luau-lang/luau",
   "kind": "repo",
   "url": "https://github.com/luau-lang/luau",
@@ -27,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/luau-lang/luau",
-    "sha": "c87565b8b0db5d5d5bfd2b8b00ad6573e5d06d9f",
-    "file_url": "https://cdn.jsdelivr.net/gh/luau-lang/luau@c87565b8b0db5d5d5bfd2b8b00ad6573e5d06d9f/{path}"
+    "sha": "3d91c9d5c280c95bfc4be63aac46012cf861d394",
+    "file_url": "https://cdn.jsdelivr.net/gh/luau-lang/luau@3d91c9d5c280c95bfc4be63aac46012cf861d394/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 6139,
+    "stars": 6141,
     "size_mb": 26,
     "created_at": "2018-09-14T17:29:29Z",
     "last_commit_at": "2026-11-20T23:03:57Z",
@@ -53,17 +50,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 28,
+    "star_delta_7d": 23,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "c87565b8b0db5d5d5bfd2b8b00ad6573e5d06d9f",
-    "v": 4
-  },
   "pins_before": [
+    "c87565b8b0db5d5d5bfd2b8b00ad6573e5d06d9f",
     "f46d879e28302a430029304f7f6a162aed66f103"
   ],
-  "pinned_at": "2026-11-13T21:01:47Z"
+  "pinned_at": "2026-11-20T23:03:57Z"
 }

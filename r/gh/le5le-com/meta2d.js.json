@@ -1,0 +1,60 @@
+{
+  "id": "gh:le5le-com/meta2d.js",
+  "kind": "repo",
+  "url": "https://github.com/le5le-com/meta2d.js",
+  "title": "meta2d.js",
+  "why": "Draws live screens from pens, gauges and heatmaps, with an upgrader that converts older pen data to the new format.",
+  "keys": {
+    "races": [
+      "industrial/scada"
+    ],
+    "lanes": [
+      "industrial/scada"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/le5le-com/meta2d.js",
+    "sha": "238545ca178f64966d452562e395deb03720789f",
+    "file_url": "https://cdn.jsdelivr.net/gh/le5le-com/meta2d.js@238545ca178f64966d452562e395deb03720789f/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1311,
+    "size_mb": 53,
+    "created_at": "2021-06-01T12:57:40Z",
+    "last_commit_at": "2026-11-23T05:57:40Z",
+    "releases": 83,
+    "tags": 100,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.1",
+      "at": "2026-10-28T10:33:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

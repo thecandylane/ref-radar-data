@@ -1,0 +1,79 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c0c98d367c55296bfe69e65680625b6db437af02"
+  },
+  "id": "gh:eyaltoledano/claude-task-master",
+  "kind": "repo",
+  "url": "https://github.com/eyaltoledano/claude-task-master",
+  "title": "claude-task-master",
+  "why": "Keeps a task list and PRD-driven plan in the project so Cursor, Windsurf or Claude Code agents pick up the next task.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/tools",
+      "agents/memory"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/tools",
+      "agents/memory"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers",
+      "agents/memory/project-memory"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/eyaltoledano/claude-task-master",
+    "sha": "c0c98d367c55296bfe69e65680625b6db437af02",
+    "file_url": "https://cdn.jsdelivr.net/gh/eyaltoledano/claude-task-master@c0c98d367c55296bfe69e65680625b6db437af02/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "NOASSERTION",
+    "stars": 28527,
+    "size_mb": 29,
+    "created_at": "2025-03-04T18:54:54Z",
+    "last_commit_at": "2026-04-23T12:07:23Z",
+    "releases": 92,
+    "tags": 113,
+    "archived": false,
+    "release": {
+      "tag": "task-master-ai@0.43.1",
+      "at": "2026-03-31T17:49:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-04-23T12:07:23Z"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "gh:nlrwindsystems/wombat",
+  "kind": "repo",
+  "url": "https://github.com/NLRWindSystems/WOMBAT",
+  "title": "WOMBAT",
+  "why": "Simulates wind farm repairs with simpy processes, weather data and tugboat or vessel dispatch, to measure availability and task completion.",
+  "keys": {
+    "races": [
+      "energy/renewables"
+    ],
+    "lanes": [
+      "energy/renewables"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NLRWindSystems/WOMBAT",
+    "sha": "442d92214d69b56d51280a87720e2e7d81f44c2d",
+    "file_url": "https://cdn.jsdelivr.net/gh/NLRWindSystems/WOMBAT@442d92214d69b56d51280a87720e2e7d81f44c2d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 34,
+    "size_mb": 628,
+    "created_at": "2021-04-19T18:17:42Z",
+    "last_commit_at": "2026-10-21T20:00:14Z",
+    "releases": 43,
+    "tags": 44,
+    "archived": false,
+    "release": {
+      "tag": "v0.13.5",
+      "at": "2026-10-21T19:49:32.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-10-21T20:00:14Z"
+}

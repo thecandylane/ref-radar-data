@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:970d248e5f07f0d5a56477e3756676c6cf30fe02"
+  },
+  "id": "gh:protontypes/continuous-reforestation",
+  "kind": "repo",
+  "url": "https://github.com/protontypes/continuous-reforestation",
+  "title": "continuous-reforestation",
+  "why": "GitHub Action that requests trees through the DigitalHumani reforestation API on pull requests, pushes, releases or a schedule.",
+  "keys": {
+    "races": [
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/protontypes/continuous-reforestation",
+    "sha": "970d248e5f07f0d5a56477e3756676c6cf30fe02",
+    "file_url": "https://cdn.jsdelivr.net/gh/protontypes/continuous-reforestation@970d248e5f07f0d5a56477e3756676c6cf30fe02/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 193,
+    "size_mb": 0,
+    "created_at": "2021-02-18T16:30:28Z",
+    "last_commit_at": "2021-03-27T13:35:42Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "0.0.3",
+      "at": "2021-03-21T12:32:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2021-03-27T13:35:42Z"
+}

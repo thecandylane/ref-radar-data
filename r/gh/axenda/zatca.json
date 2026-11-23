@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0aadfdeca9333787a7424763aad1cb541e61ac89"
+  },
+  "id": "gh:axenda/zatca",
+  "kind": "repo",
+  "url": "https://github.com/axenda/zatca",
+  "title": "zatca",
+  "why": "TypeScript package that builds the Saudi ZATCA invoice QR code as TLV, base64 or a png image, in browser or Node.",
+  "keys": {
+    "races": [
+      "finance/e-invoicing"
+    ],
+    "lanes": [
+      "finance/e-invoicing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/axenda/zatca",
+    "sha": "0aadfdeca9333787a7424763aad1cb541e61ac89",
+    "file_url": "https://cdn.jsdelivr.net/gh/axenda/zatca@0aadfdeca9333787a7424763aad1cb541e61ac89/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 60,
+    "size_mb": 1,
+    "created_at": "2021-11-18T18:52:56Z",
+    "last_commit_at": "2023-01-12T23:58:06Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2023-01-12T23:58:06Z"
+}

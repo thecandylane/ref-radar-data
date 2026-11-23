@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f177fe323420ccb23e1a79445fd470cbf80aee7c"
+  },
+  "id": "gh:ajv-validator/ajv",
+  "kind": "repo",
+  "url": "https://github.com/ajv-validator/ajv",
+  "title": "ajv",
+  "why": "Turns JSON Schema and JSON Type Definition into generated checks that run inside Node.js and browsers, with coercion and defaults on demand.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ajv-validator/ajv",
+    "sha": "f177fe323420ccb23e1a79445fd470cbf80aee7c",
+    "file_url": "https://cdn.jsdelivr.net/gh/ajv-validator/ajv@f177fe323420ccb23e1a79445fd470cbf80aee7c/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 14887,
+    "size_mb": 38,
+    "created_at": "2015-05-19T23:23:32Z",
+    "last_commit_at": "2026-04-24T13:46:21Z",
+    "releases": 166,
+    "tags": 216,
+    "archived": false,
+    "release": {
+      "tag": "v8.20.0",
+      "at": "2026-04-24T13:24:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-04-24T13:46:21Z"
+}

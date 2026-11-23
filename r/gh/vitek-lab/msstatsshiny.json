@@ -1,0 +1,56 @@
+{
+  "id": "gh:vitek-lab/msstatsshiny",
+  "kind": "repo",
+  "url": "https://github.com/Vitek-Lab/MSstatsShiny",
+  "title": "MSstatsShiny",
+  "why": "Adds copy buttons that grab the selected labels from a dropdown to the clipboard and flash a short confirmation message.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "web/ui-components"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Vitek-Lab/MSstatsShiny",
+    "sha": "6acde262985d0948a2b39a1caa0b6992f19d0480",
+    "file_url": "https://cdn.jsdelivr.net/gh/Vitek-Lab/MSstatsShiny@6acde262985d0948a2b39a1caa0b6992f19d0480/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 21,
+    "size_mb": 13,
+    "created_at": "2020-12-15T13:47:43Z",
+    "last_commit_at": "2026-11-21T19:17:56Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-21T19:17:56Z"
+}

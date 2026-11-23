@@ -1,0 +1,65 @@
+{
+  "id": "gh:d-kimuson/modular-mcp",
+  "kind": "repo",
+  "url": "https://github.com/d-kimuson/modular-mcp",
+  "title": "modular-mcp",
+  "why": "Exposes just two tools to the model and fetches each group's tool schemas only when a task needs that group.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "agents/context"
+    ],
+    "lanes": [
+      "agents/tools",
+      "agents/context"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/d-kimuson/modular-mcp",
+    "sha": "e90e0a303340c9c0b8a558c2d375ece4848ec58d",
+    "file_url": "https://cdn.jsdelivr.net/gh/d-kimuson/modular-mcp@e90e0a303340c9c0b8a558c2d375ece4848ec58d/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 51,
+    "size_mb": 0,
+    "created_at": "2025-10-22T14:25:46Z",
+    "last_commit_at": "2025-11-21T14:23:35Z",
+    "releases": 10,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v0.0.10",
+      "at": "2025-11-21T14:23:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-11-21T14:23:35Z"
+}

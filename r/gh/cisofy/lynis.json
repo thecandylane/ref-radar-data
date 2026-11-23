@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9319416fa0726369ab0a48f686155a90363f3f9c"
-  },
   "id": "gh:cisofy/lynis",
   "kind": "repo",
   "url": "https://github.com/CISOfy/lynis",
@@ -27,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/CISOfy/lynis",
-    "sha": "9319416fa0726369ab0a48f686155a90363f3f9c",
-    "file_url": "https://cdn.jsdelivr.net/gh/CISOfy/lynis@9319416fa0726369ab0a48f686155a90363f3f9c/{path}"
+    "sha": "a9527dc768f447bce71205fa3f2b0f78492844c0",
+    "file_url": "https://cdn.jsdelivr.net/gh/CISOfy/lynis@a9527dc768f447bce71205fa3f2b0f78492844c0/{path}"
   },
   "facts": {
     "lang": "Shell",
     "license": "GPL-3.0",
-    "stars": 16739,
+    "stars": 16746,
     "size_mb": 9,
     "created_at": "2013-12-10T14:00:49Z",
     "last_commit_at": "2026-11-20T23:35:35Z",
@@ -58,9 +55,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "9319416fa0726369ab0a48f686155a90363f3f9c",
-    "v": 4
-  },
-  "pinned_at": "2026-09-16T21:41:01Z"
+  "pins_before": [
+    "9319416fa0726369ab0a48f686155a90363f3f9c"
+  ],
+  "pinned_at": "2026-11-20T23:35:35Z"
 }

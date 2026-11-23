@@ -1,7 +1,10 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a7fbff25b42f99c34ca5bd990a9f72e2d73f6695"
+  },
   "id": "gh:kvittingseerup/isoformswitchanalyzer",
   "kind": "repo",
-  "url": "https://github.com/kvittingseerup/IsoformSwitchAnalyzeR",
+  "url": "https://github.com/IsoformAnalysisGroup/IsoformSwitchAnalyzeR",
   "title": "IsoformSwitchAnalyzeR",
   "why": "Checks which exons overlap or match between isoforms of a gene, to flag isoform switches for an R analysis.",
   "keys": {
@@ -25,9 +28,9 @@
   ],
   "fetch": {
     "type": "git-sparse",
-    "repo": "https://github.com/kvittingseerup/IsoformSwitchAnalyzeR",
+    "repo": "https://github.com/IsoformAnalysisGroup/IsoformSwitchAnalyzeR",
     "sha": "a7fbff25b42f99c34ca5bd990a9f72e2d73f6695",
-    "file_url": "https://cdn.jsdelivr.net/gh/kvittingseerup/IsoformSwitchAnalyzeR@a7fbff25b42f99c34ca5bd990a9f72e2d73f6695/{path}"
+    "file_url": "https://cdn.jsdelivr.net/gh/IsoformAnalysisGroup/IsoformSwitchAnalyzeR@a7fbff25b42f99c34ca5bd990a9f72e2d73f6695/{path}"
   },
   "facts": {
     "lang": "R",
@@ -35,7 +38,7 @@
     "stars": 137,
     "size_mb": 21,
     "created_at": "2017-04-18T14:46:47Z",
-    "last_commit_at": "2026-11-10T08:00:42Z",
+    "last_commit_at": "2026-11-22T10:14:23Z",
     "releases": 0,
     "tags": 0,
     "archived": false,

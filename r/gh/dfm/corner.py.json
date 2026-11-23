@@ -1,0 +1,61 @@
+{
+  "id": "gh:dfm/corner.py",
+  "kind": "repo",
+  "url": "https://github.com/dfm/corner.py",
+  "title": "corner.py",
+  "why": "Turns sampled parameter arrays into a grid of 2D histograms with quantiles, drawn in matplotlib.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dfm/corner.py",
+    "sha": "88054ae759391ad463fd6fdec557999d34638f8e",
+    "file_url": "https://cdn.jsdelivr.net/gh/dfm/corner.py@88054ae759391ad463fd6fdec557999d34638f8e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-2-Clause",
+    "stars": 580,
+    "size_mb": 19,
+    "created_at": "2012-09-06T18:51:44Z",
+    "last_commit_at": "2026-11-12T02:18:58Z",
+    "releases": 18,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "v2.3.0",
+      "at": "2026-07-05T17:55:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-12T02:18:58Z"
+}

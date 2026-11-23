@@ -1,0 +1,58 @@
+{
+  "id": "gh:zatom-ai/zatom",
+  "kind": "repo",
+  "url": "https://github.com/Zatom-AI/zatom",
+  "title": "zatom",
+  "why": "Generates 3D molecules and crystal materials from pretrained checkpoints, and trains new ones on QM9 and MP20 data.",
+  "keys": {
+    "races": [
+      "sci/sciml",
+      "engineering/chemistry",
+      "ml/open-models"
+    ],
+    "lanes": [
+      "sci/sciml",
+      "engineering/chemistry",
+      "ml/open-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Zatom-AI/zatom",
+    "sha": "0d4676571d9958e1bc072fe57144451474d2e3ac",
+    "file_url": "https://raw.githubusercontent.com/Zatom-AI/zatom/0d4676571d9958e1bc072fe57144451474d2e3ac/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 57,
+    "size_mb": 91,
+    "created_at": "2025-08-14T23:53:06Z",
+    "last_commit_at": "2026-07-25T19:15:19Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-07-25T19:15:19Z"
+}

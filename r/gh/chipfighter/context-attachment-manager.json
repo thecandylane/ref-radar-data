@@ -1,0 +1,61 @@
+{
+  "id": "gh:chipfighter/context-attachment-manager",
+  "kind": "repo",
+  "url": "https://github.com/chipfighter/context-attachment-manager",
+  "title": "context-attachment-manager",
+  "why": "Rewrites pasted images in Claude and Codex sessions into small thumbnails and keeps a pixel hash cache, so long session logs shrink.",
+  "keys": {
+    "races": [
+      "agents/context",
+      "agents/coding"
+    ],
+    "lanes": [
+      "agents/context",
+      "agents/coding"
+    ],
+    "capabilities": [
+      "agents/context/context-compaction",
+      "agents/coding/plugin-architectures"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/chipfighter/context-attachment-manager",
+    "sha": "d68a721b7432059c9056d546ff2a26b11b3c0e0c",
+    "file_url": "https://cdn.jsdelivr.net/gh/chipfighter/context-attachment-manager@d68a721b7432059c9056d546ff2a26b11b3c0e0c/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 815,
+    "size_mb": 32,
+    "created_at": "2026-09-24T05:00:09Z",
+    "last_commit_at": "2026-11-23T04:35:51Z",
+    "releases": 24,
+    "tags": 24,
+    "archived": false,
+    "release": {
+      "tag": "v0.13.1",
+      "at": "2026-11-23T04:38:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

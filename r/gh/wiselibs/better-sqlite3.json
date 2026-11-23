@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e6f92bfec30f843d9b48f6e68dba9ab170361e7f"
+  },
+  "id": "gh:wiselibs/better-sqlite3",
+  "kind": "repo",
+  "url": "https://github.com/WiseLibs/better-sqlite3",
+  "title": "better-sqlite3",
+  "why": "Synchronous SQLite3 binding for Node.js with transactions, user-defined functions, worker thread support and 64-bit integers.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/WiseLibs/better-sqlite3",
+    "sha": "e6f92bfec30f843d9b48f6e68dba9ab170361e7f",
+    "file_url": "https://cdn.jsdelivr.net/gh/WiseLibs/better-sqlite3@e6f92bfec30f843d9b48f6e68dba9ab170361e7f/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 7558,
+    "size_mb": 125,
+    "created_at": "2016-09-07T16:48:37Z",
+    "last_commit_at": "2026-11-14T09:02:53Z",
+    "releases": 133,
+    "tags": 182,
+    "archived": false,
+    "release": {
+      "tag": "v13.2.0",
+      "at": "2026-11-14T09:11:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-14T09:02:53Z"
+}

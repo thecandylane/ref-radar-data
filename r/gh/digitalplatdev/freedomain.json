@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9c7c54110705760267b07b6e6a6d406d1172a1bf"
+  },
+  "id": "gh:digitalplatdev/freedomain",
+  "kind": "repo",
+  "url": "https://github.com/DigitalPlatDev/FreeDomain",
+  "title": "FreeDomain",
+  "why": "A book-style DNS course that takes a project from domain registration through custom nameservers to deployment.",
+  "keys": {
+    "races": [
+      "learning/courses",
+      "infra/networking"
+    ],
+    "lanes": [
+      "learning/courses",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/DigitalPlatDev/FreeDomain",
+    "sha": "9c7c54110705760267b07b6e6a6d406d1172a1bf",
+    "file_url": "https://cdn.jsdelivr.net/gh/DigitalPlatDev/FreeDomain@9c7c54110705760267b07b6e6a6d406d1172a1bf/{path}"
+  },
+  "facts": {
+    "lang": "Markdown",
+    "license": "AGPL-3.0",
+    "stars": 209023,
+    "size_mb": 1,
+    "created_at": "2024-05-30T13:23:00Z",
+    "last_commit_at": "2026-08-12T10:36:42Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-08-12T10:36:42Z"
+}

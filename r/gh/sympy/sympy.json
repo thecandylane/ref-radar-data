@@ -24,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/sympy/sympy",
-    "sha": "70145823b48fec69f83a3e793ea544843d15e06f",
-    "file_url": "https://cdn.jsdelivr.net/gh/sympy/sympy@70145823b48fec69f83a3e793ea544843d15e06f/{path}"
+    "sha": "89cdf22cb75679616196c053aadbd6071443ee31",
+    "file_url": "https://cdn.jsdelivr.net/gh/sympy/sympy@89cdf22cb75679616196c053aadbd6071443ee31/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 15118,
+    "stars": 15122,
     "size_mb": 194,
     "created_at": "2010-04-30T20:37:14Z",
-    "last_commit_at": "2026-11-21T22:34:05Z",
+    "last_commit_at": "2026-11-22T22:03:08Z",
     "releases": 61,
     "tags": 118,
     "archived": false,
@@ -55,8 +55,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "70145823b48fec69f83a3e793ea544843d15e06f",
-    "v": 4
-  }
+  "pins_before": [
+    "70145823b48fec69f83a3e793ea544843d15e06f"
+  ],
+  "pinned_at": "2026-11-22T22:03:08Z"
 }

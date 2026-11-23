@@ -1,0 +1,61 @@
+{
+  "id": "gh:ncar/wrf_hydro_nwm_public",
+  "kind": "repo",
+  "url": "https://github.com/NCAR/wrf_hydro_nwm_public",
+  "title": "wrf_hydro_nwm_public",
+  "why": "Runs the WRF-Hydro model coupled to MODFLOW through a BMI interface, plus tools that split domains for parallel runs.",
+  "keys": {
+    "races": [
+      "environment/earth-data"
+    ],
+    "lanes": [
+      "environment/earth-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NCAR/wrf_hydro_nwm_public",
+    "sha": "ca0beb55e982289b592955e3f1c97734397d39f1",
+    "file_url": "https://cdn.jsdelivr.net/gh/NCAR/wrf_hydro_nwm_public@ca0beb55e982289b592955e3f1c97734397d39f1/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "NOASSERTION",
+    "stars": 249,
+    "size_mb": 30,
+    "created_at": "2018-02-16T21:25:17Z",
+    "last_commit_at": "2026-11-19T17:17:51Z",
+    "releases": 11,
+    "tags": 49,
+    "archived": false,
+    "release": {
+      "tag": "v5.4.0",
+      "at": "2025-03-14T22:55:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-19T17:17:51Z"
+}

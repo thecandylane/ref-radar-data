@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fca01b87e5306d5dd152390a41d05e191f9363e7"
+  },
+  "id": "gh:jeffwong/pdist",
+  "kind": "repo",
+  "url": "https://github.com/jeffwong/pdist",
+  "title": "pdist",
+  "why": "Gives an m by n distance matrix between two sets of observations, skipping the within-set pairs that base R dist computes.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "data/statistics",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jeffwong/pdist",
+    "sha": "fca01b87e5306d5dd152390a41d05e191f9363e7",
+    "file_url": "https://cdn.jsdelivr.net/gh/jeffwong/pdist@fca01b87e5306d5dd152390a41d05e191f9363e7/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 8,
+    "size_mb": 0,
+    "created_at": "2012-11-11T19:13:14Z",
+    "last_commit_at": "2014-04-09T20:54:37Z",
+    "releases": 0,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2014-04-09T20:54:37Z"
+}

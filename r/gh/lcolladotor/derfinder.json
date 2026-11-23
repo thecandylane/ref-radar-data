@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:38d7a03c2f39137f65b714b00e5dbf659571a586"
+  },
+  "id": "gh:lcolladotor/derfinder",
+  "kind": "repo",
+  "url": "https://github.com/lcolladotor/derfinder",
+  "title": "derfinder",
+  "why": "Finds differentially expressed regions in RNA-seq data at base-pair resolution, without needing a gene annotation to define them.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lcolladotor/derfinder",
+    "sha": "38d7a03c2f39137f65b714b00e5dbf659571a586",
+    "file_url": "https://cdn.jsdelivr.net/gh/lcolladotor/derfinder@38d7a03c2f39137f65b714b00e5dbf659571a586/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 45,
+    "size_mb": 13,
+    "created_at": "2013-07-18T15:31:22Z",
+    "last_commit_at": "2026-03-31T17:13:32Z",
+    "releases": 0,
+    "tags": 17,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-03-31T17:13:32Z"
+}

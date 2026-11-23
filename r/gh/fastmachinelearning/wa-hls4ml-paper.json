@@ -1,0 +1,58 @@
+{
+  "id": "gh:fastmachinelearning/wa-hls4ml-paper",
+  "kind": "repo",
+  "url": "https://github.com/fastmachinelearning/wa-hls4ml-paper",
+  "title": "wa-hls4ml-paper",
+  "why": "Plots, GNN and Transformer surrogate training, and dataset generation behind the wa-hls4ml paper, predicting FPGA resource use and latency before synthesis.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "sci/sciml",
+      "engineering/hdl"
+    ],
+    "lanes": [
+      "ml/training",
+      "sci/sciml",
+      "engineering/hdl"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fastmachinelearning/wa-hls4ml-paper",
+    "sha": "d28e5471d68637255ee5b9ea9df1ff4bdd41a862",
+    "file_url": "https://cdn.jsdelivr.net/gh/fastmachinelearning/wa-hls4ml-paper@d28e5471d68637255ee5b9ea9df1ff4bdd41a862/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "NOASSERTION",
+    "stars": 2,
+    "size_mb": 2,
+    "created_at": "2025-06-06T19:13:06Z",
+    "last_commit_at": "2026-01-28T21:21:29Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-01-28T21:21:29Z"
+}

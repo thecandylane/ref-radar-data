@@ -34,8 +34,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/treeverse/lakeFS",
-    "sha": "20cbb145c6345336ea30ad3a272d0664ca5a949e",
-    "file_url": "https://cdn.jsdelivr.net/gh/treeverse/lakeFS@20cbb145c6345336ea30ad3a272d0664ca5a949e/{path}"
+    "sha": "bb048e4ca30dc0ed52f58cde31f458d6b7618904",
+    "file_url": "https://cdn.jsdelivr.net/gh/treeverse/lakeFS@bb048e4ca30dc0ed52f58cde31f458d6b7618904/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -60,13 +60,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "20cbb145c6345336ea30ad3a272d0664ca5a949e",
-    "v": 3
-  }
+  "pins_before": [
+    "20cbb145c6345336ea30ad3a272d0664ca5a949e"
+  ],
+  "pinned_at": "2026-11-19T13:09:41Z"
 }

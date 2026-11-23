@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a8a24de3ff394f77d599ea8ba9c073398670c880"
-  },
   "id": "gh:flipperdevices/flipperzero-firmware",
   "kind": "repo",
   "url": "https://github.com/flipperdevices/flipperzero-firmware",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/flipperdevices/flipperzero-firmware",
-    "sha": "a8a24de3ff394f77d599ea8ba9c073398670c880",
-    "file_url": "https://cdn.jsdelivr.net/gh/flipperdevices/flipperzero-firmware@a8a24de3ff394f77d599ea8ba9c073398670c880/{path}"
+    "sha": "e459e2d939db7f292d7dcfe6935b8fb2641409e3",
+    "file_url": "https://cdn.jsdelivr.net/gh/flipperdevices/flipperzero-firmware@e459e2d939db7f292d7dcfe6935b8fb2641409e3/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "GPL-3.0",
-    "stars": 16954,
+    "stars": 16962,
     "size_mb": 78,
     "created_at": "2020-07-31T21:43:20Z",
     "last_commit_at": "2026-11-21T23:05:55Z",
@@ -57,18 +54,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 58,
+    "star_delta_7d": 59,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "a8a24de3ff394f77d599ea8ba9c073398670c880",
-    "v": 4
-  },
   "pins_before": [
+    "a8a24de3ff394f77d599ea8ba9c073398670c880",
     "3060cee9bac71d332dc7629191ae1aeb1edaac33"
   ],
-  "pinned_at": "2026-11-14T15:15:03Z",
+  "pinned_at": "2026-11-21T23:05:55Z",
   "hot": true
 }

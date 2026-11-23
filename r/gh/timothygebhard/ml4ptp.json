@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:beccb9895ccfb463a4ef857585039f5710da24e9"
+  },
+  "id": "gh:timothygebhard/ml4ptp",
+  "kind": "repo",
+  "url": "https://github.com/timothygebhard/ml4ptp",
+  "title": "ml4ptp",
+  "why": "Neural networks that predict pressure-temperature profiles of exoplanet atmospheres, with training scripts and the trained models from the paper.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/timothygebhard/ml4ptp",
+    "sha": "beccb9895ccfb463a4ef857585039f5710da24e9",
+    "file_url": "https://cdn.jsdelivr.net/gh/timothygebhard/ml4ptp@beccb9895ccfb463a4ef857585039f5710da24e9/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 7,
+    "size_mb": 1,
+    "created_at": "2021-05-04T20:34:38Z",
+    "last_commit_at": "2024-11-04T15:32:07Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2024-11-04T15:32:07Z"
+}

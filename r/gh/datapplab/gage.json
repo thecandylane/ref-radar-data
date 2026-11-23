@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d99df9a469281bb763888db97df56b0d0b41bbc5"
+  },
+  "id": "gh:datapplab/gage",
+  "kind": "repo",
+  "url": "https://github.com/datapplab/gage",
+  "title": "gage",
+  "why": "R package for gene set and pathway enrichment on microarray or RNA-Seq data, with KEGG and GO gene sets built in.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/datapplab/gage",
+    "sha": "d99df9a469281bb763888db97df56b0d0b41bbc5",
+    "file_url": "https://cdn.jsdelivr.net/gh/datapplab/gage@d99df9a469281bb763888db97df56b0d0b41bbc5/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 6,
+    "size_mb": 2,
+    "created_at": "2020-07-18T21:09:05Z",
+    "last_commit_at": "2022-08-28T00:51:11Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2022-08-28T00:51:11Z"
+}

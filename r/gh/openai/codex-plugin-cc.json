@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:db52e28f4d9ded852ab3942cea316258ae4ef346"
+  },
+  "id": "gh:openai/codex-plugin-cc",
+  "kind": "repo",
+  "url": "https://github.com/openai/codex-plugin-cc",
+  "title": "codex-plugin-cc",
+  "why": "Adds Codex review and task delegation inside Claude Code, with background jobs you can check, resume or cancel.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "dev-tools/code-review",
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/coding",
+      "dev-tools/code-review",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "dev-tools/code-review/ai-code-review",
+      "agents/skills/plugin-specs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openai/codex-plugin-cc",
+    "sha": "db52e28f4d9ded852ab3942cea316258ae4ef346",
+    "file_url": "https://cdn.jsdelivr.net/gh/openai/codex-plugin-cc@db52e28f4d9ded852ab3942cea316258ae4ef346/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "Apache-2.0",
+    "stars": 35375,
+    "size_mb": 0,
+    "created_at": "2026-03-30T15:29:52Z",
+    "last_commit_at": "2026-07-08T00:17:00Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.6",
+      "at": "2026-07-08T00:17:32.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-07-08T00:17:00Z"
+}

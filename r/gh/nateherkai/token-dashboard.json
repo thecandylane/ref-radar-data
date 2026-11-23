@@ -1,0 +1,56 @@
+{
+  "id": "gh:nateherkai/token-dashboard",
+  "kind": "repo",
+  "url": "https://github.com/nateherkai/token-dashboard",
+  "title": "token-dashboard",
+  "why": "Ranks the costliest prompts from Claude Code transcripts, deduping streamed responses by message id so totals match billing.",
+  "keys": {
+    "races": [
+      "agents/context",
+      "data/analytics"
+    ],
+    "lanes": [
+      "agents/context",
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nateherkai/token-dashboard",
+    "sha": "537565052f3be89cd4d925e0205f78d9d6f4cfd7",
+    "file_url": "https://cdn.jsdelivr.net/gh/nateherkai/token-dashboard@537565052f3be89cd4d925e0205f78d9d6f4cfd7/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 780,
+    "size_mb": 1,
+    "created_at": "2026-04-20T01:10:22Z",
+    "last_commit_at": "2026-04-20T20:18:24Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-04-20T20:18:24Z"
+}

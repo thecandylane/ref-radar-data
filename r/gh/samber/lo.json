@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6f5a63afb19f34755bea97f2b37a0a7f3814f80c"
+  },
+  "id": "gh:samber/lo",
+  "kind": "repo",
+  "url": "https://github.com/samber/lo",
+  "title": "lo",
+  "why": "Generic helpers for Go slices, maps, strings, channels and tuples, with parallel and in-place variants and no outside dependencies.",
+  "keys": {
+    "races": [
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/skills"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/samber/lo",
+    "sha": "6f5a63afb19f34755bea97f2b37a0a7f3814f80c",
+    "file_url": "https://cdn.jsdelivr.net/gh/samber/lo@6f5a63afb19f34755bea97f2b37a0a7f3814f80c/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 21453,
+    "size_mb": 9,
+    "created_at": "2022-03-02T12:48:45Z",
+    "last_commit_at": "2026-11-01T04:34:09Z",
+    "releases": 63,
+    "tags": 64,
+    "archived": false,
+    "release": {
+      "tag": "v1.53.0",
+      "at": "2026-03-02T15:10:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-01T04:34:09Z"
+}

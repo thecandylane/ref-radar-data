@@ -1,0 +1,67 @@
+{
+  "id": "gh:questdb/questdb",
+  "kind": "repo",
+  "url": "https://github.com/questdb/questdb",
+  "title": "questdb",
+  "why": "Time-series SQL database that ingests millions of events per second and matches trades to quotes with ASOF JOIN.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "finance/markets",
+      "data/analytics"
+    ],
+    "lanes": [
+      "data/databases",
+      "finance/markets",
+      "data/analytics"
+    ],
+    "capabilities": [
+      "finance/markets/market-data"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/questdb/questdb",
+    "sha": "fd97aa17b37b50730be6d0634e59ab6bb1f64e88",
+    "file_url": "https://raw.githubusercontent.com/questdb/questdb/fd97aa17b37b50730be6d0634e59ab6bb1f64e88/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 17546,
+    "size_mb": 2203,
+    "created_at": "2014-04-28T23:29:15Z",
+    "last_commit_at": "2026-11-21T00:18:10Z",
+    "releases": 113,
+    "tags": 135,
+    "archived": false,
+    "release": {
+      "tag": "10.2.0",
+      "at": "2026-11-10T10:22:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-21T00:18:10Z"
+}

@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:4c4ec4aaabc6d70288d53e10203c6d271f0cac7a"
+    "swh": "swh:1:rev:809ffffd5c8436e7458b9a2c494ce3fe7f8ef0bc"
   },
   "id": "gh:meta/docusaurus",
   "kind": "repo",
@@ -31,13 +31,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/meta/docusaurus",
-    "sha": "4c4ec4aaabc6d70288d53e10203c6d271f0cac7a",
-    "file_url": "https://cdn.jsdelivr.net/gh/meta/docusaurus@4c4ec4aaabc6d70288d53e10203c6d271f0cac7a/{path}"
+    "sha": "809ffffd5c8436e7458b9a2c494ce3fe7f8ef0bc",
+    "file_url": "https://cdn.jsdelivr.net/gh/meta/docusaurus@809ffffd5c8436e7458b9a2c494ce3fe7f8ef0bc/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 66783,
+    "stars": 66788,
     "size_mb": 1636,
     "created_at": "2017-06-20T16:13:53Z",
     "last_commit_at": "2026-11-19T16:27:53Z",
@@ -57,18 +57,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 42,
+    "star_delta_7d": 43,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "4c4ec4aaabc6d70288d53e10203c6d271f0cac7a",
-    "v": 4
-  },
   "pins_before": [
+    "4c4ec4aaabc6d70288d53e10203c6d271f0cac7a",
     "c00f04e2376e057090d65d6bfb6a82d49ea3eca6"
   ],
-  "pinned_at": "2026-11-13T16:04:43Z",
+  "pinned_at": "2026-11-19T16:27:53Z",
   "hot": true
 }

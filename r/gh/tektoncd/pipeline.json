@@ -38,8 +38,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/tektoncd/pipeline",
-    "sha": "0471357113635b9751b99ab0049abe5077d487d9",
-    "file_url": "https://cdn.jsdelivr.net/gh/tektoncd/pipeline@0471357113635b9751b99ab0049abe5077d487d9/{path}"
+    "sha": "3fe337ff1878f5037e2a4d5be288080306d617a7",
+    "file_url": "https://cdn.jsdelivr.net/gh/tektoncd/pipeline@3fe337ff1878f5037e2a4d5be288080306d617a7/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -69,8 +69,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "0471357113635b9751b99ab0049abe5077d487d9",
-    "v": 3
-  }
+  "pins_before": [
+    "0471357113635b9751b99ab0049abe5077d487d9"
+  ],
+  "pinned_at": "2026-11-21T20:19:37Z"
 }

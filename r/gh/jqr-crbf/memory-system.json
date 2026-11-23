@@ -1,0 +1,60 @@
+{
+  "id": "gh:jqr-crbf/memory-system",
+  "kind": "repo",
+  "url": "https://github.com/JQR-crbf/memory-system",
+  "title": "memory-system",
+  "why": "Splits memory into 6 layers (profile, timeline, graph, goals) and sends each question to the layers it needs.",
+  "keys": {
+    "races": [
+      "agents/memory"
+    ],
+    "lanes": [
+      "agents/memory"
+    ],
+    "capabilities": [
+      "agents/memory/long-term-memory"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/JQR-crbf/memory-system",
+    "sha": "75a6d69c2a6ecb792a1998b1acdf9509e03a07de",
+    "file_url": "https://cdn.jsdelivr.net/gh/JQR-crbf/memory-system@75a6d69c2a6ecb792a1998b1acdf9509e03a07de/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 754,
+    "size_mb": 0,
+    "created_at": "2026-03-09T04:09:34Z",
+    "last_commit_at": "2026-03-09T05:27:50Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-03-09T05:27:50Z"
+}

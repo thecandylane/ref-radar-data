@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1045c7062173af5b204863ccd533567aa0492584"
+  },
+  "id": "gh:kube-green/kube-green",
+  "kind": "repo",
+  "url": "https://github.com/kube-green/kube-green",
+  "title": "kube-green",
+  "why": "Kubernetes operator that puts dev and preview workloads to sleep at night and weekends, using a SleepInfo resource with time zones.",
+  "keys": {
+    "races": [
+      "infra/kubernetes",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "infra/kubernetes",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kube-green/kube-green",
+    "sha": "1045c7062173af5b204863ccd533567aa0492584",
+    "file_url": "https://cdn.jsdelivr.net/gh/kube-green/kube-green@1045c7062173af5b204863ccd533567aa0492584/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 1390,
+    "size_mb": 2,
+    "created_at": "2021-02-21T17:50:33Z",
+    "last_commit_at": "2026-06-02T17:07:12Z",
+    "releases": 14,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.1",
+      "at": "2025-06-29T15:46:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-06-02T17:07:12Z"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "gh:colinnarug/robot-alignment",
+  "kind": "repo",
+  "url": "https://github.com/ColinNarug/Robot-Alignment",
+  "title": "Robot-Alignment",
+  "why": "ROS 2 workspace that aligns an SRF coupler flange to a cavity flange with a Universal Robots arm, AprilTag pose estimation and visual servoing.",
+  "keys": {
+    "races": [
+      "embedded/robotics"
+    ],
+    "lanes": [
+      "embedded/robotics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ColinNarug/Robot-Alignment",
+    "sha": "ba0f42a9d302a0e7688fc38b2cf3963801172085",
+    "file_url": "https://raw.githubusercontent.com/ColinNarug/Robot-Alignment/ba0f42a9d302a0e7688fc38b2cf3963801172085/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 3,
+    "size_mb": 844,
+    "created_at": "2025-08-04T14:19:04Z",
+    "last_commit_at": "2026-05-16T19:48:10Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "clonezilla-operation-video",
+      "at": "2026-05-16T19:42:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-05-16T19:48:10Z"
+}

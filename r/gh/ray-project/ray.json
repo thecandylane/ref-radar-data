@@ -1,0 +1,96 @@
+{
+  "id": "gh:ray-project/ray",
+  "kind": "repo",
+  "url": "https://github.com/ray-project/ray",
+  "title": "ray",
+  "why": "Scales the same Python code from a laptop to a cluster, with Tune, RLlib and Serve for ML workloads.",
+  "keys": {
+    "races": [
+      "sci/hpc",
+      "ml/training",
+      "llm-infra/inference",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "sci/hpc",
+      "ml/training",
+      "llm-infra/inference",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ray-project/ray",
+    "sha": "63c2cc2d5ecf9e9271dd5d7270a6f7ac5b5078a6",
+    "file_url": "https://raw.githubusercontent.com/ray-project/ray/63c2cc2d5ecf9e9271dd5d7270a6f7ac5b5078a6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 44366,
+    "size_mb": 851,
+    "created_at": "2016-10-25T19:38:30Z",
+    "last_commit_at": "2026-11-23T06:53:45Z",
+    "releases": 135,
+    "tags": 141,
+    "archived": false,
+    "release": {
+      "tag": "ray-2.60.0",
+      "at": "2026-11-04T02:08:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pins_before": [
+    "dfe9d1e01c76a1f0416df5e5a07168f2acc46974"
+  ],
+  "pinned_at": "2026-11-23T06:53:45Z",
+  "papers": [
+    {
+      "id": "arxiv:2011.12719",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1807.05118",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1712.09381",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1712.05889",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

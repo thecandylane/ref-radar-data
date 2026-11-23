@@ -1,0 +1,65 @@
+{
+  "id": "gh:othmane-khadri/yalc-the-gtm-operating-system",
+  "kind": "repo",
+  "url": "https://github.com/Othmane-Khadri/YALC-the-GTM-operating-system",
+  "title": "YALC-the-GTM-operating-system",
+  "why": "Runs preset GTM agents against your CRM and sequencer from the terminal, and borrows Claude Code as the LLM when no Anthropic key exists.",
+  "keys": {
+    "races": [
+      "sales/prospecting",
+      "sales/crm",
+      "agents/skills"
+    ],
+    "lanes": [
+      "sales/prospecting",
+      "sales/crm",
+      "agents/skills"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Othmane-Khadri/YALC-the-GTM-operating-system",
+    "sha": "5686d1f2f526346133f78eef3349fc5a655757b4",
+    "file_url": "https://cdn.jsdelivr.net/gh/Othmane-Khadri/YALC-the-GTM-operating-system@5686d1f2f526346133f78eef3349fc5a655757b4/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 330,
+    "size_mb": 3,
+    "created_at": "2026-01-04T10:21:22Z",
+    "last_commit_at": "2026-08-20T16:57:18Z",
+    "releases": 5,
+    "tags": 22,
+    "archived": false,
+    "release": {
+      "tag": "v0.13.2",
+      "at": "2026-05-01T18:26:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-08-20T16:57:18Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "gh:photoprism/photoprism",
+  "kind": "repo",
+  "url": "https://github.com/photoprism/photoprism",
+  "title": "photoprism",
+  "why": "Self-hosted photo browser that labels pictures by content and location and recognizes faces, with search filters across RAW and video.",
+  "keys": {
+    "races": [
+      "media/photo-editing",
+      "infra/hosting",
+      "ml/vision"
+    ],
+    "lanes": [
+      "media/photo-editing",
+      "infra/hosting",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/photoprism/photoprism",
+    "sha": "6383b439983d6a9d558876f64a5cdb83477df9df",
+    "file_url": "https://cdn.jsdelivr.net/gh/photoprism/photoprism@6383b439983d6a9d558876f64a5cdb83477df9df/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "NOASSERTION",
+    "stars": 40471,
+    "size_mb": 406,
+    "created_at": "2018-01-27T12:00:15Z",
+    "last_commit_at": "2026-11-20T15:30:32Z",
+    "releases": 86,
+    "tags": 86,
+    "archived": false,
+    "release": {
+      "tag": "261029-963b58c50",
+      "at": "2026-10-29T22:20:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-20T15:30:32Z"
+}

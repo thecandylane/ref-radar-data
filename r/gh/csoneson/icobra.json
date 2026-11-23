@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:88db64687355e49d27c434c3da078ede61508dcd"
-  },
   "id": "gh:csoneson/icobra",
   "kind": "repo",
   "url": "https://github.com/csoneson/iCOBRA",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/csoneson/iCOBRA",
-    "sha": "88db64687355e49d27c434c3da078ede61508dcd",
-    "file_url": "https://cdn.jsdelivr.net/gh/csoneson/iCOBRA@88db64687355e49d27c434c3da078ede61508dcd/{path}"
+    "sha": "bf1fe29746fd12f3041095231d001df8db6bc03f",
+    "file_url": "https://cdn.jsdelivr.net/gh/csoneson/iCOBRA@bf1fe29746fd12f3041095231d001df8db6bc03f/{path}"
   },
   "facts": {
     "lang": "R",
@@ -34,14 +31,14 @@
     "stars": 18,
     "size_mb": 21,
     "created_at": "2015-10-12T13:53:25Z",
-    "last_commit_at": "2026-05-14T06:29:43Z",
+    "last_commit_at": "2026-11-22T09:48:13Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
     "release": null
   },
   "reuse": "copy",
-  "maturity": "quiet",
+  "maturity": "unreleased",
   "status": null,
   "stats": {
     "picks": {},
@@ -53,9 +50,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "88db64687355e49d27c434c3da078ede61508dcd",
-    "v": 3
-  },
-  "pinned_at": "2026-05-14T06:29:43Z"
+  "pins_before": [
+    "88db64687355e49d27c434c3da078ede61508dcd"
+  ],
+  "pinned_at": "2026-11-22T09:48:13Z"
 }

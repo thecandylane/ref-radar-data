@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:190ad19ac86941b3492d4c18d20269749f8a1cd8"
+  },
+  "id": "gh:traccar/traccar-client-android",
+  "kind": "repo",
+  "url": "https://github.com/traccar/traccar-client-android",
+  "title": "traccar-client-android",
+  "why": "Old Android GPS client for Traccar, kept for reference since new issues and code moved to the newer traccar-client repo.",
+  "keys": {
+    "races": [
+      "mobile/android",
+      "logistics/fleet-freight"
+    ],
+    "lanes": [
+      "mobile/android",
+      "logistics/fleet-freight"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/traccar/traccar-client-android",
+    "sha": "190ad19ac86941b3492d4c18d20269749f8a1cd8",
+    "file_url": "https://cdn.jsdelivr.net/gh/traccar/traccar-client-android@190ad19ac86941b3492d4c18d20269749f8a1cd8/{path}"
+  },
+  "facts": {
+    "lang": "Kotlin",
+    "license": "Apache-2.0",
+    "stars": 765,
+    "size_mb": 2,
+    "created_at": "2012-07-29T15:43:50Z",
+    "last_commit_at": "2025-06-07T14:36:15Z",
+    "releases": 63,
+    "tags": 76,
+    "archived": false,
+    "release": {
+      "tag": "v7.9",
+      "at": "2025-04-17T14:23:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-06-07T14:36:15Z"
+}

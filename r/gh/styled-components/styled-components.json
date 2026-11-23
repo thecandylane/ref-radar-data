@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:734e2b34c3eae9474da6e691b4897f58ab0b3e4f"
+    "swh": "swh:1:rev:e2aa1c8f6e40b74ae164e7489f68067019d47772"
   },
   "id": "gh:styled-components/styled-components",
   "kind": "repo",
@@ -33,8 +33,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/styled-components/styled-components",
-    "sha": "734e2b34c3eae9474da6e691b4897f58ab0b3e4f",
-    "file_url": "https://cdn.jsdelivr.net/gh/styled-components/styled-components@734e2b34c3eae9474da6e691b4897f58ab0b3e4f/{path}"
+    "sha": "e2aa1c8f6e40b74ae164e7489f68067019d47772",
+    "file_url": "https://cdn.jsdelivr.net/gh/styled-components/styled-components@e2aa1c8f6e40b74ae164e7489f68067019d47772/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -59,13 +59,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 13,
+    "star_delta_7d": 15,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "734e2b34c3eae9474da6e691b4897f58ab0b3e4f",
-    "v": 3
-  }
+  "pins_before": [
+    "734e2b34c3eae9474da6e691b4897f58ab0b3e4f"
+  ],
+  "pinned_at": "2026-11-10T05:30:36Z"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:6fcdcdca9acbac1882c1fa205495d04fa7194435"
-  },
   "id": "gh:supabase/supabase",
   "kind": "repo",
   "url": "https://github.com/supabase/supabase",
@@ -39,16 +36,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/supabase/supabase",
-    "sha": "6fcdcdca9acbac1882c1fa205495d04fa7194435",
-    "file_url": "https://raw.githubusercontent.com/supabase/supabase/6fcdcdca9acbac1882c1fa205495d04fa7194435/{path}"
+    "sha": "c3a7e1019e76c1cb05d5b1a659db6748714af499",
+    "file_url": "https://raw.githubusercontent.com/supabase/supabase/c3a7e1019e76c1cb05d5b1a659db6748714af499/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 115290,
-    "size_mb": 2471,
+    "stars": 115378,
+    "size_mb": 2473,
     "created_at": "2019-10-12T05:56:49Z",
-    "last_commit_at": "2026-11-21T01:14:12Z",
+    "last_commit_at": "2026-11-23T09:38:29Z",
     "releases": 30,
     "tags": 64,
     "archived": false,
@@ -65,14 +62,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 237,
+    "star_delta_7d": 298,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "6fcdcdca9acbac1882c1fa205495d04fa7194435",
-    "v": 3
-  },
+  "pins_before": [
+    "6fcdcdca9acbac1882c1fa205495d04fa7194435"
+  ],
+  "pinned_at": "2026-11-23T09:38:29Z",
   "hot": true
 }

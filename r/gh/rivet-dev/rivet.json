@@ -24,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/rivet-dev/rivet",
-    "sha": "319e4d2940089bc6db42d2f99c6d83dcd33aaa3a",
-    "file_url": "https://cdn.jsdelivr.net/gh/rivet-dev/rivet@319e4d2940089bc6db42d2f99c6d83dcd33aaa3a/{path}"
+    "sha": "de28d208dceee335af6d2f6e858792f703c1eff2",
+    "file_url": "https://cdn.jsdelivr.net/gh/rivet-dev/rivet@de28d208dceee335af6d2f6e858792f703c1eff2/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 6970,
+    "stars": 6974,
     "size_mb": 420,
     "created_at": "2023-06-16T11:51:15Z",
     "last_commit_at": "2026-11-21T01:12:01Z",
@@ -50,15 +50,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 51,
+    "star_delta_7d": 43,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "319e4d2940089bc6db42d2f99c6d83dcd33aaa3a",
-    "v": 3
-  },
-  "pinned_at": "2026-11-11T22:42:40Z",
+  "pins_before": [
+    "319e4d2940089bc6db42d2f99c6d83dcd33aaa3a"
+  ],
+  "pinned_at": "2026-11-21T01:12:01Z",
   "hot": true
 }

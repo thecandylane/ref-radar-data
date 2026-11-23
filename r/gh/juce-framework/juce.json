@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:d60b7a78030661574a615b586d9325ba7a7fa7dd"
+    "swh": "swh:1:rev:654bdbc7a9db0dae90849b44abe91f339e9f0768"
   },
   "id": "gh:juce-framework/juce",
   "kind": "repo",
@@ -25,13 +25,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/juce-framework/JUCE",
-    "sha": "d60b7a78030661574a615b586d9325ba7a7fa7dd",
-    "file_url": "https://cdn.jsdelivr.net/gh/juce-framework/JUCE@d60b7a78030661574a615b586d9325ba7a7fa7dd/{path}"
+    "sha": "654bdbc7a9db0dae90849b44abe91f339e9f0768",
+    "file_url": "https://cdn.jsdelivr.net/gh/juce-framework/JUCE@654bdbc7a9db0dae90849b44abe91f339e9f0768/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "NOASSERTION",
-    "stars": 9169,
+    "stars": 9172,
     "size_mb": 284,
     "created_at": "2012-03-31T11:19:43Z",
     "last_commit_at": "2026-11-19T16:04:56Z",
@@ -56,9 +56,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "d60b7a78030661574a615b586d9325ba7a7fa7dd",
-    "v": 3
-  },
-  "pinned_at": "2026-11-02T12:32:17Z"
+  "pins_before": [
+    "d60b7a78030661574a615b586d9325ba7a7fa7dd"
+  ],
+  "pinned_at": "2026-11-19T16:04:56Z"
 }

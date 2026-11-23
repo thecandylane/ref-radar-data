@@ -1,0 +1,56 @@
+{
+  "id": "gh:alschechter/cosmicnoonmergerid",
+  "kind": "repo",
+  "url": "https://github.com/alschechter/CosmicNoonMergerID",
+  "title": "CosmicNoonMergerID",
+  "why": "Trains a ConvNeXT-nano network on mock HST images to flag merging galaxies near cosmic noon, with GradCAM maps for the test set.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "ml/vision"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/alschechter/CosmicNoonMergerID",
+    "sha": "1c7b719ed0cd50566baf0eaf3cf492d2f98994ec",
+    "file_url": "https://cdn.jsdelivr.net/gh/alschechter/CosmicNoonMergerID@1c7b719ed0cd50566baf0eaf3cf492d2f98994ec/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 42,
+    "created_at": "2025-08-21T16:37:29Z",
+    "last_commit_at": "2026-04-12T18:26:51Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-04-12T18:26:51Z"
+}

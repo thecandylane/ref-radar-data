@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f772c341be12a04499b1f7733cd072e509facb49"
+  },
+  "id": "gh:egagli/sar_snowmelt_timing",
+  "kind": "repo",
+  "url": "https://github.com/egagli/sar_snowmelt_timing",
+  "title": "sar_snowmelt_timing",
+  "why": "Identifies snowmelt timing from Sentinel-1 C-band SAR backscatter time series, the research prototype behind a 2023 paper.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/egagli/sar_snowmelt_timing",
+    "sha": "f772c341be12a04499b1f7733cd072e509facb49",
+    "file_url": "https://raw.githubusercontent.com/egagli/sar_snowmelt_timing/f772c341be12a04499b1f7733cd072e509facb49/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 42,
+    "size_mb": 1082,
+    "created_at": "2021-11-30T21:36:24Z",
+    "last_commit_at": "2026-08-14T19:33:26Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2023-05-23T23:30:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-08-14T19:33:26Z"
+}

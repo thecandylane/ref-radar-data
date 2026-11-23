@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a6099719c8c0762e2caaeb4af0969ad43e9615e9"
-  },
   "id": "gh:zitadel/zitadel",
   "kind": "repo",
   "url": "https://github.com/zitadel/zitadel",
@@ -47,13 +44,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/zitadel/zitadel",
-    "sha": "a6099719c8c0762e2caaeb4af0969ad43e9615e9",
-    "file_url": "https://raw.githubusercontent.com/zitadel/zitadel/a6099719c8c0762e2caaeb4af0969ad43e9615e9/{path}"
+    "sha": "5712a60cbca958ab0bcca5aabf70dd3eb03a720f",
+    "file_url": "https://raw.githubusercontent.com/zitadel/zitadel/5712a60cbca958ab0bcca5aabf70dd3eb03a720f/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "AGPL-3.0",
-    "stars": 15632,
+    "stars": 15637,
     "size_mb": 586,
     "created_at": "2020-03-16T13:51:31Z",
     "last_commit_at": "2026-11-20T06:59:02Z",
@@ -78,8 +75,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "a6099719c8c0762e2caaeb4af0969ad43e9615e9",
-    "v": 3
-  }
+  "pins_before": [
+    "a6099719c8c0762e2caaeb4af0969ad43e9615e9"
+  ],
+  "pinned_at": "2026-11-20T06:59:02Z"
 }

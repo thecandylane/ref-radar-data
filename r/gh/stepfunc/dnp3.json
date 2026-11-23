@@ -1,0 +1,57 @@
+{
+  "id": "gh:stepfunc/dnp3",
+  "kind": "repo",
+  "url": "https://github.com/stepfunc/dnp3",
+  "title": "dnp3",
+  "why": "Implements DNP3 link and application layers in Rust with CRC checks, and exposes them to Java through an FFI crate.",
+  "keys": {
+    "races": [
+      "industrial/protocols"
+    ],
+    "lanes": [
+      "industrial/protocols"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/stepfunc/dnp3",
+    "sha": "faf68c3e3fe1d42cf356ff85913cfcc7028dc569",
+    "file_url": "https://cdn.jsdelivr.net/gh/stepfunc/dnp3@faf68c3e3fe1d42cf356ff85913cfcc7028dc569/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "NOASSERTION",
+    "stars": 161,
+    "size_mb": 7,
+    "created_at": "2020-03-09T02:26:57Z",
+    "last_commit_at": "2026-11-18T17:43:53Z",
+    "releases": 25,
+    "tags": 43,
+    "archived": false,
+    "release": {
+      "tag": "1.8.0",
+      "at": "2026-10-29T05:50:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-18T17:43:53Z"
+}

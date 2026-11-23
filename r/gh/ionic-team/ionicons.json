@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d1e2c48641fd5f4910ee42a144dc1c84b1a9a4ee"
-  },
   "id": "gh:ionic-team/ionicons",
   "kind": "repo",
   "url": "https://github.com/ionic-team/ionicons",
@@ -29,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ionic-team/ionicons",
-    "sha": "d1e2c48641fd5f4910ee42a144dc1c84b1a9a4ee",
-    "file_url": "https://cdn.jsdelivr.net/gh/ionic-team/ionicons@d1e2c48641fd5f4910ee42a144dc1c84b1a9a4ee/{path}"
+    "sha": "89cba595a74a36596b7e3a461474bb517a9685a1",
+    "file_url": "https://cdn.jsdelivr.net/gh/ionic-team/ionicons@89cba595a74a36596b7e3a461474bb517a9685a1/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 18259,
+    "stars": 18261,
     "size_mb": 28,
     "created_at": "2013-10-10T14:34:18Z",
     "last_commit_at": "2026-11-19T20:46:43Z",
@@ -55,14 +52,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 12,
+    "star_delta_7d": 13,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "d1e2c48641fd5f4910ee42a144dc1c84b1a9a4ee",
-    "v": 3
-  },
-  "pinned_at": "2026-07-28T20:36:24Z"
+  "pins_before": [
+    "d1e2c48641fd5f4910ee42a144dc1c84b1a9a4ee"
+  ],
+  "pinned_at": "2026-11-19T20:46:43Z"
 }

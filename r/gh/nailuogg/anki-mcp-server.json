@@ -1,0 +1,65 @@
+{
+  "id": "gh:nailuogg/anki-mcp-server",
+  "kind": "repo",
+  "url": "https://github.com/nailuoGG/anki-mcp-server",
+  "title": "nailuoGG/anki-mcp-server",
+  "why": "Lets an MCP client add notes, tags and decks to a running Anki app through AnkiConnect, with retries on timeouts.",
+  "keys": {
+    "races": [
+      "learning/spaced-repetition",
+      "agents/tools"
+    ],
+    "lanes": [
+      "learning/spaced-repetition",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nailuoGG/anki-mcp-server",
+    "sha": "f06c751c887436aa9ceb7de311b04673fe14578b",
+    "file_url": "https://cdn.jsdelivr.net/gh/nailuoGG/anki-mcp-server@f06c751c887436aa9ceb7de311b04673fe14578b/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "none",
+    "stars": 255,
+    "size_mb": 30,
+    "created_at": "2025-02-24T05:40:32Z",
+    "last_commit_at": "2026-11-21T05:45:55Z",
+    "releases": 15,
+    "tags": 46,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.5",
+      "at": "2026-10-27T08:24:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-21T05:45:55Z"
+}

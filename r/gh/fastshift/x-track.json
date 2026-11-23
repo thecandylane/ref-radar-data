@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c42b8e5605e50838f4c0c9828385948fa33ab485"
+  },
+  "id": "gh:fastshift/x-track",
+  "kind": "repo",
+  "url": "https://github.com/FASTSHIFT/X-TRACK",
+  "title": "X-TRACK",
+  "why": "Runs on an AT32F435 MCU with an ATGM336H GPS, showing offline maps and recording tracks it exports as GPX files.",
+  "keys": {
+    "races": [
+      "embedded/firmware",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "embedded/firmware",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/FASTSHIFT/X-TRACK",
+    "sha": "c42b8e5605e50838f4c0c9828385948fa33ab485",
+    "file_url": "https://raw.githubusercontent.com/FASTSHIFT/X-TRACK/c42b8e5605e50838f4c0c9828385948fa33ab485/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 6328,
+    "size_mb": 203,
+    "created_at": "2021-03-19T16:40:29Z",
+    "last_commit_at": "2025-11-08T03:54:31Z",
+    "releases": 13,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v2.7",
+      "at": "2022-07-23T17:07:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-11-08T03:54:31Z"
+}

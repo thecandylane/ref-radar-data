@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:38332cea1ec9d6b7d17b2169466b5621afcb42db"
+  },
+  "id": "gh:nttcom/zeek-parser-ssdp-com",
+  "kind": "repo",
+  "url": "https://github.com/nttcom/zeek-parser-SSDP-COM",
+  "title": "zeek-parser-SSDP-COM",
+  "why": "Spicy-based Zeek plugin that parses SSDP traffic from pcaps and logs source address, MAC, method and server or user agent.",
+  "keys": {
+    "races": [
+      "netsec/capture",
+      "netsec/ids"
+    ],
+    "lanes": [
+      "netsec/capture",
+      "netsec/ids"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nttcom/zeek-parser-SSDP-COM",
+    "sha": "38332cea1ec9d6b7d17b2169466b5621afcb42db",
+    "file_url": "https://cdn.jsdelivr.net/gh/nttcom/zeek-parser-SSDP-COM@38332cea1ec9d6b7d17b2169466b5621afcb42db/{path}"
+  },
+  "facts": {
+    "lang": "Zeek",
+    "license": "BSD-2-Clause",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2023-09-12T08:52:21Z",
+    "last_commit_at": "2023-09-25T07:18:58Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2023-09-25T07:18:58Z"
+}

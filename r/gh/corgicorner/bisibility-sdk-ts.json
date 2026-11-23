@@ -1,0 +1,60 @@
+{
+  "id": "gh:corgicorner/bisibility-sdk-ts",
+  "kind": "repo",
+  "url": "https://github.com/CorgiCorner/bisibility-sdk-ts",
+  "title": "bisibility-sdk-ts",
+  "why": "TypeScript client for rank checks, page indexing and prompt tracking, validating each response against a contract before returning it.",
+  "keys": {
+    "races": [
+      "seo/ai-visibility",
+      "seo/site-audits"
+    ],
+    "lanes": [
+      "seo/ai-visibility",
+      "seo/site-audits"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CorgiCorner/bisibility-sdk-ts",
+    "sha": "963739c533653a7d84b78757d4a21b06661d904f",
+    "file_url": "https://cdn.jsdelivr.net/gh/CorgiCorner/bisibility-sdk-ts@963739c533653a7d84b78757d4a21b06661d904f/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 0,
+    "size_mb": 2,
+    "created_at": "2026-07-14T09:49:49Z",
+    "last_commit_at": "2026-11-18T21:39:37Z",
+    "releases": 0,
+    "tags": 48,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-18T21:39:37Z"
+}

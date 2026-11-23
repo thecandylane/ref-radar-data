@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6472774af3b9b89e3999898fbe9b59c5ac7e87b5"
+  },
+  "id": "gh:irlab-sdu/fuzi.mingcha",
+  "kind": "repo",
+  "url": "https://github.com/irlab-sdu/fuzi.mingcha",
+  "title": "fuzi.mingcha",
+  "why": "Judicial model on ChatGLM that cites statute articles and similar cases before answering, with syllogistic judgment prediction for legal questions.",
+  "keys": {
+    "races": [
+      "legal/legal-ai",
+      "ml/open-models"
+    ],
+    "lanes": [
+      "legal/legal-ai",
+      "ml/open-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/irlab-sdu/fuzi.mingcha",
+    "sha": "6472774af3b9b89e3999898fbe9b59c5ac7e87b5",
+    "file_url": "https://cdn.jsdelivr.net/gh/irlab-sdu/fuzi.mingcha@6472774af3b9b89e3999898fbe9b59c5ac7e87b5/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 401,
+    "size_mb": 12,
+    "created_at": "2023-08-31T09:06:29Z",
+    "last_commit_at": "2025-07-30T06:24:22Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "zenodo",
+      "at": "2025-07-30T01:33:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-07-30T06:24:22Z"
+}

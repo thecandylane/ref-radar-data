@@ -24,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/casbin",
-    "sha": "c157de41743d0ad29172d33b7d0a7c7ac46970eb",
-    "file_url": "https://cdn.jsdelivr.net/gh/apache/casbin@c157de41743d0ad29172d33b7d0a7c7ac46970eb/{path}"
+    "sha": "4cd4e353ad9b4040d98aa58dd541a4fa5fec60a3",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/casbin@4cd4e353ad9b4040d98aa58dd541a4fa5fec60a3/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -50,17 +50,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 12,
+    "star_delta_7d": 10,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "c157de41743d0ad29172d33b7d0a7c7ac46970eb",
-    "v": 4
-  },
   "pins_before": [
+    "c157de41743d0ad29172d33b7d0a7c7ac46970eb",
     "c92cc6a070e65dc621210c8d451de3092683cd1c"
   ],
-  "pinned_at": "2026-11-15T06:41:25Z"
+  "pinned_at": "2026-11-21T16:28:12Z"
 }

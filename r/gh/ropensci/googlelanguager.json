@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d423452e59b99894e5ba940a6c909154a618edd0"
+  },
+  "id": "gh:ropensci/googlelanguager",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/googleLanguageR",
+  "title": "googleLanguageR",
+  "why": "Calls Google's speech, translation, sentiment and text-to-speech APIs from R, reading your key from an environment file.",
+  "keys": {
+    "races": [
+      "media/speech"
+    ],
+    "lanes": [
+      "media/speech"
+    ],
+    "capabilities": [
+      "media/speech/text-to-speech"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/googleLanguageR",
+    "sha": "d423452e59b99894e5ba940a6c909154a618edd0",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/googleLanguageR@d423452e59b99894e5ba940a6c909154a618edd0/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "NOASSERTION",
+    "stars": 202,
+    "size_mb": 9,
+    "created_at": "2017-04-30T11:18:34Z",
+    "last_commit_at": "2026-02-03T11:38:34Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.1.1",
+      "at": "2025-11-03T09:03:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-02-03T11:38:34Z"
+}

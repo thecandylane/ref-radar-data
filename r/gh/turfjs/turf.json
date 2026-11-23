@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:4970f9f5276576e5eafddc26d9b6dc96f5af1d7f"
-  },
   "id": "gh:turfjs/turf",
   "kind": "repo",
   "url": "https://github.com/Turfjs/turf",
@@ -29,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Turfjs/turf",
-    "sha": "4970f9f5276576e5eafddc26d9b6dc96f5af1d7f",
-    "file_url": "https://cdn.jsdelivr.net/gh/Turfjs/turf@4970f9f5276576e5eafddc26d9b6dc96f5af1d7f/{path}"
+    "sha": "938a6c6318b444636e086985c0d29cec19f5329b",
+    "file_url": "https://cdn.jsdelivr.net/gh/Turfjs/turf@938a6c6318b444636e086985c0d29cec19f5329b/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 10552,
+    "stars": 10553,
     "size_mb": 58,
     "created_at": "2013-10-03T14:50:25Z",
     "last_commit_at": "2026-11-17T15:33:06Z",
@@ -60,8 +57,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "4970f9f5276576e5eafddc26d9b6dc96f5af1d7f",
-    "v": 3
-  }
+  "pins_before": [
+    "4970f9f5276576e5eafddc26d9b6dc96f5af1d7f"
+  ],
+  "pinned_at": "2026-11-17T15:33:06Z"
 }

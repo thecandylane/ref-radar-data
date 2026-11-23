@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f678162af201cba391c9bf759b429dee5ad5c0bc"
+  },
+  "id": "gh:invopop/jsonschema",
+  "kind": "repo",
+  "url": "https://github.com/invopop/jsonschema",
+  "title": "jsonschema",
+  "why": "Builds JSON Schema 2020-12 documents from Go structs by reflection, reading struct tags, Go comments and custom schema methods.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/invopop/jsonschema",
+    "sha": "f678162af201cba391c9bf759b429dee5ad5c0bc",
+    "file_url": "https://cdn.jsdelivr.net/gh/invopop/jsonschema@f678162af201cba391c9bf759b429dee5ad5c0bc/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 965,
+    "size_mb": 0,
+    "created_at": "2022-02-12T22:22:58Z",
+    "last_commit_at": "2026-04-23T16:13:40Z",
+    "releases": 1,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v0.14.0",
+      "at": "2026-04-23T16:12:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-04-23T16:13:40Z"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "hf:boltuix/neurolocale",
+  "kind": "model",
+  "url": "https://huggingface.co/boltuix/NeuroLocale",
+  "title": "NeuroLocale",
+  "why": "Maps a free-text query to one of 120+ local business categories, so a nearby search app can show the right places.",
+  "keys": {
+    "races": [
+      "ml/open-models",
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/open-models",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://huggingface.co/boltuix/NeuroLocale",
+    "sha": "2d496bad5b3a9f4fc24e4df1e5a51cf76b2966dd",
+    "file_url": "https://huggingface.co/boltuix/NeuroLocale/raw/2d496bad5b3a9f4fc24e4df1e5a51cf76b2966dd/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "Apache-2.0",
+    "stars": 0,
+    "size_mb": 57,
+    "created_at": "2025-05-26T11:06:43.000Z",
+    "last_commit_at": "2025-06-09T11:03:50.000Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "likes": 24,
+    "downloads_30d": 27
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-06-09T11:03:50.000Z"
+}

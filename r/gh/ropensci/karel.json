@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:439aa6d0ff46aeb13979ead83cc903acdd59db3f"
+  },
+  "id": "gh:ropensci/karel",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/karel",
+  "title": "karel",
+  "why": "Lets students with no prior R or programming practice write robot commands that complete challenges, with lessons in vignettes.",
+  "keys": {
+    "races": [
+      "learning/exercises",
+      "learning/courses"
+    ],
+    "lanes": [
+      "learning/exercises",
+      "learning/courses"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/karel",
+    "sha": "439aa6d0ff46aeb13979ead83cc903acdd59db3f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/karel@439aa6d0ff46aeb13979ead83cc903acdd59db3f/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-2.0",
+    "stars": 12,
+    "size_mb": 15,
+    "created_at": "2020-02-03T03:02:44Z",
+    "last_commit_at": "2024-07-27T00:24:38Z",
+    "releases": 0,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2024-07-27T00:24:38Z"
+}

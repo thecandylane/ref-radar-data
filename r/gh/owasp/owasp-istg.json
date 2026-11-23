@@ -1,0 +1,62 @@
+{
+  "id": "gh:owasp/owasp-istg",
+  "kind": "repo",
+  "url": "https://github.com/OWASP/owasp-istg",
+  "title": "owasp-istg",
+  "why": "Turns security test case files into checklists sorted by chapter, exported as Markdown or Excel sheets.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OWASP/owasp-istg",
+    "sha": "c7602460d234733a235688c8fbeb0f8eb2e472ef",
+    "file_url": "https://cdn.jsdelivr.net/gh/OWASP/owasp-istg@c7602460d234733a235688c8fbeb0f8eb2e472ef/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "CC-BY-SA-4.0",
+    "stars": 143,
+    "size_mb": 2,
+    "created_at": "2023-08-24T16:47:39Z",
+    "last_commit_at": "2026-08-02T21:01:48Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.1",
+      "at": "2024-06-01T11:10:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

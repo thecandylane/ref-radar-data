@@ -1,0 +1,58 @@
+{
+  "id": "gh:gipsy-the-sheller/yr-mpe",
+  "kind": "repo",
+  "url": "https://github.com/Gipsy-The-Sheller/YR-MPE",
+  "title": "YR-MPE",
+  "why": "Wraps alignment and tree tools like mafft, muscle5 and iqtree in one desktop window, reading fasta, phylip, nexus and genbank files.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Gipsy-The-Sheller/YR-MPE",
+    "sha": "5792ec308931ea173a570bf4c77881b470c05b44",
+    "file_url": "https://cdn.jsdelivr.net/gh/Gipsy-The-Sheller/YR-MPE@5792ec308931ea173a570bf4c77881b470c05b44/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 3,
+    "size_mb": 16,
+    "created_at": "2025-10-21T08:30:07Z",
+    "last_commit_at": "2026-11-23T02:16:18Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.1",
+      "at": "2026-11-22T17:50:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

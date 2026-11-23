@@ -1,0 +1,59 @@
+{
+  "id": "gh:pachterlab/spatialfeatureexperiment",
+  "kind": "repo",
+  "url": "https://github.com/pachterlab/SpatialFeatureExperiment",
+  "title": "SpatialFeatureExperiment",
+  "why": "Stores Visium spots and cell segmentations as sf geometries beside gene counts, so neighborhood stats and intersections run on one object.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pachterlab/SpatialFeatureExperiment",
+    "sha": "79824846796075370ccdc249fab2dd21ab446b77",
+    "file_url": "https://cdn.jsdelivr.net/gh/pachterlab/SpatialFeatureExperiment@79824846796075370ccdc249fab2dd21ab446b77/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "Artistic-2.0",
+    "stars": 59,
+    "size_mb": 221,
+    "created_at": "2022-02-10T04:47:44Z",
+    "last_commit_at": "2026-11-21T13:43:54Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pins_before": [
+    "b0c6ef34c7cb26235f1ad8cc086495cb01a73634"
+  ],
+  "pinned_at": "2026-11-21T13:43:54Z"
+}

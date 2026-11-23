@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f4813f945894871723b9fab85c74234227bec97d"
+  },
+  "id": "gh:naonori/ulptkit",
+  "kind": "repo",
+  "url": "https://github.com/naonori/ulptkit",
+  "title": "ulptkit",
+  "why": "Computes nonlinear matter, halo-halo and halo-matter power spectra with Unified Lagrangian Perturbation Theory, checked against Dark Emulator.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/naonori/ulptkit",
+    "sha": "f4813f945894871723b9fab85c74234227bec97d",
+    "file_url": "https://cdn.jsdelivr.net/gh/naonori/ulptkit@f4813f945894871723b9fab85c74234227bec97d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 1,
+    "created_at": "2025-08-19T01:00:44Z",
+    "last_commit_at": "2025-09-05T06:27:57Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-09-05T06:27:57Z"
+}

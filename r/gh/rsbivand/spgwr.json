@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2169f6b7533fd1d94910f99d8d53decbb612afe2"
+  },
+  "id": "gh:rsbivand/spgwr",
+  "kind": "repo",
+  "url": "https://github.com/rsbivand/spgwr",
+  "title": "spgwr",
+  "why": "Runs geographically weighted regression in R, where coefficients are fitted locally rather than once for the whole dataset.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rsbivand/spgwr",
+    "sha": "2169f6b7533fd1d94910f99d8d53decbb612afe2",
+    "file_url": "https://cdn.jsdelivr.net/gh/rsbivand/spgwr@2169f6b7533fd1d94910f99d8d53decbb612afe2/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 5,
+    "size_mb": 9,
+    "created_at": "2023-06-12T16:56:09Z",
+    "last_commit_at": "2024-06-10T09:12:01Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2024-06-10T09:12:01Z"
+}

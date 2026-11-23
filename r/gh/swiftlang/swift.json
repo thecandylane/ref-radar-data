@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:4f010677715a8396aac64d0742be7c15a8d4ed8a"
-  },
   "id": "gh:swiftlang/swift",
   "kind": "repo",
   "url": "https://github.com/swiftlang/swift",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/swiftlang/swift",
-    "sha": "4f010677715a8396aac64d0742be7c15a8d4ed8a",
-    "file_url": "https://raw.githubusercontent.com/swiftlang/swift/4f010677715a8396aac64d0742be7c15a8d4ed8a/{path}"
+    "sha": "efeca736388b6ec7d7e4303d3522ee6bceeecc01",
+    "file_url": "https://raw.githubusercontent.com/swiftlang/swift/efeca736388b6ec7d7e4303d3522ee6bceeecc01/{path}"
   },
   "facts": {
     "lang": "Swift",
     "license": "Apache-2.0",
-    "stars": 70604,
+    "stars": 70605,
     "size_mb": 1386,
     "created_at": "2015-10-23T21:15:07Z",
-    "last_commit_at": "2026-11-22T04:57:54Z",
+    "last_commit_at": "2026-11-23T09:08:47Z",
     "releases": 74,
     "tags": 3092,
     "archived": false,
@@ -57,14 +54,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 46,
+    "star_delta_7d": 47,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "4f010677715a8396aac64d0742be7c15a8d4ed8a",
-    "v": 3
-  },
+  "pins_before": [
+    "4f010677715a8396aac64d0742be7c15a8d4ed8a"
+  ],
+  "pinned_at": "2026-11-23T09:08:47Z",
   "hot": true
 }

@@ -1,0 +1,57 @@
+{
+  "id": "gh:starcitizentools/mediawiki-extensions-shortdescription",
+  "kind": "repo",
+  "url": "https://github.com/StarCitizenTools/mediawiki-extensions-ShortDescription",
+  "title": "mediawiki-extensions-ShortDescription",
+  "why": "MediaWiki extension that stores a short description for each page and exposes it through page props, parser output and an API query.",
+  "keys": {
+    "races": [
+      "web/cms"
+    ],
+    "lanes": [
+      "web/cms"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/StarCitizenTools/mediawiki-extensions-ShortDescription",
+    "sha": "cc93c2f147103821eea19eedd6f40176ab88200f",
+    "file_url": "https://cdn.jsdelivr.net/gh/StarCitizenTools/mediawiki-extensions-ShortDescription@cc93c2f147103821eea19eedd6f40176ab88200f/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "GPL-3.0",
+    "stars": 8,
+    "size_mb": 1,
+    "created_at": "2019-12-13T18:37:12Z",
+    "last_commit_at": "2026-11-21T01:01:47Z",
+    "releases": 1,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v4.1.0",
+      "at": "2026-11-21T00:51:48.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-21T01:01:47Z"
+}

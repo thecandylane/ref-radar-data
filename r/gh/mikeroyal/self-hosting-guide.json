@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3eaf827bf42ff047b2a0fdf7a6bfbb61b720d9bf"
+  },
+  "id": "gh:mikeroyal/self-hosting-guide",
+  "kind": "repo",
+  "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+  "title": "Self-Hosting-Guide",
+  "why": "A long guide to self-hosted tools, from Docker and Compose to WireGuard, Home Assistant and Raspberry Pi setups.",
+  "keys": {
+    "races": [
+      "infra/hosting",
+      "infra/containers",
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/hosting",
+      "infra/containers",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mikeroyal/Self-Hosting-Guide",
+    "sha": "3eaf827bf42ff047b2a0fdf7a6bfbb61b720d9bf",
+    "file_url": "https://cdn.jsdelivr.net/gh/mikeroyal/Self-Hosting-Guide@3eaf827bf42ff047b2a0fdf7a6bfbb61b720d9bf/{path}"
+  },
+  "facts": {
+    "lang": "Dockerfile",
+    "license": "none",
+    "stars": 23636,
+    "size_mb": 4,
+    "created_at": "2022-02-06T20:03:15Z",
+    "last_commit_at": "2025-06-27T01:51:15Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-06-27T01:51:15Z"
+}

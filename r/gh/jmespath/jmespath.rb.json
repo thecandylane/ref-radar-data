@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5e86ea7da2e954cc12f5b3a8383a43c0a65acba7"
+  },
+  "id": "gh:jmespath/jmespath.rb",
+  "kind": "repo",
+  "url": "https://github.com/jmespath/jmespath.rb",
+  "title": "jmespath.rb",
+  "why": "Pulls values from JSON documents and Ruby hashes or Structs with JMESPath expressions, and returns nil for keys not present.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jmespath/jmespath.rb",
+    "sha": "5e86ea7da2e954cc12f5b3a8383a43c0a65acba7",
+    "file_url": "https://cdn.jsdelivr.net/gh/jmespath/jmespath.rb@5e86ea7da2e954cc12f5b3a8383a43c0a65acba7/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "Apache-2.0",
+    "stars": 167,
+    "size_mb": 0,
+    "created_at": "2014-10-01T21:20:34Z",
+    "last_commit_at": "2025-02-13T17:42:43Z",
+    "releases": 21,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v1.6.2",
+      "at": "2022-11-25T16:52:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-02-13T17:42:43Z"
+}

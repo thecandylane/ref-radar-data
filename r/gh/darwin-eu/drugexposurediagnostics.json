@@ -1,0 +1,59 @@
+{
+  "id": "gh:darwin-eu/drugexposurediagnostics",
+  "kind": "repo",
+  "url": "https://github.com/darwin-eu/DrugExposureDiagnostics",
+  "title": "DrugExposureDiagnostics",
+  "why": "Checks missingness, durations and dose fields per ingredient in an OMOP CDM database, then writes the summaries to CSV files.",
+  "keys": {
+    "races": [
+      "medicine/health-data",
+      "medicine/ehr"
+    ],
+    "lanes": [
+      "medicine/health-data",
+      "medicine/ehr"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/darwin-eu/DrugExposureDiagnostics",
+    "sha": "0a93542ec442db0f56b8c6730b305b06dd1a8c4b",
+    "file_url": "https://cdn.jsdelivr.net/gh/darwin-eu/DrugExposureDiagnostics@0a93542ec442db0f56b8c6730b305b06dd1a8c4b/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "Apache-2.0",
+    "stars": 4,
+    "size_mb": 10,
+    "created_at": "2023-03-09T15:36:41Z",
+    "last_commit_at": "2026-10-20T07:36:31Z",
+    "releases": 27,
+    "tags": 27,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.0",
+      "at": "2026-09-29T07:17:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-10-20T07:36:31Z"
+}

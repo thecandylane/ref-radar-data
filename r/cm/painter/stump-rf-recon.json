@@ -1,0 +1,44 @@
+{
+  "access": "none",
+  "id": "cm:painter/stump-rf-recon",
+  "kind": "repo",
+  "url": "https://git.churchofmalware.org/Painter/stump-rf-recon",
+  "title": "stump-rf-recon",
+  "why": "Sniffs Wifi and LoRa traffic on a Heltec v3 board, with Reticulum LXMF packets visible in Wireshark.",
+  "keys": {
+    "races": [
+      "hardware/radio",
+      "netsec/capture"
+    ],
+    "lanes": [
+      "hardware/radio",
+      "netsec/capture"
+    ],
+    "capabilities": []
+  },
+  "read": [],
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 4,
+    "created_at": "2026-10-23T15:28:23.000Z",
+    "last_commit_at": "2026-10-24T14:10:42.000Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false
+  },
+  "reuse": null,
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

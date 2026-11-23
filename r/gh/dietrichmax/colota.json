@@ -1,0 +1,69 @@
+{
+  "id": "gh:dietrichmax/colota",
+  "kind": "repo",
+  "url": "https://github.com/dietrichmax/colota",
+  "title": "colota",
+  "why": "Logs phone locations on Android and forwards each batch to OwnTracks, Overland or Dawarich endpoints, with mTLS client certificates.",
+  "keys": {
+    "races": [
+      "mobile/android",
+      "mobile/cross-platform",
+      "logistics/fleet-freight"
+    ],
+    "lanes": [
+      "mobile/android",
+      "mobile/cross-platform",
+      "logistics/fleet-freight"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dietrichmax/colota",
+    "sha": "55a9799ff0ff7e69b72b0c0f69a72feaf2765886",
+    "file_url": "https://cdn.jsdelivr.net/gh/dietrichmax/colota@55a9799ff0ff7e69b72b0c0f69a72feaf2765886/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "AGPL-3.0",
+    "stars": 721,
+    "size_mb": 173,
+    "created_at": "2026-01-20T16:12:32Z",
+    "last_commit_at": "2026-11-19T10:03:02Z",
+    "releases": 34,
+    "tags": 37,
+    "archived": false,
+    "release": {
+      "tag": "v1.22.0",
+      "at": "2026-11-16T16:01:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-19T10:03:02Z"
+}

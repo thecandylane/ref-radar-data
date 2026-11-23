@@ -1,0 +1,59 @@
+{
+  "id": "gh:python-jsonschema/referencing",
+  "kind": "repo",
+  "url": "https://github.com/python-jsonschema/referencing",
+  "title": "referencing",
+  "why": "Resolves references between documents through a registry that retrieves resources, detects their specification and finds anchors and subresources.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/python-jsonschema/referencing",
+    "sha": "45e3c7f0b8191f6f433417d26a59e1e2857f0fcb",
+    "file_url": "https://cdn.jsdelivr.net/gh/python-jsonschema/referencing@45e3c7f0b8191f6f433417d26a59e1e2857f0fcb/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 55,
+    "size_mb": 1,
+    "created_at": "2022-11-21T23:26:10Z",
+    "last_commit_at": "2026-11-16T10:49:30Z",
+    "releases": 107,
+    "tags": 124,
+    "archived": false,
+    "release": {
+      "tag": "v0.37.0",
+      "at": "2025-10-13T15:30:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-16T10:49:30Z"
+}

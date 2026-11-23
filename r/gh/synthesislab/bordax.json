@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:826dafdecfbc340c5af1fb899d5858d68a294bae"
+  },
+  "id": "gh:synthesislab/bordax",
+  "kind": "repo",
+  "url": "https://github.com/SynthesisLab/bordax",
+  "title": "bordax",
+  "why": "Trains programmatic policies such as boolean functions and decision trees with PPO and DQN, all JIT-compiled in JAX.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "agents/optimization"
+    ],
+    "lanes": [
+      "ml/training",
+      "agents/optimization"
+    ],
+    "capabilities": [
+      "agents/optimization/rl-environments"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SynthesisLab/bordax",
+    "sha": "826dafdecfbc340c5af1fb899d5858d68a294bae",
+    "file_url": "https://cdn.jsdelivr.net/gh/SynthesisLab/bordax@826dafdecfbc340c5af1fb899d5858d68a294bae/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 4,
+    "size_mb": 2,
+    "created_at": "2025-01-12T16:56:01Z",
+    "last_commit_at": "2026-06-25T14:12:12Z",
+    "releases": 1,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.1",
+      "at": "2026-06-17T12:48:14.000Z"
+    },
+    "doi": "10.21105/joss.10470"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-06-25T14:12:12Z"
+}

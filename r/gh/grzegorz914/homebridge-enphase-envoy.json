@@ -1,0 +1,61 @@
+{
+  "id": "gh:grzegorz914/homebridge-enphase-envoy",
+  "kind": "repo",
+  "url": "https://github.com/grzegorz914/homebridge-enphase-envoy",
+  "title": "homebridge-enphase-envoy",
+  "why": "Homebridge platform that reads an Envoy gateway for production, meters and inventory and publishes to MQTT and a REST interface.",
+  "keys": {
+    "races": [
+      "energy/home-energy"
+    ],
+    "lanes": [
+      "energy/home-energy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/grzegorz914/homebridge-enphase-envoy",
+    "sha": "45343b32bf0dcd7f0d965f16414af4d4859abda5",
+    "file_url": "https://cdn.jsdelivr.net/gh/grzegorz914/homebridge-enphase-envoy@45343b32bf0dcd7f0d965f16414af4d4859abda5/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 68,
+    "size_mb": 19,
+    "created_at": "2020-06-05T13:15:36Z",
+    "last_commit_at": "2026-11-18T18:48:47Z",
+    "releases": 224,
+    "tags": 226,
+    "archived": false,
+    "release": {
+      "tag": "v10.8.5",
+      "at": "2026-11-18T18:48:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-18T18:48:47Z"
+}

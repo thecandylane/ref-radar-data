@@ -1,0 +1,58 @@
+{
+  "id": "gh:awaisali36/outbound-real-state-voice-ai-agent-",
+  "kind": "repo",
+  "url": "https://github.com/Awaisali36/Outbound-Real-State-Voice-AI-Agent-",
+  "title": "Outbound-Real-State-Voice-AI-Agent-",
+  "why": "Calls Airtable leads marked To Do every 4 minutes during business hours, then sends the Calendly link by email or WhatsApp.",
+  "keys": {
+    "races": [
+      "sales/prospecting",
+      "media/speech",
+      "business-apps/scheduling"
+    ],
+    "lanes": [
+      "sales/prospecting",
+      "media/speech",
+      "business-apps/scheduling"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Awaisali36/Outbound-Real-State-Voice-AI-Agent-",
+    "sha": "a56c4a36f6aa0575cbc4e7c2c4c67d487674be09",
+    "file_url": "https://cdn.jsdelivr.net/gh/Awaisali36/Outbound-Real-State-Voice-AI-Agent-@a56c4a36f6aa0575cbc4e7c2c4c67d487674be09/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "MIT",
+    "stars": 65,
+    "size_mb": 0,
+    "created_at": "2025-10-08T19:28:26Z",
+    "last_commit_at": "2025-10-08T20:47:19Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-10-08T20:47:19Z"
+}

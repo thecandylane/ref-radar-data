@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fd3a8156f02226937e2a2b1f783ceb39fb22ff15"
+  },
+  "id": "gh:forestobservatory/cfo-api",
+  "kind": "repo",
+  "url": "https://github.com/forestobservatory/cfo-api",
+  "title": "cfo-api",
+  "why": "Searches and downloads Forest Observatory data by asset ID, and returns WMS URLs so the same rasters can be drawn on web maps.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/forestobservatory/cfo-api",
+    "sha": "fd3a8156f02226937e2a2b1f783ceb39fb22ff15",
+    "file_url": "https://cdn.jsdelivr.net/gh/forestobservatory/cfo-api@fd3a8156f02226937e2a2b1f783ceb39fb22ff15/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 14,
+    "size_mb": 1,
+    "created_at": "2020-06-24T22:49:53Z",
+    "last_commit_at": "2021-02-09T01:20:42Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2021-02-09T01:20:42Z"
+}

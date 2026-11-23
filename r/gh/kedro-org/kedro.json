@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5c48cc3ec39c9527ed8600ffc09cf0071f269d90"
-  },
   "id": "gh:kedro-org/kedro",
   "kind": "repo",
   "url": "https://github.com/kedro-org/kedro",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/kedro-org/kedro",
-    "sha": "5c48cc3ec39c9527ed8600ffc09cf0071f269d90",
-    "file_url": "https://cdn.jsdelivr.net/gh/kedro-org/kedro@5c48cc3ec39c9527ed8600ffc09cf0071f269d90/{path}"
+    "sha": "7efe8b8ef78f4caa47ed117bceca94c55b1cae0c",
+    "file_url": "https://cdn.jsdelivr.net/gh/kedro-org/kedro@7efe8b8ef78f4caa47ed117bceca94c55b1cae0c/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -56,9 +53,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "5c48cc3ec39c9527ed8600ffc09cf0071f269d90",
-    "v": 3
-  },
-  "pinned_at": "2026-11-10T11:22:51Z"
+  "pins_before": [
+    "5c48cc3ec39c9527ed8600ffc09cf0071f269d90"
+  ],
+  "pinned_at": "2026-11-19T11:19:46Z"
 }

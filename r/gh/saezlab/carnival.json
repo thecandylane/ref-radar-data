@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2b8887a0ae473a65deb934b121c8407b26e7a17d"
+  },
+  "id": "gh:saezlab/carnival",
+  "kind": "repo",
+  "url": "https://github.com/saezlab/CARNIVAL",
+  "title": "CARNIVAL",
+  "why": "R package that finds signalling pathways behind gene expression changes by solving integer linear programs with CPLEX, Gurobi or CBC.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/saezlab/CARNIVAL",
+    "sha": "2b8887a0ae473a65deb934b121c8407b26e7a17d",
+    "file_url": "https://cdn.jsdelivr.net/gh/saezlab/CARNIVAL@2b8887a0ae473a65deb934b121c8407b26e7a17d/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 63,
+    "size_mb": 14,
+    "created_at": "2017-10-25T11:55:10Z",
+    "last_commit_at": "2023-12-06T12:18:32Z",
+    "releases": 3,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v1.3",
+      "at": "2021-05-12T13:54:35.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2023-12-06T12:18:32Z"
+}

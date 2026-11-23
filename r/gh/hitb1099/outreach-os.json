@@ -1,0 +1,59 @@
+{
+  "id": "gh:hitb1099/outreach-os",
+  "kind": "repo",
+  "url": "https://github.com/hitb1099/outreach-os",
+  "title": "outreach-os",
+  "why": "Three N8N workflows score Google Places leads on a 100-point scale, then send GLM-4 written cold emails and auto follow up after 3 days.",
+  "keys": {
+    "races": [
+      "sales/prospecting",
+      "business-apps/low-code"
+    ],
+    "lanes": [
+      "sales/prospecting",
+      "business-apps/low-code"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hitb1099/outreach-os",
+    "sha": "00dfad3b9ed23f4fd651444cf3a14e7d4c93ef64",
+    "file_url": "https://cdn.jsdelivr.net/gh/hitb1099/outreach-os@00dfad3b9ed23f4fd651444cf3a14e7d4c93ef64/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 13,
+    "size_mb": 0,
+    "created_at": "2026-07-16T18:52:08Z",
+    "last_commit_at": "2026-07-18T02:47:35Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-07-20T20:53:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-07-18T02:47:35Z"
+}

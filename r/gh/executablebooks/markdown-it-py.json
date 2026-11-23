@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d504583a458edfa399ee800074244fceec288862"
+  },
   "id": "gh:executablebooks/markdown-it-py",
   "kind": "repo",
   "url": "https://github.com/executablebooks/markdown-it-py",
@@ -24,7 +27,7 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 1398,
+    "stars": 1401,
     "size_mb": 2,
     "created_at": "2020-03-25T11:10:01Z",
     "last_commit_at": "2026-11-10T16:14:57Z",
@@ -48,5 +51,6 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pinned_at": "2026-11-10T16:14:57Z"
 }

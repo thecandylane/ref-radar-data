@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:98cfd02fd935b51778fbc4b576d7e4aeca885297"
+  },
+  "id": "gh:birkenfeld/ads-rs",
+  "kind": "repo",
+  "url": "https://github.com/birkenfeld/ads-rs",
+  "title": "ads-rs",
+  "why": "Connects to Beckhoff TwinCAT PLCs over the ADS protocol from Rust, reading symbol values and receiving notifications, with an adstool example.",
+  "keys": {
+    "races": [
+      "industrial/protocols",
+      "embedded/firmware"
+    ],
+    "lanes": [
+      "industrial/protocols",
+      "embedded/firmware"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/birkenfeld/ads-rs",
+    "sha": "98cfd02fd935b51778fbc4b576d7e4aeca885297",
+    "file_url": "https://cdn.jsdelivr.net/gh/birkenfeld/ads-rs@98cfd02fd935b51778fbc4b576d7e4aeca885297/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 74,
+    "size_mb": 0,
+    "created_at": "2018-05-01T16:02:40Z",
+    "last_commit_at": "2026-07-01T06:19:24Z",
+    "releases": 0,
+    "tags": 9,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-07-01T06:19:24Z"
+}

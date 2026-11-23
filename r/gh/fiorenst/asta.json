@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6fb5becdc8b85f33cb61b7e81e50be36c6a31c2d"
+  },
+  "id": "gh:fiorenst/asta",
+  "kind": "repo",
+  "url": "https://github.com/FiorenSt/ASTA",
+  "title": "ASTA",
+  "why": "Finds satellite trails in FITS images with a U-Net mask, then converts the pixel positions to RA and DEC sky coordinates.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "ml/vision"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/FiorenSt/ASTA",
+    "sha": "6fb5becdc8b85f33cb61b7e81e50be36c6a31c2d",
+    "file_url": "https://cdn.jsdelivr.net/gh/FiorenSt/ASTA@6fb5becdc8b85f33cb61b7e81e50be36c6a31c2d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 10,
+    "size_mb": 16,
+    "created_at": "2024-06-01T20:44:44Z",
+    "last_commit_at": "2024-10-20T16:22:32Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2024-10-20T16:22:32Z"
+}

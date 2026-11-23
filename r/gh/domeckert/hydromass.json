@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2e36b5478ed1886b5d4d1c72973303f0c0603e8d"
+  },
+  "id": "gh:domeckert/hydromass",
+  "kind": "repo",
+  "url": "https://github.com/domeckert/hydromass",
+  "title": "hydromass",
+  "why": "Reconstructs hydrostatic mass profiles from X-ray and Sunyaev-Zeldovich data by Hamiltonian Monte Carlo in PyMC3, with WAIC checks.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/domeckert/hydromass",
+    "sha": "2e36b5478ed1886b5d4d1c72973303f0c0603e8d",
+    "file_url": "https://cdn.jsdelivr.net/gh/domeckert/hydromass@2e36b5478ed1886b5d4d1c72973303f0c0603e8d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 4,
+    "size_mb": 26,
+    "created_at": "2020-06-15T13:18:03Z",
+    "last_commit_at": "2026-03-05T13:06:48Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-03-05T13:06:48Z",
+  "papers": [
+    {
+      "id": "arxiv:2205.01110",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

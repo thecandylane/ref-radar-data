@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3abef605574077fff218b1ef783468ec77eb16dc"
+  },
+  "id": "gh:bullocke/coded",
+  "kind": "repo",
+  "url": "https://github.com/bullocke/coded",
+  "title": "coded",
+  "why": "Flags low-magnitude forest disturbances in Landsat time series on Google Earth Engine, giving a stratification for sample-based estimates.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bullocke/coded",
+    "sha": "3abef605574077fff218b1ef783468ec77eb16dc",
+    "file_url": "https://cdn.jsdelivr.net/gh/bullocke/coded@3abef605574077fff218b1ef783468ec77eb16dc/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 46,
+    "size_mb": 43,
+    "created_at": "2017-09-21T14:59:30Z",
+    "last_commit_at": "2022-02-03T20:28:38Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2022-02-03T20:28:38Z"
+}

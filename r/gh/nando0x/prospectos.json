@@ -1,0 +1,59 @@
+{
+  "id": "gh:nando0x/prospectos",
+  "kind": "repo",
+  "url": "https://github.com/nando0x/ProspectOS",
+  "title": "ProspectOS",
+  "why": "Finds local businesses with no site or a poor site on Google Maps and Instagram, then drafts the message and a PDF audit.",
+  "keys": {
+    "races": [
+      "sales/prospecting",
+      "sales/crm"
+    ],
+    "lanes": [
+      "sales/prospecting",
+      "sales/crm"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nando0x/ProspectOS",
+    "sha": "6e176d92db5f0973b93aab3c8b52c97fd833f117",
+    "file_url": "https://cdn.jsdelivr.net/gh/nando0x/ProspectOS@6e176d92db5f0973b93aab3c8b52c97fd833f117/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 243,
+    "size_mb": 1,
+    "created_at": "2026-07-08T18:56:59Z",
+    "last_commit_at": "2026-07-27T12:42:37Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v3.2.0",
+      "at": "2026-07-27T11:24:48.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-07-27T12:42:37Z"
+}

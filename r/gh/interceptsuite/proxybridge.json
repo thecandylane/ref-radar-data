@@ -1,0 +1,58 @@
+{
+  "id": "gh:interceptsuite/proxybridge",
+  "kind": "repo",
+  "url": "https://github.com/InterceptSuite/ProxyBridge",
+  "title": "ProxyBridge",
+  "why": "Routes chosen apps through a SOCKS5 or HTTP proxy on Windows, macOS and Linux, including apps that ignore proxy settings.",
+  "keys": {
+    "races": [
+      "infra/networking",
+      "privacy/anonymity"
+    ],
+    "lanes": [
+      "infra/networking",
+      "privacy/anonymity"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/InterceptSuite/ProxyBridge",
+    "sha": "67cca6760457f68be48ff4867ce80d547af98d72",
+    "file_url": "https://cdn.jsdelivr.net/gh/InterceptSuite/ProxyBridge@67cca6760457f68be48ff4867ce80d547af98d72/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 7260,
+    "size_mb": 31,
+    "created_at": "2025-10-13T18:51:59Z",
+    "last_commit_at": "2026-11-22T13:06:22Z",
+    "releases": 20,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v4.1.0_Linux",
+      "at": "2026-11-14T13:53:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

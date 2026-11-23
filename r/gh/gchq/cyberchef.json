@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d4d96c6c3d2597fef836d81bfc04617d97c681a5"
-  },
   "id": "gh:gchq/cyberchef",
   "kind": "repo",
   "url": "https://github.com/gchq/CyberChef",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/gchq/CyberChef",
-    "sha": "d4d96c6c3d2597fef836d81bfc04617d97c681a5",
-    "file_url": "https://cdn.jsdelivr.net/gh/gchq/CyberChef@d4d96c6c3d2597fef836d81bfc04617d97c681a5/{path}"
+    "sha": "f464d62c7c943cda9749a765932a7548ba9bfb16",
+    "file_url": "https://cdn.jsdelivr.net/gh/gchq/CyberChef@f464d62c7c943cda9749a765932a7548ba9bfb16/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "Apache-2.0",
-    "stars": 36501,
+    "stars": 36502,
     "size_mb": 94,
     "created_at": "2016-11-28T10:34:07Z",
     "last_commit_at": "2026-11-20T16:48:59Z",
@@ -57,15 +54,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 92,
+    "star_delta_7d": 83,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "d4d96c6c3d2597fef836d81bfc04617d97c681a5",
-    "v": 3
-  },
-  "pinned_at": "2026-11-04T16:46:20Z",
+  "pins_before": [
+    "d4d96c6c3d2597fef836d81bfc04617d97c681a5"
+  ],
+  "pinned_at": "2026-11-20T16:48:59Z",
   "hot": true
 }

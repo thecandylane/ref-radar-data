@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:87a7b9d57689f6579db2da795ab8deeab29cb724"
+  },
+  "id": "gh:stretchr/testify",
+  "kind": "repo",
+  "url": "https://github.com/stretchr/testify",
+  "title": "testify",
+  "why": "Gives Go tests readable assert and require calls with friendly failure output, plus a mock package for stubbing interfaces.",
+  "keys": {
+    "races": [
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/stretchr/testify",
+    "sha": "87a7b9d57689f6579db2da795ab8deeab29cb724",
+    "file_url": "https://cdn.jsdelivr.net/gh/stretchr/testify@87a7b9d57689f6579db2da795ab8deeab29cb724/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 26261,
+    "size_mb": 2,
+    "created_at": "2012-10-16T16:43:17Z",
+    "last_commit_at": "2026-09-24T14:59:34Z",
+    "releases": 27,
+    "tags": 33,
+    "archived": false,
+    "release": {
+      "tag": "v1.12.1",
+      "at": "2026-08-19T13:08:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-09-24T14:59:34Z"
+}

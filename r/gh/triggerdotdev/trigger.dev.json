@@ -37,16 +37,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/triggerdotdev/trigger.dev",
-    "sha": "7a2a7dc801fc5bc97a03add95dc1b2a12f978e58",
-    "file_url": "https://cdn.jsdelivr.net/gh/triggerdotdev/trigger.dev@7a2a7dc801fc5bc97a03add95dc1b2a12f978e58/{path}"
+    "sha": "d43af0b5771c3ee84dcb84ad35f9aca9de25daba",
+    "file_url": "https://cdn.jsdelivr.net/gh/triggerdotdev/trigger.dev@d43af0b5771c3ee84dcb84ad35f9aca9de25daba/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 16801,
+    "stars": 16804,
     "size_mb": 214,
     "created_at": "2022-11-30T14:59:07Z",
-    "last_commit_at": "2026-11-21T20:29:04Z",
+    "last_commit_at": "2026-11-23T09:16:54Z",
     "releases": 716,
     "tags": 4285,
     "archived": false,
@@ -63,13 +63,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 34,
+    "star_delta_7d": 33,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "7a2a7dc801fc5bc97a03add95dc1b2a12f978e58",
-    "v": 3
-  }
+  "pins_before": [
+    "7a2a7dc801fc5bc97a03add95dc1b2a12f978e58"
+  ],
+  "pinned_at": "2026-11-23T09:16:54Z"
 }

@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b635549f3b5d80635e51d3434d0421a260802f85"
+  },
+  "id": "gh:pgaulon/zeek-notice-slack",
+  "kind": "repo",
+  "url": "https://github.com/pgaulon/zeek-notice-slack",
+  "title": "zeek-notice-slack",
+  "why": "Sends Zeek Notice framework alerts to Slack through a webhook, configured with a few redef lines in local.zeek.",
+  "keys": {
+    "races": [
+      "netsec/ids",
+      "infra/observability"
+    ],
+    "lanes": [
+      "netsec/ids",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pgaulon/zeek-notice-slack",
+    "sha": "b635549f3b5d80635e51d3434d0421a260802f85",
+    "file_url": "https://cdn.jsdelivr.net/gh/pgaulon/zeek-notice-slack@b635549f3b5d80635e51d3434d0421a260802f85/{path}"
+  },
+  "facts": {
+    "lang": "Zeek",
+    "license": "MIT",
+    "stars": 3,
+    "size_mb": 0,
+    "created_at": "2017-03-02T10:00:47Z",
+    "last_commit_at": "2023-07-14T15:52:03Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "1.0.2",
+      "at": "2023-07-14T15:54:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2023-07-14T15:52:03Z"
+}

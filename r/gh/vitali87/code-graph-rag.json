@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:cbbef181eb7adc754d0db6136d6d283e8ea9a8f2"
-  },
   "id": "gh:vitali87/code-graph-rag",
   "kind": "repo",
   "url": "https://github.com/vitali87/code-graph-rag",
@@ -35,18 +32,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/vitali87/code-graph-rag",
-    "sha": "cbbef181eb7adc754d0db6136d6d283e8ea9a8f2",
-    "file_url": "https://cdn.jsdelivr.net/gh/vitali87/code-graph-rag@cbbef181eb7adc754d0db6136d6d283e8ea9a8f2/{path}"
+    "sha": "2e2f62bbea062037462ffb5dd15bca25eabd3db6",
+    "file_url": "https://cdn.jsdelivr.net/gh/vitali87/code-graph-rag@2e2f62bbea062037462ffb5dd15bca25eabd3db6/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 5393,
-    "size_mb": 595,
+    "stars": 5399,
+    "size_mb": 597,
     "created_at": "2025-06-16T14:31:57Z",
-    "last_commit_at": "2026-11-22T07:35:51Z",
+    "last_commit_at": "2026-11-23T02:19:52Z",
     "releases": 43,
-    "tags": 1197,
+    "tags": 1204,
     "archived": false,
     "release": {
       "tag": "v0.7.79",
@@ -61,13 +58,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 38,
+    "star_delta_7d": 44,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "cbbef181eb7adc754d0db6136d6d283e8ea9a8f2",
-    "v": 3
-  }
+  "pins_before": [
+    "cbbef181eb7adc754d0db6136d6d283e8ea9a8f2"
+  ],
+  "pinned_at": "2026-11-23T02:19:52Z",
+  "hot": true
 }

@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4a6967d3067d37010f9673034db27f53cf70e449"
+  },
+  "id": "gh:burhanrashid52/photoeditor",
+  "kind": "repo",
+  "url": "https://github.com/burhanrashid52/PhotoEditor",
+  "title": "PhotoEditor",
+  "why": "Android library for adding stickers, text, emoji and brush drawing onto a photo, with undo and redo kept in a view state.",
+  "keys": {
+    "races": [
+      "mobile/android",
+      "media/photo-editing"
+    ],
+    "lanes": [
+      "mobile/android",
+      "media/photo-editing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/burhanrashid52/PhotoEditor",
+    "sha": "4a6967d3067d37010f9673034db27f53cf70e449",
+    "file_url": "https://cdn.jsdelivr.net/gh/burhanrashid52/PhotoEditor@4a6967d3067d37010f9673034db27f53cf70e449/{path}"
+  },
+  "facts": {
+    "lang": "Kotlin",
+    "license": "MIT",
+    "stars": 4532,
+    "size_mb": 21,
+    "created_at": "2018-01-23T11:44:10Z",
+    "last_commit_at": "2026-09-27T14:43:26Z",
+    "releases": 18,
+    "tags": 19,
+    "archived": false,
+    "release": {
+      "tag": "v.3.1.1",
+      "at": "2026-09-17T11:33:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-09-27T14:43:26Z"
+}

@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2e671e1192c31beca07c02c1d71e06bc223a652b"
+  },
+  "id": "gh:grtlcollaboration/grtresna",
+  "kind": "repo",
+  "url": "https://github.com/GRTLCollaboration/GRTresna",
+  "title": "GRTresna",
+  "why": "Solves initial data constraints for numerical relativity, run in parallel with hybrid MPI/OpenMP and Chombo mesh refinement.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/GRTLCollaboration/GRTresna",
+    "sha": "2e671e1192c31beca07c02c1d71e06bc223a652b",
+    "file_url": "https://cdn.jsdelivr.net/gh/GRTLCollaboration/GRTresna@2e671e1192c31beca07c02c1d71e06bc223a652b/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "BSD-3-Clause",
+    "stars": 7,
+    "size_mb": 2,
+    "created_at": "2022-11-03T17:05:20Z",
+    "last_commit_at": "2026-05-05T01:16:34Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0",
+      "at": "2026-03-23T10:37:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-05-05T01:16:34Z",
+  "papers": [
+    {
+      "id": "arxiv:2501.13046",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

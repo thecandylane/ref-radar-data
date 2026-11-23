@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b0c8203abba33521e3160fd652ebce5ec6342200"
+  },
+  "id": "gh:marcocalza89/grayhawk",
+  "kind": "repo",
+  "url": "https://github.com/marcocalza89/GrayHawk",
+  "title": "GrayHawk",
+  "why": "Wolfram Language code for gray-body factors of spherically symmetric black holes; the spin-2 potential was corrected, so cite the paper.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/marcocalza89/GrayHawk",
+    "sha": "b0c8203abba33521e3160fd652ebce5ec6342200",
+    "file_url": "https://cdn.jsdelivr.net/gh/marcocalza89/GrayHawk@b0c8203abba33521e3160fd652ebce5ec6342200/{path}"
+  },
+  "facts": {
+    "lang": "Wolfram Language",
+    "license": "none",
+    "stars": 5,
+    "size_mb": 3,
+    "created_at": "2025-02-04T16:34:43Z",
+    "last_commit_at": "2026-04-05T18:15:00Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-04-05T18:15:00Z",
+  "papers": [
+    {
+      "id": "arxiv:2502.04041",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

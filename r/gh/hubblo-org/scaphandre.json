@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:04cc6ec9a4926ec73f432b21c8378deee939e824"
+  },
+  "id": "gh:hubblo-org/scaphandre",
+  "kind": "repo",
+  "url": "https://github.com/hubblo-org/scaphandre",
+  "title": "scaphandre",
+  "why": "Measures power draw of bare metal hosts and qemu/kvm virtual machines, then pushes watts to Prometheus, Riemann or Warp10.",
+  "keys": {
+    "races": [
+      "infra/observability"
+    ],
+    "lanes": [
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hubblo-org/scaphandre",
+    "sha": "04cc6ec9a4926ec73f432b21c8378deee939e824",
+    "file_url": "https://cdn.jsdelivr.net/gh/hubblo-org/scaphandre@04cc6ec9a4926ec73f432b21c8378deee939e824/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 2018,
+    "size_mb": 11,
+    "created_at": "2020-10-16T14:10:05Z",
+    "last_commit_at": "2026-07-19T17:50:09Z",
+    "releases": 10,
+    "tags": 50,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.3",
+      "at": "2026-07-17T14:01:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-07-19T17:50:09Z"
+}

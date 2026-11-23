@@ -1,0 +1,63 @@
+{
+  "id": "gh:lkohleick/defa",
+  "kind": "repo",
+  "url": "https://github.com/lkohleick/DEFA",
+  "title": "DEFA",
+  "why": "Pipeline that scores genes from variant lists through LD proxies, annotation tables and trained domain models, run in ordered steps.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "ml/training"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lkohleick/DEFA",
+    "sha": "3312064c473c6f7237723f4a72627f502f33a511",
+    "file_url": "https://cdn.jsdelivr.net/gh/lkohleick/DEFA@3312064c473c6f7237723f4a72627f502f33a511/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2026-09-02T14:06:58Z",
+    "last_commit_at": "2026-11-13T09:10:13Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-11-13T09:22:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-13T09:10:13Z"
+}

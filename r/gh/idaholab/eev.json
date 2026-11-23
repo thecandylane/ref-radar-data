@@ -1,0 +1,55 @@
+{
+  "id": "gh:idaholab/eev",
+  "kind": "repo",
+  "url": "https://github.com/idaholab/EEV",
+  "title": "EEV",
+  "why": "Runs a CPE finder that searches NVD for each product entry and keeps the matches in lists for review.",
+  "keys": {
+    "races": [
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/appsec/vuln-discovery"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/idaholab/EEV",
+    "sha": "16d58ecfae52cbfe0d64c1f133c7aee0f20e2b77",
+    "file_url": "https://cdn.jsdelivr.net/gh/idaholab/EEV@16d58ecfae52cbfe0d64c1f133c7aee0f20e2b77/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 0,
+    "size_mb": 1,
+    "created_at": "2026-02-24T22:51:23Z",
+    "last_commit_at": "2026-03-23T21:36:38Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered"
+}

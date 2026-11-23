@@ -1,0 +1,61 @@
+{
+  "id": "hf:zackriya/diagram2graph",
+  "kind": "model",
+  "url": "https://huggingface.co/zackriya/diagram2graph",
+  "title": "diagram2graph",
+  "why": "Fine-tuned Qwen2.5-VL with LoRA adapters that turns a diagram image into JSON of nodes and edges for flowcharts.",
+  "keys": {
+    "races": [
+      "ml/vision",
+      "agents/frameworks",
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/vision",
+      "agents/frameworks",
+      "ml/training"
+    ],
+    "capabilities": [
+      "agents/frameworks/structured-io"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://huggingface.co/zackriya/diagram2graph",
+    "sha": "976c513c81ea5825567945b89539ca07bddd2d1a",
+    "file_url": "https://huggingface.co/zackriya/diagram2graph/raw/976c513c81ea5825567945b89539ca07bddd2d1a/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "Apache-2.0",
+    "stars": 0,
+    "size_mb": 15030,
+    "created_at": "2025-03-27T09:27:18.000Z",
+    "last_commit_at": "2025-04-05T10:08:15.000Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "likes": 10,
+    "downloads_30d": 0
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-04-05T10:08:15.000Z"
+}

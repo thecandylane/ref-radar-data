@@ -1,0 +1,59 @@
+{
+  "id": "hf:wanglab/medsam2",
+  "kind": "model",
+  "url": "https://huggingface.co/wanglab/MedSAM2",
+  "title": "MedSAM2",
+  "why": "Segments lesions and organs in 3D CT, MRI and ultrasound scans and video, with fine-tuned checkpoints for heart ultrasound and liver MRI.",
+  "keys": {
+    "races": [
+      "medicine/medical-imaging",
+      "ml/vision",
+      "ml/open-models"
+    ],
+    "lanes": [
+      "medicine/medical-imaging",
+      "ml/vision",
+      "ml/open-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://huggingface.co/wanglab/MedSAM2",
+    "sha": "e4a6f35edd7e091619cbc0750f462f1574e23955",
+    "file_url": "https://huggingface.co/wanglab/MedSAM2/raw/e4a6f35edd7e091619cbc0750f462f1574e23955/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "CC-BY-SA-4.0",
+    "stars": 0,
+    "size_mb": 1144,
+    "created_at": "2025-04-01T21:06:26.000Z",
+    "last_commit_at": "2025-07-10T23:00:50.000Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "likes": 51,
+    "downloads_30d": 112
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-07-10T23:00:50.000Z"
+}

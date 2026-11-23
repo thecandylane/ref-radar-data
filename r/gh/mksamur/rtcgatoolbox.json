@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8a5f48fc680618791d0ae552dbaadb6c62b01434"
+  },
+  "id": "gh:mksamur/rtcgatoolbox",
+  "kind": "repo",
+  "url": "https://github.com/mksamur/RTCGAToolbox",
+  "title": "RTCGAToolbox",
+  "why": "R package that pulls cancer genomics data into analysis; the README only points to a project site and vignette.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "medicine/health-data"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "medicine/health-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mksamur/RTCGAToolbox",
+    "sha": "8a5f48fc680618791d0ae552dbaadb6c62b01434",
+    "file_url": "https://cdn.jsdelivr.net/gh/mksamur/RTCGAToolbox@8a5f48fc680618791d0ae552dbaadb6c62b01434/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 19,
+    "size_mb": 10,
+    "created_at": "2014-05-29T14:30:32Z",
+    "last_commit_at": "2026-10-28T17:05:23Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-10-28T17:05:23Z"
+}

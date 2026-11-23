@@ -1,0 +1,54 @@
+{
+  "id": "gh:ppmim/papi4k",
+  "kind": "repo",
+  "url": "https://github.com/ppmim/PAPI4K",
+  "title": "PAPI4K",
+  "why": "Reduces raw near-infrared camera images from Calar Alto through calibration, sky subtraction, cosmic-ray removal and alignment, in Python on IRAF.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ppmim/PAPI4K",
+    "sha": "9f04e1d050ae224c43e854ce601d975e7268428d",
+    "file_url": "https://cdn.jsdelivr.net/gh/ppmim/PAPI4K@9f04e1d050ae224c43e854ce601d975e7268428d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 0,
+    "size_mb": 46,
+    "created_at": "2025-06-09T10:11:17Z",
+    "last_commit_at": "2025-09-22T07:32:51Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-09-22T07:32:51Z"
+}

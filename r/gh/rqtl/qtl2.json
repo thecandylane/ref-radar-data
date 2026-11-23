@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3329fb52cdced4762c6f82b3b5e3c294382ad9ca"
+  },
+  "id": "gh:rqtl/qtl2",
+  "kind": "repo",
+  "url": "https://github.com/rqtl/qtl2",
+  "title": "qtl2",
+  "why": "Reimplements R/qtl for QTL analysis of high-dimensional data and complex crosses such as diversity outbred mice.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rqtl/qtl2",
+    "sha": "3329fb52cdced4762c6f82b3b5e3c294382ad9ca",
+    "file_url": "https://cdn.jsdelivr.net/gh/rqtl/qtl2@3329fb52cdced4762c6f82b3b5e3c294382ad9ca/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 41,
+    "size_mb": 51,
+    "created_at": "2015-06-06T11:03:11Z",
+    "last_commit_at": "2026-07-21T10:49:12Z",
+    "releases": 16,
+    "tags": 24,
+    "archived": false,
+    "release": {
+      "tag": "0.46",
+      "at": "2026-07-21T11:58:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-07-21T10:49:12Z"
+}

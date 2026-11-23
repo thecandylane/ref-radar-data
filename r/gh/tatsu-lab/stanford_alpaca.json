@@ -1,0 +1,85 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:761dc5bfbdeeffa89b8bff5d038781a4055f796a"
+  },
+  "id": "gh:tatsu-lab/stanford_alpaca",
+  "kind": "repo",
+  "url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "title": "stanford_alpaca",
+  "why": "Fine-tunes LLaMA on 52K instruction examples generated with text-davinci-003, plus scripts to recover the weights.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "ml/open-models"
+    ],
+    "lanes": [
+      "ml/training",
+      "ml/open-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tatsu-lab/stanford_alpaca",
+    "sha": "761dc5bfbdeeffa89b8bff5d038781a4055f796a",
+    "file_url": "https://cdn.jsdelivr.net/gh/tatsu-lab/stanford_alpaca@761dc5bfbdeeffa89b8bff5d038781a4055f796a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 30223,
+    "size_mb": 8,
+    "created_at": "2023-03-10T23:33:09Z",
+    "last_commit_at": "2023-05-30T04:36:57Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2023-05-30T04:36:57Z",
+  "papers": [
+    {
+      "id": "arxiv:2503.01275",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2302.13971",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2212.10560",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2106.09685",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

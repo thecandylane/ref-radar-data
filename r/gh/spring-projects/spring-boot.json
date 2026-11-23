@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:4fac8e8693ccfa4c06b1b098e64ba844936106dd"
-  },
   "id": "gh:spring-projects/spring-boot",
   "kind": "repo",
   "url": "https://github.com/spring-projects/spring-boot",
@@ -25,13 +22,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/spring-projects/spring-boot",
-    "sha": "4fac8e8693ccfa4c06b1b098e64ba844936106dd",
-    "file_url": "https://cdn.jsdelivr.net/gh/spring-projects/spring-boot@4fac8e8693ccfa4c06b1b098e64ba844936106dd/{path}"
+    "sha": "ebb5e11c70c50469c45f8aada56dd6d477c6b77f",
+    "file_url": "https://cdn.jsdelivr.net/gh/spring-projects/spring-boot@ebb5e11c70c50469c45f8aada56dd6d477c6b77f/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 81952,
+    "stars": 82024,
     "size_mb": 222,
     "created_at": "2012-10-19T15:02:57Z",
     "last_commit_at": "2026-11-21T23:31:20Z",
@@ -51,13 +48,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 12,
+    "star_delta_7d": 111,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "4fac8e8693ccfa4c06b1b098e64ba844936106dd",
-    "v": 3
-  }
+  "pins_before": [
+    "4fac8e8693ccfa4c06b1b098e64ba844936106dd"
+  ],
+  "pinned_at": "2026-11-21T23:31:20Z",
+  "hot": true
 }

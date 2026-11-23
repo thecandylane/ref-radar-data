@@ -1,0 +1,61 @@
+{
+  "id": "gh:aerya/dockge-enhanced",
+  "kind": "repo",
+  "url": "https://github.com/Aerya/Dockge-Enhanced",
+  "title": "Dockge-Enhanced",
+  "why": "Manages Docker Compose stacks from a web panel, with agent mode, audit logs and prune reports for images and containers.",
+  "keys": {
+    "races": [
+      "infra/hosting",
+      "infra/containers"
+    ],
+    "lanes": [
+      "infra/hosting",
+      "infra/containers"
+    ],
+    "capabilities": [
+      "infra/hosting/control-panels"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Aerya/Dockge-Enhanced",
+    "sha": "d762136d7bcbde82ff7f066b3a5cb23df04ff7a0",
+    "file_url": "https://cdn.jsdelivr.net/gh/Aerya/Dockge-Enhanced@d762136d7bcbde82ff7f066b3a5cb23df04ff7a0/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 169,
+    "size_mb": 33,
+    "created_at": "2026-03-27T14:35:22Z",
+    "last_commit_at": "2026-11-23T05:22:02Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pins_before": [
+    "4ff82a8de50c7de66d5fb301159baa89598420ac"
+  ],
+  "pinned_at": "2026-11-23T05:22:02Z"
+}

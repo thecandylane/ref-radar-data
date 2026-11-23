@@ -1,0 +1,57 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:73f1debfd74d25245403186d52a093e6d846da41"
+  },
+  "id": "gh:kerrickstaley/genanki",
+  "kind": "repo",
+  "url": "https://github.com/kerrickstaley/genanki",
+  "title": "genanki",
+  "why": "Builds Anki decks from Python: define note models with card templates, attach media, and keep stable GUIDs so re-imports update notes.",
+  "keys": {
+    "races": [
+      "learning/spaced-repetition"
+    ],
+    "lanes": [
+      "learning/spaced-repetition"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kerrickstaley/genanki",
+    "sha": "73f1debfd74d25245403186d52a093e6d846da41",
+    "file_url": "https://cdn.jsdelivr.net/gh/kerrickstaley/genanki@73f1debfd74d25245403186d52a093e6d846da41/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 2822,
+    "size_mb": 0,
+    "created_at": "2017-02-14T09:20:42Z",
+    "last_commit_at": "2024-12-30T20:31:50Z",
+    "releases": 0,
+    "tags": 11,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2024-12-30T20:31:50Z"
+}

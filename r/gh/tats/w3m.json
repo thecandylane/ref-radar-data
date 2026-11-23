@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ee66aabc3987000c2851bce6ade4dcbb0b037d81"
+  },
+  "id": "gh:tats/w3m",
+  "kind": "repo",
+  "url": "https://github.com/tats/w3m",
+  "title": "w3m",
+  "why": "Browses pages in text mode and pages through local text too, from a Debian-maintained fork of the original pager.",
+  "keys": {
+    "races": [
+      "web/browsers",
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "web/browsers",
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tats/w3m",
+    "sha": "ee66aabc3987000c2851bce6ade4dcbb0b037d81",
+    "file_url": "https://cdn.jsdelivr.net/gh/tats/w3m@ee66aabc3987000c2851bce6ade4dcbb0b037d81/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 1088,
+    "size_mb": 32,
+    "created_at": "2014-01-26T05:55:21Z",
+    "last_commit_at": "2023-07-18T12:09:33Z",
+    "releases": 0,
+    "tags": 141,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2023-07-18T12:09:33Z"
+}

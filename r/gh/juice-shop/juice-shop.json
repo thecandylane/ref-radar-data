@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:266448aba68cd8ba5915f526a128da4fa7bc3f9f"
-  },
   "id": "gh:juice-shop/juice-shop",
   "kind": "repo",
   "url": "https://github.com/juice-shop/juice-shop",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/juice-shop/juice-shop",
-    "sha": "266448aba68cd8ba5915f526a128da4fa7bc3f9f",
-    "file_url": "https://cdn.jsdelivr.net/gh/juice-shop/juice-shop@266448aba68cd8ba5915f526a128da4fa7bc3f9f/{path}"
+    "sha": "c9f99228d9d56afb5f5ca7925376292f7fa44b13",
+    "file_url": "https://cdn.jsdelivr.net/gh/juice-shop/juice-shop@c9f99228d9d56afb5f5ca7925376292f7fa44b13/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 14510,
+    "stars": 14523,
     "size_mb": 315,
     "created_at": "2014-09-19T14:53:06Z",
     "last_commit_at": "2026-11-19T22:39:05Z",
@@ -57,15 +54,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 64,
+    "star_delta_7d": 74,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "266448aba68cd8ba5915f526a128da4fa7bc3f9f",
-    "v": 3
-  },
-  "pinned_at": "2026-11-08T18:13:15Z",
+  "pins_before": [
+    "266448aba68cd8ba5915f526a128da4fa7bc3f9f"
+  ],
+  "pinned_at": "2026-11-19T22:39:05Z",
   "hot": true
 }

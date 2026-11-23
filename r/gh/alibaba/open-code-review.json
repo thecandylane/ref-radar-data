@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:319c34239de70f718f365f832e20ab74a86ea9e0"
+  },
   "id": "gh:alibaba/open-code-review",
   "kind": "repo",
   "url": "https://github.com/alibaba/open-code-review",
@@ -41,16 +44,16 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 55213,
+    "stars": 55528,
     "size_mb": 57,
     "created_at": "2026-05-18T02:16:36Z",
-    "last_commit_at": "2026-11-22T04:21:29Z",
-    "releases": 152,
-    "tags": 170,
+    "last_commit_at": "2026-11-22T15:34:30Z",
+    "releases": 154,
+    "tags": 172,
     "archived": false,
     "release": {
-      "tag": "v1.14.0",
-      "at": "2026-11-21T07:17:08.000Z"
+      "tag": "v1.14.2",
+      "at": "2026-11-23T03:44:24.000Z"
     }
   },
   "reuse": "copy",
@@ -61,7 +64,7 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 3590,
+    "star_delta_7d": 2972,
     "votes": {},
     "ranks": {}
   },

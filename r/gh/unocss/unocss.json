@@ -22,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/unocss/unocss",
-    "sha": "312ae3dd35c761acf2734ef2641d7e75fb87d05b",
-    "file_url": "https://cdn.jsdelivr.net/gh/unocss/unocss@312ae3dd35c761acf2734ef2641d7e75fb87d05b/{path}"
+    "sha": "c5d43b785330e8e7d71a331320628433d856d404",
+    "file_url": "https://cdn.jsdelivr.net/gh/unocss/unocss@c5d43b785330e8e7d71a331320628433d856d404/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 18995,
+    "stars": 18994,
     "size_mb": 19,
     "created_at": "2021-09-30T17:06:46Z",
-    "last_commit_at": "2026-11-22T07:15:58Z",
+    "last_commit_at": "2026-11-23T03:02:42Z",
     "releases": 495,
     "tags": 505,
     "archived": false,
@@ -48,13 +48,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 6,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "312ae3dd35c761acf2734ef2641d7e75fb87d05b",
-    "v": 3
-  }
+  "pins_before": [
+    "312ae3dd35c761acf2734ef2641d7e75fb87d05b"
+  ],
+  "pinned_at": "2026-11-23T03:02:42Z"
 }

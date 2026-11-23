@@ -1,0 +1,69 @@
+{
+  "id": "gh:sboghossian/nomos",
+  "kind": "repo",
+  "url": "https://github.com/sboghossian/nomos",
+  "title": "nomos",
+  "why": "Lets an agent test whether a contract clause is enforceable and returns a proof tree tracing the verdict back to statutes.",
+  "keys": {
+    "races": [
+      "civic/rules-as-code",
+      "legal/legal-ai",
+      "agents/skills"
+    ],
+    "lanes": [
+      "civic/rules-as-code",
+      "legal/legal-ai",
+      "agents/skills"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sboghossian/nomos",
+    "sha": "209d4f023cbe406a8e54d787d7046ded61b25b02",
+    "file_url": "https://cdn.jsdelivr.net/gh/sboghossian/nomos@209d4f023cbe406a8e54d787d7046ded61b25b02/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 23,
+    "size_mb": 18,
+    "created_at": "2026-04-20T19:44:59Z",
+    "last_commit_at": "2026-04-21T21:53:27Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.1",
+      "at": "2026-04-21T21:15:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-04-21T21:53:27Z"
+}

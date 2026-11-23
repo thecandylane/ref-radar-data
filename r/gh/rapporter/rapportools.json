@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:25f0a9a5e85187817b106ccea063e735fe78990c"
+  },
+  "id": "gh:rapporter/rapportools",
+  "kind": "repo",
+  "url": "https://github.com/Rapporter/rapportools",
+  "title": "rapportools",
+  "why": "Stats helpers that set na.rm to TRUE in min, max and mean, meant to run inside rapport templates.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Rapporter/rapportools",
+    "sha": "25f0a9a5e85187817b106ccea063e735fe78990c",
+    "file_url": "https://cdn.jsdelivr.net/gh/Rapporter/rapportools@25f0a9a5e85187817b106ccea063e735fe78990c/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 9,
+    "size_mb": 0,
+    "created_at": "2014-01-05T00:01:26Z",
+    "last_commit_at": "2025-02-28T22:31:04Z",
+    "releases": 1,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v1.0",
+      "at": "2014-01-06T23:37:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-02-28T22:31:04Z"
+}

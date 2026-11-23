@@ -1,0 +1,59 @@
+{
+  "id": "gh:schemaorg/schemaorg",
+  "kind": "repo",
+  "url": "https://github.com/schemaorg/schemaorg",
+  "title": "schemaorg",
+  "why": "Holds the schema.org vocabulary in Turtle files plus the site build, so proposals get checked against data/schema.ttl.",
+  "keys": {
+    "races": [
+      "seo/structured-data",
+      "web/static-sites"
+    ],
+    "lanes": [
+      "seo/structured-data",
+      "web/static-sites"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/schemaorg/schemaorg",
+    "sha": "ba90187cfadd1b10aa76bcf879910ce05d64960d",
+    "file_url": "https://raw.githubusercontent.com/schemaorg/schemaorg/ba90187cfadd1b10aa76bcf879910ce05d64960d/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "Apache-2.0",
+    "stars": 6316,
+    "size_mb": 259,
+    "created_at": "2014-01-30T23:58:35Z",
+    "last_commit_at": "2026-11-20T14:36:38Z",
+    "releases": 28,
+    "tags": 56,
+    "archived": false,
+    "release": {
+      "tag": "v30.1",
+      "at": "2026-09-15T20:22:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-20T14:36:38Z"
+}

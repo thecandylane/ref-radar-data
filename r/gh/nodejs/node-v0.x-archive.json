@@ -1,0 +1,57 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2a73a6ac7f4bcf70f57a1936ec63981a9104ea00"
+  },
+  "id": "gh:nodejs/node-v0.x-archive",
+  "kind": "repo",
+  "url": "https://github.com/nodejs/node-v0.x-archive",
+  "title": "node-v0.x-archive",
+  "why": "Old Node.js issues and pull requests for v0.10 and v0.12 stay searchable here, since new ones are automatically rejected.",
+  "keys": {
+    "races": [
+      "languages/runtimes"
+    ],
+    "lanes": [
+      "languages/runtimes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nodejs/node-v0.x-archive",
+    "sha": "2a73a6ac7f4bcf70f57a1936ec63981a9104ea00",
+    "file_url": "https://cdn.jsdelivr.net/gh/nodejs/node-v0.x-archive@2a73a6ac7f4bcf70f57a1936ec63981a9104ea00/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "none",
+    "stars": 34255,
+    "size_mb": 141,
+    "created_at": "2009-05-27T16:29:46Z",
+    "last_commit_at": "2017-08-12T23:42:43Z",
+    "releases": 0,
+    "tags": 263,
+    "archived": true,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2017-08-12T23:42:43Z"
+}

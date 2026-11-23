@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:60339bf5c9ae7bdd53ae30c0b034c1ab2b8afe94"
+  },
+  "id": "gh:sandialabs/p2mat",
+  "kind": "repo",
+  "url": "https://github.com/sandialabs/P2MAT",
+  "title": "P2MAT",
+  "why": "Enter SMILES strings in a PyQt5 window to predict melting and boiling points, then export the results table to CSV.",
+  "keys": {
+    "races": [
+      "engineering/chemistry",
+      "desktop/native-ui",
+      "desktop/packaging"
+    ],
+    "lanes": [
+      "engineering/chemistry",
+      "desktop/native-ui",
+      "desktop/packaging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sandialabs/P2MAT",
+    "sha": "60339bf5c9ae7bdd53ae30c0b034c1ab2b8afe94",
+    "file_url": "https://cdn.jsdelivr.net/gh/sandialabs/P2MAT@60339bf5c9ae7bdd53ae30c0b034c1ab2b8afe94/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 3,
+    "size_mb": 193,
+    "created_at": "2025-07-03T19:08:15Z",
+    "last_commit_at": "2026-05-24T19:41:46Z",
+    "releases": 1,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-05-22T20:22:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-05-24T19:41:46Z"
+}

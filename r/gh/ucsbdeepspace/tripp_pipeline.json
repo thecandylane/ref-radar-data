@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9907e6947fbb6e082b46d11bf493cde50dd93448"
+  },
+  "id": "gh:ucsbdeepspace/tripp_pipeline",
+  "kind": "repo",
+  "url": "https://github.com/ucsbdeepspace/tripp_pipeline",
+  "title": "tripp_pipeline",
+  "why": "Finds transient and variable stars in telescope image series by aligning frames, stacking a template and subtracting it.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "ml/vision"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ucsbdeepspace/tripp_pipeline",
+    "sha": "9907e6947fbb6e082b46d11bf493cde50dd93448",
+    "file_url": "https://raw.githubusercontent.com/ucsbdeepspace/tripp_pipeline/9907e6947fbb6e082b46d11bf493cde50dd93448/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 5,
+    "size_mb": 2093,
+    "created_at": "2019-03-09T01:01:55Z",
+    "last_commit_at": "2025-03-26T21:15:36Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-03-26T21:15:36Z"
+}

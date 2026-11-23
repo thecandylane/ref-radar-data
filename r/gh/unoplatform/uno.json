@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:cca5c4f2d83e2441cddb9ff6d26cd813de980d0a"
-  },
   "id": "gh:unoplatform/uno",
   "kind": "repo",
   "url": "https://github.com/unoplatform/uno",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/unoplatform/uno",
-    "sha": "cca5c4f2d83e2441cddb9ff6d26cd813de980d0a",
-    "file_url": "https://raw.githubusercontent.com/unoplatform/uno/cca5c4f2d83e2441cddb9ff6d26cd813de980d0a/{path}"
+    "sha": "7858ac87a16c0f52f321f6a37ad74cedf05de551",
+    "file_url": "https://raw.githubusercontent.com/unoplatform/uno/7858ac87a16c0f52f321f6a37ad74cedf05de551/{path}"
   },
   "facts": {
     "lang": "C#",
     "license": "Apache-2.0",
-    "stars": 10128,
+    "stars": 10130,
     "size_mb": 367,
     "created_at": "2018-05-07T11:52:27Z",
-    "last_commit_at": "2026-11-21T06:39:13Z",
+    "last_commit_at": "2026-11-23T09:48:10Z",
     "releases": 88,
     "tags": 171,
     "archived": false,
@@ -62,8 +59,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "cca5c4f2d83e2441cddb9ff6d26cd813de980d0a",
-    "v": 3
-  }
+  "pins_before": [
+    "cca5c4f2d83e2441cddb9ff6d26cd813de980d0a"
+  ],
+  "pinned_at": "2026-11-23T09:48:10Z"
 }

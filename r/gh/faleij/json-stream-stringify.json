@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:99e9125b57180c13c2a72e90202d9649218c009f"
+  },
+  "id": "gh:faleij/json-stream-stringify",
+  "kind": "repo",
+  "url": "https://github.com/Faleij/json-stream-stringify",
+  "title": "json-stream-stringify",
+  "why": "Streams JSON output piece by piece from objects, promises and readable streams, so large payloads never sit in memory.",
+  "keys": {
+    "races": [
+      "data/serialization",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "data/serialization",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Faleij/json-stream-stringify",
+    "sha": "99e9125b57180c13c2a72e90202d9649218c009f",
+    "file_url": "https://cdn.jsdelivr.net/gh/Faleij/json-stream-stringify@99e9125b57180c13c2a72e90202d9649218c009f/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 91,
+    "size_mb": 1,
+    "created_at": "2016-05-07T16:43:34Z",
+    "last_commit_at": "2026-06-21T11:03:49Z",
+    "releases": 0,
+    "tags": 16,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-06-21T11:03:49Z"
+}

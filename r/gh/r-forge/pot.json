@@ -1,0 +1,57 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b8292765143c11b7f182b734304bae1ba5b3eaae"
+  },
+  "id": "gh:r-forge/pot",
+  "kind": "repo",
+  "url": "https://github.com/r-forge/pot",
+  "title": "pot",
+  "why": "R package fitting extreme value models, with compiled likelihoods for bivariate and Markov chain models, simulation and clustering.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/r-forge/pot",
+    "sha": "b8292765143c11b7f182b734304bae1ba5b3eaae",
+    "file_url": "https://cdn.jsdelivr.net/gh/r-forge/pot@b8292765143c11b7f182b734304bae1ba5b3eaae/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 8,
+    "created_at": "2023-03-17T13:09:55Z",
+    "last_commit_at": "2026-09-18T09:22:58Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-09-18T09:22:58Z"
+}

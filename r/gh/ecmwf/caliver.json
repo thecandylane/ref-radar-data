@@ -1,0 +1,59 @@
+{
+  "id": "gh:ecmwf/caliver",
+  "kind": "repo",
+  "url": "https://github.com/ecmwf/caliver",
+  "title": "caliver",
+  "why": "Calibrates and verifies gridded wildfire danger model output in R, and works with netCDF data from any gridded model.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/statistics"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ecmwf/caliver",
+    "sha": "8dde019dc6e9ffb535ef149a84d66912da8eabc9",
+    "file_url": "https://cdn.jsdelivr.net/gh/ecmwf/caliver@8dde019dc6e9ffb535ef149a84d66912da8eabc9/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 18,
+    "size_mb": 9,
+    "created_at": "2016-11-08T16:11:16Z",
+    "last_commit_at": "2026-11-20T14:10:08Z",
+    "releases": 7,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "2.0",
+      "at": "2021-02-19T16:16:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-20T14:10:08Z"
+}

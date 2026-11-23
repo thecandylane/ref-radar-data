@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:707984727bd5b2b670e59559d3ed2500240cf875"
+  },
+  "id": "gh:php-fig/container",
+  "kind": "repo",
+  "url": "https://github.com/php-fig/container",
+  "title": "php-fig/container",
+  "why": "Gives PHP projects a shared PSR-11 interface for dependency injection containers, with no container implementation of its own.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/php-fig/container",
+    "sha": "707984727bd5b2b670e59559d3ed2500240cf875",
+    "file_url": "https://cdn.jsdelivr.net/gh/php-fig/container@707984727bd5b2b670e59559d3ed2500240cf875/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 9991,
+    "size_mb": 0,
+    "created_at": "2016-08-15T18:35:30Z",
+    "last_commit_at": "2023-09-22T11:11:30Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "2.0.2",
+      "at": "2021-11-05T16:55:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2023-09-22T11:11:30Z"
+}

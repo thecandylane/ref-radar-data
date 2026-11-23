@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9596ab1e69fbbb6c95291141c8dab5c181083216"
+  },
+  "id": "gh:e2b-dev/awesome-ai-agents",
+  "kind": "repo",
+  "url": "https://github.com/e2b-dev/awesome-ai-agents",
+  "title": "awesome-ai-agents",
+  "why": "Browse a long list of open-source and closed AI agent projects, grouped by category and use case, with links to each.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "agents/orchestration"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "agents/orchestration"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/e2b-dev/awesome-ai-agents",
+    "sha": "9596ab1e69fbbb6c95291141c8dab5c181083216",
+    "file_url": "https://cdn.jsdelivr.net/gh/e2b-dev/awesome-ai-agents@9596ab1e69fbbb6c95291141c8dab5c181083216/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "NOASSERTION",
+    "stars": 31035,
+    "size_mb": 115,
+    "created_at": "2023-06-19T00:20:06Z",
+    "last_commit_at": "2026-08-21T18:52:43Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.6",
+      "at": "2023-07-20T05:57:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-08-21T18:52:43Z"
+}

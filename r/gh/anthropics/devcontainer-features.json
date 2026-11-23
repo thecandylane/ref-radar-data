@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4c6fe6a383af8adf71b4b22fd868aaf18b5272b1"
+  },
+  "id": "gh:anthropics/devcontainer-features",
+  "kind": "repo",
+  "url": "https://github.com/anthropics/devcontainer-features",
+  "title": "devcontainer-features",
+  "why": "Dev container feature that installs the Claude Code CLI and Node.js, so a devcontainer.json gets the agent with one line.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "infra/containers"
+    ],
+    "lanes": [
+      "agents/coding",
+      "infra/containers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/anthropics/devcontainer-features",
+    "sha": "4c6fe6a383af8adf71b4b22fd868aaf18b5272b1",
+    "file_url": "https://cdn.jsdelivr.net/gh/anthropics/devcontainer-features@4c6fe6a383af8adf71b4b22fd868aaf18b5272b1/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "MIT",
+    "stars": 317,
+    "size_mb": 0,
+    "created_at": "2025-03-03T05:43:15Z",
+    "last_commit_at": "2025-06-25T00:46:31Z",
+    "releases": 0,
+    "tags": 4,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-06-25T00:46:31Z"
+}

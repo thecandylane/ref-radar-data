@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:4bfdad0c35f3bcedb7c5d97baba98c537e689bf2"
-  },
   "id": "gh:presidentbeef/brakeman",
   "kind": "repo",
   "url": "https://github.com/presidentbeef/brakeman",
@@ -32,8 +29,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/presidentbeef/brakeman",
-    "sha": "4bfdad0c35f3bcedb7c5d97baba98c537e689bf2",
-    "file_url": "https://cdn.jsdelivr.net/gh/presidentbeef/brakeman@4bfdad0c35f3bcedb7c5d97baba98c537e689bf2/{path}"
+    "sha": "fe761e58f9f9d948dc71a8ffe6592602b6a8dc0d",
+    "file_url": "https://cdn.jsdelivr.net/gh/presidentbeef/brakeman@fe761e58f9f9d948dc71a8ffe6592602b6a8dc0d/{path}"
   },
   "facts": {
     "lang": "Ruby",
@@ -58,14 +55,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 2,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "4bfdad0c35f3bcedb7c5d97baba98c537e689bf2",
-    "v": 3
-  },
-  "pinned_at": "2026-10-22T00:10:35Z"
+  "pins_before": [
+    "4bfdad0c35f3bcedb7c5d97baba98c537e689bf2"
+  ],
+  "pinned_at": "2026-11-20T18:53:05Z"
 }

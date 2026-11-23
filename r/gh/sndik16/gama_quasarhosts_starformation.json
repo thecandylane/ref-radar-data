@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0394d31cbd517a61eff4b896749c4998cb09d644"
+  },
+  "id": "gh:sndik16/gama_quasarhosts_starformation",
+  "kind": "repo",
+  "url": "https://github.com/sndik16/GAMA_quasarhosts_starformation",
+  "title": "GAMA_quasarhosts_starformation",
+  "why": "Notebooks and reusable functions that analyse star formation histories of GAMA quasar host galaxies from CIGALE and MAGPHYS fits.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sndik16/GAMA_quasarhosts_starformation",
+    "sha": "0394d31cbd517a61eff4b896749c4998cb09d644",
+    "file_url": "https://cdn.jsdelivr.net/gh/sndik16/GAMA_quasarhosts_starformation@0394d31cbd517a61eff4b896749c4998cb09d644/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 11,
+    "created_at": "2025-10-17T12:31:13Z",
+    "last_commit_at": "2026-02-05T10:53:34Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "astronomy",
+      "at": "2025-10-21T09:52:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-02-05T10:53:34Z"
+}

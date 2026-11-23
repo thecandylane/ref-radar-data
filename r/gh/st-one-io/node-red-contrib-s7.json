@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:29b6b1feb9f5bf929983b052d0e1c4d9e3eaf42f"
+  },
+  "id": "gh:st-one-io/node-red-contrib-s7",
+  "kind": "repo",
+  "url": "https://github.com/st-one-io/node-red-contrib-s7",
+  "title": "node-red-contrib-s7",
+  "why": "Node-RED node that reads Siemens S7 PLC variables into flows, with address examples and notes for S7-1200, S7-1500 and Logo 8.",
+  "keys": {
+    "races": [
+      "industrial/protocols",
+      "industrial/scada"
+    ],
+    "lanes": [
+      "industrial/protocols",
+      "industrial/scada"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/st-one-io/node-red-contrib-s7",
+    "sha": "29b6b1feb9f5bf929983b052d0e1c4d9e3eaf42f",
+    "file_url": "https://cdn.jsdelivr.net/gh/st-one-io/node-red-contrib-s7@29b6b1feb9f5bf929983b052d0e1c4d9e3eaf42f/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "GPL-3.0",
+    "stars": 136,
+    "size_mb": 0,
+    "created_at": "2016-06-20T19:32:25Z",
+    "last_commit_at": "2026-01-15T13:09:24Z",
+    "releases": 0,
+    "tags": 11,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-01-15T13:09:24Z"
+}

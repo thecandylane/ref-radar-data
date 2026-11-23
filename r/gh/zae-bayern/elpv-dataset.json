@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:93e82ae507c36b3f2c8227eade8b792fcbefcca6"
+  },
+  "id": "gh:zae-bayern/elpv-dataset",
+  "kind": "repo",
+  "url": "https://github.com/zae-bayern/elpv-dataset",
+  "title": "elpv-dataset",
+  "why": "Loads 2,624 solar cell images with defect probabilities and module type through one load_dataset call in Python.",
+  "keys": {
+    "races": [
+      "data/datasets",
+      "energy/renewables",
+      "ml/vision"
+    ],
+    "lanes": [
+      "data/datasets",
+      "energy/renewables",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zae-bayern/elpv-dataset",
+    "sha": "93e82ae507c36b3f2c8227eade8b792fcbefcca6",
+    "file_url": "https://cdn.jsdelivr.net/gh/zae-bayern/elpv-dataset@93e82ae507c36b3f2c8227eade8b792fcbefcca6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 317,
+    "size_mb": 91,
+    "created_at": "2018-03-07T10:53:56Z",
+    "last_commit_at": "2026-07-21T18:21:39Z",
+    "releases": 2,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0.post1",
+      "at": "2024-10-13T17:57:29.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-07-21T18:21:39Z"
+}

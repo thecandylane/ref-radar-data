@@ -1,0 +1,74 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:532c83e78cf2ad3c7b86e7db847456609e363213"
+  },
+  "id": "gh:baptistearno/typebot.io",
+  "kind": "repo",
+  "url": "https://github.com/baptisteArno/typebot.io",
+  "title": "typebot.io",
+  "why": "Builds chat flows from 34+ visual blocks and exports collected results to CSV, with a self-hostable builder.",
+  "keys": {
+    "races": [
+      "support/feedback",
+      "agents/frameworks",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "support/feedback",
+      "agents/frameworks",
+      "infra/hosting"
+    ],
+    "capabilities": [
+      "agents/frameworks/bot-frameworks"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/baptisteArno/typebot.io",
+    "sha": "532c83e78cf2ad3c7b86e7db847456609e363213",
+    "file_url": "https://raw.githubusercontent.com/baptisteArno/typebot.io/532c83e78cf2ad3c7b86e7db847456609e363213/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 10643,
+    "size_mb": 395,
+    "created_at": "2021-11-19T09:15:31Z",
+    "last_commit_at": "2026-11-07T10:19:53Z",
+    "releases": 122,
+    "tags": 1100,
+    "archived": false,
+    "release": {
+      "tag": "v3.19.1",
+      "at": "2026-10-20T09:15:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-07T10:19:53Z"
+}

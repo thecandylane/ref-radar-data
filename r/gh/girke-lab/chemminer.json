@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f362c577eabb049b59361ee61ca924cf013b2b3a"
+  },
+  "id": "gh:girke-lab/chemminer",
+  "kind": "repo",
+  "url": "https://github.com/girke-lab/ChemmineR",
+  "title": "ChemmineR",
+  "why": "Compares drug-like small molecules in R with structural similarity search, property predictions and clustering of compound libraries.",
+  "keys": {
+    "races": [
+      "engineering/chemistry"
+    ],
+    "lanes": [
+      "engineering/chemistry"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/girke-lab/ChemmineR",
+    "sha": "f362c577eabb049b59361ee61ca924cf013b2b3a",
+    "file_url": "https://cdn.jsdelivr.net/gh/girke-lab/ChemmineR@f362c577eabb049b59361ee61ca924cf013b2b3a/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 17,
+    "size_mb": 9,
+    "created_at": "2016-10-25T17:16:08Z",
+    "last_commit_at": "2023-07-13T16:58:00Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2023-07-13T16:58:00Z"
+}

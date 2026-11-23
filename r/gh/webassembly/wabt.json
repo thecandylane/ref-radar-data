@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4fbd7198c766e3d450edfe3847ff6f45f360e078"
+  },
+  "id": "gh:webassembly/wabt",
+  "kind": "repo",
+  "url": "https://github.com/WebAssembly/wabt",
+  "title": "wabt",
+  "why": "Translates WebAssembly text and binary files both ways, and keeps 1:1 round-trips with no changes to instructions.",
+  "keys": {
+    "races": [
+      "languages/runtimes",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "languages/runtimes",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/WebAssembly/wabt",
+    "sha": "4fbd7198c766e3d450edfe3847ff6f45f360e078",
+    "file_url": "https://cdn.jsdelivr.net/gh/WebAssembly/wabt@4fbd7198c766e3d450edfe3847ff6f45f360e078/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 8217,
+    "size_mb": 27,
+    "created_at": "2015-09-14T18:14:23Z",
+    "last_commit_at": "2026-11-23T05:10:04Z",
+    "releases": 42,
+    "tags": 49,
+    "archived": false,
+    "release": {
+      "tag": "1.0.42",
+      "at": "2026-09-15T20:34:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

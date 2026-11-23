@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:daf5a27bbe22af6ffa9fb54a44d8d5c250f0ab81"
+    "swh": "swh:1:rev:9de84fd39cc80ce8c56d8b34a4a505a86204c128"
   },
   "id": "gh:vitessio/vitess",
   "kind": "repo",
@@ -29,13 +29,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/vitessio/vitess",
-    "sha": "daf5a27bbe22af6ffa9fb54a44d8d5c250f0ab81",
-    "file_url": "https://cdn.jsdelivr.net/gh/vitessio/vitess@daf5a27bbe22af6ffa9fb54a44d8d5c250f0ab81/{path}"
+    "sha": "9de84fd39cc80ce8c56d8b34a4a505a86204c128",
+    "file_url": "https://cdn.jsdelivr.net/gh/vitessio/vitess@9de84fd39cc80ce8c56d8b34a4a505a86204c128/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 21427,
+    "stars": 21428,
     "size_mb": 549,
     "created_at": "2013-06-27T21:20:28Z",
     "last_commit_at": "2026-11-22T04:12:14Z",
@@ -60,8 +60,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "daf5a27bbe22af6ffa9fb54a44d8d5c250f0ab81",
-    "v": 3
-  }
+  "pins_before": [
+    "daf5a27bbe22af6ffa9fb54a44d8d5c250f0ab81"
+  ],
+  "pinned_at": "2026-11-22T04:12:14Z"
 }

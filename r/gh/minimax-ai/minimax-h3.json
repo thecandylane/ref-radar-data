@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:199b7d0e1fd95e7b3eafa8c15eca692534142427"
+  },
   "id": "gh:minimax-ai/minimax-h3",
   "kind": "repo",
   "url": "https://github.com/MiniMax-AI/MiniMax-H3",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "Python",
     "license": "none",
-    "stars": 12106,
+    "stars": 12162,
     "size_mb": 91,
     "created_at": "2026-07-30T08:41:09Z",
     "last_commit_at": "2026-10-28T10:13:57Z",
@@ -51,5 +54,6 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pinned_at": "2026-10-28T10:13:57Z"
 }

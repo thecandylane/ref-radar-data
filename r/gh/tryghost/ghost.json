@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:e211338510d422ed1700fa0e663e8cc51f9a83a2"
-  },
   "id": "gh:tryghost/ghost",
   "kind": "repo",
   "url": "https://github.com/TryGhost/Ghost",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/TryGhost/Ghost",
-    "sha": "e211338510d422ed1700fa0e663e8cc51f9a83a2",
-    "file_url": "https://cdn.jsdelivr.net/gh/TryGhost/Ghost@e211338510d422ed1700fa0e663e8cc51f9a83a2/{path}"
+    "sha": "46529412e7829c202f0b55b073ff497e41b278ae",
+    "file_url": "https://cdn.jsdelivr.net/gh/TryGhost/Ghost@46529412e7829c202f0b55b073ff497e41b278ae/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 55878,
+    "stars": 55885,
     "size_mb": 627,
     "created_at": "2013-05-04T11:09:13Z",
-    "last_commit_at": "2026-11-21T14:19:34Z",
+    "last_commit_at": "2026-11-23T08:13:30Z",
     "releases": 1000,
     "tags": 1886,
     "archived": false,
@@ -66,9 +63,9 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "e211338510d422ed1700fa0e663e8cc51f9a83a2",
-    "v": 3
-  },
+  "pins_before": [
+    "e211338510d422ed1700fa0e663e8cc51f9a83a2"
+  ],
+  "pinned_at": "2026-11-23T08:13:30Z",
   "hot": true
 }

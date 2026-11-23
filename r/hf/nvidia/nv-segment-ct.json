@@ -1,0 +1,57 @@
+{
+  "id": "hf:nvidia/nv-segment-ct",
+  "kind": "model",
+  "url": "https://huggingface.co/nvidia/NV-Segment-CT",
+  "title": "NV-Segment-CT",
+  "why": "Segments 3D CT volumes from a class index or point clicks, and point prompts work on only one object at a time.",
+  "keys": {
+    "races": [
+      "medicine/medical-imaging",
+      "ml/vision"
+    ],
+    "lanes": [
+      "medicine/medical-imaging",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://huggingface.co/nvidia/NV-Segment-CT",
+    "sha": "afb51518689f71e6abb367ee6301b2cd0225c66a",
+    "file_url": "https://huggingface.co/nvidia/NV-Segment-CT/raw/afb51518689f71e6abb367ee6301b2cd0225c66a/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 2616,
+    "created_at": "2025-10-23T21:55:29.000Z",
+    "last_commit_at": "2026-04-01T20:56:09.000Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "likes": 38,
+    "downloads_30d": 697
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-04-01T20:56:09.000Z"
+}

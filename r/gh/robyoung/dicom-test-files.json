@@ -1,0 +1,59 @@
+{
+  "id": "gh:robyoung/dicom-test-files",
+  "kind": "repo",
+  "url": "https://github.com/robyoung/dicom-test-files",
+  "title": "dicom-test-files",
+  "why": "Gives libraries in many languages a shared set of DICOM example files to test against, shipped as a Rust crate.",
+  "keys": {
+    "races": [
+      "medicine/medical-imaging",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "medicine/medical-imaging",
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/robyoung/dicom-test-files",
+    "sha": "6279c96a8a9d4ed2cfba89ac67ebcf669c4471f9",
+    "file_url": "https://raw.githubusercontent.com/robyoung/dicom-test-files/6279c96a8a9d4ed2cfba89ac67ebcf669c4471f9/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "NOASSERTION",
+    "stars": 34,
+    "size_mb": 243,
+    "created_at": "2020-05-29T20:26:33Z",
+    "last_commit_at": "2026-03-01T13:57:29Z",
+    "releases": 2,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.0",
+      "at": "2026-03-01T14:00:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-03-01T13:57:29Z"
+}

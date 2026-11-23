@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ab0814fc8c62b3d8be40aad068e2fed6562cfeb0"
-  },
   "id": "gh:tokio-rs/tokio",
   "kind": "repo",
   "url": "https://github.com/tokio-rs/tokio",
@@ -27,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/tokio-rs/tokio",
-    "sha": "ab0814fc8c62b3d8be40aad068e2fed6562cfeb0",
-    "file_url": "https://cdn.jsdelivr.net/gh/tokio-rs/tokio@ab0814fc8c62b3d8be40aad068e2fed6562cfeb0/{path}"
+    "sha": "675ba8164071a6eee3dd1f3cb4fbdc1d3664396e",
+    "file_url": "https://cdn.jsdelivr.net/gh/tokio-rs/tokio@675ba8164071a6eee3dd1f3cb4fbdc1d3664396e/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 33764,
+    "stars": 33769,
     "size_mb": 18,
     "created_at": "2016-09-09T22:31:36Z",
     "last_commit_at": "2026-11-21T23:44:33Z",
@@ -58,8 +55,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "ab0814fc8c62b3d8be40aad068e2fed6562cfeb0",
-    "v": 4
-  }
+  "pins_before": [
+    "ab0814fc8c62b3d8be40aad068e2fed6562cfeb0"
+  ],
+  "pinned_at": "2026-11-21T23:44:33Z"
 }

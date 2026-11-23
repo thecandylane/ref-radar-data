@@ -1,0 +1,54 @@
+{
+  "id": "gh:openfisca/openfisca-core",
+  "kind": "repo",
+  "url": "https://github.com/openfisca/openfisca-core",
+  "title": "openfisca-core",
+  "why": "Computes tax and benefit amounts per period from variables and parameter files, and serves them through a web API.",
+  "keys": {
+    "races": [
+      "civic/rules-as-code"
+    ],
+    "lanes": [
+      "civic/rules-as-code"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openfisca/openfisca-core",
+    "sha": "6d0df77b4db2bd46d94a9def72a0a067d2d869f2",
+    "file_url": "https://cdn.jsdelivr.net/gh/openfisca/openfisca-core@6d0df77b4db2bd46d94a9def72a0a067d2d869f2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 252,
+    "size_mb": 29,
+    "created_at": "2013-12-29T15:17:04Z",
+    "last_commit_at": "2026-11-16T16:21:10Z",
+    "releases": 0,
+    "tags": 456,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-16T16:21:10Z"
+}

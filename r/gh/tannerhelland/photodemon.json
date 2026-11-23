@@ -1,0 +1,59 @@
+{
+  "id": "gh:tannerhelland/photodemon",
+  "kind": "repo",
+  "url": "https://github.com/tannerhelland/PhotoDemon",
+  "title": "PhotoDemon",
+  "why": "Portable Windows photo editor with macro recording, batch processing and layered PSD and RAW support, runnable from a USB stick.",
+  "keys": {
+    "races": [
+      "media/photo-editing",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "media/photo-editing",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tannerhelland/PhotoDemon",
+    "sha": "753a02066baff05d3fd99fa3bc8f295b5c7ac8ff",
+    "file_url": "https://cdn.jsdelivr.net/gh/tannerhelland/PhotoDemon@753a02066baff05d3fd99fa3bc8f295b5c7ac8ff/{path}"
+  },
+  "facts": {
+    "lang": "Visual Basic 6.0",
+    "license": "NOASSERTION",
+    "stars": 2436,
+    "size_mb": 215,
+    "created_at": "2012-07-05T23:43:00Z",
+    "last_commit_at": "2026-11-09T15:51:31Z",
+    "releases": 13,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v2025.12",
+      "at": "2025-12-12T18:15:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-09T15:51:31Z"
+}

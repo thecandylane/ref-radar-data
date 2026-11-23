@@ -1,0 +1,59 @@
+{
+  "id": "gh:camm2325/microlink",
+  "kind": "repo",
+  "url": "https://github.com/CamM2325/microlink",
+  "title": "microlink",
+  "why": "VPN peer client for microcontrollers that moves traffic between WiFi and cellular uplinks, with a cellular modem driver and an AT socket layer.",
+  "keys": {
+    "races": [
+      "embedded/firmware",
+      "infra/networking"
+    ],
+    "lanes": [
+      "embedded/firmware",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CamM2325/microlink",
+    "sha": "1cb8d1c8a8408ad1b9a339b18bed3e970b71dafe",
+    "file_url": "https://cdn.jsdelivr.net/gh/CamM2325/microlink@1cb8d1c8a8408ad1b9a339b18bed3e970b71dafe/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 469,
+    "size_mb": 1,
+    "created_at": "2025-12-07T00:07:31Z",
+    "last_commit_at": "2026-11-18T18:18:56Z",
+    "releases": 7,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v2.3.0",
+      "at": "2026-11-17T21:40:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-18T18:18:56Z"
+}

@@ -22,13 +22,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/agentclientprotocol/agent-client-protocol",
-    "sha": "17747b91cd79442e796204b85cad7112bcc876b0",
-    "file_url": "https://cdn.jsdelivr.net/gh/agentclientprotocol/agent-client-protocol@17747b91cd79442e796204b85cad7112bcc876b0/{path}"
+    "sha": "d83e9c420f010c504c19084bbc0cf2fb5fdd8880",
+    "file_url": "https://cdn.jsdelivr.net/gh/agentclientprotocol/agent-client-protocol@d83e9c420f010c504c19084bbc0cf2fb5fdd8880/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 4711,
+    "stars": 4718,
     "size_mb": 42,
     "created_at": "2025-06-23T17:39:36Z",
     "last_commit_at": "2026-11-22T08:03:07Z",
@@ -48,12 +48,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 57,
+    "star_delta_7d": 64,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pins_before": [
+    "17747b91cd79442e796204b85cad7112bcc876b0",
     "3c0a15bddc8e40dd765303ffea5d4fe67e9a463e",
     "4aab69b4e6bcb53965ff5b1141d2f04a62a25c6c",
     "7f94b6ae5a1b7acb5c8abd724505fb1281338e6a",
@@ -61,5 +62,5 @@
     "c9e3e707bb3802dd6863966040ef3f3e21c56acc",
     "eeb4db6388b233f2d4ac4eafffadc9bdfb321fd3"
   ],
-  "pinned_at": "2026-11-21T11:38:29Z"
+  "pinned_at": "2026-11-23T11:37:31Z"
 }

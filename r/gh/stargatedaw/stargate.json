@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3b7e1d9b00128e90ed60b8964dd948a91f29e5c6"
+  },
+  "id": "gh:stargatedaw/stargate",
+  "kind": "repo",
+  "url": "https://github.com/stargatedaw/stargate",
+  "title": "stargate",
+  "why": "Bundles a pattern-based DAW with built-in instrument and effect plugins, a wave editor and a track routing matrix with sidechaining.",
+  "keys": {
+    "races": [
+      "media/audio-production",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "media/audio-production",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/stargatedaw/stargate",
+    "sha": "3b7e1d9b00128e90ed60b8964dd948a91f29e5c6",
+    "file_url": "https://cdn.jsdelivr.net/gh/stargatedaw/stargate@3b7e1d9b00128e90ed60b8964dd948a91f29e5c6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 891,
+    "size_mb": 40,
+    "created_at": "2021-09-27T01:45:56Z",
+    "last_commit_at": "2024-06-22T23:53:35Z",
+    "releases": 52,
+    "tags": 69,
+    "archived": false,
+    "release": {
+      "tag": "release-24.02.2",
+      "at": "2024-01-29T02:52:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2024-06-22T23:53:35Z"
+}

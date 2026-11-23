@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:44fa6598a10f2c29cd5d8745bf29cc04b75cb3ad"
-  },
   "id": "gh:zylon-ai/private-gpt",
   "kind": "repo",
   "url": "https://github.com/zylon-ai/private-gpt",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/zylon-ai/private-gpt",
-    "sha": "44fa6598a10f2c29cd5d8745bf29cc04b75cb3ad",
-    "file_url": "https://cdn.jsdelivr.net/gh/zylon-ai/private-gpt@44fa6598a10f2c29cd5d8745bf29cc04b75cb3ad/{path}"
+    "sha": "2373cc7b912019c9b8fdb8907b2c256799b2adcb",
+    "file_url": "https://cdn.jsdelivr.net/gh/zylon-ai/private-gpt@2373cc7b912019c9b8fdb8907b2c256799b2adcb/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -55,13 +52,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 5,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "44fa6598a10f2c29cd5d8745bf29cc04b75cb3ad",
-    "v": 3
-  }
+  "pins_before": [
+    "44fa6598a10f2c29cd5d8745bf29cc04b75cb3ad"
+  ],
+  "pinned_at": "2026-11-18T11:09:06Z"
 }

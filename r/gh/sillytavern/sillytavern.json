@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:06bde939fb1e9c4c8d8641d810f0a916b5bce127"
-  },
   "id": "gh:sillytavern/sillytavern",
   "kind": "repo",
   "url": "https://github.com/SillyTavern/SillyTavern",
@@ -31,14 +28,14 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/SillyTavern/SillyTavern",
-    "sha": "06bde939fb1e9c4c8d8641d810f0a916b5bce127",
-    "file_url": "https://cdn.jsdelivr.net/gh/SillyTavern/SillyTavern@06bde939fb1e9c4c8d8641d810f0a916b5bce127/{path}"
+    "sha": "82b64a45c34facbc98ff4b9f33c067d3ccab6a17",
+    "file_url": "https://cdn.jsdelivr.net/gh/SillyTavern/SillyTavern@82b64a45c34facbc98ff4b9f33c067d3ccab6a17/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "AGPL-3.0",
-    "stars": 35934,
-    "size_mb": 212,
+    "stars": 35972,
+    "size_mb": 211,
     "created_at": "2023-02-09T10:19:24Z",
     "last_commit_at": "2026-11-19T22:08:08Z",
     "releases": 104,
@@ -57,15 +54,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 300,
+    "star_delta_7d": 303,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "06bde939fb1e9c4c8d8641d810f0a916b5bce127",
-    "v": 3
-  },
-  "pinned_at": "2026-09-14T19:01:34Z",
+  "pins_before": [
+    "06bde939fb1e9c4c8d8641d810f0a916b5bce127"
+  ],
+  "pinned_at": "2026-11-19T22:08:08Z",
   "hot": true
 }

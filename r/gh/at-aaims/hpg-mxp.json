@@ -1,0 +1,63 @@
+{
+  "id": "gh:at-aaims/hpg-mxp",
+  "kind": "repo",
+  "url": "https://github.com/at-aaims/HPG-MxP",
+  "title": "HPG-MxP",
+  "why": "Benchmarks a multigrid-preconditioned GMRES solver with iterative refinement on distributed MPI and GPU kernels for sparse matrices.",
+  "keys": {
+    "races": [
+      "sci/hpc",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "sci/hpc",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/at-aaims/HPG-MxP",
+    "sha": "f255f31bb5dc71d3c773893d9417934d1f2096ff",
+    "file_url": "https://cdn.jsdelivr.net/gh/at-aaims/HPG-MxP@f255f31bb5dc71d3c773893d9417934d1f2096ff/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "size_mb": 13,
+    "created_at": "2025-04-23T18:01:45Z",
+    "last_commit_at": "2026-10-13T02:00:42Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2025-04-28T15:02:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-10-13T02:00:42Z"
+}

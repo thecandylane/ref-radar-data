@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:99e2a29ec0c42db2793d7b47d09d78c39bb2e91d"
-  },
   "id": "gh:wasmerio/wasmer",
   "kind": "repo",
   "url": "https://github.com/wasmerio/wasmer",
@@ -33,13 +30,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/wasmerio/wasmer",
-    "sha": "99e2a29ec0c42db2793d7b47d09d78c39bb2e91d",
-    "file_url": "https://cdn.jsdelivr.net/gh/wasmerio/wasmer@99e2a29ec0c42db2793d7b47d09d78c39bb2e91d/{path}"
+    "sha": "29e67da7ca5fb5b3b41300d643437b623411c7c9",
+    "file_url": "https://cdn.jsdelivr.net/gh/wasmerio/wasmer@29e67da7ca5fb5b3b41300d643437b623411c7c9/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 21255,
+    "stars": 21258,
     "size_mb": 672,
     "created_at": "2018-10-11T10:15:53Z",
     "last_commit_at": "2026-11-19T13:57:49Z",
@@ -64,8 +61,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "99e2a29ec0c42db2793d7b47d09d78c39bb2e91d",
-    "v": 3
-  }
+  "pins_before": [
+    "99e2a29ec0c42db2793d7b47d09d78c39bb2e91d"
+  ],
+  "pinned_at": "2026-11-19T13:57:49Z"
 }

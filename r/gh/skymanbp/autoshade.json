@@ -1,0 +1,61 @@
+{
+  "id": "gh:skymanbp/autoshade",
+  "kind": "repo",
+  "url": "https://github.com/skymanbp/autoshade",
+  "title": "autoshade",
+  "why": "Denoises RAW photos with local models, and also segments subjects and estimates depth from the same image files.",
+  "keys": {
+    "races": [
+      "media/photo-editing"
+    ],
+    "lanes": [
+      "media/photo-editing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/skymanbp/autoshade",
+    "sha": "8dabaacc5c2db1400a78e217475d0b2bc4c9d9cd",
+    "file_url": "https://cdn.jsdelivr.net/gh/skymanbp/autoshade@8dabaacc5c2db1400a78e217475d0b2bc4c9d9cd/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 997,
+    "size_mb": 32,
+    "created_at": "2026-06-26T18:55:41Z",
+    "last_commit_at": "2026-11-21T03:03:07Z",
+    "releases": 101,
+    "tags": 101,
+    "archived": false,
+    "release": {
+      "tag": "v1.18.5",
+      "at": "2026-11-21T02:55:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-21T03:03:07Z"
+}

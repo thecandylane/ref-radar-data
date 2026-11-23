@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0e63d4f9d2c29043b4cf1d2f40d1812a7cde1369"
+  },
+  "id": "gh:actions/runner-images",
+  "kind": "repo",
+  "url": "https://github.com/actions/runner-images",
+  "title": "runner-images",
+  "why": "Source for the VM images behind GitHub-hosted runners, listing preinstalled software, labels, support policy and how to build an image yourself.",
+  "keys": {
+    "races": [
+      "infra/ci-cd",
+      "infra/containers",
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "infra/ci-cd",
+      "infra/containers",
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/actions/runner-images",
+    "sha": "0e63d4f9d2c29043b4cf1d2f40d1812a7cde1369",
+    "file_url": "https://cdn.jsdelivr.net/gh/actions/runner-images@0e63d4f9d2c29043b4cf1d2f40d1812a7cde1369/{path}"
+  },
+  "facts": {
+    "lang": "PowerShell",
+    "license": "MIT",
+    "stars": 13621,
+    "size_mb": 16,
+    "created_at": "2019-06-05T15:02:59Z",
+    "last_commit_at": "2026-11-20T18:22:29Z",
+    "releases": 1000,
+    "tags": 2475,
+    "archived": false,
+    "release": {
+      "tag": "macos-26-arm64/20261117.0516",
+      "at": "2026-11-18T11:59:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-20T18:22:29Z"
+}

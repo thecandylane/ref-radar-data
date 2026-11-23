@@ -1,0 +1,61 @@
+{
+  "id": "gh:hmiproject/open62541",
+  "kind": "repo",
+  "url": "https://github.com/HMIProject/open62541",
+  "title": "HMIProject/open62541",
+  "why": "Rust client and server bindings for open62541 with async reads, writes, method calls, subscriptions, browsing and certificate encryption.",
+  "keys": {
+    "races": [
+      "industrial/protocols"
+    ],
+    "lanes": [
+      "industrial/protocols"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/HMIProject/open62541",
+    "sha": "c63cbc28c48e283ce2bb5d2fc244e4930858aee6",
+    "file_url": "https://cdn.jsdelivr.net/gh/HMIProject/open62541@c63cbc28c48e283ce2bb5d2fc244e4930858aee6/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "none",
+    "stars": 33,
+    "size_mb": 1,
+    "created_at": "2023-11-22T16:58:26Z",
+    "last_commit_at": "2026-11-03T11:10:13Z",
+    "releases": 35,
+    "tags": 42,
+    "archived": false,
+    "release": {
+      "tag": "v0.10.1",
+      "at": "2025-10-29T16:11:02.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-03T11:10:13Z"
+}

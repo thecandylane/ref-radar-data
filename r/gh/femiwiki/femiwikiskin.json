@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c65f944988ee6507ae74cc6dc0e10fb2b37fc374"
+  },
+  "id": "gh:femiwiki/femiwikiskin",
+  "kind": "repo",
+  "url": "https://github.com/femiwiki/FemiwikiSkin",
+  "title": "FemiwikiSkin",
+  "why": "MediaWiki skin in PHP and Less that adds pinning, a table of contents and a navigation bar to wiki pages.",
+  "keys": {
+    "races": [
+      "web/cms",
+      "web/css"
+    ],
+    "lanes": [
+      "web/cms",
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/femiwiki/FemiwikiSkin",
+    "sha": "c65f944988ee6507ae74cc6dc0e10fb2b37fc374",
+    "file_url": "https://cdn.jsdelivr.net/gh/femiwiki/FemiwikiSkin@c65f944988ee6507ae74cc6dc0e10fb2b37fc374/{path}"
+  },
+  "facts": {
+    "lang": "Less",
+    "license": "AGPL-3.0",
+    "stars": 8,
+    "size_mb": 19,
+    "created_at": "2017-01-08T15:23:20Z",
+    "last_commit_at": "2026-11-21T08:10:30Z",
+    "releases": 84,
+    "tags": 95,
+    "archived": false,
+    "release": {
+      "tag": "v6.4.0",
+      "at": "2026-11-21T08:10:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-21T08:10:30Z"
+}

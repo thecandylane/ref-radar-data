@@ -1,0 +1,66 @@
+{
+  "id": "gh:amitmatat/clokio-mcp",
+  "kind": "repo",
+  "url": "https://github.com/AmitMatat/clokio-mcp",
+  "title": "clokio-mcp",
+  "why": "Gives agents MCP tools over Clokio customers, leads, tickets, attendance and documents, with customer text flagged as untrusted.",
+  "keys": {
+    "races": [
+      "sales/crm",
+      "support/helpdesk",
+      "hr/time-tracking",
+      "agents/tools"
+    ],
+    "lanes": [
+      "sales/crm",
+      "support/helpdesk",
+      "hr/time-tracking",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AmitMatat/clokio-mcp",
+    "sha": "ed5340bc61b8ce538694b596917a2d0a22720d34",
+    "file_url": "https://cdn.jsdelivr.net/gh/AmitMatat/clokio-mcp@ed5340bc61b8ce538694b596917a2d0a22720d34/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 1,
+    "created_at": "2026-09-26T08:24:52Z",
+    "last_commit_at": "2026-11-21T10:52:01Z",
+    "releases": 0,
+    "tags": 5,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-21T10:52:01Z"
+}

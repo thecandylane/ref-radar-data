@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6eaf3cdd8998c078729666d7ac010a8a4427e5fb"
+  },
+  "id": "gh:daattali/shinydisconnect",
+  "kind": "repo",
+  "url": "https://github.com/daattali/shinydisconnect",
+  "title": "shinydisconnect",
+  "why": "Swap Shiny's default disconnect strip for your own message, shown the same way locally in RStudio and on deployed Shiny servers.",
+  "keys": {
+    "races": [
+      "web/ui-components",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/ui-components",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/daattali/shinydisconnect",
+    "sha": "6eaf3cdd8998c078729666d7ac010a8a4427e5fb",
+    "file_url": "https://cdn.jsdelivr.net/gh/daattali/shinydisconnect@6eaf3cdd8998c078729666d7ac010a8a4427e5fb/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 71,
+    "size_mb": 0,
+    "created_at": "2020-06-08T06:55:01Z",
+    "last_commit_at": "2024-08-18T18:44:16Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "0.1.1",
+      "at": "2023-08-21T13:03:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2024-08-18T18:44:16Z"
+}

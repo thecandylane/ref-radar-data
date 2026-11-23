@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:37b194378b710cc40e406ab6c4b07608bb9548ae"
+  },
   "id": "gh:steinbergmedia/bravura",
   "kind": "repo",
   "url": "https://github.com/steinbergmedia/bravura",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": null,
     "license": "OFL-1.1",
-    "stars": 438,
+    "stars": 439,
     "size_mb": 166,
     "created_at": "2014-08-21T09:40:18Z",
     "last_commit_at": "2026-08-24T21:16:08Z",
@@ -52,5 +55,6 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pinned_at": "2026-08-24T21:16:08Z"
 }

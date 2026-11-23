@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:700ad7d63df04e565bcd14d2aec6f935fcec5185"
+    "swh": "swh:1:rev:40c6beb3082aaf3144e14185b79f8e7e3ec00f78"
   },
   "id": "gh:v1s1t0r1sh3r3/airgeddon",
   "kind": "repo",
@@ -27,13 +27,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/v1s1t0r1sh3r3/airgeddon",
-    "sha": "700ad7d63df04e565bcd14d2aec6f935fcec5185",
-    "file_url": "https://cdn.jsdelivr.net/gh/v1s1t0r1sh3r3/airgeddon@700ad7d63df04e565bcd14d2aec6f935fcec5185/{path}"
+    "sha": "40c6beb3082aaf3144e14185b79f8e7e3ec00f78",
+    "file_url": "https://cdn.jsdelivr.net/gh/v1s1t0r1sh3r3/airgeddon@40c6beb3082aaf3144e14185b79f8e7e3ec00f78/{path}"
   },
   "facts": {
     "lang": "Shell",
     "license": "GPL-3.0",
-    "stars": 8174,
+    "stars": 8175,
     "size_mb": 72,
     "created_at": "2016-03-18T10:34:56Z",
     "last_commit_at": "2026-11-12T16:31:25Z",
@@ -53,13 +53,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 27,
+    "star_delta_7d": 28,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "700ad7d63df04e565bcd14d2aec6f935fcec5185",
-    "v": 3
-  }
+  "pins_before": [
+    "700ad7d63df04e565bcd14d2aec6f935fcec5185"
+  ],
+  "pinned_at": "2026-11-12T16:31:25Z"
 }

@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:42d7641106deeefb95c7a5750f0360604ba5a1f6"
+  },
+  "id": "gh:ropensci/forcis",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/forcis",
+  "title": "forcis",
+  "why": "Downloads, filters and converts the FORCIS foraminifera data into abundances, so researchers can work with it without advanced R skills.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/datasets"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/forcis",
+    "sha": "42d7641106deeefb95c7a5750f0360604ba5a1f6",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/forcis@42d7641106deeefb95c7a5750f0360604ba5a1f6/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-2.0",
+    "stars": 6,
+    "size_mb": 9,
+    "created_at": "2021-11-16T15:43:25Z",
+    "last_commit_at": "2026-07-08T06:36:28Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "1.0.1",
+      "at": "2025-05-20T09:22:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-07-08T06:36:28Z"
+}

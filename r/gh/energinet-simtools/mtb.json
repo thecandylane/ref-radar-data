@@ -1,0 +1,56 @@
+{
+  "id": "gh:energinet-simtools/mtb",
+  "kind": "repo",
+  "url": "https://github.com/Energinet-SimTools/MTB",
+  "title": "MTB",
+  "why": "Batch-runs PSCAD and PowerFactory cases, then turns the psout output into plots and cursor metrics for each simulation.",
+  "keys": {
+    "races": [
+      "energy/power-grid"
+    ],
+    "lanes": [
+      "energy/power-grid"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Energinet-SimTools/MTB",
+    "sha": "b4d23fb6f70fde6c385219ed32306c4b1f8b1f74",
+    "file_url": "https://cdn.jsdelivr.net/gh/Energinet-SimTools/MTB@b4d23fb6f70fde6c385219ed32306c4b1f8b1f74/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 83,
+    "size_mb": 17,
+    "created_at": "2023-01-04T10:35:11Z",
+    "last_commit_at": "2026-11-23T09:03:46Z",
+    "releases": 23,
+    "tags": 23,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.1",
+      "at": "2026-11-23T09:13:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

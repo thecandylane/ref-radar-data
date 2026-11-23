@@ -1,0 +1,63 @@
+{
+  "id": "gh:ripose-jp/memento",
+  "kind": "repo",
+  "url": "https://github.com/ripose-jp/Memento",
+  "title": "Memento",
+  "why": "Turns dictionary lookups into Anki notes with audio, screenshot and video attached, inside a desktop reader.",
+  "keys": {
+    "races": [
+      "learning/spaced-repetition",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "learning/spaced-repetition",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ripose-jp/Memento",
+    "sha": "27b786b7cfca54220ae38e1919cd1b7f850106ab",
+    "file_url": "https://cdn.jsdelivr.net/gh/ripose-jp/Memento@27b786b7cfca54220ae38e1919cd1b7f850106ab/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-2.0",
+    "stars": 1514,
+    "size_mb": 143,
+    "created_at": "2020-10-08T22:38:20Z",
+    "last_commit_at": "2026-11-21T06:29:13Z",
+    "releases": 41,
+    "tags": 45,
+    "archived": false,
+    "release": {
+      "tag": "v2.1.0",
+      "at": "2026-11-21T06:18:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-21T06:29:13Z"
+}

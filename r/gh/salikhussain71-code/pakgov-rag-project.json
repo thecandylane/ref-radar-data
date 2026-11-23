@@ -1,0 +1,62 @@
+{
+  "id": "gh:salikhussain71-code/pakgov-rag-project",
+  "kind": "repo",
+  "url": "https://github.com/salikhussain71-code/PAKGOV-RAG-project",
+  "title": "PAKGOV-RAG-project",
+  "why": "Runs OCR on PDFs, chunks the text, and blends BM25 and dense embedding retrieval, with hybrid evaluation scripts for comparing them.",
+  "keys": {
+    "races": [
+      "llm-infra/rag",
+      "business-apps/document-management"
+    ],
+    "lanes": [
+      "llm-infra/rag",
+      "business-apps/document-management"
+    ],
+    "capabilities": [
+      "llm-infra/rag/vector-search"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/salikhussain71-code/PAKGOV-RAG-project",
+    "sha": "c9acc4cde1ea499f0267eb2b41a387f49e2e5101",
+    "file_url": "https://cdn.jsdelivr.net/gh/salikhussain71-code/PAKGOV-RAG-project@c9acc4cde1ea499f0267eb2b41a387f49e2e5101/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 134,
+    "size_mb": 37,
+    "created_at": "2026-09-17T10:31:00Z",
+    "last_commit_at": "2026-11-21T17:43:02Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-21T17:43:02Z"
+}

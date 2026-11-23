@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b26b4c53821c73161852730b6fdb9eafe23220df"
+  },
+  "id": "gh:ropensci/rnoaa",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/rnoaa",
+  "title": "rnoaa",
+  "why": "Pulls NOAA climate, buoy, sea ice, tides and severe weather data into R in tidy formats, through the NCDC API and FTP sources.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/datasets"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/rnoaa",
+    "sha": "b26b4c53821c73161852730b6fdb9eafe23220df",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/rnoaa@b26b4c53821c73161852730b6fdb9eafe23220df/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 342,
+    "size_mb": 107,
+    "created_at": "2013-07-08T22:31:24Z",
+    "last_commit_at": "2025-02-04T14:23:38Z",
+    "releases": 27,
+    "tags": 29,
+    "archived": false,
+    "release": {
+      "tag": "c1.3.7",
+      "at": "2021-11-18T23:21:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-02-04T14:23:38Z"
+}

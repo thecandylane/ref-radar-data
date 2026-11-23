@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2f21bc2922e9df78ccc72fbfb566b18745e3ac61"
+  },
+  "id": "gh:shadowwalker/next-pwa",
+  "kind": "repo",
+  "url": "https://github.com/shadowwalker/next-pwa",
+  "title": "next-pwa",
+  "why": "Adds a service worker with precaching and offline fallbacks to a Next.js app through workbox, with little setup beyond a config wrapper.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "web/static-sites"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "web/static-sites"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/shadowwalker/next-pwa",
+    "sha": "2f21bc2922e9df78ccc72fbfb566b18745e3ac61",
+    "file_url": "https://cdn.jsdelivr.net/gh/shadowwalker/next-pwa@2f21bc2922e9df78ccc72fbfb566b18745e3ac61/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 4075,
+    "size_mb": 1,
+    "created_at": "2019-04-01T20:07:00Z",
+    "last_commit_at": "2024-01-20T06:02:11Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "5.6.1",
+      "at": "2022-12-18T05:00:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2024-01-20T06:02:11Z"
+}

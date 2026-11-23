@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:41e08fa344b5774c4079034e0014dce6a2170e8b"
+  },
+  "id": "gh:uu-hydro/pcr-globwb_model",
+  "kind": "repo",
+  "url": "https://github.com/UU-Hydro/PCR-GLOBWB_model",
+  "title": "PCR-GLOBWB_model",
+  "why": "Runs a global hydrological and water resources model from ini configs, with input files readable remotely over OPeNDAP so no 250 GB download.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/UU-Hydro/PCR-GLOBWB_model",
+    "sha": "41e08fa344b5774c4079034e0014dce6a2170e8b",
+    "file_url": "https://cdn.jsdelivr.net/gh/UU-Hydro/PCR-GLOBWB_model@41e08fa344b5774c4079034e0014dce6a2170e8b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 152,
+    "size_mb": 94,
+    "created_at": "2016-08-17T15:20:35Z",
+    "last_commit_at": "2025-11-25T11:14:46Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-11-25T11:14:46Z"
+}

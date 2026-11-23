@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4832488766f4ad6861b6cff78f33213ceafeecc4"
+  },
+  "id": "gh:ropensci/drake",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/drake",
+  "title": "ropensci/drake",
+  "why": "Skips R analysis steps whose results are still up to date, and it is superseded, so new projects should move to targets.",
+  "keys": {
+    "races": [
+      "data/pipelines",
+      "sci/hpc"
+    ],
+    "lanes": [
+      "data/pipelines",
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/drake",
+    "sha": "4832488766f4ad6861b6cff78f33213ceafeecc4",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/drake@4832488766f4ad6861b6cff78f33213ceafeecc4/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 1344,
+    "size_mb": 95,
+    "created_at": "2017-02-20T22:28:40Z",
+    "last_commit_at": "2024-12-03T19:23:08Z",
+    "releases": 63,
+    "tags": 63,
+    "archived": false,
+    "release": {
+      "tag": "7.13.10",
+      "at": "2024-05-15T18:32:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2024-12-03T19:23:08Z"
+}

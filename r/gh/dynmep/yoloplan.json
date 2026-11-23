@@ -1,0 +1,59 @@
+{
+  "id": "gh:dynmep/yoloplan",
+  "kind": "repo",
+  "url": "https://github.com/DynMEP/YOLOplan",
+  "title": "YOLOplan",
+  "why": "Detects and counts electrical and HVAC symbols in PDF drawings with a YOLO11 model, so takeoff quantities come from a script.",
+  "keys": {
+    "races": [
+      "construction/project-controls",
+      "ml/vision"
+    ],
+    "lanes": [
+      "construction/project-controls",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/DynMEP/YOLOplan",
+    "sha": "3ec5e6e1ab0a02d34a20c745db3ed07350a3dc68",
+    "file_url": "https://cdn.jsdelivr.net/gh/DynMEP/YOLOplan@3ec5e6e1ab0a02d34a20c745db3ed07350a3dc68/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 31,
+    "size_mb": 0,
+    "created_at": "2025-07-11T20:52:40Z",
+    "last_commit_at": "2026-08-21T16:11:09Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2026-08-06T22:44:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-08-21T16:11:09Z"
+}

@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:adbc8813901bba65827259daa8e22ff94ec1f30e"
+  },
+  "id": "gh:spf13/cobra",
+  "kind": "repo",
+  "url": "https://github.com/spf13/cobra",
+  "title": "spf13/cobra",
+  "why": "Builds Go command-line tools with nested subcommands, POSIX flags and generated shell completions for bash, zsh, fish and PowerShell.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/spf13/cobra",
+    "sha": "adbc8813901bba65827259daa8e22ff94ec1f30e",
+    "file_url": "https://cdn.jsdelivr.net/gh/spf13/cobra@adbc8813901bba65827259daa8e22ff94ec1f30e/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 44825,
+    "size_mb": 2,
+    "created_at": "2013-09-03T20:40:26Z",
+    "last_commit_at": "2026-07-11T00:43:07Z",
+    "releases": 27,
+    "tags": 29,
+    "archived": false,
+    "release": {
+      "tag": "v1.10.2",
+      "at": "2025-12-04T00:07:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-07-11T00:43:07Z"
+}

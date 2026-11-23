@@ -1,0 +1,80 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bb348cfad1ea865ba5f533f5dbba71c78a66dc81"
+  },
+  "id": "gh:rkkuang/triplelens",
+  "kind": "repo",
+  "url": "https://github.com/rkkuang/triplelens",
+  "title": "triplelens",
+  "why": "Computes magnification light curves for triple-lens microlensing events by contour integration, with a C++ core and Python bindings.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rkkuang/triplelens",
+    "sha": "bb348cfad1ea865ba5f533f5dbba71c78a66dc81",
+    "file_url": "https://cdn.jsdelivr.net/gh/rkkuang/triplelens@bb348cfad1ea865ba5f533f5dbba71c78a66dc81/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 8,
+    "size_mb": 36,
+    "created_at": "2020-06-24T02:31:27Z",
+    "last_commit_at": "2022-10-30T04:21:00Z",
+    "releases": 7,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.7",
+      "at": "2021-08-30T10:45:02.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2022-10-30T04:21:00Z",
+  "papers": [
+    {
+      "id": "arxiv:2011.04780",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1203.1034",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

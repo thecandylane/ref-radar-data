@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e5a90136b21f0f354ca406a4beaa2af9b5fb9afe"
+  },
+  "id": "gh:epurdom/clusterexperiment",
+  "kind": "repo",
+  "url": "https://github.com/epurdom/clusterExperiment",
+  "title": "clusterExperiment",
+  "why": "R package for consensus clustering of expression data, with compiled routines for repeated subsampling and pair searching.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/epurdom/clusterExperiment",
+    "sha": "e5a90136b21f0f354ca406a4beaa2af9b5fb9afe",
+    "file_url": "https://cdn.jsdelivr.net/gh/epurdom/clusterExperiment@e5a90136b21f0f354ca406a4beaa2af9b5fb9afe/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 42,
+    "size_mb": 185,
+    "created_at": "2015-11-30T19:06:53Z",
+    "last_commit_at": "2026-11-06T00:12:11Z",
+    "releases": 17,
+    "tags": 37,
+    "archived": false,
+    "release": {
+      "tag": "2.1.5",
+      "at": "2018-06-28T11:16:13.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-06T00:12:11Z"
+}

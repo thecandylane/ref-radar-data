@@ -1,0 +1,63 @@
+{
+  "id": "gh:unlayer/react-image-editor",
+  "kind": "repo",
+  "url": "https://github.com/unlayer/react-image-editor",
+  "title": "react-image-editor",
+  "why": "React component that loads an image editor script on demand and exposes save results through a ref-based instance API.",
+  "keys": {
+    "races": [
+      "media/photo-editing",
+      "web/ui-components"
+    ],
+    "lanes": [
+      "media/photo-editing",
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/unlayer/react-image-editor",
+    "sha": "b202016422c3ed02e1ce0f4737d13fb0478abb64",
+    "file_url": "https://cdn.jsdelivr.net/gh/unlayer/react-image-editor@b202016422c3ed02e1ce0f4737d13fb0478abb64/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 267,
+    "size_mb": 0,
+    "created_at": "2026-07-07T02:50:04Z",
+    "last_commit_at": "2026-10-08T13:40:02Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.2",
+      "at": "2026-08-31T16:47:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-10-08T13:40:02Z"
+}

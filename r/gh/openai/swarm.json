@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6af0b4caf37dca4526dfd98e9fbd8ce36e7eeb22"
+  },
+  "id": "gh:openai/swarm",
+  "kind": "repo",
+  "url": "https://github.com/openai/swarm",
+  "title": "swarm",
+  "why": "Runs a chat conversation across several agents by returning another agent from a function, and stays stateless between calls.",
+  "keys": {
+    "races": [
+      "agents/orchestration",
+      "agents/frameworks"
+    ],
+    "lanes": [
+      "agents/orchestration",
+      "agents/frameworks"
+    ],
+    "capabilities": [
+      "agents/orchestration/agent-teams"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openai/swarm",
+    "sha": "6af0b4caf37dca4526dfd98e9fbd8ce36e7eeb22",
+    "file_url": "https://cdn.jsdelivr.net/gh/openai/swarm@6af0b4caf37dca4526dfd98e9fbd8ce36e7eeb22/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 22156,
+    "size_mb": 1,
+    "created_at": "2024-02-22T20:53:54Z",
+    "last_commit_at": "2026-04-15T17:10:28Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-04-15T17:10:28Z"
+}

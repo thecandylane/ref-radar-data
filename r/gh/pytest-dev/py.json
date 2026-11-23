@@ -1,0 +1,53 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6b219734fcd8d2f6489c2f50585a435b34c029c2"
+  },
+  "id": "gh:pytest-dev/py",
+  "kind": "repo",
+  "url": "https://github.com/pytest-dev/py",
+  "title": "py",
+  "why": "Maintenance-only Python helper whose py.path and py.code modules show the older API that pathlib and pytest replaced.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pytest-dev/py",
+    "sha": "6b219734fcd8d2f6489c2f50585a435b34c029c2",
+    "file_url": "https://cdn.jsdelivr.net/gh/pytest-dev/py@6b219734fcd8d2f6489c2f50585a435b34c029c2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 73,
+    "size_mb": 21,
+    "created_at": "2016-09-17T05:55:51Z",
+    "last_commit_at": "2023-06-19T11:28:05Z",
+    "releases": 0,
+    "tags": 61,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2023-06-19T11:28:05Z"
+}

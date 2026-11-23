@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:07f16e1e8286ca06900f310604d28daaf267d51c"
+  },
+  "id": "gh:pgaulon/zeekjs-notice-slack",
+  "kind": "repo",
+  "url": "https://github.com/pgaulon/zeekjs-notice-slack",
+  "title": "zeekjs-notice-slack",
+  "why": "Posts Zeek notices to Slack webhooks through ZeekJS, with the emoji and username set in local.zeek.",
+  "keys": {
+    "races": [
+      "netsec/ids",
+      "netsec/capture"
+    ],
+    "lanes": [
+      "netsec/ids",
+      "netsec/capture"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pgaulon/zeekjs-notice-slack",
+    "sha": "07f16e1e8286ca06900f310604d28daaf267d51c",
+    "file_url": "https://cdn.jsdelivr.net/gh/pgaulon/zeekjs-notice-slack@07f16e1e8286ca06900f310604d28daaf267d51c/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "BSD-3-Clause",
+    "stars": 2,
+    "size_mb": 0,
+    "created_at": "2023-07-18T12:40:05Z",
+    "last_commit_at": "2023-08-01T14:04:29Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v0.0.5",
+      "at": "2023-08-01T14:05:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2023-08-01T14:04:29Z"
+}

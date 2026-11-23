@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1f5250d562c48a08ab1cd975e83400037e0c288f"
+  },
+  "id": "gh:ropensci/gitignore",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/gitignore",
+  "title": "ropensci/gitignore",
+  "why": "Fetches gitignore templates from the gitignore.io API in R and writes them into a project's .gitignore file.",
+  "keys": {
+    "races": [
+      "dev-tools/vcs"
+    ],
+    "lanes": [
+      "dev-tools/vcs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/gitignore",
+    "sha": "1f5250d562c48a08ab1cd975e83400037e0c288f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/gitignore@1f5250d562c48a08ab1cd975e83400037e0c288f/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 35,
+    "size_mb": 1,
+    "created_at": "2019-05-03T13:24:46Z",
+    "last_commit_at": "2024-11-01T20:45:35Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.8.9000",
+      "at": "2024-11-01T20:42:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2024-11-01T20:45:35Z"
+}

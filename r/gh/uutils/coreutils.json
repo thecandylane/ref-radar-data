@@ -1,0 +1,66 @@
+{
+  "id": "gh:uutils/coreutils",
+  "kind": "repo",
+  "url": "https://github.com/uutils/coreutils",
+  "title": "coreutils",
+  "why": "Cross-platform Rust rewrite of GNU coreutils that aims to match GNU output exactly, built as one multicall binary or individual tools.",
+  "keys": {
+    "races": [
+      "systems/os",
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "systems/os",
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/uutils/coreutils",
+    "sha": "8b16a3dca86ae91df73db3d375205eb7718c4c03",
+    "file_url": "https://cdn.jsdelivr.net/gh/uutils/coreutils@8b16a3dca86ae91df73db3d375205eb7718c4c03/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 24432,
+    "size_mb": 51,
+    "created_at": "2013-08-02T16:22:56Z",
+    "last_commit_at": "2026-11-22T22:38:53Z",
+    "releases": 44,
+    "tags": 45,
+    "archived": false,
+    "release": {
+      "tag": "0.13.0",
+      "at": "2026-11-20T06:53:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pins_before": [
+    "95954130e199028b63b426763240eac52ccea24f"
+  ],
+  "pinned_at": "2026-11-22T22:38:53Z"
+}

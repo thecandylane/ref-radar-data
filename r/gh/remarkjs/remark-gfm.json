@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:109972e8a773bf5dac1d6d2da0776557f36971aa"
+  },
+  "id": "gh:remarkjs/remark-gfm",
+  "kind": "repo",
+  "url": "https://github.com/remarkjs/remark-gfm",
+  "title": "remark-gfm",
+  "why": "Adds GitHub-flavored markdown to remark: autolinks, footnotes, strikethrough, tables and tasklists, with options for table alignment.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/remarkjs/remark-gfm",
+    "sha": "109972e8a773bf5dac1d6d2da0776557f36971aa",
+    "file_url": "https://cdn.jsdelivr.net/gh/remarkjs/remark-gfm@109972e8a773bf5dac1d6d2da0776557f36971aa/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 1259,
+    "size_mb": 0,
+    "created_at": "2020-10-04T09:42:34Z",
+    "last_commit_at": "2025-02-10T12:43:04Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "4.0.1",
+      "at": "2025-02-10T12:43:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-02-10T12:43:04Z"
+}

@@ -1,0 +1,57 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4232eaf043694b8b8e2bfe1095f03185be39a8af"
+  },
+  "id": "gh:seandavi/methylumi",
+  "kind": "repo",
+  "url": "https://github.com/seandavi/methylumi",
+  "title": "methylumi",
+  "why": "Imports Illumina methylation arrays into R, reading raw IDAT files, then normalizing and running quality control.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/seandavi/methylumi",
+    "sha": "4232eaf043694b8b8e2bfe1095f03185be39a8af",
+    "file_url": "https://cdn.jsdelivr.net/gh/seandavi/methylumi@4232eaf043694b8b8e2bfe1095f03185be39a8af/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 9,
+    "size_mb": 9,
+    "created_at": "2011-10-17T00:02:37Z",
+    "last_commit_at": "2026-08-14T16:33:14Z",
+    "releases": 0,
+    "tags": 7,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-08-14T16:33:14Z"
+}

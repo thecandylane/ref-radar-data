@@ -1,0 +1,61 @@
+{
+  "id": "gh:icranet/astro-mmdc",
+  "kind": "repo",
+  "url": "https://github.com/icranet/astro-mmdc",
+  "title": "astro-mmdc",
+  "why": "Wraps a remote SED and catalog API in Python, with polling helpers that wait on batch jobs and unit conversions for plots.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/icranet/astro-mmdc",
+    "sha": "2a03ce81061c0dee5b5c8ffa033cb353af46eb99",
+    "file_url": "https://cdn.jsdelivr.net/gh/icranet/astro-mmdc@2a03ce81061c0dee5b5c8ffa033cb353af46eb99/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 1,
+    "size_mb": 4,
+    "created_at": "2026-09-27T15:12:46Z",
+    "last_commit_at": "2026-11-11T15:07:55Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.16",
+      "at": "2026-11-11T15:05:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-11T15:07:55Z"
+}

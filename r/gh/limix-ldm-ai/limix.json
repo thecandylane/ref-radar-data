@@ -1,0 +1,58 @@
+{
+  "id": "gh:limix-ldm-ai/limix",
+  "kind": "repo",
+  "url": "https://github.com/limix-ldm-ai/LimiX",
+  "title": "LimiX",
+  "why": "Runs a tabular prediction model on CSV data from the command line, with GPU or CPU layouts and missing value imputation.",
+  "keys": {
+    "races": [
+      "ml/open-models",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "ml/open-models",
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/limix-ldm-ai/LimiX",
+    "sha": "db592af4a2f6f97ae20d9bf5fe56facdc00d7441",
+    "file_url": "https://cdn.jsdelivr.net/gh/limix-ldm-ai/LimiX@db592af4a2f6f97ae20d9bf5fe56facdc00d7441/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 4426,
+    "size_mb": 17,
+    "created_at": "2025-08-27T07:15:45Z",
+    "last_commit_at": "2026-11-23T06:06:46Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "V1.1.0",
+      "at": "2025-11-10T08:04:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4d57c5aec586a0e035dff40bce1bdd395c7ae89c"
+  },
+  "id": "gh:notfloran/mjml-bundle",
+  "kind": "repo",
+  "url": "https://github.com/notFloran/mjml-bundle",
+  "title": "mjml-bundle",
+  "why": "Renders MJML email templates inside Symfony twig views, through the official Node binary or the mjml-php extension.",
+  "keys": {
+    "races": [
+      "marketing/email",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "marketing/email",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/notFloran/mjml-bundle",
+    "sha": "4d57c5aec586a0e035dff40bce1bdd395c7ae89c",
+    "file_url": "https://cdn.jsdelivr.net/gh/notFloran/mjml-bundle@4d57c5aec586a0e035dff40bce1bdd395c7ae89c/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 116,
+    "size_mb": 0,
+    "created_at": "2017-09-05T18:35:37Z",
+    "last_commit_at": "2026-05-14T08:23:27Z",
+    "releases": 34,
+    "tags": 34,
+    "archived": false,
+    "release": {
+      "tag": "v3.11.0",
+      "at": "2026-05-14T08:24:29.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-05-14T08:23:27Z"
+}

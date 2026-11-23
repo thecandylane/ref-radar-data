@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:dde60e2a19aaef55190c659eac6ec917c39e9b43"
+  },
+  "id": "gh:flo354/iosforensic",
+  "kind": "repo",
+  "url": "https://github.com/Flo354/iOSForensic",
+  "title": "iOSForensic",
+  "why": "Pulls files, logs and sqlite3 databases off a jailbroken iOS device over OpenSSH, and uncompresses plist files to XML.",
+  "keys": {
+    "races": [
+      "mobile/ios",
+      "forensics/triage"
+    ],
+    "lanes": [
+      "mobile/ios",
+      "forensics/triage"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Flo354/iOSForensic",
+    "sha": "dde60e2a19aaef55190c659eac6ec917c39e9b43",
+    "file_url": "https://cdn.jsdelivr.net/gh/Flo354/iOSForensic@dde60e2a19aaef55190c659eac6ec917c39e9b43/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 65,
+    "size_mb": 0,
+    "created_at": "2014-05-20T12:09:50Z",
+    "last_commit_at": "2014-06-10T14:52:58Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": true,
+    "release": {
+      "tag": "1.0",
+      "at": "2014-06-10T11:14:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2014-06-10T14:52:58Z"
+}

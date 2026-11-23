@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:fc3908e786c318776df89a3a098333da377364be"
+  },
   "id": "gh:agricidaniel/claude-ads",
   "kind": "repo",
   "url": "https://github.com/AgriciDaniel/claude-ads",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 11202,
+    "stars": 11257,
     "size_mb": 6,
     "created_at": "2026-02-11T13:01:49Z",
     "last_commit_at": "2026-10-17T01:33:38Z",
@@ -54,5 +57,6 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pinned_at": "2026-10-17T01:33:38Z"
 }

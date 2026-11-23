@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9b802c5f2dbf13061e0732b02e06c3823ee1d9d9"
-  },
   "id": "gh:fmicompbio/quasr",
   "kind": "repo",
   "url": "https://github.com/fmicompbio/QuasR",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/fmicompbio/QuasR",
-    "sha": "9b802c5f2dbf13061e0732b02e06c3823ee1d9d9",
-    "file_url": "https://cdn.jsdelivr.net/gh/fmicompbio/QuasR@9b802c5f2dbf13061e0732b02e06c3823ee1d9d9/{path}"
+    "sha": "0b6905cd8ce3a184111e73b22859a2252729521f",
+    "file_url": "https://cdn.jsdelivr.net/gh/fmicompbio/QuasR@0b6905cd8ce3a184111e73b22859a2252729521f/{path}"
   },
   "facts": {
     "lang": "R",
     "license": "none",
     "stars": 7,
-    "size_mb": 20,
+    "size_mb": 21,
     "created_at": "2018-11-05T08:25:25Z",
-    "last_commit_at": "2026-07-29T15:53:41Z",
+    "last_commit_at": "2026-11-22T14:54:38Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -57,9 +54,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "9b802c5f2dbf13061e0732b02e06c3823ee1d9d9",
-    "v": 3
-  },
-  "pinned_at": "2026-07-29T15:53:41Z"
+  "pins_before": [
+    "9b802c5f2dbf13061e0732b02e06c3823ee1d9d9"
+  ],
+  "pinned_at": "2026-11-22T14:54:38Z"
 }

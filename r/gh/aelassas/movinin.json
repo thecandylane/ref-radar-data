@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:bda8a8cfb05a34a17d610b66a9905fb679d73bd4"
-  },
   "id": "gh:aelassas/movinin",
   "kind": "repo",
   "url": "https://github.com/aelassas/movinin",
@@ -33,22 +30,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/aelassas/movinin",
-    "sha": "bda8a8cfb05a34a17d610b66a9905fb679d73bd4",
-    "file_url": "https://cdn.jsdelivr.net/gh/aelassas/movinin@bda8a8cfb05a34a17d610b66a9905fb679d73bd4/{path}"
+    "sha": "7e5c05e3b54232a93fc69527d7042c6a6c299632",
+    "file_url": "https://cdn.jsdelivr.net/gh/aelassas/movinin@7e5c05e3b54232a93fc69527d7042c6a6c299632/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
     "stars": 232,
-    "size_mb": 43,
+    "size_mb": 42,
     "created_at": "2023-08-29T20:14:55Z",
-    "last_commit_at": "2026-11-20T07:47:49Z",
-    "releases": 70,
-    "tags": 70,
+    "last_commit_at": "2026-11-22T19:00:55Z",
+    "releases": 71,
+    "tags": 71,
     "archived": false,
     "release": {
-      "tag": "v7.9",
-      "at": "2026-11-20T07:47:27.000Z"
+      "tag": "v8.0",
+      "at": "2026-11-22T19:00:33.000Z"
     }
   },
   "reuse": "copy",
@@ -64,9 +61,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "bda8a8cfb05a34a17d610b66a9905fb679d73bd4",
-    "v": 4
-  },
-  "pinned_at": "2026-11-20T07:47:49Z"
+  "pins_before": [
+    "bda8a8cfb05a34a17d610b66a9905fb679d73bd4"
+  ],
+  "pinned_at": "2026-11-22T19:00:55Z"
 }

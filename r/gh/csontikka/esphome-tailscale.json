@@ -1,0 +1,63 @@
+{
+  "id": "gh:csontikka/esphome-tailscale",
+  "kind": "repo",
+  "url": "https://github.com/Csontikka/esphome-tailscale",
+  "title": "esphome-tailscale",
+  "why": "Puts a Tailscale node into ESPHome firmware, with a Noise handshake, DERP relay sessions and telemetry sent from the device.",
+  "keys": {
+    "races": [
+      "embedded/firmware",
+      "infra/networking"
+    ],
+    "lanes": [
+      "embedded/firmware",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Csontikka/esphome-tailscale",
+    "sha": "b024bcc35d384526a520a0f91c7b22187ade935e",
+    "file_url": "https://cdn.jsdelivr.net/gh/Csontikka/esphome-tailscale@b024bcc35d384526a520a0f91c7b22187ade935e/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 197,
+    "size_mb": 6,
+    "created_at": "2026-04-08T21:28:05Z",
+    "last_commit_at": "2026-11-17T09:31:59Z",
+    "releases": 47,
+    "tags": 47,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.32",
+      "at": "2026-11-17T09:36:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-17T09:31:59Z"
+}

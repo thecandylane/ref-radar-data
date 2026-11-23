@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:0e9e88fea0fc93f20ee6a65a27a795a666be43e8"
-  },
   "id": "gh:adonisjs/core",
   "kind": "repo",
   "url": "https://github.com/adonisjs/core",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/adonisjs/core",
-    "sha": "0e9e88fea0fc93f20ee6a65a27a795a666be43e8",
-    "file_url": "https://cdn.jsdelivr.net/gh/adonisjs/core@0e9e88fea0fc93f20ee6a65a27a795a666be43e8/{path}"
+    "sha": "1c7581594eab91572e1f1c306a21cd788d27eff0",
+    "file_url": "https://cdn.jsdelivr.net/gh/adonisjs/core@1c7581594eab91572e1f1c306a21cd788d27eff0/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -40,7 +37,7 @@
     "stars": 19192,
     "size_mb": 7,
     "created_at": "2015-08-15T17:03:54Z",
-    "last_commit_at": "2026-11-19T06:48:15Z",
+    "last_commit_at": "2026-11-23T05:43:49Z",
     "releases": 258,
     "tags": 333,
     "archived": false,
@@ -63,7 +60,8 @@
   },
   "tier": "curated",
   "pins_before": [
+    "0e9e88fea0fc93f20ee6a65a27a795a666be43e8",
     "683eb60de35efaec6efc6d222e9254768c5eeabb"
   ],
-  "pinned_at": "2026-11-19T06:48:15Z"
+  "pinned_at": "2026-11-23T05:43:49Z"
 }

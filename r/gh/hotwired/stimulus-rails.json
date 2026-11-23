@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f5c7475abf8701ebb96cecb7e99c6b5bf876452f"
+  },
+  "id": "gh:hotwired/stimulus-rails",
+  "kind": "repo",
+  "url": "https://github.com/hotwired/stimulus-rails",
+  "title": "stimulus-rails",
+  "why": "Wires the Stimulus JavaScript framework into Rails apps with an installer for import maps or bundlers, plus a controller generator.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hotwired/stimulus-rails",
+    "sha": "f5c7475abf8701ebb96cecb7e99c6b5bf876452f",
+    "file_url": "https://cdn.jsdelivr.net/gh/hotwired/stimulus-rails@f5c7475abf8701ebb96cecb7e99c6b5bf876452f/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 727,
+    "size_mb": 0,
+    "created_at": "2020-12-02T18:50:06Z",
+    "last_commit_at": "2025-03-03T15:46:58Z",
+    "releases": 14,
+    "tags": 52,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.4",
+      "at": "2024-08-16T23:27:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-03-03T15:46:58Z"
+}

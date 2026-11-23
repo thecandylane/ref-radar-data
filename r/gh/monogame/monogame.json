@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:76ed1c24f7dbe91421023c553978fa723548b22a"
-  },
   "id": "gh:monogame/monogame",
   "kind": "repo",
   "url": "https://github.com/MonoGame/MonoGame",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/MonoGame/MonoGame",
-    "sha": "76ed1c24f7dbe91421023c553978fa723548b22a",
-    "file_url": "https://cdn.jsdelivr.net/gh/MonoGame/MonoGame@76ed1c24f7dbe91421023c553978fa723548b22a/{path}"
+    "sha": "58c3f764305dee10f75c10f57ad9380344c6514b",
+    "file_url": "https://cdn.jsdelivr.net/gh/MonoGame/MonoGame@58c3f764305dee10f75c10f57ad9380344c6514b/{path}"
   },
   "facts": {
     "lang": "C#",
@@ -57,14 +54,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 29,
+    "star_delta_7d": 25,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "76ed1c24f7dbe91421023c553978fa723548b22a",
-    "v": 3
-  },
-  "pinned_at": "2026-11-03T22:11:56Z"
+  "pins_before": [
+    "76ed1c24f7dbe91421023c553978fa723548b22a"
+  ],
+  "pinned_at": "2026-11-21T19:31:59Z"
 }

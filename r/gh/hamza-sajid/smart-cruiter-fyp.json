@@ -1,0 +1,57 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ce371bcac05745ad5579d9b0e2a8348509cf8afc"
+  },
+  "id": "gh:hamza-sajid/smart-cruiter-fyp",
+  "kind": "repo",
+  "url": "https://github.com/Hamza-Sajid/Smart-Cruiter-FYP",
+  "title": "Smart-Cruiter-FYP",
+  "why": "A MERN applicant tracking system covering job creation, applicant stages, online interviews and emails to candidates.",
+  "keys": {
+    "races": [
+      "hr/recruiting"
+    ],
+    "lanes": [
+      "hr/recruiting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Hamza-Sajid/Smart-Cruiter-FYP",
+    "sha": "ce371bcac05745ad5579d9b0e2a8348509cf8afc",
+    "file_url": "https://cdn.jsdelivr.net/gh/Hamza-Sajid/Smart-Cruiter-FYP@ce371bcac05745ad5579d9b0e2a8348509cf8afc/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "none",
+    "stars": 49,
+    "size_mb": 4,
+    "created_at": "2023-01-26T16:16:13Z",
+    "last_commit_at": "2025-04-17T18:14:59Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-04-17T18:14:59Z"
+}

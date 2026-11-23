@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cec1513eb8ee4f1146e31129a4f3e3af597eb2dc"
+  },
+  "id": "gh:komanawa/komanawa-gw-detect-power",
+  "kind": "repo",
+  "url": "https://github.com/Komanawa/komanawa-gw-detect-power",
+  "title": "komanawa-gw-detect-power",
+  "why": "Gives the detection power of a well or stream monitor under Mann-Kendall and Pettitt tests, given measured noise.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/statistics"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Komanawa/komanawa-gw-detect-power",
+    "sha": "cec1513eb8ee4f1146e31129a4f3e3af597eb2dc",
+    "file_url": "https://raw.githubusercontent.com/Komanawa/komanawa-gw-detect-power/cec1513eb8ee4f1146e31129a4f3e3af597eb2dc/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "LGPL-3.0",
+    "stars": 0,
+    "size_mb": 99,
+    "created_at": "2023-08-24T20:44:25Z",
+    "last_commit_at": "2026-06-27T21:33:08Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.2",
+      "at": "2026-06-22T01:21:07.000Z"
+    },
+    "doi": "10.21105/joss.09390",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-23"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-06-27T21:33:08Z"
+}

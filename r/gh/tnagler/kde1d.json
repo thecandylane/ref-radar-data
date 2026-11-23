@@ -1,0 +1,90 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9ac579edefc62026dee4eb066594173232c3dea3"
+  },
+  "id": "gh:tnagler/kde1d",
+  "kind": "repo",
+  "url": "https://github.com/tnagler/kde1d",
+  "title": "kde1d",
+  "why": "Fits one-dimensional kernel density estimates with density, distribution and quantile functions, with the fitting done in compiled code.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tnagler/kde1d",
+    "sha": "9ac579edefc62026dee4eb066594173232c3dea3",
+    "file_url": "https://cdn.jsdelivr.net/gh/tnagler/kde1d@9ac579edefc62026dee4eb066594173232c3dea3/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 14,
+    "size_mb": 3,
+    "created_at": "2018-03-19T22:57:24Z",
+    "last_commit_at": "2026-09-14T21:53:07Z",
+    "releases": 14,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.2",
+      "at": "2026-09-14T21:54:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-09-14T21:53:07Z",
+  "papers": [
+    {
+      "id": "arxiv:1705.05431",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1704.07457",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1602.04862",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1303.4121",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

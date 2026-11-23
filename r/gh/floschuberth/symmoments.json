@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bc257400ccc858ac1eb9ca07b5d2bdf4941e5ccf"
+  },
+  "id": "gh:floschuberth/symmoments",
+  "kind": "repo",
+  "url": "https://github.com/FloSchuberth/symmoments",
+  "title": "symmoments",
+  "why": "Symbolically computes multivariate normal moments as expressions in mu and S, then evaluates them at a covariance matrix.",
+  "keys": {
+    "races": [
+      "sci/symbolic",
+      "data/statistics"
+    ],
+    "lanes": [
+      "sci/symbolic",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/FloSchuberth/symmoments",
+    "sha": "bc257400ccc858ac1eb9ca07b5d2bdf4941e5ccf",
+    "file_url": "https://cdn.jsdelivr.net/gh/FloSchuberth/symmoments@bc257400ccc858ac1eb9ca07b5d2bdf4941e5ccf/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 2,
+    "created_at": "2026-05-22T06:47:45Z",
+    "last_commit_at": "2026-09-16T14:54:05Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.2",
+      "at": "2026-05-27T06:39:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-09-16T14:54:05Z"
+}

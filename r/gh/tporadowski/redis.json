@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c59c9365be41e8936fef00af5b1b149ab91b70ba"
-  },
   "id": "gh:tporadowski/redis",
   "kind": "repo",
   "url": "https://github.com/tporadowski/redis",
@@ -33,13 +30,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/tporadowski/redis",
-    "sha": "c59c9365be41e8936fef00af5b1b149ab91b70ba",
-    "file_url": "https://cdn.jsdelivr.net/gh/tporadowski/redis@c59c9365be41e8936fef00af5b1b149ab91b70ba/{path}"
+    "sha": "f4894a6a4d665171f776bfdb48081f5695b61d9c",
+    "file_url": "https://cdn.jsdelivr.net/gh/tporadowski/redis@f4894a6a4d665171f776bfdb48081f5695b61d9c/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 10292,
+    "stars": 10293,
     "size_mb": 323,
     "created_at": "2017-10-24T10:18:38Z",
     "last_commit_at": "2026-11-19T22:17:23Z",
@@ -64,8 +61,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "c59c9365be41e8936fef00af5b1b149ab91b70ba",
-    "v": 3
-  }
+  "pins_before": [
+    "c59c9365be41e8936fef00af5b1b149ab91b70ba"
+  ],
+  "pinned_at": "2026-11-19T22:17:23Z"
 }

@@ -1,0 +1,60 @@
+{
+  "id": "gh:scikit-learn/scikit-learn",
+  "kind": "repo",
+  "url": "https://github.com/scikit-learn/scikit-learn",
+  "title": "scikit-learn",
+  "why": "Python machine learning module built on SciPy, covering statistics and data analysis, with plotting helpers that need Matplotlib.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "ml/training",
+      "ml/vision"
+    ],
+    "lanes": [
+      "data/statistics",
+      "ml/training",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/scikit-learn/scikit-learn",
+    "sha": "f85f0584d5d7a66068bfe50b395ac855b2289dc2",
+    "file_url": "https://cdn.jsdelivr.net/gh/scikit-learn/scikit-learn@f85f0584d5d7a66068bfe50b395ac855b2289dc2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 68299,
+    "size_mb": 184,
+    "created_at": "2010-08-17T09:43:38Z",
+    "last_commit_at": "2026-11-21T14:45:12Z",
+    "releases": 51,
+    "tags": 156,
+    "archived": false,
+    "release": {
+      "tag": "1.9.1",
+      "at": "2026-09-11T09:38:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

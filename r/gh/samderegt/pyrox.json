@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:203cc5e38077e5b64f1cf9e1cba0b4d9600f7e96"
+  },
+  "id": "gh:samderegt/pyrox",
+  "kind": "repo",
+  "url": "https://github.com/samderegt/pyROX",
+  "title": "pyROX",
+  "why": "Computes line opacity cross-sections from ExoMol, HITRAN, HITEMP and Kurucz line lists for exoplanet and stellar atmosphere models, driven from a config script.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/samderegt/pyROX",
+    "sha": "203cc5e38077e5b64f1cf9e1cba0b4d9600f7e96",
+    "file_url": "https://cdn.jsdelivr.net/gh/samderegt/pyROX@203cc5e38077e5b64f1cf9e1cba0b4d9600f7e96/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 9,
+    "size_mb": 12,
+    "created_at": "2024-01-10T08:23:18Z",
+    "last_commit_at": "2026-06-23T14:27:31Z",
+    "releases": 2,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2026-05-19T16:48:48.000Z"
+    },
+    "doi": "10.21105/joss.10081",
+    "citations": {
+      "count": 2,
+      "by": "Crossref",
+      "at": "2026-11-23"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-06-23T14:27:31Z"
+}

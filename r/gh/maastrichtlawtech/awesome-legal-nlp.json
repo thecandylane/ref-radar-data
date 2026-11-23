@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:397ef5e0fbbe52be13867c43072332376ea4c28f"
+  },
+  "id": "gh:maastrichtlawtech/awesome-legal-nlp",
+  "kind": "repo",
+  "url": "https://github.com/maastrichtlawtech/awesome-legal-nlp",
+  "title": "awesome-legal-nlp",
+  "why": "Lists legal NLP datasets grouped by task, from judgement prediction to summarization, with languages and sizes noted for each entry.",
+  "keys": {
+    "races": [
+      "legal/legal-ai",
+      "data/datasets"
+    ],
+    "lanes": [
+      "legal/legal-ai",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/maastrichtlawtech/awesome-legal-nlp",
+    "sha": "397ef5e0fbbe52be13867c43072332376ea4c28f",
+    "file_url": "https://cdn.jsdelivr.net/gh/maastrichtlawtech/awesome-legal-nlp@397ef5e0fbbe52be13867c43072332376ea4c28f/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "MIT",
+    "stars": 348,
+    "size_mb": 0,
+    "created_at": "2020-09-16T12:32:38Z",
+    "last_commit_at": "2025-10-14T08:56:41Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-10-14T08:56:41Z"
+}

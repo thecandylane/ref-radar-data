@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:edbd42e89ca711f64ad85063086f5d77625598d3"
+  },
+  "id": "gh:urielch/api-ovh-node",
+  "kind": "repo",
+  "url": "https://github.com/UrielCh/api-ovh-node",
+  "title": "api-ovh-node",
+  "why": "Typed TypeScript wrappers for OVH's cloud, domain, hosting and server APIs, published as one npm package per API module.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "agents/tools",
+      "infra/hosting"
+    ],
+    "capabilities": [
+      "agents/tools/cloud-ops"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/UrielCh/api-ovh-node",
+    "sha": "edbd42e89ca711f64ad85063086f5d77625598d3",
+    "file_url": "https://cdn.jsdelivr.net/gh/UrielCh/api-ovh-node@edbd42e89ca711f64ad85063086f5d77625598d3/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 17,
+    "size_mb": 23,
+    "created_at": "2019-05-06T12:15:13Z",
+    "last_commit_at": "2024-07-23T13:16:42Z",
+    "releases": 0,
+    "tags": 70,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2024-07-23T13:16:42Z"
+}

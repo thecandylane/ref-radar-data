@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4e79ddc0014aa720db720d809764d359ae3ec9bd"
+  },
+  "id": "gh:rjsmethurst/snitch",
+  "kind": "repo",
+  "url": "https://github.com/rjsmethurst/snitch",
+  "title": "rjsmethurst/snitch",
+  "why": "Infers star formation histories by matching emission and absorption measurements to a lookup table with MCMC sampling.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rjsmethurst/snitch",
+    "sha": "4e79ddc0014aa720db720d809764d359ae3ec9bd",
+    "file_url": "https://cdn.jsdelivr.net/gh/rjsmethurst/snitch@4e79ddc0014aa720db720d809764d359ae3ec9bd/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 29,
+    "size_mb": 57,
+    "created_at": "2018-08-01T11:02:19Z",
+    "last_commit_at": "2024-01-16T10:32:22Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2024-01-16T10:32:22Z"
+}

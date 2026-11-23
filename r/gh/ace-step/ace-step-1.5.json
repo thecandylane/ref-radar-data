@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ca1e85fe9430179831e6bc6be790c332190a3866"
+  },
+  "id": "gh:ace-step/ace-step-1.5",
+  "kind": "repo",
+  "url": "https://github.com/ace-step/ACE-Step-1.5",
+  "title": "ACE-Step-1.5",
+  "why": "Generates full songs from text prompts on consumer hardware, and trains a LoRA from a few songs to capture a personal style.",
+  "keys": {
+    "races": [
+      "media/audio-production",
+      "ml/open-models",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "media/audio-production",
+      "ml/open-models",
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ace-step/ACE-Step-1.5",
+    "sha": "ca1e85fe9430179831e6bc6be790c332190a3866",
+    "file_url": "https://cdn.jsdelivr.net/gh/ace-step/ACE-Step-1.5@ca1e85fe9430179831e6bc6be790c332190a3866/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 15097,
+    "size_mb": 14,
+    "created_at": "2025-09-04T02:00:07Z",
+    "last_commit_at": "2026-08-29T08:25:18Z",
+    "releases": 13,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.8",
+      "at": "2026-05-18T14:04:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-08-29T08:25:18Z"
+}

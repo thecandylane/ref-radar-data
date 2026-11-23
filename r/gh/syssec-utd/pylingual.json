@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:11a1516d84a6c2aa71ec23fbd11e4b99dc8c4a86"
+  },
   "id": "gh:syssec-utd/pylingual",
   "kind": "repo",
   "url": "https://github.com/syssec-utd/pylingual",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "Python",
     "license": "GPL-3.0",
-    "stars": 1450,
+    "stars": 1451,
     "size_mb": 11,
     "created_at": "2025-03-07T21:23:20Z",
     "last_commit_at": "2026-10-19T21:24:15Z",
@@ -54,5 +57,6 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pinned_at": "2026-10-19T21:24:15Z"
 }

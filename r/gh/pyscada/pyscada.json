@@ -1,0 +1,59 @@
+{
+  "id": "gh:pyscada/pyscada",
+  "kind": "repo",
+  "url": "https://github.com/pyscada/PyScada",
+  "title": "PyScada",
+  "why": "Django-based SCADA system with an HTML5 HMI and modules for Modbus, OPC-UA and 1-Wire data sources.",
+  "keys": {
+    "races": [
+      "industrial/scada",
+      "industrial/protocols"
+    ],
+    "lanes": [
+      "industrial/scada",
+      "industrial/protocols"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pyscada/PyScada",
+    "sha": "8e2fc499b7f216fc3c0c0407842d9e18838f71cb",
+    "file_url": "https://cdn.jsdelivr.net/gh/pyscada/PyScada@8e2fc499b7f216fc3c0c0407842d9e18838f71cb/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "AGPL-3.0",
+    "stars": 651,
+    "size_mb": 11,
+    "created_at": "2013-05-07T10:24:13Z",
+    "last_commit_at": "2026-04-03T12:18:21Z",
+    "releases": 5,
+    "tags": 42,
+    "archived": false,
+    "release": {
+      "tag": "v0.8.3",
+      "at": "2024-07-04T12:00:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-04-03T12:18:21Z"
+}

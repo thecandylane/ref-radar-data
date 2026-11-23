@@ -1,0 +1,66 @@
+{
+  "id": "gh:react/metro",
+  "kind": "repo",
+  "url": "https://github.com/react/metro",
+  "title": "metro",
+  "why": "Bundles React Native JavaScript for development, aiming at sub-second reloads, and the docs sit in the repo's docs folder.",
+  "keys": {
+    "races": [
+      "mobile/cross-platform",
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "mobile/cross-platform",
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/react/metro",
+    "sha": "2f5388d1bde44c4e2b56b2d33a1ed571932e7adc",
+    "file_url": "https://cdn.jsdelivr.net/gh/react/metro@2f5388d1bde44c4e2b56b2d33a1ed571932e7adc/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 5661,
+    "size_mb": 62,
+    "created_at": "2016-12-14T23:02:54Z",
+    "last_commit_at": "2026-11-22T21:01:49Z",
+    "releases": 166,
+    "tags": 216,
+    "archived": false,
+    "release": {
+      "tag": "v0.88.0",
+      "at": "2026-11-06T18:22:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pins_before": [
+    "ba761edb1335d86cd8d643515e1841c1e7ea98cd"
+  ],
+  "pinned_at": "2026-11-22T21:01:49Z"
+}

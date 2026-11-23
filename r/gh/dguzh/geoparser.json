@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:44bf22ba9f66e314a5b91afd2f495a1a626a7f40"
+  },
   "id": "gh:dguzh/geoparser",
   "kind": "repo",
   "url": "https://github.com/dguzh/geoparser",
@@ -39,7 +42,12 @@
       "tag": "0.6.2",
       "at": "2026-10-09T16:02:30.000Z"
     },
-    "doi": "10.21105/joss.10365"
+    "doi": "10.21105/joss.10365",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-23"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -53,5 +61,6 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pinned_at": "2026-11-20T17:57:28Z"
 }

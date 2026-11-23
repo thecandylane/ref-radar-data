@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:dbc5ecad7dbfec35cdfee73c5337e3ee9b8d0f3f"
+  },
   "id": "gh:rust-openssl/rust-openssl",
   "kind": "repo",
   "url": "https://github.com/rust-openssl/rust-openssl",
@@ -24,7 +27,7 @@
   "facts": {
     "lang": "Rust",
     "license": "none",
-    "stars": 1652,
+    "stars": 1653,
     "size_mb": 13,
     "created_at": "2013-12-28T23:56:50Z",
     "last_commit_at": "2026-11-05T01:01:25Z",
@@ -48,5 +51,6 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pinned_at": "2026-11-05T01:01:25Z"
 }

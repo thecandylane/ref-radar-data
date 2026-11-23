@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:40cee334712fe3de5b290c5216641e7bbb907b18"
+  },
+  "id": "gh:mushorg/conpot",
+  "kind": "repo",
+  "url": "https://github.com/mushorg/conpot",
+  "title": "conpot",
+  "why": "Emulates industrial devices over Modbus and IEC104, logging attacker sessions to SQLite, JSON or syslog.",
+  "keys": {
+    "races": [
+      "netsec/honeypot",
+      "industrial/protocols",
+      "industrial/scada"
+    ],
+    "lanes": [
+      "netsec/honeypot",
+      "industrial/protocols",
+      "industrial/scada"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mushorg/conpot",
+    "sha": "40cee334712fe3de5b290c5216641e7bbb907b18",
+    "file_url": "https://cdn.jsdelivr.net/gh/mushorg/conpot@40cee334712fe3de5b290c5216641e7bbb907b18/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-2.0",
+    "stars": 1547,
+    "size_mb": 4,
+    "created_at": "2013-03-20T13:04:04Z",
+    "last_commit_at": "2026-11-09T20:46:06Z",
+    "releases": 3,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-09-20T14:20:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-09T20:46:06Z"
+}

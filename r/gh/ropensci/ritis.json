@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:24b4eb90ee869929285c9378bd216db01adaa2bc"
+  },
+  "id": "gh:ropensci/ritis",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/ritis",
+  "title": "ritis",
+  "why": "Query the ITIS taxonomic database from R, looking up mononomial, binomial and trinomial names through its API and Solr service.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "environment/earth-data"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "environment/earth-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/ritis",
+    "sha": "24b4eb90ee869929285c9378bd216db01adaa2bc",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/ritis@24b4eb90ee869929285c9378bd216db01adaa2bc/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 16,
+    "size_mb": 0,
+    "created_at": "2011-11-02T04:52:30Z",
+    "last_commit_at": "2025-02-04T14:34:03Z",
+    "releases": 9,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2021-02-02T06:21:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-02-04T14:34:03Z"
+}

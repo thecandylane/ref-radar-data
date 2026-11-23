@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d9c55cdd401f57bdc1de965e620852ddb87fd175"
-  },
   "id": "gh:realm/swiftlint",
   "kind": "repo",
   "url": "https://github.com/realm/SwiftLint",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/realm/SwiftLint",
-    "sha": "d9c55cdd401f57bdc1de965e620852ddb87fd175",
-    "file_url": "https://cdn.jsdelivr.net/gh/realm/SwiftLint@d9c55cdd401f57bdc1de965e620852ddb87fd175/{path}"
+    "sha": "018c5f843da2ead08cbf3a7b23029e9fd9219c3f",
+    "file_url": "https://cdn.jsdelivr.net/gh/realm/SwiftLint@018c5f843da2ead08cbf3a7b23029e9fd9219c3f/{path}"
   },
   "facts": {
     "lang": "Swift",
     "license": "MIT",
-    "stars": 19795,
+    "stars": 19796,
     "size_mb": 954,
     "created_at": "2015-05-16T16:59:31Z",
-    "last_commit_at": "2026-11-21T12:48:24Z",
+    "last_commit_at": "2026-11-23T09:13:04Z",
     "releases": 153,
     "tags": 154,
     "archived": false,
@@ -60,9 +57,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "d9c55cdd401f57bdc1de965e620852ddb87fd175",
-    "v": 3
-  },
-  "pinned_at": "2026-11-05T17:57:51Z"
+  "pins_before": [
+    "d9c55cdd401f57bdc1de965e620852ddb87fd175"
+  ],
+  "pinned_at": "2026-11-23T09:13:04Z"
 }

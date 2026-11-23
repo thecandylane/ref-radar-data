@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d1e17a79aabbf2002b6632d9a418587f481872f1"
+  },
+  "id": "gh:powerapi-ng/pyjoules",
+  "kind": "repo",
+  "url": "https://github.com/powerapi-ng/pyJoules",
+  "title": "pyJoules",
+  "why": "A decorator that reports RAPL CPU, RAM and nvidia GPU energy per function call in uJ, or writes it to CSV.",
+  "keys": {
+    "races": [
+      "practice/performance",
+      "infra/observability"
+    ],
+    "lanes": [
+      "practice/performance",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/powerapi-ng/pyJoules",
+    "sha": "d1e17a79aabbf2002b6632d9a418587f481872f1",
+    "file_url": "https://cdn.jsdelivr.net/gh/powerapi-ng/pyJoules@d1e17a79aabbf2002b6632d9a418587f481872f1/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 96,
+    "size_mb": 0,
+    "created_at": "2019-11-19T12:10:31Z",
+    "last_commit_at": "2025-12-29T14:56:08Z",
+    "releases": 9,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.2",
+      "at": "2021-10-05T09:25:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-12-29T14:56:08Z"
+}

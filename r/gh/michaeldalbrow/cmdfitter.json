@@ -1,0 +1,70 @@
+{
+  "id": "gh:michaeldalbrow/cmdfitter",
+  "kind": "repo",
+  "url": "https://github.com/MichaelDAlbrow/CMDFitter",
+  "title": "CMDFitter",
+  "why": "Fits stellar populations in a cluster's colour-magnitude diagram, sampling the model with dynesty from a JSON definition and an isochrone.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MichaelDAlbrow/CMDFitter",
+    "sha": "96a97be9c7d8a457c9bb73a36952b14064beae0a",
+    "file_url": "https://cdn.jsdelivr.net/gh/MichaelDAlbrow/CMDFitter@96a97be9c7d8a457c9bb73a36952b14064beae0a/{path}"
+  },
+  "facts": {
+    "lang": "Batchfile",
+    "license": "MIT",
+    "stars": 2,
+    "size_mb": 1,
+    "created_at": "2022-05-11T02:28:03Z",
+    "last_commit_at": "2024-11-26T03:21:43Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2024-11-26T03:21:43Z",
+  "papers": [
+    {
+      "id": "arxiv:2411.16089",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2206.07306",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gh:traccar/traccar",
+  "kind": "repo",
+  "url": "https://github.com/traccar/traccar",
+  "title": "traccar",
+  "why": "Java server that reads more than 200 GPS protocols, stores tracking data in a SQL database and exposes a REST API.",
+  "keys": {
+    "races": [
+      "logistics/fleet-freight",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "logistics/fleet-freight",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/traccar/traccar",
+    "sha": "2a92287db9bb6dc46fb2735758f8a27b666b24d5",
+    "file_url": "https://cdn.jsdelivr.net/gh/traccar/traccar@2a92287db9bb6dc46fb2735758f8a27b666b24d5/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 8177,
+    "size_mb": 28,
+    "created_at": "2012-04-16T08:33:49Z",
+    "last_commit_at": "2026-11-22T16:43:32Z",
+    "releases": 85,
+    "tags": 97,
+    "archived": false,
+    "release": {
+      "tag": "v6.17.0",
+      "at": "2026-11-01T14:59:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pins_before": [
+    "1ee5003a28302ca813f3bd43140c0b44e0c08a50"
+  ],
+  "pinned_at": "2026-11-22T16:43:32Z"
+}

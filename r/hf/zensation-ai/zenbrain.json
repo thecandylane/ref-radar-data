@@ -26,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://huggingface.co/zensation-ai/zenbrain",
-    "sha": "dae630e8da2042d128879948d42522275db05380",
-    "file_url": "https://huggingface.co/zensation-ai/zenbrain/raw/dae630e8da2042d128879948d42522275db05380/{path}"
+    "sha": "3f9d9b80e82e4c7e7e51262b7e88bf73fd8ee9e7",
+    "file_url": "https://huggingface.co/zensation-ai/zenbrain/raw/3f9d9b80e82e4c7e7e51262b7e88bf73fd8ee9e7/{path}"
   },
   "facts": {
     "lang": null,
@@ -54,5 +54,9 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "pins_before": [
+    "dae630e8da2042d128879948d42522275db05380"
+  ],
+  "pinned_at": "2026-11-15T14:45:27.000Z"
 }

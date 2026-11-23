@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5e0d1553f5858337ac33ed30f6cf683cc5365116"
+  },
+  "id": "gh:dos-group/lets-wait-awhile",
+  "kind": "repo",
+  "url": "https://github.com/dos-group/lets-wait-awhile",
+  "title": "lets-wait-awhile",
+  "why": "Carbon intensity series for four regions across 2020, plus a simulator that tests moving workloads to low-carbon energy hours.",
+  "keys": {
+    "races": [
+      "energy/grid-data",
+      "data/datasets"
+    ],
+    "lanes": [
+      "energy/grid-data",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dos-group/lets-wait-awhile",
+    "sha": "5e0d1553f5858337ac33ed30f6cf683cc5365116",
+    "file_url": "https://cdn.jsdelivr.net/gh/dos-group/lets-wait-awhile@5e0d1553f5858337ac33ed30f6cf683cc5365116/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "none",
+    "stars": 26,
+    "size_mb": 8,
+    "created_at": "2021-10-21T14:13:38Z",
+    "last_commit_at": "2023-11-13T10:10:12Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2023-11-13T10:10:12Z",
+  "papers": [
+    {
+      "id": "arxiv:2110.13234",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

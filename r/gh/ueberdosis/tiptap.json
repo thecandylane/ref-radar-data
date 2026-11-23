@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:492788ed3cd83b5579fdcd90aed0aba095c9dfa0"
-  },
   "id": "gh:ueberdosis/tiptap",
   "kind": "repo",
   "url": "https://github.com/ueberdosis/tiptap",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ueberdosis/tiptap",
-    "sha": "492788ed3cd83b5579fdcd90aed0aba095c9dfa0",
-    "file_url": "https://cdn.jsdelivr.net/gh/ueberdosis/tiptap@492788ed3cd83b5579fdcd90aed0aba095c9dfa0/{path}"
+    "sha": "643792f65e8ea5506fc2591cfd140fc3aec6d29b",
+    "file_url": "https://cdn.jsdelivr.net/gh/ueberdosis/tiptap@643792f65e8ea5506fc2591cfd140fc3aec6d29b/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 39108,
+    "stars": 39117,
     "size_mb": 89,
     "created_at": "2018-08-20T19:58:58Z",
-    "last_commit_at": "2026-11-20T17:06:40Z",
+    "last_commit_at": "2026-11-22T13:51:33Z",
     "releases": 1000,
     "tags": 6597,
     "archived": false,
@@ -62,8 +59,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "492788ed3cd83b5579fdcd90aed0aba095c9dfa0",
-    "v": 3
-  }
+  "pins_before": [
+    "492788ed3cd83b5579fdcd90aed0aba095c9dfa0"
+  ],
+  "pinned_at": "2026-11-22T13:51:33Z"
 }

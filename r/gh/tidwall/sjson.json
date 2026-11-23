@@ -1,0 +1,54 @@
+{
+  "id": "gh:tidwall/sjson",
+  "kind": "repo",
+  "url": "https://github.com/tidwall/sjson",
+  "title": "sjson",
+  "why": "Sets or deletes values at a path inside raw JSON bytes or strings, with gjson path syntax, leaving the rest untouched.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tidwall/sjson",
+    "sha": "752368dfbbb11bc8ff0e777a6e1073c3ddd3c622",
+    "file_url": "https://cdn.jsdelivr.net/gh/tidwall/sjson@752368dfbbb11bc8ff0e777a6e1073c3ddd3c622/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 2741,
+    "size_mb": 0,
+    "created_at": "2016-10-19T01:01:04Z",
+    "last_commit_at": "2026-11-20T01:38:05Z",
+    "releases": 0,
+    "tags": 25,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-20T01:38:05Z"
+}

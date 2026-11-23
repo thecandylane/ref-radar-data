@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:85549d055d7a548764ccba1a4cc3753810ef9166"
-  },
   "id": "gh:microsoft/monaco-editor",
   "kind": "repo",
   "url": "https://github.com/microsoft/monaco-editor",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/microsoft/monaco-editor",
-    "sha": "85549d055d7a548764ccba1a4cc3753810ef9166",
-    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/monaco-editor@85549d055d7a548764ccba1a4cc3753810ef9166/{path}"
+    "sha": "ba7a57d4757f03ad92bd62963268faa86b2ff1ab",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/monaco-editor@ba7a57d4757f03ad92bd62963268faa86b2ff1ab/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 46996,
+    "stars": 47000,
     "size_mb": 137,
     "created_at": "2016-06-07T16:56:31Z",
     "last_commit_at": "2026-11-21T17:11:43Z",
@@ -57,17 +54,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 25,
+    "star_delta_7d": 23,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "85549d055d7a548764ccba1a4cc3753810ef9166",
-    "v": 4
-  },
   "pins_before": [
+    "85549d055d7a548764ccba1a4cc3753810ef9166",
     "c835521959b07961e12aef761f058db2a3d49e9c"
   ],
-  "pinned_at": "2026-11-13T23:32:45Z"
+  "pinned_at": "2026-11-21T17:11:43Z"
 }

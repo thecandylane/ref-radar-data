@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:7a947f10ed84294debc65a543779e85af9ba8719"
-  },
   "id": "gh:valenlab/amplican",
   "kind": "repo",
   "url": "https://github.com/valenlab/amplican",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/valenlab/amplican",
-    "sha": "7a947f10ed84294debc65a543779e85af9ba8719",
-    "file_url": "https://cdn.jsdelivr.net/gh/valenlab/amplican@7a947f10ed84294debc65a543779e85af9ba8719/{path}"
+    "sha": "45192897948e1d559599e534b5fae51075b01cb9",
+    "file_url": "https://cdn.jsdelivr.net/gh/valenlab/amplican@45192897948e1d559599e534b5fae51075b01cb9/{path}"
   },
   "facts": {
     "lang": "R",
@@ -59,8 +56,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "7a947f10ed84294debc65a543779e85af9ba8719",
-    "v": 3
-  }
+  "pins_before": [
+    "7a947f10ed84294debc65a543779e85af9ba8719"
+  ],
+  "pinned_at": "2026-11-17T11:58:18Z"
 }

@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8cec508d0348371d80f993586ffe7c619885c674"
+  },
+  "id": "gh:salesforce/transmogrifai",
+  "kind": "repo",
+  "url": "https://github.com/salesforce/TransmogrifAI",
+  "title": "TransmogrifAI",
+  "why": "Trains a model on structured data in Spark with automated feature engineering and model selection, checked at compile time.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "ml/training",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/salesforce/TransmogrifAI",
+    "sha": "8cec508d0348371d80f993586ffe7c619885c674",
+    "file_url": "https://cdn.jsdelivr.net/gh/salesforce/TransmogrifAI@8cec508d0348371d80f993586ffe7c619885c674/{path}"
+  },
+  "facts": {
+    "lang": "Scala",
+    "license": "BSD-3-Clause",
+    "stars": 2280,
+    "size_mb": 125,
+    "created_at": "2017-11-02T16:15:15Z",
+    "last_commit_at": "2026-06-02T18:03:06Z",
+    "releases": 9,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "0.7.0",
+      "at": "2020-06-11T23:58:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-06-02T18:03:06Z"
+}

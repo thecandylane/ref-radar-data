@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:513d2363d505fba68a263f9da8dd5b96249ff97e"
+  },
+  "id": "gh:ropensci/git2rdata",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/git2rdata",
+  "title": "git2rdata",
+  "why": "Writes data.frames as plain text with a metadata file, so git commits hold row-based diffs and read_vc flags tampering.",
+  "keys": {
+    "races": [
+      "dev-tools/vcs",
+      "data/serialization"
+    ],
+    "lanes": [
+      "dev-tools/vcs",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/git2rdata",
+    "sha": "513d2363d505fba68a263f9da8dd5b96249ff97e",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/git2rdata@513d2363d505fba68a263f9da8dd5b96249ff97e/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 104,
+    "size_mb": 3,
+    "created_at": "2018-09-06T14:22:19Z",
+    "last_commit_at": "2026-04-09T07:44:33Z",
+    "releases": 14,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.2",
+      "at": "2026-04-09T07:51:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-04-09T07:44:33Z"
+}

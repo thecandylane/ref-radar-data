@@ -1,0 +1,61 @@
+{
+  "id": "gh:productdevbook/unemail",
+  "kind": "repo",
+  "url": "https://github.com/productdevbook/unemail",
+  "title": "unemail",
+  "why": "Sends mail through one interface across many provider drivers, with fallback, circuit and idempotency middleware built in.",
+  "keys": {
+    "races": [
+      "marketing/email"
+    ],
+    "lanes": [
+      "marketing/email"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/productdevbook/unemail",
+    "sha": "4d539b1590776fc68ab19653597f21f1b3ceb24b",
+    "file_url": "https://cdn.jsdelivr.net/gh/productdevbook/unemail@4d539b1590776fc68ab19653597f21f1b3ceb24b/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 297,
+    "size_mb": 2,
+    "created_at": "2025-04-05T08:12:35Z",
+    "last_commit_at": "2026-09-02T06:10:56Z",
+    "releases": 11,
+    "tags": 12,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.0",
+      "at": "2026-09-02T01:11:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-09-02T06:10:56Z"
+}

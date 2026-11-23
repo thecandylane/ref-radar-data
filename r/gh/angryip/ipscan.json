@@ -1,0 +1,63 @@
+{
+  "id": "gh:angryip/ipscan",
+  "kind": "repo",
+  "url": "https://github.com/angryip/ipscan",
+  "title": "ipscan",
+  "why": "Java network scanner built on native SWT components for Linux, Windows and macOS, with Fetcher classes to step through in a debugger.",
+  "keys": {
+    "races": [
+      "netsec/scanning",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "netsec/scanning",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/angryip/ipscan",
+    "sha": "5646aa840f4bead5ae491eefc81f5fd3e01e9267",
+    "file_url": "https://cdn.jsdelivr.net/gh/angryip/ipscan@5646aa840f4bead5ae491eefc81f5fd3e01e9267/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "GPL-2.0",
+    "stars": 5212,
+    "size_mb": 115,
+    "created_at": "2011-06-28T20:58:48Z",
+    "last_commit_at": "2026-11-16T20:29:59Z",
+    "releases": 36,
+    "tags": 70,
+    "archived": false,
+    "release": {
+      "tag": "3.12.2",
+      "at": "2026-11-16T20:37:35.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-16T20:29:59Z"
+}

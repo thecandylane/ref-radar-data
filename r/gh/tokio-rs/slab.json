@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7d1d8ab00a7b8b1978b4bf21d9ae9633ac8c0b05"
+  },
+  "id": "gh:tokio-rs/slab",
+  "kind": "repo",
+  "url": "https://github.com/tokio-rs/slab",
+  "title": "slab",
+  "why": "Rust slab where insert returns a key for later indexing, and serde support is a feature flag you enable in Cargo.toml.",
+  "keys": {
+    "races": [
+      "systems/memory"
+    ],
+    "lanes": [
+      "systems/memory"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tokio-rs/slab",
+    "sha": "7d1d8ab00a7b8b1978b4bf21d9ae9633ac8c0b05",
+    "file_url": "https://cdn.jsdelivr.net/gh/tokio-rs/slab@7d1d8ab00a7b8b1978b4bf21d9ae9633ac8c0b05/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 955,
+    "size_mb": 0,
+    "created_at": "2015-06-08T21:13:52Z",
+    "last_commit_at": "2026-11-22T17:19:58Z",
+    "releases": 9,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.12",
+      "at": "2026-01-31T12:58:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

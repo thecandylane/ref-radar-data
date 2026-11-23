@@ -1,0 +1,57 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d5822d26c0c6473507d8f4aee3e7caa11dc068a6"
+  },
+  "id": "gh:whcsu/survmetrics",
+  "kind": "repo",
+  "url": "https://github.com/whcsu/SurvMetrics",
+  "title": "SurvMetrics",
+  "why": "Scores survival predictions with concordance index, Brier and integrated Brier scores, plus absolute and squared error measures.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/whcsu/SurvMetrics",
+    "sha": "d5822d26c0c6473507d8f4aee3e7caa11dc068a6",
+    "file_url": "https://cdn.jsdelivr.net/gh/whcsu/SurvMetrics@d5822d26c0c6473507d8f4aee3e7caa11dc068a6/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2025-01-27T03:51:21Z",
+    "last_commit_at": "2025-01-31T15:59:32Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-01-31T15:59:32Z"
+}

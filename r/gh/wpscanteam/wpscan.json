@@ -36,13 +36,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/wpscanteam/wpscan",
-    "sha": "3c528bae8c284d6cbef6b11841b8b73fd4d4a115",
-    "file_url": "https://cdn.jsdelivr.net/gh/wpscanteam/wpscan@3c528bae8c284d6cbef6b11841b8b73fd4d4a115/{path}"
+    "sha": "173916e12fbfce67bea2b12bb5f50730f8efbf53",
+    "file_url": "https://cdn.jsdelivr.net/gh/wpscanteam/wpscan@173916e12fbfce67bea2b12bb5f50730f8efbf53/{path}"
   },
   "facts": {
     "lang": "Ruby",
     "license": "NOASSERTION",
-    "stars": 9861,
+    "stars": 9862,
     "size_mb": 59,
     "created_at": "2012-07-11T20:27:47Z",
     "last_commit_at": "2026-11-19T20:55:21Z",
@@ -67,9 +67,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "3c528bae8c284d6cbef6b11841b8b73fd4d4a115",
-    "v": 3
-  },
-  "pinned_at": "2026-11-07T00:00:37Z"
+  "pins_before": [
+    "3c528bae8c284d6cbef6b11841b8b73fd4d4a115"
+  ],
+  "pinned_at": "2026-11-19T20:55:21Z"
 }

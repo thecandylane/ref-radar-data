@@ -1,0 +1,56 @@
+{
+  "id": "gh:luoxiaoliu/mvsl",
+  "kind": "repo",
+  "url": "https://github.com/luoxiaoliu/MVSL",
+  "title": "MVSL",
+  "why": "Classifies biomedical images when labeled data is scarce by adapting a vision-language model, with pretrained weights on Hugging Face.",
+  "keys": {
+    "races": [
+      "ml/vision",
+      "medicine/medical-imaging"
+    ],
+    "lanes": [
+      "ml/vision",
+      "medicine/medical-imaging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/luoxiaoliu/MVSL",
+    "sha": "f35e6c038c8b60ca1cc6c46254c0254415103bb2",
+    "file_url": "https://cdn.jsdelivr.net/gh/luoxiaoliu/MVSL@f35e6c038c8b60ca1cc6c46254c0254415103bb2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 5,
+    "created_at": "2025-12-15T10:23:42Z",
+    "last_commit_at": "2026-04-29T02:41:57Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-04-29T02:41:57Z"
+}

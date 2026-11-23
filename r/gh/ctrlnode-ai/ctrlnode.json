@@ -1,0 +1,65 @@
+{
+  "id": "gh:ctrlnode-ai/ctrlnode",
+  "kind": "repo",
+  "url": "https://github.com/ctrlnode-ai/ctrlnode",
+  "title": "ctrlnode",
+  "why": "Bridge that runs on your machine and dispatches Kanban tasks and graph nodes to Claude Code and Copilot over an outbound connection.",
+  "keys": {
+    "races": [
+      "agents/orchestration",
+      "agents/clients"
+    ],
+    "lanes": [
+      "agents/orchestration",
+      "agents/clients"
+    ],
+    "capabilities": [
+      "agents/clients/terminal-clients"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ctrlnode-ai/ctrlnode",
+    "sha": "fb463dbbdd3f2e0b9ebd95750cb4c84c8d8b86f8",
+    "file_url": "https://cdn.jsdelivr.net/gh/ctrlnode-ai/ctrlnode@fb463dbbdd3f2e0b9ebd95750cb4c84c8d8b86f8/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 28,
+    "size_mb": 12,
+    "created_at": "2026-03-26T10:41:31Z",
+    "last_commit_at": "2026-08-12T17:23:37Z",
+    "releases": 10,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v2026.3.1",
+      "at": "2026-08-12T18:56:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-08-12T17:23:37Z"
+}

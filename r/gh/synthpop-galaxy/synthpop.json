@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bc170e053231e19965f6085e397d029e683b1ed5"
+  },
+  "id": "gh:synthpop-galaxy/synthpop",
+  "kind": "repo",
+  "url": "https://github.com/synthpop-galaxy/synthpop",
+  "title": "synthpop",
+  "why": "Generates a synthetic star catalog for a Galactic model from swappable modules for density, mass function, age, metallicity and extinction.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/synthpop-galaxy/synthpop",
+    "sha": "bc170e053231e19965f6085e397d029e683b1ed5",
+    "file_url": "https://cdn.jsdelivr.net/gh/synthpop-galaxy/synthpop@bc170e053231e19965f6085e397d029e683b1ed5/{path}"
+  },
+  "facts": {
+    "lang": "Batchfile",
+    "license": "GPL-3.0",
+    "stars": 24,
+    "size_mb": 23,
+    "created_at": "2023-03-09T17:40:04Z",
+    "last_commit_at": "2026-06-01T18:27:22Z",
+    "releases": 10,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.3",
+      "at": "2026-05-21T22:25:29.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-06-01T18:27:22Z"
+}

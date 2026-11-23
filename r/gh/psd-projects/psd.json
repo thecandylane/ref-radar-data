@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:efc8af3d406c387255bb5ba0fa414b809e40131c"
+  },
   "id": "gh:psd-projects/psd",
   "kind": "repo",
   "url": "https://github.com/psd-projects/psd",
@@ -45,7 +48,12 @@
       "tag": "v2.6.0",
       "at": "2026-07-06T18:44:05.000Z"
     },
-    "doi": "10.21105/joss.09411"
+    "doi": "10.21105/joss.09411",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-23"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -59,5 +67,6 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pinned_at": "2026-08-31T13:02:40Z"
 }

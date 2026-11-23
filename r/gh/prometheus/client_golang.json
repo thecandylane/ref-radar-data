@@ -1,0 +1,61 @@
+{
+  "id": "gh:prometheus/client_golang",
+  "kind": "repo",
+  "url": "https://github.com/prometheus/client_golang",
+  "title": "client_golang",
+  "why": "Go library for exposing Prometheus metrics from application code, plus an experimental client for querying the Prometheus HTTP API and an OTLP bridge.",
+  "keys": {
+    "races": [
+      "infra/observability"
+    ],
+    "lanes": [
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/prometheus/client_golang",
+    "sha": "ce65098ee3dbb8f7cfd3671b4dfb25b7b7770a26",
+    "file_url": "https://cdn.jsdelivr.net/gh/prometheus/client_golang@ce65098ee3dbb8f7cfd3671b4dfb25b7b7770a26/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 6051,
+    "size_mb": 6,
+    "created_at": "2013-01-25T16:32:46Z",
+    "last_commit_at": "2026-11-19T14:52:19Z",
+    "releases": 65,
+    "tags": 66,
+    "archived": false,
+    "release": {
+      "tag": "v1.25.0",
+      "at": "2026-10-08T13:01:56.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-19T14:52:19Z"
+}

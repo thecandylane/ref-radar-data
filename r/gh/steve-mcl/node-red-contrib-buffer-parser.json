@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ca955ffa3ef2decf704d7f1e42ccea657b4cb13e"
+  },
+  "id": "gh:steve-mcl/node-red-contrib-buffer-parser",
+  "kind": "repo",
+  "url": "https://github.com/Steve-Mcl/node-red-contrib-buffer-parser",
+  "title": "node-red-contrib-buffer-parser",
+  "why": "Node-RED node that reads typed values out of raw bytes, hex strings or 16bit arrays from PLCs, with byte swaps, BCD and masks.",
+  "keys": {
+    "races": [
+      "industrial/protocols",
+      "data/serialization"
+    ],
+    "lanes": [
+      "industrial/protocols",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Steve-Mcl/node-red-contrib-buffer-parser",
+    "sha": "ca955ffa3ef2decf704d7f1e42ccea657b4cb13e",
+    "file_url": "https://cdn.jsdelivr.net/gh/Steve-Mcl/node-red-contrib-buffer-parser@ca955ffa3ef2decf704d7f1e42ccea657b4cb13e/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 35,
+    "size_mb": 1,
+    "created_at": "2020-05-01T15:28:45Z",
+    "last_commit_at": "2022-10-09T10:19:47Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2022-10-09T10:19:47Z"
+}

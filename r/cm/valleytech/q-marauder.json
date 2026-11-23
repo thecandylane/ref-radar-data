@@ -1,0 +1,44 @@
+{
+  "access": "none",
+  "id": "cm:valleytech/q-marauder",
+  "kind": "repo",
+  "url": "https://git.churchofmalware.org/Valleytech/Q-Marauder",
+  "title": "Q-Marauder",
+  "why": "Runs Wi-Fi and BLE surveys from an Arduino UNO Q board, with a Debian console and a cyberpunk UI.",
+  "keys": {
+    "races": [
+      "hardware/radio",
+      "embedded/firmware"
+    ],
+    "lanes": [
+      "hardware/radio",
+      "embedded/firmware"
+    ],
+    "capabilities": []
+  },
+  "read": [],
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 3,
+    "created_at": "2026-10-18T21:09:02.000Z",
+    "last_commit_at": "2026-10-24T00:33:45.000Z",
+    "releases": 11,
+    "tags": 11,
+    "archived": false
+  },
+  "reuse": null,
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

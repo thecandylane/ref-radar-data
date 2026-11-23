@@ -1,0 +1,63 @@
+{
+  "id": "gh:seisollc/zeek-kafka",
+  "kind": "repo",
+  "url": "https://github.com/SeisoLLC/zeek-kafka",
+  "title": "zeek-kafka",
+  "why": "Sends selected Zeek log streams into Kafka topics, with per-log filters that can drop IPv6 records before consumers receive them.",
+  "keys": {
+    "races": [
+      "data/queues",
+      "infra/observability"
+    ],
+    "lanes": [
+      "data/queues",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SeisoLLC/zeek-kafka",
+    "sha": "3802acf313fac27921f4ddb4ea358d64e7ed63e8",
+    "file_url": "https://cdn.jsdelivr.net/gh/SeisoLLC/zeek-kafka@3802acf313fac27921f4ddb4ea358d64e7ed63e8/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "Apache-2.0",
+    "stars": 55,
+    "size_mb": 70,
+    "created_at": "2020-12-31T13:31:04Z",
+    "last_commit_at": "2026-06-03T01:53:38Z",
+    "releases": 6,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.0",
+      "at": "2023-11-01T13:00:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-06-03T01:53:38Z"
+}

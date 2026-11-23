@@ -1,0 +1,92 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:51df6a618072f7dd0578683b72d7f07323a8bee9"
+  },
+  "id": "gh:machine-learning-dynamical-systems/kooplearn",
+  "kind": "repo",
+  "url": "https://github.com/Machine-Learning-Dynamical-Systems/kooplearn",
+  "title": "kooplearn",
+  "why": "Learns Koopman evolution operators from data with a scikit-learn style API, including kernel estimators and torch and JAX neural embeddings.",
+  "keys": {
+    "races": [
+      "sci/numerics",
+      "ml/training"
+    ],
+    "lanes": [
+      "sci/numerics",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Machine-Learning-Dynamical-Systems/kooplearn",
+    "sha": "51df6a618072f7dd0578683b72d7f07323a8bee9",
+    "file_url": "https://cdn.jsdelivr.net/gh/Machine-Learning-Dynamical-Systems/kooplearn@51df6a618072f7dd0578683b72d7f07323a8bee9/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 84,
+    "size_mb": 123,
+    "created_at": "2022-10-04T16:28:55Z",
+    "last_commit_at": "2026-06-25T16:30:44Z",
+    "releases": 3,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.3",
+      "at": "2026-05-13T15:41:14.000Z"
+    },
+    "doi": "10.21105/joss.10342",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-23"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-06-25T16:30:44Z",
+  "papers": [
+    {
+      "id": "arxiv:2312.17348",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2302.02004",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2205.14027",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

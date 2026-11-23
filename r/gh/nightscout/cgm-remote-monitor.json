@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c6a0d8ed65637bc90d3090e6e7a0f752041c57fd"
+  },
   "id": "gh:nightscout/cgm-remote-monitor",
   "kind": "repo",
   "url": "https://github.com/nightscout/cgm-remote-monitor",
@@ -34,8 +37,8 @@
   "facts": {
     "lang": "JavaScript",
     "license": "AGPL-3.0",
-    "stars": 2863,
-    "size_mb": 56,
+    "stars": 2864,
+    "size_mb": 58,
     "created_at": "2014-05-22T00:32:28Z",
     "last_commit_at": "2026-10-21T20:09:51Z",
     "releases": 67,
@@ -58,5 +61,6 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pinned_at": "2026-10-21T20:09:51Z"
 }

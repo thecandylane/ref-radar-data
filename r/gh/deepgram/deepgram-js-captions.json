@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7a4a925cd14dcd31fb1bab0194b2bc09301f00f1"
+  },
+  "id": "gh:deepgram/deepgram-js-captions",
+  "kind": "repo",
+  "url": "https://github.com/deepgram/deepgram-js-captions",
+  "title": "deepgram-js-captions",
+  "why": "Turns word-level timestamps from a speech transcription into WebVTT or SRT caption text, with converters for other transcription formats.",
+  "keys": {
+    "races": [
+      "media/speech",
+      "media/video"
+    ],
+    "lanes": [
+      "media/speech",
+      "media/video"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/deepgram/deepgram-js-captions",
+    "sha": "7a4a925cd14dcd31fb1bab0194b2bc09301f00f1",
+    "file_url": "https://cdn.jsdelivr.net/gh/deepgram/deepgram-js-captions@7a4a925cd14dcd31fb1bab0194b2bc09301f00f1/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 17,
+    "size_mb": 0,
+    "created_at": "2023-10-27T12:49:10Z",
+    "last_commit_at": "2023-11-07T08:30:21Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.0",
+      "at": "2023-11-07T08:30:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2023-11-07T08:30:21Z"
+}

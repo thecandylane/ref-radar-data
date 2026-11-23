@@ -1,0 +1,70 @@
+{
+  "id": "gh:diygod/rsshub",
+  "kind": "repo",
+  "url": "https://github.com/DIYgod/RSSHub",
+  "title": "RSSHub",
+  "why": "Generates RSS feeds for sites that publish none, from routes for Twitter, Weibo and Bilibili, and runs self-hosted in Docker.",
+  "keys": {
+    "races": [
+      "media/news",
+      "infra/hosting",
+      "agents/tools"
+    ],
+    "lanes": [
+      "media/news",
+      "infra/hosting",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/web-access"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/DIYgod/RSSHub",
+    "sha": "61f451228e0420f7b44184d231fd7e98bfef26ea",
+    "file_url": "https://cdn.jsdelivr.net/gh/DIYgod/RSSHub@61f451228e0420f7b44184d231fd7e98bfef26ea/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "AGPL-3.0",
+    "stars": 47168,
+    "size_mb": 1343,
+    "created_at": "2018-04-02T14:43:21Z",
+    "last_commit_at": "2026-11-23T08:24:31Z",
+    "releases": 316,
+    "tags": 316,
+    "archived": false,
+    "release": {
+      "tag": "v2026.11.23-8728.g61f4512",
+      "at": "2026-11-23T08:33:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pins_before": [
+    "2eb5724294652bc54208b8af10e3c94fee00792c"
+  ],
+  "pinned_at": "2026-11-23T08:24:31Z"
+}

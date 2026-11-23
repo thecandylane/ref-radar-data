@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:b45eeb07b7b15e8b4bb85a7b0ed8a32eaa75c8c9"
+    "swh": "swh:1:rev:6f79f8c03bf3ab14442c433f194caadd26aed05c"
   },
   "id": "gh:traefik/traefik",
   "kind": "repo",
@@ -39,13 +39,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/traefik/traefik",
-    "sha": "b45eeb07b7b15e8b4bb85a7b0ed8a32eaa75c8c9",
-    "file_url": "https://cdn.jsdelivr.net/gh/traefik/traefik@b45eeb07b7b15e8b4bb85a7b0ed8a32eaa75c8c9/{path}"
+    "sha": "6f79f8c03bf3ab14442c433f194caadd26aed05c",
+    "file_url": "https://cdn.jsdelivr.net/gh/traefik/traefik@6f79f8c03bf3ab14442c433f194caadd26aed05c/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 65656,
+    "stars": 65663,
     "size_mb": 161,
     "created_at": "2015-09-13T19:04:02Z",
     "last_commit_at": "2026-11-20T13:45:48Z",
@@ -65,14 +65,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 105,
+    "star_delta_7d": 99,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "b45eeb07b7b15e8b4bb85a7b0ed8a32eaa75c8c9",
-    "v": 3
-  },
+  "pins_before": [
+    "b45eeb07b7b15e8b4bb85a7b0ed8a32eaa75c8c9"
+  ],
+  "pinned_at": "2026-11-20T13:45:48Z",
   "hot": true
 }

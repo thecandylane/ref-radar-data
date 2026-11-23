@@ -1,0 +1,59 @@
+{
+  "id": "gh:nzarnaghinaghsh/rgvae",
+  "kind": "repo",
+  "url": "https://github.com/nzarnaghinaghsh/RGVAE",
+  "title": "RGVAE",
+  "why": "Trains a grammar variational autoencoder on RNA sequences, then samples and Bayesian-optimizes them against chosen criteria.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "ml/training"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nzarnaghinaghsh/RGVAE",
+    "sha": "697fdaf783b03eac8622ec3652f24eaf662c0704",
+    "file_url": "https://cdn.jsdelivr.net/gh/nzarnaghinaghsh/RGVAE@697fdaf783b03eac8622ec3652f24eaf662c0704/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 1,
+    "size_mb": 12,
+    "created_at": "2025-05-30T21:14:58Z",
+    "last_commit_at": "2025-06-01T10:38:48Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2025-06-01T10:09:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-06-01T10:38:48Z"
+}

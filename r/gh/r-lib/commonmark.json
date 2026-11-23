@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6c29d2ceb408bef07012b69c45dc7e31ed8b2eaa"
+  },
+  "id": "gh:r-lib/commonmark",
+  "kind": "repo",
+  "url": "https://github.com/r-lib/commonmark",
+  "title": "commonmark",
+  "why": "Renders CommonMark and GitHub Markdown to html, latex or man pages from R, and exposes the parse tree as xml.",
+  "keys": {
+    "races": [
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/r-lib/commonmark",
+    "sha": "6c29d2ceb408bef07012b69c45dc7e31ed8b2eaa",
+    "file_url": "https://cdn.jsdelivr.net/gh/r-lib/commonmark@6c29d2ceb408bef07012b69c45dc7e31ed8b2eaa/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 102,
+    "size_mb": 1,
+    "created_at": "2015-05-24T18:58:14Z",
+    "last_commit_at": "2025-07-07T12:31:35Z",
+    "releases": 17,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.0",
+      "at": "2025-07-07T13:42:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-07-07T12:31:35Z"
+}

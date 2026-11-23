@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8de442a7dec52d2993d1e9667d799846936d681b"
+  },
+  "id": "gh:iioter/iotgateway",
+  "kind": "repo",
+  "url": "https://github.com/iioter/iotgateway",
+  "title": "iotgateway",
+  "why": "Bridges PLCs and Modbus devices to IoT platforms in both directions, with built-in MQTT and OPCUA servers for downstream systems.",
+  "keys": {
+    "races": [
+      "industrial/protocols",
+      "industrial/scada"
+    ],
+    "lanes": [
+      "industrial/protocols",
+      "industrial/scada"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/iioter/iotgateway",
+    "sha": "8de442a7dec52d2993d1e9667d799846936d681b",
+    "file_url": "https://cdn.jsdelivr.net/gh/iioter/iotgateway@8de442a7dec52d2993d1e9667d799846936d681b/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "MIT",
+    "stars": 1105,
+    "size_mb": 67,
+    "created_at": "2021-12-08T13:48:45Z",
+    "last_commit_at": "2026-06-21T03:53:11Z",
+    "releases": 24,
+    "tags": 24,
+    "archived": false,
+    "release": {
+      "tag": "v3.0.1",
+      "at": "2025-04-07T08:19:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-06-21T03:53:11Z"
+}

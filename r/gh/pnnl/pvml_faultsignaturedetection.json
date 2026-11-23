@@ -1,0 +1,57 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d8165d55bc48d0c7eb0c835382a3027f18036217"
+  },
+  "id": "gh:pnnl/pvml_faultsignaturedetection",
+  "kind": "repo",
+  "url": "https://github.com/pnnl/PVML_FaultSignatureDetection",
+  "title": "PVML_FaultSignatureDetection",
+  "why": "Classifies PV fault signatures from operational data and technician field notes, with a deployment framework that supports dynamic retraining.",
+  "keys": {
+    "races": [
+      "energy/renewables"
+    ],
+    "lanes": [
+      "energy/renewables"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pnnl/PVML_FaultSignatureDetection",
+    "sha": "d8165d55bc48d0c7eb0c835382a3027f18036217",
+    "file_url": "https://cdn.jsdelivr.net/gh/pnnl/PVML_FaultSignatureDetection@d8165d55bc48d0c7eb0c835382a3027f18036217/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 0,
+    "size_mb": 110,
+    "created_at": "2025-08-01T18:29:53Z",
+    "last_commit_at": "2025-08-04T19:00:26Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-08-04T19:00:26Z"
+}

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:66bbb85a1a78a5b5497331e04d4033357caced4d"
-  },
   "id": "gh:vale-cli/vale",
   "kind": "repo",
   "url": "https://github.com/vale-cli/vale",
@@ -35,13 +32,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/vale-cli/vale",
-    "sha": "66bbb85a1a78a5b5497331e04d4033357caced4d",
-    "file_url": "https://cdn.jsdelivr.net/gh/vale-cli/vale@66bbb85a1a78a5b5497331e04d4033357caced4d/{path}"
+    "sha": "d5eaeab7b7d833b66ac9ff7d148c8e290854b791",
+    "file_url": "https://cdn.jsdelivr.net/gh/vale-cli/vale@d5eaeab7b7d833b66ac9ff7d148c8e290854b791/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 6416,
+    "stars": 6419,
     "size_mb": 78,
     "created_at": "2017-02-05T20:34:36Z",
     "last_commit_at": "2026-11-21T19:50:56Z",
@@ -66,8 +63,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "66bbb85a1a78a5b5497331e04d4033357caced4d",
-    "v": 3
-  }
+  "pins_before": [
+    "66bbb85a1a78a5b5497331e04d4033357caced4d"
+  ],
+  "pinned_at": "2026-11-21T19:50:56Z"
 }

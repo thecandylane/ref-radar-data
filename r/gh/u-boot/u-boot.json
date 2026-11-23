@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:3cb2cbbc75aa7fe2391f662607d6b2f46c1292a7"
-  },
   "id": "gh:u-boot/u-boot",
   "kind": "repo",
   "url": "https://github.com/u-boot/u-boot",
@@ -35,8 +32,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/u-boot/u-boot",
-    "sha": "3cb2cbbc75aa7fe2391f662607d6b2f46c1292a7",
-    "file_url": "https://raw.githubusercontent.com/u-boot/u-boot/3cb2cbbc75aa7fe2391f662607d6b2f46c1292a7/{path}"
+    "sha": "e578056c766d653270b14557c2a9d8daec414c17",
+    "file_url": "https://raw.githubusercontent.com/u-boot/u-boot/e578056c766d653270b14557c2a9d8daec414c17/{path}"
   },
   "facts": {
     "lang": "C",
@@ -63,8 +60,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "3cb2cbbc75aa7fe2391f662607d6b2f46c1292a7",
-    "v": 3
-  }
+  "pins_before": [
+    "3cb2cbbc75aa7fe2391f662607d6b2f46c1292a7"
+  ],
+  "pinned_at": "2026-11-21T19:03:34Z"
 }

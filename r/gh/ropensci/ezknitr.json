@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4bd1832a7bea661816bc9c1777b2f85d1dd7a594"
+  },
+  "id": "gh:ropensci/ezknitr",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/ezknitr",
+  "title": "ezknitr",
+  "why": "Fixes the working directory problem when knitting R markdown reports, letting you choose input, output and figure folders and pass parameters per run.",
+  "keys": {
+    "races": [
+      "dev-tools/docs",
+      "media/typesetting",
+      "data/statistics"
+    ],
+    "lanes": [
+      "dev-tools/docs",
+      "media/typesetting",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/ezknitr",
+    "sha": "4bd1832a7bea661816bc9c1777b2f85d1dd7a594",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/ezknitr@4bd1832a7bea661816bc9c1777b2f85d1dd7a594/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 112,
+    "size_mb": 0,
+    "created_at": "2015-05-13T01:26:57Z",
+    "last_commit_at": "2023-08-20T01:51:32Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.6.3",
+      "at": "2023-08-20T04:15:48.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2023-08-20T01:51:32Z"
+}

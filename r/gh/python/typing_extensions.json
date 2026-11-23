@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a2024556ab75799fbd2f41d1c2d114dd6372de12"
+  },
   "id": "gh:python/typing_extensions",
   "kind": "repo",
   "url": "https://github.com/python/typing_extensions",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 595,
+    "stars": 596,
     "size_mb": 2,
     "created_at": "2022-05-19T13:12:25Z",
     "last_commit_at": "2026-11-09T16:50:21Z",
@@ -56,5 +59,6 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "pinned_at": "2026-11-09T16:50:21Z"
 }

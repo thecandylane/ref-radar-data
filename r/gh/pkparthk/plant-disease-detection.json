@@ -1,0 +1,56 @@
+{
+  "id": "gh:pkparthk/plant-disease-detection",
+  "kind": "repo",
+  "url": "https://github.com/pkparthk/Plant-Disease-Detection",
+  "title": "Plant-Disease-Detection",
+  "why": "Classifies leaf photos into 30+ disease classes for several crops, served by a FastAPI backend with a React front end.",
+  "keys": {
+    "races": [
+      "ml/vision",
+      "agriculture/precision-ag"
+    ],
+    "lanes": [
+      "ml/vision",
+      "agriculture/precision-ag"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pkparthk/Plant-Disease-Detection",
+    "sha": "6253364cec66a28cc33c3e349e30e8c36eb14b23",
+    "file_url": "https://cdn.jsdelivr.net/gh/pkparthk/Plant-Disease-Detection@6253364cec66a28cc33c3e349e30e8c36eb14b23/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 22,
+    "size_mb": 0,
+    "created_at": "2025-09-22T16:14:48Z",
+    "last_commit_at": "2025-09-29T12:43:58Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-09-29T12:43:58Z"
+}

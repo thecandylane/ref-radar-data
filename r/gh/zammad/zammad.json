@@ -32,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/zammad/zammad",
-    "sha": "6a04b9626ce2e91669dbad57e00d26d98a7d9965",
-    "file_url": "https://cdn.jsdelivr.net/gh/zammad/zammad@6a04b9626ce2e91669dbad57e00d26d98a7d9965/{path}"
+    "sha": "96f7f602398cbddc5134f74912c941079a7cb04a",
+    "file_url": "https://cdn.jsdelivr.net/gh/zammad/zammad@96f7f602398cbddc5134f74912c941079a7cb04a/{path}"
   },
   "facts": {
     "lang": "Ruby",
     "license": "AGPL-3.0",
-    "stars": 6134,
-    "size_mb": 1107,
+    "stars": 6138,
+    "size_mb": 1108,
     "created_at": "2012-04-02T08:50:33Z",
-    "last_commit_at": "2026-11-20T19:13:08Z",
+    "last_commit_at": "2026-11-23T09:22:18Z",
     "releases": 0,
     "tags": 121,
     "archived": false,
@@ -60,8 +60,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "6a04b9626ce2e91669dbad57e00d26d98a7d9965",
-    "v": 4
-  }
+  "pins_before": [
+    "6a04b9626ce2e91669dbad57e00d26d98a7d9965"
+  ],
+  "pinned_at": "2026-11-23T09:22:18Z"
 }

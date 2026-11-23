@@ -1,0 +1,63 @@
+{
+  "id": "gh:go-openapi/strfmt",
+  "kind": "repo",
+  "url": "https://github.com/go-openapi/strfmt",
+  "title": "strfmt",
+  "why": "Go library that validates and parses string formats such as dates, durations, UUIDs, ULIDs, emails and currencies, with JSON and BSON marshaling.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/go-openapi/strfmt",
+    "sha": "4a393da5485116629818663592fd33c8e08f0f56",
+    "file_url": "https://cdn.jsdelivr.net/gh/go-openapi/strfmt@4a393da5485116629818663592fd33c8e08f0f56/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 112,
+    "size_mb": 1,
+    "created_at": "2016-04-17T07:44:41Z",
+    "last_commit_at": "2026-11-20T13:36:27Z",
+    "releases": 10,
+    "tags": 69,
+    "archived": false,
+    "release": {
+      "tag": "v0.27.4",
+      "at": "2026-10-19T13:41:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-20T13:36:27Z"
+}

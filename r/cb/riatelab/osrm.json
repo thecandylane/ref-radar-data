@@ -1,0 +1,55 @@
+{
+  "id": "cb:riatelab/osrm",
+  "kind": "repo",
+  "url": "https://codeberg.org/riatelab/osrm",
+  "title": "osrm",
+  "why": "Connects R sessions to an OpenStreetMap routing service for shortest paths and travel times, returned as data frames.",
+  "keys": {
+    "races": [
+      "logistics/route-optimization",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "logistics/route-optimization",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://codeberg.org/riatelab/osrm",
+    "sha": "57e651555ff57342368bc8ad622823810e74bde8",
+    "file_url": "https://ref.lookit.space/api/file?ref=cb%3Ariatelab%2Fosrm&sha=57e651555ff57342368bc8ad622823810e74bde8&path={path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 2,
+    "size_mb": 37,
+    "created_at": "2026-09-25T09:08:44.000Z",
+    "last_commit_at": "2026-10-02T07:51:12.000Z",
+    "releases": 18,
+    "tags": 18,
+    "archived": false
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-10-02T07:51:12.000Z"
+}

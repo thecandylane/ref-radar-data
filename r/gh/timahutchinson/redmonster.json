@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:73adfb20213b89e43b950eb6a7f6525f3d11cec4"
+  },
+  "id": "gh:timahutchinson/redmonster",
+  "kind": "repo",
+  "url": "https://github.com/timahutchinson/redmonster",
+  "title": "redmonster",
+  "why": "Matches spectra against spectral templates to get a redshift, with Python code and IDL routines for building galaxy templates.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/timahutchinson/redmonster",
+    "sha": "73adfb20213b89e43b950eb6a7f6525f3d11cec4",
+    "file_url": "https://raw.githubusercontent.com/timahutchinson/redmonster/73adfb20213b89e43b950eb6a7f6525f3d11cec4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 8,
+    "size_mb": 177,
+    "created_at": "2016-06-21T15:04:16Z",
+    "last_commit_at": "2018-05-28T01:40:29Z",
+    "releases": 0,
+    "tags": 9,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2018-05-28T01:40:29Z",
+  "papers": [
+    {
+      "id": "arxiv:1607.02432",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

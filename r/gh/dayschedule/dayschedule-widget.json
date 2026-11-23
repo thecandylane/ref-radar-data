@@ -1,0 +1,54 @@
+{
+  "id": "gh:dayschedule/dayschedule-widget",
+  "kind": "repo",
+  "url": "https://github.com/dayschedule/dayschedule-widget",
+  "title": "dayschedule-widget",
+  "why": "Embeds a booking calendar as a popup or inline element, and color.mode 'dark' switches the page to night mode.",
+  "keys": {
+    "races": [
+      "business-apps/scheduling"
+    ],
+    "lanes": [
+      "business-apps/scheduling"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dayschedule/dayschedule-widget",
+    "sha": "a5d06e7c33433062d269a78a6cfd2a8699206fbd",
+    "file_url": "https://cdn.jsdelivr.net/gh/dayschedule/dayschedule-widget@a5d06e7c33433062d269a78a6cfd2a8699206fbd/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 103,
+    "size_mb": 7,
+    "created_at": "2022-03-12T09:12:01Z",
+    "last_commit_at": "2025-12-24T05:49:59Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-12-24T05:49:59Z"
+}

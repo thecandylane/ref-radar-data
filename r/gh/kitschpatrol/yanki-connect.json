@@ -1,0 +1,63 @@
+{
+  "id": "gh:kitschpatrol/yanki-connect",
+  "kind": "repo",
+  "url": "https://github.com/kitschpatrol/yanki-connect",
+  "title": "yanki-connect",
+  "why": "Typed TypeScript client for the AnkiConnect API, with a probe suite that checks each method against many Anki releases.",
+  "keys": {
+    "races": [
+      "learning/spaced-repetition",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "learning/spaced-repetition",
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kitschpatrol/yanki-connect",
+    "sha": "76c89fd89d355a552b7d737a35cbd64f4836b3ad",
+    "file_url": "https://cdn.jsdelivr.net/gh/kitschpatrol/yanki-connect@76c89fd89d355a552b7d737a35cbd64f4836b3ad/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 59,
+    "size_mb": 3,
+    "created_at": "2024-05-30T08:23:19Z",
+    "last_commit_at": "2026-11-20T22:18:45Z",
+    "releases": 70,
+    "tags": 70,
+    "archived": false,
+    "release": {
+      "tag": "v5.3.2",
+      "at": "2026-11-20T22:19:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-20T22:18:45Z"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "gh:cocoapods/cocoapods",
+  "kind": "repo",
+  "url": "https://github.com/CocoaPods/CocoaPods",
+  "title": "CocoaPods",
+  "why": "Resolves a Podfile's dependencies, fetches their source and builds an Xcode workspace, though the project is in maintenance mode.",
+  "keys": {
+    "races": [
+      "mobile/ios"
+    ],
+    "lanes": [
+      "mobile/ios"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CocoaPods/CocoaPods",
+    "sha": "a4c819bb1be63f338eacd6b2907a5ba2484fe58f",
+    "file_url": "https://cdn.jsdelivr.net/gh/CocoaPods/CocoaPods@a4c819bb1be63f338eacd6b2907a5ba2484fe58f/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "NOASSERTION",
+    "stars": 14835,
+    "size_mb": 96,
+    "created_at": "2011-08-14T00:10:53Z",
+    "last_commit_at": "2026-11-15T23:35:28Z",
+    "releases": 192,
+    "tags": 232,
+    "archived": false,
+    "release": {
+      "tag": "1.17.0",
+      "at": "2026-07-06T21:38:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-15T23:35:28Z"
+}

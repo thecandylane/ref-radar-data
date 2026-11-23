@@ -1,0 +1,66 @@
+{
+  "id": "gh:pohcee/dcmnorm",
+  "kind": "repo",
+  "url": "https://github.com/pohcee/dcmnorm",
+  "title": "dcmnorm",
+  "why": "Handles DICOM transfer syntaxes and JPEG 2000 codecs in Rust, with Node and Python bindings and DIMSE networking.",
+  "keys": {
+    "races": [
+      "medicine/medical-imaging",
+      "agents/skills"
+    ],
+    "lanes": [
+      "medicine/medical-imaging",
+      "agents/skills"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pohcee/dcmnorm",
+    "sha": "10391a074b3e631d3ada99fdd97efbd0322be5fe",
+    "file_url": "https://cdn.jsdelivr.net/gh/pohcee/dcmnorm@10391a074b3e631d3ada99fdd97efbd0322be5fe/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 14,
+    "size_mb": 700,
+    "created_at": "2026-04-06T17:08:31Z",
+    "last_commit_at": "2026-11-22T21:37:32Z",
+    "releases": 80,
+    "tags": 134,
+    "archived": false,
+    "release": {
+      "tag": "v0.20.1",
+      "at": "2026-11-22T22:07:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:3a63b29953a3b763f428821e02110def9fb1cade"
-  },
   "id": "gh:greatscottgadgets/hackrf",
   "kind": "repo",
   "url": "https://github.com/greatscottgadgets/hackrf",
@@ -29,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/greatscottgadgets/hackrf",
-    "sha": "3a63b29953a3b763f428821e02110def9fb1cade",
-    "file_url": "https://cdn.jsdelivr.net/gh/greatscottgadgets/hackrf@3a63b29953a3b763f428821e02110def9fb1cade/{path}"
+    "sha": "8540a765590bf67cade4139f6fc9513c238c7235",
+    "file_url": "https://cdn.jsdelivr.net/gh/greatscottgadgets/hackrf@8540a765590bf67cade4139f6fc9513c238c7235/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "GPL-2.0",
-    "stars": 8231,
+    "stars": 8232,
     "size_mb": 55,
     "created_at": "2012-03-10T18:31:42Z",
     "last_commit_at": "2026-11-19T16:25:37Z",
@@ -60,9 +57,8 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "3a63b29953a3b763f428821e02110def9fb1cade",
-    "v": 3
-  },
-  "pinned_at": "2026-11-06T00:29:36Z"
+  "pins_before": [
+    "3a63b29953a3b763f428821e02110def9fb1cade"
+  ],
+  "pinned_at": "2026-11-19T16:25:37Z"
 }

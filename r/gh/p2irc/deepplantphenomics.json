@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2cfad2287c4806efc941ea35c0f732102b4c02f0"
+  },
+  "id": "gh:p2irc/deepplantphenomics",
+  "kind": "repo",
+  "url": "https://github.com/p2irc/deepplantphenomics",
+  "title": "deepplantphenomics",
+  "why": "Deprecated, but it ships pre-trained networks that count leaves on rosette plants and rate biotic stress from images.",
+  "keys": {
+    "races": [
+      "ml/vision",
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/vision",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/p2irc/deepplantphenomics",
+    "sha": "2cfad2287c4806efc941ea35c0f732102b4c02f0",
+    "file_url": "https://raw.githubusercontent.com/p2irc/deepplantphenomics/2cfad2287c4806efc941ea35c0f732102b4c02f0/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-2.0",
+    "stars": 139,
+    "size_mb": 173,
+    "created_at": "2017-04-18T18:18:08Z",
+    "last_commit_at": "2021-03-05T15:43:15Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "2.1.0",
+      "at": "2019-12-09T21:42:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2021-03-05T15:43:15Z"
+}

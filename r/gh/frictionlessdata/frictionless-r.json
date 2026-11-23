@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7e49a358c4aaf293fc427480c7b199e58351371b"
+  },
+  "id": "gh:frictionlessdata/frictionless-r",
+  "kind": "repo",
+  "url": "https://github.com/frictionlessdata/frictionless-r",
+  "title": "frictionless-r",
+  "why": "Reads a Data Package into data frames and writes one back to disk, staying lightweight and pipe-friendly for analysis in R.",
+  "keys": {
+    "races": [
+      "data/serialization",
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/serialization",
+      "data/datasets"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/frictionlessdata/frictionless-r",
+    "sha": "7e49a358c4aaf293fc427480c7b199e58351371b",
+    "file_url": "https://cdn.jsdelivr.net/gh/frictionlessdata/frictionless-r@7e49a358c4aaf293fc427480c7b199e58351371b/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 37,
+    "size_mb": 1,
+    "created_at": "2021-06-03T08:13:42Z",
+    "last_commit_at": "2026-10-29T15:59:00Z",
+    "releases": 13,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.1",
+      "at": "2026-10-29T15:58:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-10-29T15:59:00Z"
+}

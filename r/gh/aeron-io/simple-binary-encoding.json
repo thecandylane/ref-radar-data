@@ -24,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/aeron-io/simple-binary-encoding",
-    "sha": "6c20e6242e63ac67854707470dcee931eabf68fe",
-    "file_url": "https://cdn.jsdelivr.net/gh/aeron-io/simple-binary-encoding@6c20e6242e63ac67854707470dcee931eabf68fe/{path}"
+    "sha": "f20a56f5c3a827578b8b6909ace3a8aecc0f0552",
+    "file_url": "https://cdn.jsdelivr.net/gh/aeron-io/simple-binary-encoding@f20a56f5c3a827578b8b6909ace3a8aecc0f0552/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 3532,
+    "stars": 3533,
     "size_mb": 59,
     "created_at": "2013-09-03T09:13:34Z",
     "last_commit_at": "2026-11-19T15:28:59Z",
@@ -50,14 +50,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 4,
+    "star_delta_7d": 3,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pins_before": [
+    "6c20e6242e63ac67854707470dcee931eabf68fe",
     "c3cf6a82e96c6e27a47dacf0b04847120aab2c38",
     "36f830782efbf1284e3d6ec9836790494dd69b2d"
   ],
-  "pinned_at": "2026-11-19T15:28:59Z"
+  "pinned_at": "2026-11-23T12:31:33Z"
 }

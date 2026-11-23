@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:220ee2c74652d686a4baf01b2d1a00c25644bd48"
+    "swh": "swh:1:rev:9d3a9a2e87ebbae0a525f1169b85b82fed986a21"
   },
   "id": "gh:vega/vega-lite",
   "kind": "repo",
@@ -29,8 +29,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/vega/vega-lite",
-    "sha": "220ee2c74652d686a4baf01b2d1a00c25644bd48",
-    "file_url": "https://cdn.jsdelivr.net/gh/vega/vega-lite@220ee2c74652d686a4baf01b2d1a00c25644bd48/{path}"
+    "sha": "9d3a9a2e87ebbae0a525f1169b85b82fed986a21",
+    "file_url": "https://cdn.jsdelivr.net/gh/vega/vega-lite@9d3a9a2e87ebbae0a525f1169b85b82fed986a21/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -55,13 +55,13 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 6,
+    "star_delta_7d": 5,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
-  "pack": {
-    "sha": "220ee2c74652d686a4baf01b2d1a00c25644bd48",
-    "v": 3
-  }
+  "pins_before": [
+    "220ee2c74652d686a4baf01b2d1a00c25644bd48"
+  ],
+  "pinned_at": "2026-11-13T08:51:48Z"
 }

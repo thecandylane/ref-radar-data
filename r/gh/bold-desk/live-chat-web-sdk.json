@@ -1,0 +1,58 @@
+{
+  "id": "gh:bold-desk/live-chat-web-sdk",
+  "kind": "repo",
+  "url": "https://github.com/bold-desk/live-chat-web-sdk",
+  "title": "live-chat-web-sdk",
+  "why": "Wraps the BoldDesk chat widget for React, Vue and Angular apps, with TypeScript types for its calls.",
+  "keys": {
+    "races": [
+      "support/helpdesk"
+    ],
+    "lanes": [
+      "support/helpdesk"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bold-desk/live-chat-web-sdk",
+    "sha": "97d2b8317d0a2a8313b71f7873b8a36665ee4830",
+    "file_url": "https://cdn.jsdelivr.net/gh/bold-desk/live-chat-web-sdk@97d2b8317d0a2a8313b71f7873b8a36665ee4830/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2025-05-20T12:59:26Z",
+    "last_commit_at": "2025-06-13T09:22:20Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2025-06-13T09:22:20Z"
+}

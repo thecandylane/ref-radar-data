@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7de3607264cf802df6028e26d6e610bc54cdcbf2"
+  },
+  "id": "gh:natlabrockies/fc-placer",
+  "kind": "repo",
+  "url": "https://github.com/NatLabRockies/FC-PLACER",
+  "title": "FC-PLACER",
+  "why": "Runs low, mid and high cost scenarios for fuel cell plants across 2025-2050 and reports total overnight cost for each year.",
+  "keys": {
+    "races": [
+      "energy/system-models",
+      "construction/project-controls"
+    ],
+    "lanes": [
+      "energy/system-models",
+      "construction/project-controls"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NatLabRockies/FC-PLACER",
+    "sha": "7de3607264cf802df6028e26d6e610bc54cdcbf2",
+    "file_url": "https://cdn.jsdelivr.net/gh/NatLabRockies/FC-PLACER@7de3607264cf802df6028e26d6e610bc54cdcbf2/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "BSD-3-Clause",
+    "stars": 2,
+    "size_mb": 33,
+    "created_at": "2026-01-20T16:14:13Z",
+    "last_commit_at": "2026-01-30T20:35:17Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-01-30T20:35:17Z"
+}

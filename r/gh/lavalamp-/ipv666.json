@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ad45ae87b1b86ad954256fab32619beefb6eadba"
+  },
+  "id": "gh:lavalamp-/ipv666",
+  "kind": "repo",
+  "url": "https://github.com/lavalamp-/ipv666",
+  "title": "ipv666",
+  "why": "Finds live IPv6 hosts by predicting likely addresses from a clustering model, then checks aliased ranges with ping scans.",
+  "keys": {
+    "races": [
+      "netsec/scanning",
+      "recon/domains"
+    ],
+    "lanes": [
+      "netsec/scanning",
+      "recon/domains"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lavalamp-/ipv666",
+    "sha": "ad45ae87b1b86ad954256fab32619beefb6eadba",
+    "file_url": "https://cdn.jsdelivr.net/gh/lavalamp-/ipv666@ad45ae87b1b86ad954256fab32619beefb6eadba/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "BSD-2-Clause",
+    "stars": 355,
+    "size_mb": 11,
+    "created_at": "2018-06-04T00:27:13Z",
+    "last_commit_at": "2019-05-27T23:38:30Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.0",
+      "at": "2019-05-27T23:58:32.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2019-05-27T23:38:30Z"
+}

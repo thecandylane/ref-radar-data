@@ -1,0 +1,62 @@
+{
+  "id": "gh:fastify/fast-json-stringify",
+  "kind": "repo",
+  "url": "https://github.com/fastify/fast-json-stringify",
+  "title": "fast-json-stringify",
+  "why": "Builds a serializer from a JSON schema, with ajv validators checking the schema first.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fastify/fast-json-stringify",
+    "sha": "212f8478474639814e354bd5f88b1d963d6d5a8e",
+    "file_url": "https://cdn.jsdelivr.net/gh/fastify/fast-json-stringify@212f8478474639814e354bd5f88b1d963d6d5a8e/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 3710,
+    "size_mb": 1,
+    "created_at": "2016-07-27T19:09:25Z",
+    "last_commit_at": "2026-11-22T14:23:56Z",
+    "releases": 183,
+    "tags": 185,
+    "archived": false,
+    "release": {
+      "tag": "v7.3.10",
+      "at": "2026-11-22T14:24:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}

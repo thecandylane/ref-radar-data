@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:79ac0da13ee392da3fdd151813d5ce4658cb7e27"
+  },
+  "id": "gh:actions/hello-world-javascript-action",
+  "kind": "repo",
+  "url": "https://github.com/actions/hello-world-javascript-action",
+  "title": "hello-world-javascript-action",
+  "why": "Copy this repo as a template to get a working JavaScript action with inputs, outputs and a linter workflow already wired up.",
+  "keys": {
+    "races": [
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/actions/hello-world-javascript-action",
+    "sha": "79ac0da13ee392da3fdd151813d5ce4658cb7e27",
+    "file_url": "https://cdn.jsdelivr.net/gh/actions/hello-world-javascript-action@79ac0da13ee392da3fdd151813d5ce4658cb7e27/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 316,
+    "size_mb": 5,
+    "created_at": "2019-08-03T21:40:41Z",
+    "last_commit_at": "2026-02-18T21:07:59Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.1",
+      "at": "2020-09-11T16:58:02.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-02-18T21:07:59Z"
+}

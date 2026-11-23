@@ -1,0 +1,57 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:01ca800a8a6320d7cac607a80b95367a4579f53c"
+  },
+  "id": "gh:moby/term",
+  "kind": "repo",
+  "url": "https://github.com/moby/term",
+  "title": "term",
+  "why": "Puts a terminal into raw mode and reads its window size, with ANSI input and output handling for Windows consoles.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/moby/term",
+    "sha": "01ca800a8a6320d7cac607a80b95367a4579f53c",
+    "file_url": "https://cdn.jsdelivr.net/gh/moby/term@01ca800a8a6320d7cac607a80b95367a4579f53c/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 70,
+    "size_mb": 0,
+    "created_at": "2020-03-12T11:16:09Z",
+    "last_commit_at": "2026-11-13T14:21:39Z",
+    "releases": 0,
+    "tags": 3,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2026-11-13T14:21:39Z"
+}

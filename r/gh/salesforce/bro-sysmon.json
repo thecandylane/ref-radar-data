@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:926a93c287a74d4b8aa80a35ee52707ded8e2808"
+  },
+  "id": "gh:salesforce/bro-sysmon",
+  "kind": "repo",
+  "url": "https://github.com/salesforce/bro-sysmon",
+  "title": "bro-sysmon",
+  "why": "Feeds Windows Sysmon events into Zeek over Broker, so JA3 fingerprints map to the process that opened each connection.",
+  "keys": {
+    "races": [
+      "infra/observability",
+      "netsec/capture"
+    ],
+    "lanes": [
+      "infra/observability",
+      "netsec/capture"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/salesforce/bro-sysmon",
+    "sha": "926a93c287a74d4b8aa80a35ee52707ded8e2808",
+    "file_url": "https://cdn.jsdelivr.net/gh/salesforce/bro-sysmon@926a93c287a74d4b8aa80a35ee52707ded8e2808/{path}"
+  },
+  "facts": {
+    "lang": "Zeek",
+    "license": "BSD-3-Clause",
+    "stars": 102,
+    "size_mb": 17,
+    "created_at": "2018-11-14T15:55:17Z",
+    "last_commit_at": "2022-02-12T14:35:24Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": true,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "pinned_at": "2022-02-12T14:35:24Z"
+}

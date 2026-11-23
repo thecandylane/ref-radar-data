@@ -1,0 +1,71 @@
+{
+  "id": "gh:dravr-ai/dravr-embacle",
+  "kind": "repo",
+  "url": "https://github.com/dravr-ai/dravr-embacle",
+  "title": "dravr-embacle",
+  "why": "Wraps local Claude, Copilot and other CLI agents behind one completion interface, with a C FFI header for other languages.",
+  "keys": {
+    "races": [
+      "llm-infra/gateways",
+      "agents/frameworks",
+      "agents/tools"
+    ],
+    "lanes": [
+      "llm-infra/gateways",
+      "agents/frameworks",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/frameworks/llm-sdks",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dravr-ai/dravr-embacle",
+    "sha": "ac75914ac9073da168daae61f71d696250ec5cb1",
+    "file_url": "https://cdn.jsdelivr.net/gh/dravr-ai/dravr-embacle@ac75914ac9073da168daae61f71d696250ec5cb1/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "NOASSERTION",
+    "stars": 8,
+    "size_mb": 2,
+    "created_at": "2026-02-26T05:48:17Z",
+    "last_commit_at": "2026-11-22T09:21:05Z",
+    "releases": 105,
+    "tags": 116,
+    "archived": false,
+    "release": {
+      "tag": "v0.47.2",
+      "at": "2026-11-22T02:34:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated"
+}
