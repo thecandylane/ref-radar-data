@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f9077faeca038a4637fe43bb1a93750f7df2009d"
+  },
+  "id": "gh:jeffreyevans/yaimpute",
+  "kind": "repo",
+  "url": "https://github.com/jeffreyevans/yaImpute",
+  "title": "yaImpute",
+  "why": "Fills in missing multivariate data using nearest neighbor methods, including canonical correlation and random forest variants.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "data/statistics",
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jeffreyevans/yaImpute",
+    "sha": "f9077faeca038a4637fe43bb1a93750f7df2009d",
+    "file_url": "https://cdn.jsdelivr.net/gh/jeffreyevans/yaImpute@f9077faeca038a4637fe43bb1a93750f7df2009d/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-3.0",
+    "stars": 4,
+    "size_mb": 1,
+    "created_at": "2022-10-24T21:45:53Z",
+    "last_commit_at": "2026-02-09T21:04:56Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f9077faeca038a4637fe43bb1a93750f7df2009d",
+    "v": 4
+  },
+  "pinned_at": "2026-02-09T21:04:56Z"
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:af438614ab1f67f6b3858f2200f683b1c48b2a86"
+  },
   "id": "gh:inngest/inngest",
   "kind": "repo",
   "url": "https://github.com/inngest/inngest",
@@ -19,10 +22,6 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "internal",
       "kind": "path"
     },
@@ -32,6 +31,10 @@
     },
     {
       "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -44,10 +47,10 @@
   "facts": {
     "lang": "Go",
     "license": "NOASSERTION",
-    "stars": 6068,
+    "stars": 6073,
     "size_mb": 496,
     "created_at": "2021-06-07T18:26:33Z",
-    "last_commit_at": "2026-11-21T00:10:15Z",
+    "last_commit_at": "2026-11-23T18:40:15Z",
     "releases": 280,
     "tags": 291,
     "archived": false,
@@ -69,5 +72,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "af438614ab1f67f6b3858f2200f683b1c48b2a86",
+    "v": 4
+  },
   "pinned_at": "2026-11-21T00:10:15Z"
 }

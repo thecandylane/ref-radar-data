@@ -1,0 +1,70 @@
+{
+  "id": "gh:building-acoustics-tu-eindhoven/acousticde",
+  "kind": "repo",
+  "url": "https://github.com/Building-acoustics-TU-Eindhoven/acousticDE",
+  "title": "acousticDE",
+  "why": "Runs room sound simulations on finite difference or finite volume meshes, then reports T60 decay, clarity and definition.",
+  "keys": {
+    "races": [
+      "engineering/simulation",
+      "media/audio-production"
+    ],
+    "lanes": [
+      "engineering/simulation",
+      "media/audio-production"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Building-acoustics-TU-Eindhoven/acousticDE",
+    "sha": "fbe04b075b75183264ebb7e626542ebf9b7060c9",
+    "file_url": "https://cdn.jsdelivr.net/gh/Building-acoustics-TU-Eindhoven/acousticDE@fbe04b075b75183264ebb7e626542ebf9b7060c9/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-2.0",
+    "stars": 11,
+    "size_mb": 199,
+    "created_at": "2023-02-27T15:54:43Z",
+    "last_commit_at": "2026-11-23T10:50:01Z",
+    "releases": 1,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.1",
+      "at": "2026-11-03T13:30:23.000Z"
+    },
+    "doi": "10.21105/joss.11111",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-24"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "fbe04b075b75183264ebb7e626542ebf9b7060c9",
+    "v": 4
+  },
+  "pinned_at": "2026-11-23T10:50:01Z"
+}

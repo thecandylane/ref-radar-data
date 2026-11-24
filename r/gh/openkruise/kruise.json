@@ -17,15 +17,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "pkg",
       "kind": "path"
     },
     {
       "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -63,6 +63,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "859efa1c218f55bf511f919eb84f52bc43b89f42",
     "v": 4

@@ -22,15 +22,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "lib",
       "kind": "path"
     },
     {
       "locator": "app",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -43,10 +43,10 @@
   "facts": {
     "lang": "Ruby",
     "license": "NOASSERTION",
-    "stars": 40391,
+    "stars": 40459,
     "size_mb": 305,
     "created_at": "2019-08-14T06:50:51Z",
-    "last_commit_at": "2026-11-23T09:05:20Z",
+    "last_commit_at": "2026-11-24T09:09:50Z",
     "releases": 155,
     "tags": 160,
     "archived": false,
@@ -68,6 +68,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "5d1afdf3b2f32b88e21899d62fcde12f2c0c33d7",
     "v": 4

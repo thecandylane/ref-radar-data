@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ae0ca83ed43f0b506384a220fc62903d60ca831b"
+  },
   "id": "gh:shinmegamiboson/lookatmyquant",
   "kind": "repo",
   "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
@@ -29,12 +32,12 @@
     "file_url": "https://cdn.jsdelivr.net/gh/ShinMegamiBoson/lookatmyquant@ae0ca83ed43f0b506384a220fc62903d60ca831b/{path}"
   },
   "facts": {
-    "lang": "Python",
+    "lang": "HTML",
     "license": "MIT",
-    "stars": 420,
-    "size_mb": 4,
+    "stars": 702,
+    "size_mb": 99,
     "created_at": "2026-10-31T17:40:04Z",
-    "last_commit_at": "2026-11-22T07:24:43Z",
+    "last_commit_at": "2026-11-23T22:41:29Z",
     "releases": 2,
     "tags": 2,
     "archived": false,
@@ -56,5 +59,10 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "ae0ca83ed43f0b506384a220fc62903d60ca831b",
+    "v": 4
+  },
   "fresh": true
 }

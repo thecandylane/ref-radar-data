@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:678fab1e395111f7513122239fa13780aa683228"
+  },
+  "id": "gh:soerenpannier/emdi",
+  "kind": "repo",
+  "url": "https://github.com/SoerenPannier/emdi",
+  "title": "emdi",
+  "why": "R package for small area estimation: direct and model-based estimates of regional indicators, with diagnostic plots, maps and Excel export.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SoerenPannier/emdi",
+    "sha": "678fab1e395111f7513122239fa13780aa683228",
+    "file_url": "https://cdn.jsdelivr.net/gh/SoerenPannier/emdi@678fab1e395111f7513122239fa13780aa683228/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 16,
+    "size_mb": 341,
+    "created_at": "2016-10-28T11:54:51Z",
+    "last_commit_at": "2025-08-23T17:57:56Z",
+    "releases": 12,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v2.2.3",
+      "at": "2025-08-23T18:01:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "678fab1e395111f7513122239fa13780aa683228",
+    "v": 4
+  },
+  "pinned_at": "2025-08-23T17:57:56Z"
+}

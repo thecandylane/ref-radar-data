@@ -19,15 +19,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "lib",
       "kind": "path"
     },
     {
       "locator": "app",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -40,7 +40,7 @@
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 7333,
+    "stars": 7336,
     "size_mb": 600,
     "created_at": "2020-10-18T11:49:02Z",
     "last_commit_at": "2026-11-23T00:36:12Z",
@@ -65,6 +65,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "40f8d8076837199c9b6d385eda5bd416c8a4e302",
+    "v": 4
+  },
   "pins_before": [
     "6368e4b37930eb1b7c2418145a94e64da0f1afc7"
   ],

@@ -18,11 +18,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "crates",
       "kind": "path"
     },
     {
-      "locator": "crates",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -55,11 +55,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 1,
+    "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "04523040779d80125f280c4f9421f54a6059f470",
     "v": 3

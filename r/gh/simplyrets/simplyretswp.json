@@ -1,0 +1,68 @@
+{
+  "id": "gh:simplyrets/simplyretswp",
+  "kind": "repo",
+  "url": "https://github.com/SimplyRETS/simplyretswp",
+  "title": "simplyretswp",
+  "why": "Puts SimplyRets listings into WordPress search pages, widgets, maps, sliders and open house lists, with shortcodes.",
+  "keys": {
+    "races": [
+      "real-estate/listings",
+      "web/cms"
+    ],
+    "lanes": [
+      "real-estate/listings",
+      "web/cms"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SimplyRETS/simplyretswp",
+    "sha": "1cec9b572dcb571f99dcc8ff6e4de80c0dc9b746",
+    "file_url": "https://cdn.jsdelivr.net/gh/SimplyRETS/simplyretswp@1cec9b572dcb571f99dcc8ff6e4de80c0dc9b746/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "GPL-3.0",
+    "stars": 22,
+    "size_mb": 3,
+    "created_at": "2015-01-18T02:34:09Z",
+    "last_commit_at": "2026-10-30T23:11:47Z",
+    "releases": 75,
+    "tags": 154,
+    "archived": false,
+    "release": {
+      "tag": "v3.2.2",
+      "at": "2026-03-16T17:15:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "1cec9b572dcb571f99dcc8ff6e4de80c0dc9b746",
+    "v": 4
+  },
+  "pinned_at": "2026-10-30T23:11:47Z"
+}

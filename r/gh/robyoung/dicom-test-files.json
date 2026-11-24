@@ -33,7 +33,7 @@
     "stars": 34,
     "size_mb": 243,
     "created_at": "2020-05-29T20:26:33Z",
-    "last_commit_at": "2026-03-01T13:57:29Z",
+    "last_commit_at": "2026-11-23T14:57:59Z",
     "releases": 2,
     "tags": 4,
     "archived": false,
@@ -43,7 +43,7 @@
     }
   },
   "reuse": "copy",
-  "maturity": "quiet",
+  "maturity": "stable",
   "status": null,
   "stats": {
     "picks": {},
@@ -55,5 +55,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6279c96a8a9d4ed2cfba89ac67ebcf669c4471f9",
+    "v": 4
+  },
   "pinned_at": "2026-03-01T13:57:29Z"
 }

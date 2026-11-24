@@ -15,11 +15,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -32,7 +32,7 @@
   "facts": {
     "lang": "C++",
     "license": "NOASSERTION",
-    "stars": 3219,
+    "stars": 3221,
     "size_mb": 226,
     "created_at": "2019-07-11T09:24:15Z",
     "last_commit_at": "2026-11-21T15:19:10Z",
@@ -57,6 +57,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "c680fbad9265cbad578d6fda1ba251766e91edaa",
     "v": 4

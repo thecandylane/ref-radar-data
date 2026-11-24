@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:deb508af9c3d78b98bad68ac025542a593c47cf6"
+  },
+  "id": "gh:raphaelquast/eomaps",
+  "kind": "repo",
+  "url": "https://github.com/raphaelquast/EOmaps",
+  "title": "EOmaps",
+  "why": "Draws interactive maps over matplotlib and cartopy, with layers you can switch, overlay and export as vector graphics.",
+  "keys": {
+    "races": [
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/raphaelquast/EOmaps",
+    "sha": "deb508af9c3d78b98bad68ac025542a593c47cf6",
+    "file_url": "https://cdn.jsdelivr.net/gh/raphaelquast/EOmaps@deb508af9c3d78b98bad68ac025542a593c47cf6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 363,
+    "size_mb": 102,
+    "created_at": "2021-09-27T09:54:17Z",
+    "last_commit_at": "2026-01-21T21:33:52Z",
+    "releases": 88,
+    "tags": 89,
+    "archived": false,
+    "release": {
+      "tag": "v8.4",
+      "at": "2026-01-21T21:36:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "deb508af9c3d78b98bad68ac025542a593c47cf6",
+    "v": 4
+  },
+  "pinned_at": "2026-01-21T21:33:52Z"
+}

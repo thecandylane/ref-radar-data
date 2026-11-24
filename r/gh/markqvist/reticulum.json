@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:cff4d03fdbd6bfb63b765280cd944756ac5cce8d"
+  },
   "id": "gh:markqvist/reticulum",
   "kind": "repo",
   "url": "https://github.com/markqvist/Reticulum",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 7762,
+    "stars": 7768,
     "size_mb": 145,
     "created_at": "2018-04-04T13:28:06Z",
     "last_commit_at": "2026-11-20T12:50:26Z",
@@ -55,6 +58,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "cff4d03fdbd6bfb63b765280cd944756ac5cce8d",
     "v": 4

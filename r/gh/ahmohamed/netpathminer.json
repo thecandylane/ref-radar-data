@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b338534ea59b3c8af05da6b65621dcda6c7ea12f"
+  },
+  "id": "gh:ahmohamed/netpathminer",
+  "kind": "repo",
+  "url": "https://github.com/ahmohamed/NetPathMiner",
+  "title": "NetPathMiner",
+  "why": "Mines paths through genome-scale pathway networks built from gene expression, with visualization for thousands of output paths.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ahmohamed/NetPathMiner",
+    "sha": "b338534ea59b3c8af05da6b65621dcda6c7ea12f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ahmohamed/NetPathMiner@b338534ea59b3c8af05da6b65621dcda6c7ea12f/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 9,
+    "size_mb": 155,
+    "created_at": "2014-03-10T12:31:58Z",
+    "last_commit_at": "2024-11-27T14:32:40Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.3",
+      "at": "2014-04-13T05:45:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b338534ea59b3c8af05da6b65621dcda6c7ea12f",
+    "v": 4
+  },
+  "pinned_at": "2024-11-27T14:32:40Z"
+}

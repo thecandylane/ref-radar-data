@@ -17,11 +17,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "lib",
       "kind": "path"
     },
     {
-      "locator": "lib",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -35,11 +35,11 @@
     "lang": "Python",
     "license": "Apache-2.0",
     "stars": 46485,
-    "size_mb": 1259,
+    "size_mb": 1266,
     "created_at": "2019-08-24T00:14:52Z",
-    "last_commit_at": "2026-11-21T04:01:39Z",
+    "last_commit_at": "2026-11-24T03:17:17Z",
     "releases": 132,
-    "tags": 2671,
+    "tags": 2672,
     "archived": false,
     "release": {
       "tag": "1.67.0",
@@ -54,11 +54,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 103,
+    "star_delta_7d": 81,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "259fbb652404888bff49b923b8228bd2bd9d4888",
+    "v": 4
+  },
   "pins_before": [
     "b7838a0126585327e9166155fd084fc52bd65aa8"
   ],

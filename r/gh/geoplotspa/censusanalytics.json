@@ -1,0 +1,70 @@
+{
+  "id": "gh:geoplotspa/censusanalytics",
+  "kind": "repo",
+  "url": "https://github.com/GeoplotSpA/CensusAnalytics",
+  "title": "CensusAnalytics",
+  "why": "Exports census blocks as KML outlines and scores each block with density and weighted sums, using pandas and geopandas.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/GeoplotSpA/CensusAnalytics",
+    "sha": "e457b9ce1ca540e62b20ba7692ff3b5ee531d35c",
+    "file_url": "https://cdn.jsdelivr.net/gh/GeoplotSpA/CensusAnalytics@e457b9ce1ca540e62b20ba7692ff3b5ee531d35c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 1,
+    "created_at": "2026-09-18T06:05:34Z",
+    "last_commit_at": "2026-09-18T06:06:22Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.0",
+      "at": "2026-09-18T06:42:12.000Z"
+    },
+    "doi": "10.5281/zenodo.22825035",
+    "citations": {
+      "count": 2,
+      "by": "DataCite",
+      "at": "2026-11-24"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e457b9ce1ca540e62b20ba7692ff3b5ee531d35c",
+    "v": 4
+  },
+  "pinned_at": "2026-09-18T06:06:22Z"
+}

@@ -25,15 +25,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "packages",
       "kind": "path"
     },
     {
       "locator": "apps",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -50,12 +50,12 @@
     "size_mb": 37,
     "created_at": "2026-03-23T19:51:02Z",
     "last_commit_at": "2026-11-22T14:30:28Z",
-    "releases": 26,
-    "tags": 27,
+    "releases": 27,
+    "tags": 28,
     "archived": false,
     "release": {
-      "tag": "v0.6.3",
-      "at": "2026-11-21T18:00:06.000Z"
+      "tag": "v0.7.0",
+      "at": "2026-11-23T18:39:59.000Z"
     },
     "doi": "10.5281/zenodo.22162063",
     "citations": {
@@ -77,6 +77,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "33cce73e5bd69c8ffc333f481c05afb90fdd1bb9",
     "v": 3

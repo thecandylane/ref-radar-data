@@ -1,0 +1,73 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6e042d17a0722c698cc40c83a4dd0c70b1bfd73c"
+  },
+  "id": "gh:josemmo/einvoicing",
+  "kind": "repo",
+  "url": "https://github.com/josemmo/einvoicing",
+  "title": "einvoicing",
+  "why": "PHP library that builds, reads and validates EN 16931 invoices with Peppol presets, exporting and importing UBL documents through objects.",
+  "keys": {
+    "races": [
+      "finance/e-invoicing",
+      "finance/accounting"
+    ],
+    "lanes": [
+      "finance/e-invoicing",
+      "finance/accounting"
+    ],
+    "capabilities": [
+      "finance/accounting/bookkeeping"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/josemmo/einvoicing",
+    "sha": "6e042d17a0722c698cc40c83a4dd0c70b1bfd73c",
+    "file_url": "https://cdn.jsdelivr.net/gh/josemmo/einvoicing@6e042d17a0722c698cc40c83a4dd0c70b1bfd73c/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 180,
+    "size_mb": 3,
+    "created_at": "2020-07-04T14:55:54Z",
+    "last_commit_at": "2025-06-09T09:33:47Z",
+    "releases": 18,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.1",
+      "at": "2025-06-09T09:36:48.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6e042d17a0722c698cc40c83a4dd0c70b1bfd73c",
+    "v": 4
+  },
+  "pinned_at": "2025-06-09T09:33:47Z"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "gh:eclipse-langium/langium",
+  "kind": "repo",
+  "url": "https://github.com/eclipse-langium/langium",
+  "title": "langium",
+  "why": "Turns a grammar into a language server with validators, a CLI generator and Sprotty diagrams, all for your own DSL.",
+  "keys": {
+    "races": [
+      "languages/compilers",
+      "dev-tools/editors",
+      "dev-tools/diagrams"
+    ],
+    "lanes": [
+      "languages/compilers",
+      "dev-tools/editors",
+      "dev-tools/diagrams"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/eclipse-langium/langium",
+    "sha": "36a31d7cf472ba7ad5344c067f6dd6f8d933a98a",
+    "file_url": "https://cdn.jsdelivr.net/gh/eclipse-langium/langium@36a31d7cf472ba7ad5344c067f6dd6f8d933a98a/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1055,
+    "size_mb": 7,
+    "created_at": "2021-02-22T13:23:40Z",
+    "last_commit_at": "2026-11-23T15:55:37Z",
+    "releases": 25,
+    "tags": 31,
+    "archived": false,
+    "release": {
+      "tag": "v4.4.0",
+      "at": "2026-09-21T09:58:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "36a31d7cf472ba7ad5344c067f6dd6f8d933a98a",
+    "v": 4
+  }
+}

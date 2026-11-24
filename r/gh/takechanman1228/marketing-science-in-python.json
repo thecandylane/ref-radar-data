@@ -1,0 +1,67 @@
+{
+  "id": "gh:takechanman1228/marketing-science-in-python",
+  "kind": "repo",
+  "url": "https://github.com/takechanman1228/marketing-science-in-python",
+  "title": "marketing-science-in-python",
+  "why": "Companion code for a book, with synthetic marketing mix data generators and forecast metrics like WAPE and pinball loss for checking models.",
+  "keys": {
+    "races": [
+      "marketing/mmm",
+      "data/statistics",
+      "learning/courses"
+    ],
+    "lanes": [
+      "marketing/mmm",
+      "data/statistics",
+      "learning/courses"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/takechanman1228/marketing-science-in-python",
+    "sha": "8e2c7470e72897d59a524c37846794eaeae26464",
+    "file_url": "https://cdn.jsdelivr.net/gh/takechanman1228/marketing-science-in-python@8e2c7470e72897d59a524c37846794eaeae26464/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 20,
+    "size_mb": 123,
+    "created_at": "2026-05-23T11:06:10Z",
+    "last_commit_at": "2026-11-13T22:11:32Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "8e2c7470e72897d59a524c37846794eaeae26464",
+    "v": 4
+  },
+  "pinned_at": "2026-11-13T22:11:32Z"
+}

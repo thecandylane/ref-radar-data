@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:dfd3c2474ef4246a32f589691857b170c7c9a16d"
-  },
   "id": "gh:getzola/zola",
   "kind": "repo",
   "url": "https://github.com/getzola/zola",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/getzola/zola",
-    "sha": "dfd3c2474ef4246a32f589691857b170c7c9a16d",
-    "file_url": "https://cdn.jsdelivr.net/gh/getzola/zola@dfd3c2474ef4246a32f589691857b170c7c9a16d/{path}"
+    "sha": "c819c6acd66ef48ce367ac187b27174ca2d573c0",
+    "file_url": "https://cdn.jsdelivr.net/gh/getzola/zola@c819c6acd66ef48ce367ac187b27174ca2d573c0/{path}"
   },
   "facts": {
     "lang": "Rust",
@@ -40,7 +37,7 @@
     "stars": 17620,
     "size_mb": 123,
     "created_at": "2016-12-06T02:57:25Z",
-    "last_commit_at": "2026-11-16T18:24:55Z",
+    "last_commit_at": "2026-11-24T08:08:16Z",
     "releases": 60,
     "tags": 60,
     "archived": false,
@@ -57,17 +54,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 11,
+    "star_delta_7d": 9,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "dfd3c2474ef4246a32f589691857b170c7c9a16d",
+    "sha": "c819c6acd66ef48ce367ac187b27174ca2d573c0",
     "v": 4
   },
   "pins_before": [
+    "dfd3c2474ef4246a32f589691857b170c7c9a16d",
     "48d4e7a9f63bbf5d838b977b6e0403949cac5698"
   ],
-  "pinned_at": "2026-11-16T18:24:55Z"
+  "pinned_at": "2026-11-24T08:08:16Z"
 }

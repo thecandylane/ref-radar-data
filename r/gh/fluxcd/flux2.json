@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:f7e172882c35566ff6981d0907d2b6ad766a039f"
+  },
   "id": "gh:fluxcd/flux2",
   "kind": "repo",
   "url": "https://github.com/fluxcd/flux2",
@@ -17,10 +20,6 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "internal",
       "kind": "path"
     },
@@ -30,6 +29,10 @@
     },
     {
       "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -42,7 +45,7 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 8538,
+    "stars": 8535,
     "size_mb": 12,
     "created_at": "2020-04-24T09:38:21Z",
     "last_commit_at": "2026-11-20T11:49:30Z",
@@ -62,11 +65,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 21,
+    "star_delta_7d": 15,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "f7e172882c35566ff6981d0907d2b6ad766a039f",
     "v": 4

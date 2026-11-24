@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:511c82a2ce4431b16fc72cd0580da9964497a2f1"
+  },
   "id": "gh:tailwindlabs/tailwindcss",
   "kind": "repo",
   "url": "https://github.com/tailwindlabs/tailwindcss",
@@ -36,10 +39,10 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 98707,
-    "size_mb": 113,
+    "stars": 98722,
+    "size_mb": 112,
     "created_at": "2017-10-06T14:59:14Z",
-    "last_commit_at": "2026-11-20T16:04:57Z",
+    "last_commit_at": "2026-11-23T14:50:46Z",
     "releases": 309,
     "tags": 329,
     "archived": false,
@@ -56,14 +59,18 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 49,
+    "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "511c82a2ce4431b16fc72cd0580da9964497a2f1",
+    "v": 4
+  },
   "pins_before": [
     "b08bf83a327271dfb7e3cd485fd793da15013f7c"
   ],
-  "pinned_at": "2026-11-20T16:04:57Z",
-  "hot": true
+  "pinned_at": "2026-11-20T16:04:57Z"
 }

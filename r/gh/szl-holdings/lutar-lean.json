@@ -31,7 +31,7 @@
     "stars": 0,
     "size_mb": 5,
     "created_at": "2026-05-12T03:16:47Z",
-    "last_commit_at": "2026-11-21T20:20:19Z",
+    "last_commit_at": "2026-11-23T23:29:16Z",
     "releases": 2,
     "tags": 2,
     "archived": false,
@@ -39,7 +39,12 @@
       "tag": "lutar-v18.0.0",
       "at": "2026-05-28T19:06:55.000Z"
     },
-    "doi": "10.5281/zenodo.20434308"
+    "doi": "10.5281/zenodo.20434308",
+    "citations": {
+      "count": 3,
+      "by": "DataCite",
+      "at": "2026-11-24"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -54,6 +59,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "0ba86475b7f9e4838db845090ada79ef7c700095",
     "v": 4

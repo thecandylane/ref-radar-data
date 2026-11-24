@@ -19,15 +19,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "internal",
       "kind": "path"
     },
     {
       "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -65,5 +65,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ba4f485dbdb60eb9bf449149ce8f74345bcb3ce1",
+    "v": 4
+  },
   "pinned_at": "2026-07-01T16:00:15Z"
 }

@@ -1,0 +1,88 @@
+{
+  "id": "gh:kabazajian/totani",
+  "kind": "repo",
+  "url": "https://github.com/kabazajian/totani",
+  "title": "totani",
+  "why": "Reproduces the paper's bubble and halo fits through scripts that compute ranks, figures and numbers, built on numpy, astropy and scipy.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kabazajian/totani",
+    "sha": "def576d587a59bad02d9091a3d40ef07973a1a6c",
+    "file_url": "https://cdn.jsdelivr.net/gh/kabazajian/totani@def576d587a59bad02d9091a3d40ef07973a1a6c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 29,
+    "created_at": "2026-10-16T06:01:06Z",
+    "last_commit_at": "2026-10-19T17:12:10Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-10-16T14:51:15.000Z"
+    },
+    "doi": "10.5281/zenodo.23420779",
+    "citations": {
+      "count": 2,
+      "by": "DataCite",
+      "at": "2026-11-24"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "def576d587a59bad02d9091a3d40ef07973a1a6c",
+    "v": 4
+  },
+  "pinned_at": "2026-10-19T17:12:10Z",
+  "papers": [
+    {
+      "id": "arxiv:2610.23713",
+      "via": [
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2507.07209",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

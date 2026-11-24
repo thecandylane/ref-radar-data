@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6f8819e3bd61e5270bd34f55716e78eca6de11e7"
+  },
+  "id": "gh:sandialabs/iterml-for-vocs",
+  "kind": "repo",
+  "url": "https://github.com/sandialabs/IterML-for-VOCs",
+  "title": "IterML-for-VOCs",
+  "why": "Trains neural net and RF models on SARS-CoV-2 binding and escape data to pick variants for experiments.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "ml/training",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "ml/training",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sandialabs/IterML-for-VOCs",
+    "sha": "6f8819e3bd61e5270bd34f55716e78eca6de11e7",
+    "file_url": "https://cdn.jsdelivr.net/gh/sandialabs/IterML-for-VOCs@6f8819e3bd61e5270bd34f55716e78eca6de11e7/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "BSD-3-Clause",
+    "stars": 0,
+    "size_mb": 47,
+    "created_at": "2026-01-22T21:03:30Z",
+    "last_commit_at": "2026-03-05T23:49:37Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6f8819e3bd61e5270bd34f55716e78eca6de11e7",
+    "v": 4
+  },
+  "pinned_at": "2026-03-05T23:49:37Z"
+}

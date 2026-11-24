@@ -17,15 +17,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "packages",
       "kind": "path"
     },
     {
       "locator": "apps",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -39,15 +39,15 @@
     "lang": "TypeScript",
     "license": "MIT",
     "stars": 124,
-    "size_mb": 5,
+    "size_mb": 7,
     "created_at": "2023-08-09T01:27:52Z",
-    "last_commit_at": "2026-11-19T11:14:47Z",
-    "releases": 86,
-    "tags": 86,
+    "last_commit_at": "2026-11-23T19:01:49Z",
+    "releases": 87,
+    "tags": 87,
     "archived": false,
     "release": {
-      "tag": "@sanity/astro@4.1.0",
-      "at": "2026-11-17T08:30:54.000Z"
+      "tag": "@sanity/astro@4.1.1",
+      "at": "2026-11-23T19:05:22.000Z"
     }
   },
   "reuse": "copy",
@@ -63,6 +63,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "8c35a3859b00d4c11f915c88d79c1d85f4795ea1",
     "v": 4

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:bd19082c1c8d8d64fc01b5ff401593b9ef0ab7fb"
-  },
   "id": "gh:wireshark/wireshark",
   "kind": "repo",
   "url": "https://github.com/wireshark/wireshark",
@@ -22,27 +19,27 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "app",
       "kind": "path"
     },
     {
-      "locator": "app",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/wireshark/wireshark",
-    "sha": "bd19082c1c8d8d64fc01b5ff401593b9ef0ab7fb",
-    "file_url": "https://raw.githubusercontent.com/wireshark/wireshark/bd19082c1c8d8d64fc01b5ff401593b9ef0ab7fb/{path}"
+    "sha": "e79a2e4eebb214d3572b08fb6066338238946e4d",
+    "file_url": "https://raw.githubusercontent.com/wireshark/wireshark/e79a2e4eebb214d3572b08fb6066338238946e4d/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "GPL-2.0",
-    "stars": 10269,
-    "size_mb": 1576,
+    "stars": 10274,
+    "size_mb": 1575,
     "created_at": "2014-06-29T18:37:22Z",
-    "last_commit_at": "2026-11-23T07:09:08Z",
+    "last_commit_at": "2026-11-24T07:39:48Z",
     "releases": 0,
     "tags": 1152,
     "archived": false,
@@ -61,9 +58,14 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "bd19082c1c8d8d64fc01b5ff401593b9ef0ab7fb",
-    "v": 3
+    "sha": "e79a2e4eebb214d3572b08fb6066338238946e4d",
+    "v": 4
   },
+  "pins_before": [
+    "bd19082c1c8d8d64fc01b5ff401593b9ef0ab7fb"
+  ],
+  "pinned_at": "2026-11-24T07:39:48Z",
   "hot": true
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:e3e2054dde029de28988bbe8d5e18a913b41a950"
+  },
   "id": "gh:brightdata/brightdata-mcp",
   "kind": "repo",
   "url": "https://github.com/brightdata/brightdata-mcp",
@@ -32,16 +35,16 @@
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 2734,
+    "stars": 2735,
     "size_mb": 66,
     "created_at": "2025-04-15T10:55:56Z",
-    "last_commit_at": "2026-11-18T10:13:57Z",
-    "releases": 27,
-    "tags": 42,
+    "last_commit_at": "2026-11-24T08:54:47Z",
+    "releases": 28,
+    "tags": 43,
     "archived": false,
     "release": {
-      "tag": "v4.8.0",
-      "at": "2026-11-10T12:58:04.000Z"
+      "tag": "v4.9.0",
+      "at": "2026-11-23T12:07:07.000Z"
     }
   },
   "reuse": "copy",
@@ -57,5 +60,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e3e2054dde029de28988bbe8d5e18a913b41a950",
+    "v": 4
+  },
   "pinned_at": "2026-11-18T10:13:57Z"
 }

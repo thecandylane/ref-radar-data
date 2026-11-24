@@ -1,0 +1,68 @@
+{
+  "id": "gh:berkeleylab/formal",
+  "kind": "repo",
+  "url": "https://github.com/BerkeleyLab/formal",
+  "title": "formal",
+  "why": "Fortran gradient and divergence operators that keep discrete vector calculus identities, shown on advection-diffusion steps.",
+  "keys": {
+    "races": [
+      "sci/numerics",
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "sci/numerics",
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/BerkeleyLab/formal",
+    "sha": "39f521d882e49faa6f4751e519c92bb437024350",
+    "file_url": "https://cdn.jsdelivr.net/gh/BerkeleyLab/formal@39f521d882e49faa6f4751e519c92bb437024350/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "NOASSERTION",
+    "stars": 21,
+    "size_mb": 1,
+    "created_at": "2026-01-09T01:16:38Z",
+    "last_commit_at": "2026-11-21T04:05:16Z",
+    "releases": 4,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "0.4.0",
+      "at": "2026-09-07T11:40:32.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "39f521d882e49faa6f4751e519c92bb437024350",
+    "v": 4
+  },
+  "pinned_at": "2026-11-21T04:05:16Z"
+}

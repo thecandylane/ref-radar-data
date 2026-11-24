@@ -26,11 +26,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -43,12 +43,12 @@
   "facts": {
     "lang": "Python",
     "license": "BSD-2-Clause",
-    "stars": 1165,
-    "size_mb": 170,
+    "stars": 1166,
+    "size_mb": 173,
     "created_at": "2023-09-30T15:33:36Z",
-    "last_commit_at": "2026-11-22T23:55:16Z",
+    "last_commit_at": "2026-11-23T23:29:17Z",
     "releases": 26,
-    "tags": 158,
+    "tags": 159,
     "archived": false,
     "release": {
       "tag": "nebula-v3.0.46",
@@ -68,6 +68,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "5ec14b42c5faec3c0c04ea8a720741543b98f29f",
     "v": 4

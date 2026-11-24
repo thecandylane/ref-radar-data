@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7e7ec1c13d91acf6c202c55832f29117a994d766"
+  },
+  "id": "gh:hycom/hycom-src",
+  "kind": "repo",
+  "url": "https://github.com/HYCOM/HYCOM-src",
+  "title": "HYCOM-src",
+  "why": "Fortran source for an ocean model with finite volume dynamics and ALE vertical coordinates; install and compile steps live on the wiki.",
+  "keys": {
+    "races": [
+      "environment/earth-data"
+    ],
+    "lanes": [
+      "environment/earth-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/HYCOM/HYCOM-src",
+    "sha": "7e7ec1c13d91acf6c202c55832f29117a994d766",
+    "file_url": "https://cdn.jsdelivr.net/gh/HYCOM/HYCOM-src@7e7ec1c13d91acf6c202c55832f29117a994d766/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "MIT",
+    "stars": 38,
+    "size_mb": 2,
+    "created_at": "2019-02-20T14:54:32Z",
+    "last_commit_at": "2026-05-28T17:27:25Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "2.3.01",
+      "at": "2019-12-05T21:56:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "7e7ec1c13d91acf6c202c55832f29117a994d766",
+    "v": 4
+  },
+  "pinned_at": "2026-05-28T17:27:25Z"
+}

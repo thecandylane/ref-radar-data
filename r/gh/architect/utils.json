@@ -5,7 +5,7 @@
   "id": "gh:architect/utils",
   "kind": "repo",
   "url": "https://github.com/architect/utils",
-  "title": "utils",
+  "title": "architect/utils",
   "why": "Shared helpers for the Architect serverless framework: Lambda naming, AWS credential checks, CLI progress output and static asset fingerprinting.",
   "keys": {
     "races": [
@@ -57,5 +57,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c514ba4ee898d17257c13861c4437ba35c2510a5",
+    "v": 4
+  },
   "pinned_at": "2025-12-24T00:23:04Z"
 }

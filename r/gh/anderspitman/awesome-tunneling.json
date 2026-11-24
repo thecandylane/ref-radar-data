@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:f28b57dca0824ed33d4129c8ef1b9c080051a177"
+  },
   "id": "gh:anderspitman/awesome-tunneling",
   "kind": "repo",
   "url": "https://github.com/anderspitman/awesome-tunneling",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "Python",
     "license": "none",
-    "stars": 22073,
+    "stars": 22075,
     "size_mb": 0,
     "created_at": "2020-09-16T20:38:27Z",
     "last_commit_at": "2026-11-17T18:35:40Z",
@@ -52,5 +55,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f28b57dca0824ed33d4129c8ef1b9c080051a177",
+    "v": 4
+  },
   "pinned_at": "2026-11-17T18:35:40Z"
 }

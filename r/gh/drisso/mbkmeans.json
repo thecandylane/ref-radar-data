@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4af827b2d3ca88652ed59f366c7b003c409ebda2"
+  },
+  "id": "gh:drisso/mbkmeans",
+  "kind": "repo",
+  "url": "https://github.com/drisso/mbkmeans",
+  "title": "mbkmeans",
+  "why": "Clusters large single-cell RNA-seq datasets using mini-batch k-means, with support for on-disk data representation.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/drisso/mbkmeans",
+    "sha": "4af827b2d3ca88652ed59f366c7b003c409ebda2",
+    "file_url": "https://cdn.jsdelivr.net/gh/drisso/mbkmeans@4af827b2d3ca88652ed59f366c7b003c409ebda2/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "MIT",
+    "stars": 13,
+    "size_mb": 6,
+    "created_at": "2018-04-18T15:34:11Z",
+    "last_commit_at": "2026-02-10T09:55:40Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "4af827b2d3ca88652ed59f366c7b003c409ebda2",
+    "v": 4
+  },
+  "pinned_at": "2026-02-10T09:55:40Z"
+}

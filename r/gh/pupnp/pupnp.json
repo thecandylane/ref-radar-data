@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:3884e2ea47092b9ee4d49ec4a504ed6f95f6a011"
+  },
   "id": "gh:pupnp/pupnp",
   "kind": "repo",
   "url": "https://github.com/pupnp/pupnp",
@@ -33,7 +36,7 @@
     "stars": 444,
     "size_mb": 10,
     "created_at": "2010-08-23T03:03:20Z",
-    "last_commit_at": "2026-11-22T02:33:20Z",
+    "last_commit_at": "2026-11-23T19:13:37Z",
     "releases": 77,
     "tags": 109,
     "archived": false,
@@ -54,5 +57,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "3884e2ea47092b9ee4d49ec4a504ed6f95f6a011",
+    "v": 4
+  }
 }

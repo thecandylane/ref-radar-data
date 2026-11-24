@@ -18,15 +18,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "src",
       "kind": "path"
     },
     {
       "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -39,8 +39,8 @@
   "facts": {
     "lang": "PHP",
     "license": "GPL-3.0",
-    "stars": 6647,
-    "size_mb": 1212,
+    "stars": 6653,
+    "size_mb": 1216,
     "created_at": "2015-07-16T07:20:21Z",
     "last_commit_at": "2026-11-23T08:11:14Z",
     "releases": 114,
@@ -64,6 +64,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "68efc52417226531f96de4f2cc85288af1747e4f",
     "v": 4

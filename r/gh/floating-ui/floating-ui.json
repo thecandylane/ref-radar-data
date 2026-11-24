@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c3042f1f37d96dfadff1d8894daa31e120d89ed4"
+  },
   "id": "gh:floating-ui/floating-ui",
   "kind": "repo",
   "url": "https://github.com/floating-ui/floating-ui",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 32821,
+    "stars": 32818,
     "size_mb": 41,
     "created_at": "2016-03-29T17:00:47Z",
     "last_commit_at": "2026-11-12T08:46:35Z",
@@ -59,6 +62,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "c3042f1f37d96dfadff1d8894daa31e120d89ed4",
     "v": 4

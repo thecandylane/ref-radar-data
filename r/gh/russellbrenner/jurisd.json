@@ -1,0 +1,69 @@
+{
+  "id": "gh:russellbrenner/jurisd",
+  "kind": "repo",
+  "url": "https://github.com/russellbrenner/jurisd",
+  "title": "jurisd",
+  "why": "Searches AustLII neutral citations and case text from a CLI or MCP server, falling back to Exa or Tavily when Cloudflare blocks requests.",
+  "keys": {
+    "races": [
+      "legal/case-law",
+      "civic/legislative-data",
+      "agents/tools"
+    ],
+    "lanes": [
+      "legal/case-law",
+      "civic/legislative-data",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/russellbrenner/jurisd",
+    "sha": "a8d86f03168869278361b3acc69456ae75d61d47",
+    "file_url": "https://cdn.jsdelivr.net/gh/russellbrenner/jurisd@a8d86f03168869278361b3acc69456ae75d61d47/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 45,
+    "size_mb": 3,
+    "created_at": "2025-10-09T01:25:07Z",
+    "last_commit_at": "2026-09-15T08:43:51Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "a8d86f03168869278361b3acc69456ae75d61d47",
+    "v": 4
+  },
+  "pinned_at": "2026-09-15T08:43:51Z"
+}

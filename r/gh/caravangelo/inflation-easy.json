@@ -1,0 +1,80 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8eb07f04499cd70111c3bf23538e448a2d6cb4c9"
+  },
+  "id": "gh:caravangelo/inflation-easy",
+  "kind": "repo",
+  "url": "https://github.com/caravangelo/inflation-easy",
+  "title": "inflation-easy",
+  "why": "Runs inflation simulations that write deltaN and GW spectra, with a post-inflation stage and rk45 integrator choices.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/caravangelo/inflation-easy",
+    "sha": "8eb07f04499cd70111c3bf23538e448a2d6cb4c9",
+    "file_url": "https://cdn.jsdelivr.net/gh/caravangelo/inflation-easy@8eb07f04499cd70111c3bf23538e448a2d6cb4c9/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 13,
+    "size_mb": 44,
+    "created_at": "2025-05-06T12:55:25Z",
+    "last_commit_at": "2026-10-19T19:42:33Z",
+    "releases": 5,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.3",
+      "at": "2026-10-19T19:46:29.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "8eb07f04499cd70111c3bf23538e448a2d6cb4c9",
+    "v": 4
+  },
+  "pinned_at": "2026-10-19T19:42:33Z",
+  "papers": [
+    {
+      "id": "arxiv:2506.11797",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

@@ -17,10 +17,6 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "src",
       "kind": "path"
     },
@@ -30,6 +26,10 @@
     },
     {
       "locator": "apps",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -42,10 +42,10 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 26240,
-    "size_mb": 72,
+    "stars": 26416,
+    "size_mb": 73,
     "created_at": "2026-02-19T18:00:49Z",
-    "last_commit_at": "2026-11-23T00:01:33Z",
+    "last_commit_at": "2026-11-23T18:34:52Z",
     "releases": 51,
     "tags": 53,
     "archived": false,
@@ -67,6 +67,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "e8934a5e95e1d212c74ead95cd3e4701c04eca31",
     "v": 4

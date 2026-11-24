@@ -1,0 +1,68 @@
+{
+  "id": "gh:mazidulhasan/health-data-faker",
+  "kind": "repo",
+  "url": "https://github.com/MazidulHasan/health-data-faker",
+  "title": "health-data-faker",
+  "why": "Generates test patients, lab results and encounters with ICD-10 and LOINC codes, plus validators to check them before an API call.",
+  "keys": {
+    "races": [
+      "medicine/ehr",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "medicine/ehr",
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MazidulHasan/health-data-faker",
+    "sha": "1a78017cd7ce9929f4b94fad679e314f67ebdd75",
+    "file_url": "https://cdn.jsdelivr.net/gh/MazidulHasan/health-data-faker@1a78017cd7ce9929f4b94fad679e314f67ebdd75/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2026-06-01T09:52:18Z",
+    "last_commit_at": "2026-07-21T11:35:49Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.6.0",
+      "at": "2026-07-21T11:35:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "1a78017cd7ce9929f4b94fad679e314f67ebdd75",
+    "v": 4
+  },
+  "pinned_at": "2026-07-21T11:35:49Z"
+}

@@ -20,10 +20,6 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
-      "kind": "path"
-    },
-    {
       "locator": "internal",
       "kind": "path"
     },
@@ -33,6 +29,10 @@
     },
     {
       "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -70,6 +70,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "f77159ce41c731d81d822f879e9ae5947c3935d1",
     "v": 3

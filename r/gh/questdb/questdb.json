@@ -21,11 +21,11 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
+      "locator": "pkg",
       "kind": "path"
     },
     {
-      "locator": "pkg",
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -38,10 +38,10 @@
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 17546,
-    "size_mb": 2203,
+    "stars": 17551,
+    "size_mb": 2204,
     "created_at": "2014-04-28T23:29:15Z",
-    "last_commit_at": "2026-11-21T00:18:10Z",
+    "last_commit_at": "2026-11-23T20:39:56Z",
     "releases": 113,
     "tags": 135,
     "archived": false,
@@ -63,5 +63,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "fd97aa17b37b50730be6d0634e59ab6bb1f64e88",
+    "v": 4
+  },
   "pinned_at": "2026-11-21T00:18:10Z"
 }

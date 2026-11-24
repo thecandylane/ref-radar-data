@@ -1,0 +1,73 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6872693ab235ee9f1782a7c6af74e58e02811540"
+  },
+  "id": "gh:kostasvaleckas/pylongslit",
+  "kind": "repo",
+  "url": "https://github.com/KostasValeckas/PyLongslit",
+  "title": "PyLongslit",
+  "why": "Reduces spectra from overscan and dark correction to wavelength and flux calibration, as Python steps run in order.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/KostasValeckas/PyLongslit",
+    "sha": "6872693ab235ee9f1782a7c6af74e58e02811540",
+    "file_url": "https://cdn.jsdelivr.net/gh/KostasValeckas/PyLongslit@6872693ab235ee9f1782a7c6af74e58e02811540/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 3,
+    "size_mb": 2568,
+    "created_at": "2024-06-21T08:28:32Z",
+    "last_commit_at": "2026-09-23T14:34:27Z",
+    "releases": 17,
+    "tags": 33,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.5",
+      "at": "2025-12-07T18:04:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6872693ab235ee9f1782a7c6af74e58e02811540",
+    "v": 4
+  },
+  "pinned_at": "2026-09-23T14:34:27Z",
+  "papers": [
+    {
+      "id": "arxiv:2504.00973",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

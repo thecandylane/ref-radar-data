@@ -18,11 +18,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "crates",
       "kind": "path"
     },
     {
-      "locator": "crates",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -35,10 +35,10 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 37074,
+    "stars": 37179,
     "size_mb": 30,
     "created_at": "2026-04-13T10:31:41Z",
-    "last_commit_at": "2026-11-22T02:13:54Z",
+    "last_commit_at": "2026-11-23T22:33:50Z",
     "releases": 20,
     "tags": 20,
     "archived": false,
@@ -60,5 +60,10 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "0d9a2f764ffdb097269da048002c593865e83a9e",
+    "v": 4
+  },
   "scan_partial": true
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:f28e4e46b2bfde4e7ce0e5c10f81331a5366f2a8"
+  },
   "id": "gh:codehaus-plexus/plexus-utils",
   "kind": "repo",
   "url": "https://github.com/codehaus-plexus/plexus-utils",
@@ -52,5 +55,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "f28e4e46b2bfde4e7ce0e5c10f81331a5366f2a8",
+    "v": 4
+  }
 }

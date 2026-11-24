@@ -22,15 +22,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "packages",
       "kind": "path"
     },
     {
       "locator": "crates",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -44,9 +44,9 @@
     "lang": "Rust",
     "license": "none",
     "stars": 0,
-    "size_mb": 191,
+    "size_mb": 192,
     "created_at": "2026-10-09T04:48:32Z",
-    "last_commit_at": "2026-11-22T08:32:39Z",
+    "last_commit_at": "2026-11-24T08:39:42Z",
     "releases": 0,
     "tags": 43,
     "archived": false,
@@ -65,6 +65,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "d42fd46d61c0025571283d72cb212aada5aba5e7",
     "v": 4

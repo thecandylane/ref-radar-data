@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:39b45d79a057adcb176b0c9df906689adb3bb017"
+  },
+  "id": "gh:conesalab/mosim",
+  "kind": "repo",
+  "url": "https://github.com/ConesaLab/MOSim",
+  "title": "MOSim",
+  "why": "Simulates bulk and single-cell multi-omics data with RNA-seq counts plus regulators, giving ground truth for benchmarking integration and network tools.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ConesaLab/MOSim",
+    "sha": "39b45d79a057adcb176b0c9df906689adb3bb017",
+    "file_url": "https://cdn.jsdelivr.net/gh/ConesaLab/MOSim@39b45d79a057adcb176b0c9df906689adb3bb017/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 14,
+    "size_mb": 55,
+    "created_at": "2023-03-23T11:40:59Z",
+    "last_commit_at": "2026-02-10T11:22:14Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "39b45d79a057adcb176b0c9df906689adb3bb017",
+    "v": 4
+  },
+  "pinned_at": "2026-02-10T11:22:14Z"
+}

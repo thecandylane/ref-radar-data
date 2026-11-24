@@ -1,0 +1,66 @@
+{
+  "id": "gh:linuxmint/nemo",
+  "kind": "repo",
+  "url": "https://github.com/linuxmint/nemo",
+  "title": "linuxmint/nemo",
+  "why": "Shows how a GTK file manager lets plugins add menu items, columns and property pages to its file browser.",
+  "keys": {
+    "races": [
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/linuxmint/nemo",
+    "sha": "bf7e43f6bd12f43f990c774fca693fa9f7cae4eb",
+    "file_url": "https://cdn.jsdelivr.net/gh/linuxmint/nemo@bf7e43f6bd12f43f990c774fca693fa9f7cae4eb/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-2.0",
+    "stars": 1589,
+    "size_mb": 20,
+    "created_at": "2012-07-18T17:22:28Z",
+    "last_commit_at": "2026-11-20T17:43:01Z",
+    "releases": 11,
+    "tags": 196,
+    "archived": false,
+    "release": {
+      "tag": "master.mint27",
+      "at": "2026-11-20T17:47:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "bf7e43f6bd12f43f990c774fca693fa9f7cae4eb",
+    "v": 4
+  },
+  "pinned_at": "2026-11-20T17:43:01Z"
+}

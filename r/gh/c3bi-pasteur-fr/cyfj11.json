@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:813b63419eddaa50e8fb18cf6e7a22289c06ab8a"
+  },
   "id": "gh:c3bi-pasteur-fr/cyfj11",
   "kind": "repo",
   "url": "https://github.com/C3BI-pasteur-fr/CyFj11",
@@ -50,5 +53,10 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "813b63419eddaa50e8fb18cf6e7a22289c06ab8a",
+    "v": 4
+  },
   "pinned_at": "2026-11-19T13:59:48Z"
 }

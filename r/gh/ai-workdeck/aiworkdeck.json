@@ -20,11 +20,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "sdk",
       "kind": "path"
     },
     {
-      "locator": "sdk",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -37,16 +37,16 @@
   "facts": {
     "lang": "JavaScript",
     "license": "AGPL-3.0",
-    "stars": 190,
-    "size_mb": 363,
+    "stars": 191,
+    "size_mb": 366,
     "created_at": "2026-01-21T11:27:27Z",
-    "last_commit_at": "2026-11-21T22:05:06Z",
-    "releases": 180,
-    "tags": 186,
+    "last_commit_at": "2026-11-24T07:36:15Z",
+    "releases": 182,
+    "tags": 188,
     "archived": false,
     "release": {
-      "tag": "v0.88.2",
-      "at": "2026-11-21T13:47:06.000Z"
+      "tag": "v0.90.0",
+      "at": "2026-11-24T07:38:03.000Z"
     }
   },
   "reuse": "copy",
@@ -62,6 +62,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "02f37e06f9b2cde31e0c6b79797d3588b392a75b",
     "v": 4

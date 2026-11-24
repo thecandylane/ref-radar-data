@@ -1,0 +1,60 @@
+{
+  "id": "gh:fyang6/sam_chamber",
+  "kind": "repo",
+  "url": "https://github.com/fyang6/sam_chamber",
+  "title": "sam_chamber",
+  "why": "Simulates a convection cloud chamber with haze-capable bin microphysics, as a modified SAM atmospheric model written in Fortran.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fyang6/sam_chamber",
+    "sha": "2d3368857f601a8ac751d436a9b7364a19e59aa9",
+    "file_url": "https://cdn.jsdelivr.net/gh/fyang6/sam_chamber@2d3368857f601a8ac751d436a9b7364a19e59aa9/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 15,
+    "created_at": "2026-04-13T13:07:35Z",
+    "last_commit_at": "2026-04-13T17:55:46Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "2d3368857f601a8ac751d436a9b7364a19e59aa9",
+    "v": 4
+  }
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:7dce1ef58bc16f0249ea4b53b2a29585645145a3"
+  },
   "id": "gh:misp/misp",
   "kind": "repo",
   "url": "https://github.com/MISP/MISP",
@@ -17,11 +20,11 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
+      "locator": "app",
       "kind": "path"
     },
     {
-      "locator": "app",
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -34,16 +37,16 @@
   "facts": {
     "lang": "PHP",
     "license": "AGPL-3.0",
-    "stars": 6698,
+    "stars": 6704,
     "size_mb": 240,
     "created_at": "2013-02-07T17:10:34Z",
-    "last_commit_at": "2026-11-19T14:11:09Z",
-    "releases": 186,
-    "tags": 446,
+    "last_commit_at": "2026-11-23T13:40:40Z",
+    "releases": 187,
+    "tags": 447,
     "archived": false,
     "release": {
-      "tag": "v2.5.52",
-      "at": "2026-11-18T20:51:12.000Z"
+      "tag": "v2.5.53",
+      "at": "2026-11-23T13:59:37.000Z"
     }
   },
   "reuse": "copy",
@@ -54,11 +57,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 30,
+    "star_delta_7d": 35,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "7dce1ef58bc16f0249ea4b53b2a29585645145a3",
     "v": 4

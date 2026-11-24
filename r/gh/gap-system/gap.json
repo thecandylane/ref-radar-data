@@ -18,15 +18,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "src",
       "kind": "path"
     },
     {
       "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -39,10 +39,10 @@
   "facts": {
     "lang": "GAP",
     "license": "GPL-2.0",
-    "stars": 1022,
+    "stars": 1023,
     "size_mb": 444,
     "created_at": "2015-02-24T16:47:50Z",
-    "last_commit_at": "2026-11-21T21:01:05Z",
+    "last_commit_at": "2026-11-24T00:07:10Z",
     "releases": 27,
     "tags": 131,
     "archived": false,
@@ -64,6 +64,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "138682ca3dd4a23c0e2fea29dbbba8d261019a0c",
     "v": 4

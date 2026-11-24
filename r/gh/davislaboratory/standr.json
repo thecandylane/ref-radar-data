@@ -1,0 +1,61 @@
+{
+  "id": "gh:davislaboratory/standr",
+  "kind": "repo",
+  "url": "https://github.com/DavisLaboratory/standR",
+  "title": "standR",
+  "why": "Covers each stage of GeoMX spatial transcriptomics analysis in R, building on SpatialExperiment objects and importing DCC and PKC files.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/DavisLaboratory/standR",
+    "sha": "06b50667f28afe7c5e08ac3f462c14750277f08e",
+    "file_url": "https://cdn.jsdelivr.net/gh/DavisLaboratory/standR@06b50667f28afe7c5e08ac3f462c14750277f08e/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 27,
+    "size_mb": 35,
+    "created_at": "2022-01-27T03:23:49Z",
+    "last_commit_at": "2026-11-03T02:47:40Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "06b50667f28afe7c5e08ac3f462c14750277f08e",
+    "v": 4
+  },
+  "pinned_at": "2026-11-03T02:47:40Z"
+}

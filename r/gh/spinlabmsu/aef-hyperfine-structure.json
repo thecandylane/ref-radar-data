@@ -1,0 +1,64 @@
+{
+  "id": "gh:spinlabmsu/aef-hyperfine-structure",
+  "kind": "repo",
+  "url": "https://github.com/SpinlabMSU/AeF-hyperfine-structure",
+  "title": "AeF-hyperfine-structure",
+  "why": "Diagonalizes hyperfine Hamiltonians for AeF molecular states under Stark and Zeeman fields, with optional CUDA solver paths.",
+  "keys": {
+    "races": [
+      "engineering/chemistry",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "engineering/chemistry",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SpinlabMSU/AeF-hyperfine-structure",
+    "sha": "4b0147d672af60ee1fe0d32681c46608087f2f85",
+    "file_url": "https://cdn.jsdelivr.net/gh/SpinlabMSU/AeF-hyperfine-structure@4b0147d672af60ee1fe0d32681c46608087f2f85/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-3.0",
+    "stars": 2,
+    "size_mb": 3,
+    "created_at": "2023-01-30T23:47:22Z",
+    "last_commit_at": "2026-09-14T22:20:18Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.0-InitialWorkingMolsys",
+      "at": "2026-08-15T03:07:29.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "4b0147d672af60ee1fe0d32681c46608087f2f85",
+    "v": 4
+  },
+  "pinned_at": "2026-09-14T22:20:18Z"
+}

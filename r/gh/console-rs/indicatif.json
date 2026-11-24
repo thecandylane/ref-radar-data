@@ -1,0 +1,66 @@
+{
+  "id": "gh:console-rs/indicatif",
+  "kind": "repo",
+  "url": "https://github.com/console-rs/indicatif",
+  "title": "indicatif",
+  "why": "Adds progress bars and spinners to Rust command-line apps, with multi-progress output and bridges to the log and tracing crates.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/console-rs/indicatif",
+    "sha": "a876008415b7b58fa6592aa3a78ff8bd41963696",
+    "file_url": "https://cdn.jsdelivr.net/gh/console-rs/indicatif@a876008415b7b58fa6592aa3a78ff8bd41963696/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 5237,
+    "size_mb": 2,
+    "created_at": "2017-04-23T13:54:48Z",
+    "last_commit_at": "2026-11-23T10:48:56Z",
+    "releases": 20,
+    "tags": 48,
+    "archived": false,
+    "release": {
+      "tag": "0.18.6",
+      "at": "2026-07-01T13:46:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "a876008415b7b58fa6592aa3a78ff8bd41963696",
+    "v": 4
+  },
+  "pinned_at": "2026-11-23T10:48:56Z"
+}

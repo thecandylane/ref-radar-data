@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c5075c9627a575d243c51d9d918568015ff209e9"
+  },
   "id": "gh:stamparm/maltrail",
   "kind": "repo",
   "url": "https://github.com/stamparm/maltrail",
@@ -35,7 +38,7 @@
     "stars": 8661,
     "size_mb": 10,
     "created_at": "2014-12-04T21:33:46Z",
-    "last_commit_at": "2026-11-22T20:07:12Z",
+    "last_commit_at": "2026-11-23T18:42:23Z",
     "releases": 16,
     "tags": 16,
     "archived": false,
@@ -52,11 +55,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 1,
+    "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c5075c9627a575d243c51d9d918568015ff209e9",
+    "v": 4
+  },
   "pins_before": [
     "c9a2e9895e8acce74a4259f9f1efa71e834617e1"
   ],

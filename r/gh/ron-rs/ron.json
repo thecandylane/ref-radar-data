@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d6927a3742758ea191df945f82591ee8f8c5e5c0"
+  },
+  "id": "gh:ron-rs/ron",
+  "kind": "repo",
+  "url": "https://github.com/ron-rs/ron",
+  "title": "ron",
+  "why": "Serializes and deserializes RON data through serde, with pretty printing and recursion limits set per call.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ron-rs/ron",
+    "sha": "d6927a3742758ea191df945f82591ee8f8c5e5c0",
+    "file_url": "https://cdn.jsdelivr.net/gh/ron-rs/ron@d6927a3742758ea191df945f82591ee8f8c5e5c0/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 4076,
+    "size_mb": 17,
+    "created_at": "2015-04-20T21:20:04Z",
+    "last_commit_at": "2026-11-08T09:36:10Z",
+    "releases": 12,
+    "tags": 32,
+    "archived": false,
+    "release": {
+      "tag": "v0.12.3",
+      "at": "2026-10-28T08:20:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d6927a3742758ea191df945f82591ee8f8c5e5c0",
+    "v": 4
+  },
+  "pinned_at": "2026-11-08T09:36:10Z"
+}

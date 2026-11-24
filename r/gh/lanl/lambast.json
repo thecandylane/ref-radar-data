@@ -1,0 +1,62 @@
+{
+  "id": "gh:lanl/lambast",
+  "kind": "repo",
+  "url": "https://github.com/lanl/lambast",
+  "title": "lambast",
+  "why": "Checks model bias with detection methods and builds copula-based test data, imported module by module in Python.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lanl/lambast",
+    "sha": "251e7ff2db6ab5d4d0644dd4088bf179ed0585f3",
+    "file_url": "https://cdn.jsdelivr.net/gh/lanl/lambast@251e7ff2db6ab5d4d0644dd4088bf179ed0585f3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 19,
+    "created_at": "2026-02-10T21:16:45Z",
+    "last_commit_at": "2026-08-06T20:51:24Z",
+    "releases": 2,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "0.1.3",
+      "at": "2026-03-09T23:42:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "251e7ff2db6ab5d4d0644dd4088bf179ed0585f3",
+    "v": 4
+  },
+  "pinned_at": "2026-08-06T20:51:24Z"
+}

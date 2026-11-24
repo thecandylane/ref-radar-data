@@ -15,11 +15,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -32,10 +32,10 @@
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 304,
+    "stars": 305,
     "size_mb": 77,
     "created_at": "2013-07-18T13:44:51Z",
-    "last_commit_at": "2026-11-23T08:57:32Z",
+    "last_commit_at": "2026-11-23T12:24:23Z",
     "releases": 397,
     "tags": 457,
     "archived": false,
@@ -57,6 +57,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "0a521f12351b66987d15900fd2da1649e358aadc",
     "v": 4

@@ -1,0 +1,71 @@
+{
+  "id": "gh:nycolazsec/tcpcat",
+  "kind": "repo",
+  "url": "https://github.com/NycolazSec/tcpcat",
+  "title": "tcpcat",
+  "why": "Port scanner in Go that compares results against a baseline report for drift, with ARP, ping and traceroute host discovery.",
+  "keys": {
+    "races": [
+      "netsec/scanning",
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "netsec/scanning",
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NycolazSec/tcpcat",
+    "sha": "60723191bb6172c234b118109e11d57ba2035a6c",
+    "file_url": "https://cdn.jsdelivr.net/gh/NycolazSec/tcpcat@60723191bb6172c234b118109e11d57ba2035a6c/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "AGPL-3.0",
+    "stars": 11,
+    "size_mb": 4,
+    "created_at": "2026-09-09T21:54:39Z",
+    "last_commit_at": "2026-11-22T04:56:35Z",
+    "releases": 15,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "v1.8.0",
+      "at": "2026-11-22T05:03:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "60723191bb6172c234b118109e11d57ba2035a6c",
+    "v": 4
+  }
+}

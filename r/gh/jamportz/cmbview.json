@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:80d9e1db8d6a47c82428a63e9cefae70d161480b"
+  },
+  "id": "gh:jamportz/cmbview",
+  "kind": "repo",
+  "url": "https://github.com/jamportz/cmbview",
+  "title": "cmbview",
+  "why": "Renders HEALPix FITS maps on a rotatable sphere with histogram color ranges and Stokes vector overlays.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jamportz/cmbview",
+    "sha": "80d9e1db8d6a47c82428a63e9cefae70d161480b",
+    "file_url": "https://cdn.jsdelivr.net/gh/jamportz/cmbview@80d9e1db8d6a47c82428a63e9cefae70d161480b/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-2.0",
+    "stars": 0,
+    "size_mb": 1,
+    "created_at": "2015-05-28T09:34:06Z",
+    "last_commit_at": "2011-10-21T21:35:29Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "80d9e1db8d6a47c82428a63e9cefae70d161480b",
+    "v": 4
+  },
+  "pinned_at": "2011-10-21T21:35:29Z"
+}

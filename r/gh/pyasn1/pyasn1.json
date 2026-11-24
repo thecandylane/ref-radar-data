@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e24fa719428229db5efeb8aee74ce6d03329df5d"
+  },
+  "id": "gh:pyasn1/pyasn1",
+  "kind": "repo",
+  "url": "https://github.com/pyasn1/pyasn1",
+  "title": "pyasn1/pyasn1",
+  "why": "Encodes and decodes ASN.1 data in BER, CER and DER, and has a streaming codec for reading from a stream.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pyasn1/pyasn1",
+    "sha": "e24fa719428229db5efeb8aee74ce6d03329df5d",
+    "file_url": "https://cdn.jsdelivr.net/gh/pyasn1/pyasn1@e24fa719428229db5efeb8aee74ce6d03329df5d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-2-Clause",
+    "stars": 54,
+    "size_mb": 2,
+    "created_at": "2022-07-11T11:09:16Z",
+    "last_commit_at": "2026-10-27T06:41:33Z",
+    "releases": 8,
+    "tags": 26,
+    "archived": false,
+    "release": {
+      "tag": "v0.6.5",
+      "at": "2026-10-27T06:47:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e24fa719428229db5efeb8aee74ce6d03329df5d",
+    "v": 4
+  },
+  "pinned_at": "2026-10-27T06:41:33Z"
+}

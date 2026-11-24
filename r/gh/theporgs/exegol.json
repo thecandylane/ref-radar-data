@@ -1,0 +1,63 @@
+{
+  "id": "gh:theporgs/exegol",
+  "kind": "repo",
+  "url": "https://github.com/ThePorgs/Exegol",
+  "title": "Exegol",
+  "why": "Manages Docker containers of offensive security tools from a single CLI, with profiles, a terminal table picker and license activation.",
+  "keys": {
+    "races": [
+      "cyber/offensive",
+      "infra/containers"
+    ],
+    "lanes": [
+      "cyber/offensive",
+      "infra/containers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ThePorgs/Exegol",
+    "sha": "a65effecf833c171b10d147ccf48a530b97f5fad",
+    "file_url": "https://cdn.jsdelivr.net/gh/ThePorgs/Exegol@a65effecf833c171b10d147ccf48a530b97f5fad/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 3129,
+    "size_mb": 33,
+    "created_at": "2020-03-09T19:12:11Z",
+    "last_commit_at": "2026-10-17T09:56:02Z",
+    "releases": 43,
+    "tags": 68,
+    "archived": false,
+    "release": {
+      "tag": "6.0.2",
+      "at": "2026-10-17T10:04:15.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "a65effecf833c171b10d147ccf48a530b97f5fad",
+    "v": 4
+  }
+}

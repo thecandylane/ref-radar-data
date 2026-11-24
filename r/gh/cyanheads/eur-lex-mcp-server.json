@@ -1,0 +1,72 @@
+{
+  "id": "gh:cyanheads/eur-lex-mcp-server",
+  "kind": "repo",
+  "url": "https://github.com/cyanheads/eur-lex-mcp-server",
+  "title": "eur-lex-mcp-server",
+  "why": "Gives an agent EU law lookups by CELEX or ECLI, with document text converted to markdown and comparative analysis prompts.",
+  "keys": {
+    "races": [
+      "civic/legislative-data",
+      "legal/case-law",
+      "agents/tools"
+    ],
+    "lanes": [
+      "civic/legislative-data",
+      "legal/case-law",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cyanheads/eur-lex-mcp-server",
+    "sha": "19c2200a6b94585f881d1716d8f5cb7513466a40",
+    "file_url": "https://cdn.jsdelivr.net/gh/cyanheads/eur-lex-mcp-server@19c2200a6b94585f881d1716d8f5cb7513466a40/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 13,
+    "size_mb": 4,
+    "created_at": "2026-06-05T02:34:52Z",
+    "last_commit_at": "2026-11-18T07:45:35Z",
+    "releases": 54,
+    "tags": 55,
+    "archived": false,
+    "release": {
+      "tag": "v0.21.0",
+      "at": "2026-11-18T07:52:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "19c2200a6b94585f881d1716d8f5cb7513466a40",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T07:45:35Z"
+}

@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ec5e780e5585cf46831b5efcc84286a821bb5376"
+  },
+  "id": "gh:okpy/ok-client",
+  "kind": "repo",
+  "url": "https://github.com/okpy/ok-client",
+  "title": "ok-client",
+  "why": "Command-line client that runs tests on student programming projects, tracks progress and helps debugging, built for CS 61A at UC Berkeley.",
+  "keys": {
+    "races": [
+      "learning/autograding",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "learning/autograding",
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/okpy/ok-client",
+    "sha": "ec5e780e5585cf46831b5efcc84286a821bb5376",
+    "file_url": "https://cdn.jsdelivr.net/gh/okpy/ok-client@ec5e780e5585cf46831b5efcc84286a821bb5376/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 57,
+    "size_mb": 1,
+    "created_at": "2015-01-09T19:53:07Z",
+    "last_commit_at": "2025-08-29T21:57:17Z",
+    "releases": 131,
+    "tags": 135,
+    "archived": false,
+    "release": {
+      "tag": "v1.18.1",
+      "at": "2020-08-11T13:56:56.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ec5e780e5585cf46831b5efcc84286a821bb5376",
+    "v": 4
+  },
+  "pinned_at": "2025-08-29T21:57:17Z"
+}

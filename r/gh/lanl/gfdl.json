@@ -1,0 +1,66 @@
+{
+  "id": "gh:lanl/gfdl",
+  "kind": "repo",
+  "url": "https://github.com/lanl/GFDL",
+  "title": "GFDL",
+  "why": "Offers fit, partial_fit and predict on a GFDL model, with ensemble classifiers, regressors and weight initializers in one package.",
+  "keys": {
+    "races": [
+      "ml/training"
+    ],
+    "lanes": [
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lanl/GFDL",
+    "sha": "768bf3c17c8943fd2d47e8c3c2f751b9aa46f28a",
+    "file_url": "https://cdn.jsdelivr.net/gh/lanl/GFDL@768bf3c17c8943fd2d47e8c3c2f751b9aa46f28a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 3,
+    "size_mb": 0,
+    "created_at": "2026-01-15T20:40:23Z",
+    "last_commit_at": "2026-11-22T00:08:22Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.0",
+      "at": "2026-05-14T16:09:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "768bf3c17c8943fd2d47e8c3c2f751b9aa46f28a",
+    "v": 4
+  },
+  "pinned_at": "2026-11-22T00:08:22Z"
+}

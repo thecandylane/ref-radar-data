@@ -1,0 +1,67 @@
+{
+  "id": "gh:stellarium/stellarium",
+  "kind": "repo",
+  "url": "https://github.com/Stellarium/stellarium",
+  "title": "stellarium",
+  "why": "Open source planetarium that draws the 3D sky as the naked eye, binoculars or a telescope sees it, on Linux, Windows and macOS.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Stellarium/stellarium",
+    "sha": "c47c9567944655d3a59990e5f751327bf2d0845e",
+    "file_url": "https://raw.githubusercontent.com/Stellarium/stellarium/c47c9567944655d3a59990e5f751327bf2d0845e/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-2.0",
+    "stars": 10195,
+    "size_mb": 5935,
+    "created_at": "2014-04-13T02:41:56Z",
+    "last_commit_at": "2026-11-24T07:44:54Z",
+    "releases": 69,
+    "tags": 69,
+    "archived": false,
+    "release": {
+      "tag": "v26.3",
+      "at": "2026-09-28T15:22:29.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c47c9567944655d3a59990e5f751327bf2d0845e",
+    "v": 4
+  }
+}

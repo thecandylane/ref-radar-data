@@ -1,0 +1,66 @@
+{
+  "id": "gh:finch-api/finch-connect-sdk",
+  "kind": "repo",
+  "url": "https://github.com/Finch-API/finch-connect-sdk",
+  "title": "finch-connect-sdk",
+  "why": "Embeds the Finch Connect flow in an iframe and reports success or error events back, with a React wrapper for the open call.",
+  "keys": {
+    "races": [
+      "hr/hris"
+    ],
+    "lanes": [
+      "hr/hris"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Finch-API/finch-connect-sdk",
+    "sha": "6b74078ae259a40eb7189c8ca5f52c02da5b4c73",
+    "file_url": "https://cdn.jsdelivr.net/gh/Finch-API/finch-connect-sdk@6b74078ae259a40eb7189c8ca5f52c02da5b4c73/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "none",
+    "stars": 1,
+    "size_mb": 3,
+    "created_at": "2025-09-03T23:20:34Z",
+    "last_commit_at": "2026-10-26T01:02:38Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v5.0.1",
+      "at": "2026-01-23T18:42:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6b74078ae259a40eb7189c8ca5f52c02da5b4c73",
+    "v": 4
+  },
+  "pinned_at": "2026-10-26T01:02:38Z"
+}

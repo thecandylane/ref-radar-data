@@ -1,0 +1,62 @@
+{
+  "id": "gh:onionshare/onionshare",
+  "kind": "repo",
+  "url": "https://github.com/onionshare/onionshare",
+  "title": "onionshare",
+  "why": "Python app that sends files or serves a site through Tor onion services, so the host stays anonymous.",
+  "keys": {
+    "races": [
+      "privacy/anonymity"
+    ],
+    "lanes": [
+      "privacy/anonymity"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/onionshare/onionshare",
+    "sha": "17a58b35b508b08414003d1d454d6bbf229e66a5",
+    "file_url": "https://cdn.jsdelivr.net/gh/onionshare/onionshare@17a58b35b508b08414003d1d454d6bbf229e66a5/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 7244,
+    "size_mb": 44,
+    "created_at": "2014-05-20T21:08:34Z",
+    "last_commit_at": "2026-11-22T23:37:51Z",
+    "releases": 41,
+    "tags": 52,
+    "archived": false,
+    "release": {
+      "tag": "v2.7.3",
+      "at": "2026-11-23T00:41:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "17a58b35b508b08414003d1d454d6bbf229e66a5",
+    "v": 4
+  },
+  "pinned_at": "2026-11-22T23:37:51Z"
+}

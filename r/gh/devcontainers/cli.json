@@ -2,7 +2,7 @@
   "id": "gh:devcontainers/cli",
   "kind": "repo",
   "url": "https://github.com/devcontainers/cli",
-  "title": "cli",
+  "title": "devcontainers/cli",
   "why": "Provisions and builds dev containers from config, with OCI feature lockfiles and Dockerfile parsing for the build step.",
   "keys": {
     "races": [
@@ -32,7 +32,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 3042,
+    "stars": 3044,
     "size_mb": 3,
     "created_at": "2022-04-27T09:20:08Z",
     "last_commit_at": "2026-11-20T18:26:14Z",
@@ -54,5 +54,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "0d38c68a2132655de219062ec7859fbef94ff255",
+    "v": 4
+  },
   "pinned_at": "2026-11-20T18:26:14Z"
 }

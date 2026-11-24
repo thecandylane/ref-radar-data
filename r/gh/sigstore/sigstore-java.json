@@ -1,0 +1,61 @@
+{
+  "id": "gh:sigstore/sigstore-java",
+  "kind": "repo",
+  "url": "https://github.com/sigstore/sigstore-java",
+  "title": "sigstore-java",
+  "why": "Java library and CLI that sign artifacts without long-lived keys and verify Sigstore bundles, with fuzz targets for bundle and Rekor parsing.",
+  "keys": {
+    "races": [
+      "cyber/supply-chain"
+    ],
+    "lanes": [
+      "cyber/supply-chain"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sigstore/sigstore-java",
+    "sha": "cac601eddc937f80e6ac5bf1e82d99c79b674274",
+    "file_url": "https://cdn.jsdelivr.net/gh/sigstore/sigstore-java@cac601eddc937f80e6ac5bf1e82d99c79b674274/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 82,
+    "size_mb": 29,
+    "created_at": "2022-02-16T21:32:12Z",
+    "last_commit_at": "2026-11-20T21:33:19Z",
+    "releases": 23,
+    "tags": 23,
+    "archived": false,
+    "release": {
+      "tag": "v2.4.0",
+      "at": "2026-10-21T19:06:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "cac601eddc937f80e6ac5bf1e82d99c79b674274",
+    "v": 4
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "gh:microlinkhq/metascraper",
+  "kind": "repo",
+  "url": "https://github.com/microlinkhq/metascraper",
+  "title": "metascraper",
+  "why": "Pulls title, author, date, publisher and logo out of a page with a set of rules, each rule kept in its own package.",
+  "keys": {
+    "races": [
+      "seo/structured-data",
+      "seo/meta-sitemaps"
+    ],
+    "lanes": [
+      "seo/structured-data",
+      "seo/meta-sitemaps"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microlinkhq/metascraper",
+    "sha": "26bbda787e48e42dabe5e52d698436e6fc2193c0",
+    "file_url": "https://cdn.jsdelivr.net/gh/microlinkhq/metascraper@26bbda787e48e42dabe5e52d698436e6fc2193c0/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "MIT",
+    "stars": 2755,
+    "size_mb": 34,
+    "created_at": "2016-05-25T00:15:58Z",
+    "last_commit_at": "2026-11-23T21:16:48Z",
+    "releases": 426,
+    "tags": 590,
+    "archived": false,
+    "release": {
+      "tag": "v5.58.9",
+      "at": "2026-11-23T21:16:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "26bbda787e48e42dabe5e52d698436e6fc2193c0",
+    "v": 4
+  }
+}

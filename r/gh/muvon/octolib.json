@@ -21,11 +21,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -39,15 +39,15 @@
     "lang": "Rust",
     "license": "Apache-2.0",
     "stars": 11,
-    "size_mb": 4,
+    "size_mb": 5,
     "created_at": "2025-08-28T04:19:07Z",
-    "last_commit_at": "2026-11-23T09:27:51Z",
-    "releases": 181,
-    "tags": 184,
+    "last_commit_at": "2026-11-24T04:32:48Z",
+    "releases": 185,
+    "tags": 187,
     "archived": false,
     "release": {
-      "tag": "0.55.0",
-      "at": "2026-11-21T07:46:50.000Z"
+      "tag": "0.56.0",
+      "at": "2026-11-24T04:58:27.000Z"
     }
   },
   "reuse": "copy",
@@ -62,5 +62,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "95c6ce3e1ec8cef8aeba6ca968e00c1277454e63",
+    "v": 4
+  }
 }

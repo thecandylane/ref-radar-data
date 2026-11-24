@@ -5,7 +5,7 @@
   "id": "gh:containerd/cgroups",
   "kind": "repo",
   "url": "https://github.com/containerd/cgroups",
-  "title": "cgroups",
+  "title": "containerd/cgroups",
   "why": "Drives Linux cgroups from Go code, with separate cgroup1 and cgroup2 packages and a cmd folder.",
   "keys": {
     "races": [
@@ -62,6 +62,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "eedc6ae8dc1945dd1c7b14bb9029dae590500246",
     "v": 3

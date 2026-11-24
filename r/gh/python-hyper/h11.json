@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:62c5068c971579d61fa1b55373390e12f25fd856"
+  },
+  "id": "gh:python-hyper/h11",
+  "kind": "repo",
+  "url": "https://github.com/python-hyper/h11",
+  "title": "h11",
+  "why": "Turns HTTP/1.1 bytes into events and back with no I/O inside, so you can plug in any network API.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/python-hyper/h11",
+    "sha": "62c5068c971579d61fa1b55373390e12f25fd856",
+    "file_url": "https://cdn.jsdelivr.net/gh/python-hyper/h11@62c5068c971579d61fa1b55373390e12f25fd856/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 572,
+    "size_mb": 1,
+    "created_at": "2016-04-29T09:11:11Z",
+    "last_commit_at": "2025-04-24T23:29:20Z",
+    "releases": 0,
+    "tags": 13,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "62c5068c971579d61fa1b55373390e12f25fd856",
+    "v": 4
+  },
+  "pinned_at": "2025-04-24T23:29:20Z"
+}

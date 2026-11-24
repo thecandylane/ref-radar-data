@@ -22,11 +22,11 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -61,6 +61,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "ababe7058d48304e49279e632635fad324406ba5",
     "v": 4

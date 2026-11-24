@@ -26,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Giskard-AI/giskard-oss",
-    "sha": "bfda958b3eee42927f961b26e33254ece3d46884",
-    "file_url": "https://cdn.jsdelivr.net/gh/Giskard-AI/giskard-oss@bfda958b3eee42927f961b26e33254ece3d46884/{path}"
+    "sha": "e48ca61d34bd9d5e92f77fffc401e2c47c23bcfa",
+    "file_url": "https://cdn.jsdelivr.net/gh/Giskard-AI/giskard-oss@e48ca61d34bd9d5e92f77fffc401e2c47c23bcfa/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 5970,
+    "stars": 5972,
     "size_mb": 175,
     "created_at": "2022-03-06T21:45:37Z",
     "last_commit_at": "2026-11-22T06:00:23Z",
@@ -57,12 +57,14 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "bfda958b3eee42927f961b26e33254ece3d46884",
+    "sha": "e48ca61d34bd9d5e92f77fffc401e2c47c23bcfa",
     "v": 4
   },
   "pins_before": [
+    "bfda958b3eee42927f961b26e33254ece3d46884",
     "46ef3bea35dedaac7ad78994236ae12c8cc24904"
   ],
-  "pinned_at": "2026-11-16T11:09:58Z"
+  "pinned_at": "2026-11-22T06:00:23Z"
 }

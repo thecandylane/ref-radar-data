@@ -1,0 +1,61 @@
+{
+  "id": "gh:guzzle/guzzle",
+  "kind": "repo",
+  "url": "https://github.com/guzzle/guzzle",
+  "title": "guzzle",
+  "why": "PHP client that sends synchronous or asynchronous requests through one interface, with PSR-7 and PSR-18 support and composable middleware.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/guzzle/guzzle",
+    "sha": "de71485396864a72905a9e34a41439cf0c084b5c",
+    "file_url": "https://cdn.jsdelivr.net/gh/guzzle/guzzle@de71485396864a72905a9e34a41439cf0c084b5c/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 23441,
+    "size_mb": 14,
+    "created_at": "2011-02-28T02:44:05Z",
+    "last_commit_at": "2026-11-22T16:48:13Z",
+    "releases": 120,
+    "tags": 211,
+    "archived": false,
+    "release": {
+      "tag": "8.6.0",
+      "at": "2026-11-22T16:50:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "de71485396864a72905a9e34a41439cf0c084b5c",
+    "v": 4
+  }
+}

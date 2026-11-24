@@ -1,0 +1,83 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:32e7665b034506908efb81db8a8178c2a8803b12"
+  },
+  "id": "gh:chrisboettner/gallifrey",
+  "kind": "repo",
+  "url": "https://github.com/ChrisBoettner/gallifrey",
+  "title": "gallifrey",
+  "why": "Infers the covariance structure of a Gaussian process from a time series using Sequential Monte Carlo, instead of specifying a covariance function.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "space/astronomy"
+    ],
+    "lanes": [
+      "data/statistics",
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ChrisBoettner/gallifrey",
+    "sha": "32e7665b034506908efb81db8a8178c2a8803b12",
+    "file_url": "https://cdn.jsdelivr.net/gh/ChrisBoettner/gallifrey@32e7665b034506908efb81db8a8178c2a8803b12/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "Apache-2.0",
+    "stars": 37,
+    "size_mb": 37,
+    "created_at": "2025-03-05T12:44:17Z",
+    "last_commit_at": "2026-04-28T14:39:48Z",
+    "releases": 2,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.1",
+      "at": "2025-05-28T07:46:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "32e7665b034506908efb81db8a8178c2a8803b12",
+    "v": 4
+  },
+  "pinned_at": "2026-04-28T14:39:48Z",
+  "papers": [
+    {
+      "id": "arxiv:2505.20394",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2307.09607",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

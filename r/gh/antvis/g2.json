@@ -2,7 +2,7 @@
   "id": "gh:antvis/g2",
   "kind": "repo",
   "url": "https://github.com/antvis/G2",
-  "title": "G2",
+  "title": "antvis/G2",
   "why": "Builds charts from a visualization grammar in TypeScript, drawing with canvas or svg and supporting interaction and animation.",
   "keys": {
     "races": [
@@ -32,7 +32,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 12673,
+    "stars": 12674,
     "size_mb": 324,
     "created_at": "2016-05-26T09:21:04Z",
     "last_commit_at": "2026-11-23T06:08:55Z",
@@ -57,6 +57,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "cf28622a216a99bccd5fd28112e91ca9d74e1927",
+    "v": 4
+  },
   "pins_before": [
     "dd0d4be9538a0c20e2af28f27318d4d0e808de8d",
     "94526ab37787d5aee552042bc7708bdb447ace67"

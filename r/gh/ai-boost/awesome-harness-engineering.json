@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:e773e2ad1775e08334923dfc867e4dd32f0d2f8d"
+  },
   "id": "gh:ai-boost/awesome-harness-engineering",
   "kind": "repo",
   "url": "https://github.com/ai-boost/awesome-harness-engineering",
@@ -38,10 +41,10 @@
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 5225,
+    "stars": 5234,
     "size_mb": 1,
     "created_at": "2026-03-29T15:39:49Z",
-    "last_commit_at": "2026-11-22T09:15:29Z",
+    "last_commit_at": "2026-11-23T09:17:59Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -55,11 +58,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 61,
+    "star_delta_7d": 59,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e773e2ad1775e08334923dfc867e4dd32f0d2f8d",
+    "v": 4
+  },
   "pins_before": [
     "a0db6f2605fcfa9d79f8f621f1d8cd35f709f8c4",
     "9fde57d0cfb47a3e85e80d96982023d75f949574",

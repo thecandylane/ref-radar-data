@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:2837615a43dc0c9da34b9d9a370905e758f5effc"
+  },
   "id": "gh:infiniflow/ragflow",
   "kind": "repo",
   "url": "https://github.com/infiniflow/ragflow",
@@ -19,10 +22,6 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "internal",
       "kind": "path"
     },
@@ -32,6 +31,10 @@
     },
     {
       "locator": "sdk",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -44,12 +47,12 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 94580,
-    "size_mb": 193,
+    "stars": 94632,
+    "size_mb": 194,
     "created_at": "2023-12-12T06:13:13Z",
-    "last_commit_at": "2026-11-23T09:08:01Z",
+    "last_commit_at": "2026-11-24T09:05:27Z",
     "releases": 60,
-    "tags": 225,
+    "tags": 231,
     "archived": false,
     "release": {
       "tag": "v1.0.0",
@@ -64,11 +67,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 347,
+    "star_delta_7d": 339,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "2837615a43dc0c9da34b9d9a370905e758f5effc",
     "v": 4

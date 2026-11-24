@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:05d916280576db29edacc7ba06956cd01d704a15"
+  },
+  "id": "gh:hydra-ecosystem/omegaconf",
+  "kind": "repo",
+  "url": "https://github.com/hydra-ecosystem/omegaconf",
+  "title": "omegaconf",
+  "why": "Merges YAML files, dotlist strings and command-line arguments into one config, with interpolation resolved from other keys.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hydra-ecosystem/omegaconf",
+    "sha": "05d916280576db29edacc7ba06956cd01d704a15",
+    "file_url": "https://cdn.jsdelivr.net/gh/hydra-ecosystem/omegaconf@05d916280576db29edacc7ba06956cd01d704a15/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 2444,
+    "size_mb": 14,
+    "created_at": "2018-09-03T14:59:01Z",
+    "last_commit_at": "2026-11-07T13:38:01Z",
+    "releases": 20,
+    "tags": 22,
+    "archived": false,
+    "release": {
+      "tag": "v2.4.0",
+      "at": "2026-10-09T12:44:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "05d916280576db29edacc7ba06956cd01d704a15",
+    "v": 4
+  },
+  "pinned_at": "2026-11-07T13:38:01Z"
+}

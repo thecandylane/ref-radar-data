@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:082e4f871aaa10f0a8aebdb9901fdb6c285d03bc"
+  },
   "id": "gh:corgicorner/bisibility-mcp",
   "kind": "repo",
   "url": "https://github.com/CorgiCorner/bisibility-mcp",
@@ -60,5 +63,10 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "082e4f871aaa10f0a8aebdb9901fdb6c285d03bc",
+    "v": 4
+  },
   "pinned_at": "2026-11-06T09:29:00Z"
 }

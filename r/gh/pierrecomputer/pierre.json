@@ -20,15 +20,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "packages",
       "kind": "path"
     },
     {
       "locator": "apps",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -41,10 +41,10 @@
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 6662,
-    "size_mb": 78,
+    "stars": 6672,
+    "size_mb": 77,
     "created_at": "2025-09-19T17:26:04Z",
-    "last_commit_at": "2026-11-22T23:17:27Z",
+    "last_commit_at": "2026-11-24T08:54:42Z",
     "releases": 111,
     "tags": 119,
     "archived": false,
@@ -66,6 +66,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "4100176d8a3fe58f7c8e5fddf27dde64dc688ea1",
+    "v": 4
+  },
   "pins_before": [
     "b049b9ee1c074351a57af3815024dfe504224bbf"
   ],

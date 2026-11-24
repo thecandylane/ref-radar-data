@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:3b6f68fcd21311143bbeb83e78e3a6001cc15ae5"
+  },
   "id": "gh:keats/jsonwebtoken",
   "kind": "repo",
   "url": "https://github.com/Keats/jsonwebtoken",
@@ -53,5 +56,11 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "3b6f68fcd21311143bbeb83e78e3a6001cc15ae5",
+    "v": 4
+  },
+  "pinned_at": "2026-11-13T14:14:01Z"
 }

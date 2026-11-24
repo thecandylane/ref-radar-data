@@ -1,0 +1,66 @@
+{
+  "id": "gh:fiscalisto/fiscalisto-typescript",
+  "kind": "repo",
+  "url": "https://github.com/fiscalisto/fiscalisto-typescript",
+  "title": "fiscalisto-typescript",
+  "why": "Fiscalisto client with a CLI for showing invoice status, webhook verification and a mock for tests in TypeScript.",
+  "keys": {
+    "races": [
+      "finance/accounting",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "finance/accounting",
+      "dev-tools/testing"
+    ],
+    "capabilities": [
+      "finance/accounting/bookkeeping"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fiscalisto/fiscalisto-typescript",
+    "sha": "de9c2407c193f5cc0985ca815c68268073d76904",
+    "file_url": "https://cdn.jsdelivr.net/gh/fiscalisto/fiscalisto-typescript@de9c2407c193f5cc0985ca815c68268073d76904/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 2,
+    "created_at": "2026-10-25T14:08:28Z",
+    "last_commit_at": "2026-11-22T10:27:43Z",
+    "releases": 0,
+    "tags": 167,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "de9c2407c193f5cc0985ca815c68268073d76904",
+    "v": 4
+  }
+}

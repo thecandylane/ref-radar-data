@@ -19,15 +19,15 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
-      "kind": "path"
-    },
-    {
       "locator": "pkg",
       "kind": "path"
     },
     {
       "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -40,10 +40,10 @@
   "facts": {
     "lang": "Go",
     "license": "AGPL-3.0",
-    "stars": 8019,
+    "stars": 8021,
     "size_mb": 25,
     "created_at": "2021-01-17T14:07:26Z",
-    "last_commit_at": "2026-11-23T00:02:26Z",
+    "last_commit_at": "2026-11-23T23:34:25Z",
     "releases": 468,
     "tags": 508,
     "archived": false,
@@ -64,5 +64,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "936cfc9c39d4853ef985aab77869b6b8989ae817",
+    "v": 4
+  }
 }

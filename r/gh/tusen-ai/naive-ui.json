@@ -18,11 +18,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -35,7 +35,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 18617,
+    "stars": 18615,
     "size_mb": 28,
     "created_at": "2021-06-04T13:47:28Z",
     "last_commit_at": "2026-11-14T09:47:30Z",
@@ -52,11 +52,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 7,
+    "star_delta_7d": 3,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ce8dc4d8b8b394fbbc7d9f00c2a02c77d8124ecc",
+    "v": 4
+  },
   "pins_before": [
     "8b249214f17328a47eeb57dd5c7b80a47c94d116"
   ],

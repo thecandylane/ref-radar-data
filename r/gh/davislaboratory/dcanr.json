@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:70f183f55b2a49e9a70abf9e9a85717136fa9d6a"
+  },
+  "id": "gh:davislaboratory/dcanr",
+  "kind": "repo",
+  "url": "https://github.com/DavisLaboratory/dcanr",
+  "title": "dcanr",
+  "why": "Scores pairs for differential co-expression between conditions such as UME6 knock-down, then builds a network from adjusted p-values.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/DavisLaboratory/dcanr",
+    "sha": "70f183f55b2a49e9a70abf9e9a85717136fa9d6a",
+    "file_url": "https://cdn.jsdelivr.net/gh/DavisLaboratory/dcanr@70f183f55b2a49e9a70abf9e9a85717136fa9d6a/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 7,
+    "size_mb": 9,
+    "created_at": "2018-09-24T02:27:17Z",
+    "last_commit_at": "2024-07-05T02:19:00Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "70f183f55b2a49e9a70abf9e9a85717136fa9d6a",
+    "v": 4
+  },
+  "pinned_at": "2024-07-05T02:19:00Z"
+}

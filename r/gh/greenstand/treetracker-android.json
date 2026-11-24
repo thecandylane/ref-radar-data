@@ -1,0 +1,63 @@
+{
+  "id": "gh:greenstand/treetracker-android",
+  "kind": "repo",
+  "url": "https://github.com/Greenstand/treetracker-android",
+  "title": "treetracker-android",
+  "why": "Logs trees with camera photos and device location on Android, then uploads bundles to object storage in a background worker.",
+  "keys": {
+    "races": [
+      "mobile/android"
+    ],
+    "lanes": [
+      "mobile/android"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "app",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Greenstand/treetracker-android",
+    "sha": "0303c068153932bdda3dc5aa9b866dd74b245a2f",
+    "file_url": "https://cdn.jsdelivr.net/gh/Greenstand/treetracker-android@0303c068153932bdda3dc5aa9b866dd74b245a2f/{path}"
+  },
+  "facts": {
+    "lang": "Kotlin",
+    "license": "AGPL-3.0",
+    "stars": 102,
+    "size_mb": 531,
+    "created_at": "2017-09-13T20:05:32Z",
+    "last_commit_at": "2026-11-23T01:42:00Z",
+    "releases": 0,
+    "tags": 13,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "0303c068153932bdda3dc5aa9b866dd74b245a2f",
+    "v": 4
+  },
+  "pinned_at": "2026-11-23T01:42:00Z"
+}

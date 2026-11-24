@@ -23,11 +23,11 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
+      "locator": "crates",
       "kind": "path"
     },
     {
-      "locator": "crates",
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -65,6 +65,7 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
   "pack": {
     "sha": "87c93d9ff3340bdbb0503b2addd0e7e8e8753cad",
     "v": 3

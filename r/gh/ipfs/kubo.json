@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:833e04a240d8c533509ddaaa3c202b39b0bb3024"
-  },
   "id": "gh:ipfs/kubo",
   "kind": "repo",
   "url": "https://github.com/ipfs/kubo",
@@ -20,31 +17,31 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "internal",
       "kind": "path"
     },
     {
       "locator": "cmd",
       "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
     }
   ],
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ipfs/kubo",
-    "sha": "833e04a240d8c533509ddaaa3c202b39b0bb3024",
-    "file_url": "https://cdn.jsdelivr.net/gh/ipfs/kubo@833e04a240d8c533509ddaaa3c202b39b0bb3024/{path}"
+    "sha": "0156e1a761d7fd99d662f2ca8ada0d53f9c9f44f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ipfs/kubo@0156e1a761d7fd99d662f2ca8ada0d53f9c9f44f/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "NOASSERTION",
-    "stars": 17194,
+    "stars": 17197,
     "size_mb": 60,
     "created_at": "2014-06-26T08:14:34Z",
-    "last_commit_at": "2026-09-27T18:55:16Z",
+    "last_commit_at": "2026-11-23T15:46:05Z",
     "releases": 135,
     "tags": 223,
     "archived": false,
@@ -66,9 +63,13 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "833e04a240d8c533509ddaaa3c202b39b0bb3024",
-    "v": 3
+    "sha": "0156e1a761d7fd99d662f2ca8ada0d53f9c9f44f",
+    "v": 4
   },
-  "pinned_at": "2026-09-27T18:55:16Z"
+  "pins_before": [
+    "833e04a240d8c533509ddaaa3c202b39b0bb3024"
+  ],
+  "pinned_at": "2026-11-23T15:46:05Z"
 }

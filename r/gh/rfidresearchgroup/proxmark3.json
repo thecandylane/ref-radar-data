@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:0bf02faa49649e51e07896e42943beaf0a38e334"
-  },
   "id": "gh:rfidresearchgroup/proxmark3",
   "kind": "repo",
   "url": "https://github.com/RfidResearchGroup/proxmark3",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/RfidResearchGroup/proxmark3",
-    "sha": "0bf02faa49649e51e07896e42943beaf0a38e334",
-    "file_url": "https://cdn.jsdelivr.net/gh/RfidResearchGroup/proxmark3@0bf02faa49649e51e07896e42943beaf0a38e334/{path}"
+    "sha": "59e5b33d5fea481ffb53bdf61a11637607c1b1ee",
+    "file_url": "https://cdn.jsdelivr.net/gh/RfidResearchGroup/proxmark3@59e5b33d5fea481ffb53bdf61a11637607c1b1ee/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "GPL-3.0",
-    "stars": 6262,
-    "size_mb": 102,
+    "stars": 6265,
+    "size_mb": 103,
     "created_at": "2018-08-12T12:37:00Z",
-    "last_commit_at": "2026-11-23T06:13:59Z",
+    "last_commit_at": "2026-11-24T04:33:53Z",
     "releases": 21,
     "tags": 21,
     "archived": false,
@@ -60,8 +57,14 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "59e5b33d5fea481ffb53bdf61a11637607c1b1ee",
+    "v": 4
+  },
   "pins_before": [
+    "0bf02faa49649e51e07896e42943beaf0a38e334",
     "89b873c2811ac722cb4039c1e6b1eda337f117f1"
   ],
-  "pinned_at": "2026-11-16T02:25:31Z"
+  "pinned_at": "2026-11-24T04:33:53Z"
 }

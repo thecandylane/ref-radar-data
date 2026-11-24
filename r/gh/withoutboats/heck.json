@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:252c1906cefefb8d13ecad7fce7b8f27ce6437e0"
+  },
+  "id": "gh:withoutboats/heck",
+  "kind": "repo",
+  "url": "https://github.com/withoutboats/heck",
+  "title": "heck",
+  "why": "Unicode-aware case conversion between CamelCase, snake_case and kebab-case, with word boundaries set at non-alphanumeric characters.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/withoutboats/heck",
+    "sha": "252c1906cefefb8d13ecad7fce7b8f27ce6437e0",
+    "file_url": "https://cdn.jsdelivr.net/gh/withoutboats/heck@252c1906cefefb8d13ecad7fce7b8f27ce6437e0/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 604,
+    "size_mb": 0,
+    "created_at": "2017-03-27T11:19:27Z",
+    "last_commit_at": "2025-08-09T10:44:32Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "252c1906cefefb8d13ecad7fce7b8f27ce6437e0",
+    "v": 4
+  },
+  "pinned_at": "2025-08-09T10:44:32Z"
+}

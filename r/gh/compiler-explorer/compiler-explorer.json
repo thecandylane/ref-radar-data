@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:073e0cdd36fd7e10a2dc8d08946a42d2ece49181"
+  },
   "id": "gh:compiler-explorer/compiler-explorer",
   "kind": "repo",
   "url": "https://github.com/compiler-explorer/compiler-explorer",
@@ -15,11 +18,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "lib",
       "kind": "path"
     },
     {
-      "locator": "lib",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -49,11 +52,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 12,
+    "star_delta_7d": 11,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "073e0cdd36fd7e10a2dc8d08946a42d2ece49181",
     "v": 4

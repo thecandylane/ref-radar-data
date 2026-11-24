@@ -1,0 +1,66 @@
+{
+  "id": "gh:lib/pq",
+  "kind": "repo",
+  "url": "https://github.com/lib/pq",
+  "title": "pq",
+  "why": "Connects Go programs to PostgreSQL through database/sql, with COPY bulk imports, LISTEN and NOTIFY, and SCRAM authentication.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lib/pq",
+    "sha": "5e0c05ba842757578d01904298df199f3a6448dd",
+    "file_url": "https://cdn.jsdelivr.net/gh/lib/pq@5e0c05ba842757578d01904298df199f3a6448dd/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "NOASSERTION",
+    "stars": 9976,
+    "size_mb": 1,
+    "created_at": "2012-03-12T18:50:22Z",
+    "last_commit_at": "2026-11-16T02:35:12Z",
+    "releases": 27,
+    "tags": 32,
+    "archived": false,
+    "release": {
+      "tag": "v1.12.3",
+      "at": "2026-04-03T15:46:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "5e0c05ba842757578d01904298df199f3a6448dd",
+    "v": 4
+  },
+  "pinned_at": "2026-11-16T02:35:12Z"
+}

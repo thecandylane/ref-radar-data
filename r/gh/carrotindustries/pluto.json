@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3f25b12a9d1c7eb931cf74858881f92337a70776"
+  },
+  "id": "gh:carrotindustries/pluto",
+  "kind": "repo",
+  "url": "https://github.com/carrotIndustries/pluto",
+  "title": "pluto",
+  "why": "Hardware design for a programmable watch that swaps the Casio F-91W board for an MSP430 MCU, compass and infrared receiver, with schematic and BOM.",
+  "keys": {
+    "races": [
+      "embedded/firmware",
+      "engineering/eda"
+    ],
+    "lanes": [
+      "embedded/firmware",
+      "engineering/eda"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/carrotIndustries/pluto",
+    "sha": "3f25b12a9d1c7eb931cf74858881f92337a70776",
+    "file_url": "https://cdn.jsdelivr.net/gh/carrotIndustries/pluto@3f25b12a9d1c7eb931cf74858881f92337a70776/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "GPL-3.0",
+    "stars": 537,
+    "size_mb": 9,
+    "created_at": "2016-05-20T19:57:10Z",
+    "last_commit_at": "2019-10-24T21:40:42Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "3f25b12a9d1c7eb931cf74858881f92337a70776",
+    "v": 4
+  },
+  "pinned_at": "2019-10-24T21:40:42Z"
+}

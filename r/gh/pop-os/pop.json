@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5ca76e6e05c86d52022c012ce19351d601a761bd"
+  },
+  "id": "gh:pop-os/pop",
+  "kind": "repo",
+  "url": "https://github.com/pop-os/pop",
+  "title": "pop",
+  "why": "Fetches each repo and builds its packages and binaries for Ubuntu and Arm, then posts the status to GitHub.",
+  "keys": {
+    "races": [
+      "infra/ci-cd",
+      "desktop/packaging"
+    ],
+    "lanes": [
+      "infra/ci-cd",
+      "desktop/packaging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pop-os/pop",
+    "sha": "5ca76e6e05c86d52022c012ce19351d601a761bd",
+    "file_url": "https://cdn.jsdelivr.net/gh/pop-os/pop@5ca76e6e05c86d52022c012ce19351d601a761bd/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "none",
+    "stars": 2901,
+    "size_mb": 1,
+    "created_at": "2017-10-26T17:44:17Z",
+    "last_commit_at": "2026-11-19T21:03:38Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "5ca76e6e05c86d52022c012ce19351d601a761bd",
+    "v": 4
+  },
+  "pinned_at": "2026-11-19T21:03:38Z"
+}

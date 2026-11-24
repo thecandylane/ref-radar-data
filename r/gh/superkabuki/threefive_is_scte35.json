@@ -1,0 +1,62 @@
+{
+  "id": "gh:superkabuki/threefive_is_scte35",
+  "kind": "repo",
+  "url": "https://github.com/superkabuki/threefive_is_scte35",
+  "title": "threefive_is_scte35",
+  "why": "Parses and builds SCTE-35 cue messages inside MPEG-TS streams, from HLS playlists or raw UDP feeds, in Python.",
+  "keys": {
+    "races": [
+      "media/video"
+    ],
+    "lanes": [
+      "media/video"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/superkabuki/threefive_is_scte35",
+    "sha": "71d9c7e468411e65d173fcbc82f6ef9da17bbb8a",
+    "file_url": "https://cdn.jsdelivr.net/gh/superkabuki/threefive_is_scte35@71d9c7e468411e65d173fcbc82f6ef9da17bbb8a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-2.0",
+    "stars": 24,
+    "size_mb": 2,
+    "created_at": "2025-03-14T08:55:42Z",
+    "last_commit_at": "2026-11-23T00:09:43Z",
+    "releases": 2,
+    "tags": 12,
+    "archived": false,
+    "release": {
+      "tag": "v3.1.13",
+      "at": "2026-11-23T00:13:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "71d9c7e468411e65d173fcbc82f6ef9da17bbb8a",
+    "v": 4
+  },
+  "pinned_at": "2026-11-23T00:09:43Z"
+}

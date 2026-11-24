@@ -1,0 +1,61 @@
+{
+  "id": "gh:ibclab-hub/agv",
+  "kind": "repo",
+  "url": "https://github.com/ibclab-hub/AGV",
+  "title": "AGV",
+  "why": "Browser viewer for ancestral chromosomes reconstructed by DESCHRAMBLER, with scripts that convert and validate its outputs.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/analytics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/analytics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ibclab-hub/AGV",
+    "sha": "1f50053d94c69aaf672fac3d084d70d30c5a6b52",
+    "file_url": "https://raw.githubusercontent.com/ibclab-hub/AGV/1f50053d94c69aaf672fac3d084d70d30c5a6b52/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "GPL-3.0",
+    "stars": 2,
+    "size_mb": 38,
+    "created_at": "2025-09-12T06:04:22Z",
+    "last_commit_at": "2026-08-14T16:05:08Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "1f50053d94c69aaf672fac3d084d70d30c5a6b52",
+    "v": 4
+  },
+  "pinned_at": "2026-08-14T16:05:08Z"
+}

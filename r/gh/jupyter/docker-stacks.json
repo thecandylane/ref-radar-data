@@ -24,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/jupyter/docker-stacks",
-    "sha": "57927ad0fa694908c068a4ed4711b1f5fa217709",
-    "file_url": "https://cdn.jsdelivr.net/gh/jupyter/docker-stacks@57927ad0fa694908c068a4ed4711b1f5fa217709/{path}"
+    "sha": "899bb1616a1ab37c82d8a574f426bc6dcb0adb18",
+    "file_url": "https://cdn.jsdelivr.net/gh/jupyter/docker-stacks@899bb1616a1ab37c82d8a574f426bc6dcb0adb18/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -52,12 +52,14 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "57927ad0fa694908c068a4ed4711b1f5fa217709",
+    "sha": "899bb1616a1ab37c82d8a574f426bc6dcb0adb18",
     "v": 4
   },
   "pins_before": [
+    "57927ad0fa694908c068a4ed4711b1f5fa217709",
     "660dc22b671e02e765273c9f8931588b4a00f263"
   ],
-  "pinned_at": "2026-11-15T20:09:02Z"
+  "pinned_at": "2026-11-22T17:41:19Z"
 }

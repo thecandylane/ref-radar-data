@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e3d5f4b68002c2be328ef453247c6e886fe80800"
+  },
+  "id": "gh:nuno-agostinho/psichomics",
+  "kind": "repo",
+  "url": "https://github.com/nuno-agostinho/psichomics",
+  "title": "psichomics",
+  "why": "Shiny interface in R for PSI quantification from TCGA and GTEx junction reads, with survival and differential splicing tests.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nuno-agostinho/psichomics",
+    "sha": "e3d5f4b68002c2be328ef453247c6e886fe80800",
+    "file_url": "https://cdn.jsdelivr.net/gh/nuno-agostinho/psichomics@e3d5f4b68002c2be328ef453247c6e886fe80800/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 38,
+    "size_mb": 64,
+    "created_at": "2016-03-30T10:04:55Z",
+    "last_commit_at": "2026-05-30T22:08:18Z",
+    "releases": 46,
+    "tags": 47,
+    "archived": false,
+    "release": {
+      "tag": "1.38.1",
+      "at": "2026-05-30T22:10:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e3d5f4b68002c2be328ef453247c6e886fe80800",
+    "v": 4
+  },
+  "pinned_at": "2026-05-30T22:08:18Z"
+}

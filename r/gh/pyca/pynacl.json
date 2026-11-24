@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ca15a18eeb4d1e954b1f08066ffa3b7ebe3b71a9"
+  },
   "id": "gh:pyca/pynacl",
   "kind": "repo",
   "url": "https://github.com/pyca/pynacl",
@@ -55,5 +58,11 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "ca15a18eeb4d1e954b1f08066ffa3b7ebe3b71a9",
+    "v": 4
+  },
+  "pinned_at": "2026-11-03T11:45:24Z"
 }

@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6b4a7e89cbf67dab0be32e7517f3d8ae3c2b4d75"
+  },
+  "id": "gh:rometools/rome",
+  "kind": "repo",
+  "url": "https://github.com/rometools/rome",
+  "title": "rome",
+  "why": "Java library that parses and generates RSS and Atom feeds, with extension modules for MediaRSS and GeoRSS.",
+  "keys": {
+    "races": [
+      "media/news",
+      "data/serialization"
+    ],
+    "lanes": [
+      "media/news",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rometools/rome",
+    "sha": "6b4a7e89cbf67dab0be32e7517f3d8ae3c2b4d75",
+    "file_url": "https://cdn.jsdelivr.net/gh/rometools/rome@6b4a7e89cbf67dab0be32e7517f3d8ae3c2b4d75/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 954,
+    "size_mb": 72,
+    "created_at": "2013-09-23T16:35:35Z",
+    "last_commit_at": "2023-06-21T19:43:40Z",
+    "releases": 26,
+    "tags": 29,
+    "archived": false,
+    "release": {
+      "tag": "2.1.0",
+      "at": "2023-03-12T14:45:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6b4a7e89cbf67dab0be32e7517f3d8ae3c2b4d75",
+    "v": 4
+  },
+  "pinned_at": "2023-06-21T19:43:40Z"
+}

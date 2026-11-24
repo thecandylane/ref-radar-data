@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:61f451228e0420f7b44184d231fd7e98bfef26ea"
+  },
   "id": "gh:diygod/rsshub",
   "kind": "repo",
   "url": "https://github.com/DIYgod/RSSHub",
@@ -21,11 +24,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "lib",
       "kind": "path"
     },
     {
-      "locator": "lib",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -38,16 +41,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 47168,
+    "stars": 47186,
     "size_mb": 1343,
     "created_at": "2018-04-02T14:43:21Z",
-    "last_commit_at": "2026-11-23T08:24:31Z",
-    "releases": 316,
-    "tags": 316,
+    "last_commit_at": "2026-11-24T08:16:20Z",
+    "releases": 332,
+    "tags": 332,
     "archived": false,
     "release": {
-      "tag": "v2026.11.23-8728.g61f4512",
-      "at": "2026-11-23T08:33:40.000Z"
+      "tag": "v2026.11.24-8744.g6339c54",
+      "at": "2026-11-24T08:13:36.000Z"
     }
   },
   "reuse": "copy",
@@ -63,6 +66,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "61f451228e0420f7b44184d231fd7e98bfef26ea",
+    "v": 4
+  },
   "pins_before": [
     "2eb5724294652bc54208b8af10e3c94fee00792c"
   ],

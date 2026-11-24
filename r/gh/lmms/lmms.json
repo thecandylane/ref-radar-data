@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:6b00eab040d8d51320cbaab32f54f7584b5cfe00"
-  },
   "id": "gh:lmms/lmms",
   "kind": "repo",
   "url": "https://github.com/LMMS/lmms",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/LMMS/lmms",
-    "sha": "6b00eab040d8d51320cbaab32f54f7584b5cfe00",
-    "file_url": "https://cdn.jsdelivr.net/gh/LMMS/lmms@6b00eab040d8d51320cbaab32f54f7584b5cfe00/{path}"
+    "sha": "f085f1eb9740d898086b054429d47307e875cd18",
+    "file_url": "https://cdn.jsdelivr.net/gh/LMMS/lmms@f085f1eb9740d898086b054429d47307e875cd18/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "GPL-2.0",
-    "stars": 10712,
+    "stars": 10716,
     "size_mb": 99,
     "created_at": "2014-01-09T20:43:43Z",
-    "last_commit_at": "2026-11-22T01:55:09Z",
+    "last_commit_at": "2026-11-24T03:02:43Z",
     "releases": 56,
     "tags": 62,
     "archived": false,
@@ -60,9 +57,13 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "6b00eab040d8d51320cbaab32f54f7584b5cfe00",
+    "sha": "f085f1eb9740d898086b054429d47307e875cd18",
     "v": 4
   },
-  "pinned_at": "2026-11-16T01:28:45Z"
+  "pins_before": [
+    "6b00eab040d8d51320cbaab32f54f7584b5cfe00"
+  ],
+  "pinned_at": "2026-11-24T03:02:43Z"
 }

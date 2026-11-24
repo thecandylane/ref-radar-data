@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c7602460d234733a235688c8fbeb0f8eb2e472ef"
+  },
   "id": "gh:owasp/owasp-istg",
   "kind": "repo",
   "url": "https://github.com/OWASP/owasp-istg",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "Python",
     "license": "CC-BY-SA-4.0",
-    "stars": 143,
+    "stars": 144,
     "size_mb": 2,
     "created_at": "2023-08-24T16:47:39Z",
     "last_commit_at": "2026-08-02T21:01:48Z",
@@ -58,5 +61,11 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "c7602460d234733a235688c8fbeb0f8eb2e472ef",
+    "v": 4
+  },
+  "pinned_at": "2026-08-02T21:01:48Z"
 }

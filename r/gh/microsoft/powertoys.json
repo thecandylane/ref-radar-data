@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b1bb9bb89bff94a24e93bc0b8b59901e9879830d"
+  },
   "id": "gh:microsoft/powertoys",
   "kind": "repo",
   "url": "https://github.com/microsoft/PowerToys",
@@ -15,11 +18,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "C",
     "license": "MIT",
-    "stars": 141315,
+    "stars": 141345,
     "size_mb": 584,
     "created_at": "2019-05-01T17:44:02Z",
-    "last_commit_at": "2026-11-23T07:10:26Z",
+    "last_commit_at": "2026-11-24T05:23:30Z",
     "releases": 141,
     "tags": 177,
     "archived": false,
@@ -57,6 +60,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b1bb9bb89bff94a24e93bc0b8b59901e9879830d",
+    "v": 4
+  },
   "pins_before": [
     "f9f0ce2028fe50b083af910b52914c8eaf264584"
   ],

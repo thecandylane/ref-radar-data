@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b4717e0193727464f4c8e43f4dbfff232d6e09d2"
+  },
+  "id": "gh:gotsunami/youpi",
+  "kind": "repo",
+  "url": "https://github.com/gotsunami/Youpi",
+  "title": "Youpi",
+  "why": "Runs FITS image reduction jobs from a browser on a Condor cluster, with fine-grain sharing of results for teamwork.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gotsunami/Youpi",
+    "sha": "b4717e0193727464f4c8e43f4dbfff232d6e09d2",
+    "file_url": "https://cdn.jsdelivr.net/gh/gotsunami/Youpi@b4717e0193727464f4c8e43f4dbfff232d6e09d2/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "NOASSERTION",
+    "stars": 12,
+    "size_mb": 21,
+    "created_at": "2012-01-27T20:37:37Z",
+    "last_commit_at": "2014-08-28T13:15:49Z",
+    "releases": 0,
+    "tags": 8,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b4717e0193727464f4c8e43f4dbfff232d6e09d2",
+    "v": 4
+  },
+  "pinned_at": "2014-08-28T13:15:49Z"
+}

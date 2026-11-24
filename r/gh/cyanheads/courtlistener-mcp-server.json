@@ -1,0 +1,70 @@
+{
+  "id": "gh:cyanheads/courtlistener-mcp-server",
+  "kind": "repo",
+  "url": "https://github.com/cyanheads/courtlistener-mcp-server",
+  "title": "courtlistener-mcp-server",
+  "why": "Lets an agent search CourtListener opinions, dockets and judges, with rate-limit waits and readable text for each opinion.",
+  "keys": {
+    "races": [
+      "legal/case-law",
+      "agents/tools"
+    ],
+    "lanes": [
+      "legal/case-law",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cyanheads/courtlistener-mcp-server",
+    "sha": "f40dda8db6edcf88213997865d947af7c5d5f2a4",
+    "file_url": "https://cdn.jsdelivr.net/gh/cyanheads/courtlistener-mcp-server@f40dda8db6edcf88213997865d947af7c5d5f2a4/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 4,
+    "size_mb": 3,
+    "created_at": "2026-05-26T00:04:01Z",
+    "last_commit_at": "2026-11-20T22:45:54Z",
+    "releases": 32,
+    "tags": 32,
+    "archived": false,
+    "release": {
+      "tag": "v0.10.1",
+      "at": "2026-11-21T01:49:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f40dda8db6edcf88213997865d947af7c5d5f2a4",
+    "v": 4
+  },
+  "pinned_at": "2026-11-20T22:45:54Z"
+}

@@ -20,10 +20,6 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
-      "kind": "path"
-    },
-    {
       "locator": "internal",
       "kind": "path"
     },
@@ -33,6 +29,10 @@
     },
     {
       "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -65,11 +65,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": -1,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "b4c32164748646b1b051e090ef381e3f1e2de668",
     "v": 3

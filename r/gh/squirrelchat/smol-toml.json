@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bba6a4bbd29ece3230c1755090b197049e2075ea"
+  },
+  "id": "gh:squirrelchat/smol-toml",
+  "kind": "repo",
+  "url": "https://github.com/squirrelchat/smol-toml",
+  "title": "smol-toml",
+  "why": "Turns TOML text into typed values and back, with parse errors that point to the line and column of the fault.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/squirrelchat/smol-toml",
+    "sha": "bba6a4bbd29ece3230c1755090b197049e2075ea",
+    "file_url": "https://cdn.jsdelivr.net/gh/squirrelchat/smol-toml@bba6a4bbd29ece3230c1755090b197049e2075ea/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "BSD-3-Clause",
+    "stars": 325,
+    "size_mb": 4,
+    "created_at": "2023-05-03T14:46:49Z",
+    "last_commit_at": "2026-10-10T11:29:49Z",
+    "releases": 28,
+    "tags": 28,
+    "archived": false,
+    "release": {
+      "tag": "v1.9.1",
+      "at": "2026-10-09T09:08:32.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "bba6a4bbd29ece3230c1755090b197049e2075ea",
+    "v": 4
+  },
+  "pinned_at": "2026-10-10T11:29:49Z"
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:06e9c27a900dc086eecccfd4a9d978e1c14c06c5"
+  },
   "id": "gh:apache/commons-lang",
   "kind": "repo",
   "url": "https://github.com/apache/commons-lang",
@@ -11,11 +14,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -31,7 +34,7 @@
     "stars": 3018,
     "size_mb": 33,
     "created_at": "2009-05-21T01:24:46Z",
-    "last_commit_at": "2026-11-22T15:12:44Z",
+    "last_commit_at": "2026-11-23T13:57:24Z",
     "releases": 0,
     "tags": 118,
     "archived": false,
@@ -49,5 +52,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "06e9c27a900dc086eecccfd4a9d978e1c14c06c5",
+    "v": 4
+  }
 }

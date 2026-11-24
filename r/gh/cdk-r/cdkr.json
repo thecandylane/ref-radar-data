@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ecb5eaa5dec5a99484ea9846579525eb11c07809"
+  },
+  "id": "gh:cdk-r/cdkr",
+  "kind": "repo",
+  "url": "https://github.com/CDK-R/cdkr",
+  "title": "cdkr",
+  "why": "Brings the CDK cheminformatics library into R, so molecule parsing and fingerprints run alongside ordinary R analysis, on a Java JDK.",
+  "keys": {
+    "races": [
+      "engineering/chemistry"
+    ],
+    "lanes": [
+      "engineering/chemistry"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CDK-R/cdkr",
+    "sha": "ecb5eaa5dec5a99484ea9846579525eb11c07809",
+    "file_url": "https://cdn.jsdelivr.net/gh/CDK-R/cdkr@ecb5eaa5dec5a99484ea9846579525eb11c07809/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 46,
+    "size_mb": 306,
+    "created_at": "2010-05-01T13:59:57Z",
+    "last_commit_at": "2025-11-30T16:36:40Z",
+    "releases": 2,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v3.6.0",
+      "at": "2021-11-24T16:42:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ecb5eaa5dec5a99484ea9846579525eb11c07809",
+    "v": 4
+  },
+  "pinned_at": "2025-11-30T16:36:40Z"
+}

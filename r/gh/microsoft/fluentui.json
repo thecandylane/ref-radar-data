@@ -15,15 +15,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "packages",
       "kind": "path"
     },
     {
       "locator": "apps",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -36,12 +36,12 @@
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 20429,
-    "size_mb": 857,
+    "stars": 20428,
+    "size_mb": 856,
     "created_at": "2016-06-06T15:03:44Z",
-    "last_commit_at": "2026-11-23T04:10:45Z",
+    "last_commit_at": "2026-11-24T04:08:25Z",
     "releases": 1000,
-    "tags": 34892,
+    "tags": 34894,
     "archived": false,
     "release": {
       "tag": "@fluentui/react-provider_v9.22.23",
@@ -56,11 +56,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 21,
+    "star_delta_7d": 15,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "feab6ba63b55703d803f17092eab54c9dc82430b",
     "v": 4

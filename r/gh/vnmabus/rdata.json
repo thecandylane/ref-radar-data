@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0edddf4b692cf5c011976bd7b369ccea08aa5db5"
+  },
+  "id": "gh:vnmabus/rdata",
+  "kind": "repo",
+  "url": "https://github.com/vnmabus/rdata",
+  "title": "rdata",
+  "why": "Reads and writes R rda and rds files from pure Python with no R install, and lets you customize how R classes convert.",
+  "keys": {
+    "races": [
+      "data/serialization",
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/serialization",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vnmabus/rdata",
+    "sha": "0edddf4b692cf5c011976bd7b369ccea08aa5db5",
+    "file_url": "https://cdn.jsdelivr.net/gh/vnmabus/rdata@0edddf4b692cf5c011976bd7b369ccea08aa5db5/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 60,
+    "size_mb": 1,
+    "created_at": "2018-07-02T10:00:50Z",
+    "last_commit_at": "2026-06-11T19:29:06Z",
+    "releases": 10,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "1.1.0",
+      "at": "2026-06-11T18:45:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "0edddf4b692cf5c011976bd7b369ccea08aa5db5",
+    "v": 4
+  },
+  "pinned_at": "2026-06-11T19:29:06Z"
+}

@@ -24,10 +24,6 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
-      "kind": "path"
-    },
-    {
       "locator": "packages",
       "kind": "path"
     },
@@ -37,6 +33,10 @@
     },
     {
       "locator": "apps",
+      "kind": "path"
+    },
+    {
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -69,11 +69,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": -1,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "b13ddd632bde1fea7678386c345665ea5fa671af",
     "v": 3

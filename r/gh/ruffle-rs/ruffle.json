@@ -30,12 +30,12 @@
   "facts": {
     "lang": "Rust",
     "license": "NOASSERTION",
-    "stars": 18925,
-    "size_mb": 179,
+    "stars": 18937,
+    "size_mb": 182,
     "created_at": "2019-04-25T17:53:32Z",
-    "last_commit_at": "2026-11-22T23:55:24Z",
+    "last_commit_at": "2026-11-24T08:34:55Z",
     "releases": 1000,
-    "tags": 1903,
+    "tags": 1904,
     "archived": false,
     "release": {
       "tag": "v0.8.0",
@@ -55,6 +55,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "5d629cec4fce1dbac5d5ee9fece53d8ec023166c",
+    "v": 4
+  },
   "pins_before": [
     "ad238b5ebad5bc5b1d7ce9cf478b48bf47f02ac0"
   ],

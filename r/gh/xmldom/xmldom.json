@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:325fa28b53c8bf7dddc967ace0cd6020047a2313"
+  },
+  "id": "gh:xmldom/xmldom",
+  "kind": "repo",
+  "url": "https://github.com/xmldom/xmldom",
+  "title": "xmldom",
+  "why": "Parses XML and HTML strings into a DOM in JavaScript, with a SAX-style reader underneath and ParseError reporting for bad input.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/xmldom/xmldom",
+    "sha": "325fa28b53c8bf7dddc967ace0cd6020047a2313",
+    "file_url": "https://cdn.jsdelivr.net/gh/xmldom/xmldom@325fa28b53c8bf7dddc967ace0cd6020047a2313/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 475,
+    "size_mb": 5,
+    "created_at": "2019-12-19T21:59:46Z",
+    "last_commit_at": "2026-10-11T19:11:40Z",
+    "releases": 59,
+    "tags": 102,
+    "archived": false,
+    "release": {
+      "tag": "0.9.12",
+      "at": "2026-08-21T22:33:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "325fa28b53c8bf7dddc967ace0cd6020047a2313",
+    "v": 4
+  },
+  "pinned_at": "2026-10-11T19:11:40Z"
+}

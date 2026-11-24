@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a85686ec92020c5a2f90373227758a38ace5b679"
+  },
   "id": "gh:spring-projects/spring-framework",
   "kind": "repo",
   "url": "https://github.com/spring-projects/spring-framework",
@@ -15,11 +18,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 60328,
+    "stars": 60327,
     "size_mb": 252,
     "created_at": "2010-12-08T04:04:45Z",
-    "last_commit_at": "2026-11-21T16:27:23Z",
+    "last_commit_at": "2026-11-24T09:13:26Z",
     "releases": 371,
     "tags": 374,
     "archived": false,
@@ -57,6 +60,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "a85686ec92020c5a2f90373227758a38ace5b679",
+    "v": 4
+  },
   "pins_before": [
     "70e1423c7a71dbb15a529de16d8b58d9c08345e9"
   ],

@@ -1,0 +1,68 @@
+{
+  "id": "gh:oxigraph/oxigraph",
+  "kind": "repo",
+  "url": "https://github.com/oxigraph/oxigraph",
+  "title": "oxigraph",
+  "why": "Stores RDF quads and runs SPARQL queries from Rust, Python or JavaScript, with a CLI that serves an HTTP endpoint.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/databases",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/oxigraph/oxigraph",
+    "sha": "9da8d3054ad0dd6e59e6494d0c36d0fd4b3f9485",
+    "file_url": "https://cdn.jsdelivr.net/gh/oxigraph/oxigraph@9da8d3054ad0dd6e59e6494d0c36d0fd4b3f9485/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 2061,
+    "size_mb": 9,
+    "created_at": "2018-05-16T15:29:28Z",
+    "last_commit_at": "2026-11-20T20:27:50Z",
+    "releases": 79,
+    "tags": 80,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.13",
+      "at": "2026-10-22T18:32:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "9da8d3054ad0dd6e59e6494d0c36d0fd4b3f9485",
+    "v": 4
+  },
+  "pinned_at": "2026-11-20T20:27:50Z"
+}

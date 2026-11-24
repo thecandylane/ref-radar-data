@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:923285614aa1fcf30e91a95e39dda3abebb3ae8f"
+  },
   "id": "gh:approvals/approvals.nodejs",
   "kind": "repo",
   "url": "https://github.com/approvals/Approvals.NodeJS",
@@ -15,11 +18,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "lib",
       "kind": "path"
     },
     {
-      "locator": "lib",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -35,13 +38,13 @@
     "stars": 128,
     "size_mb": 8,
     "created_at": "2012-12-19T21:05:55Z",
-    "last_commit_at": "2026-11-23T03:34:41Z",
-    "releases": 57,
-    "tags": 68,
+    "last_commit_at": "2026-11-23T18:42:29Z",
+    "releases": 59,
+    "tags": 70,
     "archived": false,
     "release": {
-      "tag": "v7.6.2",
-      "at": "2026-11-16T18:36:13.000Z"
+      "tag": "v7.7.0",
+      "at": "2026-11-23T18:32:30.000Z"
     }
   },
   "reuse": "copy",
@@ -56,5 +59,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "923285614aa1fcf30e91a95e39dda3abebb3ae8f",
+    "v": 4
+  }
 }

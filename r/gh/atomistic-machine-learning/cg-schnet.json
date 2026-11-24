@@ -1,0 +1,81 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d107fa20563db348c668fc2dd29d843010bd1174"
+  },
+  "id": "gh:atomistic-machine-learning/cg-schnet",
+  "kind": "repo",
+  "url": "https://github.com/atomistic-machine-learning/cG-SchNet",
+  "title": "cG-SchNet",
+  "why": "Deprecated repo kept for reproduction of published QM9 results, generating 3d molecules atom by atom from conditions.",
+  "keys": {
+    "races": [
+      "engineering/chemistry",
+      "ml/training"
+    ],
+    "lanes": [
+      "engineering/chemistry",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/atomistic-machine-learning/cG-SchNet",
+    "sha": "d107fa20563db348c668fc2dd29d843010bd1174",
+    "file_url": "https://cdn.jsdelivr.net/gh/atomistic-machine-learning/cG-SchNet@d107fa20563db348c668fc2dd29d843010bd1174/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 70,
+    "size_mb": 5,
+    "created_at": "2021-12-02T15:35:18Z",
+    "last_commit_at": "2023-03-24T12:09:56Z",
+    "releases": 1,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.0",
+      "at": "2022-02-21T13:36:41.000Z"
+    },
+    "doi": "10.5281/zenodo.5907027",
+    "citations": {
+      "count": 2,
+      "by": "DataCite",
+      "at": "2026-11-24"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d107fa20563db348c668fc2dd29d843010bd1174",
+    "v": 4
+  },
+  "pinned_at": "2023-03-24T12:09:56Z",
+  "papers": [
+    {
+      "id": "arxiv:2109.04824",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

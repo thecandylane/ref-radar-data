@@ -30,10 +30,10 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 44131,
-    "size_mb": 129,
+    "stars": 44130,
+    "size_mb": 131,
     "created_at": "2018-12-19T08:24:04Z",
-    "last_commit_at": "2026-11-20T14:24:39Z",
+    "last_commit_at": "2026-11-23T16:12:28Z",
     "releases": 1000,
     "tags": 6074,
     "archived": false,
@@ -55,12 +55,18 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ec6658fe10a240751cf956fad1f50e829c12ab0a",
+    "v": 4
+  },
   "pinned_at": "2026-11-20T14:24:39Z",
   "papers": [
     {
       "id": "arxiv:1906.02569",
       "via": [
-        "pwc"
+        "pwc",
+        "repo"
       ]
     }
   ]

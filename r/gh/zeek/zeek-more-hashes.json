@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6e669d4c19bcacda42c273042ecf2739d34cc10c"
+  },
+  "id": "gh:zeek/zeek-more-hashes",
+  "kind": "repo",
+  "url": "https://github.com/zeek/zeek-more-hashes",
+  "title": "zeek-more-hashes",
+  "why": "Adds extra file hash algorithms to Zeek, the network analyzer, for hashing files seen in traffic.",
+  "keys": {
+    "races": [
+      "netsec/capture"
+    ],
+    "lanes": [
+      "netsec/capture"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zeek/zeek-more-hashes",
+    "sha": "6e669d4c19bcacda42c273042ecf2739d34cc10c",
+    "file_url": "https://cdn.jsdelivr.net/gh/zeek/zeek-more-hashes@6e669d4c19bcacda42c273042ecf2739d34cc10c/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2023-06-04T15:09:00Z",
+    "last_commit_at": "2025-03-31T11:35:25Z",
+    "releases": 0,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6e669d4c19bcacda42c273042ecf2739d34cc10c",
+    "v": 4
+  },
+  "pinned_at": "2025-03-31T11:35:25Z"
+}

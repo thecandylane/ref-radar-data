@@ -1,0 +1,66 @@
+{
+  "id": "gh:webtech-network/autograder",
+  "kind": "repo",
+  "url": "https://github.com/webtech-network/autograder",
+  "title": "autograder",
+  "why": "Grades submitted code in Docker sandboxes, asking an OpenAI model to assess the output of each test.",
+  "keys": {
+    "races": [
+      "learning/autograding",
+      "agents/sandboxes"
+    ],
+    "lanes": [
+      "learning/autograding",
+      "agents/sandboxes"
+    ],
+    "capabilities": [
+      "agents/sandboxes/code-sandboxes"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/webtech-network/autograder",
+    "sha": "d938283bd657d9ebcaab21f44b4ef1819a665a69",
+    "file_url": "https://cdn.jsdelivr.net/gh/webtech-network/autograder@d938283bd657d9ebcaab21f44b4ef1819a665a69/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 65,
+    "size_mb": 5,
+    "created_at": "2025-07-11T01:23:02Z",
+    "last_commit_at": "2026-11-22T15:10:19Z",
+    "releases": 19,
+    "tags": 22,
+    "archived": false,
+    "release": {
+      "tag": "1.0.0",
+      "at": "2026-11-07T21:30:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d938283bd657d9ebcaab21f44b4ef1819a665a69",
+    "v": 4
+  },
+  "pinned_at": "2026-11-22T15:10:19Z"
+}

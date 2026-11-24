@@ -32,12 +32,12 @@
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 40453,
+    "stars": 40468,
     "size_mb": 239,
     "created_at": "2020-05-13T19:45:33Z",
-    "last_commit_at": "2026-11-23T08:59:15Z",
+    "last_commit_at": "2026-11-24T09:28:06Z",
     "releases": 272,
-    "tags": 578,
+    "tags": 580,
     "archived": false,
     "release": {
       "tag": "py-2.1.0",
@@ -52,11 +52,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 106,
+    "star_delta_7d": 107,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "1695451f24519c8728bf2bf903c442036a756663",
+    "v": 4
+  },
   "pins_before": [
     "f1795c239808628f660ae42c8e2584d8552e4784"
   ],

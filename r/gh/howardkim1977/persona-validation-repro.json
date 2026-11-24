@@ -1,0 +1,81 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b49fdd6f9266976c96a41906374d1b500fdb69c6"
+  },
+  "id": "gh:howardkim1977/persona-validation-repro",
+  "kind": "repo",
+  "url": "https://github.com/howardkim1977/persona-validation-repro",
+  "title": "persona-validation-repro",
+  "why": "Reruns the scripts that score generated personas from Gemini and Exaone against real cells, with weighted means and bootstrap tests.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "data/statistics"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/howardkim1977/persona-validation-repro",
+    "sha": "b49fdd6f9266976c96a41906374d1b500fdb69c6",
+    "file_url": "https://raw.githubusercontent.com/howardkim1977/persona-validation-repro/b49fdd6f9266976c96a41906374d1b500fdb69c6/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 7,
+    "created_at": "2026-07-16T13:19:53Z",
+    "last_commit_at": "2026-10-01T04:06:53Z",
+    "releases": 24,
+    "tags": 24,
+    "archived": false,
+    "release": {
+      "tag": "v1.23",
+      "at": "2026-09-05T05:20:18.000Z"
+    },
+    "doi": "10.5281/zenodo.22284201",
+    "citations": {
+      "count": 2,
+      "by": "DataCite",
+      "at": "2026-11-24"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b49fdd6f9266976c96a41906374d1b500fdb69c6",
+    "v": 4
+  },
+  "pinned_at": "2026-10-01T04:06:53Z",
+  "papers": [
+    {
+      "id": "arxiv:2608.28615",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

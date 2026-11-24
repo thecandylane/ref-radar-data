@@ -17,11 +17,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "apps",
       "kind": "path"
     },
     {
-      "locator": "apps",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -34,7 +34,7 @@
   "facts": {
     "lang": "MDX",
     "license": "MIT",
-    "stars": 23470,
+    "stars": 23507,
     "size_mb": 83,
     "created_at": "2023-06-26T19:17:10Z",
     "last_commit_at": "2026-11-17T12:47:26Z",
@@ -51,11 +51,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 164,
+    "star_delta_7d": 178,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "b0b2e4974b1b68cd5278277c6837a27736e20c3a",
     "v": 4

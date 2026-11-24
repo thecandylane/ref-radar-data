@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:0247dfd46495df842868b2ab6a2cce0c75709215"
+  },
   "id": "gh:danielmiessler/seclists",
   "kind": "repo",
   "url": "https://github.com/danielmiessler/SecLists",
@@ -30,10 +33,10 @@
   "facts": {
     "lang": "PHP",
     "license": "MIT",
-    "stars": 74902,
+    "stars": 74919,
     "size_mb": 3686,
     "created_at": "2012-02-19T01:30:18Z",
-    "last_commit_at": "2026-11-22T17:09:01Z",
+    "last_commit_at": "2026-11-23T11:10:10Z",
     "releases": 31,
     "tags": 32,
     "archived": false,
@@ -50,11 +53,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 116,
+    "star_delta_7d": 119,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "0247dfd46495df842868b2ab6a2cce0c75709215",
     "v": 4

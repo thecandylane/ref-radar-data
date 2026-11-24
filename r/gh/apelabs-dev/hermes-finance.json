@@ -27,11 +27,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -69,6 +69,7 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
   "pack": {
     "sha": "0aec41c70cf703098e67ff604dd10ccb23d236cf",
     "v": 4

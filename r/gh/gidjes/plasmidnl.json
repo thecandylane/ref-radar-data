@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ceeb1c895f10ddcaee35d1b4ffd63f99af0db94b"
+  },
   "id": "gh:gidjes/plasmidnl",
   "kind": "repo",
   "url": "https://github.com/gidjes/PlasmidNL",
@@ -55,5 +58,10 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "ceeb1c895f10ddcaee35d1b4ffd63f99af0db94b",
+    "v": 4
+  },
   "pinned_at": "2026-10-02T20:27:00Z"
 }

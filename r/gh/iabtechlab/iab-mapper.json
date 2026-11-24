@@ -1,0 +1,64 @@
+{
+  "id": "gh:iabtechlab/iab-mapper",
+  "kind": "repo",
+  "url": "https://github.com/IABTechLab/iab-mapper",
+  "title": "iab-mapper",
+  "why": "Maps free-text topics onto IAB category codes by fuzzy match first, then embeddings and an LLM rerank for the leftovers.",
+  "keys": {
+    "races": [
+      "marketing/ad-tech",
+      "ml/embeddings"
+    ],
+    "lanes": [
+      "marketing/ad-tech",
+      "ml/embeddings"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/IABTechLab/iab-mapper",
+    "sha": "3e869764eecbe7aa9c2fb5a5847477af2bbfb4f3",
+    "file_url": "https://cdn.jsdelivr.net/gh/IABTechLab/iab-mapper@3e869764eecbe7aa9c2fb5a5847477af2bbfb4f3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-2-Clause",
+    "stars": 23,
+    "size_mb": 1,
+    "created_at": "2025-09-09T20:43:56Z",
+    "last_commit_at": "2026-11-02T12:35:21Z",
+    "releases": 1,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2026-11-02T12:36:04.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "3e869764eecbe7aa9c2fb5a5847477af2bbfb4f3",
+    "v": 4
+  },
+  "pinned_at": "2026-11-02T12:35:21Z"
+}

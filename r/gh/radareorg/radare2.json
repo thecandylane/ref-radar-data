@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:5e80df1a536a06fe29132b371396b0ac81081609"
+  },
   "id": "gh:radareorg/radare2",
   "kind": "repo",
   "url": "https://github.com/radareorg/radare2",
@@ -30,10 +33,10 @@
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 25494,
-    "size_mb": 211,
+    "stars": 25498,
+    "size_mb": 212,
     "created_at": "2012-07-03T07:42:26Z",
-    "last_commit_at": "2026-11-23T00:43:06Z",
+    "last_commit_at": "2026-11-24T08:27:57Z",
     "releases": 109,
     "tags": 133,
     "archived": false,
@@ -50,11 +53,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 55,
+    "star_delta_7d": 50,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "5e80df1a536a06fe29132b371396b0ac81081609",
+    "v": 4
+  },
   "pins_before": [
     "9f7d0a82ac4e4c58b7f266fa5dac6b5f5419a1f9"
   ],

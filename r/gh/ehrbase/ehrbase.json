@@ -1,0 +1,61 @@
+{
+  "id": "gh:ehrbase/ehrbase",
+  "kind": "repo",
+  "url": "https://github.com/ehrbase/ehrbase",
+  "title": "ehrbase",
+  "why": "Keeps EHR and composition records in a Java repository layer, with plugin aspects wrapping create, update and query calls.",
+  "keys": {
+    "races": [
+      "medicine/ehr"
+    ],
+    "lanes": [
+      "medicine/ehr"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ehrbase/ehrbase",
+    "sha": "e80be3536d46399327d935c35bb22c394bb14984",
+    "file_url": "https://cdn.jsdelivr.net/gh/ehrbase/ehrbase@e80be3536d46399327d935c35bb22c394bb14984/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 390,
+    "size_mb": 87,
+    "created_at": "2019-10-08T08:54:57Z",
+    "last_commit_at": "2026-11-23T16:54:25Z",
+    "releases": 81,
+    "tags": 86,
+    "archived": false,
+    "release": {
+      "tag": "v2.38.0",
+      "at": "2026-11-10T09:40:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e80be3536d46399327d935c35bb22c394bb14984",
+    "v": 4
+  }
+}

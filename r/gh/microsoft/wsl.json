@@ -32,10 +32,10 @@
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 34455,
+    "stars": 34465,
     "size_mb": 112,
     "created_at": "2016-04-06T17:32:56Z",
-    "last_commit_at": "2026-11-23T02:12:23Z",
+    "last_commit_at": "2026-11-24T02:24:42Z",
     "releases": 121,
     "tags": 146,
     "archived": false,
@@ -57,6 +57,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "67918b77a31e856cb789441dabd265cedbee225a",
+    "v": 4
+  },
   "pins_before": [
     "b63bd1d3e24943065fc3150fcfff176aac2ec606"
   ],

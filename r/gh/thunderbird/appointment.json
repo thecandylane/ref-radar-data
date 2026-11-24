@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b0b1f157887d789676dc019b2a5761649505c6c2"
+  },
   "id": "gh:thunderbird/appointment",
   "kind": "repo",
   "url": "https://github.com/thunderbird/appointment",
@@ -53,5 +56,10 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "b0b1f157887d789676dc019b2a5761649505c6c2",
+    "v": 4
+  },
   "pinned_at": "2026-11-18T19:05:44Z"
 }

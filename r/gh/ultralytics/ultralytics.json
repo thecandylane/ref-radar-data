@@ -30,16 +30,16 @@
   "facts": {
     "lang": "Python",
     "license": "AGPL-3.0",
-    "stars": 63680,
+    "stars": 63703,
     "size_mb": 67,
     "created_at": "2022-09-11T16:39:45Z",
-    "last_commit_at": "2026-11-23T06:14:46Z",
-    "releases": 544,
-    "tags": 835,
+    "last_commit_at": "2026-11-24T04:22:23Z",
+    "releases": 546,
+    "tags": 837,
     "archived": false,
     "release": {
-      "tag": "v8.4.216",
-      "at": "2026-11-20T03:30:18.000Z"
+      "tag": "v8.4.218",
+      "at": "2026-11-23T21:55:35.000Z"
     }
   },
   "reuse": "copy",
@@ -50,16 +50,27 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 196,
+    "star_delta_7d": 190,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "99c8486b7d54d13fd5be88e1e08cdfc68b442925",
+    "v": 4
+  },
   "pins_before": [
     "a47b02d0d6f17922df3322382fd86cc5a700ba54"
   ],
   "pinned_at": "2026-11-23T06:14:46Z",
   "papers": [
+    {
+      "id": "arxiv:2606.03748",
+      "via": [
+        "repo"
+      ]
+    },
     {
       "id": "arxiv:2402.13616",
       "via": [

@@ -22,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/django-cms/django-cms",
-    "sha": "2152328406913b648d5d4a6cc6a0003bef5bb3c9",
-    "file_url": "https://cdn.jsdelivr.net/gh/django-cms/django-cms@2152328406913b648d5d4a6cc6a0003bef5bb3c9/{path}"
+    "sha": "346e2d1b5f401dfd0c96d95af6150b652bdcdc79",
+    "file_url": "https://cdn.jsdelivr.net/gh/django-cms/django-cms@346e2d1b5f401dfd0c96d95af6150b652bdcdc79/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -53,12 +53,14 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "2152328406913b648d5d4a6cc6a0003bef5bb3c9",
+    "sha": "346e2d1b5f401dfd0c96d95af6150b652bdcdc79",
     "v": 4
   },
   "pins_before": [
+    "2152328406913b648d5d4a6cc6a0003bef5bb3c9",
     "e068ce1a9e82e623549b9d21b529194e8cf1ab10"
   ],
-  "pinned_at": "2026-11-16T18:35:14Z"
+  "pinned_at": "2026-11-19T17:16:46Z"
 }

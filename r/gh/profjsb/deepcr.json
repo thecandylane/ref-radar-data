@@ -1,0 +1,76 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:29434859086c35373a49aec02c80985749dfd195"
+  },
+  "id": "gh:profjsb/deepcr",
+  "kind": "repo",
+  "url": "https://github.com/profjsb/deepCR",
+  "title": "deepCR",
+  "why": "Pick a threshold on its probabilistic mask to flag cosmic ray pixels in ACS and WFC3 frames, with segment and patch options for large images.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "ml/vision"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/profjsb/deepCR",
+    "sha": "29434859086c35373a49aec02c80985749dfd195",
+    "file_url": "https://cdn.jsdelivr.net/gh/profjsb/deepCR@29434859086c35373a49aec02c80985749dfd195/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 56,
+    "size_mb": 23,
+    "created_at": "2019-07-04T18:31:56Z",
+    "last_commit_at": "2024-04-18T18:36:52Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.0",
+      "at": "2019-09-01T20:41:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "29434859086c35373a49aec02c80985749dfd195",
+    "v": 4
+  },
+  "pinned_at": "2024-04-18T18:36:52Z",
+  "papers": [
+    {
+      "id": "arxiv:1907.09500",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

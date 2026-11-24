@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:9e77fbb0cd7b61737a0cddc08e5d82d4434abb2e"
+  },
   "id": "gh:necaris/python3-openid",
   "kind": "repo",
   "url": "https://github.com/necaris/python3-openid",
@@ -54,5 +57,11 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "9e77fbb0cd7b61737a0cddc08e5d82d4434abb2e",
+    "v": 4
+  },
+  "pinned_at": "2026-10-09T12:13:42Z"
 }

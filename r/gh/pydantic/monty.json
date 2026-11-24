@@ -17,15 +17,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "packages",
       "kind": "path"
     },
     {
       "locator": "crates",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -38,10 +38,10 @@
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 8994,
-    "size_mb": 25,
+    "stars": 8998,
+    "size_mb": 26,
     "created_at": "2023-05-28T11:13:38Z",
-    "last_commit_at": "2026-11-20T20:13:24Z",
+    "last_commit_at": "2026-11-23T15:52:06Z",
     "releases": 40,
     "tags": 41,
     "archived": false,
@@ -63,6 +63,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "5f4a3dfc493538bb9dc319974393391ba9e7cf14",
+    "v": 4
+  },
   "pins_before": [
     "3f89dcbf82071896efb5e3ded507db4191e8d829"
   ],

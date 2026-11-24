@@ -18,11 +18,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "app",
       "kind": "path"
     },
     {
-      "locator": "app",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -35,10 +35,10 @@
   "facts": {
     "lang": "Kotlin",
     "license": "GPL-3.0",
-    "stars": 21444,
-    "size_mb": 415,
+    "stars": 21662,
+    "size_mb": 416,
     "created_at": "2026-09-24T15:14:13Z",
-    "last_commit_at": "2026-11-23T09:00:04Z",
+    "last_commit_at": "2026-11-24T09:08:14Z",
     "releases": 23,
     "tags": 23,
     "archived": false,
@@ -60,6 +60,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "2aeff3bd9be4ad2b989ccdd49d17fff4403fb0a2",
     "v": 3

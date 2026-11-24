@@ -1,0 +1,73 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:dc11e2645f363c0f0a2d1461ae7469fb13bb8678"
+  },
+  "id": "gh:microsoft/maker.js",
+  "kind": "repo",
+  "url": "https://github.com/microsoft/maker.js",
+  "title": "maker.js",
+  "why": "Draws 2D parts from code, like nameplates, spirals and band clamps, with kerf compensation for cutting them out.",
+  "keys": {
+    "races": [
+      "engineering/cad",
+      "industrial/cnc",
+      "media/fonts"
+    ],
+    "lanes": [
+      "engineering/cad",
+      "industrial/cnc",
+      "media/fonts"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microsoft/maker.js",
+    "sha": "dc11e2645f363c0f0a2d1461ae7469fb13bb8678",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/maker.js@dc11e2645f363c0f0a2d1461ae7469fb13bb8678/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 2050,
+    "size_mb": 16,
+    "created_at": "2015-05-08T19:39:23Z",
+    "last_commit_at": "2026-10-29T17:49:13Z",
+    "releases": 9,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "0.9.17",
+      "at": "2016-09-26T08:31:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "dc11e2645f363c0f0a2d1461ae7469fb13bb8678",
+    "v": 4
+  },
+  "pinned_at": "2026-10-29T17:49:13Z"
+}

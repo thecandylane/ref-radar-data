@@ -25,11 +25,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "packages",
       "kind": "path"
     },
     {
-      "locator": "packages",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -42,16 +42,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 211884,
-    "size_mb": 863,
+    "stars": 211924,
+    "size_mb": 853,
     "created_at": "2019-06-22T09:24:21Z",
-    "last_commit_at": "2026-11-23T09:17:08Z",
-    "releases": 918,
-    "tags": 2277,
+    "last_commit_at": "2026-11-24T09:20:19Z",
+    "releases": 920,
+    "tags": 2279,
     "archived": false,
     "release": {
-      "tag": "n8n@2.48.8",
-      "at": "2026-11-23T08:34:00.000Z"
+      "tag": "n8n@2.49.5",
+      "at": "2026-11-23T15:25:29.000Z"
     }
   },
   "reuse": "copy",
@@ -62,11 +62,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 1257,
+    "star_delta_7d": 1217,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "90616400e834fed17424f4317f8967b06d738917",
     "v": 4

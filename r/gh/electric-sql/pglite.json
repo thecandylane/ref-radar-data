@@ -32,16 +32,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 16358,
+    "stars": 16363,
     "size_mb": 33,
     "created_at": "2024-02-19T14:37:38Z",
-    "last_commit_at": "2026-11-23T08:49:24Z",
-    "releases": 602,
-    "tags": 650,
+    "last_commit_at": "2026-11-23T11:23:31Z",
+    "releases": 624,
+    "tags": 672,
     "archived": false,
     "release": {
-      "tag": "@electric-sql/pglite-pgaudit@0.0.10",
-      "at": "2026-11-19T11:14:28.000Z"
+      "tag": "@electric-sql/pglite-plpgsql-check@0.1.0",
+      "at": "2026-11-23T11:33:04.000Z"
     }
   },
   "reuse": "copy",
@@ -52,11 +52,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 77,
+    "star_delta_7d": 25,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "c9a361d387a209a2489f526535773cbf1577bbdd",
     "v": 4
@@ -64,6 +65,5 @@
   "pins_before": [
     "dbd6eb41c9aca5b655adf0f516c3c9888469a02c"
   ],
-  "pinned_at": "2026-11-18T08:20:37Z",
-  "hot": true
+  "pinned_at": "2026-11-18T08:20:37Z"
 }

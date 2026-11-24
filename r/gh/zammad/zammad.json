@@ -17,15 +17,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "lib",
       "kind": "path"
     },
     {
       "locator": "app",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -39,9 +39,9 @@
     "lang": "Ruby",
     "license": "AGPL-3.0",
     "stars": 6138,
-    "size_mb": 1108,
+    "size_mb": 1117,
     "created_at": "2012-04-02T08:50:33Z",
-    "last_commit_at": "2026-11-23T09:22:18Z",
+    "last_commit_at": "2026-11-24T09:56:59Z",
     "releases": 0,
     "tags": 121,
     "archived": false,
@@ -60,6 +60,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "96f7f602398cbddc5134f74912c941079a7cb04a",
+    "v": 4
+  },
   "pins_before": [
     "6a04b9626ce2e91669dbad57e00d26d98a7d9965"
   ],

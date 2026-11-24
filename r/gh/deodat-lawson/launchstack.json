@@ -24,15 +24,15 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
-      "kind": "path"
-    },
-    {
       "locator": "packages",
       "kind": "path"
     },
     {
       "locator": "apps",
+      "kind": "path"
+    },
+    {
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -48,7 +48,7 @@
     "stars": 898,
     "size_mb": 114,
     "created_at": "2025-01-01T22:56:11Z",
-    "last_commit_at": "2026-11-22T04:25:10Z",
+    "last_commit_at": "2026-11-24T05:58:46Z",
     "releases": 1,
     "tags": 1,
     "archived": false,
@@ -70,6 +70,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "9d3e138be696546ca2a9f9267037b3318f637f43",
     "v": 4

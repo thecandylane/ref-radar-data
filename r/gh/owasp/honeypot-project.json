@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:fd748e8549ab38e9ee349f48e447e4899c51e386"
+  },
   "id": "gh:owasp/honeypot-project",
   "kind": "repo",
   "url": "https://github.com/OWASP/Honeypot-Project",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "Python",
     "license": "none",
-    "stars": 108,
+    "stars": 109,
     "size_mb": 7,
     "created_at": "2018-04-30T12:38:57Z",
     "last_commit_at": "2026-08-30T11:34:41Z",
@@ -53,5 +56,11 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "fd748e8549ab38e9ee349f48e447e4899c51e386",
+    "v": 4
+  },
+  "pinned_at": "2026-08-30T11:34:41Z"
 }

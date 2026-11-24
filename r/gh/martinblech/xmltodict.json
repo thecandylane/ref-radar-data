@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6e29fba282e68631034dd2722a413b4e35276584"
+  },
+  "id": "gh:martinblech/xmltodict",
+  "kind": "repo",
+  "url": "https://github.com/martinblech/xmltodict",
+  "title": "xmltodict",
+  "why": "Turns XML into plain Python dictionaries and back, with a streaming mode that handles big dumps in little memory.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/martinblech/xmltodict",
+    "sha": "6e29fba282e68631034dd2722a413b4e35276584",
+    "file_url": "https://cdn.jsdelivr.net/gh/martinblech/xmltodict@6e29fba282e68631034dd2722a413b4e35276584/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 5759,
+    "size_mb": 0,
+    "created_at": "2012-04-17T14:38:21Z",
+    "last_commit_at": "2026-08-19T19:04:04Z",
+    "releases": 6,
+    "tags": 40,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.4",
+      "at": "2026-02-22T01:46:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6e29fba282e68631034dd2722a413b4e35276584",
+    "v": 4
+  },
+  "pinned_at": "2026-08-19T19:04:04Z"
+}

@@ -24,11 +24,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -44,13 +44,13 @@
     "stars": 19,
     "size_mb": 2,
     "created_at": "2021-11-20T00:08:45Z",
-    "last_commit_at": "2026-11-23T07:57:24Z",
-    "releases": 84,
-    "tags": 211,
+    "last_commit_at": "2026-11-23T19:00:52Z",
+    "releases": 85,
+    "tags": 212,
     "archived": false,
     "release": {
-      "tag": "8.2.17",
-      "at": "2026-11-13T12:47:20.000Z"
+      "tag": "8.2.18",
+      "at": "2026-11-23T19:01:41.000Z"
     }
   },
   "reuse": "copy",
@@ -66,6 +66,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "6c03adc6104650c3b0a7a703ca4d3da52fe38028",
     "v": 4

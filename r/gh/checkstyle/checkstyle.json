@@ -22,11 +22,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -39,7 +39,7 @@
   "facts": {
     "lang": "Java",
     "license": "LGPL-2.1",
-    "stars": 9664,
+    "stars": 9665,
     "size_mb": 321,
     "created_at": "2013-08-31T02:05:05Z",
     "last_commit_at": "2026-11-23T03:22:53Z",
@@ -64,6 +64,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "3356176b91b481b5cb9e07526e1599ee63de1ba0",
+    "v": 4
+  },
   "pins_before": [
     "c0ea06de95237c7e25911607a9c47458895c55aa"
   ],

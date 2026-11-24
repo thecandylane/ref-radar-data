@@ -1,0 +1,72 @@
+{
+  "id": "gh:pat-alt/spurious_sentience",
+  "kind": "repo",
+  "url": "https://github.com/pat-alt/spurious_sentience",
+  "title": "spurious_sentience",
+  "why": "Holds the Julia code for PCA, autoencoder and LLM experiments from an ICML 2024 position paper, each with its own environment.",
+  "keys": {
+    "races": [
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pat-alt/spurious_sentience",
+    "sha": "93a2dae6cfdeb0fc6ba1b2e9277b64d87918f1ba",
+    "file_url": "https://raw.githubusercontent.com/pat-alt/spurious_sentience/93a2dae6cfdeb0fc6ba1b2e9277b64d87918f1ba/{path}"
+  },
+  "facts": {
+    "lang": "TeX",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 126,
+    "created_at": "2024-01-18T09:41:20Z",
+    "last_commit_at": "2025-04-30T10:06:20Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "camera-ready",
+      "at": "2024-07-16T12:42:08.000Z"
+    },
+    "doi": "10.5281/zenodo.15309220",
+    "citations": {
+      "count": 2,
+      "by": "DataCite",
+      "at": "2026-11-24"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "93a2dae6cfdeb0fc6ba1b2e9277b64d87918f1ba",
+    "v": 4
+  },
+  "pinned_at": "2025-04-30T10:06:20Z"
+}

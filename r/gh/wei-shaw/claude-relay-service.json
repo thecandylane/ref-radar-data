@@ -18,11 +18,11 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -35,7 +35,7 @@
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 12826,
+    "stars": 12829,
     "size_mb": 78,
     "created_at": "2025-07-14T10:11:32Z",
     "last_commit_at": "2026-11-05T09:50:59Z",
@@ -60,6 +60,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "71117dda85eb49c218bfc0809dc39451ebe64fac",
     "v": 3

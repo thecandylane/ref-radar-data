@@ -21,15 +21,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "lib",
       "kind": "path"
     },
     {
       "locator": "app",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -62,11 +62,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8,
+    "star_delta_7d": 5,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "173916e12fbfce67bea2b12bb5f50730f8efbf53",
+    "v": 4
+  },
   "pins_before": [
     "3c528bae8c284d6cbef6b11841b8b73fd4d4a115"
   ],

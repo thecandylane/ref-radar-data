@@ -19,11 +19,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -36,7 +36,7 @@
   "facts": {
     "lang": "Rust",
     "license": "AGPL-3.0",
-    "stars": 130911,
+    "stars": 131145,
     "size_mb": 88,
     "created_at": "2020-09-28T15:36:08Z",
     "last_commit_at": "2026-11-23T09:38:04Z",
@@ -61,6 +61,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "be181a9d182491a5859fc1bf3ced99bc5aa86a8c",
+    "v": 4
+  },
   "pins_before": [
     "c50ae975128e3061ee5c209f4eb8fb4a2605380f"
   ],

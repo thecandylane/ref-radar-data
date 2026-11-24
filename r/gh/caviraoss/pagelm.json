@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:18f54d4629552eb462cf6a1d55e0b2f0bbd21d3f"
+  },
   "id": "gh:caviraoss/pagelm",
   "kind": "repo",
   "url": "https://github.com/CaviraOSS/PageLM",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 2071,
+    "stars": 2072,
     "size_mb": 30,
     "created_at": "2025-08-31T16:17:31Z",
     "last_commit_at": "2026-11-15T10:26:26Z",
@@ -56,5 +59,10 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "18f54d4629552eb462cf6a1d55e0b2f0bbd21d3f",
+    "v": 4
+  },
   "pinned_at": "2026-11-15T10:26:26Z"
 }

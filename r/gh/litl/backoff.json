@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d82b23c42d7a7e2402903e71e7a7f03014a00076"
+  },
+  "id": "gh:litl/backoff",
+  "kind": "repo",
+  "url": "https://github.com/litl/backoff",
+  "title": "litl/backoff",
+  "why": "Retries unreliable calls through decorators with expo, fibo or runtime-computed waits, for sync functions and asyncio coroutines alike.",
+  "keys": {
+    "races": [
+      "practice/reliability"
+    ],
+    "lanes": [
+      "practice/reliability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/litl/backoff",
+    "sha": "d82b23c42d7a7e2402903e71e7a7f03014a00076",
+    "file_url": "https://cdn.jsdelivr.net/gh/litl/backoff@d82b23c42d7a7e2402903e71e7a7f03014a00076/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 2694,
+    "size_mb": 0,
+    "created_at": "2014-05-13T16:23:01Z",
+    "last_commit_at": "2023-01-20T19:02:28Z",
+    "releases": 27,
+    "tags": 36,
+    "archived": true,
+    "release": {
+      "tag": "v2.2.1",
+      "at": "2022-10-05T19:18:56.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d82b23c42d7a7e2402903e71e7a7f03014a00076",
+    "v": 4
+  },
+  "pinned_at": "2023-01-20T19:02:28Z"
+}

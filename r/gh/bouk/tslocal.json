@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:28ad0a55d3d5340d3e8e1e67fd8f3d8da42443ac"
+  },
   "id": "gh:bouk/tslocal",
   "kind": "repo",
   "url": "https://github.com/bouk/tslocal",
@@ -17,11 +20,11 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
+      "locator": "cmd",
       "kind": "path"
     },
     {
-      "locator": "cmd",
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -56,5 +59,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "28ad0a55d3d5340d3e8e1e67fd8f3d8da42443ac",
+    "v": 4
+  },
   "pinned_at": "2026-06-03T12:49:28Z"
 }

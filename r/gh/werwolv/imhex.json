@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:a761d24e41b269dd2bce18f5218accfabac4684a"
+    "swh": "swh:1:rev:53621e7c5f40f7d4dd6df3a9c3547e9884dbde6b"
   },
   "id": "gh:werwolv/imhex",
   "kind": "repo",
@@ -34,16 +34,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/WerWolv/ImHex",
-    "sha": "a761d24e41b269dd2bce18f5218accfabac4684a",
-    "file_url": "https://cdn.jsdelivr.net/gh/WerWolv/ImHex@a761d24e41b269dd2bce18f5218accfabac4684a/{path}"
+    "sha": "53621e7c5f40f7d4dd6df3a9c3547e9884dbde6b",
+    "file_url": "https://cdn.jsdelivr.net/gh/WerWolv/ImHex@53621e7c5f40f7d4dd6df3a9c3547e9884dbde6b/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "GPL-2.0",
-    "stars": 56014,
+    "stars": 56028,
     "size_mb": 52,
     "created_at": "2020-11-10T14:27:00Z",
-    "last_commit_at": "2026-11-15T17:00:35Z",
+    "last_commit_at": "2026-11-23T23:52:06Z",
     "releases": 82,
     "tags": 82,
     "archived": false,
@@ -60,14 +60,20 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 128,
+    "star_delta_7d": 127,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "53621e7c5f40f7d4dd6df3a9c3547e9884dbde6b",
+    "v": 4
+  },
   "pins_before": [
+    "a761d24e41b269dd2bce18f5218accfabac4684a",
     "34483cb90527cd71c92049ef3b1b2cc27936a1d4"
   ],
-  "pinned_at": "2026-11-15T17:00:35Z",
+  "pinned_at": "2026-11-23T23:52:06Z",
   "hot": true
 }

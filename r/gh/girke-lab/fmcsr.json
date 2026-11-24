@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3f6f44f4d742df9f49492a577fa826d4a72de0dc"
+  },
+  "id": "gh:girke-lab/fmcsr",
+  "kind": "repo",
+  "url": "https://github.com/girke-lab/fmcsR",
+  "title": "fmcsR",
+  "why": "Finds flexible common substructures between two small molecules, allowing atom and bond mismatches, for similarity search and clustering.",
+  "keys": {
+    "races": [
+      "engineering/chemistry"
+    ],
+    "lanes": [
+      "engineering/chemistry"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/girke-lab/fmcsR",
+    "sha": "3f6f44f4d742df9f49492a577fa826d4a72de0dc",
+    "file_url": "https://cdn.jsdelivr.net/gh/girke-lab/fmcsR@3f6f44f4d742df9f49492a577fa826d4a72de0dc/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "none",
+    "stars": 6,
+    "size_mb": 0,
+    "created_at": "2014-03-03T19:40:06Z",
+    "last_commit_at": "2016-01-04T15:36:10Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "3f6f44f4d742df9f49492a577fa826d4a72de0dc",
+    "v": 4
+  },
+  "pinned_at": "2016-01-04T15:36:10Z"
+}

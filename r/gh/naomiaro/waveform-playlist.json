@@ -17,11 +17,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "packages",
       "kind": "path"
     },
     {
-      "locator": "packages",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -34,12 +34,12 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 1695,
+    "stars": 1696,
     "size_mb": 82,
     "created_at": "2013-02-12T00:37:03Z",
-    "last_commit_at": "2026-11-16T01:31:52Z",
+    "last_commit_at": "2026-11-24T01:41:44Z",
     "releases": 132,
-    "tags": 143,
+    "tags": 144,
     "archived": false,
     "release": {
       "tag": "transport-engine-improvements",
@@ -59,6 +59,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "fa05cb7457ca11e388d09f400970a0ac653da3aa",
     "v": 4

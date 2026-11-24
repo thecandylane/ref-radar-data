@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6f06297fe2cdeaf7bfb595e402420ff1bcab714d"
+  },
+  "id": "gh:revarbat/snappy-reprap",
+  "kind": "repo",
+  "url": "https://github.com/revarbat/snappy-reprap",
+  "title": "snappy-reprap",
+  "why": "Parametric OpenSCAD design for a self-replicating printer that snaps together, where the Makefile regenerates every STL part.",
+  "keys": {
+    "races": [
+      "industrial/3d-printing",
+      "engineering/cad"
+    ],
+    "lanes": [
+      "industrial/3d-printing",
+      "engineering/cad"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/revarbat/snappy-reprap",
+    "sha": "6f06297fe2cdeaf7bfb595e402420ff1bcab714d",
+    "file_url": "https://cdn.jsdelivr.net/gh/revarbat/snappy-reprap@6f06297fe2cdeaf7bfb595e402420ff1bcab714d/{path}"
+  },
+  "facts": {
+    "lang": "OpenSCAD",
+    "license": "GPL-2.0",
+    "stars": 533,
+    "size_mb": 158,
+    "created_at": "2014-08-29T06:39:42Z",
+    "last_commit_at": "2019-02-23T07:57:29Z",
+    "releases": 8,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "snappy_3.0.3",
+      "at": "2018-02-02T23:22:20.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6f06297fe2cdeaf7bfb595e402420ff1bcab714d",
+    "v": 4
+  },
+  "pinned_at": "2019-02-23T07:57:29Z"
+}

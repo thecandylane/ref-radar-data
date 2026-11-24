@@ -42,7 +42,7 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 14288,
+    "stars": 14289,
     "size_mb": 239,
     "created_at": "2017-11-01T17:38:03Z",
     "last_commit_at": "2026-11-23T08:13:54Z",
@@ -67,6 +67,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "9d58b7a93550ea9514005be822615a07da6736c5",
+    "v": 4
+  },
   "pins_before": [
     "df1f3f3d5e72769dc639cb6006a7972b168672ce"
   ],

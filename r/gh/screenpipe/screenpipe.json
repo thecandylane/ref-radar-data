@@ -19,10 +19,6 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "packages",
       "kind": "path"
     },
@@ -32,6 +28,10 @@
     },
     {
       "locator": "apps",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -44,16 +44,16 @@
   "facts": {
     "lang": "Rust",
     "license": "NOASSERTION",
-    "stars": 22511,
-    "size_mb": 701,
+    "stars": 22525,
+    "size_mb": 702,
     "created_at": "2024-06-19T13:23:56Z",
-    "last_commit_at": "2026-11-19T17:56:12Z",
-    "releases": 505,
-    "tags": 573,
+    "last_commit_at": "2026-11-24T02:27:17Z",
+    "releases": 507,
+    "tags": 575,
     "archived": false,
     "release": {
-      "tag": "app-v2.7.145",
-      "at": "2026-11-06T23:39:45.000Z"
+      "tag": "app-v2.7.153",
+      "at": "2026-11-23T21:52:44.000Z"
     }
   },
   "reuse": "copy",
@@ -64,11 +64,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 119,
+    "star_delta_7d": 116,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b2f787a8463478f8548f36a87204c8788ecf8b1a",
+    "v": 4
+  },
   "pins_before": [
     "68689f8350f59bf414be41d022d9182bde2e1417"
   ],

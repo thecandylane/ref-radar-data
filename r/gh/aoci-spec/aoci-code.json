@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:5be709e62d93861f56257e7ee7066f5d64d576c3"
+  },
   "id": "gh:aoci-spec/aoci-code",
   "kind": "repo",
   "url": "https://github.com/aoci-spec/aoci-code",
@@ -23,15 +26,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "internal",
       "kind": "path"
     },
     {
       "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -44,12 +47,12 @@
   "facts": {
     "lang": "Go",
     "license": "NOASSERTION",
-    "stars": 2947,
-    "size_mb": 10,
+    "stars": 2991,
+    "size_mb": 11,
     "created_at": "2026-08-08T11:33:08Z",
-    "last_commit_at": "2026-11-21T16:27:38Z",
-    "releases": 28,
-    "tags": 28,
+    "last_commit_at": "2026-11-23T21:17:48Z",
+    "releases": 29,
+    "tags": 29,
     "archived": false,
     "release": {
       "tag": "v0.1.1",
@@ -64,11 +67,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 1019,
+    "star_delta_7d": 1058,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "5be709e62d93861f56257e7ee7066f5d64d576c3",
     "v": 4

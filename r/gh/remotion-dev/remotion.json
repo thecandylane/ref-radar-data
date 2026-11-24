@@ -19,11 +19,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "packages",
       "kind": "path"
     },
     {
-      "locator": "packages",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -36,16 +36,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 75074,
-    "size_mb": 4372,
+    "stars": 75303,
+    "size_mb": 4373,
     "created_at": "2020-06-23T19:49:10Z",
-    "last_commit_at": "2026-11-23T09:33:13Z",
-    "releases": 704,
-    "tags": 939,
+    "last_commit_at": "2026-11-24T09:37:16Z",
+    "releases": 705,
+    "tags": 940,
     "archived": false,
     "release": {
-      "tag": "v4.0.545",
-      "at": "2026-11-18T10:29:30.000Z"
+      "tag": "v4.0.546",
+      "at": "2026-11-23T09:58:25.000Z"
     }
   },
   "reuse": "copy",
@@ -61,6 +61,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "970849fc1921ed7e0c3175132fe9580e8875ab2f",
+    "v": 4
+  },
   "pins_before": [
     "5e61f9ac09f46f140b65622f6b5c21c37b9533e0"
   ],

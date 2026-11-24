@@ -33,13 +33,13 @@
     "stars": 8388,
     "size_mb": 29,
     "created_at": "2014-10-03T23:18:42Z",
-    "last_commit_at": "2026-11-23T08:49:35Z",
-    "releases": 318,
-    "tags": 515,
+    "last_commit_at": "2026-11-24T08:55:35Z",
+    "releases": 319,
+    "tags": 516,
     "archived": false,
     "release": {
-      "tag": "v2026.11.16.00",
-      "at": "2026-11-16T16:17:12.000Z"
+      "tag": "v2026.11.23.00",
+      "at": "2026-11-23T16:10:30.000Z"
     }
   },
   "reuse": "copy",
@@ -55,6 +55,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "afff35c79aa93822adf8104ddee766eb3303179b",
+    "v": 4
+  },
   "pins_before": [
     "3dff40f55a0edf475703dab7013dfe1993fbf510"
   ],

@@ -20,10 +20,6 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
-      "kind": "path"
-    },
-    {
       "locator": "internal",
       "kind": "path"
     },
@@ -33,6 +29,10 @@
     },
     {
       "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -45,7 +45,7 @@
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 18484,
+    "stars": 18491,
     "size_mb": 24,
     "created_at": "2019-06-21T21:11:35Z",
     "last_commit_at": "2026-10-23T03:02:06Z",
@@ -65,11 +65,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 29,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "3ad8b20fb02b5bea81591b673da0758b8685d951",
     "v": 3

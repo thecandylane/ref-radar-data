@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:74e8d15f28aeed93ca0204e1ddf3db93b988d3a3"
+  },
+  "id": "gh:hansenlab/tricycle",
+  "kind": "repo",
+  "url": "https://github.com/hansenlab/tricycle",
+  "title": "tricycle",
+  "why": "Bioconductor R package installed with BiocManager, and its README stops at the install step before showing any analysis.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hansenlab/tricycle",
+    "sha": "74e8d15f28aeed93ca0204e1ddf3db93b988d3a3",
+    "file_url": "https://cdn.jsdelivr.net/gh/hansenlab/tricycle@74e8d15f28aeed93ca0204e1ddf3db93b988d3a3/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 31,
+    "size_mb": 10,
+    "created_at": "2021-02-15T16:54:24Z",
+    "last_commit_at": "2022-03-18T19:53:26Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "74e8d15f28aeed93ca0204e1ddf3db93b988d3a3",
+    "v": 4
+  },
+  "pinned_at": "2022-03-18T19:53:26Z"
+}

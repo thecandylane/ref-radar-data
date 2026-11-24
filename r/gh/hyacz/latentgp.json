@@ -1,0 +1,61 @@
+{
+  "id": "gh:hyacz/latentgp",
+  "kind": "repo",
+  "url": "https://github.com/hyacz/LatentGP",
+  "title": "LatentGP",
+  "why": "Fits a genotype GP model with a memory-efficient kernel in PyTorch, scores it by AUC on simulated phenotypes, and monitors GPU peak memory.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "ml/training"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hyacz/LatentGP",
+    "sha": "cb20727b52b8f8911401e7226fd4e76a512c5ebc",
+    "file_url": "https://cdn.jsdelivr.net/gh/hyacz/LatentGP@cb20727b52b8f8911401e7226fd4e76a512c5ebc/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2026-04-13T02:20:21Z",
+    "last_commit_at": "2026-11-21T02:46:15Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "cb20727b52b8f8911401e7226fd4e76a512c5ebc",
+    "v": 4
+  },
+  "pinned_at": "2026-11-21T02:46:15Z"
+}

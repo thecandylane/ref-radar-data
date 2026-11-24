@@ -15,11 +15,11 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -32,7 +32,7 @@
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 4308,
+    "stars": 4310,
     "size_mb": 14,
     "created_at": "2018-10-16T16:19:58Z",
     "last_commit_at": "2026-11-13T15:22:39Z",
@@ -57,6 +57,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "ea74003d68e3ff3104790a6363969c86be8a599c",
     "v": 4

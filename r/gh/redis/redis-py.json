@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:5b0e1e4529065ad6e0ff0d95d0de773b5b83758a"
+  },
   "id": "gh:redis/redis-py",
   "kind": "repo",
   "url": "https://github.com/redis/redis-py",
@@ -37,7 +40,7 @@
     "stars": 13668,
     "size_mb": 18,
     "created_at": "2009-11-06T10:22:26Z",
-    "last_commit_at": "2026-11-20T18:34:22Z",
+    "last_commit_at": "2026-11-23T16:44:44Z",
     "releases": 108,
     "tags": 159,
     "archived": false,
@@ -59,6 +62,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "5b0e1e4529065ad6e0ff0d95d0de773b5b83758a",
     "v": 4

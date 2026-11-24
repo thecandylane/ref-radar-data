@@ -1,0 +1,75 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9fb4da03e1bf227571001f0f54b51bc656a84aba"
+  },
+  "id": "gh:giacomocavalcabo/swarm-simulation-toolkit",
+  "kind": "repo",
+  "url": "https://github.com/giacomocavalcabo/swarm-simulation-toolkit",
+  "title": "swarm-simulation-toolkit",
+  "why": "Simulates a drone swarm where a human decision queue gates proposed actions, with sweep runners and analysis scripts for batch runs.",
+  "keys": {
+    "races": [
+      "agents/orchestration"
+    ],
+    "lanes": [
+      "agents/orchestration"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/giacomocavalcabo/swarm-simulation-toolkit",
+    "sha": "9fb4da03e1bf227571001f0f54b51bc656a84aba",
+    "file_url": "https://cdn.jsdelivr.net/gh/giacomocavalcabo/swarm-simulation-toolkit@9fb4da03e1bf227571001f0f54b51bc656a84aba/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 1,
+    "created_at": "2025-11-11T14:50:37Z",
+    "last_commit_at": "2026-09-11T11:12:03Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2025-11-16T18:28:11.000Z"
+    },
+    "doi": "10.5281/zenodo.17624587",
+    "citations": {
+      "count": 2,
+      "by": "DataCite",
+      "at": "2026-11-24"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "9fb4da03e1bf227571001f0f54b51bc656a84aba",
+    "v": 4
+  },
+  "pinned_at": "2026-09-11T11:12:03Z"
+}

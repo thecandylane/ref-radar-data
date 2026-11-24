@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2f5ca87331d85898802d8e0517087c478fb5a003"
+  },
+  "id": "gh:isee/iseeu",
+  "kind": "repo",
+  "url": "https://github.com/iSEE/iSEEu",
+  "title": "iSEEu",
+  "why": "Adds custom panels and preconfigured modes to the iSEE app, installed from Bioconductor with BiocManager.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/iSEE/iSEEu",
+    "sha": "2f5ca87331d85898802d8e0517087c478fb5a003",
+    "file_url": "https://cdn.jsdelivr.net/gh/iSEE/iSEEu@2f5ca87331d85898802d8e0517087c478fb5a003/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "MIT",
+    "stars": 9,
+    "size_mb": 8,
+    "created_at": "2019-11-25T08:28:09Z",
+    "last_commit_at": "2025-10-29T14:58:30Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "2f5ca87331d85898802d8e0517087c478fb5a003",
+    "v": 4
+  },
+  "pinned_at": "2025-10-29T14:58:30Z"
+}

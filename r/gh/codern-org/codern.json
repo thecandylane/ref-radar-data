@@ -1,0 +1,63 @@
+{
+  "id": "gh:codern-org/codern",
+  "kind": "repo",
+  "url": "https://github.com/codern-org/codern",
+  "title": "codern",
+  "why": "Grades submissions against testcase files through a RabbitMQ consumer, with workspaces and assignment scoring behind it.",
+  "keys": {
+    "races": [
+      "learning/autograding"
+    ],
+    "lanes": [
+      "learning/autograding"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/codern-org/codern",
+    "sha": "dff5c485931f407ef8379c41f7979c657f8a7480",
+    "file_url": "https://cdn.jsdelivr.net/gh/codern-org/codern@dff5c485931f407ef8379c41f7979c657f8a7480/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "none",
+    "stars": 29,
+    "size_mb": 0,
+    "created_at": "2023-07-30T07:04:24Z",
+    "last_commit_at": "2026-11-11T03:08:28Z",
+    "releases": 0,
+    "tags": 14,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "dff5c485931f407ef8379c41f7979c657f8a7480",
+    "v": 4
+  },
+  "pinned_at": "2026-11-11T03:08:28Z"
+}

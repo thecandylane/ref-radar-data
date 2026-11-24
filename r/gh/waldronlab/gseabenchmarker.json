@@ -1,0 +1,61 @@
+{
+  "id": "gh:waldronlab/gseabenchmarker",
+  "kind": "repo",
+  "url": "https://github.com/waldronlab/GSEABenchmarkeR",
+  "title": "GSEABenchmarkeR",
+  "why": "Benchmarks set- and network-based enrichment analysis methods on microarray and RNA-seq compendia, in parallel, scoring runtime and significance.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/waldronlab/GSEABenchmarkeR",
+    "sha": "e707f2ec1727f85141f9525d8369a44686909549",
+    "file_url": "https://cdn.jsdelivr.net/gh/waldronlab/GSEABenchmarkeR@e707f2ec1727f85141f9525d8369a44686909549/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 14,
+    "size_mb": 1,
+    "created_at": "2017-11-20T22:30:51Z",
+    "last_commit_at": "2026-11-05T13:22:17Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e707f2ec1727f85141f9525d8369a44686909549",
+    "v": 4
+  },
+  "pinned_at": "2026-11-05T13:22:17Z"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "gh:cropbox/cropbox.jl",
+  "kind": "repo",
+  "url": "https://github.com/cropbox/Cropbox.jl",
+  "title": "Cropbox.jl",
+  "why": "Julia crop model package whose webapi example wraps model calls in an MCP adapter for agent use.",
+  "keys": {
+    "races": [
+      "agriculture/crop-models"
+    ],
+    "lanes": [
+      "agriculture/crop-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cropbox/Cropbox.jl",
+    "sha": "a8168004c58f3954b929eecca1e88538b52dc9cb",
+    "file_url": "https://cdn.jsdelivr.net/gh/cropbox/Cropbox.jl@a8168004c58f3954b929eecca1e88538b52dc9cb/{path}"
+  },
+  "facts": {
+    "lang": "Julia",
+    "license": "MIT",
+    "stars": 26,
+    "size_mb": 39,
+    "created_at": "2019-07-30T00:08:05Z",
+    "last_commit_at": "2026-11-24T04:08:59Z",
+    "releases": 5,
+    "tags": 74,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.3",
+      "at": "2026-11-20T16:56:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "a8168004c58f3954b929eecca1e88538b52dc9cb",
+    "v": 4
+  }
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:db533ce2ee5e9e60ed8fbe735a13fcd55e96539d"
+  },
   "id": "gh:trinodb/trino",
   "kind": "repo",
   "url": "https://github.com/trinodb/trino",
@@ -19,11 +22,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "lib",
       "kind": "path"
     },
     {
-      "locator": "lib",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -36,10 +39,10 @@
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 13540,
+    "stars": 13541,
     "size_mb": 326,
     "created_at": "2019-01-19T06:38:14Z",
-    "last_commit_at": "2026-11-23T08:55:09Z",
+    "last_commit_at": "2026-11-24T08:31:06Z",
     "releases": 8,
     "tags": 419,
     "archived": false,
@@ -56,11 +59,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 27,
+    "star_delta_7d": 21,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "db533ce2ee5e9e60ed8fbe735a13fcd55e96539d",
+    "v": 4
+  },
   "pins_before": [
     "83a37cddec854140afe7fa0b9f5adf49d3faa8c4"
   ],

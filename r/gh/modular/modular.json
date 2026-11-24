@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:4224c14a822b5fd5438b23a40d4ab0b822d1cc17"
+  },
   "id": "gh:modular/modular",
   "kind": "repo",
   "url": "https://github.com/modular/modular",
@@ -30,10 +33,10 @@
   "facts": {
     "lang": "Mojo",
     "license": "NOASSERTION",
-    "stars": 30189,
-    "size_mb": 1114,
+    "stars": 30192,
+    "size_mb": 1115,
     "created_at": "2023-04-28T22:17:24Z",
-    "last_commit_at": "2026-11-21T08:19:07Z",
+    "last_commit_at": "2026-11-23T19:05:00Z",
     "releases": 16,
     "tags": 22,
     "archived": false,
@@ -55,6 +58,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "4224c14a822b5fd5438b23a40d4ab0b822d1cc17",
+    "v": 4
+  },
   "pins_before": [
     "2b2fdf54810989d009a3aa1f186fba49504a91ea"
   ],

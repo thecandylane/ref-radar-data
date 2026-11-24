@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:453a2fabf022123bdf0d7ddd55aa93d79d94cf35"
+  },
   "id": "gh:activecm/docker-zeek",
   "kind": "repo",
   "url": "https://github.com/activecm/docker-zeek",
@@ -55,5 +58,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "453a2fabf022123bdf0d7ddd55aa93d79d94cf35",
+    "v": 4
+  },
   "pinned_at": "2026-05-07T02:47:44Z"
 }

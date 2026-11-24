@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:467ce8ebfa467fb88cf6d154c9a5891e3d3647f0"
-  },
   "id": "gh:eugeny/tabby",
   "kind": "repo",
   "url": "https://github.com/Eugeny/tabby",
@@ -37,16 +34,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Eugeny/tabby",
-    "sha": "467ce8ebfa467fb88cf6d154c9a5891e3d3647f0",
-    "file_url": "https://cdn.jsdelivr.net/gh/Eugeny/tabby@467ce8ebfa467fb88cf6d154c9a5891e3d3647f0/{path}"
+    "sha": "dc72f059410a5dd51bfd9ca40242abc9d04579ec",
+    "file_url": "https://cdn.jsdelivr.net/gh/Eugeny/tabby@dc72f059410a5dd51bfd9ca40242abc9d04579ec/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 75539,
+    "stars": 75561,
     "size_mb": 98,
     "created_at": "2016-12-23T09:06:10Z",
-    "last_commit_at": "2026-10-06T21:17:08Z",
+    "last_commit_at": "2026-11-24T00:45:48Z",
     "releases": 212,
     "tags": 250,
     "archived": false,
@@ -68,5 +65,13 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pinned_at": "2026-10-06T21:17:08Z"
+  "drafted": true,
+  "pack": {
+    "sha": "dc72f059410a5dd51bfd9ca40242abc9d04579ec",
+    "v": 4
+  },
+  "pins_before": [
+    "467ce8ebfa467fb88cf6d154c9a5891e3d3647f0"
+  ],
+  "pinned_at": "2026-11-24T00:45:48Z"
 }

@@ -24,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/OpenMathLib/OpenBLAS",
-    "sha": "dbf2c24c9e43ed8f8c12f32837a2f87fab848e97",
-    "file_url": "https://raw.githubusercontent.com/OpenMathLib/OpenBLAS/dbf2c24c9e43ed8f8c12f32837a2f87fab848e97/{path}"
+    "sha": "94e4d2f555b06b5d2b16f77bf5bdad1b7d4989fb",
+    "file_url": "https://raw.githubusercontent.com/OpenMathLib/OpenBLAS/94e4d2f555b06b5d2b16f77bf5bdad1b7d4989fb/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "BSD-3-Clause",
-    "stars": 7697,
+    "stars": 7698,
     "size_mb": 76,
     "created_at": "2011-01-24T06:34:44Z",
-    "last_commit_at": "2026-11-23T08:46:20Z",
+    "last_commit_at": "2026-11-23T22:29:15Z",
     "releases": 49,
     "tags": 70,
     "archived": false,
@@ -55,9 +55,13 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "dbf2c24c9e43ed8f8c12f32837a2f87fab848e97",
+    "sha": "94e4d2f555b06b5d2b16f77bf5bdad1b7d4989fb",
     "v": 4
   },
-  "pinned_at": "2026-11-17T08:52:46Z"
+  "pins_before": [
+    "dbf2c24c9e43ed8f8c12f32837a2f87fab848e97"
+  ],
+  "pinned_at": "2026-11-23T22:29:15Z"
 }

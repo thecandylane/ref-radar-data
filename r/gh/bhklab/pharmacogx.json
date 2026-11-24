@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:5b8c70cd1dabbba8cee9098c695ba4dea6b70fbf"
+  },
   "id": "gh:bhklab/pharmacogx",
   "kind": "repo",
   "url": "https://github.com/bhklab/PharmacoGx",
@@ -56,5 +59,10 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "5b8c70cd1dabbba8cee9098c695ba4dea6b70fbf",
+    "v": 4
+  },
   "pinned_at": "2026-11-20T19:08:40Z"
 }

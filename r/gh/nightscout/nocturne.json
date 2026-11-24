@@ -17,10 +17,6 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "src",
       "kind": "path"
     },
@@ -30,6 +26,10 @@
     },
     {
       "locator": "crates",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -43,9 +43,9 @@
     "lang": "C#",
     "license": "none",
     "stars": 171,
-    "size_mb": 218,
+    "size_mb": 230,
     "created_at": "2025-11-15T17:41:39Z",
-    "last_commit_at": "2026-11-23T08:46:41Z",
+    "last_commit_at": "2026-11-24T09:31:10Z",
     "releases": 18,
     "tags": 27,
     "archived": false,
@@ -67,6 +67,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "30ee1f282cf87a2d115def3e9f7477af952c0d67",
     "v": 4

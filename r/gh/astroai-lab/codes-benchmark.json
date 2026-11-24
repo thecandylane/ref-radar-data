@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:8d785bdd216d34cc459d88164d6ada346bfe9025"
+  },
   "id": "gh:astroai-lab/codes-benchmark",
   "kind": "repo",
   "url": "https://github.com/AstroAI-Lab/CODES-Benchmark",
@@ -55,5 +58,24 @@
     "ranks": {}
   },
   "tier": "discovered",
-  "pinned_at": "2026-11-06T21:07:09Z"
+  "drafted": true,
+  "pack": {
+    "sha": "8d785bdd216d34cc459d88164d6ada346bfe9025",
+    "v": 4
+  },
+  "pinned_at": "2026-11-06T21:07:09Z",
+  "papers": [
+    {
+      "id": "arxiv:2603.08567",
+      "via": [
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2410.20886",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
 }

@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:babbf42b210cd0eb5af989cdd33eebbf9164f250"
+  },
+  "id": "gh:nullranges/nullranges",
+  "kind": "repo",
+  "url": "https://github.com/nullranges/nullranges",
+  "title": "nullranges",
+  "why": "Builds null genomic ranges by block bootstrapping or covariate matching, so overlap tests against a focal set have a fair baseline.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nullranges/nullranges",
+    "sha": "babbf42b210cd0eb5af989cdd33eebbf9164f250",
+    "file_url": "https://cdn.jsdelivr.net/gh/nullranges/nullranges@babbf42b210cd0eb5af989cdd33eebbf9164f250/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 29,
+    "size_mb": 29,
+    "created_at": "2020-12-18T21:59:59Z",
+    "last_commit_at": "2026-08-20T14:25:49Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "babbf42b210cd0eb5af989cdd33eebbf9164f250",
+    "v": 4
+  },
+  "pinned_at": "2026-08-20T14:25:49Z"
+}

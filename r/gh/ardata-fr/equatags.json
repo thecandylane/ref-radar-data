@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:e60ec9b4e200d8755f2ed424f8a3700a7b25051a"
+  },
   "id": "gh:ardata-fr/equatags",
   "kind": "repo",
   "url": "https://github.com/ardata-fr/equatags",
@@ -50,5 +53,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e60ec9b4e200d8755f2ed424f8a3700a7b25051a",
+    "v": 4
+  },
   "pinned_at": "2026-11-15T18:03:25Z"
 }

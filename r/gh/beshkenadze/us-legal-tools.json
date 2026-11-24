@@ -1,0 +1,72 @@
+{
+  "id": "gh:beshkenadze/us-legal-tools",
+  "kind": "repo",
+  "url": "https://github.com/beshkenadze/us-legal-tools",
+  "title": "us-legal-tools",
+  "why": "Five TypeScript SDKs for federal legal APIs, each with an MCP server so an assistant can query regulations, opinions and bills.",
+  "keys": {
+    "races": [
+      "legal/case-law",
+      "civic/legislative-data",
+      "agents/tools"
+    ],
+    "lanes": [
+      "legal/case-law",
+      "civic/legislative-data",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/beshkenadze/us-legal-tools",
+    "sha": "cdec243b47f3c159c27d9504599e6bfc4c689dcf",
+    "file_url": "https://cdn.jsdelivr.net/gh/beshkenadze/us-legal-tools@cdec243b47f3c159c27d9504599e6bfc4c689dcf/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 16,
+    "size_mb": 1,
+    "created_at": "2025-07-18T14:21:55Z",
+    "last_commit_at": "2025-08-06T12:07:35Z",
+    "releases": 3,
+    "tags": 20,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.0",
+      "at": "2025-07-20T15:24:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "cdec243b47f3c159c27d9504599e6bfc4c689dcf",
+    "v": 4
+  },
+  "pinned_at": "2025-08-06T12:07:35Z"
+}

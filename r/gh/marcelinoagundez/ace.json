@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ab044c889072cbbcbb360114ba48b14368fb5928"
+  },
+  "id": "gh:marcelinoagundez/ace",
+  "kind": "repo",
+  "url": "https://github.com/marcelinoagundez/ace",
+  "title": "ace",
+  "why": "Feed it a pressure-temperature profile and it returns the equilibrium mix of gas and condensed species, based on the NASA/CEA algorithm.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "engineering/process"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "engineering/process"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/marcelinoagundez/ace",
+    "sha": "ab044c889072cbbcbb360114ba48b14368fb5928",
+    "file_url": "https://cdn.jsdelivr.net/gh/marcelinoagundez/ace@ab044c889072cbbcbb360114ba48b14368fb5928/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "GPL-3.0",
+    "stars": 2,
+    "size_mb": 0,
+    "created_at": "2025-03-26T11:34:47Z",
+    "last_commit_at": "2025-07-18T10:40:31Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ab044c889072cbbcbb360114ba48b14368fb5928",
+    "v": 4
+  },
+  "pinned_at": "2025-07-18T10:40:31Z"
+}

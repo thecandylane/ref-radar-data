@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d68a721b7432059c9056d546ff2a26b11b3c0e0c"
+  },
   "id": "gh:chipfighter/context-attachment-manager",
   "kind": "repo",
   "url": "https://github.com/chipfighter/context-attachment-manager",
@@ -57,5 +60,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d68a721b7432059c9056d546ff2a26b11b3c0e0c",
+    "v": 4
+  }
 }

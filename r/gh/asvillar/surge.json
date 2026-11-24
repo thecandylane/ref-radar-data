@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:3857dbfa59adfda30517b4f4fef51227a74890ae"
+  },
   "id": "gh:asvillar/surge",
   "kind": "repo",
   "url": "https://github.com/asvillar/SURGE",
@@ -54,5 +57,10 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "3857dbfa59adfda30517b4f4fef51227a74890ae",
+    "v": 4
+  },
   "pinned_at": "2026-11-05T03:09:57Z"
 }

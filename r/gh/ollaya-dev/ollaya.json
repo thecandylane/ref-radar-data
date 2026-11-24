@@ -22,11 +22,11 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
+      "locator": "crates",
       "kind": "path"
     },
     {
-      "locator": "crates",
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -59,11 +59,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8,
+    "star_delta_7d": 5,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "d3cf29fa9f68dc370860f914052e96a659afa785",
     "v": 3

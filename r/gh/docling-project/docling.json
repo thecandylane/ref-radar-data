@@ -17,11 +17,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "packages",
       "kind": "path"
     },
     {
-      "locator": "packages",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -34,16 +34,16 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 70902,
-    "size_mb": 473,
+    "stars": 70951,
+    "size_mb": 472,
     "created_at": "2024-07-09T07:50:26Z",
-    "last_commit_at": "2026-11-23T06:06:16Z",
-    "releases": 242,
-    "tags": 243,
+    "last_commit_at": "2026-11-24T06:09:44Z",
+    "releases": 243,
+    "tags": 244,
     "archived": false,
     "release": {
-      "tag": "v2.151.1",
-      "at": "2026-11-19T15:27:09.000Z"
+      "tag": "v2.152.0",
+      "at": "2026-11-23T13:29:58.000Z"
     }
   },
   "reuse": "copy",
@@ -54,11 +54,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 264,
+    "star_delta_7d": 266,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "f34edd2f6db2ef7c7b48d508a98af5d1a03965e7",
     "v": 4

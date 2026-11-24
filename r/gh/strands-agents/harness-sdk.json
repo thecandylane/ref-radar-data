@@ -30,16 +30,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 9275,
-    "size_mb": 382,
+    "stars": 9283,
+    "size_mb": 410,
     "created_at": "2025-05-14T19:59:51Z",
-    "last_commit_at": "2026-11-20T21:35:43Z",
-    "releases": 151,
-    "tags": 248,
+    "last_commit_at": "2026-11-23T21:23:34Z",
+    "releases": 153,
+    "tags": 250,
     "archived": false,
     "release": {
-      "tag": "harness-typescript/v0.5.0",
-      "at": "2026-11-19T22:12:35.000Z"
+      "tag": "harness-python/v0.5.0",
+      "at": "2026-11-23T17:42:32.000Z"
     }
   },
   "reuse": "copy",
@@ -50,11 +50,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 52,
+    "star_delta_7d": 50,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d6c5fae7c6c23452b711d021f4a6c724b387df05",
+    "v": 4
+  },
   "pins_before": [
     "4330e2268ac24483a3753fcdfc4dfbea1707a5e2"
   ],

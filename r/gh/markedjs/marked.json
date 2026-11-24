@@ -18,11 +18,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -35,16 +35,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 37324,
+    "stars": 37323,
     "size_mb": 11,
     "created_at": "2011-07-24T13:15:51Z",
-    "last_commit_at": "2026-11-23T06:31:24Z",
-    "releases": 189,
-    "tags": 229,
+    "last_commit_at": "2026-11-24T02:51:15Z",
+    "releases": 190,
+    "tags": 230,
     "archived": false,
     "release": {
-      "tag": "v18.2.1",
-      "at": "2026-11-16T17:20:46.000Z"
+      "tag": "v18.3.0",
+      "at": "2026-11-24T02:51:23.000Z"
     }
   },
   "reuse": "copy",
@@ -55,11 +55,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 18,
+    "star_delta_7d": 16,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "738ebebc835ebc97fe82e3321bc7f91f638c531f",
     "v": 3

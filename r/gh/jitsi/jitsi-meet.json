@@ -1,0 +1,71 @@
+{
+  "id": "gh:jitsi/jitsi-meet",
+  "kind": "repo",
+  "url": "https://github.com/jitsi/jitsi-meet",
+  "title": "jitsi-meet",
+  "why": "Runs video conferencing in the browser or as Android and iOS apps, with Debian packages and Docker for your own instance.",
+  "keys": {
+    "races": [
+      "media/video",
+      "infra/hosting",
+      "mobile/android",
+      "mobile/ios"
+    ],
+    "lanes": [
+      "media/video",
+      "infra/hosting",
+      "mobile/android",
+      "mobile/ios"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jitsi/jitsi-meet",
+    "sha": "7787f4ba1021bba6406d8531c102e06e56986839",
+    "file_url": "https://raw.githubusercontent.com/jitsi/jitsi-meet/7787f4ba1021bba6406d8531c102e06e56986839/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 30279,
+    "size_mb": 383,
+    "created_at": "2013-12-16T12:51:09Z",
+    "last_commit_at": "2026-11-24T08:40:07Z",
+    "releases": 89,
+    "tags": 19707,
+    "archived": false,
+    "release": {
+      "tag": "stable/jitsi-meet_11509",
+      "at": "2026-11-16T14:28:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "7787f4ba1021bba6406d8531c102e06e56986839",
+    "v": 4
+  },
+  "pins_before": [
+    "d472147b2d54fc8a909851a1e7d30698804d270e"
+  ],
+  "pinned_at": "2026-11-24T08:40:07Z"
+}

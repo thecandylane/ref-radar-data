@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d7d65125e8469c63d84b7670ad645f997825ff3f"
+  },
   "id": "gh:ankimcp/anki-mcp-server",
   "kind": "repo",
   "url": "https://github.com/ankimcp/anki-mcp-server",
@@ -19,11 +22,11 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -36,7 +39,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 576,
+    "stars": 577,
     "size_mb": 5,
     "created_at": "2025-09-29T20:06:25Z",
     "last_commit_at": "2026-11-07T19:18:42Z",
@@ -61,5 +64,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d7d65125e8469c63d84b7670ad645f997825ff3f",
+    "v": 4
+  },
   "pinned_at": "2026-11-07T19:18:42Z"
 }

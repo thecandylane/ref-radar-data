@@ -1,0 +1,74 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fbd05796c800d7d8d13db35e136a8dcb6a7ad9c6"
+  },
+  "id": "gh:julienpeloton/lenscov",
+  "kind": "repo",
+  "url": "https://github.com/JulienPeloton/lenscov",
+  "title": "lenscov",
+  "why": "Computes lensed CMB spectra, N0 and N1 biases and the covariances between CMB and lensing power spectra, parallelised with mpi4py.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/JulienPeloton/lenscov",
+    "sha": "fbd05796c800d7d8d13db35e136a8dcb6a7ad9c6",
+    "file_url": "https://cdn.jsdelivr.net/gh/JulienPeloton/lenscov@fbd05796c800d7d8d13db35e136a8dcb6a7ad9c6/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "GPL-3.0",
+    "stars": 4,
+    "size_mb": 2,
+    "created_at": "2016-12-03T21:23:46Z",
+    "last_commit_at": "2019-03-08T06:35:33Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "fbd05796c800d7d8d13db35e136a8dcb6a7ad9c6",
+    "v": 4
+  },
+  "pinned_at": "2019-03-08T06:35:33Z",
+  "papers": [
+    {
+      "id": "arxiv:1611.01446",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

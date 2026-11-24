@@ -1,0 +1,77 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b1bb4081e4c3d96c29b64dbb9bfd79d2b8e72ae2"
+  },
+  "id": "gh:rodluger/limbdark.jl",
+  "kind": "repo",
+  "url": "https://github.com/rodluger/Limbdark.jl",
+  "title": "Limbdark.jl",
+  "why": "Models stellar transits with closed-form light curves in Mathematica, for stars with limb darkening.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rodluger/Limbdark.jl",
+    "sha": "b1bb4081e4c3d96c29b64dbb9bfd79d2b8e72ae2",
+    "file_url": "https://cdn.jsdelivr.net/gh/rodluger/Limbdark.jl@b1bb4081e4c3d96c29b64dbb9bfd79d2b8e72ae2/{path}"
+  },
+  "facts": {
+    "lang": "Mathematica",
+    "license": "MIT",
+    "stars": 16,
+    "size_mb": 21,
+    "created_at": "2018-04-23T16:28:45Z",
+    "last_commit_at": "2024-06-14T18:27:54Z",
+    "releases": 2,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "AJ",
+      "at": "2019-10-21T20:39:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b1bb4081e4c3d96c29b64dbb9bfd79d2b8e72ae2",
+    "v": 4
+  },
+  "pinned_at": "2024-06-14T18:27:54Z",
+  "papers": [
+    {
+      "id": "arxiv:1908.03222",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

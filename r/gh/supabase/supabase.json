@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c3a7e1019e76c1cb05d5b1a659db6748714af499"
+  },
   "id": "gh:supabase/supabase",
   "kind": "repo",
   "url": "https://github.com/supabase/supabase",
@@ -21,15 +24,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "packages",
       "kind": "path"
     },
     {
       "locator": "apps",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -42,12 +45,12 @@
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 115378,
+    "stars": 115324,
     "size_mb": 2473,
     "created_at": "2019-10-12T05:56:49Z",
-    "last_commit_at": "2026-11-23T09:38:29Z",
+    "last_commit_at": "2026-11-24T09:23:50Z",
     "releases": 30,
-    "tags": 64,
+    "tags": 65,
     "archived": false,
     "release": {
       "tag": "v1.26.08",
@@ -62,11 +65,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 298,
+    "star_delta_7d": 240,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c3a7e1019e76c1cb05d5b1a659db6748714af499",
+    "v": 4
+  },
   "pins_before": [
     "6fcdcdca9acbac1882c1fa205495d04fa7194435"
   ],

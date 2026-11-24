@@ -15,15 +15,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "pkg",
       "kind": "path"
     },
     {
       "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -36,12 +36,12 @@
   "facts": {
     "lang": "Go",
     "license": "AGPL-3.0",
-    "stars": 5284,
+    "stars": 5286,
     "size_mb": 652,
     "created_at": "2021-07-13T14:34:08Z",
-    "last_commit_at": "2026-11-23T05:27:35Z",
+    "last_commit_at": "2026-11-24T07:41:22Z",
     "releases": 124,
-    "tags": 514,
+    "tags": 515,
     "archived": false,
     "release": {
       "tag": "mimir-3.2.6",
@@ -56,11 +56,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 2,
+    "star_delta_7d": 4,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "740991af4db25255c7382504a2325d9ce1a53d71",
     "v": 4

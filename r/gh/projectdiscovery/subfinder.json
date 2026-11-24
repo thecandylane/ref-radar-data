@@ -40,10 +40,10 @@
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 14849,
+    "stars": 14854,
     "size_mb": 10,
     "created_at": "2018-03-31T09:44:57Z",
-    "last_commit_at": "2026-11-22T14:09:35Z",
+    "last_commit_at": "2026-11-23T16:27:51Z",
     "releases": 63,
     "tags": 64,
     "archived": false,
@@ -65,6 +65,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "22bd5b6822a996a712417746ccf6ea7c427ee1b6",
+    "v": 4
+  },
   "pins_before": [
     "e708670d4fae547b81471321678552da42fd4f92"
   ],

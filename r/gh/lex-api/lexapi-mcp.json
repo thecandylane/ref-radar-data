@@ -1,0 +1,67 @@
+{
+  "id": "gh:lex-api/lexapi-mcp",
+  "kind": "repo",
+  "url": "https://github.com/Lex-API/lexapi-mcp",
+  "title": "lexapi-mcp",
+  "why": "Lets an agent search and fetch legislation through MCP tools, with OAuth scopes and API keys gating each call.",
+  "keys": {
+    "races": [
+      "civic/legislative-data",
+      "agents/tools"
+    ],
+    "lanes": [
+      "civic/legislative-data",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Lex-API/lexapi-mcp",
+    "sha": "da7386330b8156e728300f7079bd85b982a418cb",
+    "file_url": "https://cdn.jsdelivr.net/gh/Lex-API/lexapi-mcp@da7386330b8156e728300f7079bd85b982a418cb/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 3,
+    "size_mb": 1,
+    "created_at": "2026-06-25T00:46:42Z",
+    "last_commit_at": "2026-11-22T12:24:26Z",
+    "releases": 0,
+    "tags": 7,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "da7386330b8156e728300f7079bd85b982a418cb",
+    "v": 4
+  },
+  "pinned_at": "2026-11-22T12:24:26Z"
+}

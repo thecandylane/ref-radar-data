@@ -26,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Aerya/Dockge-Enhanced",
-    "sha": "d762136d7bcbde82ff7f066b3a5cb23df04ff7a0",
-    "file_url": "https://cdn.jsdelivr.net/gh/Aerya/Dockge-Enhanced@d762136d7bcbde82ff7f066b3a5cb23df04ff7a0/{path}"
+    "sha": "81959811b48a59229f8a83a51a86c82fb8c680db",
+    "file_url": "https://cdn.jsdelivr.net/gh/Aerya/Dockge-Enhanced@81959811b48a59229f8a83a51a86c82fb8c680db/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -35,7 +35,7 @@
     "stars": 169,
     "size_mb": 33,
     "created_at": "2026-03-27T14:35:22Z",
-    "last_commit_at": "2026-11-23T05:22:02Z",
+    "last_commit_at": "2026-11-24T05:56:19Z",
     "releases": 1,
     "tags": 1,
     "archived": false,
@@ -54,8 +54,14 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "81959811b48a59229f8a83a51a86c82fb8c680db",
+    "v": 4
+  },
   "pins_before": [
+    "d762136d7bcbde82ff7f066b3a5cb23df04ff7a0",
     "4ff82a8de50c7de66d5fb301159baa89598420ac"
   ],
-  "pinned_at": "2026-11-23T05:22:02Z"
+  "pinned_at": "2026-11-24T05:56:19Z"
 }

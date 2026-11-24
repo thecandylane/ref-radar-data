@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2d725b6649fcef6749c80c364d0d027aba117cb3"
+  },
+  "id": "gh:theislab/ehrapy",
+  "kind": "repo",
+  "url": "https://github.com/theislab/ehrapy",
+  "title": "ehrapy",
+  "why": "Scanpy-style toolkit for health records: imputation and missing data checks, survival and causal models, and deep sequence predictors.",
+  "keys": {
+    "races": [
+      "medicine/ehr",
+      "medicine/clinical-ml",
+      "data/statistics"
+    ],
+    "lanes": [
+      "medicine/ehr",
+      "medicine/clinical-ml",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/theislab/ehrapy",
+    "sha": "2d725b6649fcef6749c80c364d0d027aba117cb3",
+    "file_url": "https://cdn.jsdelivr.net/gh/theislab/ehrapy@2d725b6649fcef6749c80c364d0d027aba117cb3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 374,
+    "size_mb": 198,
+    "created_at": "2021-06-11T13:01:50Z",
+    "last_commit_at": "2026-11-17T20:11:03Z",
+    "releases": 18,
+    "tags": 19,
+    "archived": false,
+    "release": {
+      "tag": "v0.16.0",
+      "at": "2026-11-02T20:37:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "2d725b6649fcef6749c80c364d0d027aba117cb3",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T20:11:03Z"
+}

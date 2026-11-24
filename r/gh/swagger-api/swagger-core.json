@@ -1,0 +1,64 @@
+{
+  "id": "gh:swagger-api/swagger-core",
+  "kind": "repo",
+  "url": "https://github.com/swagger-api/swagger-core",
+  "title": "swagger-core",
+  "why": "Java implementation of the OpenAPI Specification for JAX-RS2 services, generating the spec for a REST API from its server code.",
+  "keys": {
+    "races": [
+      "dev-tools/docs",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "dev-tools/docs",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/swagger-api/swagger-core",
+    "sha": "da4121b545bb19377233a753dd757341105b4dfc",
+    "file_url": "https://cdn.jsdelivr.net/gh/swagger-api/swagger-core@da4121b545bb19377233a753dd757341105b4dfc/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 7537,
+    "size_mb": 26,
+    "created_at": "2011-07-05T23:44:11Z",
+    "last_commit_at": "2026-11-19T14:37:47Z",
+    "releases": 142,
+    "tags": 175,
+    "archived": false,
+    "release": {
+      "tag": "v1.6.17",
+      "at": "2026-11-19T15:03:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "da4121b545bb19377233a753dd757341105b4dfc",
+    "v": 4
+  },
+  "pinned_at": "2026-11-19T14:37:47Z"
+}

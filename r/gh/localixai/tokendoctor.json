@@ -21,11 +21,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "lib",
       "kind": "path"
     },
     {
-      "locator": "lib",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -38,7 +38,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 176,
+    "stars": 177,
     "size_mb": 13,
     "created_at": "2026-10-25T01:40:43Z",
     "last_commit_at": "2026-11-20T21:37:29Z",
@@ -63,5 +63,9 @@
     "ranks": {}
   },
   "tier": "discovered",
-  "fresh": true
+  "drafted": true,
+  "pack": {
+    "sha": "99ea495efda3844cd172894a1ac1adbfcbfc509f",
+    "v": 4
+  }
 }

@@ -30,12 +30,12 @@
   "facts": {
     "lang": "C++",
     "license": "Apache-2.0",
-    "stars": 14431,
-    "size_mb": 1292,
+    "stars": 14440,
+    "size_mb": 1287,
     "created_at": "2015-02-21T01:25:35Z",
-    "last_commit_at": "2026-11-23T09:03:41Z",
-    "releases": 52,
-    "tags": 53,
+    "last_commit_at": "2026-11-23T14:12:29Z",
+    "releases": 53,
+    "tags": 54,
     "archived": false,
     "release": {
       "tag": "v9.15",
@@ -55,6 +55,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "4782dbd0aa85621c8115cf33de1574a2e6757004",
+    "v": 4
+  },
   "pins_before": [
     "4948b99ec504389d5119b3bb364a96f02b70f100"
   ],

@@ -20,11 +20,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -62,5 +62,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6f79f8a40f33e339aafadc08f8eb27af1df7db36",
+    "v": 4
+  },
   "pinned_at": "2026-05-11T17:20:05Z"
 }

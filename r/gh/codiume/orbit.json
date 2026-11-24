@@ -1,0 +1,74 @@
+{
+  "id": "gh:codiume/orbit",
+  "kind": "repo",
+  "url": "https://github.com/codiume/orbit",
+  "title": "codiume/orbit",
+  "why": "Astro integrations that purge unused CSS, emit JSON-LD, parse user agents and verify GitHub, Stripe and Shopify webhook signatures.",
+  "keys": {
+    "races": [
+      "web/static-sites",
+      "seo/structured-data",
+      "web/css"
+    ],
+    "lanes": [
+      "web/static-sites",
+      "seo/structured-data",
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/codiume/orbit",
+    "sha": "8444d216a40a4ec946c501d082edea5848152bc5",
+    "file_url": "https://cdn.jsdelivr.net/gh/codiume/orbit@8444d216a40a4ec946c501d082edea5848152bc5/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 628,
+    "size_mb": 5,
+    "created_at": "2022-08-24T13:17:40Z",
+    "last_commit_at": "2026-11-11T10:47:14Z",
+    "releases": 184,
+    "tags": 184,
+    "archived": false,
+    "release": {
+      "tag": "astro-webhooks@1.0.2",
+      "at": "2026-11-11T09:54:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "8444d216a40a4ec946c501d082edea5848152bc5",
+    "v": 4
+  },
+  "pinned_at": "2026-11-11T10:47:14Z"
+}

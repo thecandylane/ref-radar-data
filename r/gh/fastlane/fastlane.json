@@ -22,11 +22,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "internal",
       "kind": "path"
     },
     {
-      "locator": "internal",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -39,10 +39,10 @@
   "facts": {
     "lang": "Ruby",
     "license": "MIT",
-    "stars": 42500,
+    "stars": 42509,
     "size_mb": 85,
     "created_at": "2014-12-02T17:00:38Z",
-    "last_commit_at": "2026-11-22T22:04:39Z",
+    "last_commit_at": "2026-11-23T20:17:16Z",
     "releases": 575,
     "tags": 1367,
     "archived": false,
@@ -59,11 +59,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 110,
+    "star_delta_7d": 111,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "3a9429c2f601a7c399c6c1d11b01827ec5c262f7",
     "v": 4

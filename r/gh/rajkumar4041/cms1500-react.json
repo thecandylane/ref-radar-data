@@ -1,0 +1,65 @@
+{
+  "id": "gh:rajkumar4041/cms1500-react",
+  "kind": "repo",
+  "url": "https://github.com/rajkumar4041/cms1500-react",
+  "title": "cms1500-react",
+  "why": "Fills the CMS-1500 claim form PDF from FHIR patient and claim data, and reports validation issues before printing.",
+  "keys": {
+    "races": [
+      "medicine/ehr",
+      "medicine/interoperability"
+    ],
+    "lanes": [
+      "medicine/ehr",
+      "medicine/interoperability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rajkumar4041/cms1500-react",
+    "sha": "b950d941e3750691b286c84cdaeb9624f2d0eea4",
+    "file_url": "https://cdn.jsdelivr.net/gh/rajkumar4041/cms1500-react@b950d941e3750691b286c84cdaeb9624f2d0eea4/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "none",
+    "stars": 2,
+    "size_mb": 4,
+    "created_at": "2026-03-27T12:06:48Z",
+    "last_commit_at": "2026-10-29T12:23:10Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b950d941e3750691b286c84cdaeb9624f2d0eea4",
+    "v": 4
+  },
+  "pinned_at": "2026-10-29T12:23:10Z"
+}

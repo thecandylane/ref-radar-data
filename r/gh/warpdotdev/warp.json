@@ -21,15 +21,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "crates",
       "kind": "path"
     },
     {
       "locator": "app",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -42,10 +42,10 @@
   "facts": {
     "lang": "Rust",
     "license": "AGPL-3.0",
-    "stars": 66102,
+    "stars": 66123,
     "size_mb": 369,
     "created_at": "2021-07-08T18:48:08Z",
-    "last_commit_at": "2026-11-21T03:31:46Z",
+    "last_commit_at": "2026-11-24T03:42:57Z",
     "releases": 55,
     "tags": 61,
     "archived": false,
@@ -62,11 +62,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 74,
+    "star_delta_7d": 86,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f8223cef2d167a5858bf233df8a1fb6f74537fa5",
+    "v": 4
+  },
   "pins_before": [
     "63c8e7f7f0661cbad14229948f1568b8d75882de"
   ],

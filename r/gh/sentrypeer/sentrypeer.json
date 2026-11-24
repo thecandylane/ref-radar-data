@@ -1,0 +1,67 @@
+{
+  "id": "gh:sentrypeer/sentrypeer",
+  "kind": "repo",
+  "url": "https://github.com/SentryPeer/SentryPeer",
+  "title": "SentryPeer",
+  "why": "Logs bad actors seen in SIP traffic and shares them through a peer-to-peer DHT, with a Rust build of the same core.",
+  "keys": {
+    "races": [
+      "netsec/honeypot",
+      "cyber/threat-intel"
+    ],
+    "lanes": [
+      "netsec/honeypot",
+      "cyber/threat-intel"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SentryPeer/SentryPeer",
+    "sha": "19c1eb0b8811647dd35db9cd52b94dc32c4d24a5",
+    "file_url": "https://cdn.jsdelivr.net/gh/SentryPeer/SentryPeer@19c1eb0b8811647dd35db9cd52b94dc32c4d24a5/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 212,
+    "size_mb": 4,
+    "created_at": "2021-01-31T23:08:36Z",
+    "last_commit_at": "2026-11-06T09:32:56Z",
+    "releases": 22,
+    "tags": 22,
+    "archived": false,
+    "release": {
+      "tag": "v5.0.0",
+      "at": "2026-10-15T22:20:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "19c1eb0b8811647dd35db9cd52b94dc32c4d24a5",
+    "v": 4
+  }
+}

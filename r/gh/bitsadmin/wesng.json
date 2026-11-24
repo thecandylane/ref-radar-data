@@ -1,0 +1,59 @@
+{
+  "id": "gh:bitsadmin/wesng",
+  "kind": "repo",
+  "url": "https://github.com/bitsadmin/wesng",
+  "title": "wesng",
+  "why": "Feeds a Windows systeminfo dump to lookups that list missing hotfixes and superseded patches, with color output.",
+  "keys": {
+    "races": [
+      "exploit/privilege-escalation"
+    ],
+    "lanes": [
+      "exploit/privilege-escalation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bitsadmin/wesng",
+    "sha": "53f94fb09ac6aee7238941ffd8e193b1881da493",
+    "file_url": "https://cdn.jsdelivr.net/gh/bitsadmin/wesng@53f94fb09ac6aee7238941ffd8e193b1881da493/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 4981,
+    "size_mb": 384,
+    "created_at": "2019-03-02T15:25:40Z",
+    "last_commit_at": "2026-11-22T00:59:24Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "53f94fb09ac6aee7238941ffd8e193b1881da493",
+    "v": 4
+  },
+  "pinned_at": "2026-11-22T00:59:24Z"
+}

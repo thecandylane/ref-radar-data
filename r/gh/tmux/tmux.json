@@ -28,10 +28,10 @@
   "facts": {
     "lang": "C",
     "license": "ISC",
-    "stars": 50534,
-    "size_mb": 25,
+    "stars": 50515,
+    "size_mb": 26,
     "created_at": "2015-06-03T23:32:55Z",
-    "last_commit_at": "2026-11-23T07:37:44Z",
+    "last_commit_at": "2026-11-24T09:15:55Z",
     "releases": 45,
     "tags": 45,
     "archived": false,
@@ -53,6 +53,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "65aa9d6e1435fa9232033b2d05185b94fd107c50",
+    "v": 4
+  },
   "pins_before": [
     "b2a01282069146476ceca974ff255437ff00865e"
   ],

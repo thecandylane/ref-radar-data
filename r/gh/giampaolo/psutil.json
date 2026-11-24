@@ -1,4 +1,24 @@
 {
+  "label": "agent-trap",
+  "labels": [
+    "agent-trap"
+  ],
+  "trap": {
+    "signs": [
+      {
+        "rule": "T5",
+        "path": "setup.py",
+        "note": "a setup.py that runs by itself and fetches or decodes what it runs",
+        "mark": "agent-trap"
+      }
+    ],
+    "files": [
+      "setup.py"
+    ],
+    "marks": [
+      "agent-trap"
+    ]
+  },
   "id": "gh:giampaolo/psutil",
   "kind": "repo",
   "url": "https://github.com/giampaolo/psutil",
@@ -39,7 +59,7 @@
     "archived": false,
     "release": null
   },
-  "reuse": "copy",
+  "reuse": "study",
   "maturity": "stable",
   "status": null,
   "stats": {
@@ -52,5 +72,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "a00aa9ef6c9b01c248663a425905e35599f276f3",
+    "v": 4
+  },
   "pinned_at": "2026-11-20T08:39:32Z"
 }

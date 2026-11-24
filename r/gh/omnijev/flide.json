@@ -1,0 +1,74 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:46a9aa32205b393c16c0d13631c98bd20a99f323"
+  },
+  "id": "gh:omnijev/flide",
+  "kind": "repo",
+  "url": "https://github.com/OmniJev/Flide",
+  "title": "Flide",
+  "why": "Answers several questions about one shared model state in a single forward pass, reported up to 9.5 times faster than vLLM and SGLang.",
+  "keys": {
+    "races": [
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "llm-infra/inference"
+    ],
+    "capabilities": [
+      "llm-infra/inference/low-bit"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OmniJev/Flide",
+    "sha": "46a9aa32205b393c16c0d13631c98bd20a99f323",
+    "file_url": "https://cdn.jsdelivr.net/gh/OmniJev/Flide@46a9aa32205b393c16c0d13631c98bd20a99f323/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 569,
+    "size_mb": 263,
+    "created_at": "2026-10-24T12:34:07Z",
+    "last_commit_at": "2026-11-24T00:00:03Z",
+    "releases": 12,
+    "tags": 12,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.21",
+      "at": "2026-11-24T00:00:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "46a9aa32205b393c16c0d13631c98bd20a99f323",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2610.42148",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

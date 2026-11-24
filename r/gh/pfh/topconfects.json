@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ef5968f0930ceec595b0ab2c9229bc331e4ec80c"
+  },
+  "id": "gh:pfh/topconfects",
+  "kind": "repo",
+  "url": "https://github.com/pfh/topconfects",
+  "title": "topconfects",
+  "why": "Sorts differential expression hits by the lower confidence bound of each gene's effect, useful when only a few samples exist.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pfh/topconfects",
+    "sha": "ef5968f0930ceec595b0ab2c9229bc331e4ec80c",
+    "file_url": "https://cdn.jsdelivr.net/gh/pfh/topconfects@ef5968f0930ceec595b0ab2c9229bc331e4ec80c/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "LGPL-2.1",
+    "stars": 15,
+    "size_mb": 1,
+    "created_at": "2016-11-18T23:14:15Z",
+    "last_commit_at": "2024-12-09T21:50:43Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.4",
+      "at": "2018-12-29T04:07:15.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ef5968f0930ceec595b0ab2c9229bc331e4ec80c",
+    "v": 4
+  },
+  "pinned_at": "2024-12-09T21:50:43Z"
+}

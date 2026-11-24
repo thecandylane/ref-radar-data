@@ -22,11 +22,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -39,10 +39,10 @@
   "facts": {
     "lang": "Java",
     "license": "MIT",
-    "stars": 32052,
-    "size_mb": 140,
+    "stars": 32082,
+    "size_mb": 147,
     "created_at": "2026-02-18T02:28:29Z",
-    "last_commit_at": "2026-11-23T04:44:49Z",
+    "last_commit_at": "2026-11-24T04:40:48Z",
     "releases": 63,
     "tags": 63,
     "archived": false,
@@ -64,6 +64,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "5a0529ba31f25309d6ff8c3f2efa8eb52430d207",
     "v": 4

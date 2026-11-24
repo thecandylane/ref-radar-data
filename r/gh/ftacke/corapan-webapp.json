@@ -20,11 +20,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "app",
       "kind": "path"
     },
     {
-      "locator": "app",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -68,6 +68,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "66e24f68ce27c04ec1de2c49f7ee96aeb581bb65",
     "v": 3

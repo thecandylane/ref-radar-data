@@ -24,11 +24,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -41,16 +41,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 6447,
+    "stars": 6649,
     "size_mb": 6,
     "created_at": "2026-10-25T05:25:45Z",
-    "last_commit_at": "2026-11-22T05:06:25Z",
-    "releases": 54,
-    "tags": 61,
+    "last_commit_at": "2026-11-24T09:03:36Z",
+    "releases": 55,
+    "tags": 63,
     "archived": false,
     "release": {
-      "tag": "bla-agents-3.5.7",
-      "at": "2026-11-21T18:16:01.000Z"
+      "tag": "bla-agents-3.5.9",
+      "at": "2026-11-23T16:33:44.000Z"
     }
   },
   "reuse": "copy",
@@ -61,16 +61,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 597,
+    "star_delta_7d": 655,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "71cf950485bb267bb13a7c0405ef05ddab65b559",
     "v": 3
   },
-  "fresh": true,
   "hot": true,
   "risk": {
     "level": "caution",

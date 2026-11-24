@@ -22,11 +22,11 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -39,10 +39,10 @@
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 2947,
-    "size_mb": 230,
+    "stars": 2953,
+    "size_mb": 233,
     "created_at": "2026-03-09T09:08:58Z",
-    "last_commit_at": "2026-11-23T02:23:06Z",
+    "last_commit_at": "2026-11-24T03:21:39Z",
     "releases": 16,
     "tags": 28,
     "archived": false,
@@ -64,6 +64,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "fa06a2f6702878f98bcd92a8a208c9d7da445bde",
     "v": 4

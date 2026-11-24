@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4d9be903addb9237dae63a6928275465b99b6d43"
+  },
+  "id": "gh:rehansaeed/schema.net",
+  "kind": "repo",
+  "url": "https://github.com/RehanSaeed/Schema.NET",
+  "title": "Schema.NET",
+  "why": "Strongly typed C# classes for every schema.org type that serialize to JSON-LD, with an HTML-escaped output to avoid script injection.",
+  "keys": {
+    "races": [
+      "seo/structured-data",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "seo/structured-data",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/RehanSaeed/Schema.NET",
+    "sha": "4d9be903addb9237dae63a6928275465b99b6d43",
+    "file_url": "https://cdn.jsdelivr.net/gh/RehanSaeed/Schema.NET@4d9be903addb9237dae63a6928275465b99b6d43/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "MIT",
+    "stars": 691,
+    "size_mb": 4,
+    "created_at": "2017-06-07T08:16:09Z",
+    "last_commit_at": "2024-12-26T05:46:57Z",
+    "releases": 22,
+    "tags": 28,
+    "archived": false,
+    "release": {
+      "tag": "13.0.0",
+      "at": "2023-12-17T05:26:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "4d9be903addb9237dae63a6928275465b99b6d43",
+    "v": 4
+  },
+  "pinned_at": "2024-12-26T05:46:57Z"
+}

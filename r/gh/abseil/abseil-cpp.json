@@ -1,0 +1,61 @@
+{
+  "id": "gh:abseil/abseil-cpp",
+  "kind": "repo",
+  "url": "https://github.com/abseil/abseil-cpp",
+  "title": "abseil-cpp",
+  "why": "C++17 containers, strings, time and synchronization utilities taken from Google's own code base, for gaps the standard library leaves.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/abseil/abseil-cpp",
+    "sha": "866f1a56682096b704cb097b784f44c9b923cb8e",
+    "file_url": "https://cdn.jsdelivr.net/gh/abseil/abseil-cpp@866f1a56682096b704cb097b784f44c9b923cb8e/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 18210,
+    "size_mb": 24,
+    "created_at": "2017-09-20T15:10:30Z",
+    "last_commit_at": "2026-11-23T19:07:11Z",
+    "releases": 48,
+    "tags": 67,
+    "archived": false,
+    "release": {
+      "tag": "20260817.0",
+      "at": "2026-08-18T13:23:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "866f1a56682096b704cb097b784f44c9b923cb8e",
+    "v": 4
+  },
+  "pins_before": [
+    "398a40cae1818cda5985d7262170144aff685601"
+  ],
+  "pinned_at": "2026-11-23T19:07:11Z"
+}

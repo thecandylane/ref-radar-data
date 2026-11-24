@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:dad5896ac92e3dca8f9e7f19ba09d216b0d07fa5"
+  },
+  "id": "gh:mobilityhouse/ocpp",
+  "kind": "repo",
+  "url": "https://github.com/mobilityhouse/ocpp",
+  "title": "mobilityhouse/ocpp",
+  "why": "Implements the v16, v201 and v21 OCPP messages for charge points and central systems over a WebSocket, with dataclass payloads.",
+  "keys": {
+    "races": [
+      "energy/ev-charging"
+    ],
+    "lanes": [
+      "energy/ev-charging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mobilityhouse/ocpp",
+    "sha": "dad5896ac92e3dca8f9e7f19ba09d216b0d07fa5",
+    "file_url": "https://cdn.jsdelivr.net/gh/mobilityhouse/ocpp@dad5896ac92e3dca8f9e7f19ba09d216b0d07fa5/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1052,
+    "size_mb": 21,
+    "created_at": "2019-05-09T07:25:09Z",
+    "last_commit_at": "2026-11-12T09:09:50Z",
+    "releases": 33,
+    "tags": 59,
+    "archived": false,
+    "release": {
+      "tag": "2.1.0",
+      "at": "2025-07-16T10:03:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "dad5896ac92e3dca8f9e7f19ba09d216b0d07fa5",
+    "v": 4
+  },
+  "pinned_at": "2026-11-12T09:09:50Z"
+}

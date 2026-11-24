@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:96cfd9059c62188a8fb2f2b1ae4bf671e1630956"
+  },
   "id": "gh:citoverse/cito",
   "kind": "repo",
   "url": "https://github.com/citoverse/cito",
@@ -31,7 +34,7 @@
     "stars": 55,
     "size_mb": 94,
     "created_at": "2022-02-25T17:09:55Z",
-    "last_commit_at": "2026-11-23T08:49:08Z",
+    "last_commit_at": "2026-11-23T11:58:22Z",
     "releases": 1,
     "tags": 1,
     "archived": false,
@@ -52,5 +55,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "96cfd9059c62188a8fb2f2b1ae4bf671e1630956",
+    "v": 4
+  }
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:215bbf025ee3839b4d4f25c54522bedf5bb8e44f"
+  },
   "id": "gh:boostorg/decimal",
   "kind": "repo",
   "url": "https://github.com/boostorg/decimal",
@@ -33,7 +36,7 @@
     "stars": 67,
     "size_mb": 24,
     "created_at": "2023-06-30T09:18:01Z",
-    "last_commit_at": "2026-11-14T17:57:57Z",
+    "last_commit_at": "2026-11-23T20:26:19Z",
     "releases": 22,
     "tags": 26,
     "archived": false,
@@ -61,5 +64,10 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "215bbf025ee3839b4d4f25c54522bedf5bb8e44f",
+    "v": 4
+  },
   "pinned_at": "2026-11-14T17:57:57Z"
 }

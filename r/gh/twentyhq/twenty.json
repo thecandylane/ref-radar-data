@@ -17,11 +17,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "packages",
       "kind": "path"
     },
     {
-      "locator": "packages",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -34,16 +34,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 61354,
-    "size_mb": 3060,
+    "stars": 61402,
+    "size_mb": 3120,
     "created_at": "2022-12-01T13:04:40Z",
-    "last_commit_at": "2026-11-23T09:49:15Z",
-    "releases": 157,
-    "tags": 690,
+    "last_commit_at": "2026-11-24T09:54:33Z",
+    "releases": 159,
+    "tags": 695,
     "archived": false,
     "release": {
-      "tag": "twenty/v2.61.0",
-      "at": "2026-11-22T18:39:54.000Z"
+      "tag": "twenty/v2.62.0",
+      "at": "2026-11-23T13:23:45.000Z"
     }
   },
   "reuse": "copy",
@@ -59,6 +59,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "5d9a8757ead891ffdbd8465cee39506e11ba6b86",
     "v": 4

@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:923854a7a314c24364c280bfbc7fd0177d740340"
+  },
+  "id": "gh:welch-lab/rcppplanc",
+  "kind": "repo",
+  "url": "https://github.com/welch-lab/RcppPlanc",
+  "title": "RcppPlanc",
+  "why": "Factorizes data into nonnegative parts with NMF, symNMF and online iNMF, including sparse and h5 inputs, all in C++ for R.",
+  "keys": {
+    "races": [
+      "sci/numerics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "sci/numerics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/welch-lab/RcppPlanc",
+    "sha": "923854a7a314c24364c280bfbc7fd0177d740340",
+    "file_url": "https://cdn.jsdelivr.net/gh/welch-lab/RcppPlanc@923854a7a314c24364c280bfbc7fd0177d740340/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-2.0",
+    "stars": 8,
+    "size_mb": 3,
+    "created_at": "2023-04-04T14:24:13Z",
+    "last_commit_at": "2026-09-17T12:14:28Z",
+    "releases": 5,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "2.0.12",
+      "at": "2025-06-21T21:33:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "923854a7a314c24364c280bfbc7fd0177d740340",
+    "v": 4
+  },
+  "pinned_at": "2026-09-17T12:14:28Z"
+}

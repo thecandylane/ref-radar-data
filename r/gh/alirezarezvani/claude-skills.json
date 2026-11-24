@@ -24,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/alirezarezvani/claude-skills",
-    "sha": "f8593c4941210a621a6629ce1da9e07897976d5f",
-    "file_url": "https://cdn.jsdelivr.net/gh/alirezarezvani/claude-skills@f8593c4941210a621a6629ce1da9e07897976d5f/{path}"
+    "sha": "ea7b5ab8da93bbba8880152d9ccb8c9979f12252",
+    "file_url": "https://cdn.jsdelivr.net/gh/alirezarezvani/claude-skills@ea7b5ab8da93bbba8880152d9ccb8c9979f12252/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 30311,
+    "stars": 30389,
     "size_mb": 29,
     "created_at": "2025-10-19T04:04:05Z",
     "last_commit_at": "2026-11-23T05:14:12Z",
@@ -50,17 +50,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 437,
+    "star_delta_7d": 450,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "f8593c4941210a621a6629ce1da9e07897976d5f",
+    "sha": "ea7b5ab8da93bbba8880152d9ccb8c9979f12252",
     "v": 4
   },
   "pins_before": [
+    "f8593c4941210a621a6629ce1da9e07897976d5f",
     "9ca476d8401f8750f92f4a7b31ec68efaa61ab02"
   ],
-  "pinned_at": "2026-11-17T08:35:08Z"
+  "pinned_at": "2026-11-23T05:14:12Z"
 }

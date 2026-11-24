@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:571cdd52a53bf49c917e81332674c7b1634764ad"
+  },
   "id": "gh:openobserve/openobserve",
   "kind": "repo",
   "url": "https://github.com/openobserve/openobserve",
@@ -19,11 +22,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -36,16 +39,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 23156,
-    "size_mb": 1018,
+    "stars": 23174,
+    "size_mb": 1045,
     "created_at": "2023-02-02T03:29:51Z",
-    "last_commit_at": "2026-11-23T07:15:00Z",
-    "releases": 236,
-    "tags": 246,
+    "last_commit_at": "2026-11-24T09:14:07Z",
+    "releases": 237,
+    "tags": 247,
     "archived": false,
     "release": {
-      "tag": "v1.2.0-rc2",
-      "at": "2026-11-12T12:32:33.000Z"
+      "tag": "v1.2.0-rc3",
+      "at": "2026-11-23T16:39:42.000Z"
     }
   },
   "reuse": "copy",
@@ -61,6 +64,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "571cdd52a53bf49c917e81332674c7b1634764ad",
+    "v": 4
+  },
   "pins_before": [
     "cb4124b9cf86f496eee628713767574b9e173910"
   ],

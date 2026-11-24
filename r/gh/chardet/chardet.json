@@ -1,0 +1,61 @@
+{
+  "id": "gh:chardet/chardet",
+  "kind": "repo",
+  "url": "https://github.com/chardet/chardet",
+  "title": "chardet",
+  "why": "Streams input through UniversalDetector and returns encoding, language and MIME type for each byte string in one call.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/chardet/chardet",
+    "sha": "bd72f25a19d0a1ff96e92b0399b91f9aa614b791",
+    "file_url": "https://cdn.jsdelivr.net/gh/chardet/chardet@bd72f25a19d0a1ff96e92b0399b91f9aa614b791/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "0BSD",
+    "stars": 2687,
+    "size_mb": 31,
+    "created_at": "2012-07-26T20:30:54Z",
+    "last_commit_at": "2026-11-20T14:08:20Z",
+    "releases": 27,
+    "tags": 42,
+    "archived": false,
+    "release": {
+      "tag": "7.7.0",
+      "at": "2026-10-18T00:14:32.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "bd72f25a19d0a1ff96e92b0399b91f9aa614b791",
+    "v": 4
+  }
+}

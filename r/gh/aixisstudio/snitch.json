@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c2d220150b2aaea0ae45c4ad62f3cbf283a153da"
+  },
   "id": "gh:aixisstudio/snitch",
   "kind": "repo",
   "url": "https://github.com/aixisstudio/Snitch",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "Python",
     "license": "AGPL-3.0",
-    "stars": 817,
+    "stars": 824,
     "size_mb": 70,
     "created_at": "2026-10-01T15:47:55Z",
     "last_commit_at": "2026-11-19T14:40:42Z",
@@ -57,5 +60,10 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "c2d220150b2aaea0ae45c4ad62f3cbf283a153da",
+    "v": 4
+  },
   "pinned_at": "2026-11-19T14:40:42Z"
 }

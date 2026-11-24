@@ -20,11 +20,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "packages",
       "kind": "path"
     },
     {
-      "locator": "packages",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -37,8 +37,8 @@
   "facts": {
     "lang": "Swift",
     "license": "MIT",
-    "stars": 24772,
-    "size_mb": 530,
+    "stars": 24780,
+    "size_mb": 531,
     "created_at": "2025-07-18T05:53:18Z",
     "last_commit_at": "2026-11-22T19:55:35Z",
     "releases": 16,
@@ -57,11 +57,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 110,
+    "star_delta_7d": 107,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "42d90b4c786b3bcff6111b363ff8fe3fbc42b4f2",
+    "v": 4
+  },
   "pins_before": [
     "f810c51a6df9664ada52faacd0dff4fa8e7a4483"
   ],

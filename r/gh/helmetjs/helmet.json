@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:e91d88f6586656531df99816a2e26441feab0e45"
-  },
   "id": "gh:helmetjs/helmet",
   "kind": "repo",
   "url": "https://github.com/helmetjs/helmet",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/helmetjs/helmet",
-    "sha": "e91d88f6586656531df99816a2e26441feab0e45",
-    "file_url": "https://cdn.jsdelivr.net/gh/helmetjs/helmet@e91d88f6586656531df99816a2e26441feab0e45/{path}"
+    "sha": "269f7784beb0445431d4fc2a44fb02154006ef85",
+    "file_url": "https://cdn.jsdelivr.net/gh/helmetjs/helmet@269f7784beb0445431d4fc2a44fb02154006ef85/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 10748,
+    "stars": 10749,
     "size_mb": 2,
     "created_at": "2012-02-01T22:54:45Z",
-    "last_commit_at": "2026-11-01T00:54:19Z",
+    "last_commit_at": "2026-11-23T14:17:28Z",
     "releases": 0,
     "tags": 107,
     "archived": false,
@@ -50,14 +47,18 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": -1,
+    "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "e91d88f6586656531df99816a2e26441feab0e45",
-    "v": 3
+    "sha": "269f7784beb0445431d4fc2a44fb02154006ef85",
+    "v": 4
   },
-  "pinned_at": "2026-11-01T00:54:19Z"
+  "pins_before": [
+    "e91d88f6586656531df99816a2e26441feab0e45"
+  ],
+  "pinned_at": "2026-11-23T14:17:28Z"
 }

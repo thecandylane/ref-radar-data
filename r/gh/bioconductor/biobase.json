@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:def16233048fa96b4f3aad4d0af5a9922818ed7d"
-  },
   "id": "gh:bioconductor/biobase",
   "kind": "repo",
   "url": "https://github.com/Bioconductor/Biobase",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Bioconductor/Biobase",
-    "sha": "def16233048fa96b4f3aad4d0af5a9922818ed7d",
-    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/Biobase@def16233048fa96b4f3aad4d0af5a9922818ed7d/{path}"
+    "sha": "d1a13d29ecfe80367e235df7ba7f752eddc602ed",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/Biobase@d1a13d29ecfe80367e235df7ba7f752eddc602ed/{path}"
   },
   "facts": {
     "lang": "R",
@@ -38,7 +35,7 @@
     "stars": 9,
     "size_mb": 6,
     "created_at": "2017-09-01T20:16:32Z",
-    "last_commit_at": "2026-07-28T23:32:39Z",
+    "last_commit_at": "2026-11-23T22:27:14Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -57,9 +54,13 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "def16233048fa96b4f3aad4d0af5a9922818ed7d",
+    "sha": "d1a13d29ecfe80367e235df7ba7f752eddc602ed",
     "v": 4
   },
-  "pinned_at": "2026-07-28T23:32:39Z"
+  "pins_before": [
+    "def16233048fa96b4f3aad4d0af5a9922818ed7d"
+  ],
+  "pinned_at": "2026-11-23T22:27:14Z"
 }

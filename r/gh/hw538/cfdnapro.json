@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ab9eeb166b8614b9ec2ce4ceda190dc295c65a7c"
+  },
+  "id": "gh:hw538/cfdnapro",
+  "kind": "repo",
+  "url": "https://github.com/hw538/cfDNAPro",
+  "title": "cfDNAPro",
+  "why": "Extracts fragment length, motif, copy number and mutation features from cfDNA bam files in R, dropping reads below mapping quality 30 by default.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hw538/cfDNAPro",
+    "sha": "ab9eeb166b8614b9ec2ce4ceda190dc295c65a7c",
+    "file_url": "https://cdn.jsdelivr.net/gh/hw538/cfDNAPro@ab9eeb166b8614b9ec2ce4ceda190dc295c65a7c/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 45,
+    "size_mb": 3,
+    "created_at": "2020-10-04T22:39:25Z",
+    "last_commit_at": "2026-10-26T22:18:01Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ab9eeb166b8614b9ec2ce4ceda190dc295c65a7c",
+    "v": 4
+  },
+  "pinned_at": "2026-10-26T22:18:01Z"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "gh:octokit/plugin-paginate-rest.js",
+  "kind": "repo",
+  "url": "https://github.com/octokit/plugin-paginate-rest.js",
+  "title": "plugin-paginate-rest.js",
+  "why": "Walks GitHub's paginated list endpoints page by page as an iterator, or collects every page into one result.",
+  "keys": {
+    "races": [
+      "dev-tools/vcs"
+    ],
+    "lanes": [
+      "dev-tools/vcs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/octokit/plugin-paginate-rest.js",
+    "sha": "6c2cd8f21dca5acf34c9dfd5a4971e524a3061b0",
+    "file_url": "https://cdn.jsdelivr.net/gh/octokit/plugin-paginate-rest.js@6c2cd8f21dca5acf34c9dfd5a4971e524a3061b0/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 59,
+    "size_mb": 9,
+    "created_at": "2019-10-13T18:46:02Z",
+    "last_commit_at": "2026-09-28T14:42:30Z",
+    "releases": 132,
+    "tags": 133,
+    "archived": false,
+    "release": {
+      "tag": "v16.0.0",
+      "at": "2026-09-28T14:43:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6c2cd8f21dca5acf34c9dfd5a4971e524a3061b0",
+    "v": 4
+  },
+  "pinned_at": "2026-09-28T14:42:30Z"
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:fc1ac55e0be7a00fae3d0c93ca76ffd3434b1837"
+  },
   "id": "gh:activitywatch/activitywatch",
   "kind": "repo",
   "url": "https://github.com/ActivityWatch/activitywatch",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "Python",
     "license": "MPL-2.0",
-    "stars": 19787,
+    "stars": 19804,
     "size_mb": 2,
     "created_at": "2016-04-27T15:26:09Z",
     "last_commit_at": "2026-11-22T01:46:24Z",
@@ -55,5 +58,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "fc1ac55e0be7a00fae3d0c93ca76ffd3434b1837",
+    "v": 4
+  },
   "pinned_at": "2026-11-22T01:46:24Z"
 }

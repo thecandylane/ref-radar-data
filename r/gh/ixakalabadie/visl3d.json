@@ -1,0 +1,80 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:79f1179e8486067650d09a4854a87fee82dd6957"
+  },
+  "id": "gh:ixakalabadie/visl3d",
+  "kind": "repo",
+  "url": "https://github.com/ixakalabadie/ViSL3D",
+  "title": "ViSL3D",
+  "why": "Builds interactive 3D X3D and HTML views of astrophysical spectral line datacubes, with contour surfaces, galaxy labels and background images.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ixakalabadie/ViSL3D",
+    "sha": "79f1179e8486067650d09a4854a87fee82dd6957",
+    "file_url": "https://cdn.jsdelivr.net/gh/ixakalabadie/ViSL3D@79f1179e8486067650d09a4854a87fee82dd6957/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 0,
+    "size_mb": 123,
+    "created_at": "2023-02-13T14:48:41Z",
+    "last_commit_at": "2026-04-16T10:15:27Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.5",
+      "at": "2025-11-07T16:45:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "79f1179e8486067650d09a4854a87fee82dd6957",
+    "v": 4
+  },
+  "pinned_at": "2026-04-16T10:15:27Z",
+  "papers": [
+    {
+      "id": "arxiv:1510.02796",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2503.16237",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

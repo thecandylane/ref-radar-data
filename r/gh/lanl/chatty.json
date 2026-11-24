@@ -1,0 +1,71 @@
+{
+  "id": "gh:lanl/chatty",
+  "kind": "repo",
+  "url": "https://github.com/lanl/chatty",
+  "title": "chatty",
+  "why": "Drives OpenAI-style models from a terminal, saving sessions as markdown and pulling citations from a litkit paper index.",
+  "keys": {
+    "races": [
+      "llm-infra/chat-apps",
+      "desktop/terminal-ui",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "llm-infra/chat-apps",
+      "desktop/terminal-ui",
+      "llm-infra/rag"
+    ],
+    "capabilities": [
+      "llm-infra/rag/knowledge-platforms"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lanl/chatty",
+    "sha": "940e661e4ffd2c744df36cde25fdf92e549f6e93",
+    "file_url": "https://cdn.jsdelivr.net/gh/lanl/chatty@940e661e4ffd2c744df36cde25fdf92e549f6e93/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 1,
+    "created_at": "2026-10-02T18:23:55Z",
+    "last_commit_at": "2026-11-23T23:23:24Z",
+    "releases": 2,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "laptop-2026.11.2",
+      "at": "2026-11-23T19:00:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "940e661e4ffd2c744df36cde25fdf92e549f6e93",
+    "v": 4
+  }
+}

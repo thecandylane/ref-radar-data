@@ -17,15 +17,15 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
-      "kind": "path"
-    },
-    {
       "locator": "packages",
       "kind": "path"
     },
     {
       "locator": "apps",
+      "kind": "path"
+    },
+    {
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -38,10 +38,10 @@
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 38650,
+    "stars": 38669,
     "size_mb": 32,
     "created_at": "2024-04-19T07:49:30Z",
-    "last_commit_at": "2026-11-21T02:22:23Z",
+    "last_commit_at": "2026-11-23T18:11:46Z",
     "releases": 183,
     "tags": 183,
     "archived": false,
@@ -58,11 +58,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 100,
+    "star_delta_7d": 112,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "4e625a569bfced07097b56dfdbf793f63e456cee",
     "v": 4

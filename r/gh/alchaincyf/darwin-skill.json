@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:5a8e633a20ea5bb2bf8b9c697c6da04ad85740ba"
+  },
   "id": "gh:alchaincyf/darwin-skill",
   "kind": "repo",
   "url": "https://github.com/alchaincyf/darwin-skill",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "HTML",
     "license": "MIT",
-    "stars": 7035,
+    "stars": 7041,
     "size_mb": 17,
     "created_at": "2026-04-13T08:57:49Z",
     "last_commit_at": "2026-11-18T06:10:41Z",
@@ -57,5 +60,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "5a8e633a20ea5bb2bf8b9c697c6da04ad85740ba",
+    "v": 4
+  },
   "pinned_at": "2026-11-18T06:10:41Z"
 }

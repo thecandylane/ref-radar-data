@@ -1,0 +1,75 @@
+{
+  "id": "gh:localsend/localsend",
+  "kind": "repo",
+  "url": "https://github.com/localsend/localsend",
+  "title": "localsend",
+  "why": "Sends files and text between devices on the same LAN over HTTPS, with a CLI that targets a device by alias or IP address.",
+  "keys": {
+    "races": [
+      "mobile/cross-platform",
+      "desktop/packaging"
+    ],
+    "lanes": [
+      "mobile/cross-platform",
+      "desktop/packaging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/localsend/localsend",
+    "sha": "44f48f18a5503c43873570ff489d27ff1983e198",
+    "file_url": "https://cdn.jsdelivr.net/gh/localsend/localsend@44f48f18a5503c43873570ff489d27ff1983e198/{path}"
+  },
+  "facts": {
+    "lang": "Dart",
+    "license": "Apache-2.0",
+    "stars": 100549,
+    "size_mb": 24,
+    "created_at": "2022-12-16T00:46:07Z",
+    "last_commit_at": "2026-11-23T22:16:59Z",
+    "releases": 27,
+    "tags": 28,
+    "archived": false,
+    "release": {
+      "tag": "v1.18.2",
+      "at": "2026-08-21T14:02:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "44f48f18a5503c43873570ff489d27ff1983e198",
+    "v": 4
+  },
+  "pins_before": [
+    "d8702511dfb074d795452a9204ba3c9473f4f01f"
+  ],
+  "pinned_at": "2026-11-23T22:16:59Z"
+}

@@ -33,16 +33,16 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 15306,
+    "stars": 15316,
     "size_mb": 338,
     "created_at": "2016-08-24T15:12:24Z",
-    "last_commit_at": "2026-11-23T09:13:26Z",
-    "releases": 231,
-    "tags": 231,
+    "last_commit_at": "2026-11-23T16:42:54Z",
+    "releases": 232,
+    "tags": 232,
     "archived": false,
     "release": {
-      "tag": "5.51.0",
-      "at": "2026-11-19T11:13:35.000Z"
+      "tag": "5.52.0",
+      "at": "2026-11-23T14:53:07.000Z"
     }
   },
   "reuse": "copy",
@@ -53,14 +53,18 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 61,
+    "star_delta_7d": 55,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "02d631d3a5db2c8676e9703aec286c7723a32e6f",
+    "v": 4
+  },
   "pins_before": [
     "f485982d4cf4be87a76c6906f44e42675fec2913"
   ],
-  "pinned_at": "2026-11-20T10:49:58Z",
-  "hot": true
+  "pinned_at": "2026-11-20T10:49:58Z"
 }

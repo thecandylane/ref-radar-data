@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:24603743f2103369cd760f3fdaad34a35926d201"
+  },
+  "id": "gh:apache/commons-logging",
+  "kind": "repo",
+  "url": "https://github.com/apache/commons-logging",
+  "title": "commons-logging",
+  "why": "Lets Java libraries log through one Log interface, picking the backend at runtime among the JDK logger, Log4j and a no-op logger.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/commons-logging",
+    "sha": "24603743f2103369cd760f3fdaad34a35926d201",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/commons-logging@24603743f2103369cd760f3fdaad34a35926d201/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 170,
+    "size_mb": 4,
+    "created_at": "2009-05-21T08:42:09Z",
+    "last_commit_at": "2026-11-23T13:57:26Z",
+    "releases": 0,
+    "tags": 59,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "24603743f2103369cd760f3fdaad34a35926d201",
+    "v": 4
+  }
+}

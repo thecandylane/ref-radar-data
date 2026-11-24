@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9e1f74131ba9d45e5fe6ae7bb3941d9f2abb39c3"
-  },
   "id": "gh:google-deepmind/gemma",
   "kind": "repo",
   "url": "https://github.com/google-deepmind/gemma",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/google-deepmind/gemma",
-    "sha": "9e1f74131ba9d45e5fe6ae7bb3941d9f2abb39c3",
-    "file_url": "https://cdn.jsdelivr.net/gh/google-deepmind/gemma@9e1f74131ba9d45e5fe6ae7bb3941d9f2abb39c3/{path}"
+    "sha": "b79a2bc25dcfe1112bf0edd241fbcf1d6373337e",
+    "file_url": "https://cdn.jsdelivr.net/gh/google-deepmind/gemma@b79a2bc25dcfe1112bf0edd241fbcf1d6373337e/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 5871,
+    "stars": 5872,
     "size_mb": 1,
     "created_at": "2024-02-20T18:39:01Z",
-    "last_commit_at": "2026-10-15T10:25:26Z",
+    "last_commit_at": "2026-11-23T13:05:28Z",
     "releases": 18,
     "tags": 18,
     "archived": false,
@@ -53,14 +50,18 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 17,
+    "star_delta_7d": 16,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "9e1f74131ba9d45e5fe6ae7bb3941d9f2abb39c3",
-    "v": 3
+    "sha": "b79a2bc25dcfe1112bf0edd241fbcf1d6373337e",
+    "v": 4
   },
-  "pinned_at": "2026-10-15T10:25:26Z"
+  "pins_before": [
+    "9e1f74131ba9d45e5fe6ae7bb3941d9f2abb39c3"
+  ],
+  "pinned_at": "2026-11-23T13:05:28Z"
 }

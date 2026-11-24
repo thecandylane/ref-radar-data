@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:1c7b719ed0cd50566baf0eaf3cf492d2f98994ec"
+  },
   "id": "gh:alschechter/cosmicnoonmergerid",
   "kind": "repo",
   "url": "https://github.com/alschechter/CosmicNoonMergerID",
@@ -52,5 +55,18 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pinned_at": "2026-04-12T18:26:51Z"
+  "drafted": true,
+  "pack": {
+    "sha": "1c7b719ed0cd50566baf0eaf3cf492d2f98994ec",
+    "v": 4
+  },
+  "pinned_at": "2026-04-12T18:26:51Z",
+  "papers": [
+    {
+      "id": "arxiv:2510.12173",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
 }

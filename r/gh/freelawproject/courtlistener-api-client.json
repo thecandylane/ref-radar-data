@@ -1,0 +1,59 @@
+{
+  "id": "gh:freelawproject/courtlistener-api-client",
+  "kind": "repo",
+  "url": "https://github.com/freelawproject/courtlistener-api-client",
+  "title": "courtlistener-api-client",
+  "why": "Async and sync Python client for CourtListener dockets, opinions and alerts, with pydantic models and a batched citation lookup.",
+  "keys": {
+    "races": [
+      "legal/case-law"
+    ],
+    "lanes": [
+      "legal/case-law"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/freelawproject/courtlistener-api-client",
+    "sha": "0e4c8b37243ef924b4423b2f1cfeaa62b5086a72",
+    "file_url": "https://cdn.jsdelivr.net/gh/freelawproject/courtlistener-api-client@0e4c8b37243ef924b4423b2f1cfeaa62b5086a72/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-2-Clause",
+    "stars": 33,
+    "size_mb": 3,
+    "created_at": "2026-01-31T11:36:23Z",
+    "last_commit_at": "2026-11-20T21:48:15Z",
+    "releases": 0,
+    "tags": 12,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "0e4c8b37243ef924b4423b2f1cfeaa62b5086a72",
+    "v": 4
+  },
+  "pinned_at": "2026-11-20T21:48:15Z"
+}

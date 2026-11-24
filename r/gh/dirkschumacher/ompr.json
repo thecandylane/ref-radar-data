@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0f7dfb905a754b196569e04c133cd302d98bbea8"
+  },
+  "id": "gh:dirkschumacher/ompr",
+  "kind": "repo",
+  "url": "https://github.com/dirkschumacher/ompr",
+  "title": "ompr",
+  "why": "R modelling language for mixed integer linear programs, with a pipe-friendly syntax that hands solving to GLPK, Symphony or CPLEX through ROI.",
+  "keys": {
+    "races": [
+      "sci/optimization",
+      "data/statistics"
+    ],
+    "lanes": [
+      "sci/optimization",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dirkschumacher/ompr",
+    "sha": "0f7dfb905a754b196569e04c133cd302d98bbea8",
+    "file_url": "https://cdn.jsdelivr.net/gh/dirkschumacher/ompr@0f7dfb905a754b196569e04c133cd302d98bbea8/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 283,
+    "size_mb": 14,
+    "created_at": "2016-06-24T10:21:32Z",
+    "last_commit_at": "2023-09-09T10:32:21Z",
+    "releases": 9,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.4",
+      "at": "2023-09-09T10:06:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "0f7dfb905a754b196569e04c133cd302d98bbea8",
+    "v": 4
+  },
+  "pinned_at": "2023-09-09T10:32:21Z"
+}

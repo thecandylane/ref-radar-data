@@ -1,0 +1,61 @@
+{
+  "id": "gh:imed-lab/semi-nc",
+  "kind": "repo",
+  "url": "https://github.com/iMED-Lab/Semi-NC",
+  "title": "Semi-NC",
+  "why": "Trains a segmentation model with a teacher and a student network, using pixel prototype pools and confidence sampling.",
+  "keys": {
+    "races": [
+      "medicine/medical-imaging",
+      "ml/training"
+    ],
+    "lanes": [
+      "medicine/medical-imaging",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/iMED-Lab/Semi-NC",
+    "sha": "157a2ef9c50e3db2463af3c1adc13a974df86f03",
+    "file_url": "https://cdn.jsdelivr.net/gh/iMED-Lab/Semi-NC@157a2ef9c50e3db2463af3c1adc13a974df86f03/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2025-10-23T13:06:01Z",
+    "last_commit_at": "2026-11-06T04:13:15Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "157a2ef9c50e3db2463af3c1adc13a974df86f03",
+    "v": 4
+  },
+  "pinned_at": "2026-11-06T04:13:15Z"
+}

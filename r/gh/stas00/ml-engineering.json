@@ -1,0 +1,66 @@
+{
+  "id": "gh:stas00/ml-engineering",
+  "kind": "repo",
+  "url": "https://github.com/stas00/ml-engineering",
+  "title": "ml-engineering",
+  "why": "Field guide to training and serving LLMs, with copy-n-paste commands, SLURM notes and two SKILL.md files for agents.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "llm-infra/inference",
+      "sci/hpc",
+      "dev-tools/debugging",
+      "agents/skills"
+    ],
+    "lanes": [
+      "ml/training",
+      "llm-infra/inference",
+      "sci/hpc",
+      "dev-tools/debugging",
+      "agents/skills"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/stas00/ml-engineering",
+    "sha": "1a78efc30ab987bfd8a016df00acfcdd653a268c",
+    "file_url": "https://cdn.jsdelivr.net/gh/stas00/ml-engineering@1a78efc30ab987bfd8a016df00acfcdd653a268c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "CC-BY-SA-4.0",
+    "stars": 19744,
+    "size_mb": 29,
+    "created_at": "2020-09-02T19:23:01Z",
+    "last_commit_at": "2026-11-24T00:14:46Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "1a78efc30ab987bfd8a016df00acfcdd653a268c",
+    "v": 4
+  }
+}

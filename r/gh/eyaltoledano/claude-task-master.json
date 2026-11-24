@@ -25,10 +25,6 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
-      "kind": "path"
-    },
-    {
       "locator": "src",
       "kind": "path"
     },
@@ -38,6 +34,10 @@
     },
     {
       "locator": "apps",
+      "kind": "path"
+    },
+    {
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -50,7 +50,7 @@
   "facts": {
     "lang": "JavaScript",
     "license": "NOASSERTION",
-    "stars": 28527,
+    "stars": 28536,
     "size_mb": 29,
     "created_at": "2025-03-04T18:54:54Z",
     "last_commit_at": "2026-04-23T12:07:23Z",
@@ -75,5 +75,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c0c98d367c55296bfe69e65680625b6db437af02",
+    "v": 4
+  },
   "pinned_at": "2026-04-23T12:07:23Z"
 }

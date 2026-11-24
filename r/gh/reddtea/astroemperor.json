@@ -1,0 +1,76 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:911951953fc709c903ef61dee7e27a89e8c266da"
+  },
+  "id": "gh:reddtea/astroemperor",
+  "kind": "repo",
+  "url": "https://github.com/ReddTea/astroemperor",
+  "title": "astroemperor",
+  "why": "Runs parallel tempering MCMC on radial velocity data, comparing models automatically to settle how many planets the data supports.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ReddTea/astroemperor",
+    "sha": "911951953fc709c903ef61dee7e27a89e8c266da",
+    "file_url": "https://cdn.jsdelivr.net/gh/ReddTea/astroemperor@911951953fc709c903ef61dee7e27a89e8c266da/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 15,
+    "size_mb": 17,
+    "created_at": "2017-08-12T07:19:16Z",
+    "last_commit_at": "2026-08-19T09:47:53Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "911951953fc709c903ef61dee7e27a89e8c266da",
+    "v": 4
+  },
+  "pinned_at": "2026-08-19T09:47:53Z",
+  "papers": [
+    {
+      "id": "arxiv:1104.2612",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

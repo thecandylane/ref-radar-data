@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:71ac16282d122fdd1e3a6d3e7f79b79b4cc3b50e"
+  },
+  "id": "gh:json-iterator/go",
+  "kind": "repo",
+  "url": "https://github.com/json-iterator/go",
+  "title": "json-iterator/go",
+  "why": "Swap in for encoding/json by changing one import and config line, with benchmarks against easyjson and the standard library.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/json-iterator/go",
+    "sha": "71ac16282d122fdd1e3a6d3e7f79b79b4cc3b50e",
+    "file_url": "https://cdn.jsdelivr.net/gh/json-iterator/go@71ac16282d122fdd1e3a6d3e7f79b79b4cc3b50e/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 13848,
+    "size_mb": 1,
+    "created_at": "2016-11-30T00:30:24Z",
+    "last_commit_at": "2022-09-15T23:37:16Z",
+    "releases": 20,
+    "tags": 31,
+    "archived": true,
+    "release": {
+      "tag": "v1.1.12",
+      "at": "2021-09-11T02:19:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "71ac16282d122fdd1e3a6d3e7f79b79b4cc3b50e",
+    "v": 4
+  },
+  "pinned_at": "2022-09-15T23:37:16Z"
+}

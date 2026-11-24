@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:368bf174a05e207d7eef926bee6b1a4ba8777972"
+  },
+  "id": "gh:daquinterop/py_dssattools",
+  "kind": "repo",
+  "url": "https://github.com/daquinterop/Py_DSSATTools",
+  "title": "Py_DSSATTools",
+  "why": "Writes DSSAT crop model input files from Python, covering soil layers, weather records and field management, then runs treatments.",
+  "keys": {
+    "races": [
+      "agriculture/crop-models"
+    ],
+    "lanes": [
+      "agriculture/crop-models"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/daquinterop/Py_DSSATTools",
+    "sha": "368bf174a05e207d7eef926bee6b1a4ba8777972",
+    "file_url": "https://cdn.jsdelivr.net/gh/daquinterop/Py_DSSATTools@368bf174a05e207d7eef926bee6b1a4ba8777972/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 94,
+    "size_mb": 22,
+    "created_at": "2021-08-18T22:20:31Z",
+    "last_commit_at": "2026-09-09T13:59:40Z",
+    "releases": 7,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v3.0.2",
+      "at": "2026-04-03T13:19:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "368bf174a05e207d7eef926bee6b1a4ba8777972",
+    "v": 4
+  },
+  "pinned_at": "2026-09-09T13:59:40Z"
+}

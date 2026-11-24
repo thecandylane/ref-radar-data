@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:edf803c28e184b9a0dae6fbf13e40caf1801ed54"
+  },
+  "id": "gh:teddygroves/bibat",
+  "kind": "repo",
+  "url": "https://github.com/teddygroves/bibat",
+  "title": "bibat",
+  "why": "Copier template that generates a working Bayesian analysis project around Stan and cmdstanpy, ready to adapt to your own models and data.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "data/statistics",
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/teddygroves/bibat",
+    "sha": "edf803c28e184b9a0dae6fbf13e40caf1801ed54",
+    "file_url": "https://cdn.jsdelivr.net/gh/teddygroves/bibat@edf803c28e184b9a0dae6fbf13e40caf1801ed54/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "MIT",
+    "stars": 23,
+    "size_mb": 38,
+    "created_at": "2021-03-04T17:22:11Z",
+    "last_commit_at": "2024-04-10T12:37:37Z",
+    "releases": 27,
+    "tags": 32,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.4",
+      "at": "2024-04-05T10:02:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "edf803c28e184b9a0dae6fbf13e40caf1801ed54",
+    "v": 4
+  },
+  "pinned_at": "2024-04-10T12:37:37Z"
+}

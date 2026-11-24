@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3d2d9779877742dae8f3bc8644b5a0bee9973bd4"
+  },
+  "id": "gh:single-cell-genetics/cardelino",
+  "kind": "repo",
+  "url": "https://github.com/single-cell-genetics/cardelino",
+  "title": "cardelino",
+  "why": "Bayesian method that infers clonal structure of cells from single-cell RNA-seq, and needs a clonal tree from bulk DNA sequencing.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/single-cell-genetics/cardelino",
+    "sha": "3d2d9779877742dae8f3bc8644b5a0bee9973bd4",
+    "file_url": "https://cdn.jsdelivr.net/gh/single-cell-genetics/cardelino@3d2d9779877742dae8f3bc8644b5a0bee9973bd4/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 68,
+    "size_mb": 10,
+    "created_at": "2017-11-13T18:51:59Z",
+    "last_commit_at": "2022-11-10T04:02:09Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.2",
+      "at": "2019-08-10T08:15:29.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "3d2d9779877742dae8f3bc8644b5a0bee9973bd4",
+    "v": 4
+  },
+  "pinned_at": "2022-11-10T04:02:09Z"
+}

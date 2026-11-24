@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:51aad6e9ae42f5b045fa9b76129fe0746631784d"
+  },
+  "id": "gh:tlsfuzzer/tlsfuzzer",
+  "kind": "repo",
+  "url": "https://github.com/tlsfuzzer/tlsfuzzer",
+  "title": "tlsfuzzer",
+  "why": "Replays TLS handshakes as scripted expect and command steps, mutating fields to see how a server reacts, then runs timing analysis on the logs.",
+  "keys": {
+    "races": [
+      "dev-tools/testing",
+      "exploit/fuzzing"
+    ],
+    "lanes": [
+      "dev-tools/testing",
+      "exploit/fuzzing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tlsfuzzer/tlsfuzzer",
+    "sha": "51aad6e9ae42f5b045fa9b76129fe0746631784d",
+    "file_url": "https://cdn.jsdelivr.net/gh/tlsfuzzer/tlsfuzzer@51aad6e9ae42f5b045fa9b76129fe0746631784d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-2.0",
+    "stars": 639,
+    "size_mb": 10,
+    "created_at": "2015-01-08T15:41:49Z",
+    "last_commit_at": "2026-11-18T15:24:32Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "51aad6e9ae42f5b045fa9b76129fe0746631784d",
+    "v": 4
+  },
+  "pinned_at": "2026-11-18T15:24:32Z"
+}

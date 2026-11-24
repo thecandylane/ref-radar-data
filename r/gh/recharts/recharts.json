@@ -15,11 +15,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -32,16 +32,16 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 27738,
-    "size_mb": 5714,
+    "stars": 27741,
+    "size_mb": 5749,
     "created_at": "2015-08-07T06:50:27Z",
-    "last_commit_at": "2026-11-23T08:32:11Z",
-    "releases": 104,
-    "tags": 259,
+    "last_commit_at": "2026-11-24T05:59:13Z",
+    "releases": 105,
+    "tags": 260,
     "archived": false,
     "release": {
-      "tag": "v3.11.0",
-      "at": "2026-11-17T16:40:18.000Z"
+      "tag": "v3.11.1",
+      "at": "2026-11-23T20:17:22.000Z"
     }
   },
   "reuse": "copy",
@@ -52,11 +52,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 24,
+    "star_delta_7d": 25,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "31b891413c1730f77c9c1881d5490a4a0b06c5c6",
+    "v": 4
+  },
   "pins_before": [
     "6890c245fada882b2668a4e9c4e05fa8886df89d"
   ],

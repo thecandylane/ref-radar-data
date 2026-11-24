@@ -20,15 +20,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "packages",
       "kind": "path"
     },
     {
       "locator": "crates",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -44,7 +44,7 @@
     "stars": 2480,
     "size_mb": 231,
     "created_at": "2025-02-18T09:39:55Z",
-    "last_commit_at": "2026-11-23T08:57:17Z",
+    "last_commit_at": "2026-11-23T09:20:48Z",
     "releases": 3,
     "tags": 3157,
     "archived": false,
@@ -63,6 +63,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "5e0c1146bafaf2999c01be50557a4d94ace81968",
     "v": 4

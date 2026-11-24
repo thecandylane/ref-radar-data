@@ -17,11 +17,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -34,16 +34,16 @@
   "facts": {
     "lang": "C++",
     "license": "BSD-3-Clause",
-    "stars": 13083,
-    "size_mb": 599,
+    "stars": 13089,
+    "size_mb": 600,
     "created_at": "2012-08-04T21:19:36Z",
-    "last_commit_at": "2026-11-23T09:30:18Z",
-    "releases": 138,
-    "tags": 168,
+    "last_commit_at": "2026-11-24T08:32:43Z",
+    "releases": 140,
+    "tags": 170,
     "archived": false,
     "release": {
-      "tag": "v1.17.0",
-      "at": "2026-05-13T19:03:26.000Z"
+      "tag": "v1.18.0",
+      "at": "2026-11-24T02:09:02.000Z"
     }
   },
   "reuse": "copy",
@@ -54,11 +54,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 43,
+    "star_delta_7d": 44,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "0e0f3ce8a241441de5aa59f479cb49b2d8652f5d",
+    "v": 4
+  },
   "pins_before": [
     "19f17a7a811ccaf7341e73ec9b5c5e0d8654aa4a"
   ],

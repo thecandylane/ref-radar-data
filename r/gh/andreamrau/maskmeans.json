@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1d48e38af52d9ae478633564220e7be9b370a53c"
+  },
+  "id": "gh:andreamrau/maskmeans",
+  "kind": "repo",
+  "url": "https://github.com/andreamrau/maskmeans",
+  "title": "maskmeans",
+  "why": "Aggregates or splits an existing clustering across several data views, with plots such as dendrograms, built for multi-omic breast cancer data.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "data/statistics",
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/andreamrau/maskmeans",
+    "sha": "1d48e38af52d9ae478633564220e7be9b370a53c",
+    "file_url": "https://cdn.jsdelivr.net/gh/andreamrau/maskmeans@1d48e38af52d9ae478633564220e7be9b370a53c/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 3,
+    "size_mb": 3,
+    "created_at": "2018-02-23T14:30:20Z",
+    "last_commit_at": "2021-11-08T15:07:21Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "0.1.0",
+      "at": "2020-01-09T15:34:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "1d48e38af52d9ae478633564220e7be9b370a53c",
+    "v": 4
+  },
+  "pinned_at": "2021-11-08T15:07:21Z"
+}

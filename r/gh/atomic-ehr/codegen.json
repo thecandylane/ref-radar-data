@@ -1,0 +1,68 @@
+{
+  "id": "gh:atomic-ehr/codegen",
+  "kind": "repo",
+  "url": "https://github.com/atomic-ehr/codegen",
+  "title": "codegen",
+  "why": "Turns FHIR packages into TypeScript types, with a generation report and collision ordering for schema names.",
+  "keys": {
+    "races": [
+      "medicine/interoperability",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "medicine/interoperability",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/atomic-ehr/codegen",
+    "sha": "5a15d134a949c107cca910c75764c6d597ace06a",
+    "file_url": "https://cdn.jsdelivr.net/gh/atomic-ehr/codegen@5a15d134a949c107cca910c75764c6d597ace06a/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 24,
+    "size_mb": 12,
+    "created_at": "2025-08-05T16:06:07Z",
+    "last_commit_at": "2026-10-22T11:06:39Z",
+    "releases": 21,
+    "tags": 23,
+    "archived": false,
+    "release": {
+      "tag": "v0.0.24",
+      "at": "2026-10-22T11:10:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "5a15d134a949c107cca910c75764c6d597ace06a",
+    "v": 4
+  },
+  "pinned_at": "2026-10-22T11:06:39Z"
+}

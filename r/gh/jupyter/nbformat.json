@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cfb73afdd2a7f358953f2a34f747fd0d0e9d6288"
+  },
+  "id": "gh:jupyter/nbformat",
+  "kind": "repo",
+  "url": "https://github.com/jupyter/nbformat",
+  "title": "nbformat",
+  "why": "Handles notebook files across format versions v1 to v4, with reads, writes, schema validation and signing.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jupyter/nbformat",
+    "sha": "cfb73afdd2a7f358953f2a34f747fd0d0e9d6288",
+    "file_url": "https://cdn.jsdelivr.net/gh/jupyter/nbformat@cfb73afdd2a7f358953f2a34f747fd0d0e9d6288/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 316,
+    "size_mb": 1,
+    "created_at": "2015-04-09T01:07:29Z",
+    "last_commit_at": "2026-10-15T13:41:46Z",
+    "releases": 27,
+    "tags": 44,
+    "archived": false,
+    "release": {
+      "tag": "v5.11.1",
+      "at": "2026-08-17T08:10:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "cfb73afdd2a7f358953f2a34f747fd0d0e9d6288",
+    "v": 4
+  },
+  "pinned_at": "2026-10-15T13:41:46Z"
+}

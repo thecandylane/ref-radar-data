@@ -18,11 +18,11 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
+      "locator": "packages",
       "kind": "path"
     },
     {
-      "locator": "packages",
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -35,7 +35,7 @@
   "facts": {
     "lang": "HTML",
     "license": "MIT",
-    "stars": 32037,
+    "stars": 32036,
     "size_mb": 10,
     "created_at": "2019-11-28T13:51:55Z",
     "last_commit_at": "2026-10-05T11:46:59Z",
@@ -55,11 +55,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 16,
+    "star_delta_7d": 12,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "8d3d9a2f98385d4c879f4b5be080a0221279ed4d",
     "v": 4

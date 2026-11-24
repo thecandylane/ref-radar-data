@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b86e2b18539fa4922acf7001902255e2ce5bf0b9"
+  },
+  "id": "gh:mixmark-io/turndown",
+  "kind": "repo",
+  "url": "https://github.com/mixmark-io/turndown",
+  "title": "turndown",
+  "why": "Converts HTML or DOM nodes into Markdown in Node or the browser, with rules, plugins and options for heading, list and code styles.",
+  "keys": {
+    "races": [
+      "dev-tools/docs",
+      "web/browsers"
+    ],
+    "lanes": [
+      "dev-tools/docs",
+      "web/browsers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mixmark-io/turndown",
+    "sha": "b86e2b18539fa4922acf7001902255e2ce5bf0b9",
+    "file_url": "https://cdn.jsdelivr.net/gh/mixmark-io/turndown@b86e2b18539fa4922acf7001902255e2ce5bf0b9/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 11517,
+    "size_mb": 4,
+    "created_at": "2011-10-23T10:35:39Z",
+    "last_commit_at": "2026-11-04T11:56:53Z",
+    "releases": 19,
+    "tags": 56,
+    "archived": false,
+    "release": {
+      "tag": "v7.2.5",
+      "at": "2026-11-04T11:57:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b86e2b18539fa4922acf7001902255e2ce5bf0b9",
+    "v": 4
+  },
+  "pinned_at": "2026-11-04T11:56:53Z"
+}

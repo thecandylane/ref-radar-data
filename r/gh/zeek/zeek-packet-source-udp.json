@@ -1,0 +1,65 @@
+{
+  "id": "gh:zeek/zeek-packet-source-udp",
+  "kind": "repo",
+  "url": "https://github.com/zeek/zeek-packet-source-udp",
+  "title": "zeek-packet-source-udp",
+  "why": "Lets Zeek read VXLAN and GENEVE mirror tunnels over plain UDP, so cloud traffic mirrors work without raw interface capture or NET_RAW.",
+  "keys": {
+    "races": [
+      "netsec/capture",
+      "infra/networking"
+    ],
+    "lanes": [
+      "netsec/capture",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zeek/zeek-packet-source-udp",
+    "sha": "0f98e1255d1ef695c4ca5ea9a62b6ebbd0ad99b7",
+    "file_url": "https://cdn.jsdelivr.net/gh/zeek/zeek-packet-source-udp@0f98e1255d1ef695c4ca5ea9a62b6ebbd0ad99b7/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "BSD-3-Clause",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-01-29T15:57:41Z",
+    "last_commit_at": "2026-07-14T18:54:49Z",
+    "releases": 0,
+    "tags": 3,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "0f98e1255d1ef695c4ca5ea9a62b6ebbd0ad99b7",
+    "v": 4
+  },
+  "pinned_at": "2026-07-14T18:54:49Z"
+}

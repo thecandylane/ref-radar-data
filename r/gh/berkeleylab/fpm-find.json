@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:71d20901d5ee13a97f96433e09a0ff9077ac41fc"
+  },
   "id": "gh:berkeleylab/fpm-find",
   "kind": "repo",
   "url": "https://github.com/BerkeleyLab/fpm-find",
@@ -60,5 +63,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "71d20901d5ee13a97f96433e09a0ff9077ac41fc",
+    "v": 4
+  }
 }

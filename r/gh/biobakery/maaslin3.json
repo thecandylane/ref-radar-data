@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d5f36fbc0a6a77001f0736ae389618fba07b1e1f"
+  },
+  "id": "gh:biobakery/maaslin3",
+  "kind": "repo",
+  "url": "https://github.com/biobakery/maaslin3",
+  "title": "maaslin3",
+  "why": "Tests clinical metadata against microbial features for both abundance and prevalence, accounting for compositionality in linear models.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/biobakery/maaslin3",
+    "sha": "d5f36fbc0a6a77001f0736ae389618fba07b1e1f",
+    "file_url": "https://cdn.jsdelivr.net/gh/biobakery/maaslin3@d5f36fbc0a6a77001f0736ae389618fba07b1e1f/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 91,
+    "size_mb": 25,
+    "created_at": "2024-06-11T20:58:13Z",
+    "last_commit_at": "2026-10-19T18:06:43Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "0.99.16-MaAsLin-3-paper",
+      "at": "2025-08-26T15:28:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d5f36fbc0a6a77001f0736ae389618fba07b1e1f",
+    "v": 4
+  },
+  "pinned_at": "2026-10-19T18:06:43Z"
+}

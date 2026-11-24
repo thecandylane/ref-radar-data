@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:674328962f28240fabdd3c9282416367bbc228ff"
+  },
+  "id": "gh:arives/rr2",
+  "kind": "repo",
+  "url": "https://github.com/arives/rr2",
+  "title": "rr2",
+  "why": "Calculates three R2 measures for mixed models and phylogenetic regressions where errors are correlated, with partial R2 against a reduced model.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "data/statistics",
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/arives/rr2",
+    "sha": "674328962f28240fabdd3c9282416367bbc228ff",
+    "file_url": "https://cdn.jsdelivr.net/gh/arives/rr2@674328962f28240fabdd3c9282416367bbc228ff/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 17,
+    "size_mb": 2,
+    "created_at": "2017-07-24T21:20:33Z",
+    "last_commit_at": "2023-08-19T22:44:46Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "1.0.0",
+      "at": "2018-10-30T20:42:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "674328962f28240fabdd3c9282416367bbc228ff",
+    "v": 4
+  },
+  "pinned_at": "2023-08-19T22:44:46Z"
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:90c98f4a637ed4cde1c59f63b9a6add0b2bc8602"
+  },
   "id": "gh:cocoindex-io/cocoindex",
   "kind": "repo",
   "url": "https://github.com/cocoindex-io/cocoindex",
@@ -36,8 +39,8 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 11929,
-    "size_mb": 122,
+    "stars": 11930,
+    "size_mb": 121,
     "created_at": "2025-03-03T23:03:09Z",
     "last_commit_at": "2026-11-21T18:43:04Z",
     "releases": 223,
@@ -61,5 +64,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "90c98f4a637ed4cde1c59f63b9a6add0b2bc8602",
+    "v": 4
+  },
   "pinned_at": "2026-11-21T18:43:04Z"
 }

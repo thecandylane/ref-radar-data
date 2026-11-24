@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:2d66cc208b6f4c747a0e463ce404df87744d0c80"
+  },
   "id": "gh:azure/azure-sentinel",
   "kind": "repo",
   "url": "https://github.com/Azure/Azure-Sentinel",
@@ -28,10 +31,10 @@
   "facts": {
     "lang": "HTML",
     "license": "MIT",
-    "stars": 6266,
-    "size_mb": 11526,
+    "stars": 6268,
+    "size_mb": 11540,
     "created_at": "2018-08-18T02:25:15Z",
-    "last_commit_at": "2026-11-23T08:41:38Z",
+    "last_commit_at": "2026-11-24T07:00:02Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -50,6 +53,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "2d66cc208b6f4c747a0e463ce404df87744d0c80",
     "v": 4

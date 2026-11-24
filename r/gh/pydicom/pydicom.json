@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:6c8881341bee6b438b4cbd0e1a5391774d7919e6"
+  },
   "id": "gh:pydicom/pydicom",
   "kind": "repo",
   "url": "https://github.com/pydicom/pydicom",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 2238,
+    "stars": 2241,
     "size_mb": 152,
     "created_at": "2013-10-31T02:58:52Z",
     "last_commit_at": "2026-11-21T23:55:01Z",
@@ -58,5 +61,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "6c8881341bee6b438b4cbd0e1a5391774d7919e6",
+    "v": 4
+  }
 }

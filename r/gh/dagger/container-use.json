@@ -23,11 +23,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "cmd",
       "kind": "path"
     },
     {
-      "locator": "cmd",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -60,11 +60,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 13,
+    "star_delta_7d": 11,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "2e43e625e95216b719ec9338f4034fd3a0be2734",
     "v": 3

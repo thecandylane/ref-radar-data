@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e1b3bbccc1b5e0f61e2cd1a248f7ff4871207c92"
+  },
+  "id": "gh:diseaseneurogenomics/remacor",
+  "kind": "repo",
+  "url": "https://github.com/DiseaseNeuroGenomics/remaCor",
+  "title": "remaCor",
+  "why": "Pools effect sizes across correlated tests when you supply their correlation matrix, with fixed and random effect variants.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "data/statistics",
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/DiseaseNeuroGenomics/remaCor",
+    "sha": "e1b3bbccc1b5e0f61e2cd1a248f7ff4871207c92",
+    "file_url": "https://cdn.jsdelivr.net/gh/DiseaseNeuroGenomics/remaCor@e1b3bbccc1b5e0f61e2cd1a248f7ff4871207c92/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 1,
+    "size_mb": 11,
+    "created_at": "2022-04-01T17:44:12Z",
+    "last_commit_at": "2025-08-07T18:32:03Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e1b3bbccc1b5e0f61e2cd1a248f7ff4871207c92",
+    "v": 4
+  },
+  "pinned_at": "2025-08-07T18:32:03Z"
+}

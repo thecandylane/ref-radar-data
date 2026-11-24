@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:2eba6fd84d252e3db6e727786d9150219b704585"
+  },
   "id": "gh:frappe/frappe_docker",
   "kind": "repo",
   "url": "https://github.com/frappe/frappe_docker",
@@ -37,7 +40,7 @@
     "stars": 2638,
     "size_mb": 11,
     "created_at": "2017-08-03T11:10:41Z",
-    "last_commit_at": "2026-11-23T06:57:48Z",
+    "last_commit_at": "2026-11-23T09:59:58Z",
     "releases": 22,
     "tags": 22,
     "archived": false,
@@ -59,6 +62,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "2eba6fd84d252e3db6e727786d9150219b704585",
     "v": 4

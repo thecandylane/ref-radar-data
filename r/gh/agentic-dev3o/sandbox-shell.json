@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:236ae8a1cbedf03c94ba066a6f91c35f84dc58ed"
+  },
   "id": "gh:agentic-dev3o/sandbox-shell",
   "kind": "repo",
   "url": "https://github.com/agentic-dev3o/sandbox-shell",
@@ -19,11 +22,11 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -61,5 +64,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "236ae8a1cbedf03c94ba066a6f91c35f84dc58ed",
+    "v": 4
+  },
   "pinned_at": "2026-09-18T16:02:56Z"
 }

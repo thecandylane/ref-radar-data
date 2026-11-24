@@ -22,11 +22,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "sdk",
       "kind": "path"
     },
     {
-      "locator": "sdk",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -39,16 +39,16 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 35840,
+    "stars": 35898,
     "size_mb": 22,
     "created_at": "2026-09-18T04:46:33Z",
-    "last_commit_at": "2026-11-21T15:38:30Z",
-    "releases": 74,
-    "tags": 74,
+    "last_commit_at": "2026-11-23T15:02:15Z",
+    "releases": 75,
+    "tags": 75,
     "archived": false,
     "release": {
-      "tag": "v0.5.2",
-      "at": "2026-11-21T19:24:04.000Z"
+      "tag": "v0.5.3",
+      "at": "2026-11-23T10:46:57.000Z"
     }
   },
   "reuse": "copy",
@@ -59,13 +59,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 272,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "5a6dc4b809659dab3b9b3062f5e3902db983818a",
     "v": 3
-  }
+  },
+  "hot": true
 }

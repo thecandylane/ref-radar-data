@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2db2f8212838ad1ab4e047461c729a894b14113f"
+  },
+  "id": "gh:bridgedb/bridgedbr",
+  "kind": "repo",
+  "url": "https://github.com/bridgedb/BridgeDbR",
+  "title": "BridgeDbR",
+  "why": "Maps gene, metabolite and protein identifiers between databases from R through the Bioconductor package for BridgeDb.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bridgedb/BridgeDbR",
+    "sha": "2db2f8212838ad1ab4e047461c729a894b14113f",
+    "file_url": "https://cdn.jsdelivr.net/gh/bridgedb/BridgeDbR@2db2f8212838ad1ab4e047461c729a894b14113f/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 4,
+    "size_mb": 9,
+    "created_at": "2017-09-09T08:08:35Z",
+    "last_commit_at": "2025-10-29T14:22:40Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "2db2f8212838ad1ab4e047461c729a894b14113f",
+    "v": 4
+  },
+  "pinned_at": "2025-10-29T14:22:40Z"
+}

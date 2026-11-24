@@ -1,0 +1,61 @@
+{
+  "id": "gh:apple/swift-nio",
+  "kind": "repo",
+  "url": "https://github.com/apple/swift-nio",
+  "title": "swift-nio",
+  "why": "Non-blocking I/O on event loops for writing your own protocol servers, with HTTP/1 and WebSocket in the same package.",
+  "keys": {
+    "races": [
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apple/swift-nio",
+    "sha": "ae78c343cde1fad5aad88f0bf59cc7a91dfec0e5",
+    "file_url": "https://cdn.jsdelivr.net/gh/apple/swift-nio@ae78c343cde1fad5aad88f0bf59cc7a91dfec0e5/{path}"
+  },
+  "facts": {
+    "lang": "Swift",
+    "license": "Apache-2.0",
+    "stars": 8553,
+    "size_mb": 13,
+    "created_at": "2018-02-06T17:47:31Z",
+    "last_commit_at": "2026-11-23T17:56:53Z",
+    "releases": 184,
+    "tags": 192,
+    "archived": false,
+    "release": {
+      "tag": "2.105.1",
+      "at": "2026-11-23T13:31:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ae78c343cde1fad5aad88f0bf59cc7a91dfec0e5",
+    "v": 4
+  }
+}

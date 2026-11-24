@@ -22,11 +22,11 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
+      "locator": "packages",
       "kind": "path"
     },
     {
-      "locator": "packages",
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -39,7 +39,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 27376,
+    "stars": 27393,
     "size_mb": 44,
     "created_at": "2025-03-30T22:10:39Z",
     "last_commit_at": "2025-09-21T14:37:40Z",
@@ -61,5 +61,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d20c728368bf9c189d6d7aab704744decb6ec0cc",
+    "v": 4
+  },
   "pinned_at": "2025-09-21T14:37:40Z"
 }

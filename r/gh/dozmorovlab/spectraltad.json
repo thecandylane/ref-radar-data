@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d56908207c793579d513608a174f26c920fd5b5d"
+  },
+  "id": "gh:dozmorovlab/spectraltad",
+  "kind": "repo",
+  "url": "https://github.com/dozmorovlab/SpectralTAD",
+  "title": "SpectralTAD",
+  "why": "Calls hierarchical topologically associating domains from Hi-C contact matrices by spectral clustering, and returns TAD coordinates as BED output.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dozmorovlab/SpectralTAD",
+    "sha": "d56908207c793579d513608a174f26c920fd5b5d",
+    "file_url": "https://cdn.jsdelivr.net/gh/dozmorovlab/SpectralTAD@d56908207c793579d513608a174f26c920fd5b5d/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 13,
+    "size_mb": 2,
+    "created_at": "2019-02-07T15:51:08Z",
+    "last_commit_at": "2026-08-21T01:27:44Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d56908207c793579d513608a174f26c920fd5b5d",
+    "v": 4
+  },
+  "pinned_at": "2026-08-21T01:27:44Z"
+}

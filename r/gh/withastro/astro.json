@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d68e4f6340409a201df7c5f77d5d322abfe6c377"
-  },
   "id": "gh:withastro/astro",
   "kind": "repo",
   "url": "https://github.com/withastro/astro",
@@ -20,27 +17,27 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "packages",
       "kind": "path"
     },
     {
-      "locator": "packages",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/withastro/astro",
-    "sha": "d68e4f6340409a201df7c5f77d5d322abfe6c377",
-    "file_url": "https://cdn.jsdelivr.net/gh/withastro/astro@d68e4f6340409a201df7c5f77d5d322abfe6c377/{path}"
+    "sha": "28a925e016fa160a8cf60bbd9024af92b26dc25b",
+    "file_url": "https://cdn.jsdelivr.net/gh/withastro/astro@28a925e016fa160a8cf60bbd9024af92b26dc25b/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 64144,
+    "stars": 64162,
     "size_mb": 240,
     "created_at": "2021-03-15T17:19:47Z",
-    "last_commit_at": "2026-11-20T11:42:23Z",
+    "last_commit_at": "2026-11-23T18:14:10Z",
     "releases": 1000,
     "tags": 3612,
     "archived": false,
@@ -57,14 +54,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 158,
+    "star_delta_7d": 150,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "d68e4f6340409a201df7c5f77d5d322abfe6c377",
-    "v": 3
+    "sha": "28a925e016fa160a8cf60bbd9024af92b26dc25b",
+    "v": 4
   },
+  "pins_before": [
+    "d68e4f6340409a201df7c5f77d5d322abfe6c377"
+  ],
+  "pinned_at": "2026-11-23T18:14:10Z",
   "hot": true
 }

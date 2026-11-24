@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9aa10f12bcd82400b7eb73331dd7a87a93bb17f7"
-  },
   "id": "gh:getsops/sops",
   "kind": "repo",
   "url": "https://github.com/getsops/sops",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/getsops/sops",
-    "sha": "9aa10f12bcd82400b7eb73331dd7a87a93bb17f7",
-    "file_url": "https://cdn.jsdelivr.net/gh/getsops/sops@9aa10f12bcd82400b7eb73331dd7a87a93bb17f7/{path}"
+    "sha": "5032a7184f1a1cac0f8cf3bc6b680b339a500395",
+    "file_url": "https://cdn.jsdelivr.net/gh/getsops/sops@5032a7184f1a1cac0f8cf3bc6b680b339a500395/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MPL-2.0",
-    "stars": 23806,
+    "stars": 23827,
     "size_mb": 142,
     "created_at": "2015-08-13T22:11:00Z",
-    "last_commit_at": "2026-11-09T16:52:05Z",
+    "last_commit_at": "2026-11-23T16:53:08Z",
     "releases": 38,
     "tags": 49,
     "archived": false,
@@ -57,15 +54,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 78,
+    "star_delta_7d": 92,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "9aa10f12bcd82400b7eb73331dd7a87a93bb17f7",
-    "v": 3
+    "sha": "5032a7184f1a1cac0f8cf3bc6b680b339a500395",
+    "v": 4
   },
-  "pinned_at": "2026-11-09T16:52:05Z",
+  "pins_before": [
+    "9aa10f12bcd82400b7eb73331dd7a87a93bb17f7"
+  ],
+  "pinned_at": "2026-11-23T16:53:08Z",
   "hot": true
 }

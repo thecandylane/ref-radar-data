@@ -56,12 +56,18 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "9383edfb1708e4a44bdd06325ed2789f2566cf60",
+    "v": 4
+  },
   "pinned_at": "2026-10-16T08:43:52Z",
   "papers": [
     {
       "id": "arxiv:2302.01607",
       "via": [
-        "pwc"
+        "pwc",
+        "repo"
       ]
     }
   ]

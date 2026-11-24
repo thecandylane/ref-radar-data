@@ -24,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/mdn/content",
-    "sha": "54ef250ba91a42a7755b7dbd3fd6420c128b7d53",
-    "file_url": "https://cdn.jsdelivr.net/gh/mdn/content@54ef250ba91a42a7755b7dbd3fd6420c128b7d53/{path}"
+    "sha": "6e6793727b60109b6b35a417aba2fc059327da39",
+    "file_url": "https://cdn.jsdelivr.net/gh/mdn/content@6e6793727b60109b6b35a417aba2fc059327da39/{path}"
   },
   "facts": {
     "lang": "Markdown",
     "license": "NOASSERTION",
-    "stars": 11168,
-    "size_mb": 511,
+    "stars": 11172,
+    "size_mb": 513,
     "created_at": "2020-09-15T15:42:29Z",
-    "last_commit_at": "2026-11-23T07:32:28Z",
+    "last_commit_at": "2026-11-24T08:40:16Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -47,17 +47,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 24,
+    "star_delta_7d": 25,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "54ef250ba91a42a7755b7dbd3fd6420c128b7d53",
+    "sha": "6e6793727b60109b6b35a417aba2fc059327da39",
     "v": 4
   },
   "pins_before": [
+    "54ef250ba91a42a7755b7dbd3fd6420c128b7d53",
     "7484d45816002fbf082a59c5d95c38a1eb2b2e4b"
   ],
-  "pinned_at": "2026-11-18T21:51:22Z"
+  "pinned_at": "2026-11-24T08:40:16Z"
 }

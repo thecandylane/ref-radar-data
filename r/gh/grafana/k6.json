@@ -20,10 +20,6 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "lib",
       "kind": "path"
     },
@@ -33,6 +29,10 @@
     },
     {
       "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -45,10 +45,10 @@
   "facts": {
     "lang": "Go",
     "license": "AGPL-3.0",
-    "stars": 32382,
+    "stars": 32394,
     "size_mb": 86,
     "created_at": "2016-03-21T15:30:24Z",
-    "last_commit_at": "2026-11-23T08:37:00Z",
+    "last_commit_at": "2026-11-23T15:49:35Z",
     "releases": 97,
     "tags": 128,
     "archived": false,
@@ -65,11 +65,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 68,
+    "star_delta_7d": 62,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "0110662a25cdb14690d7ba5454d6b6e718d8f9d5",
     "v": 4

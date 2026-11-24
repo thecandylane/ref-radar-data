@@ -15,11 +15,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -43,7 +43,12 @@
       "tag": "v0.23.2",
       "at": "2026-09-08T20:30:04.000Z"
     },
-    "doi": "10.21105/joss.09878"
+    "doi": "10.21105/joss.09878",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-24"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -58,6 +63,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "f7be2f379f9c844270b83984c5172ad247def4df",
     "v": 4

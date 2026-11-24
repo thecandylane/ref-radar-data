@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:52aa5c6dc1d27226460807054ca2107b2d54fb2d"
+  },
+  "id": "gh:go-viper/mapstructure",
+  "kind": "repo",
+  "url": "https://github.com/go-viper/mapstructure",
+  "title": "mapstructure",
+  "why": "Decodes generic map values into Go structs when the shape is only known after reading a type field, and encodes structs back to maps.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/go-viper/mapstructure",
+    "sha": "52aa5c6dc1d27226460807054ca2107b2d54fb2d",
+    "file_url": "https://cdn.jsdelivr.net/gh/go-viper/mapstructure@52aa5c6dc1d27226460807054ca2107b2d54fb2d/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 486,
+    "size_mb": 1,
+    "created_at": "2023-12-18T15:19:52Z",
+    "last_commit_at": "2026-01-27T15:43:36Z",
+    "releases": 9,
+    "tags": 26,
+    "archived": false,
+    "release": {
+      "tag": "v2.5.0",
+      "at": "2026-01-12T18:06:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "52aa5c6dc1d27226460807054ca2107b2d54fb2d",
+    "v": 4
+  },
+  "pinned_at": "2026-01-27T15:43:36Z"
+}

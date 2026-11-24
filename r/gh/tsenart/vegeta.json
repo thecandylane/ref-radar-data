@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a5dcbf48acd83383d3687c3634ce067a54b06983"
+  },
   "id": "gh:tsenart/vegeta",
   "kind": "repo",
   "url": "https://github.com/tsenart/vegeta",
@@ -63,5 +66,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "a5dcbf48acd83383d3687c3634ce067a54b06983",
+    "v": 4
+  },
   "pinned_at": "2026-11-18T23:09:12Z"
 }

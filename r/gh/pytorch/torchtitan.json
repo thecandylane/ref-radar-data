@@ -31,12 +31,12 @@
   "facts": {
     "lang": "Python",
     "license": "BSD-3-Clause",
-    "stars": 5955,
+    "stars": 5968,
     "size_mb": 210,
     "created_at": "2023-12-13T01:51:37Z",
-    "last_commit_at": "2026-11-23T02:27:44Z",
+    "last_commit_at": "2026-11-24T09:42:12Z",
     "releases": 6,
-    "tags": 409,
+    "tags": 402,
     "archived": false,
     "release": {
       "tag": "v0.4.0",
@@ -51,11 +51,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 42,
+    "star_delta_7d": 52,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "65e88e902db7e623e8dcc807da55701a1cd3e466",
+    "v": 4
+  },
   "pins_before": [
     "8e63247cd594725719e61ce598623a75128e7eff"
   ],
@@ -64,7 +69,8 @@
     {
       "id": "arxiv:2410.06511",
       "via": [
-        "pwc"
+        "pwc",
+        "repo"
       ]
     }
   ],

@@ -14,11 +14,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "cmd",
       "kind": "path"
     },
     {
-      "locator": "cmd",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -55,5 +55,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "8d9380585b890419adf5a24f6998ca9b64c8ac92",
+    "v": 4
+  }
 }

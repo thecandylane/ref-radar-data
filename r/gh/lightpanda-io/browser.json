@@ -18,11 +18,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -35,10 +35,10 @@
   "facts": {
     "lang": "Zig",
     "license": "AGPL-3.0",
-    "stars": 42391,
-    "size_mb": 47,
+    "stars": 42454,
+    "size_mb": 48,
     "created_at": "2023-02-07T15:19:34Z",
-    "last_commit_at": "2026-11-23T08:21:56Z",
+    "last_commit_at": "2026-11-24T08:26:29Z",
     "releases": 31,
     "tags": 33,
     "archived": false,
@@ -55,11 +55,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 273,
+    "star_delta_7d": 285,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "573566e94797f0ff776d8ab3f0cd8a8e00039994",
     "v": 4
@@ -67,5 +68,6 @@
   "pins_before": [
     "c83701219895aa6b5958f6d68ab58b2059ef9180"
   ],
-  "pinned_at": "2026-11-19T08:39:21Z"
+  "pinned_at": "2026-11-19T08:39:21Z",
+  "hot": true
 }

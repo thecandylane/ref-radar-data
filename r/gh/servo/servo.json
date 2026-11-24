@@ -2,7 +2,7 @@
   "id": "gh:servo/servo",
   "kind": "repo",
   "url": "https://github.com/servo/servo",
-  "title": "servo",
+  "title": "servo/servo",
   "why": "Rust web engine built to be embedded in applications, with a shell for desktop, Android and OpenHarmony builds.",
   "keys": {
     "races": [
@@ -30,10 +30,10 @@
   "facts": {
     "lang": "Rust",
     "license": "MPL-2.0",
-    "stars": 38596,
-    "size_mb": 2039,
+    "stars": 38618,
+    "size_mb": 2041,
     "created_at": "2012-02-08T19:07:25Z",
-    "last_commit_at": "2026-11-23T06:30:40Z",
+    "last_commit_at": "2026-11-24T07:55:04Z",
     "releases": 18,
     "tags": 19,
     "archived": false,
@@ -55,6 +55,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "cdb1d95f9f511ee18909dd2137a25d78f7443585",
     "v": 4

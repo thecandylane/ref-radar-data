@@ -30,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/camel-ai/camel",
-    "sha": "c619d1fe5aa2182395d02aadddc71b818c1b6c9f",
-    "file_url": "https://raw.githubusercontent.com/camel-ai/camel/c619d1fe5aa2182395d02aadddc71b818c1b6c9f/{path}"
+    "sha": "c9f270d06b80d408809ff4553557a7f5ec4aef64",
+    "file_url": "https://raw.githubusercontent.com/camel-ai/camel/c9f270d06b80d408809ff4553557a7f5ec4aef64/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 18053,
+    "stars": 18054,
     "size_mb": 496,
     "created_at": "2023-03-17T21:41:54Z",
-    "last_commit_at": "2026-11-16T11:44:39Z",
+    "last_commit_at": "2026-11-23T09:40:39Z",
     "releases": 213,
     "tags": 237,
     "archived": false,
@@ -56,19 +56,21 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 15,
+    "star_delta_7d": 13,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "c619d1fe5aa2182395d02aadddc71b818c1b6c9f",
+    "sha": "c9f270d06b80d408809ff4553557a7f5ec4aef64",
     "v": 4
   },
   "pins_before": [
+    "c619d1fe5aa2182395d02aadddc71b818c1b6c9f",
     "0366b64bf3609c76f50e396715aab73ba58a930c"
   ],
-  "pinned_at": "2026-11-16T11:44:39Z",
+  "pinned_at": "2026-11-23T09:40:39Z",
   "papers": [
     {
       "id": "arxiv:2406.20094",

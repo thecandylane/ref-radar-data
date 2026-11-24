@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:35dcc26d370aab6cc17b8efebd68bf926a062526"
+  },
   "id": "gh:birollab/korus",
   "kind": "repo",
   "url": "https://github.com/BirolLab/korus",
@@ -55,5 +58,10 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "35dcc26d370aab6cc17b8efebd68bf926a062526",
+    "v": 4
+  },
   "pinned_at": "2026-11-19T16:17:00Z"
 }

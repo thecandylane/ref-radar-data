@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:aee9e0f6b8e4d359a9ed3607ee12e34a2e2dafac"
+  },
+  "id": "gh:smirik/mercury",
+  "kind": "repo",
+  "url": "https://github.com/smirik/mercury",
+  "title": "mercury",
+  "why": "Integrates any star system with Bulirsh-Stoer and Everhart methods, and logs close encounters between bodies over time.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/smirik/mercury",
+    "sha": "aee9e0f6b8e4d359a9ed3607ee12e34a2e2dafac",
+    "file_url": "https://cdn.jsdelivr.net/gh/smirik/mercury@aee9e0f6b8e4d359a9ed3607ee12e34a2e2dafac/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "GPL-3.0",
+    "stars": 76,
+    "size_mb": 0,
+    "created_at": "2012-05-01T11:51:49Z",
+    "last_commit_at": "2023-02-18T11:37:05Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "aee9e0f6b8e4d359a9ed3607ee12e34a2e2dafac",
+    "v": 4
+  },
+  "pinned_at": "2023-02-18T11:37:05Z"
+}

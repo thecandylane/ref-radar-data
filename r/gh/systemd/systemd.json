@@ -1,0 +1,67 @@
+{
+  "id": "gh:systemd/systemd",
+  "kind": "repo",
+  "url": "https://github.com/systemd/systemd",
+  "title": "systemd",
+  "why": "Init system and service manager for Linux, with a code map, hacking guide and coding style guide for contributors.",
+  "keys": {
+    "races": [
+      "systems/os",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "systems/os",
+      "infra/hosting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/systemd/systemd",
+    "sha": "e691c3d7c1454d9ca96209954f551af6c7840db3",
+    "file_url": "https://cdn.jsdelivr.net/gh/systemd/systemd@e691c3d7c1454d9ca96209954f551af6c7840db3/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-2.0",
+    "stars": 17060,
+    "size_mb": 799,
+    "created_at": "2015-03-25T15:27:27Z",
+    "last_commit_at": "2026-11-24T09:40:38Z",
+    "releases": 172,
+    "tags": 477,
+    "archived": false,
+    "release": {
+      "tag": "v262.2",
+      "at": "2026-11-05T16:12:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e691c3d7c1454d9ca96209954f551af6c7840db3",
+    "v": 4
+  }
+}

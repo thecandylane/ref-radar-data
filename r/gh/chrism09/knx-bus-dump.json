@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:067f1a99324b7419ba21230ca703ac5e100f4308"
+  },
+  "id": "gh:chrism09/knx-bus-dump",
+  "kind": "repo",
+  "url": "https://github.com/ChrisM09/KNX-Bus-Dump",
+  "title": "KNX-Bus-Dump",
+  "why": "Records KNX bus telegrams through a TPUART adapter into a hex dump that Wireshark's cEMI dissector can read.",
+  "keys": {
+    "races": [
+      "netsec/capture",
+      "industrial/protocols"
+    ],
+    "lanes": [
+      "netsec/capture",
+      "industrial/protocols"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ChrisM09/KNX-Bus-Dump",
+    "sha": "067f1a99324b7419ba21230ca703ac5e100f4308",
+    "file_url": "https://cdn.jsdelivr.net/gh/ChrisM09/KNX-Bus-Dump@067f1a99324b7419ba21230ca703ac5e100f4308/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "none",
+    "stars": 12,
+    "size_mb": 13,
+    "created_at": "2022-01-12T21:16:49Z",
+    "last_commit_at": "2022-03-19T19:07:06Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "067f1a99324b7419ba21230ca703ac5e100f4308",
+    "v": 4
+  },
+  "pinned_at": "2022-03-19T19:07:06Z"
+}

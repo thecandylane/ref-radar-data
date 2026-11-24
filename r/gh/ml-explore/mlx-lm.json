@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c4c9c762cc797fd979fc98645f5db5112753bbe9"
-  },
   "id": "gh:ml-explore/mlx-lm",
   "kind": "repo",
   "url": "https://github.com/ml-explore/mlx-lm",
@@ -27,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ml-explore/mlx-lm",
-    "sha": "c4c9c762cc797fd979fc98645f5db5112753bbe9",
-    "file_url": "https://cdn.jsdelivr.net/gh/ml-explore/mlx-lm@c4c9c762cc797fd979fc98645f5db5112753bbe9/{path}"
+    "sha": "1bf8da05a1ef30a3eb2e8a634180be6557fd3ca0",
+    "file_url": "https://cdn.jsdelivr.net/gh/ml-explore/mlx-lm@1bf8da05a1ef30a3eb2e8a634180be6557fd3ca0/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 7740,
+    "stars": 7748,
     "size_mb": 3,
     "created_at": "2025-03-11T16:38:30Z",
     "last_commit_at": "2026-11-21T04:00:12Z",
@@ -53,17 +50,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 72,
+    "star_delta_7d": 77,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "c4c9c762cc797fd979fc98645f5db5112753bbe9",
+    "sha": "1bf8da05a1ef30a3eb2e8a634180be6557fd3ca0",
     "v": 4
   },
   "pins_before": [
+    "c4c9c762cc797fd979fc98645f5db5112753bbe9",
     "56230fa02b8ff8330daf26dc95c28480423ed5fe"
   ],
-  "pinned_at": "2026-11-16T23:02:24Z"
+  "pinned_at": "2026-11-21T04:00:12Z"
 }

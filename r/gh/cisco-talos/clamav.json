@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:fc11d725ccc7c9900ab1add88d790b4e7ae7debf"
+    "swh": "swh:1:rev:cad7b18a3e6505195fe08db1412449a18fc9f012"
   },
   "id": "gh:cisco-talos/clamav",
   "kind": "repo",
@@ -25,13 +25,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Cisco-Talos/clamav",
-    "sha": "fc11d725ccc7c9900ab1add88d790b4e7ae7debf",
-    "file_url": "https://cdn.jsdelivr.net/gh/Cisco-Talos/clamav@fc11d725ccc7c9900ab1add88d790b4e7ae7debf/{path}"
+    "sha": "cad7b18a3e6505195fe08db1412449a18fc9f012",
+    "file_url": "https://cdn.jsdelivr.net/gh/Cisco-Talos/clamav@cad7b18a3e6505195fe08db1412449a18fc9f012/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "GPL-2.0",
-    "stars": 7707,
+    "stars": 7714,
     "size_mb": 178,
     "created_at": "2012-07-20T20:37:54Z",
     "last_commit_at": "2026-11-22T18:26:00Z",
@@ -51,18 +51,20 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 104,
+    "star_delta_7d": 78,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "fc11d725ccc7c9900ab1add88d790b4e7ae7debf",
+    "sha": "cad7b18a3e6505195fe08db1412449a18fc9f012",
     "v": 4
   },
   "pins_before": [
+    "fc11d725ccc7c9900ab1add88d790b4e7ae7debf",
     "14915a94cf00ca3a3b7d93b4da050b4dc7f7b76a"
   ],
-  "pinned_at": "2026-11-17T02:05:10Z",
+  "pinned_at": "2026-11-22T18:26:00Z",
   "hot": true
 }

@@ -1,0 +1,70 @@
+{
+  "id": "gh:chrischall/workday-mcp",
+  "kind": "repo",
+  "url": "https://github.com/chrischall/workday-mcp",
+  "title": "workday-mcp",
+  "why": "Gives an agent Workday benefits, reviews, reports and people tools through fetchproxy, reading the pages you can already open.",
+  "keys": {
+    "races": [
+      "hr/hris",
+      "agents/tools"
+    ],
+    "lanes": [
+      "hr/hris",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/chrischall/workday-mcp",
+    "sha": "8ce0992eee6642897e71a3929ec321a30b370a0a",
+    "file_url": "https://cdn.jsdelivr.net/gh/chrischall/workday-mcp@8ce0992eee6642897e71a3929ec321a30b370a0a/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 1,
+    "created_at": "2026-06-19T01:19:08Z",
+    "last_commit_at": "2026-11-20T03:54:50Z",
+    "releases": 34,
+    "tags": 34,
+    "archived": false,
+    "release": {
+      "tag": "v1.8.0",
+      "at": "2026-11-11T18:37:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "8ce0992eee6642897e71a3929ec321a30b370a0a",
+    "v": 4
+  },
+  "pinned_at": "2026-11-20T03:54:50Z"
+}

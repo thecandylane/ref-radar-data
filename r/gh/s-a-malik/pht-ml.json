@@ -1,0 +1,79 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3a013ec2db2594b6a81d6c77c813c5d74c87c98f"
+  },
+  "id": "gh:s-a-malik/pht-ml",
+  "kind": "repo",
+  "url": "https://github.com/s-a-malik/pht-ml",
+  "title": "pht-ml",
+  "why": "Trains a 1-D CNN called PlaNet on TESS light curves to flag long-period planet transits from volunteer scores.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "ml/training"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/s-a-malik/pht-ml",
+    "sha": "3a013ec2db2594b6a81d6c77c813c5d74c87c98f",
+    "file_url": "https://cdn.jsdelivr.net/gh/s-a-malik/pht-ml@3a013ec2db2594b6a81d6c77c813c5d74c87c98f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 4,
+    "size_mb": 23,
+    "created_at": "2022-04-18T14:47:09Z",
+    "last_commit_at": "2025-07-08T13:56:10Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "doi",
+      "at": "2024-08-26T21:54:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "3a013ec2db2594b6a81d6c77c813c5d74c87c98f",
+    "v": 4
+  },
+  "pinned_at": "2025-07-08T13:56:10Z",
+  "papers": [
+    {
+      "id": "arxiv:2211.06903",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

@@ -25,16 +25,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/punkpeye/awesome-mcp-servers",
-    "sha": "5fb385c3c56a004eacad6a21cb446205c787926b",
-    "file_url": "https://cdn.jsdelivr.net/gh/punkpeye/awesome-mcp-servers@5fb385c3c56a004eacad6a21cb446205c787926b/{path}"
+    "sha": "ac5cc375faa76c50b8c848538549e78884c2a8dd",
+    "file_url": "https://cdn.jsdelivr.net/gh/punkpeye/awesome-mcp-servers@ac5cc375faa76c50b8c848538549e78884c2a8dd/{path}"
   },
   "facts": {
     "lang": null,
     "license": "MIT",
-    "stars": 98403,
-    "size_mb": 638,
+    "stars": 98451,
+    "size_mb": 639,
     "created_at": "2024-11-30T04:49:10Z",
-    "last_commit_at": "2026-11-23T01:44:47Z",
+    "last_commit_at": "2026-11-24T08:42:36Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -53,9 +53,13 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "5fb385c3c56a004eacad6a21cb446205c787926b",
+    "sha": "ac5cc375faa76c50b8c848538549e78884c2a8dd",
     "v": 4
   },
-  "pinned_at": "2026-11-17T05:21:40Z"
+  "pins_before": [
+    "5fb385c3c56a004eacad6a21cb446205c787926b"
+  ],
+  "pinned_at": "2026-11-24T08:42:36Z"
 }

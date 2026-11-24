@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:827110332c21cbe000ab13f6d292d5adb1f1f8db"
+  },
+  "id": "gh:enescingoz/awesome-n8n-templates",
+  "kind": "repo",
+  "url": "https://github.com/enescingoz/awesome-n8n-templates",
+  "title": "awesome-n8n-templates",
+  "why": "Importable n8n workflow JSON files for Gmail, Telegram, Slack and RAG chatbots, meant to be reviewed and configured before running.",
+  "keys": {
+    "races": [
+      "business-apps/low-code",
+      "agents/frameworks"
+    ],
+    "lanes": [
+      "business-apps/low-code",
+      "agents/frameworks"
+    ],
+    "capabilities": [
+      "agents/frameworks/agent-workflows"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/enescingoz/awesome-n8n-templates",
+    "sha": "827110332c21cbe000ab13f6d292d5adb1f1f8db",
+    "file_url": "https://cdn.jsdelivr.net/gh/enescingoz/awesome-n8n-templates@827110332c21cbe000ab13f6d292d5adb1f1f8db/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "NOASSERTION",
+    "stars": 26548,
+    "size_mb": 5,
+    "created_at": "2025-05-08T18:34:01Z",
+    "last_commit_at": "2026-09-12T13:00:32Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "827110332c21cbe000ab13f6d292d5adb1f1f8db",
+    "v": 4
+  },
+  "pinned_at": "2026-09-12T13:00:32Z"
+}

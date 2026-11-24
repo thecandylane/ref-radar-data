@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:10bb7f9c711278bf11b0f4985313f97fd2e42df1"
+  },
   "id": "gh:rustls/rustls",
   "kind": "repo",
   "url": "https://github.com/rustls/rustls",
@@ -28,10 +31,10 @@
   "facts": {
     "lang": "Rust",
     "license": "NOASSERTION",
-    "stars": 7784,
+    "stars": 7790,
     "size_mb": 21,
     "created_at": "2016-05-02T20:50:44Z",
-    "last_commit_at": "2026-11-22T11:00:59Z",
+    "last_commit_at": "2026-11-23T15:11:15Z",
     "releases": 112,
     "tags": 119,
     "archived": false,
@@ -48,11 +51,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 29,
+    "star_delta_7d": 34,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "10bb7f9c711278bf11b0f4985313f97fd2e42df1",
+    "v": 4
+  },
   "pins_before": [
     "f68d6d296759bb002c462b402401f2cf295b92da"
   ],

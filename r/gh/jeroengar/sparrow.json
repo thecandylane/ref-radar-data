@@ -1,0 +1,73 @@
+{
+  "id": "gh:jeroengar/sparrow",
+  "kind": "repo",
+  "url": "https://github.com/JeroenGar/sparrow",
+  "title": "sparrow",
+  "why": "Packs items into a strip of shrinking width, searching placements with separation passes and a terminal dashboard.",
+  "keys": {
+    "races": [
+      "sci/optimization"
+    ],
+    "lanes": [
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/JeroenGar/sparrow",
+    "sha": "b8ef03312b7a195895f6c5332c6674dd78420ede",
+    "file_url": "https://cdn.jsdelivr.net/gh/JeroenGar/sparrow@b8ef03312b7a195895f6c5332c6674dd78420ede/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 458,
+    "size_mb": 45,
+    "created_at": "2024-11-25T15:27:13Z",
+    "last_commit_at": "2026-11-23T23:21:21Z",
+    "releases": 2,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.0",
+      "at": "2026-10-01T14:32:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b8ef03312b7a195895f6c5332c6674dd78420ede",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2509.13329",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "gh:canida-software/lohnsteuer",
+  "kind": "repo",
+  "url": "https://github.com/canida-software/lohnsteuer",
+  "title": "lohnsteuer",
+  "why": "Calculates German wage tax per pay period from the official BMF PAP for 2025 and 2026, validated against the BMF external API.",
+  "keys": {
+    "races": [
+      "hr/hris",
+      "civic/rules-as-code"
+    ],
+    "lanes": [
+      "hr/hris",
+      "civic/rules-as-code"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/canida-software/lohnsteuer",
+    "sha": "7f4c649d68bb55ea33b3ba9d71a728d40ad3988b",
+    "file_url": "https://cdn.jsdelivr.net/gh/canida-software/lohnsteuer@7f4c649d68bb55ea33b3ba9d71a728d40ad3988b/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 2,
+    "size_mb": 0,
+    "created_at": "2026-03-04T13:26:25Z",
+    "last_commit_at": "2026-03-16T12:32:42Z",
+    "releases": 0,
+    "tags": 5,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "7f4c649d68bb55ea33b3ba9d71a728d40ad3988b",
+    "v": 4
+  },
+  "pinned_at": "2026-03-16T12:32:42Z"
+}

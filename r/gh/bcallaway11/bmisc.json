@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:8ff9319d61320930c5296da7b414350916d992b5"
+  },
   "id": "gh:bcallaway11/bmisc",
   "kind": "repo",
   "url": "https://github.com/bcallaway11/BMisc",
@@ -35,7 +38,7 @@
     "stars": 7,
     "size_mb": 13,
     "created_at": "2017-02-07T19:58:25Z",
-    "last_commit_at": "2026-11-20T17:05:08Z",
+    "last_commit_at": "2026-11-23T18:49:43Z",
     "releases": 2,
     "tags": 2,
     "archived": false,
@@ -57,5 +60,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "8ff9319d61320930c5296da7b414350916d992b5",
+    "v": 4
+  },
   "pinned_at": "2026-11-20T17:05:08Z"
 }

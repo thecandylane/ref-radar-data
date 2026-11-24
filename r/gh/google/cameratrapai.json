@@ -30,7 +30,7 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 591,
+    "stars": 592,
     "size_mb": 15,
     "created_at": "2024-09-06T17:43:58Z",
     "last_commit_at": "2026-11-16T20:09:22Z",
@@ -52,5 +52,18 @@
     "ranks": {}
   },
   "tier": "discovered",
-  "pinned_at": "2026-11-16T20:09:22Z"
+  "drafted": true,
+  "pack": {
+    "sha": "2effbee40d2430cbad24711dfe72e0e707a50fcd",
+    "v": 4
+  },
+  "pinned_at": "2026-11-16T20:09:22Z",
+  "papers": [
+    {
+      "id": "arxiv:2104.00298",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
 }

@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9be855da9eeaa4c277dc73ae0a3db26d3b052bdd"
+  },
+  "id": "gh:robaina/pynteny",
+  "kind": "repo",
+  "url": "https://github.com/Robaina/Pynteny",
+  "title": "Pynteny",
+  "why": "Finds synteny blocks in prokaryotic sequence data by chaining HMM hits in a gene order pattern, which cuts paralog ambiguity.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/search"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/search"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Robaina/Pynteny",
+    "sha": "9be855da9eeaa4c277dc73ae0a3db26d3b052bdd",
+    "file_url": "https://cdn.jsdelivr.net/gh/Robaina/Pynteny@9be855da9eeaa4c277dc73ae0a3db26d3b052bdd/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 21,
+    "size_mb": 23,
+    "created_at": "2022-06-06T14:39:33Z",
+    "last_commit_at": "2026-06-23T09:24:38Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.0",
+      "at": "2026-06-19T12:51:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "9be855da9eeaa4c277dc73ae0a3db26d3b052bdd",
+    "v": 4
+  },
+  "pinned_at": "2026-06-23T09:24:38Z"
+}

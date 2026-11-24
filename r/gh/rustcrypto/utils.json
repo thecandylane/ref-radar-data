@@ -1,0 +1,54 @@
+{
+  "id": "gh:rustcrypto/utils",
+  "kind": "repo",
+  "url": "https://github.com/RustCrypto/utils",
+  "title": "utils",
+  "why": "Ctutils, cmov and block-padding give Rust crypto crates shared choice, conditional move and padding primitives.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/RustCrypto/utils",
+    "sha": "0feca06cf87e61567033a333feb79ecf3c427fea",
+    "file_url": "https://cdn.jsdelivr.net/gh/RustCrypto/utils@0feca06cf87e61567033a333feb79ecf3c427fea/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "none",
+    "stars": 693,
+    "size_mb": 3,
+    "created_at": "2016-12-25T02:33:48Z",
+    "last_commit_at": "2026-11-20T02:07:56Z",
+    "releases": 0,
+    "tags": 374,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "0feca06cf87e61567033a333feb79ecf3c427fea",
+    "v": 4
+  }
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:21ae4bffd36fb6825e1fc7385cd8935e810af8b0"
+  },
   "id": "gh:carlosnz/json-edit-react",
   "kind": "repo",
   "url": "https://github.com/CarlosNZ/json-edit-react",
@@ -15,15 +18,15 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
-      "kind": "path"
-    },
-    {
       "locator": "src",
       "kind": "path"
     },
     {
       "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -61,5 +64,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "21ae4bffd36fb6825e1fc7385cd8935e810af8b0",
+    "v": 4
+  },
   "pinned_at": "2026-11-05T21:50:49Z"
 }

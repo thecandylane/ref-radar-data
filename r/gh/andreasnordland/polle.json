@@ -1,0 +1,58 @@
+{
+  "id": "gh:andreasnordland/polle",
+  "kind": "repo",
+  "url": "https://github.com/AndreasNordland/polle",
+  "title": "polle",
+  "why": "Estimates and learns optimal treatment policies from data with doubly learned loss functions, including policy trees and subgroup analysis.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AndreasNordland/polle",
+    "sha": "e59ffb7d4da8b5f08a678ba157b2c84e16844cac",
+    "file_url": "https://cdn.jsdelivr.net/gh/AndreasNordland/polle@e59ffb7d4da8b5f08a678ba157b2c84e16844cac/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 7,
+    "size_mb": 2,
+    "created_at": "2022-10-26T12:22:29Z",
+    "last_commit_at": "2026-10-11T12:53:23Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "e59ffb7d4da8b5f08a678ba157b2c84e16844cac",
+    "v": 4
+  }
+}

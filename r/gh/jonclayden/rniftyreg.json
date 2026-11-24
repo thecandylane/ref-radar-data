@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ae3925d8c28d52bfd8587dbfa71c1d6493de6425"
+  },
+  "id": "gh:jonclayden/rniftyreg",
+  "kind": "repo",
+  "url": "https://github.com/jonclayden/RNiftyReg",
+  "title": "RNiftyReg",
+  "why": "Aligns two brain scans or ordinary images from R, with affine and nonlinear registration plus tools to compose, halve and apply transforms.",
+  "keys": {
+    "races": [
+      "medicine/medical-imaging",
+      "ml/vision"
+    ],
+    "lanes": [
+      "medicine/medical-imaging",
+      "ml/vision"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jonclayden/RNiftyReg",
+    "sha": "ae3925d8c28d52bfd8587dbfa71c1d6493de6425",
+    "file_url": "https://cdn.jsdelivr.net/gh/jonclayden/RNiftyReg@ae3925d8c28d52bfd8587dbfa71c1d6493de6425/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "none",
+    "stars": 48,
+    "size_mb": 21,
+    "created_at": "2011-07-28T12:58:13Z",
+    "last_commit_at": "2026-08-21T09:17:31Z",
+    "releases": 5,
+    "tags": 45,
+    "archived": false,
+    "release": {
+      "tag": "v2.8.6",
+      "at": "2026-08-21T09:19:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ae3925d8c28d52bfd8587dbfa71c1d6493de6425",
+    "v": 4
+  },
+  "pinned_at": "2026-08-21T09:17:31Z"
+}

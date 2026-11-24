@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:57e651555ff57342368bc8ad622823810e74bde8"
+  },
   "id": "cb:riatelab/osrm",
   "kind": "repo",
   "url": "https://codeberg.org/riatelab/osrm",
@@ -51,5 +54,10 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "57e651555ff57342368bc8ad622823810e74bde8",
+    "v": 4
+  },
   "pinned_at": "2026-10-02T07:51:12.000Z"
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:0645d76a7c82bb414f63950de47eb575aff833f5"
+  },
   "id": "gh:joblib/threadpoolctl",
   "kind": "repo",
   "url": "https://github.com/joblib/threadpoolctl",
@@ -30,10 +33,10 @@
   "facts": {
     "lang": "Python",
     "license": "BSD-3-Clause",
-    "stars": 439,
+    "stars": 440,
     "size_mb": 0,
     "created_at": "2019-03-26T09:17:31Z",
-    "last_commit_at": "2026-11-18T10:09:18Z",
+    "last_commit_at": "2026-11-23T15:21:30Z",
     "releases": 6,
     "tags": 14,
     "archived": false,
@@ -55,5 +58,10 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "0645d76a7c82bb414f63950de47eb575aff833f5",
+    "v": 4
+  },
   "pinned_at": "2026-11-18T10:09:18Z"
 }

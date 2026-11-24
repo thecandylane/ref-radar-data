@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f004deb020ea744f652bd1c83af04c1e108b91a1"
+  },
+  "id": "gh:idaholab/diogenes",
+  "kind": "repo",
+  "url": "https://github.com/idaholab/diogenes",
+  "title": "diogenes",
+  "why": "Builds metadata, data quality scores and a PDF dictionary for large mobility tables, checked against a JSON schema before release.",
+  "keys": {
+    "races": [
+      "data/datasets",
+      "data/pipelines",
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/datasets",
+      "data/pipelines",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/idaholab/diogenes",
+    "sha": "f004deb020ea744f652bd1c83af04c1e108b91a1",
+    "file_url": "https://cdn.jsdelivr.net/gh/idaholab/diogenes@f004deb020ea744f652bd1c83af04c1e108b91a1/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 2,
+    "created_at": "2026-02-04T16:44:13Z",
+    "last_commit_at": "2026-03-30T17:08:22Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f004deb020ea744f652bd1c83af04c1e108b91a1",
+    "v": 4
+  },
+  "pinned_at": "2026-03-30T17:08:22Z"
+}

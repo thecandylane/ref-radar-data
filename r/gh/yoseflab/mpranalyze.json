@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8aafdd205c595984ccb85bed45bf1f543b17c4ab"
+  },
+  "id": "gh:yoseflab/mpranalyze",
+  "kind": "repo",
+  "url": "https://github.com/YosefLab/MPRAnalyze",
+  "title": "MPRAnalyze",
+  "why": "Quantifies enhancer-induced transcription rates from MPRA data and compares enhancer activity between conditions, in R.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/YosefLab/MPRAnalyze",
+    "sha": "8aafdd205c595984ccb85bed45bf1f543b17c4ab",
+    "file_url": "https://cdn.jsdelivr.net/gh/YosefLab/MPRAnalyze@8aafdd205c595984ccb85bed45bf1f543b17c4ab/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 13,
+    "size_mb": 1,
+    "created_at": "2017-05-08T11:15:39Z",
+    "last_commit_at": "2020-11-12T06:31:02Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "8aafdd205c595984ccb85bed45bf1f543b17c4ab",
+    "v": 4
+  },
+  "pinned_at": "2020-11-12T06:31:02Z"
+}

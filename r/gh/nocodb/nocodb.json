@@ -1,0 +1,71 @@
+{
+  "id": "gh:nocodb/nocodb",
+  "kind": "repo",
+  "url": "https://github.com/nocodb/nocodb",
+  "title": "nocodb",
+  "why": "Turns PostgreSQL or SQLite into a spreadsheet-style interface with grid, kanban and calendar views plus REST APIs, self-hosted through Docker.",
+  "keys": {
+    "races": [
+      "business-apps/low-code",
+      "data/databases"
+    ],
+    "lanes": [
+      "business-apps/low-code",
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nocodb/nocodb",
+    "sha": "6d12acc9245d15e0e57607f182516f1c9eadc8f8",
+    "file_url": "https://raw.githubusercontent.com/nocodb/nocodb/6d12acc9245d15e0e57607f182516f1c9eadc8f8/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 65599,
+    "size_mb": 1489,
+    "created_at": "2017-10-29T18:51:48Z",
+    "last_commit_at": "2026-11-24T06:38:56Z",
+    "releases": 205,
+    "tags": 375,
+    "archived": false,
+    "release": {
+      "tag": "2026.10.2",
+      "at": "2026-11-19T10:12:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6d12acc9245d15e0e57607f182516f1c9eadc8f8",
+    "v": 4
+  },
+  "pins_before": [
+    "dc7c4e96a78866a9e36ae79b7cdec04c6ef4061b"
+  ],
+  "pinned_at": "2026-11-24T06:38:56Z"
+}

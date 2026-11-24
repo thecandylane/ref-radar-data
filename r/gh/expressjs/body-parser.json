@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:67d27df4986c068e9ee051efa94c216062c5cdb8"
+  },
+  "id": "gh:expressjs/body-parser",
+  "kind": "repo",
+  "url": "https://github.com/expressjs/body-parser",
+  "title": "body-parser",
+  "why": "Parses JSON, raw, text and URL-encoded request bodies into req.body for Express handlers, with size limits and gzip, brotli and zstd inflation.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "data/serialization"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/expressjs/body-parser",
+    "sha": "67d27df4986c068e9ee051efa94c216062c5cdb8",
+    "file_url": "https://cdn.jsdelivr.net/gh/expressjs/body-parser@67d27df4986c068e9ee051efa94c216062c5cdb8/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 5502,
+    "size_mb": 1,
+    "created_at": "2014-01-06T08:25:03Z",
+    "last_commit_at": "2026-11-01T22:51:30Z",
+    "releases": 87,
+    "tags": 88,
+    "archived": false,
+    "release": {
+      "tag": "v2.4.0",
+      "at": "2026-10-22T11:36:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "67d27df4986c068e9ee051efa94c216062c5cdb8",
+    "v": 4
+  },
+  "pinned_at": "2026-11-01T22:51:30Z"
+}

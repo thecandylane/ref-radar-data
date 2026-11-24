@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3da984b81c96e740f6efa37c023ac984f2731880"
+  },
+  "id": "gh:emacss/emacss",
+  "kind": "repo",
+  "url": "https://github.com/emacss/emacss",
+  "title": "emacss",
+  "why": "Evolves a star cluster over time from command-line options, printing N-body or real-unit output with tidal fields and an IMF.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/emacss/emacss",
+    "sha": "3da984b81c96e740f6efa37c023ac984f2731880",
+    "file_url": "https://cdn.jsdelivr.net/gh/emacss/emacss@3da984b81c96e740f6efa37c023ac984f2731880/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "none",
+    "stars": 17,
+    "size_mb": 0,
+    "created_at": "2012-03-21T15:07:27Z",
+    "last_commit_at": "2016-07-13T15:23:37Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "3da984b81c96e740f6efa37c023ac984f2731880",
+    "v": 4
+  },
+  "pinned_at": "2016-07-13T15:23:37Z"
+}

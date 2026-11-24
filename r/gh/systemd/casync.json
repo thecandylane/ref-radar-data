@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b4b7e5606f785572b78a43626a27a45fe3df2fbd"
+  },
+  "id": "gh:systemd/casync",
+  "kind": "repo",
+  "url": "https://github.com/systemd/casync",
+  "title": "casync",
+  "why": "Splits file trees into content-hashed chunks so new image versions only fetch the chunks a machine lacks, over plain HTTP.",
+  "keys": {
+    "races": [
+      "data/storage"
+    ],
+    "lanes": [
+      "data/storage"
+    ],
+    "capabilities": [
+      "data/storage/object-storage"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/systemd/casync",
+    "sha": "b4b7e5606f785572b78a43626a27a45fe3df2fbd",
+    "file_url": "https://cdn.jsdelivr.net/gh/systemd/casync@b4b7e5606f785572b78a43626a27a45fe3df2fbd/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 1629,
+    "size_mb": 3,
+    "created_at": "2017-01-13T15:09:56Z",
+    "last_commit_at": "2025-09-22T12:02:05Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v2",
+      "at": "2017-07-26T09:58:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b4b7e5606f785572b78a43626a27a45fe3df2fbd",
+    "v": 4
+  },
+  "pinned_at": "2025-09-22T12:02:05Z"
+}

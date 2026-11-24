@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:45b3a2efb5f70e2aae5edc5a198c41b5b775bfb4"
+  },
   "id": "gh:aiforhpc/astraai",
   "kind": "repo",
   "url": "https://github.com/AIForHPC/AstraAI",
@@ -60,5 +63,18 @@
     "ranks": {}
   },
   "tier": "curated",
-  "pinned_at": "2026-07-07T01:29:28Z"
+  "drafted": true,
+  "pack": {
+    "sha": "45b3a2efb5f70e2aae5edc5a198c41b5b775bfb4",
+    "v": 4
+  },
+  "pinned_at": "2026-07-07T01:29:28Z",
+  "papers": [
+    {
+      "id": "arxiv:2603.27423",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
 }

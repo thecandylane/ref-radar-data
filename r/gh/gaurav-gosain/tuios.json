@@ -21,10 +21,6 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "internal",
       "kind": "path"
     },
@@ -34,6 +30,10 @@
     },
     {
       "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -46,10 +46,10 @@
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 6764,
-    "size_mb": 185,
+    "stars": 6781,
+    "size_mb": 180,
     "created_at": "2025-09-06T18:13:51Z",
-    "last_commit_at": "2026-11-22T16:11:37Z",
+    "last_commit_at": "2026-11-24T07:58:58Z",
     "releases": 58,
     "tags": 93,
     "archived": false,
@@ -71,6 +71,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "4f7ef28ffc8f0404b0fac54ccc214e5a1fdae806",
+    "v": 4
+  },
   "pins_before": [
     "5480696456ed7c50e1d5462db7d71244bf97e5f4"
   ],

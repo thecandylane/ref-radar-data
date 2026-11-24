@@ -1,0 +1,62 @@
+{
+  "id": "gh:aio-libs/aiohttp",
+  "kind": "repo",
+  "url": "https://github.com/aio-libs/aiohttp",
+  "title": "aiohttp",
+  "why": "Async HTTP client and server on asyncio, with web-sockets built in and middleware plus pluggable routing on the server side.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/aio-libs/aiohttp",
+    "sha": "dc37bb0a964f61590094511659b57f94687ac72c",
+    "file_url": "https://cdn.jsdelivr.net/gh/aio-libs/aiohttp@dc37bb0a964f61590094511659b57f94687ac72c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 16618,
+    "size_mb": 45,
+    "created_at": "2013-10-01T23:04:01Z",
+    "last_commit_at": "2026-11-23T12:24:08Z",
+    "releases": 224,
+    "tags": 332,
+    "archived": false,
+    "release": {
+      "tag": "v3.14.5",
+      "at": "2026-10-11T00:56:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "dc37bb0a964f61590094511659b57f94687ac72c",
+    "v": 4
+  },
+  "pinned_at": "2026-11-23T12:24:08Z"
+}

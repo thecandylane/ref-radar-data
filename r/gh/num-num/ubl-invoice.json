@@ -1,0 +1,68 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f05b2f3427748248bef06fcd7b17ba2affcfcc31"
+  },
+  "id": "gh:num-num/ubl-invoice",
+  "kind": "repo",
+  "url": "https://github.com/num-num/ubl-invoice",
+  "title": "ubl-invoice",
+  "why": "Builds and parses UBL invoice XML in PHP, with classes for parties, tax categories and line items.",
+  "keys": {
+    "races": [
+      "finance/e-invoicing"
+    ],
+    "lanes": [
+      "finance/e-invoicing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/num-num/ubl-invoice",
+    "sha": "f05b2f3427748248bef06fcd7b17ba2affcfcc31",
+    "file_url": "https://cdn.jsdelivr.net/gh/num-num/ubl-invoice@f05b2f3427748248bef06fcd7b17ba2affcfcc31/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 143,
+    "size_mb": 1,
+    "created_at": "2018-10-24T13:31:13Z",
+    "last_commit_at": "2026-11-23T20:54:16Z",
+    "releases": 10,
+    "tags": 85,
+    "archived": false,
+    "release": {
+      "tag": "v2.4.1",
+      "at": "2026-02-09T10:25:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f05b2f3427748248bef06fcd7b17ba2affcfcc31",
+    "v": 4
+  }
+}

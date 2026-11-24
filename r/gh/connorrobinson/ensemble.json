@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0a9a1e4c62857ba45fea87b06fdb88d360d33c8c"
+  },
+  "id": "gh:connorrobinson/ensemble",
+  "kind": "repo",
+  "url": "https://github.com/connorrobinson/ensemble",
+  "title": "ensemble",
+  "why": "Interactive Jupyter widget that applies inhomogeneous ensemble photometry to correct atmospheric variations in differential light curves.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/connorrobinson/ensemble",
+    "sha": "0a9a1e4c62857ba45fea87b06fdb88d360d33c8c",
+    "file_url": "https://cdn.jsdelivr.net/gh/connorrobinson/ensemble@0a9a1e4c62857ba45fea87b06fdb88d360d33c8c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2021-05-26T20:22:27Z",
+    "last_commit_at": "2022-06-03T20:45:54Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2022-06-03T20:51:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "0a9a1e4c62857ba45fea87b06fdb88d360d33c8c",
+    "v": 4
+  },
+  "pinned_at": "2022-06-03T20:45:54Z"
+}

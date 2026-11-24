@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ce59ab7dd6d739a6ca7dfc431a8c1d513f1d9f3d"
+  },
   "id": "gh:owasp/pytm",
   "kind": "repo",
   "url": "https://github.com/OWASP/pytm",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 1201,
+    "stars": 1202,
     "size_mb": 2,
     "created_at": "2018-05-14T23:16:07Z",
     "last_commit_at": "2026-11-18T13:47:43Z",
@@ -55,6 +58,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "ce59ab7dd6d739a6ca7dfc431a8c1d513f1d9f3d",
     "v": 3

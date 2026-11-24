@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bf622717ec06ef22367da1254e7049bde8733b4f"
+  },
+  "id": "gh:tiagodc/treels",
+  "kind": "repo",
+  "url": "https://github.com/tiagodc/TreeLS",
+  "title": "TreeLS",
+  "why": "Maps trees and stems in laser-scanned forest plots, measuring dbh and height and fitting cylinders to each stem segment.",
+  "keys": {
+    "races": [
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tiagodc/TreeLS",
+    "sha": "bf622717ec06ef22367da1254e7049bde8733b4f",
+    "file_url": "https://cdn.jsdelivr.net/gh/tiagodc/TreeLS@bf622717ec06ef22367da1254e7049bde8733b4f/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-3.0",
+    "stars": 100,
+    "size_mb": 50,
+    "created_at": "2016-05-16T16:36:48Z",
+    "last_commit_at": "2025-06-11T16:04:07Z",
+    "releases": 0,
+    "tags": 10,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "bf622717ec06ef22367da1254e7049bde8733b4f",
+    "v": 4
+  },
+  "pinned_at": "2025-06-11T16:04:07Z"
+}

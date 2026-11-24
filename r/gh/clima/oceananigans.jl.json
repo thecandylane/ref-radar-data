@@ -1,0 +1,74 @@
+{
+  "id": "gh:clima/oceananigans.jl",
+  "kind": "repo",
+  "url": "https://github.com/CliMA/Oceananigans.jl",
+  "title": "Oceananigans.jl",
+  "why": "Runs ocean and fluid flow simulations in Julia, with validation cases like lid driven cavity and Stommel gyre to check results.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CliMA/Oceananigans.jl",
+    "sha": "f1111a0d49febba497ab5eb6f2bfa0f71a7a1ec4",
+    "file_url": "https://cdn.jsdelivr.net/gh/CliMA/Oceananigans.jl@f1111a0d49febba497ab5eb6f2bfa0f71a7a1ec4/{path}"
+  },
+  "facts": {
+    "lang": "Julia",
+    "license": "MIT",
+    "stars": 1456,
+    "size_mb": 63,
+    "created_at": "2018-10-13T14:15:44Z",
+    "last_commit_at": "2026-11-24T05:50:57Z",
+    "releases": 441,
+    "tags": 442,
+    "archived": false,
+    "release": {
+      "tag": "v0.118.2",
+      "at": "2026-11-20T00:16:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f1111a0d49febba497ab5eb6f2bfa0f71a7a1ec4",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2502.14148",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

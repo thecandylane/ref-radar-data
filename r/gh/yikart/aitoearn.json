@@ -1,0 +1,73 @@
+{
+  "id": "gh:yikart/aitoearn",
+  "kind": "repo",
+  "url": "https://github.com/yikart/AiToEarn",
+  "title": "AiToEarn",
+  "why": "Pushes one piece of content to 14+ platforms like TikTok and YouTube, and an MCP endpoint lets assistants drive it.",
+  "keys": {
+    "races": [
+      "marketing/social-media",
+      "agents/skills",
+      "agents/tools",
+      "desktop/app-shells"
+    ],
+    "lanes": [
+      "marketing/social-media",
+      "agents/skills",
+      "agents/tools",
+      "desktop/app-shells"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/yikart/AiToEarn",
+    "sha": "f740b23ef213b2821c171eb1f1a7d6d0376a35e0",
+    "file_url": "https://cdn.jsdelivr.net/gh/yikart/AiToEarn@f740b23ef213b2821c171eb1f1a7d6d0376a35e0/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 28655,
+    "size_mb": 368,
+    "created_at": "2025-02-24T08:03:24Z",
+    "last_commit_at": "2026-11-24T04:11:49Z",
+    "releases": 28,
+    "tags": 31,
+    "archived": false,
+    "release": {
+      "tag": "v2.5.0",
+      "at": "2026-06-24T05:13:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f740b23ef213b2821c171eb1f1a7d6d0376a35e0",
+    "v": 4
+  },
+  "pins_before": [
+    "11dd1957d0c69ae2b27a0b8a47acdf6675715558"
+  ],
+  "pinned_at": "2026-11-24T04:11:49Z"
+}

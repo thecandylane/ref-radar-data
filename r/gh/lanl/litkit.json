@@ -1,0 +1,67 @@
+{
+  "id": "gh:lanl/litkit",
+  "kind": "repo",
+  "url": "https://github.com/lanl/litkit",
+  "title": "litkit",
+  "why": "Builds a FAISS index over paper and chunk embeddings from tar archives of XML articles, then answers questions with citations.",
+  "keys": {
+    "races": [
+      "llm-infra/rag",
+      "ml/embeddings"
+    ],
+    "lanes": [
+      "llm-infra/rag",
+      "ml/embeddings"
+    ],
+    "capabilities": [
+      "llm-infra/rag/vector-search",
+      "llm-infra/rag/knowledge-platforms"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lanl/litkit",
+    "sha": "98208a811c021441f6abb3dcfedb3066513ad5d7",
+    "file_url": "https://cdn.jsdelivr.net/gh/lanl/litkit@98208a811c021441f6abb3dcfedb3066513ad5d7/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 3,
+    "created_at": "2026-10-02T17:30:22Z",
+    "last_commit_at": "2026-11-23T17:51:00Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "98208a811c021441f6abb3dcfedb3066513ad5d7",
+    "v": 4
+  }
+}

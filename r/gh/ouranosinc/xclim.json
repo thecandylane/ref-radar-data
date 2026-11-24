@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8250905da783f5f6092a109d4d606909fb0df38c"
+  },
+  "id": "gh:ouranosinc/xclim",
+  "kind": "repo",
+  "url": "https://github.com/Ouranosinc/xclim",
+  "title": "xclim",
+  "why": "Calculates indicators such as heat wave frequency and standardized precipitation index on xarray and dask arrays, with a command line.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/statistics"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Ouranosinc/xclim",
+    "sha": "8250905da783f5f6092a109d4d606909fb0df38c",
+    "file_url": "https://cdn.jsdelivr.net/gh/Ouranosinc/xclim@8250905da783f5f6092a109d4d606909fb0df38c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 411,
+    "size_mb": 66,
+    "created_at": "2018-07-27T18:02:20Z",
+    "last_commit_at": "2026-11-23T19:04:33Z",
+    "releases": 94,
+    "tags": 98,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.1",
+      "at": "2026-11-23T19:10:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "8250905da783f5f6092a109d4d606909fb0df38c",
+    "v": 4
+  }
+}

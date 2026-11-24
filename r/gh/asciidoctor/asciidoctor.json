@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:743f47d5e4d12049744e6d5236ad16cdfb6dca3d"
-  },
   "id": "gh:asciidoctor/asciidoctor",
   "kind": "repo",
   "url": "https://github.com/asciidoctor/asciidoctor",
@@ -35,8 +32,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/asciidoctor/asciidoctor",
-    "sha": "743f47d5e4d12049744e6d5236ad16cdfb6dca3d",
-    "file_url": "https://cdn.jsdelivr.net/gh/asciidoctor/asciidoctor@743f47d5e4d12049744e6d5236ad16cdfb6dca3d/{path}"
+    "sha": "d726610bdae8f8d91317f19e927fe34f75b64edb",
+    "file_url": "https://cdn.jsdelivr.net/gh/asciidoctor/asciidoctor@d726610bdae8f8d91317f19e927fe34f75b64edb/{path}"
   },
   "facts": {
     "lang": "Ruby",
@@ -61,17 +58,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 5,
+    "star_delta_7d": 4,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "743f47d5e4d12049744e6d5236ad16cdfb6dca3d",
+    "sha": "d726610bdae8f8d91317f19e927fe34f75b64edb",
     "v": 4
   },
   "pins_before": [
+    "743f47d5e4d12049744e6d5236ad16cdfb6dca3d",
     "1eff07780bf819866b1276e0ccfa8c8e3bc2fad9"
   ],
-  "pinned_at": "2026-11-16T19:05:12Z"
+  "pinned_at": "2026-11-22T19:37:08Z"
 }

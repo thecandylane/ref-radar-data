@@ -18,11 +18,11 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -38,7 +38,7 @@
     "stars": 109,
     "size_mb": 38,
     "created_at": "2026-08-06T00:28:22Z",
-    "last_commit_at": "2026-11-16T12:48:45Z",
+    "last_commit_at": "2026-11-23T12:47:50Z",
     "releases": 3,
     "tags": 9,
     "archived": false,
@@ -60,6 +60,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "c00f7f057200eb9c1200e211426c8f3a1c8d96ca",
     "v": 4

@@ -20,11 +20,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "lib",
       "kind": "path"
     },
     {
-      "locator": "lib",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -37,10 +37,10 @@
   "facts": {
     "lang": "JavaScript",
     "license": "NOASSERTION",
-    "stars": 9745,
+    "stars": 9747,
     "size_mb": 17,
     "created_at": "2014-03-10T12:57:00Z",
-    "last_commit_at": "2026-11-20T12:29:13Z",
+    "last_commit_at": "2026-11-23T12:48:38Z",
     "releases": 101,
     "tags": 417,
     "archived": false,
@@ -57,11 +57,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8,
+    "star_delta_7d": 9,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "8ff0a2851c6b7defd0b4867ef1395ada1767e50f",
     "v": 4

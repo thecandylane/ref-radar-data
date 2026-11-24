@@ -1,0 +1,65 @@
+{
+  "id": "gh:adrg/xdg",
+  "kind": "repo",
+  "url": "https://github.com/adrg/xdg",
+  "title": "xdg",
+  "why": "Finds data, config, state, cache and runtime file paths in Go, with separate Windows, macOS and Plan 9 path code.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/adrg/xdg",
+    "sha": "4b9f86f9fa3869897a2bf61c967bbaa6640c138e",
+    "file_url": "https://cdn.jsdelivr.net/gh/adrg/xdg@4b9f86f9fa3869897a2bf61c967bbaa6640c138e/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 1030,
+    "size_mb": 0,
+    "created_at": "2014-08-22T08:23:40Z",
+    "last_commit_at": "2026-09-15T10:49:45Z",
+    "releases": 10,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.3",
+      "at": "2024-10-31T16:51:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "4b9f86f9fa3869897a2bf61c967bbaa6640c138e",
+    "v": 4
+  },
+  "pins_before": [
+    "424b3a2ab7ce7f10194ffeee64017f8968be202e"
+  ],
+  "pinned_at": "2026-11-24T11:01:37Z"
+}

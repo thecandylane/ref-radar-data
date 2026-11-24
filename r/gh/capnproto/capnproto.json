@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:20fe8fd325bf3825d6cdc3cf16bb263a4c142326"
-  },
   "id": "gh:capnproto/capnproto",
   "kind": "repo",
   "url": "https://github.com/capnproto/capnproto",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/capnproto/capnproto",
-    "sha": "20fe8fd325bf3825d6cdc3cf16bb263a4c142326",
-    "file_url": "https://cdn.jsdelivr.net/gh/capnproto/capnproto@20fe8fd325bf3825d6cdc3cf16bb263a4c142326/{path}"
+    "sha": "ee05f52b62c319dfba3bfc62bd3094d35b18bc3f",
+    "file_url": "https://cdn.jsdelivr.net/gh/capnproto/capnproto@ee05f52b62c319dfba3bfc62bd3094d35b18bc3f/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "NOASSERTION",
-    "stars": 13258,
-    "size_mb": 27,
+    "stars": 13260,
+    "size_mb": 28,
     "created_at": "2013-03-29T02:38:48Z",
-    "last_commit_at": "2026-11-20T18:19:04Z",
+    "last_commit_at": "2026-11-23T21:47:52Z",
     "releases": 0,
     "tags": 39,
     "archived": false,
@@ -50,17 +47,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 6,
+    "star_delta_7d": 8,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "20fe8fd325bf3825d6cdc3cf16bb263a4c142326",
+    "sha": "ee05f52b62c319dfba3bfc62bd3094d35b18bc3f",
     "v": 4
   },
   "pins_before": [
+    "20fe8fd325bf3825d6cdc3cf16bb263a4c142326",
     "61225cbf44b69a844c44bb15577e33123e122bc9"
   ],
-  "pinned_at": "2026-11-16T19:35:57Z"
+  "pinned_at": "2026-11-23T21:47:52Z"
 }

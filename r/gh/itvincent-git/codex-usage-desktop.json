@@ -21,11 +21,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -41,13 +41,13 @@
     "stars": 67,
     "size_mb": 11,
     "created_at": "2026-04-28T13:47:34Z",
-    "last_commit_at": "2026-11-20T13:32:00Z",
-    "releases": 111,
-    "tags": 142,
+    "last_commit_at": "2026-11-24T06:57:20Z",
+    "releases": 113,
+    "tags": 144,
     "archived": false,
     "release": {
-      "tag": "app-v6.4.0",
-      "at": "2026-11-19T12:35:53.000Z"
+      "tag": "app-v7.1.0",
+      "at": "2026-11-24T06:57:10.000Z"
     }
   },
   "reuse": "copy",
@@ -63,6 +63,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "f7b651e9a9b5de0b705fe9f464367ab489d663a5",
     "v": 4

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:88a0c188614789ca49da36ea1c2da81feb261263"
+  },
   "id": "gh:clawnify/opensalon",
   "kind": "repo",
   "url": "https://github.com/clawnify/OpenSalon",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 72,
+    "stars": 73,
     "size_mb": 1,
     "created_at": "2026-04-04T19:33:54Z",
     "last_commit_at": "2026-11-17T07:45:04Z",
@@ -56,5 +59,10 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "88a0c188614789ca49da36ea1c2da81feb261263",
+    "v": 4
+  },
   "pinned_at": "2026-11-17T07:45:04Z"
 }

@@ -20,11 +20,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "internal",
       "kind": "path"
     },
     {
-      "locator": "internal",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -37,7 +37,7 @@
   "facts": {
     "lang": "Go",
     "license": "NOASSERTION",
-    "stars": 1747,
+    "stars": 1749,
     "size_mb": 81,
     "created_at": "2018-09-08T19:20:52Z",
     "last_commit_at": "2026-11-16T23:15:35Z",
@@ -62,6 +62,11 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "009e98e5d362ec8d3da0a3065bb0b9d63c82dc15",
+    "v": 4
+  },
   "risk": {
     "level": "caution",
     "signals": [

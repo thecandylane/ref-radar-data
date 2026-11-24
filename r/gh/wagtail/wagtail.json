@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:9599540ea5648de7d5ecf09eb4b9794fb084b4b6"
+  },
   "id": "gh:wagtail/wagtail",
   "kind": "repo",
   "url": "https://github.com/wagtail/wagtail",
@@ -28,10 +31,10 @@
   "facts": {
     "lang": "Python",
     "license": "BSD-3-Clause",
-    "stars": 20826,
+    "stars": 20729,
     "size_mb": 258,
     "created_at": "2014-02-03T12:41:59Z",
-    "last_commit_at": "2026-11-20T12:06:16Z",
+    "last_commit_at": "2026-11-23T13:12:47Z",
     "releases": 303,
     "tags": 305,
     "archived": false,
@@ -48,14 +51,18 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 101,
+    "star_delta_7d": 25,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "9599540ea5648de7d5ecf09eb4b9794fb084b4b6",
+    "v": 4
+  },
   "pins_before": [
     "030168a7dc42d5450c4cfbac3c68881b63b2d466"
   ],
-  "pinned_at": "2026-11-20T12:06:16Z",
-  "hot": true
+  "pinned_at": "2026-11-20T12:06:16Z"
 }

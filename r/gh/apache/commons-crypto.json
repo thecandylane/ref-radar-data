@@ -11,15 +11,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "src",
       "kind": "path"
     },
     {
       "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -35,7 +35,7 @@
     "stars": 138,
     "size_mb": 3,
     "created_at": "2016-04-13T07:00:07Z",
-    "last_commit_at": "2026-11-17T13:19:45Z",
+    "last_commit_at": "2026-11-23T13:56:45Z",
     "releases": 0,
     "tags": 9,
     "archived": false,
@@ -53,5 +53,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "ecfbed06c4f63661581888637299fee5f05e4feb",
+    "v": 4
+  }
 }

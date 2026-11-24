@@ -1,0 +1,66 @@
+{
+  "id": "gh:hupe1980/en16931",
+  "kind": "repo",
+  "url": "https://github.com/hupe1980/en16931",
+  "title": "en16931",
+  "why": "Validates e-invoices against the en16931 rules and converts between syntaxes, with reports that explain each finding.",
+  "keys": {
+    "races": [
+      "finance/e-invoicing"
+    ],
+    "lanes": [
+      "finance/e-invoicing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hupe1980/en16931",
+    "sha": "f9d342604dfa0283665a316a2dc38bd82b14c0fe",
+    "file_url": "https://cdn.jsdelivr.net/gh/hupe1980/en16931@f9d342604dfa0283665a316a2dc38bd82b14c0fe/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 5,
+    "size_mb": 2,
+    "created_at": "2026-07-30T13:00:38Z",
+    "last_commit_at": "2026-11-07T20:27:21Z",
+    "releases": 13,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v0.10.1",
+      "at": "2026-11-07T20:34:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f9d342604dfa0283665a316a2dc38bd82b14c0fe",
+    "v": 4
+  },
+  "pinned_at": "2026-11-07T20:27:21Z"
+}

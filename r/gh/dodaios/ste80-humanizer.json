@@ -1,0 +1,62 @@
+{
+  "id": "gh:dodaios/ste80-humanizer",
+  "kind": "repo",
+  "url": "https://github.com/Dodaios/ste80-humanizer",
+  "title": "ste80-humanizer",
+  "why": "Rewrites AI-written text by removing 26 tells, then rebuilding sentences toward Simplified Technical English, with edits numbered for lookup.",
+  "keys": {
+    "races": [
+      "agents/skills"
+    ],
+    "lanes": [
+      "agents/skills"
+    ],
+    "capabilities": [
+      "agents/skills/writing-skills",
+      "agents/skills/plugin-specs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Dodaios/ste80-humanizer",
+    "sha": "0d6f7994a581205aba615e0663a4c509d8a35c7d",
+    "file_url": "https://cdn.jsdelivr.net/gh/Dodaios/ste80-humanizer@0d6f7994a581205aba615e0663a4c509d8a35c7d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 710,
+    "size_mb": 1,
+    "created_at": "2026-11-09T17:18:59Z",
+    "last_commit_at": "2026-11-14T14:20:13Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "0d6f7994a581205aba615e0663a4c509d8a35c7d",
+    "v": 4
+  },
+  "fresh": true
+}

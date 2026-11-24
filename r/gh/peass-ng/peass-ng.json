@@ -24,22 +24,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/peass-ng/PEASS-ng",
-    "sha": "ea24dc3721826f8e54b9bbdf596d8ef86dfbdab0",
-    "file_url": "https://cdn.jsdelivr.net/gh/peass-ng/PEASS-ng@ea24dc3721826f8e54b9bbdf596d8ef86dfbdab0/{path}"
+    "sha": "7e5a40484fddf4ce3a1b611b80ed6f81fcbf0194",
+    "file_url": "https://cdn.jsdelivr.net/gh/peass-ng/PEASS-ng@7e5a40484fddf4ce3a1b611b80ed6f81fcbf0194/{path}"
   },
   "facts": {
     "lang": "C#",
     "license": "NOASSERTION",
-    "stars": 20875,
+    "stars": 20880,
     "size_mb": 66,
     "created_at": "2019-01-13T19:58:24Z",
-    "last_commit_at": "2026-11-22T03:50:31Z",
-    "releases": 533,
-    "tags": 533,
+    "last_commit_at": "2026-11-23T21:52:37Z",
+    "releases": 539,
+    "tags": 539,
     "archived": false,
     "release": {
-      "tag": "20261122-25957cb1",
-      "at": "2026-11-22T04:21:44.000Z"
+      "tag": "20261123-b0547dea",
+      "at": "2026-11-23T22:35:16.000Z"
     }
   },
   "reuse": "copy",
@@ -50,14 +50,20 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 40,
+    "star_delta_7d": 43,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "7e5a40484fddf4ce3a1b611b80ed6f81fcbf0194",
+    "v": 4
+  },
   "pins_before": [
+    "ea24dc3721826f8e54b9bbdf596d8ef86dfbdab0",
     "80cf64188ad45407f0baaaccb11278763182a872"
   ],
-  "pinned_at": "2026-11-17T04:43:57Z",
+  "pinned_at": "2026-11-23T21:52:37Z",
   "hot": true
 }

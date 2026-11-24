@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:05814952134d09f8b54ae925afe578fc341cf6c1"
+  },
+  "id": "gh:google/shaderc",
+  "kind": "repo",
+  "url": "https://github.com/google/shaderc",
+  "title": "shaderc",
+  "why": "Compiles GLSL and HLSL shaders into binary intermediate code, with a command line tool and a C++ library.",
+  "keys": {
+    "races": [
+      "games/graphics",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "games/graphics",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google/shaderc",
+    "sha": "05814952134d09f8b54ae925afe578fc341cf6c1",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/shaderc@05814952134d09f8b54ae925afe578fc341cf6c1/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 2201,
+    "size_mb": 3,
+    "created_at": "2015-08-06T01:17:42Z",
+    "last_commit_at": "2026-11-13T20:07:40Z",
+    "releases": 0,
+    "tags": 45,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "05814952134d09f8b54ae925afe578fc341cf6c1",
+    "v": 4
+  },
+  "pinned_at": "2026-11-13T20:07:40Z"
+}

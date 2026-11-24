@@ -1,0 +1,64 @@
+{
+  "id": "gh:jacksonburns/astartes",
+  "kind": "repo",
+  "url": "https://github.com/JacksonBurns/astartes",
+  "title": "astartes",
+  "why": "Splits data into train, validation and test sets using Kennard-Stone, SPXY and scaffold samplers, including for molecules.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "engineering/chemistry"
+    ],
+    "lanes": [
+      "data/statistics",
+      "engineering/chemistry"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/JacksonBurns/astartes",
+    "sha": "7507e125bd0d23b8888e4e148a8a9817de922d71",
+    "file_url": "https://cdn.jsdelivr.net/gh/JacksonBurns/astartes@7507e125bd0d23b8888e4e148a8a9817de922d71/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 103,
+    "size_mb": 23,
+    "created_at": "2022-04-22T01:48:06Z",
+    "last_commit_at": "2026-11-07T00:59:24Z",
+    "releases": 18,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.2",
+      "at": "2025-07-29T02:24:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "7507e125bd0d23b8888e4e148a8a9817de922d71",
+    "v": 4
+  },
+  "pinned_at": "2026-11-07T00:59:24Z"
+}

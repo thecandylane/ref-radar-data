@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5a82625fae462e8ba64cec8146b24a372b4d75c6"
+  },
+  "id": "gh:burntsushi/byteorder",
+  "kind": "repo",
+  "url": "https://github.com/BurntSushi/byteorder",
+  "title": "byteorder",
+  "why": "Encodes and decodes numbers in big-endian or little-endian order, as extension methods on Rust Read and Write, with no_std support.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/BurntSushi/byteorder",
+    "sha": "5a82625fae462e8ba64cec8146b24a372b4d75c6",
+    "file_url": "https://cdn.jsdelivr.net/gh/BurntSushi/byteorder@5a82625fae462e8ba64cec8146b24a372b4d75c6/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Unlicense",
+    "stars": 1103,
+    "size_mb": 0,
+    "created_at": "2015-02-03T23:28:34Z",
+    "last_commit_at": "2024-09-25T20:46:19Z",
+    "releases": 0,
+    "tags": 58,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "5a82625fae462e8ba64cec8146b24a372b4d75c6",
+    "v": 4
+  },
+  "pinned_at": "2024-09-25T20:46:19Z"
+}

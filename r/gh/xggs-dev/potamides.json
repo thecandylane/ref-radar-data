@@ -45,7 +45,12 @@
       "tag": "v1.0.2",
       "at": "2026-09-01T08:50:32.000Z"
     },
-    "doi": "10.21105/joss.10712"
+    "doi": "10.21105/joss.10712",
+    "citations": {
+      "count": 1,
+      "by": "Crossref",
+      "at": "2026-11-24"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -60,6 +65,11 @@
     "ranks": {}
   },
   "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "fe680246563a9b6a6fe7f3d053cea100f7fd8739",
+    "v": 4
+  },
   "pinned_at": "2026-11-05T07:21:18Z",
   "scan_partial": true
 }

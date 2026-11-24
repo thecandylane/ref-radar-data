@@ -1,0 +1,79 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7aac2a2c5b7c882e68c1ce017d8256be2feea27f"
+  },
+  "id": "gh:minio/minio",
+  "kind": "repo",
+  "url": "https://github.com/minio/minio",
+  "title": "minio",
+  "why": "S3-compatible object store written in Go that runs as a single server or in containers, with Helm charts for Kubernetes.",
+  "keys": {
+    "races": [
+      "data/storage",
+      "infra/kubernetes",
+      "infra/hosting"
+    ],
+    "lanes": [
+      "data/storage",
+      "infra/kubernetes",
+      "infra/hosting"
+    ],
+    "capabilities": [
+      "data/storage/object-storage"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/minio/minio",
+    "sha": "7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+    "file_url": "https://cdn.jsdelivr.net/gh/minio/minio@7aac2a2c5b7c882e68c1ce017d8256be2feea27f/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "AGPL-3.0",
+    "stars": 61245,
+    "size_mb": 122,
+    "created_at": "2015-01-14T19:23:58Z",
+    "last_commit_at": "2026-02-12T20:18:48Z",
+    "releases": 521,
+    "tags": 523,
+    "archived": true,
+    "release": {
+      "tag": "RELEASE.2025-10-15T17-29-55Z",
+      "at": "2025-10-16T19:33:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+    "v": 4
+  },
+  "pinned_at": "2026-02-12T20:18:48Z"
+}

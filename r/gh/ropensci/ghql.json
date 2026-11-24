@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:e2c86e9fcff1442e490db03f2abe8c7c03c5e00a"
+  },
   "id": "gh:ropensci/ghql",
   "kind": "repo",
   "url": "https://github.com/ropensci/ghql",
@@ -24,16 +27,16 @@
   "facts": {
     "lang": "R",
     "license": "NOASSERTION",
-    "stars": 151,
+    "stars": 152,
     "size_mb": 0,
     "created_at": "2016-09-15T20:27:02Z",
-    "last_commit_at": "2026-11-02T09:05:20Z",
-    "releases": 2,
-    "tags": 2,
+    "last_commit_at": "2026-11-21T03:50:21Z",
+    "releases": 3,
+    "tags": 3,
     "archived": false,
     "release": {
-      "tag": "v0.1.2",
-      "at": "2025-09-08T08:41:00.000Z"
+      "tag": "v0.1.3",
+      "at": "2026-11-23T14:05:02.000Z"
     }
   },
   "reuse": "copy",
@@ -48,5 +51,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "discovered"
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "e2c86e9fcff1442e490db03f2abe8c7c03c5e00a",
+    "v": 4
+  }
 }

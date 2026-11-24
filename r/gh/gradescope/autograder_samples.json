@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:68322537b9b0d87c241a85813bb3cc54fb1933e5"
+  },
+  "id": "gh:gradescope/autograder_samples",
+  "kind": "repo",
+  "url": "https://github.com/gradescope/autograder_samples",
+  "title": "autograder_samples",
+  "why": "Gives Gradescope grading scripts to copy for course assignments, so a teacher can start from a working autograder.",
+  "keys": {
+    "races": [
+      "learning/autograding",
+      "learning/lms"
+    ],
+    "lanes": [
+      "learning/autograding",
+      "learning/lms"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gradescope/autograder_samples",
+    "sha": "68322537b9b0d87c241a85813bb3cc54fb1933e5",
+    "file_url": "https://cdn.jsdelivr.net/gh/gradescope/autograder_samples@68322537b9b0d87c241a85813bb3cc54fb1933e5/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "none",
+    "stars": 91,
+    "size_mb": 4,
+    "created_at": "2016-02-25T19:59:10Z",
+    "last_commit_at": "2026-08-14T20:34:07Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "68322537b9b0d87c241a85813bb3cc54fb1933e5",
+    "v": 4
+  },
+  "pinned_at": "2026-08-14T20:34:07Z"
+}

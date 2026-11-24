@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d5c06cb04479eeacbbb9378ea26261b6be516320"
+  },
+  "id": "gh:urfave/cli",
+  "kind": "repo",
+  "url": "https://github.com/urfave/cli",
+  "title": "urfave/cli",
+  "why": "Builds Go command line tools with subcommands, flags read from environment variables and files, and shell completion.",
+  "keys": {
+    "races": [
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/urfave/cli",
+    "sha": "d5c06cb04479eeacbbb9378ea26261b6be516320",
+    "file_url": "https://cdn.jsdelivr.net/gh/urfave/cli@d5c06cb04479eeacbbb9378ea26261b6be516320/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 24329,
+    "size_mb": 13,
+    "created_at": "2013-07-13T19:32:06Z",
+    "last_commit_at": "2026-11-10T01:48:05Z",
+    "releases": 175,
+    "tags": 207,
+    "archived": false,
+    "release": {
+      "tag": "v3.14.0",
+      "at": "2026-10-02T01:47:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d5c06cb04479eeacbbb9378ea26261b6be516320",
+    "v": 4
+  },
+  "pinned_at": "2026-11-10T01:48:05Z"
+}

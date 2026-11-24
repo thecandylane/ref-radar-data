@@ -20,11 +20,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -37,10 +37,10 @@
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 2265,
-    "size_mb": 246,
+    "stars": 2270,
+    "size_mb": 245,
     "created_at": "2026-05-18T10:57:07Z",
-    "last_commit_at": "2026-11-20T12:47:12Z",
+    "last_commit_at": "2026-11-24T05:45:00Z",
     "releases": 8,
     "tags": 9,
     "archived": false,
@@ -57,11 +57,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 35,
+    "star_delta_7d": 37,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "b83c3d762f8727f2ad299ddcc62fcf13bc7f35c7",
     "v": 3

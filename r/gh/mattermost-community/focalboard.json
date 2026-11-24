@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a84bbb65e32edf972856b329417096ac413518e9"
+  },
+  "id": "gh:mattermost-community/focalboard",
+  "kind": "repo",
+  "url": "https://github.com/mattermost-community/focalboard",
+  "title": "focalboard",
+  "why": "Self-hosted kanban boards with a personal server and desktop builds from one codebase, though the repo is no longer maintained.",
+  "keys": {
+    "races": [
+      "practice/process",
+      "desktop/app-shells"
+    ],
+    "lanes": [
+      "practice/process",
+      "desktop/app-shells"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mattermost-community/focalboard",
+    "sha": "a84bbb65e32edf972856b329417096ac413518e9",
+    "file_url": "https://cdn.jsdelivr.net/gh/mattermost-community/focalboard@a84bbb65e32edf972856b329417096ac413518e9/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 26567,
+    "size_mb": 58,
+    "created_at": "2020-10-06T16:46:23Z",
+    "last_commit_at": "2025-06-11T13:30:05Z",
+    "releases": 116,
+    "tags": 168,
+    "archived": false,
+    "release": {
+      "tag": "v8.0.0",
+      "at": "2024-06-13T15:31:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "a84bbb65e32edf972856b329417096ac413518e9",
+    "v": 4
+  },
+  "pinned_at": "2025-06-11T13:30:05Z"
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:fbbf1514d1863f3cc6306dd7f48d360dc906e8a4"
+  },
   "id": "gh:btcpayserver/btcpayserver",
   "kind": "repo",
   "url": "https://github.com/btcpayserver/btcpayserver",
@@ -30,10 +33,10 @@
   "facts": {
     "lang": "C#",
     "license": "MIT",
-    "stars": 7929,
+    "stars": 7931,
     "size_mb": 66,
     "created_at": "2017-08-18T12:57:05Z",
-    "last_commit_at": "2026-11-23T02:40:17Z",
+    "last_commit_at": "2026-11-24T08:40:59Z",
     "releases": 157,
     "tags": 779,
     "archived": false,
@@ -55,6 +58,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "fbbf1514d1863f3cc6306dd7f48d360dc906e8a4",
+    "v": 4
+  },
   "pins_before": [
     "33dc616613adcf00ae44734c34718109468ead7a"
   ],

@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:578406f30001a9afb4c4a48d31baff71b82239c2"
+  },
+  "id": "gh:sandialabs/nnopf",
+  "kind": "repo",
+  "url": "https://github.com/sandialabs/nnopf",
+  "title": "nnopf",
+  "why": "Trains a neural network on varied realizations of a power grid exemplar, then predicts the optimal power flow for that grid.",
+  "keys": {
+    "races": [
+      "energy/power-grid",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "energy/power-grid",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sandialabs/nnopf",
+    "sha": "578406f30001a9afb4c4a48d31baff71b82239c2",
+    "file_url": "https://cdn.jsdelivr.net/gh/sandialabs/nnopf@578406f30001a9afb4c4a48d31baff71b82239c2/{path}"
+  },
+  "facts": {
+    "lang": "MATLAB",
+    "license": "BSD-3-Clause",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2026-01-29T19:39:14Z",
+    "last_commit_at": "2026-01-29T20:17:27Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "578406f30001a9afb4c4a48d31baff71b82239c2",
+    "v": 4
+  },
+  "pinned_at": "2026-01-29T20:17:27Z"
+}

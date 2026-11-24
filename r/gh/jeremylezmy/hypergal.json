@@ -53,12 +53,18 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "7b8a1c936b59e050c6235bafd1aa5333c1bb917d",
+    "v": 4
+  },
   "pinned_at": "2022-10-24T15:00:43Z",
   "papers": [
     {
       "id": "arxiv:2209.10882",
       "via": [
-        "pwc"
+        "pwc",
+        "repo"
       ]
     }
   ]

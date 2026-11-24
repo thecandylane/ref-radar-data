@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c6ee3e9fd0235004a694e63720efc869bb1e3594"
+  },
   "id": "gh:searxng/searxng",
   "kind": "repo",
   "url": "https://github.com/searxng/searxng",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "Python",
     "license": "AGPL-3.0",
-    "stars": 39799,
+    "stars": 39817,
     "size_mb": 123,
     "created_at": "2021-04-12T15:18:15Z",
     "last_commit_at": "2026-11-23T07:15:23Z",
@@ -54,6 +57,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c6ee3e9fd0235004a694e63720efc869bb1e3594",
+    "v": 4
+  },
   "pins_before": [
     "368baa340d87428a4a30077b2b0531032906b811"
   ],

@@ -1,0 +1,77 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:68a9f9672722b3e75c4c8ad16f7bbfcfd3b3aec9"
+  },
+  "id": "gh:llnl/mada-tools",
+  "kind": "repo",
+  "url": "https://github.com/llnl/mada-tools",
+  "title": "mada-tools",
+  "why": "Wraps Slurm, Flux and Maestro job control plus a CFD runner as MCP servers that agents call to submit and check runs.",
+  "keys": {
+    "races": [
+      "sci/hpc",
+      "engineering/simulation",
+      "agents/tools",
+      "agents/orchestration"
+    ],
+    "lanes": [
+      "sci/hpc",
+      "engineering/simulation",
+      "agents/tools",
+      "agents/orchestration"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/llnl/mada-tools",
+    "sha": "68a9f9672722b3e75c4c8ad16f7bbfcfd3b3aec9",
+    "file_url": "https://cdn.jsdelivr.net/gh/llnl/mada-tools@68a9f9672722b3e75c4c8ad16f7bbfcfd3b3aec9/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 6,
+    "size_mb": 5,
+    "created_at": "2026-06-17T21:23:55Z",
+    "last_commit_at": "2026-09-03T14:45:57Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.0",
+      "at": "2026-08-24T20:17:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "68a9f9672722b3e75c4c8ad16f7bbfcfd3b3aec9",
+    "v": 4
+  },
+  "pinned_at": "2026-09-03T14:45:57Z"
+}

@@ -19,31 +19,31 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "packages",
       "kind": "path"
     },
     {
       "locator": "apps",
       "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
     }
   ],
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/karakeep-app/karakeep",
-    "sha": "bcc4b90a2ae89f4b96ec23ce395ee9d3d1df6a72",
-    "file_url": "https://cdn.jsdelivr.net/gh/karakeep-app/karakeep@bcc4b90a2ae89f4b96ec23ce395ee9d3d1df6a72/{path}"
+    "sha": "28ae67526755479b13a91ac89d34eb711638841b",
+    "file_url": "https://cdn.jsdelivr.net/gh/karakeep-app/karakeep@28ae67526755479b13a91ac89d34eb711638841b/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 30785,
+    "stars": 30808,
     "size_mb": 147,
     "created_at": "2024-02-06T12:28:31Z",
-    "last_commit_at": "2026-11-22T23:25:27Z",
+    "last_commit_at": "2026-11-24T07:01:57Z",
     "releases": 54,
     "tags": 237,
     "archived": false,
@@ -60,18 +60,20 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 184,
+    "star_delta_7d": 178,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "bcc4b90a2ae89f4b96ec23ce395ee9d3d1df6a72",
+    "sha": "28ae67526755479b13a91ac89d34eb711638841b",
     "v": 4
   },
   "pins_before": [
+    "bcc4b90a2ae89f4b96ec23ce395ee9d3d1df6a72",
     "f7119ca01004f4840b8a7189d2899945ea3966a3"
   ],
-  "pinned_at": "2026-11-15T18:52:33Z",
+  "pinned_at": "2026-11-24T07:01:57Z",
   "hot": true
 }

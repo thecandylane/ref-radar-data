@@ -23,11 +23,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -40,7 +40,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 4442,
+    "stars": 4443,
     "size_mb": 1,
     "created_at": "2025-11-06T01:01:47Z",
     "last_commit_at": "2026-04-25T17:26:27Z",
@@ -65,6 +65,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "5c1ba628c62d9f3cf96cb98b3616f2ac23698aad",
     "v": 3

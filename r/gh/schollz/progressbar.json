@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7562c1147d9c3dd4d300abfd7bfca255bee31e85"
+  },
+  "id": "gh:schollz/progressbar",
+  "kind": "repo",
+  "url": "https://github.com/schollz/progressbar",
+  "title": "progressbar",
+  "why": "Draws a progress bar in a Go terminal with themes, spinners, a shown count and a settable writer for output.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/schollz/progressbar",
+    "sha": "7562c1147d9c3dd4d300abfd7bfca255bee31e85",
+    "file_url": "https://cdn.jsdelivr.net/gh/schollz/progressbar@7562c1147d9c3dd4d300abfd7bfca255bee31e85/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 4706,
+    "size_mb": 1,
+    "created_at": "2017-10-26T18:28:10Z",
+    "last_commit_at": "2026-09-19T19:05:10Z",
+    "releases": 81,
+    "tags": 97,
+    "archived": false,
+    "release": {
+      "tag": "v3.19.1",
+      "at": "2026-06-30T18:23:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "7562c1147d9c3dd4d300abfd7bfca255bee31e85",
+    "v": 4
+  },
+  "pinned_at": "2026-09-19T19:05:10Z"
+}

@@ -17,15 +17,15 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
-      "kind": "path"
-    },
-    {
       "locator": "internal",
       "kind": "path"
     },
     {
       "locator": "cmd",
+      "kind": "path"
+    },
+    {
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -38,12 +38,12 @@
   "facts": {
     "lang": "Go",
     "license": "none",
-    "stars": 8806,
+    "stars": 8807,
     "size_mb": 56,
     "created_at": "2016-03-22T01:18:48Z",
-    "last_commit_at": "2026-11-20T20:50:19Z",
-    "releases": 563,
-    "tags": 804,
+    "last_commit_at": "2026-11-23T20:39:47Z",
+    "releases": 564,
+    "tags": 805,
     "archived": false,
     "release": {
       "tag": "v4.119.0",
@@ -63,6 +63,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "aa0991d9a219a5bb208cad5398308f7c189b8e92",
+    "v": 4
+  },
   "pins_before": [
     "515fea903a5bad85bec26948cbdf79845e79ec55"
   ],

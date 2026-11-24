@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e8a1dd7889d65b8a6f02175e0d79d7c0557db7f9"
+  },
+  "id": "gh:adalogics/go-fuzz-headers",
+  "kind": "repo",
+  "url": "https://github.com/AdaLogics/go-fuzz-headers",
+  "title": "go-fuzz-headers",
+  "why": "Turns the bytes a fuzzing engine feeds in into typed Go values, filling structs, maps and tar archives for a fuzz target.",
+  "keys": {
+    "races": [
+      "exploit/fuzzing",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "exploit/fuzzing",
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AdaLogics/go-fuzz-headers",
+    "sha": "e8a1dd7889d65b8a6f02175e0d79d7c0557db7f9",
+    "file_url": "https://cdn.jsdelivr.net/gh/AdaLogics/go-fuzz-headers@e8a1dd7889d65b8a6f02175e0d79d7c0557db7f9/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 110,
+    "size_mb": 0,
+    "created_at": "2021-03-22T12:52:20Z",
+    "last_commit_at": "2024-08-06T14:16:05Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e8a1dd7889d65b8a6f02175e0d79d7c0557db7f9",
+    "v": 4
+  },
+  "pinned_at": "2024-08-06T14:16:05Z"
+}

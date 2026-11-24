@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:392818112aa1738005b977c21387d272b4287842"
-  },
   "id": "gh:mariadb/server",
   "kind": "repo",
   "url": "https://github.com/MariaDB/server",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/MariaDB/server",
-    "sha": "392818112aa1738005b977c21387d272b4287842",
-    "file_url": "https://raw.githubusercontent.com/MariaDB/server/392818112aa1738005b977c21387d272b4287842/{path}"
+    "sha": "6ccb6301b9c6b18d98dee4d7cbc73c22e16995bb",
+    "file_url": "https://raw.githubusercontent.com/MariaDB/server/6ccb6301b9c6b18d98dee4d7cbc73c22e16995bb/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "GPL-2.0",
     "stars": 8648,
-    "size_mb": 1989,
+    "size_mb": 1991,
     "created_at": "2014-05-15T10:58:50Z",
-    "last_commit_at": "2026-11-15T08:40:07Z",
+    "last_commit_at": "2026-11-24T04:48:37Z",
     "releases": 52,
     "tags": 1130,
     "archived": false,
@@ -55,17 +52,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 52,
+    "star_delta_7d": 45,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "392818112aa1738005b977c21387d272b4287842",
+    "sha": "6ccb6301b9c6b18d98dee4d7cbc73c22e16995bb",
     "v": 4
   },
   "pins_before": [
+    "392818112aa1738005b977c21387d272b4287842",
     "ef4c7459b8433603b306dc46618eccae9d2b6957"
   ],
-  "pinned_at": "2026-11-15T08:40:07Z"
+  "pinned_at": "2026-11-24T04:48:37Z"
 }

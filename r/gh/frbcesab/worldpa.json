@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:29d88a5f6f543f64a5433a5f8c1dde9e0ad1de08"
+  },
+  "id": "gh:frbcesab/worldpa",
+  "kind": "repo",
+  "url": "https://github.com/FRBCesab/worldpa",
+  "title": "worldpa",
+  "why": "R client to download protected area shapefiles for world countries through the WDPA API, once a personal token is stored.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/FRBCesab/worldpa",
+    "sha": "29d88a5f6f543f64a5433a5f8c1dde9e0ad1de08",
+    "file_url": "https://cdn.jsdelivr.net/gh/FRBCesab/worldpa@29d88a5f6f543f64a5433a5f8c1dde9e0ad1de08/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 14,
+    "size_mb": 0,
+    "created_at": "2019-11-14T14:36:40Z",
+    "last_commit_at": "2021-02-24T12:52:08Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2019-11-18T09:21:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "29d88a5f6f543f64a5433a5f8c1dde9e0ad1de08",
+    "v": 4
+  },
+  "pinned_at": "2021-02-24T12:52:08Z"
+}

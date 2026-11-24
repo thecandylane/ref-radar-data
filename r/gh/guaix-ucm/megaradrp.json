@@ -1,0 +1,66 @@
+{
+  "id": "gh:guaix-ucm/megaradrp",
+  "kind": "repo",
+  "url": "https://github.com/guaix-ucm/megaradrp",
+  "title": "megaradrp",
+  "why": "Pipeline for MEGARA frames that runs recipes for wavelength calibration, fiber tracing and cube creation, with QC checks after each run.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/guaix-ucm/megaradrp",
+    "sha": "b9c95e00c2e9630ead26e649d87112142f9d3ad8",
+    "file_url": "https://cdn.jsdelivr.net/gh/guaix-ucm/megaradrp@b9c95e00c2e9630ead26e649d87112142f9d3ad8/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 16,
+    "size_mb": 4,
+    "created_at": "2015-05-28T09:47:17Z",
+    "last_commit_at": "2026-11-21T17:20:18Z",
+    "releases": 26,
+    "tags": 34,
+    "archived": false,
+    "release": {
+      "tag": "v0.22",
+      "at": "2026-10-15T11:49:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b9c95e00c2e9630ead26e649d87112142f9d3ad8",
+    "v": 4
+  },
+  "pinned_at": "2026-11-21T17:20:18Z"
+}

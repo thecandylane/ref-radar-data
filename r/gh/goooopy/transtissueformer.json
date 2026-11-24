@@ -1,0 +1,59 @@
+{
+  "id": "gh:goooopy/transtissueformer",
+  "kind": "repo",
+  "url": "https://github.com/goooopy/TransTissueFormer",
+  "title": "TransTissueFormer",
+  "why": "Model that carries transcriptomics between tissues, with only a one-line README, so the code is the place to check inputs.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/goooopy/TransTissueFormer",
+    "sha": "c3c191e48a82dc98c6b3ba6616385a65df794022",
+    "file_url": "https://cdn.jsdelivr.net/gh/goooopy/TransTissueFormer@c3c191e48a82dc98c6b3ba6616385a65df794022/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-01-16T15:03:19Z",
+    "last_commit_at": "2026-01-16T15:10:08Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c3c191e48a82dc98c6b3ba6616385a65df794022",
+    "v": 4
+  },
+  "pinned_at": "2026-01-16T15:10:08Z"
+}

@@ -5,7 +5,7 @@
   "id": "gh:taskflow/taskflow",
   "kind": "repo",
   "url": "https://github.com/taskflow/taskflow",
-  "title": "taskflow",
+  "title": "taskflow/taskflow",
   "why": "Header-only C++20 library that builds task graphs with dependencies, subflows and conditional tasks, with CUDA graph offload.",
   "keys": {
     "races": [
@@ -58,6 +58,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "9d9cea031a7f4c8ec97179668c34ee47378e5a99",
     "v": 4

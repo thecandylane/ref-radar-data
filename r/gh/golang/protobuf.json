@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1e63d3449048d4fb4c71c2f074ba5a9fad8443c9"
+  },
+  "id": "gh:golang/protobuf",
+  "kind": "repo",
+  "url": "https://github.com/golang/protobuf",
+  "title": "golang/protobuf",
+  "why": "Go bindings for protocol buffers that older Go code can keep using, since v1.4 and later are built on google.golang.org/protobuf.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/golang/protobuf",
+    "sha": "1e63d3449048d4fb4c71c2f074ba5a9fad8443c9",
+    "file_url": "https://cdn.jsdelivr.net/gh/golang/protobuf@1e63d3449048d4fb4c71c2f074ba5a9fad8443c9/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "BSD-3-Clause",
+    "stars": 10076,
+    "size_mb": 8,
+    "created_at": "2014-11-23T23:07:23Z",
+    "last_commit_at": "2026-09-15T17:30:56Z",
+    "releases": 22,
+    "tags": 22,
+    "archived": false,
+    "release": {
+      "tag": "v1.5.4",
+      "at": "2024-03-06T07:11:48.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "1e63d3449048d4fb4c71c2f074ba5a9fad8443c9",
+    "v": 4
+  },
+  "pinned_at": "2026-09-15T17:30:56Z"
+}

@@ -18,15 +18,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "internal",
       "kind": "path"
     },
     {
       "locator": "sdk",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -39,7 +39,7 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 6616,
+    "stars": 6617,
     "size_mb": 34,
     "created_at": "2019-05-16T19:05:26Z",
     "last_commit_at": "2026-11-23T09:01:50Z",
@@ -64,6 +64,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "d0b12c61d7041890792070cebf5681d6ce4ef631",
     "v": 4

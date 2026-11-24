@@ -17,19 +17,19 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/tagspaces/tagspaces",
-    "sha": "a9232fd74c5d01e0eddb5dd54db99b03a61e5dc1",
-    "file_url": "https://cdn.jsdelivr.net/gh/tagspaces/tagspaces@a9232fd74c5d01e0eddb5dd54db99b03a61e5dc1/{path}"
+    "sha": "edee30d0ef43860e345ef9963db5f80299d19890",
+    "file_url": "https://cdn.jsdelivr.net/gh/tagspaces/tagspaces@edee30d0ef43860e345ef9963db5f80299d19890/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -37,7 +37,7 @@
     "stars": 5390,
     "size_mb": 146,
     "created_at": "2012-11-23T17:25:20Z",
-    "last_commit_at": "2026-11-16T09:18:55Z",
+    "last_commit_at": "2026-11-23T14:39:50Z",
     "releases": 275,
     "tags": 380,
     "archived": false,
@@ -59,9 +59,13 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "a9232fd74c5d01e0eddb5dd54db99b03a61e5dc1",
+    "sha": "edee30d0ef43860e345ef9963db5f80299d19890",
     "v": 4
   },
-  "pinned_at": "2026-11-16T09:18:55Z"
+  "pins_before": [
+    "a9232fd74c5d01e0eddb5dd54db99b03a61e5dc1"
+  ],
+  "pinned_at": "2026-11-23T14:39:50Z"
 }

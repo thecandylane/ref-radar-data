@@ -1,0 +1,69 @@
+{
+  "id": "gh:healthylaife/autofair",
+  "kind": "repo",
+  "url": "https://github.com/healthylaife/autofair",
+  "title": "autofair",
+  "why": "Generates medical vignettes from knowledge graphs and flips a sensitive attribute to test Med LLMs for unfair answers.",
+  "keys": {
+    "races": [
+      "llm-infra/evals",
+      "medicine/clinical-ml"
+    ],
+    "lanes": [
+      "llm-infra/evals",
+      "medicine/clinical-ml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/healthylaife/autofair",
+    "sha": "b1de8cc251f24f5677351b25be24c4d9866bebbc",
+    "file_url": "https://cdn.jsdelivr.net/gh/healthylaife/autofair@b1de8cc251f24f5677351b25be24c4d9866bebbc/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 2,
+    "size_mb": 1,
+    "created_at": "2024-10-03T15:47:32Z",
+    "last_commit_at": "2026-08-21T04:11:06Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b1de8cc251f24f5677351b25be24c4d9866bebbc",
+    "v": 4
+  },
+  "pinned_at": "2026-08-21T04:11:06Z",
+  "papers": [
+    {
+      "id": "arxiv:2410.14763",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

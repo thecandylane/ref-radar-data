@@ -34,13 +34,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/anchore/syft",
-    "sha": "1a72047fd46c72e0a12ee77e24b23d2316753d08",
-    "file_url": "https://cdn.jsdelivr.net/gh/anchore/syft@1a72047fd46c72e0a12ee77e24b23d2316753d08/{path}"
+    "sha": "9ad9aa5e80a6762c33b0344d252ec669ae53afdc",
+    "file_url": "https://cdn.jsdelivr.net/gh/anchore/syft@9ad9aa5e80a6762c33b0344d252ec669ae53afdc/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 9951,
+    "stars": 9957,
     "size_mb": 27,
     "created_at": "2020-05-07T18:19:29Z",
     "last_commit_at": "2026-11-23T01:26:41Z",
@@ -60,18 +60,20 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 50,
+    "star_delta_7d": 48,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "1a72047fd46c72e0a12ee77e24b23d2316753d08",
+    "sha": "9ad9aa5e80a6762c33b0344d252ec669ae53afdc",
     "v": 4
   },
   "pins_before": [
+    "1a72047fd46c72e0a12ee77e24b23d2316753d08",
     "a0c0d3890a9d79421c403e8fcadec50a2e55bf21"
   ],
-  "pinned_at": "2026-11-16T19:32:58Z",
+  "pinned_at": "2026-11-23T01:26:41Z",
   "hot": true
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5ad608809c9028da9f5c5082397cb6afe9c8dd17"
-  },
   "id": "gh:baldurk/renderdoc",
   "kind": "repo",
   "url": "https://github.com/baldurk/renderdoc",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/baldurk/renderdoc",
-    "sha": "5ad608809c9028da9f5c5082397cb6afe9c8dd17",
-    "file_url": "https://raw.githubusercontent.com/baldurk/renderdoc/5ad608809c9028da9f5c5082397cb6afe9c8dd17/{path}"
+    "sha": "ff935b4409261bd5556b9f34f2846845e9031987",
+    "file_url": "https://raw.githubusercontent.com/baldurk/renderdoc/ff935b4409261bd5556b9f34f2846845e9031987/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 11341,
+    "stars": 11343,
     "size_mb": 138,
     "created_at": "2014-02-27T15:16:30Z",
-    "last_commit_at": "2026-11-13T14:35:20Z",
+    "last_commit_at": "2026-11-24T08:30:37Z",
     "releases": 66,
     "tags": 66,
     "archived": false,
@@ -58,12 +55,14 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "5ad608809c9028da9f5c5082397cb6afe9c8dd17",
+    "sha": "ff935b4409261bd5556b9f34f2846845e9031987",
     "v": 4
   },
   "pins_before": [
+    "5ad608809c9028da9f5c5082397cb6afe9c8dd17",
     "d92e5701dab08631e25ebeb2b04e81adb1ef12a7"
   ],
-  "pinned_at": "2026-11-13T14:35:20Z"
+  "pinned_at": "2026-11-24T08:30:37Z"
 }

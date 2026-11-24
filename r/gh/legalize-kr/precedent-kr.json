@@ -1,0 +1,57 @@
+{
+  "id": "gh:legalize-kr/precedent-kr",
+  "kind": "repo",
+  "url": "https://github.com/legalize-kr/precedent-kr",
+  "title": "precedent-kr",
+  "why": "Korean precedent texts kept as Markdown files in Git, each dated by its Git commit date.",
+  "keys": {
+    "races": [
+      "legal/case-law",
+      "data/datasets"
+    ],
+    "lanes": [
+      "legal/case-law",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/legalize-kr/precedent-kr",
+    "sha": "1852092eb03c62ddee5b9a2ba4036a9fb4e17704",
+    "file_url": "https://raw.githubusercontent.com/legalize-kr/precedent-kr/1852092eb03c62ddee5b9a2ba4036a9fb4e17704/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "none",
+    "stars": 139,
+    "size_mb": 1096,
+    "created_at": "2026-04-06T02:39:16Z",
+    "last_commit_at": "2026-05-29T03:00:00Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-05-29T03:00:00Z"
+}

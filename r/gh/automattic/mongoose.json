@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:be1388fefa6047a9f0421c5aaf46600acf7aa938"
+  },
   "id": "gh:automattic/mongoose",
   "kind": "repo",
   "url": "https://github.com/Automattic/mongoose",
@@ -34,16 +37,16 @@
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 27452,
+    "stars": 27451,
     "size_mb": 163,
     "created_at": "2010-04-06T21:39:05Z",
-    "last_commit_at": "2026-11-22T22:37:41Z",
-    "releases": 294,
-    "tags": 1035,
+    "last_commit_at": "2026-11-24T00:31:13Z",
+    "releases": 296,
+    "tags": 1038,
     "archived": false,
     "release": {
-      "tag": "9.12.3",
-      "at": "2026-11-20T19:10:27.000Z"
+      "tag": "9.13.0",
+      "at": "2026-11-23T18:34:54.000Z"
     }
   },
   "reuse": "copy",
@@ -58,5 +61,10 @@
     "votes": {},
     "ranks": {}
   },
-  "tier": "curated"
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "be1388fefa6047a9f0421c5aaf46600acf7aa938",
+    "v": 4
+  }
 }

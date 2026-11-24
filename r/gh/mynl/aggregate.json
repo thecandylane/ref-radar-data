@@ -20,11 +20,11 @@
   },
   "read": [
     {
-      "locator": "CLAUDE.md",
+      "locator": "src",
       "kind": "path"
     },
     {
-      "locator": "src",
+      "locator": "CLAUDE.md",
       "kind": "path"
     }
   ],
@@ -37,7 +37,7 @@
   "facts": {
     "lang": "Python",
     "license": "BSD-3-Clause",
-    "stars": 71,
+    "stars": 72,
     "size_mb": 141,
     "created_at": "2018-09-01T02:32:35Z",
     "last_commit_at": "2026-11-07T12:18:15Z",
@@ -62,6 +62,7 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "a2f75e31a13dfe1d6de9e13c66407d7dad058f27",
     "v": 4

@@ -1,0 +1,76 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ecb50861a4bcd9eb7b02c5ef3817d315e1da94cb"
+  },
+  "id": "gh:hslatman/awesome-industrial-control-system-security",
+  "kind": "repo",
+  "url": "https://github.com/hslatman/awesome-industrial-control-system-security",
+  "title": "awesome-industrial-control-system-security",
+  "why": "Lookup list for ICS security work: Modbus and S7 scanners, PLC tools, honeypots and PCAP captures to start from.",
+  "keys": {
+    "races": [
+      "industrial/scada",
+      "industrial/protocols",
+      "netsec/honeypot",
+      "netsec/capture"
+    ],
+    "lanes": [
+      "industrial/scada",
+      "industrial/protocols",
+      "netsec/honeypot",
+      "netsec/capture"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hslatman/awesome-industrial-control-system-security",
+    "sha": "ecb50861a4bcd9eb7b02c5ef3817d315e1da94cb",
+    "file_url": "https://cdn.jsdelivr.net/gh/hslatman/awesome-industrial-control-system-security@ecb50861a4bcd9eb7b02c5ef3817d315e1da94cb/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 2052,
+    "size_mb": 0,
+    "created_at": "2015-12-08T12:43:46Z",
+    "last_commit_at": "2025-10-10T09:45:11Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ecb50861a4bcd9eb7b02c5ef3817d315e1da94cb",
+    "v": 4
+  },
+  "pinned_at": "2025-10-10T09:45:11Z",
+  "papers": [
+    {
+      "id": "arxiv:1910.00303",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:6e6ddfcd17621ef0e42a4ea7360e87613ddbee33"
+  },
+  "id": "gh:rainwoodman/kdcount",
+  "kind": "repo",
+  "url": "https://github.com/rainwoodman/kdcount",
+  "title": "kdcount",
+  "why": "Counts pairs of points within a distance using a KDTree and a user callback, with periodic boundaries for cosmology.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rainwoodman/kdcount",
+    "sha": "6e6ddfcd17621ef0e42a4ea7360e87613ddbee33",
+    "file_url": "https://cdn.jsdelivr.net/gh/rainwoodman/kdcount@6e6ddfcd17621ef0e42a4ea7360e87613ddbee33/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 12,
+    "size_mb": 1,
+    "created_at": "2013-06-05T20:10:43Z",
+    "last_commit_at": "2019-09-02T22:47:47Z",
+    "releases": 1,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "0.3.27",
+      "at": "2017-11-16T16:57:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6e6ddfcd17621ef0e42a4ea7360e87613ddbee33",
+    "v": 4
+  },
+  "pinned_at": "2019-09-02T22:47:47Z"
+}

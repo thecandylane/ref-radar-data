@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a9bcce1f0f799adad1eaa040ffa91f3f92e6726f"
+  },
   "id": "gh:agenticenv/agent-sdk-go",
   "kind": "repo",
   "url": "https://github.com/agenticenv/agent-sdk-go",
@@ -66,6 +69,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "a9bcce1f0f799adad1eaa040ffa91f3f92e6726f",
+    "v": 4
+  },
   "pins_before": [
     "15fb66ccee213115008ab552ef07d3f331dea861"
   ],

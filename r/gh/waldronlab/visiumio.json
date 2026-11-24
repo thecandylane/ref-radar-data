@@ -1,0 +1,61 @@
+{
+  "id": "gh:waldronlab/visiumio",
+  "kind": "repo",
+  "url": "https://github.com/waldronlab/VisiumIO",
+  "title": "VisiumIO",
+  "why": "Imports spaceranger output and Visium HD bins into a SpatialExperiment object, from matrix market or h5 files, for single and multiple samples.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/serialization"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/waldronlab/VisiumIO",
+    "sha": "ce8596ce4bea559ff4f10ebe49568cdb6d2e97b8",
+    "file_url": "https://cdn.jsdelivr.net/gh/waldronlab/VisiumIO@ce8596ce4bea559ff4f10ebe49568cdb6d2e97b8/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 3,
+    "size_mb": 1,
+    "created_at": "2023-11-14T20:32:14Z",
+    "last_commit_at": "2026-11-05T13:22:12Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ce8596ce4bea559ff4f10ebe49568cdb6d2e97b8",
+    "v": 4
+  },
+  "pinned_at": "2026-11-05T13:22:12Z"
+}

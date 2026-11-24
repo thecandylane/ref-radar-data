@@ -1,0 +1,68 @@
+{
+  "id": "gh:app-vnext/polly",
+  "kind": "repo",
+  "url": "https://github.com/App-vNext/Polly",
+  "title": "Polly",
+  "why": "Express retry, circuit breaker, timeout, hedging, rate limiter and fallback policies as a .NET resilience pipeline built with fluent builders.",
+  "keys": {
+    "races": [
+      "practice/reliability",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "practice/reliability",
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/App-vNext/Polly",
+    "sha": "ad7d87bf1c1cee65f4a90f1afb192094111df6eb",
+    "file_url": "https://cdn.jsdelivr.net/gh/App-vNext/Polly@ad7d87bf1c1cee65f4a90f1afb192094111df6eb/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "BSD-3-Clause",
+    "stars": 14256,
+    "size_mb": 62,
+    "created_at": "2013-05-05T04:40:04Z",
+    "last_commit_at": "2026-11-21T07:54:17Z",
+    "releases": 63,
+    "tags": 68,
+    "archived": false,
+    "release": {
+      "tag": "8.9.1",
+      "at": "2026-11-07T16:05:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ad7d87bf1c1cee65f4a90f1afb192094111df6eb",
+    "v": 4
+  },
+  "pinned_at": "2026-11-21T07:54:17Z"
+}

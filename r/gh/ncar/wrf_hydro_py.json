@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:003f73f7efb2d38114794ae14daac702e59edc24"
+  },
+  "id": "gh:ncar/wrf_hydro_py",
+  "kind": "repo",
+  "url": "https://github.com/NCAR/wrf_hydro_py",
+  "title": "wrf_hydro_py",
+  "why": "Python API to build, run and compare WRF-Hydro model runs as reproducible workflows, with netcdf output checks in tests.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "sci/hpc"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NCAR/wrf_hydro_py",
+    "sha": "003f73f7efb2d38114794ae14daac702e59edc24",
+    "file_url": "https://cdn.jsdelivr.net/gh/NCAR/wrf_hydro_py@003f73f7efb2d38114794ae14daac702e59edc24/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 63,
+    "size_mb": 12,
+    "created_at": "2018-03-12T14:41:50Z",
+    "last_commit_at": "2024-02-16T21:14:40Z",
+    "releases": 9,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "0.0.21",
+      "at": "2024-02-16T21:20:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "003f73f7efb2d38114794ae14daac702e59edc24",
+    "v": 4
+  },
+  "pinned_at": "2024-02-16T21:14:40Z"
+}

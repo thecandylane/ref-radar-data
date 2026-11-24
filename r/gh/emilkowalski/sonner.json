@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8e4662b39255120b62138312058f5d77c0139a5e"
+  },
+  "id": "gh:emilkowalski/sonner",
+  "kind": "repo",
+  "url": "https://github.com/emilkowalski/sonner",
+  "title": "sonner",
+  "why": "React toast component: one Toaster element renders everything, and toast() can fire from any component in the tree.",
+  "keys": {
+    "races": [
+      "web/ui-components"
+    ],
+    "lanes": [
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/emilkowalski/sonner",
+    "sha": "8e4662b39255120b62138312058f5d77c0139a5e",
+    "file_url": "https://cdn.jsdelivr.net/gh/emilkowalski/sonner@8e4662b39255120b62138312058f5d77c0139a5e/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 13263,
+    "size_mb": 1,
+    "created_at": "2023-02-23T11:01:18Z",
+    "last_commit_at": "2026-08-10T11:13:03Z",
+    "releases": 37,
+    "tags": 37,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.8",
+      "at": "2026-08-09T19:18:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "8e4662b39255120b62138312058f5d77c0139a5e",
+    "v": 4
+  },
+  "pinned_at": "2026-08-10T11:13:03Z"
+}

@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:05ddbbbabcb9ceb6526012a5a05dbdf3a4935d2b"
+  },
+  "id": "gh:python-jsonschema/jsonschema-specifications",
+  "kind": "repo",
+  "url": "https://github.com/python-jsonschema/jsonschema-specifications",
+  "title": "jsonschema-specifications",
+  "why": "Bundles the jsonschema meta-schemas as a package that the referencing library loads, with nox sessions for tests and docs.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/python-jsonschema/jsonschema-specifications",
+    "sha": "05ddbbbabcb9ceb6526012a5a05dbdf3a4935d2b",
+    "file_url": "https://cdn.jsdelivr.net/gh/python-jsonschema/jsonschema-specifications@05ddbbbabcb9ceb6526012a5a05dbdf3a4935d2b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 15,
+    "size_mb": 0,
+    "created_at": "2022-12-27T19:27:49Z",
+    "last_commit_at": "2026-11-04T05:13:34Z",
+    "releases": 24,
+    "tags": 27,
+    "archived": false,
+    "release": {
+      "tag": "v2025.9.1",
+      "at": "2025-09-08T01:35:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "05ddbbbabcb9ceb6526012a5a05dbdf3a4935d2b",
+    "v": 4
+  },
+  "pinned_at": "2026-11-04T05:13:34Z"
+}

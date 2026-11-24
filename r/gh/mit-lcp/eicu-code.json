@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:34cece8c70771a3fab48da84d4c47f0e133ca021"
+  },
+  "id": "gh:mit-lcp/eicu-code",
+  "kind": "repo",
+  "url": "https://github.com/MIT-LCP/eicu-code",
+  "title": "eicu-code",
+  "why": "Shared code for pulling eICU Collaborative Research Database data, with contributors posting materialized views so others skip repeated extraction.",
+  "keys": {
+    "races": [
+      "medicine/health-data",
+      "medicine/ehr"
+    ],
+    "lanes": [
+      "medicine/health-data",
+      "medicine/ehr"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MIT-LCP/eicu-code",
+    "sha": "34cece8c70771a3fab48da84d4c47f0e133ca021",
+    "file_url": "https://cdn.jsdelivr.net/gh/MIT-LCP/eicu-code@34cece8c70771a3fab48da84d4c47f0e133ca021/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 409,
+    "size_mb": 18,
+    "created_at": "2015-10-15T19:29:37Z",
+    "last_commit_at": "2024-12-19T21:04:06Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0",
+      "at": "2018-05-17T22:39:50.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "34cece8c70771a3fab48da84d4c47f0e133ca021",
+    "v": 4
+  },
+  "pinned_at": "2024-12-19T21:04:06Z"
+}

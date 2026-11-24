@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:15ff5dc25683cf2a43a4981fd2cbd5773175c4b1"
-  },
   "id": "gh:adrn/gala",
   "kind": "repo",
   "url": "https://github.com/adrn/gala",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/adrn/gala",
-    "sha": "15ff5dc25683cf2a43a4981fd2cbd5773175c4b1",
-    "file_url": "https://cdn.jsdelivr.net/gh/adrn/gala@15ff5dc25683cf2a43a4981fd2cbd5773175c4b1/{path}"
+    "sha": "0879bc6dbe60f3725ae7878f9715851160a4ace9",
+    "file_url": "https://cdn.jsdelivr.net/gh/adrn/gala@0879bc6dbe60f3725ae7878f9715851160a4ace9/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -40,7 +37,7 @@
     "stars": 152,
     "size_mb": 20,
     "created_at": "2014-03-10T00:56:18Z",
-    "last_commit_at": "2026-11-16T19:44:59Z",
+    "last_commit_at": "2026-11-24T00:38:13Z",
     "releases": 23,
     "tags": 29,
     "archived": false,
@@ -62,9 +59,13 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "15ff5dc25683cf2a43a4981fd2cbd5773175c4b1",
+    "sha": "0879bc6dbe60f3725ae7878f9715851160a4ace9",
     "v": 4
   },
-  "pinned_at": "2026-11-16T19:44:59Z"
+  "pins_before": [
+    "15ff5dc25683cf2a43a4981fd2cbd5773175c4b1"
+  ],
+  "pinned_at": "2026-11-24T00:38:13Z"
 }

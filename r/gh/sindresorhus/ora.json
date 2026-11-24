@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:413994cb92cc3e895203ac02dae7aa7b75c01e76"
+  },
+  "id": "gh:sindresorhus/ora",
+  "kind": "repo",
+  "url": "https://github.com/sindresorhus/ora",
+  "title": "ora",
+  "why": "Shows an animated spinner with changing text in the terminal while a task runs, and ends it with a success or fail symbol.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui",
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "desktop/terminal-ui",
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sindresorhus/ora",
+    "sha": "413994cb92cc3e895203ac02dae7aa7b75c01e76",
+    "file_url": "https://cdn.jsdelivr.net/gh/sindresorhus/ora@413994cb92cc3e895203ac02dae7aa7b75c01e76/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 9777,
+    "size_mb": 1,
+    "created_at": "2016-03-03T18:17:16Z",
+    "last_commit_at": "2026-10-31T06:59:26Z",
+    "releases": 41,
+    "tags": 56,
+    "archived": false,
+    "release": {
+      "tag": "v10.0.0",
+      "at": "2026-10-31T07:00:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "413994cb92cc3e895203ac02dae7aa7b75c01e76",
+    "v": 4
+  },
+  "pinned_at": "2026-10-31T06:59:26Z"
+}

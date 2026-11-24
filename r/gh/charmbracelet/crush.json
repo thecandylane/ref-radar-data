@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:956a005cfe768589ab6a7ef7693d437503713146"
+  },
   "id": "gh:charmbracelet/crush",
   "kind": "repo",
   "url": "https://github.com/charmbracelet/crush",
@@ -20,11 +23,11 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
+      "locator": "internal",
       "kind": "path"
     },
     {
-      "locator": "internal",
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -37,10 +40,10 @@
   "facts": {
     "lang": "Go",
     "license": "NOASSERTION",
-    "stars": 29167,
-    "size_mb": 35,
+    "stars": 29178,
+    "size_mb": 39,
     "created_at": "2025-05-21T12:14:57Z",
-    "last_commit_at": "2026-11-22T22:08:35Z",
+    "last_commit_at": "2026-11-23T22:04:21Z",
     "releases": 200,
     "tags": 215,
     "archived": false,
@@ -57,11 +60,12 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 66,
+    "star_delta_7d": 72,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
     "sha": "956a005cfe768589ab6a7ef7693d437503713146",
     "v": 4

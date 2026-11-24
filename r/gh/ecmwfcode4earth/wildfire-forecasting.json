@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:965c098c65089e8085bedd0464f5ad35cffea321"
+  },
+  "id": "gh:ecmwfcode4earth/wildfire-forecasting",
+  "kind": "repo",
+  "url": "https://github.com/ECMWFCode4Earth/wildfire-forecasting",
+  "title": "wildfire-forecasting",
+  "why": "Forecasts wildfire danger from weather inputs with a U-Net style network, offering pre-trained checkpoints for 1 to 21 day predictions.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "ml/training",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "ml/training",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ECMWFCode4Earth/wildfire-forecasting",
+    "sha": "965c098c65089e8085bedd0464f5ad35cffea321",
+    "file_url": "https://cdn.jsdelivr.net/gh/ECMWFCode4Earth/wildfire-forecasting@965c098c65089e8085bedd0464f5ad35cffea321/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "GPL-3.0",
+    "stars": 57,
+    "size_mb": 923,
+    "created_at": "2020-05-14T14:42:07Z",
+    "last_commit_at": "2021-02-22T21:18:54Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "965c098c65089e8085bedd0464f5ad35cffea321",
+    "v": 4
+  },
+  "pinned_at": "2021-02-22T21:18:54Z"
+}

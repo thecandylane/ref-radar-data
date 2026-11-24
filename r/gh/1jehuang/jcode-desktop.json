@@ -17,15 +17,15 @@
   },
   "read": [
     {
-      "locator": "AGENTS.md",
-      "kind": "path"
-    },
-    {
       "locator": "src",
       "kind": "path"
     },
     {
       "locator": "crates",
+      "kind": "path"
+    },
+    {
+      "locator": "AGENTS.md",
       "kind": "path"
     }
   ],
@@ -63,6 +63,11 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "cd04887ff42e8574a0b08c3a1528dd51c145b2f8",
+    "v": 4
+  },
   "pins_before": [
     "464e10fba6c9b16896edf4a6d713204bc1e847db",
     "ba0d19af62daaff2d1c5daf1b9a51d18c25383d2",

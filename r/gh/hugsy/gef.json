@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:8514ebc8f1710beb3acb8ae4d09643b00031ead9"
-  },
   "id": "gh:hugsy/gef",
   "kind": "repo",
   "url": "https://github.com/hugsy/gef",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/hugsy/gef",
-    "sha": "8514ebc8f1710beb3acb8ae4d09643b00031ead9",
-    "file_url": "https://cdn.jsdelivr.net/gh/hugsy/gef@8514ebc8f1710beb3acb8ae4d09643b00031ead9/{path}"
+    "sha": "83803d53a74db40b5058349bd39179edbfb1d325",
+    "file_url": "https://cdn.jsdelivr.net/gh/hugsy/gef@83803d53a74db40b5058349bd39179edbfb1d325/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 8446,
+    "stars": 8447,
     "size_mb": 13,
     "created_at": "2015-03-26T22:25:45Z",
-    "last_commit_at": "2026-11-16T16:02:09Z",
+    "last_commit_at": "2026-11-24T00:28:18Z",
     "releases": 19,
     "tags": 19,
     "archived": false,
@@ -60,12 +57,14 @@
     "ranks": {}
   },
   "tier": "curated",
+  "drafted": true,
   "pack": {
-    "sha": "8514ebc8f1710beb3acb8ae4d09643b00031ead9",
+    "sha": "83803d53a74db40b5058349bd39179edbfb1d325",
     "v": 4
   },
   "pins_before": [
+    "8514ebc8f1710beb3acb8ae4d09643b00031ead9",
     "809864d00442f9993298e33fd9cd282d687d2f45"
   ],
-  "pinned_at": "2026-11-16T16:02:09Z"
+  "pinned_at": "2026-11-24T00:28:18Z"
 }

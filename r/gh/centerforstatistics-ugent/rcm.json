@@ -1,0 +1,61 @@
+{
+  "id": "gh:centerforstatistics-ugent/rcm",
+  "kind": "repo",
+  "url": "https://github.com/CenterForStatistics-UGent/RCM",
+  "title": "RCM",
+  "why": "Fits negative binomial models to microbiome count data and plots the ordination on phyloseq objects, with conditioning and PERMANOVA.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CenterForStatistics-UGent/RCM",
+    "sha": "3f26dff7a39af536df2e130e66e0b001a26eadcf",
+    "file_url": "https://cdn.jsdelivr.net/gh/CenterForStatistics-UGent/RCM@3f26dff7a39af536df2e130e66e0b001a26eadcf/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 16,
+    "size_mb": 26,
+    "created_at": "2017-10-17T08:39:17Z",
+    "last_commit_at": "2026-11-19T09:57:03Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "3f26dff7a39af536df2e130e66e0b001a26eadcf",
+    "v": 4
+  },
+  "pinned_at": "2026-11-19T09:57:03Z"
+}

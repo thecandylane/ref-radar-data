@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:db9d1d0073d27a0a2d9a8c1bc52aa0af4374d265"
+  },
+  "id": "gh:gorilla/mux",
+  "kind": "repo",
+  "url": "https://github.com/gorilla/mux",
+  "title": "mux",
+  "why": "Routes incoming HTTP requests in Go by host, path, headers, methods or query values, with path variables, subrouters and reversible URLs.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gorilla/mux",
+    "sha": "db9d1d0073d27a0a2d9a8c1bc52aa0af4374d265",
+    "file_url": "https://cdn.jsdelivr.net/gh/gorilla/mux@db9d1d0073d27a0a2d9a8c1bc52aa0af4374d265/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "BSD-3-Clause",
+    "stars": 21830,
+    "size_mb": 1,
+    "created_at": "2012-10-02T21:32:24Z",
+    "last_commit_at": "2024-06-19T23:50:04Z",
+    "releases": 15,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "v1.8.1",
+      "at": "2023-11-05T02:14:50.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "db9d1d0073d27a0a2d9a8c1bc52aa0af4374d265",
+    "v": 4
+  },
+  "pinned_at": "2024-06-19T23:50:04Z"
+}

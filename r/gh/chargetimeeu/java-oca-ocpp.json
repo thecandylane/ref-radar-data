@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d098fc6616b374357f284257e060042791a4783b"
+  },
+  "id": "gh:chargetimeeu/java-oca-ocpp",
+  "kind": "repo",
+  "url": "https://github.com/ChargeTimeEU/Java-OCA-OCPP",
+  "title": "Java-OCA-OCPP",
+  "why": "Java library for building an OCPP 1.6, 2.0.1 or 2.1 charge point or central system, over JSON or SOAP transports.",
+  "keys": {
+    "races": [
+      "energy/ev-charging"
+    ],
+    "lanes": [
+      "energy/ev-charging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ChargeTimeEU/Java-OCA-OCPP",
+    "sha": "d098fc6616b374357f284257e060042791a4783b",
+    "file_url": "https://cdn.jsdelivr.net/gh/ChargeTimeEU/Java-OCA-OCPP@d098fc6616b374357f284257e060042791a4783b/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "MIT",
+    "stars": 380,
+    "size_mb": 3,
+    "created_at": "2016-05-02T21:09:35Z",
+    "last_commit_at": "2026-03-31T14:28:14Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v2.0",
+      "at": "2025-12-12T10:44:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d098fc6616b374357f284257e060042791a4783b",
+    "v": 4
+  },
+  "pinned_at": "2026-03-31T14:28:14Z"
+}
