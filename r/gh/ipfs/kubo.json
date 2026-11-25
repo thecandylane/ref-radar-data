@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:0156e1a761d7fd99d662f2ca8ada0d53f9c9f44f"
+  },
   "id": "gh:ipfs/kubo",
   "kind": "repo",
   "url": "https://github.com/ipfs/kubo",
@@ -41,13 +44,13 @@
     "stars": 17197,
     "size_mb": 60,
     "created_at": "2014-06-26T08:14:34Z",
-    "last_commit_at": "2026-11-23T15:46:05Z",
-    "releases": 135,
-    "tags": 223,
+    "last_commit_at": "2026-11-24T11:29:33Z",
+    "releases": 136,
+    "tags": 224,
     "archived": false,
     "release": {
-      "tag": "v0.43.1",
-      "at": "2026-09-15T00:52:17.000Z"
+      "tag": "v0.43.2",
+      "at": "2026-11-24T16:13:23.000Z"
     }
   },
   "reuse": "copy",
@@ -58,7 +61,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 7,
+    "star_delta_7d": 3,
     "votes": {},
     "ranks": {}
   },

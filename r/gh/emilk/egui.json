@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:9c20804709fcfd834ef1a4a674fb39017c195c5b"
+    "swh": "swh:1:rev:35925b9190e6c937c02943a6b6702de195c6b99a"
   },
   "id": "gh:emilk/egui",
   "kind": "repo",
@@ -31,16 +31,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/emilk/egui",
-    "sha": "9c20804709fcfd834ef1a4a674fb39017c195c5b",
-    "file_url": "https://cdn.jsdelivr.net/gh/emilk/egui@9c20804709fcfd834ef1a4a674fb39017c195c5b/{path}"
+    "sha": "35925b9190e6c937c02943a6b6702de195c6b99a",
+    "file_url": "https://cdn.jsdelivr.net/gh/emilk/egui@35925b9190e6c937c02943a6b6702de195c6b99a/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 32462,
-    "size_mb": 94,
+    "stars": 32481,
+    "size_mb": 95,
     "created_at": "2019-01-13T15:39:15Z",
-    "last_commit_at": "2026-11-24T08:55:53Z",
+    "last_commit_at": "2026-11-24T17:13:58Z",
     "releases": 46,
     "tags": 67,
     "archived": false,
@@ -57,19 +57,20 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 124,
+    "star_delta_7d": 120,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "9c20804709fcfd834ef1a4a674fb39017c195c5b",
+    "sha": "35925b9190e6c937c02943a6b6702de195c6b99a",
     "v": 4
   },
   "pins_before": [
+    "9c20804709fcfd834ef1a4a674fb39017c195c5b",
     "6a6ba7ab31940af17ccd144d404f54acea392c61"
   ],
-  "pinned_at": "2026-11-17T14:49:42Z",
+  "pinned_at": "2026-11-24T17:13:58Z",
   "hot": true
 }

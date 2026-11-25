@@ -38,13 +38,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/google/osv-scanner",
-    "sha": "7bb785b55918b31a24d54622482fd179c26ee9a9",
-    "file_url": "https://cdn.jsdelivr.net/gh/google/osv-scanner@7bb785b55918b31a24d54622482fd179c26ee9a9/{path}"
+    "sha": "66586f4a200a7b08f0e202ac1894bc7670424ede",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/osv-scanner@66586f4a200a7b08f0e202ac1894bc7670424ede/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 11612,
+    "stars": 11622,
     "size_mb": 46,
     "created_at": "2022-11-14T01:05:20Z",
     "last_commit_at": "2026-11-23T23:44:33Z",
@@ -64,19 +64,20 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 66,
+    "star_delta_7d": 70,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "7bb785b55918b31a24d54622482fd179c26ee9a9",
+    "sha": "66586f4a200a7b08f0e202ac1894bc7670424ede",
     "v": 4
   },
   "pins_before": [
+    "7bb785b55918b31a24d54622482fd179c26ee9a9",
     "80fe50567a5d6e0ec408353e2ceacca1561b91be"
   ],
-  "pinned_at": "2026-11-18T05:04:55Z",
+  "pinned_at": "2026-11-23T23:44:33Z",
   "hot": true
 }

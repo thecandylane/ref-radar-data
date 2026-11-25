@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:a46f434b6e9c62164808faed08f8027d37d775e8"
+    "swh": "swh:1:rev:73a6eb8802d388c1150ec34a84a8c5af3fef738a"
   },
   "id": "gh:libusb/libusb",
   "kind": "repo",
@@ -25,16 +25,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/libusb/libusb",
-    "sha": "a46f434b6e9c62164808faed08f8027d37d775e8",
-    "file_url": "https://cdn.jsdelivr.net/gh/libusb/libusb@a46f434b6e9c62164808faed08f8027d37d775e8/{path}"
+    "sha": "73a6eb8802d388c1150ec34a84a8c5af3fef738a",
+    "file_url": "https://cdn.jsdelivr.net/gh/libusb/libusb@73a6eb8802d388c1150ec34a84a8c5af3fef738a/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "LGPL-2.1",
-    "stars": 6201,
+    "stars": 6203,
     "size_mb": 5,
     "created_at": "2013-12-11T22:19:17Z",
-    "last_commit_at": "2026-11-24T08:17:03Z",
+    "last_commit_at": "2026-11-24T13:36:04Z",
     "releases": 35,
     "tags": 355,
     "archived": false,
@@ -58,11 +58,12 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "a46f434b6e9c62164808faed08f8027d37d775e8",
+    "sha": "73a6eb8802d388c1150ec34a84a8c5af3fef738a",
     "v": 4
   },
   "pins_before": [
+    "a46f434b6e9c62164808faed08f8027d37d775e8",
     "9b2913977f7af7354301badd7412a910c510e178"
   ],
-  "pinned_at": "2026-11-17T15:42:35Z"
+  "pinned_at": "2026-11-24T13:36:04Z"
 }

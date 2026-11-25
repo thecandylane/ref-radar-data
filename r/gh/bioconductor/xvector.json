@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c98e152a86e5397d1c70cfe8fbdbcd1cf4223cdd"
-  },
   "id": "gh:bioconductor/xvector",
   "kind": "repo",
   "url": "https://github.com/Bioconductor/XVector",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Bioconductor/XVector",
-    "sha": "c98e152a86e5397d1c70cfe8fbdbcd1cf4223cdd",
-    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/XVector@c98e152a86e5397d1c70cfe8fbdbcd1cf4223cdd/{path}"
+    "sha": "d85cc275cf423fb88ddd7abd73c4015d9d92fb8f",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/XVector@d85cc275cf423fb88ddd7abd73c4015d9d92fb8f/{path}"
   },
   "facts": {
     "lang": "C",
@@ -38,14 +35,14 @@
     "stars": 3,
     "size_mb": 0,
     "created_at": "2017-08-18T16:16:15Z",
-    "last_commit_at": "2026-04-28T12:37:43Z",
+    "last_commit_at": "2026-11-23T22:32:47Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
     "release": null
   },
   "reuse": "copy",
-  "maturity": "quiet",
+  "maturity": "unreleased",
   "status": null,
   "stats": {
     "picks": {},
@@ -59,8 +56,11 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "c98e152a86e5397d1c70cfe8fbdbcd1cf4223cdd",
+    "sha": "d85cc275cf423fb88ddd7abd73c4015d9d92fb8f",
     "v": 4
   },
-  "pinned_at": "2026-04-28T12:37:43Z"
+  "pins_before": [
+    "c98e152a86e5397d1c70cfe8fbdbcd1cf4223cdd"
+  ],
+  "pinned_at": "2026-11-23T22:32:47Z"
 }

@@ -1,7 +1,5 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:0f93570194a80d2f2032869055808b0ddcdfb360"
-  },
+  "access": "none",
   "id": "gh:yara-rules/rules",
   "kind": "repo",
   "url": "https://github.com/Yara-Rules/rules",
@@ -22,22 +20,11 @@
       "cyber/offensive/sandbox-evasion"
     ]
   },
-  "read": [
-    {
-      "locator": "README.md",
-      "kind": "path"
-    }
-  ],
-  "fetch": {
-    "type": "git-sparse",
-    "repo": "https://github.com/Yara-Rules/rules",
-    "sha": "0f93570194a80d2f2032869055808b0ddcdfb360",
-    "file_url": "https://cdn.jsdelivr.net/gh/Yara-Rules/rules@0f93570194a80d2f2032869055808b0ddcdfb360/{path}"
-  },
+  "read": [],
   "facts": {
     "lang": "YARA",
     "license": "GPL-2.0",
-    "stars": 4965,
+    "stars": 4966,
     "size_mb": 4,
     "created_at": "2015-04-11T05:56:16Z",
     "last_commit_at": "2022-04-12T17:53:58Z",
@@ -46,7 +33,7 @@
     "archived": false,
     "release": null
   },
-  "reuse": "copy",
+  "reuse": null,
   "maturity": "quiet",
   "status": null,
   "stats": {
@@ -54,15 +41,11 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 10,
+    "star_delta_7d": 9,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "0f93570194a80d2f2032869055808b0ddcdfb360",
-    "v": 3
-  },
   "pinned_at": "2022-04-12T17:53:58Z"
 }

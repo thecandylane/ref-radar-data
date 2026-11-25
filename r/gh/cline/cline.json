@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:34c104e6fc49781cda4adcd73ffdccd8f029fef9"
+  },
   "id": "gh:cline/cline",
   "kind": "repo",
   "url": "https://github.com/cline/cline",
@@ -32,13 +35,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/cline/cline",
-    "sha": "eff43e19b267e171f597ab03733bfed25090f72d",
-    "file_url": "https://cdn.jsdelivr.net/gh/cline/cline@eff43e19b267e171f597ab03733bfed25090f72d/{path}"
+    "sha": "34c104e6fc49781cda4adcd73ffdccd8f029fef9",
+    "file_url": "https://cdn.jsdelivr.net/gh/cline/cline@34c104e6fc49781cda4adcd73ffdccd8f029fef9/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 71861,
+    "stars": 71888,
     "size_mb": 623,
     "created_at": "2024-07-06T07:28:10Z",
     "last_commit_at": "2026-11-23T12:06:22Z",
@@ -58,18 +61,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 158,
+    "star_delta_7d": 146,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "eff43e19b267e171f597ab03733bfed25090f72d",
+    "sha": "34c104e6fc49781cda4adcd73ffdccd8f029fef9",
     "v": 4
   },
   "pins_before": [
+    "eff43e19b267e171f597ab03733bfed25090f72d",
     "50e77bc1e8f7ab023b7986821e4b5f82ff51b8c4"
   ],
-  "pinned_at": "2026-11-17T13:18:29Z"
+  "pinned_at": "2026-11-23T12:06:22Z"
 }

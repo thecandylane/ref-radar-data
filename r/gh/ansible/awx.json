@@ -22,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ansible/awx",
-    "sha": "8a6af80c3dc1415dd919b16a769ce203addbc5e8",
-    "file_url": "https://cdn.jsdelivr.net/gh/ansible/awx@8a6af80c3dc1415dd919b16a769ce203addbc5e8/{path}"
+    "sha": "7088468f6154ba6c78b0ee6522572367522b678a",
+    "file_url": "https://cdn.jsdelivr.net/gh/ansible/awx@7088468f6154ba6c78b0ee6522572367522b678a/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 15641,
+    "stars": 15645,
     "size_mb": 347,
     "created_at": "2017-05-17T15:50:14Z",
-    "last_commit_at": "2026-11-20T17:48:33Z",
+    "last_commit_at": "2026-11-24T21:54:47Z",
     "releases": 64,
     "tags": 102,
     "archived": false,
@@ -48,18 +48,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 12,
+    "star_delta_7d": 13,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "8a6af80c3dc1415dd919b16a769ce203addbc5e8",
+    "sha": "7088468f6154ba6c78b0ee6522572367522b678a",
     "v": 4
   },
   "pins_before": [
+    "8a6af80c3dc1415dd919b16a769ce203addbc5e8",
     "f1bf5721718b4213145e66bc81f9a376e0053483"
   ],
-  "pinned_at": "2026-11-17T13:35:24Z"
+  "pinned_at": "2026-11-24T21:54:47Z"
 }

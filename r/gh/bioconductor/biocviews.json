@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:52e6c503eeae7b2e6e5a88ca4dd465928a3fd835"
-  },
   "id": "gh:bioconductor/biocviews",
   "kind": "repo",
   "url": "https://github.com/Bioconductor/biocViews",
@@ -21,8 +18,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Bioconductor/biocViews",
-    "sha": "52e6c503eeae7b2e6e5a88ca4dd465928a3fd835",
-    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/biocViews@52e6c503eeae7b2e6e5a88ca4dd465928a3fd835/{path}"
+    "sha": "2220421041633e8c7e4e639c2d6bacdb96b23a2f",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/biocViews@2220421041633e8c7e4e639c2d6bacdb96b23a2f/{path}"
   },
   "facts": {
     "lang": "R",
@@ -30,7 +27,7 @@
     "stars": 4,
     "size_mb": 2,
     "created_at": "2017-09-01T20:17:03Z",
-    "last_commit_at": "2026-07-07T21:48:36Z",
+    "last_commit_at": "2026-11-23T22:28:18Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -51,8 +48,11 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "52e6c503eeae7b2e6e5a88ca4dd465928a3fd835",
+    "sha": "2220421041633e8c7e4e639c2d6bacdb96b23a2f",
     "v": 4
   },
-  "pinned_at": "2026-07-07T21:48:36Z"
+  "pins_before": [
+    "52e6c503eeae7b2e6e5a88ca4dd465928a3fd835"
+  ],
+  "pinned_at": "2026-11-23T22:28:18Z"
 }

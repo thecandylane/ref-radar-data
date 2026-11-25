@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:4117613e99fed59b0531c543c83182a48d740988"
+  },
   "id": "gh:dolthub/dolt",
   "kind": "repo",
   "url": "https://github.com/dolthub/dolt",
@@ -32,16 +35,16 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 24971,
+    "stars": 24976,
     "size_mb": 186,
     "created_at": "2019-07-24T17:46:25Z",
-    "last_commit_at": "2026-11-24T03:30:29Z",
-    "releases": 661,
-    "tags": 684,
+    "last_commit_at": "2026-11-25T01:11:42Z",
+    "releases": 662,
+    "tags": 685,
     "archived": false,
     "release": {
-      "tag": "v2.7.6",
-      "at": "2026-11-21T03:47:44.000Z"
+      "tag": "v2.7.7",
+      "at": "2026-11-25T01:27:37.000Z"
     }
   },
   "reuse": "copy",
@@ -52,7 +55,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 46,
+    "star_delta_7d": 45,
     "votes": {},
     "ranks": {}
   },

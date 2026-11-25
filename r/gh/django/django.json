@@ -22,13 +22,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/django/django",
-    "sha": "9e2e5a31e2ef2e8673d3c2a38d2a391dbf42cf23",
-    "file_url": "https://cdn.jsdelivr.net/gh/django/django@9e2e5a31e2ef2e8673d3c2a38d2a391dbf42cf23/{path}"
+    "sha": "f14af5a88472ca10e2e94b37d6c17ee48cbdeb4d",
+    "file_url": "https://cdn.jsdelivr.net/gh/django/django@f14af5a88472ca10e2e94b37d6c17ee48cbdeb4d/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "BSD-3-Clause",
-    "stars": 91831,
+    "stars": 91869,
     "size_mb": 278,
     "created_at": "2012-04-28T02:47:18Z",
     "last_commit_at": "2026-11-23T18:39:56Z",
@@ -45,18 +45,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": -26,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "9e2e5a31e2ef2e8673d3c2a38d2a391dbf42cf23",
+    "sha": "f14af5a88472ca10e2e94b37d6c17ee48cbdeb4d",
     "v": 4
   },
   "pins_before": [
+    "9e2e5a31e2ef2e8673d3c2a38d2a391dbf42cf23",
     "5d6d1f051e0930537b8eda9760d05441d4279594"
   ],
-  "pinned_at": "2026-11-17T20:07:13Z"
+  "pinned_at": "2026-11-23T18:39:56Z"
 }

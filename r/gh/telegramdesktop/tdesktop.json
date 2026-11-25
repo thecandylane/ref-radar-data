@@ -28,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/telegramdesktop/tdesktop",
-    "sha": "70ca17b82b9e17cb5fbfd6baf659fb7644f07f91",
-    "file_url": "https://cdn.jsdelivr.net/gh/telegramdesktop/tdesktop@70ca17b82b9e17cb5fbfd6baf659fb7644f07f91/{path}"
+    "sha": "0e79d7a47c3e1876576e62d760d53e1f3f14c2dc",
+    "file_url": "https://cdn.jsdelivr.net/gh/telegramdesktop/tdesktop@0e79d7a47c3e1876576e62d760d53e1f3f14c2dc/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "GPL-3.0",
-    "stars": 33666,
-    "size_mb": 312,
+    "stars": 33678,
+    "size_mb": 316,
     "created_at": "2014-05-02T12:36:31Z",
-    "last_commit_at": "2026-11-24T09:24:54Z",
+    "last_commit_at": "2026-11-24T13:48:20Z",
     "releases": 886,
     "tags": 886,
     "archived": false,
@@ -61,7 +61,11 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "70ca17b82b9e17cb5fbfd6baf659fb7644f07f91",
+    "sha": "0e79d7a47c3e1876576e62d760d53e1f3f14c2dc",
     "v": 4
-  }
+  },
+  "pins_before": [
+    "70ca17b82b9e17cb5fbfd6baf659fb7644f07f91"
+  ],
+  "pinned_at": "2026-11-24T13:48:20Z"
 }

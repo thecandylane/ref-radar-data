@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:28960fd2f795a6903665c3d6c037501059df0760"
-  },
   "id": "gh:apache/rocketmq",
   "kind": "repo",
   "url": "https://github.com/apache/rocketmq",
@@ -25,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/rocketmq",
-    "sha": "28960fd2f795a6903665c3d6c037501059df0760",
-    "file_url": "https://cdn.jsdelivr.net/gh/apache/rocketmq@28960fd2f795a6903665c3d6c037501059df0760/{path}"
+    "sha": "74c2a8e80a5f5ce367ba06daa19fcc187e3416c4",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/rocketmq@74c2a8e80a5f5ce367ba06daa19fcc187e3416c4/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 22663,
-    "size_mb": 46,
+    "stars": 22664,
+    "size_mb": 47,
     "created_at": "2016-11-30T08:00:08Z",
-    "last_commit_at": "2026-11-24T07:18:33Z",
+    "last_commit_at": "2026-11-25T08:03:03Z",
     "releases": 26,
     "tags": 40,
     "archived": false,
@@ -58,11 +55,12 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "28960fd2f795a6903665c3d6c037501059df0760",
+    "sha": "74c2a8e80a5f5ce367ba06daa19fcc187e3416c4",
     "v": 4
   },
   "pins_before": [
+    "28960fd2f795a6903665c3d6c037501059df0760",
     "164322b91e26fca2a53e6580003e582ff0621514"
   ],
-  "pinned_at": "2026-11-18T08:44:07Z"
+  "pinned_at": "2026-11-25T08:03:03Z"
 }

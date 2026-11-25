@@ -36,8 +36,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/psviderski/uncloud",
-    "sha": "00120d4e9ad03c34c1dfab1075319e8f2c32187d",
-    "file_url": "https://cdn.jsdelivr.net/gh/psviderski/uncloud@00120d4e9ad03c34c1dfab1075319e8f2c32187d/{path}"
+    "sha": "0d0abc4c93d991b960ed4ab040a110da90f747f7",
+    "file_url": "https://cdn.jsdelivr.net/gh/psviderski/uncloud@0d0abc4c93d991b960ed4ab040a110da90f747f7/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -45,7 +45,7 @@
     "stars": 5634,
     "size_mb": 9,
     "created_at": "2024-07-20T11:13:36Z",
-    "last_commit_at": "2026-11-17T05:33:40Z",
+    "last_commit_at": "2026-11-24T09:28:30Z",
     "releases": 37,
     "tags": 38,
     "archived": false,
@@ -62,18 +62,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 15,
+    "star_delta_7d": 13,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "00120d4e9ad03c34c1dfab1075319e8f2c32187d",
+    "sha": "0d0abc4c93d991b960ed4ab040a110da90f747f7",
     "v": 4
   },
   "pins_before": [
+    "00120d4e9ad03c34c1dfab1075319e8f2c32187d",
     "ffd93096f122d1420c6f72dfc0d69fd9d3ae8d09"
   ],
-  "pinned_at": "2026-11-17T05:33:40Z"
+  "pinned_at": "2026-11-24T09:28:30Z"
 }

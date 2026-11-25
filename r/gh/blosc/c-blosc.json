@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:1381ed04cb8fd1f7ebf45709728853ed1352da31"
+  },
   "id": "gh:blosc/c-blosc",
   "kind": "repo",
   "url": "https://github.com/Blosc/c-blosc",
@@ -24,7 +27,7 @@
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 1061,
+    "stars": 1060,
     "size_mb": 9,
     "created_at": "2011-07-03T11:38:39Z",
     "last_commit_at": "2026-10-31T12:46:47Z",
@@ -53,5 +56,6 @@
   "pack": {
     "sha": "1381ed04cb8fd1f7ebf45709728853ed1352da31",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-10-31T12:46:47Z"
 }

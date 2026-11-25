@@ -24,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/magit/magit",
-    "sha": "5e21bac5304c931cccbe16073758e2c464e40298",
-    "file_url": "https://cdn.jsdelivr.net/gh/magit/magit@5e21bac5304c931cccbe16073758e2c464e40298/{path}"
+    "sha": "7a05d472033fdb1786640e6571d2601d98d90b60",
+    "file_url": "https://cdn.jsdelivr.net/gh/magit/magit@7a05d472033fdb1786640e6571d2601d98d90b60/{path}"
   },
   "facts": {
     "lang": "Emacs Lisp",
@@ -57,11 +57,12 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "5e21bac5304c931cccbe16073758e2c464e40298",
+    "sha": "7a05d472033fdb1786640e6571d2601d98d90b60",
     "v": 4
   },
   "pins_before": [
+    "5e21bac5304c931cccbe16073758e2c464e40298",
     "da92cab409326115b7ee64cc611c99fd29b00963"
   ],
-  "pinned_at": "2026-11-17T11:03:49Z"
+  "pinned_at": "2026-11-21T11:40:06Z"
 }

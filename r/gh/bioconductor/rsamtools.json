@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:4fdb05737c9a2686c971c0797a99c3634e3f3878"
-  },
   "id": "gh:bioconductor/rsamtools",
   "kind": "repo",
   "url": "https://github.com/Bioconductor/Rsamtools",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Bioconductor/Rsamtools",
-    "sha": "4fdb05737c9a2686c971c0797a99c3634e3f3878",
-    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/Rsamtools@4fdb05737c9a2686c971c0797a99c3634e3f3878/{path}"
+    "sha": "5ece08dddef3a0b811d7647945ed1a52ae73d347",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/Rsamtools@5ece08dddef3a0b811d7647945ed1a52ae73d347/{path}"
   },
   "facts": {
     "lang": "R",
@@ -38,14 +35,14 @@
     "stars": 31,
     "size_mb": 14,
     "created_at": "2017-09-01T20:24:35Z",
-    "last_commit_at": "2026-04-28T12:34:32Z",
+    "last_commit_at": "2026-11-23T22:30:11Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
     "release": null
   },
   "reuse": "copy",
-  "maturity": "quiet",
+  "maturity": "unreleased",
   "status": null,
   "stats": {
     "picks": {},
@@ -59,8 +56,11 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "4fdb05737c9a2686c971c0797a99c3634e3f3878",
+    "sha": "5ece08dddef3a0b811d7647945ed1a52ae73d347",
     "v": 4
   },
-  "pinned_at": "2026-04-28T12:34:32Z"
+  "pins_before": [
+    "4fdb05737c9a2686c971c0797a99c3634e3f3878"
+  ],
+  "pinned_at": "2026-11-23T22:30:11Z"
 }

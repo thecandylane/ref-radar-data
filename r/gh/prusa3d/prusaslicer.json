@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:e6c85c50dcc56f9968a61dfdd7a3b695e1004037"
-  },
   "id": "gh:prusa3d/prusaslicer",
   "kind": "repo",
   "url": "https://github.com/prusa3d/PrusaSlicer",
@@ -31,18 +28,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/prusa3d/PrusaSlicer",
-    "sha": "e6c85c50dcc56f9968a61dfdd7a3b695e1004037",
-    "file_url": "https://raw.githubusercontent.com/prusa3d/PrusaSlicer/e6c85c50dcc56f9968a61dfdd7a3b695e1004037/{path}"
+    "sha": "a765244dc9b12d8c2c9927596cf2a393bf67ff04",
+    "file_url": "https://raw.githubusercontent.com/prusa3d/PrusaSlicer/a765244dc9b12d8c2c9927596cf2a393bf67ff04/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "AGPL-3.0",
     "stars": 9518,
-    "size_mb": 473,
+    "size_mb": 475,
     "created_at": "2016-03-01T14:26:57Z",
-    "last_commit_at": "2026-11-06T12:57:27Z",
-    "releases": 189,
-    "tags": 335,
+    "last_commit_at": "2026-11-24T14:12:50Z",
+    "releases": 190,
+    "tags": 336,
     "archived": false,
     "release": {
       "tag": "version_2.9.7",
@@ -64,8 +61,11 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "e6c85c50dcc56f9968a61dfdd7a3b695e1004037",
+    "sha": "a765244dc9b12d8c2c9927596cf2a393bf67ff04",
     "v": 4
   },
-  "pinned_at": "2026-11-06T12:57:27Z"
+  "pins_before": [
+    "e6c85c50dcc56f9968a61dfdd7a3b695e1004037"
+  ],
+  "pinned_at": "2026-11-24T14:12:50Z"
 }

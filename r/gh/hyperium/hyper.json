@@ -26,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/hyperium/hyper",
-    "sha": "21da6a59db9a90631302e7b173c106b723b9065f",
-    "file_url": "https://cdn.jsdelivr.net/gh/hyperium/hyper@21da6a59db9a90631302e7b173c106b723b9065f/{path}"
+    "sha": "55247767429fb29753f724b467869aa6203db532",
+    "file_url": "https://cdn.jsdelivr.net/gh/hyperium/hyper@55247767429fb29753f724b467869aa6203db532/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 16461,
+    "stars": 16463,
     "size_mb": 21,
     "created_at": "2014-08-30T21:14:33Z",
     "last_commit_at": "2026-11-23T21:22:08Z",
@@ -52,19 +52,20 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 45,
+    "star_delta_7d": 44,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "21da6a59db9a90631302e7b173c106b723b9065f",
+    "sha": "55247767429fb29753f724b467869aa6203db532",
     "v": 4
   },
   "pins_before": [
+    "21da6a59db9a90631302e7b173c106b723b9065f",
     "b638fc0de351987f3eaffa2bdabd393c8679a9e8"
   ],
-  "pinned_at": "2026-11-17T20:42:39Z",
+  "pinned_at": "2026-11-23T21:22:08Z",
   "hot": true
 }

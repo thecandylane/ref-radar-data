@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9544d4f0a3bc5c0ce5adaa747b9d64b9a78be913"
-  },
   "id": "gh:plger/sechm",
   "kind": "repo",
   "url": "https://github.com/plger/sechm",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/plger/sechm",
-    "sha": "9544d4f0a3bc5c0ce5adaa747b9d64b9a78be913",
-    "file_url": "https://cdn.jsdelivr.net/gh/plger/sechm@9544d4f0a3bc5c0ce5adaa747b9d64b9a78be913/{path}"
+    "sha": "7c3524e2d332479d63d769eb8489652e451af6a8",
+    "file_url": "https://cdn.jsdelivr.net/gh/plger/sechm@7c3524e2d332479d63d769eb8489652e451af6a8/{path}"
   },
   "facts": {
     "lang": "R",
@@ -34,14 +31,14 @@
     "stars": 9,
     "size_mb": 0,
     "created_at": "2021-04-08T15:51:05Z",
-    "last_commit_at": "2025-04-24T13:11:23Z",
+    "last_commit_at": "2026-11-24T14:34:20Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
     "release": null
   },
   "reuse": "copy",
-  "maturity": "quiet",
+  "maturity": "unreleased",
   "status": null,
   "stats": {
     "picks": {},
@@ -55,8 +52,11 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "9544d4f0a3bc5c0ce5adaa747b9d64b9a78be913",
-    "v": 3
+    "sha": "7c3524e2d332479d63d769eb8489652e451af6a8",
+    "v": 4
   },
-  "pinned_at": "2025-04-24T13:11:23Z"
+  "pins_before": [
+    "9544d4f0a3bc5c0ce5adaa747b9d64b9a78be913"
+  ],
+  "pinned_at": "2026-11-24T14:34:20Z"
 }

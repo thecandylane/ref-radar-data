@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5237b0067b6e8b2f982723a0f9628b21455939ef"
-  },
   "id": "gh:avelino/awesome-go",
   "kind": "repo",
   "url": "https://github.com/avelino/awesome-go",
@@ -41,16 +38,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/avelino/awesome-go",
-    "sha": "5237b0067b6e8b2f982723a0f9628b21455939ef",
-    "file_url": "https://cdn.jsdelivr.net/gh/avelino/awesome-go@5237b0067b6e8b2f982723a0f9628b21455939ef/{path}"
+    "sha": "4a0681323346e20654708222967046bc0ea39388",
+    "file_url": "https://cdn.jsdelivr.net/gh/avelino/awesome-go@4a0681323346e20654708222967046bc0ea39388/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 195670,
-    "size_mb": 14,
+    "stars": 195866,
+    "size_mb": 13,
     "created_at": "2014-07-06T13:42:15Z",
-    "last_commit_at": "2026-11-23T12:27:44Z",
+    "last_commit_at": "2026-11-25T08:22:07Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -64,18 +61,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 1309,
+    "star_delta_7d": 1313,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "pack": {
-    "sha": "5237b0067b6e8b2f982723a0f9628b21455939ef",
+    "sha": "4a0681323346e20654708222967046bc0ea39388",
     "v": 4
   },
   "pins_before": [
+    "5237b0067b6e8b2f982723a0f9628b21455939ef",
     "7474bdddd3d7d7e11e08ced2f20a754ce279f97a"
   ],
-  "pinned_at": "2026-11-18T00:58:07Z",
+  "pinned_at": "2026-11-25T08:22:07Z",
   "hot": true
 }

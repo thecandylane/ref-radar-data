@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:e6a8b94ec552308cd52a04178dd6d0776122584f"
-  },
   "id": "gh:annechao/inext.3d",
   "kind": "repo",
   "url": "https://github.com/AnneChao/iNEXT.3D",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/AnneChao/iNEXT.3D",
-    "sha": "e6a8b94ec552308cd52a04178dd6d0776122584f",
-    "file_url": "https://cdn.jsdelivr.net/gh/AnneChao/iNEXT.3D@e6a8b94ec552308cd52a04178dd6d0776122584f/{path}"
+    "sha": "ad3e6f69c18c2f9c932a68090bf3a482e0eaedf2",
+    "file_url": "https://cdn.jsdelivr.net/gh/AnneChao/iNEXT.3D@ad3e6f69c18c2f9c932a68090bf3a482e0eaedf2/{path}"
   },
   "facts": {
     "lang": "R",
@@ -40,14 +37,14 @@
     "stars": 1,
     "size_mb": 12,
     "created_at": "2025-06-09T07:23:03Z",
-    "last_commit_at": "2025-10-31T13:27:00Z",
+    "last_commit_at": "2026-11-24T15:45:40Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
     "release": null
   },
   "reuse": "copy",
-  "maturity": "quiet",
+  "maturity": "unreleased",
   "status": null,
   "stats": {
     "picks": {},
@@ -61,8 +58,11 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "e6a8b94ec552308cd52a04178dd6d0776122584f",
+    "sha": "ad3e6f69c18c2f9c932a68090bf3a482e0eaedf2",
     "v": 4
   },
-  "pinned_at": "2025-10-31T13:27:00Z"
+  "pins_before": [
+    "e6a8b94ec552308cd52a04178dd6d0776122584f"
+  ],
+  "pinned_at": "2026-11-24T15:45:40Z"
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:6ef561e024725a2a49284e3e5bcc124d52c0b5ba"
+  },
   "id": "gh:rails/rails",
   "kind": "repo",
   "url": "https://github.com/rails/rails",
@@ -28,10 +31,10 @@
   "facts": {
     "lang": "Ruby",
     "license": "MIT",
-    "stars": 59087,
+    "stars": 59107,
     "size_mb": 290,
     "created_at": "2008-04-11T02:19:47Z",
-    "last_commit_at": "2026-11-24T04:17:45Z",
+    "last_commit_at": "2026-11-24T23:38:27Z",
     "releases": 172,
     "tags": 556,
     "archived": false,
@@ -48,7 +51,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 36,
+    "star_delta_7d": 38,
     "votes": {},
     "ranks": {}
   },
@@ -61,6 +64,5 @@
   "pins_before": [
     "7b073bcc6ffa72bbdf17eec38a71b046b242ce32"
   ],
-  "pinned_at": "2026-11-21T15:34:40Z",
-  "hot": true
+  "pinned_at": "2026-11-21T15:34:40Z"
 }

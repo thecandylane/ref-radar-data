@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c053ec26d74ab2d67e4d013c018a8b5201e3a062"
+  },
   "id": "gh:cloudflare/cloudflare-docs",
   "kind": "repo",
   "url": "https://github.com/cloudflare/cloudflare-docs",
@@ -28,16 +31,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/cloudflare/cloudflare-docs",
-    "sha": "4ad11604f7aef6c1b15155d29c4ce3978da378a5",
-    "file_url": "https://raw.githubusercontent.com/cloudflare/cloudflare-docs/4ad11604f7aef6c1b15155d29c4ce3978da378a5/{path}"
+    "sha": "c053ec26d74ab2d67e4d013c018a8b5201e3a062",
+    "file_url": "https://raw.githubusercontent.com/cloudflare/cloudflare-docs/c053ec26d74ab2d67e4d013c018a8b5201e3a062/{path}"
   },
   "facts": {
     "lang": "MDX",
     "license": "CC-BY-4.0",
-    "stars": 5519,
-    "size_mb": 1476,
+    "stars": 5523,
+    "size_mb": 1477,
     "created_at": "2020-09-03T20:29:26Z",
-    "last_commit_at": "2026-11-24T04:58:27Z",
+    "last_commit_at": "2026-11-25T07:41:46Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -58,13 +61,14 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "4ad11604f7aef6c1b15155d29c4ce3978da378a5",
+    "sha": "c053ec26d74ab2d67e4d013c018a8b5201e3a062",
     "v": 4
   },
   "pins_before": [
+    "4ad11604f7aef6c1b15155d29c4ce3978da378a5",
     "71887c4dd651ecb8718833af10feb53ac7433cf6",
     "74499239dac83affbd031acef145a4bf225c8da3",
     "6728db6a5eb50b6fa2ea45d93650972079665397"
   ],
-  "pinned_at": "2026-11-24T04:58:27Z"
+  "pinned_at": "2026-11-25T07:41:46Z"
 }

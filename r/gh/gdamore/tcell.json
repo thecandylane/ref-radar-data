@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:4cedad629677a957ea1cda532dbf3fa58ef42a82"
-  },
   "id": "gh:gdamore/tcell",
   "kind": "repo",
   "url": "https://github.com/gdamore/tcell",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/gdamore/tcell",
-    "sha": "4cedad629677a957ea1cda532dbf3fa58ef42a82",
-    "file_url": "https://cdn.jsdelivr.net/gh/gdamore/tcell@4cedad629677a957ea1cda532dbf3fa58ef42a82/{path}"
+    "sha": "d4dabfa3b337437472b467b161963ab82b22a662",
+    "file_url": "https://cdn.jsdelivr.net/gh/gdamore/tcell@d4dabfa3b337437472b467b161963ab82b22a662/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 5242,
+    "stars": 5243,
     "size_mb": 4,
     "created_at": "2015-09-27T06:37:33Z",
-    "last_commit_at": "2026-11-05T16:56:43Z",
+    "last_commit_at": "2026-11-24T21:51:09Z",
     "releases": 62,
     "tags": 80,
     "archived": false,
@@ -62,8 +59,11 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "4cedad629677a957ea1cda532dbf3fa58ef42a82",
-    "v": 3
+    "sha": "d4dabfa3b337437472b467b161963ab82b22a662",
+    "v": 4
   },
-  "pinned_at": "2026-11-05T16:56:43Z"
+  "pins_before": [
+    "4cedad629677a957ea1cda532dbf3fa58ef42a82"
+  ],
+  "pinned_at": "2026-11-24T21:51:09Z"
 }

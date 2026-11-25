@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:b828b70e67f47d23aa67a7c9cdb873e98ae1bc16"
-  },
   "id": "gh:apache/hive",
   "kind": "repo",
   "url": "https://github.com/apache/hive",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/hive",
-    "sha": "b828b70e67f47d23aa67a7c9cdb873e98ae1bc16",
-    "file_url": "https://raw.githubusercontent.com/apache/hive/b828b70e67f47d23aa67a7c9cdb873e98ae1bc16/{path}"
+    "sha": "d4b41f410f4cce32fb4cbb4029a7800e9212d6e1",
+    "file_url": "https://raw.githubusercontent.com/apache/hive/d4b41f410f4cce32fb4cbb4029a7800e9212d6e1/{path}"
   },
   "facts": {
     "lang": "Java",
@@ -40,7 +37,7 @@
     "stars": 6038,
     "size_mb": 750,
     "created_at": "2009-05-21T02:31:01Z",
-    "last_commit_at": "2026-11-23T19:12:11Z",
+    "last_commit_at": "2026-11-25T08:25:26Z",
     "releases": 0,
     "tags": 93,
     "archived": false,
@@ -61,11 +58,12 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "b828b70e67f47d23aa67a7c9cdb873e98ae1bc16",
+    "sha": "d4b41f410f4cce32fb4cbb4029a7800e9212d6e1",
     "v": 4
   },
   "pins_before": [
+    "b828b70e67f47d23aa67a7c9cdb873e98ae1bc16",
     "e5d559dce04a0f4d99fa8e7398abdc5ce3607bae"
   ],
-  "pinned_at": "2026-11-18T00:46:18Z"
+  "pinned_at": "2026-11-25T08:25:26Z"
 }

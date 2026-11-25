@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:2a8926e0ac5014de75c00472319cdd6cb6a1f95d"
-  },
   "id": "gh:awesome-selfhosted/awesome-selfhosted",
   "kind": "repo",
   "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
@@ -25,13 +22,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-    "sha": "2a8926e0ac5014de75c00472319cdd6cb6a1f95d",
-    "file_url": "https://cdn.jsdelivr.net/gh/awesome-selfhosted/awesome-selfhosted@2a8926e0ac5014de75c00472319cdd6cb6a1f95d/{path}"
+    "sha": "6e7abbc2294fde161ce28811c5e2a7db9d498ba0",
+    "file_url": "https://cdn.jsdelivr.net/gh/awesome-selfhosted/awesome-selfhosted@6e7abbc2294fde161ce28811c5e2a7db9d498ba0/{path}"
   },
   "facts": {
     "lang": null,
     "license": "NOASSERTION",
-    "stars": 340000,
+    "stars": 340307,
     "size_mb": 17,
     "created_at": "2015-06-01T02:33:17Z",
     "last_commit_at": "2026-11-22T15:24:52Z",
@@ -51,19 +48,20 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 2148,
+    "star_delta_7d": 2096,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "2a8926e0ac5014de75c00472319cdd6cb6a1f95d",
+    "sha": "6e7abbc2294fde161ce28811c5e2a7db9d498ba0",
     "v": 4
   },
   "pins_before": [
+    "2a8926e0ac5014de75c00472319cdd6cb6a1f95d",
     "55d61d874370f213f5553d5bbd0f5814b2872e45"
   ],
-  "pinned_at": "2026-11-17T17:21:31Z",
+  "pinned_at": "2026-11-22T15:24:52Z",
   "hot": true
 }

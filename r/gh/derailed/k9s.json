@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:617476cfc0673be026fba339e2c204e22d505e53"
-  },
   "id": "gh:derailed/k9s",
   "kind": "repo",
   "url": "https://github.com/derailed/k9s",
@@ -35,13 +32,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/derailed/k9s",
-    "sha": "617476cfc0673be026fba339e2c204e22d505e53",
-    "file_url": "https://cdn.jsdelivr.net/gh/derailed/k9s@617476cfc0673be026fba339e2c204e22d505e53/{path}"
+    "sha": "c732946a6da348ad1b4fdabd6b9bd0f8cd2d3804",
+    "file_url": "https://cdn.jsdelivr.net/gh/derailed/k9s@c732946a6da348ad1b4fdabd6b9bd0f8cd2d3804/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 35045,
+    "stars": 35061,
     "size_mb": 64,
     "created_at": "2019-01-25T18:46:02Z",
     "last_commit_at": "2026-11-20T23:16:24Z",
@@ -61,19 +58,20 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 59,
+    "star_delta_7d": 70,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "617476cfc0673be026fba339e2c204e22d505e53",
+    "sha": "c732946a6da348ad1b4fdabd6b9bd0f8cd2d3804",
     "v": 4
   },
   "pins_before": [
+    "617476cfc0673be026fba339e2c204e22d505e53",
     "3a2e9334575db09291ae8e6037986d2fad72e108"
   ],
-  "pinned_at": "2026-11-18T08:05:10Z",
+  "pinned_at": "2026-11-20T23:16:24Z",
   "hot": true
 }

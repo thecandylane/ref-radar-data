@@ -30,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/nodejs/node",
-    "sha": "82e6b293c73afe8f830464c7df6410ef7496025e",
-    "file_url": "https://raw.githubusercontent.com/nodejs/node/82e6b293c73afe8f830464c7df6410ef7496025e/{path}"
+    "sha": "5440ac1f66a0986e08519ace929634cfff2a1e82",
+    "file_url": "https://raw.githubusercontent.com/nodejs/node/5440ac1f66a0986e08519ace929634cfff2a1e82/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "NOASSERTION",
-    "stars": 123879,
-    "size_mb": 1673,
+    "stars": 123965,
+    "size_mb": 1662,
     "created_at": "2014-11-26T19:57:11Z",
-    "last_commit_at": "2026-11-24T09:32:25Z",
+    "last_commit_at": "2026-11-25T06:43:21Z",
     "releases": 535,
     "tags": 977,
     "archived": false,
@@ -56,21 +56,22 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 123,
+    "star_delta_7d": 184,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "82e6b293c73afe8f830464c7df6410ef7496025e",
+    "sha": "5440ac1f66a0986e08519ace929634cfff2a1e82",
     "v": 4
   },
   "pins_before": [
+    "82e6b293c73afe8f830464c7df6410ef7496025e",
     "4f37a6a8aac657b309714d953c7e28c2de6caf40",
     "369b9c88aced207e9f15d1ecb7075d710ae6a7d1",
     "933cb117c91c961880d0b00fd9b6b75ff4580484"
   ],
-  "pinned_at": "2026-11-24T09:32:25Z",
+  "pinned_at": "2026-11-25T06:43:21Z",
   "hot": true
 }

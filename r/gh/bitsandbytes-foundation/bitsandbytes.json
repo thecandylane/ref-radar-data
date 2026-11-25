@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a616886cacf86701514f0cb1d6be760f967481c0"
-  },
   "id": "gh:bitsandbytes-foundation/bitsandbytes",
   "kind": "repo",
   "url": "https://github.com/bitsandbytes-foundation/bitsandbytes",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/bitsandbytes-foundation/bitsandbytes",
-    "sha": "a616886cacf86701514f0cb1d6be760f967481c0",
-    "file_url": "https://cdn.jsdelivr.net/gh/bitsandbytes-foundation/bitsandbytes@a616886cacf86701514f0cb1d6be760f967481c0/{path}"
+    "sha": "a3ce08118f085789b6c484a1328ffa27217df719",
+    "file_url": "https://cdn.jsdelivr.net/gh/bitsandbytes-foundation/bitsandbytes@a3ce08118f085789b6c484a1328ffa27217df719/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 8549,
+    "stars": 8550,
     "size_mb": 6,
     "created_at": "2021-06-04T00:10:34Z",
-    "last_commit_at": "2026-10-27T21:18:29Z",
+    "last_commit_at": "2026-11-24T22:18:47Z",
     "releases": 36,
     "tags": 39,
     "archived": false,
@@ -62,8 +59,25 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "a616886cacf86701514f0cb1d6be760f967481c0",
+    "sha": "a3ce08118f085789b6c484a1328ffa27217df719",
     "v": 4
   },
-  "pinned_at": "2026-10-27T21:18:29Z"
+  "pins_before": [
+    "a616886cacf86701514f0cb1d6be760f967481c0"
+  ],
+  "pinned_at": "2026-11-24T22:18:47Z",
+  "papers": [
+    {
+      "id": "arxiv:2305.14314",
+      "via": [
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2208.07339",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
 }

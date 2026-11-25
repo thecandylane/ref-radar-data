@@ -30,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/stas00/ml-engineering",
-    "sha": "1a78efc30ab987bfd8a016df00acfcdd653a268c",
-    "file_url": "https://cdn.jsdelivr.net/gh/stas00/ml-engineering@1a78efc30ab987bfd8a016df00acfcdd653a268c/{path}"
+    "sha": "0042a7e05aa4993577dd5c775520fab5c01ff915",
+    "file_url": "https://cdn.jsdelivr.net/gh/stas00/ml-engineering@0042a7e05aa4993577dd5c775520fab5c01ff915/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "CC-BY-SA-4.0",
-    "stars": 19744,
-    "size_mb": 29,
+    "stars": 19749,
+    "size_mb": 30,
     "created_at": "2020-09-02T19:23:01Z",
-    "last_commit_at": "2026-11-24T00:14:46Z",
+    "last_commit_at": "2026-11-25T01:30:33Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -60,7 +60,11 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "1a78efc30ab987bfd8a016df00acfcdd653a268c",
+    "sha": "0042a7e05aa4993577dd5c775520fab5c01ff915",
     "v": 4
-  }
+  },
+  "pins_before": [
+    "1a78efc30ab987bfd8a016df00acfcdd653a268c"
+  ],
+  "pinned_at": "2026-11-25T01:30:33Z"
 }

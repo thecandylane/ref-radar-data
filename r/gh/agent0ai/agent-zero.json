@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:2b0b3a416d80638379dc575798a4174ab4d3e1d9"
+    "swh": "swh:1:rev:a6e41ca5330af21371f15fc62798f09f0393eedb"
   },
   "id": "gh:agent0ai/agent-zero",
   "kind": "repo",
@@ -33,14 +33,14 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/agent0ai/agent-zero",
-    "sha": "2b0b3a416d80638379dc575798a4174ab4d3e1d9",
-    "file_url": "https://cdn.jsdelivr.net/gh/agent0ai/agent-zero@2b0b3a416d80638379dc575798a4174ab4d3e1d9/{path}"
+    "sha": "a6e41ca5330af21371f15fc62798f09f0393eedb",
+    "file_url": "https://cdn.jsdelivr.net/gh/agent0ai/agent-zero@a6e41ca5330af21371f15fc62798f09f0393eedb/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 19968,
-    "size_mb": 68,
+    "stars": 19980,
+    "size_mb": 69,
     "created_at": "2024-06-10T09:10:45Z",
     "last_commit_at": "2026-11-20T17:05:07Z",
     "releases": 78,
@@ -59,18 +59,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 78,
+    "star_delta_7d": 70,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "2b0b3a416d80638379dc575798a4174ab4d3e1d9",
+    "sha": "a6e41ca5330af21371f15fc62798f09f0393eedb",
     "v": 4
   },
   "pins_before": [
+    "2b0b3a416d80638379dc575798a4174ab4d3e1d9",
     "ba9b67df0f54ac78106ae85c552ef5d2458f7c9a"
   ],
-  "pinned_at": "2026-11-17T14:28:13Z"
+  "pinned_at": "2026-11-20T17:05:07Z"
 }

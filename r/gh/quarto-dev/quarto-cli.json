@@ -32,18 +32,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/quarto-dev/quarto-cli",
-    "sha": "cda41021442b20964e10e265b9dcdf81f490c18e",
-    "file_url": "https://raw.githubusercontent.com/quarto-dev/quarto-cli/cda41021442b20964e10e265b9dcdf81f490c18e/{path}"
+    "sha": "a63cc8951982120a9951873219daa01b33fac066",
+    "file_url": "https://raw.githubusercontent.com/quarto-dev/quarto-cli/a63cc8951982120a9951873219daa01b33fac066/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "NOASSERTION",
-    "stars": 6208,
+    "stars": 6212,
     "size_mb": 330,
     "created_at": "2020-09-25T13:25:46Z",
-    "last_commit_at": "2026-11-23T10:28:51Z",
+    "last_commit_at": "2026-11-24T16:07:59Z",
     "releases": 1000,
-    "tags": 1873,
+    "tags": 1874,
     "archived": false,
     "release": {
       "tag": "v1.11.9",
@@ -65,8 +65,11 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "cda41021442b20964e10e265b9dcdf81f490c18e",
+    "sha": "a63cc8951982120a9951873219daa01b33fac066",
     "v": 4
   },
-  "pinned_at": "2026-11-17T17:54:34Z"
+  "pins_before": [
+    "cda41021442b20964e10e265b9dcdf81f490c18e"
+  ],
+  "pinned_at": "2026-11-24T16:07:59Z"
 }

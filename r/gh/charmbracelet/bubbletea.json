@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:38ddf5f58cfb4d14bfe607bcac5af502ab9ed6d6"
-  },
   "id": "gh:charmbracelet/bubbletea",
   "kind": "repo",
   "url": "https://github.com/charmbracelet/bubbletea",
@@ -25,13 +22,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/charmbracelet/bubbletea",
-    "sha": "38ddf5f58cfb4d14bfe607bcac5af502ab9ed6d6",
-    "file_url": "https://cdn.jsdelivr.net/gh/charmbracelet/bubbletea@38ddf5f58cfb4d14bfe607bcac5af502ab9ed6d6/{path}"
+    "sha": "b78ae0e9e27d7965578844178f95348e56e8690b",
+    "file_url": "https://cdn.jsdelivr.net/gh/charmbracelet/bubbletea@b78ae0e9e27d7965578844178f95348e56e8690b/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 45851,
+    "stars": 45870,
     "size_mb": 6,
     "created_at": "2020-01-10T21:04:03Z",
     "last_commit_at": "2026-11-24T08:51:55Z",
@@ -51,19 +48,20 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 99,
+    "star_delta_7d": 105,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "38ddf5f58cfb4d14bfe607bcac5af502ab9ed6d6",
+    "sha": "b78ae0e9e27d7965578844178f95348e56e8690b",
     "v": 4
   },
   "pins_before": [
+    "38ddf5f58cfb4d14bfe607bcac5af502ab9ed6d6",
     "e4d617e7e0c0dd595cc553a856236221c678470f"
   ],
-  "pinned_at": "2026-11-18T08:44:36Z",
+  "pinned_at": "2026-11-24T08:51:55Z",
   "hot": true
 }

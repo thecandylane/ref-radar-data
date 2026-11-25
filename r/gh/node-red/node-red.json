@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:f613ba109eff360a1c8f8cb9add7b39531c75f12"
-  },
   "id": "gh:node-red/node-red",
   "kind": "repo",
   "url": "https://github.com/node-red/node-red",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/node-red/node-red",
-    "sha": "f613ba109eff360a1c8f8cb9add7b39531c75f12",
-    "file_url": "https://cdn.jsdelivr.net/gh/node-red/node-red@f613ba109eff360a1c8f8cb9add7b39531c75f12/{path}"
+    "sha": "cb41af94cd1e0bece24280e49b846ec5d6e85e47",
+    "file_url": "https://cdn.jsdelivr.net/gh/node-red/node-red@cb41af94cd1e0bece24280e49b846ec5d6e85e47/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "Apache-2.0",
-    "stars": 23874,
+    "stars": 23878,
     "size_mb": 74,
     "created_at": "2013-09-05T13:30:47Z",
-    "last_commit_at": "2026-11-23T16:23:41Z",
+    "last_commit_at": "2026-11-24T17:19:59Z",
     "releases": 191,
     "tags": 225,
     "archived": false,
@@ -62,8 +59,11 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "f613ba109eff360a1c8f8cb9add7b39531c75f12",
+    "sha": "cb41af94cd1e0bece24280e49b846ec5d6e85e47",
     "v": 4
   },
-  "pinned_at": "2026-11-17T10:44:21Z"
+  "pins_before": [
+    "f613ba109eff360a1c8f8cb9add7b39531c75f12"
+  ],
+  "pinned_at": "2026-11-24T17:19:59Z"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c4e3b48943a715f2feb04c2e7bdeb81805879b39"
-  },
   "id": "gh:ropensci/patentsview",
   "kind": "repo",
   "url": "https://github.com/ropensci/patentsview",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ropensci/patentsview",
-    "sha": "c4e3b48943a715f2feb04c2e7bdeb81805879b39",
-    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/patentsview@c4e3b48943a715f2feb04c2e7bdeb81805879b39/{path}"
+    "sha": "1dbc89ca3840fdcea104384c8739b5cbe4231eae",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/patentsview@1dbc89ca3840fdcea104384c8739b5cbe4231eae/{path}"
   },
   "facts": {
     "lang": "R",
@@ -34,7 +31,7 @@
     "stars": 39,
     "size_mb": 25,
     "created_at": "2017-02-17T01:53:20Z",
-    "last_commit_at": "2026-02-27T00:02:32Z",
+    "last_commit_at": "2026-11-24T16:06:34Z",
     "releases": 6,
     "tags": 6,
     "archived": false,
@@ -44,7 +41,7 @@
     }
   },
   "reuse": "copy",
-  "maturity": "quiet",
+  "maturity": "stable",
   "status": null,
   "stats": {
     "picks": {},
@@ -58,8 +55,11 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "c4e3b48943a715f2feb04c2e7bdeb81805879b39",
-    "v": 3
+    "sha": "1dbc89ca3840fdcea104384c8739b5cbe4231eae",
+    "v": 4
   },
-  "pinned_at": "2026-02-27T00:02:32Z"
+  "pins_before": [
+    "c4e3b48943a715f2feb04c2e7bdeb81805879b39"
+  ],
+  "pinned_at": "2026-11-24T16:06:34Z"
 }

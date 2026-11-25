@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:c45cbebe121bbef25eae306665c76d78ee4dbc5f"
+    "swh": "swh:1:rev:ed3f217658e555a1f0f85a01d0ab420b07ea0dc8"
   },
   "id": "gh:gallopsled/pwntools",
   "kind": "repo",
@@ -31,13 +31,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Gallopsled/pwntools",
-    "sha": "c45cbebe121bbef25eae306665c76d78ee4dbc5f",
-    "file_url": "https://cdn.jsdelivr.net/gh/Gallopsled/pwntools@c45cbebe121bbef25eae306665c76d78ee4dbc5f/{path}"
+    "sha": "ed3f217658e555a1f0f85a01d0ab420b07ea0dc8",
+    "file_url": "https://cdn.jsdelivr.net/gh/Gallopsled/pwntools@ed3f217658e555a1f0f85a01d0ab420b07ea0dc8/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 13887,
+    "stars": 13889,
     "size_mb": 29,
     "created_at": "2013-04-29T14:43:03Z",
     "last_commit_at": "2026-11-20T13:33:13Z",
@@ -64,11 +64,12 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "c45cbebe121bbef25eae306665c76d78ee4dbc5f",
+    "sha": "ed3f217658e555a1f0f85a01d0ab420b07ea0dc8",
     "v": 4
   },
   "pins_before": [
+    "c45cbebe121bbef25eae306665c76d78ee4dbc5f",
     "af4918c43fe1e605ea4caf98ff9ebb1e70b97bae"
   ],
-  "pinned_at": "2026-11-17T19:53:24Z"
+  "pinned_at": "2026-11-20T13:33:13Z"
 }

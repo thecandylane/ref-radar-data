@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:2b7f6abf451dc012e6c4c45c5af91556975b8688"
+  },
   "id": "gh:schedmd/slurm",
   "kind": "repo",
   "url": "https://github.com/SchedMD/slurm",
@@ -32,16 +35,16 @@
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 4538,
+    "stars": 4540,
     "size_mb": 360,
     "created_at": "2011-06-20T16:15:51Z",
-    "last_commit_at": "2026-11-24T04:32:00Z",
-    "releases": 33,
-    "tags": 501,
+    "last_commit_at": "2026-11-24T22:18:20Z",
+    "releases": 34,
+    "tags": 502,
     "archived": false,
     "release": {
-      "tag": "slurm-26-05-6-1",
-      "at": "2026-11-10T21:14:17.000Z"
+      "tag": "slurm-26-11-0-1",
+      "at": "2026-11-24T20:58:55.000Z"
     }
   },
   "reuse": "copy",

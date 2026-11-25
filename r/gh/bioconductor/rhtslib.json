@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:29c0999d599e15f97b80bf26ea8d87e006e92913"
-  },
   "id": "gh:bioconductor/rhtslib",
   "kind": "repo",
   "url": "https://github.com/Bioconductor/Rhtslib",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Bioconductor/Rhtslib",
-    "sha": "29c0999d599e15f97b80bf26ea8d87e006e92913",
-    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/Rhtslib@29c0999d599e15f97b80bf26ea8d87e006e92913/{path}"
+    "sha": "4917357c018d40c5d514a5d05bfc176396cbc744",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/Rhtslib@4917357c018d40c5d514a5d05bfc176396cbc744/{path}"
   },
   "facts": {
     "lang": "C",
@@ -38,14 +35,14 @@
     "stars": 11,
     "size_mb": 8,
     "created_at": "2017-09-01T20:24:25Z",
-    "last_commit_at": "2026-04-28T12:40:40Z",
+    "last_commit_at": "2026-11-24T10:30:16Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
     "release": null
   },
   "reuse": "copy",
-  "maturity": "quiet",
+  "maturity": "unreleased",
   "status": null,
   "stats": {
     "picks": {},
@@ -59,8 +56,11 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "29c0999d599e15f97b80bf26ea8d87e006e92913",
+    "sha": "4917357c018d40c5d514a5d05bfc176396cbc744",
     "v": 4
   },
-  "pinned_at": "2026-04-28T12:40:40Z"
+  "pins_before": [
+    "29c0999d599e15f97b80bf26ea8d87e006e92913"
+  ],
+  "pinned_at": "2026-11-24T10:30:16Z"
 }

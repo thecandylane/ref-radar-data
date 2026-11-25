@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:dc7de0b7207f8bd4321317c8900d22f36289f86b"
+  },
   "id": "gh:jaraco/zipp",
   "kind": "repo",
   "url": "https://github.com/jaraco/zipp",
@@ -24,7 +27,7 @@
   "facts": {
     "lang": "Python",
     "license": "none",
-    "stars": 69,
+    "stars": 70,
     "size_mb": 1,
     "created_at": "2018-11-15T21:24:48Z",
     "last_commit_at": "2026-10-29T14:38:02Z",
@@ -53,5 +56,6 @@
   "pack": {
     "sha": "dc7de0b7207f8bd4321317c8900d22f36289f86b",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-10-29T14:38:02Z"
 }

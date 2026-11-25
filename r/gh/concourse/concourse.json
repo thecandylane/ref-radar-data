@@ -28,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/concourse/concourse",
-    "sha": "a541626c27d97c3b2c284e439b7c541de39a4443",
-    "file_url": "https://cdn.jsdelivr.net/gh/concourse/concourse@a541626c27d97c3b2c284e439b7c541de39a4443/{path}"
+    "sha": "e2ec5aa06fb78c2eacd5884079fece0d0f48189b",
+    "file_url": "https://cdn.jsdelivr.net/gh/concourse/concourse@e2ec5aa06fb78c2eacd5884079fece0d0f48189b/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -37,13 +37,13 @@
     "stars": 7943,
     "size_mb": 156,
     "created_at": "2014-04-19T20:45:45Z",
-    "last_commit_at": "2026-11-16T11:10:08Z",
-    "releases": 223,
-    "tags": 401,
+    "last_commit_at": "2026-11-24T19:36:04Z",
+    "releases": 224,
+    "tags": 402,
     "archived": false,
     "release": {
-      "tag": "v8.3.3",
-      "at": "2026-11-03T12:44:41.000Z"
+      "tag": "v8.3.4",
+      "at": "2026-11-24T19:52:34.000Z"
     }
   },
   "reuse": "copy",
@@ -54,18 +54,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 3,
+    "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "a541626c27d97c3b2c284e439b7c541de39a4443",
+    "sha": "e2ec5aa06fb78c2eacd5884079fece0d0f48189b",
     "v": 4
   },
   "pins_before": [
+    "a541626c27d97c3b2c284e439b7c541de39a4443",
     "ba1eed4b7af562ea1ae2fd0b4deaf5390654b482"
   ],
-  "pinned_at": "2026-11-16T11:10:08Z"
+  "pinned_at": "2026-11-24T19:36:04Z"
 }

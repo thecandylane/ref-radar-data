@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:3281b6cc74d3ff0a3a6047940d079bb7ffd624a8"
+    "swh": "swh:1:rev:0e01c1a432ef3d0851b430cbdfdd75da452e99c1"
   },
   "id": "gh:micro-editor/micro",
   "kind": "repo",
@@ -39,13 +39,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/micro-editor/micro",
-    "sha": "3281b6cc74d3ff0a3a6047940d079bb7ffd624a8",
-    "file_url": "https://cdn.jsdelivr.net/gh/micro-editor/micro@3281b6cc74d3ff0a3a6047940d079bb7ffd624a8/{path}"
+    "sha": "0e01c1a432ef3d0851b430cbdfdd75da452e99c1",
+    "file_url": "https://cdn.jsdelivr.net/gh/micro-editor/micro@0e01c1a432ef3d0851b430cbdfdd75da452e99c1/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 29959,
+    "stars": 29964,
     "size_mb": 14,
     "created_at": "2016-03-11T02:06:28Z",
     "last_commit_at": "2026-11-23T17:22:15Z",
@@ -72,11 +72,12 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "3281b6cc74d3ff0a3a6047940d079bb7ffd624a8",
+    "sha": "0e01c1a432ef3d0851b430cbdfdd75da452e99c1",
     "v": 4
   },
   "pins_before": [
+    "3281b6cc74d3ff0a3a6047940d079bb7ffd624a8",
     "ab37da303ae719a469236697239a00e3e1ca8b16"
   ],
-  "pinned_at": "2026-11-17T18:00:44Z"
+  "pinned_at": "2026-11-23T17:22:15Z"
 }

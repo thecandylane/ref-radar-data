@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d0797ca8049d43b86ff0666342ebe45aa87f771a"
-  },
   "id": "gh:definitelytyped/definitelytyped",
   "kind": "repo",
   "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
@@ -25,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/DefinitelyTyped/DefinitelyTyped",
-    "sha": "d0797ca8049d43b86ff0666342ebe45aa87f771a",
-    "file_url": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/d0797ca8049d43b86ff0666342ebe45aa87f771a/{path}"
+    "sha": "565bf0817ca635e64d357a26a5071cc4583014cb",
+    "file_url": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/565bf0817ca635e64d357a26a5071cc4583014cb/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 51488,
+    "stars": 51491,
     "size_mb": 817,
     "created_at": "2012-10-05T16:39:45Z",
-    "last_commit_at": "2026-11-24T08:56:01Z",
+    "last_commit_at": "2026-11-25T09:02:35Z",
     "releases": 1,
     "tags": 1,
     "archived": false,
@@ -51,18 +48,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 7,
+    "star_delta_7d": 8,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "d0797ca8049d43b86ff0666342ebe45aa87f771a",
+    "sha": "565bf0817ca635e64d357a26a5071cc4583014cb",
     "v": 4
   },
   "pins_before": [
+    "d0797ca8049d43b86ff0666342ebe45aa87f771a",
     "069bec7ab0414bc517df8bc9461856fddc537aae"
   ],
-  "pinned_at": "2026-11-17T12:23:28Z"
+  "pinned_at": "2026-11-25T09:02:35Z"
 }

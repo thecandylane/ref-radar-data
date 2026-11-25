@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:44f48f18a5503c43873570ff489d27ff1983e198"
+  },
   "id": "gh:localsend/localsend",
   "kind": "repo",
   "url": "https://github.com/localsend/localsend",
@@ -38,16 +41,16 @@
   "facts": {
     "lang": "Dart",
     "license": "Apache-2.0",
-    "stars": 100549,
+    "stars": 100752,
     "size_mb": 24,
     "created_at": "2022-12-16T00:46:07Z",
     "last_commit_at": "2026-11-23T22:16:59Z",
-    "releases": 27,
-    "tags": 28,
+    "releases": 28,
+    "tags": 29,
     "archived": false,
     "release": {
-      "tag": "v1.18.2",
-      "at": "2026-08-21T14:02:01.000Z"
+      "tag": "v1.19.0",
+      "at": "2026-11-24T15:18:46.000Z"
     }
   },
   "reuse": "copy",

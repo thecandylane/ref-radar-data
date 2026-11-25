@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a65effecf833c171b10d147ccf48a530b97f5fad"
+  },
   "id": "gh:theporgs/exegol",
   "kind": "repo",
   "url": "https://github.com/ThePorgs/Exegol",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 3129,
+    "stars": 3131,
     "size_mb": 33,
     "created_at": "2020-03-09T19:12:11Z",
     "last_commit_at": "2026-10-17T09:56:02Z",
@@ -59,5 +62,6 @@
   "pack": {
     "sha": "a65effecf833c171b10d147ccf48a530b97f5fad",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-10-17T09:56:02Z"
 }

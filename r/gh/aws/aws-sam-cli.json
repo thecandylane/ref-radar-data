@@ -24,22 +24,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/aws/aws-sam-cli",
-    "sha": "7e46dab393864112e01fd7e05b6ac4da36fc76e4",
-    "file_url": "https://cdn.jsdelivr.net/gh/aws/aws-sam-cli@7e46dab393864112e01fd7e05b6ac4da36fc76e4/{path}"
+    "sha": "982d0211cb1d6865f1aa8b961db35cc99b88794a",
+    "file_url": "https://cdn.jsdelivr.net/gh/aws/aws-sam-cli@982d0211cb1d6865f1aa8b961db35cc99b88794a/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
     "stars": 6745,
-    "size_mb": 183,
+    "size_mb": 186,
     "created_at": "2017-05-23T18:16:23Z",
-    "last_commit_at": "2026-11-20T21:32:09Z",
-    "releases": 269,
-    "tags": 1016,
+    "last_commit_at": "2026-11-25T00:45:27Z",
+    "releases": 270,
+    "tags": 1018,
     "archived": false,
     "release": {
-      "tag": "v1.174.0",
-      "at": "2026-11-20T04:22:39.000Z"
+      "tag": "v1.174.1",
+      "at": "2026-11-25T02:50:50.000Z"
     }
   },
   "reuse": "copy",
@@ -57,11 +57,12 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "7e46dab393864112e01fd7e05b6ac4da36fc76e4",
+    "sha": "982d0211cb1d6865f1aa8b961db35cc99b88794a",
     "v": 4
   },
   "pins_before": [
+    "7e46dab393864112e01fd7e05b6ac4da36fc76e4",
     "4758d08574bb1e520f37e3b42994b0d1d37f3106"
   ],
-  "pinned_at": "2026-11-18T01:12:57Z"
+  "pinned_at": "2026-11-25T00:45:27Z"
 }

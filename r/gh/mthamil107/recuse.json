@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:08bacd4ab74d9d6825b7be80080517da0c666178"
+  },
   "id": "gh:mthamil107/recuse",
   "kind": "repo",
   "url": "https://github.com/mthamil107/Recuse",
@@ -43,7 +46,12 @@
       "tag": "v0.1.1",
       "at": "2026-06-05T09:05:29.000Z"
     },
-    "doi": "10.5281/zenodo.22010471"
+    "doi": "10.5281/zenodo.22010471",
+    "citations": {
+      "count": 2,
+      "by": "DataCite",
+      "at": "2026-11-25"
+    }
   },
   "reuse": "copy",
   "maturity": "new",
@@ -63,6 +71,7 @@
     "sha": "08bacd4ab74d9d6825b7be80080517da0c666178",
     "v": 4
   },
+  "pinned_at": "2026-11-18T12:34:26Z",
   "papers": [
     {
       "id": "arxiv:2606.06460",

@@ -30,8 +30,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/containerd/nerdctl",
-    "sha": "52b705e52dc873da6db3b1d05c4ea352f7c167ab",
-    "file_url": "https://cdn.jsdelivr.net/gh/containerd/nerdctl@52b705e52dc873da6db3b1d05c4ea352f7c167ab/{path}"
+    "sha": "ff0abc4d990866067d716bc14138d544cfc001cf",
+    "file_url": "https://cdn.jsdelivr.net/gh/containerd/nerdctl@ff0abc4d990866067d716bc14138d544cfc001cf/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -39,7 +39,7 @@
     "stars": 10496,
     "size_mb": 15,
     "created_at": "2020-12-04T10:09:03Z",
-    "last_commit_at": "2026-11-24T05:57:30Z",
+    "last_commit_at": "2026-11-25T03:16:56Z",
     "releases": 100,
     "tags": 100,
     "archived": false,
@@ -56,18 +56,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 10,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "52b705e52dc873da6db3b1d05c4ea352f7c167ab",
+    "sha": "ff0abc4d990866067d716bc14138d544cfc001cf",
     "v": 4
   },
   "pins_before": [
+    "52b705e52dc873da6db3b1d05c4ea352f7c167ab",
     "27dac9462451c6f2ebde1889230480111521c766"
   ],
-  "pinned_at": "2026-11-18T01:18:22Z"
+  "pinned_at": "2026-11-25T03:16:56Z"
 }
