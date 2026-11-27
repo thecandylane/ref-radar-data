@@ -1,0 +1,65 @@
+{
+  "id": "gh:apache/maven-war-plugin",
+  "kind": "repo",
+  "url": "https://github.com/apache/maven-war-plugin",
+  "title": "maven-war-plugin",
+  "why": "Builds WAR archives for Java web apps under Maven, merging overlay wars and dependency jars into one packaged webapp.",
+  "keys": {
+    "races": [
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/maven-war-plugin",
+    "sha": "ea03b3cf7313b35c48ecaf4dc44bf09b7511f0ec",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/maven-war-plugin@ea03b3cf7313b35c48ecaf4dc44bf09b7511f0ec/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 48,
+    "size_mb": 2,
+    "created_at": "2017-12-09T15:18:01Z",
+    "last_commit_at": "2026-11-26T03:06:21Z",
+    "releases": 3,
+    "tags": 25,
+    "archived": false,
+    "release": {
+      "tag": "maven-war-plugin-3.5.1",
+      "at": "2025-11-28T16:06:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "ea03b3cf7313b35c48ecaf4dc44bf09b7511f0ec",
+    "v": 4
+  }
+}

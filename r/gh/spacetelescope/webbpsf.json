@@ -1,0 +1,61 @@
+{
+  "id": "gh:spacetelescope/webbpsf",
+  "kind": "repo",
+  "url": "https://github.com/spacetelescope/webbpsf",
+  "title": "webbpsf",
+  "why": "Simulates point spread functions for James Webb and Roman instruments in imaging, coronagraph and spectroscopy modes.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/spacetelescope/webbpsf",
+    "sha": "95b37d2263eb60e8d6967239e166f6932724d5fc",
+    "file_url": "https://cdn.jsdelivr.net/gh/spacetelescope/webbpsf@95b37d2263eb60e8d6967239e166f6932724d5fc/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "BSD-3-Clause",
+    "stars": 133,
+    "size_mb": 113,
+    "created_at": "2018-07-09T16:56:06Z",
+    "last_commit_at": "2025-02-20T14:34:04Z",
+    "releases": 13,
+    "tags": 29,
+    "archived": false,
+    "release": {
+      "tag": "2.0.0",
+      "at": "2025-02-18T17:57:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "95b37d2263eb60e8d6967239e166f6932724d5fc",
+    "v": 4
+  }
+}

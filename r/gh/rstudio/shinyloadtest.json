@@ -1,0 +1,61 @@
+{
+  "id": "gh:rstudio/shinyloadtest",
+  "kind": "repo",
+  "url": "https://github.com/rstudio/shinyloadtest",
+  "title": "shinyloadtest",
+  "why": "Record a Shiny session, then replay it in parallel against a deployed app to estimate how many users it can support.",
+  "keys": {
+    "races": [
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rstudio/shinyloadtest",
+    "sha": "1fa395746805c77e293b8eba6c0e455e52efe21b",
+    "file_url": "https://cdn.jsdelivr.net/gh/rstudio/shinyloadtest@1fa395746805c77e293b8eba6c0e455e52efe21b/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "none",
+    "stars": 112,
+    "size_mb": 95,
+    "created_at": "2017-02-14T06:46:53Z",
+    "last_commit_at": "2026-02-09T14:57:10Z",
+    "releases": 4,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.1",
+      "at": "2026-02-09T14:56:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "1fa395746805c77e293b8eba6c0e455e52efe21b",
+    "v": 4
+  }
+}

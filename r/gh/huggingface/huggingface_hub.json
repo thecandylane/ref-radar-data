@@ -1,0 +1,71 @@
+{
+  "id": "gh:huggingface/huggingface_hub",
+  "kind": "repo",
+  "url": "https://github.com/huggingface/huggingface_hub",
+  "title": "huggingface_hub",
+  "why": "Python client for the model hub that uploads and syncs buckets, manages inference endpoints and runs commands in remote sandboxes.",
+  "keys": {
+    "races": [
+      "ml/open-models",
+      "llm-infra/inference",
+      "agents/sandboxes"
+    ],
+    "lanes": [
+      "ml/open-models",
+      "llm-infra/inference",
+      "agents/sandboxes"
+    ],
+    "capabilities": [
+      "agents/sandboxes/code-sandboxes"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/huggingface/huggingface_hub",
+    "sha": "e05961f4150eab76df96941718c485ab4eb9e5c3",
+    "file_url": "https://cdn.jsdelivr.net/gh/huggingface/huggingface_hub@e05961f4150eab76df96941718c485ab4eb9e5c3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 4080,
+    "size_mb": 47,
+    "created_at": "2020-12-22T10:20:28Z",
+    "last_commit_at": "2026-11-27T11:31:59Z",
+    "releases": 200,
+    "tags": 350,
+    "archived": false,
+    "release": {
+      "tag": "v2.5.0",
+      "at": "2026-11-26T15:38:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e05961f4150eab76df96941718c485ab4eb9e5c3",
+    "v": 4
+  }
+}

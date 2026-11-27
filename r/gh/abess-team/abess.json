@@ -1,0 +1,87 @@
+{
+  "id": "gh:abess-team/abess",
+  "kind": "repo",
+  "url": "https://github.com/abess-team/abess",
+  "title": "abess",
+  "why": "Picks a small subset of predictors for regression, logistic, Cox and Poisson models, with Python and R interfaces over a C++ core.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "data/statistics",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/abess-team/abess",
+    "sha": "a94f1d176d1400b8b2ddf80a6b2a5bfcb64fa10b",
+    "file_url": "https://cdn.jsdelivr.net/gh/abess-team/abess@a94f1d176d1400b8b2ddf80a6b2a5bfcb64fa10b/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 467,
+    "size_mb": 215,
+    "created_at": "2020-12-20T13:47:31Z",
+    "last_commit_at": "2026-03-15T18:04:56Z",
+    "releases": 17,
+    "tags": 20,
+    "archived": false,
+    "release": {
+      "tag": "0.4.11",
+      "at": "2026-03-04T14:44:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "a94f1d176d1400b8b2ddf80a6b2a5bfcb64fa10b",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2309.06230",
+      "via": [
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2308.00251",
+      "via": [
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2110.09697",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

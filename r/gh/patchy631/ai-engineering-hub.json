@@ -1,0 +1,62 @@
+{
+  "id": "gh:patchy631/ai-engineering-hub",
+  "kind": "repo",
+  "url": "https://github.com/patchy631/ai-engineering-hub",
+  "title": "ai-engineering-hub",
+  "why": "Sorted by difficulty, its 93+ projects cover OCR, RAG and agent workflows, so you can start near what you are building.",
+  "keys": {
+    "races": [
+      "learning/courses",
+      "llm-infra/rag",
+      "agents/assistants"
+    ],
+    "lanes": [
+      "learning/courses",
+      "llm-infra/rag",
+      "agents/assistants"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/patchy631/ai-engineering-hub",
+    "sha": "042aeb5067384981eeba6a07fa882f436bb1660d",
+    "file_url": "https://raw.githubusercontent.com/patchy631/ai-engineering-hub/042aeb5067384981eeba6a07fa882f436bb1660d/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 42148,
+    "size_mb": 303,
+    "created_at": "2024-10-21T10:43:24Z",
+    "last_commit_at": "2026-10-30T08:51:58Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "042aeb5067384981eeba6a07fa882f436bb1660d",
+    "v": 4
+  }
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b18c3194722accf3be35127158baf1ee5f2ac22e"
+  },
   "id": "gh:ast-grep/ast-grep",
   "kind": "repo",
   "url": "https://github.com/ast-grep/ast-grep",
@@ -31,16 +34,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ast-grep/ast-grep",
-    "sha": "c4510c79e68ede5dd963af420cccbdd656f3d252",
-    "file_url": "https://cdn.jsdelivr.net/gh/ast-grep/ast-grep@c4510c79e68ede5dd963af420cccbdd656f3d252/{path}"
+    "sha": "b18c3194722accf3be35127158baf1ee5f2ac22e",
+    "file_url": "https://cdn.jsdelivr.net/gh/ast-grep/ast-grep@b18c3194722accf3be35127158baf1ee5f2ac22e/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 16708,
+    "stars": 16733,
     "size_mb": 11,
     "created_at": "2022-07-01T19:21:00Z",
-    "last_commit_at": "2026-11-25T17:09:30Z",
+    "last_commit_at": "2026-11-26T20:45:09Z",
     "releases": 188,
     "tags": 191,
     "archived": false,
@@ -57,19 +60,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 71,
+    "star_delta_7d": 96,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "c4510c79e68ede5dd963af420cccbdd656f3d252",
-    "v": 4
-  },
   "pins_before": [
+    "c4510c79e68ede5dd963af420cccbdd656f3d252",
     "c7e005c685241c21fcd36d69ca38e037c9da7c0a"
   ],
-  "pinned_at": "2026-11-19T05:26:10Z",
+  "pinned_at": "2026-11-26T20:45:09Z",
   "hot": true
 }

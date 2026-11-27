@@ -1,0 +1,58 @@
+{
+  "id": "gh:unipisa/orbfit",
+  "kind": "repo",
+  "url": "https://github.com/Unipisa/OrbFit",
+  "title": "OrbFit",
+  "why": "Orbit computation and ephemeris code from Pisa's Space Mechanics group, with its development history preserved in this repository since 1995.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Unipisa/OrbFit",
+    "sha": "8317436ce2bb4b029721fee2e89d6f56a1771622",
+    "file_url": "https://cdn.jsdelivr.net/gh/Unipisa/OrbFit@8317436ce2bb4b029721fee2e89d6f56a1771622/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "GPL-2.0",
+    "stars": 6,
+    "size_mb": 90,
+    "created_at": "2019-10-08T10:10:54Z",
+    "last_commit_at": "2021-09-29T06:45:38Z",
+    "releases": 0,
+    "tags": 14,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "8317436ce2bb4b029721fee2e89d6f56a1771622",
+    "v": 4
+  }
+}

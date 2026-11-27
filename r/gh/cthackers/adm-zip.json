@@ -1,0 +1,64 @@
+{
+  "id": "gh:cthackers/adm-zip",
+  "kind": "repo",
+  "url": "https://github.com/cthackers/adm-zip",
+  "title": "adm-zip",
+  "why": "Reads, updates and decompresses zip archives in JavaScript, with zip64 headers and zipcrypto entries handled.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cthackers/adm-zip",
+    "sha": "72587088fb1acfdd5abd46ac7b492f7582944270",
+    "file_url": "https://cdn.jsdelivr.net/gh/cthackers/adm-zip@72587088fb1acfdd5abd46ac7b492f7582944270/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 2186,
+    "size_mb": 1,
+    "created_at": "2012-02-22T14:06:15Z",
+    "last_commit_at": "2026-10-13T09:27:25Z",
+    "releases": 12,
+    "tags": 43,
+    "archived": false,
+    "release": {
+      "tag": "v0.6.1",
+      "at": "2026-09-11T10:30:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "72587088fb1acfdd5abd46ac7b492f7582944270",
+    "v": 4
+  },
+  "risk": {
+    "level": "caution",
+    "signals": [
+      "ships a password-protected archive"
+    ],
+    "scanned_at": "2026-11-26T15:07:55.737Z"
+  }
+}

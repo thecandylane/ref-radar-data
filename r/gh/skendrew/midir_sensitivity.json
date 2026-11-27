@@ -1,0 +1,58 @@
+{
+  "id": "gh:skendrew/midir_sensitivity",
+  "kind": "repo",
+  "url": "https://github.com/skendrew/midIR_sensitivity",
+  "title": "midIR_sensitivity",
+  "why": "Computes ground-based mid-infrared sensitivity for the METIS E-ELT instrument in IDL, with atmosphere profiles and AO correction modes.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/skendrew/midIR_sensitivity",
+    "sha": "4f2e187e845dcf5862d1974f9547454d27e184ce",
+    "file_url": "https://raw.githubusercontent.com/skendrew/midIR_sensitivity/4f2e187e845dcf5862d1974f9547454d27e184ce/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "none",
+    "stars": 4,
+    "size_mb": 79,
+    "created_at": "2010-03-30T15:24:49Z",
+    "last_commit_at": "2011-02-01T11:05:59Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "4f2e187e845dcf5862d1974f9547454d27e184ce",
+    "v": 4
+  }
+}

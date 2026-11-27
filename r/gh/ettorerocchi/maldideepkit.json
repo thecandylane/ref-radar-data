@@ -1,0 +1,63 @@
+{
+  "id": "gh:ettorerocchi/maldideepkit",
+  "kind": "repo",
+  "url": "https://github.com/EttoreRocchi/MaldiDeepKit",
+  "title": "MaldiDeepKit",
+  "why": "Fits spectral classifiers with CNN, ResNet, transformer and MLP backbones, plus conformal and Laplace uncertainty for MALDI spectra.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "ml/training"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/EttoreRocchi/MaldiDeepKit",
+    "sha": "5c4b182ae169bc580942ce5dc822e31d30c8d41b",
+    "file_url": "https://cdn.jsdelivr.net/gh/EttoreRocchi/MaldiDeepKit@5c4b182ae169bc580942ce5dc822e31d30c8d41b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 2,
+    "created_at": "2026-04-22T10:38:40Z",
+    "last_commit_at": "2026-11-16T15:15:35Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.0",
+      "at": "2026-11-10T17:09:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "5c4b182ae169bc580942ce5dc822e31d30c8d41b",
+    "v": 4
+  }
+}

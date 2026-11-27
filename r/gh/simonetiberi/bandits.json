@@ -1,0 +1,62 @@
+{
+  "id": "gh:simonetiberi/bandits",
+  "kind": "repo",
+  "url": "https://github.com/SimoneTiberi/BANDITS",
+  "title": "BANDITS",
+  "why": "Centers numeric matrices and computes covariances through Rcpp, with separate paths for unique and together groups plus a multigroup version.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SimoneTiberi/BANDITS",
+    "sha": "7ade58a3b6e67f641bf6f094118e2f949c96b943",
+    "file_url": "https://cdn.jsdelivr.net/gh/SimoneTiberi/BANDITS@7ade58a3b6e67f641bf6f094118e2f949c96b943/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 20,
+    "size_mb": 4,
+    "created_at": "2019-03-27T14:27:53Z",
+    "last_commit_at": "2026-10-23T09:19:44Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "7ade58a3b6e67f641bf6f094118e2f949c96b943",
+    "v": 4
+  }
+}

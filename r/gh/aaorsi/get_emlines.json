@@ -1,0 +1,66 @@
+{
+  "id": "gh:aaorsi/get_emlines",
+  "kind": "repo",
+  "url": "https://github.com/aaorsi/get_emlines",
+  "title": "get_emlines",
+  "why": "Interpolates a photo-ionization grid to predict galaxy line luminosities from SFR and metallicity, the Orsi 2014 model.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/aaorsi/get_emlines",
+    "sha": "4ef1bbef6f92aa32d0380eb77f86a26ec39bf5ef",
+    "file_url": "https://cdn.jsdelivr.net/gh/aaorsi/get_emlines@4ef1bbef6f92aa32d0380eb77f86a26ec39bf5ef/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 4,
+    "size_mb": 0,
+    "created_at": "2016-11-25T12:55:15Z",
+    "last_commit_at": "2019-03-29T13:32:18Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "4ef1bbef6f92aa32d0380eb77f86a26ec39bf5ef",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2112.00129",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

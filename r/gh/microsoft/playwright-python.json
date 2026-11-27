@@ -1,0 +1,63 @@
+{
+  "id": "gh:microsoft/playwright-python",
+  "kind": "repo",
+  "url": "https://github.com/microsoft/playwright-python",
+  "title": "playwright-python",
+  "why": "Drives Chromium, Firefox and WebKit from Python through one API, in sync or async style, for page tests and screenshots.",
+  "keys": {
+    "races": [
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/testing"
+    ],
+    "capabilities": [
+      "dev-tools/testing/e2e-testing"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microsoft/playwright-python",
+    "sha": "f31e7025d36bebc4b55c2e94f97f26ac92e13067",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/playwright-python@f31e7025d36bebc4b55c2e94f97f26ac92e13067/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 15133,
+    "size_mb": 17,
+    "created_at": "2020-07-01T15:28:13Z",
+    "last_commit_at": "2026-11-25T11:33:10Z",
+    "releases": 112,
+    "tags": 112,
+    "archived": false,
+    "release": {
+      "tag": "v1.65.2",
+      "at": "2026-11-14T00:23:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f31e7025d36bebc4b55c2e94f97f26ac92e13067",
+    "v": 4
+  }
+}

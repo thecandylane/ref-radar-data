@@ -1,0 +1,63 @@
+{
+  "id": "gh:ricnogfer/pypsatopo",
+  "kind": "repo",
+  "url": "https://github.com/ricnogfer/pypsatopo",
+  "title": "pypsatopo",
+  "why": "Renders a PyPSA network as a topology diagram and marks broken links and missing buses in other shapes and colors.",
+  "keys": {
+    "races": [
+      "energy/system-models",
+      "dev-tools/diagrams"
+    ],
+    "lanes": [
+      "energy/system-models",
+      "dev-tools/diagrams"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ricnogfer/pypsatopo",
+    "sha": "dfd1487877a914bb0d57728002e769cee9ed7d4b",
+    "file_url": "https://cdn.jsdelivr.net/gh/ricnogfer/pypsatopo@dfd1487877a914bb0d57728002e769cee9ed7d4b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 25,
+    "size_mb": 4,
+    "created_at": "2023-03-17T12:14:27Z",
+    "last_commit_at": "2025-12-19T15:50:34Z",
+    "releases": 20,
+    "tags": 20,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.2",
+      "at": "2025-08-25T07:57:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "dfd1487877a914bb0d57728002e769cee9ed7d4b",
+    "v": 4
+  }
+}

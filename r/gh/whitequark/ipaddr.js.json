@@ -1,0 +1,62 @@
+{
+  "id": "gh:whitequark/ipaddr.js",
+  "kind": "repo",
+  "url": "https://github.com/whitequark/ipaddr.js",
+  "title": "ipaddr.js",
+  "why": "Parses IPv4 and IPv6 strings and matches them against CIDR ranges in plain JavaScript, with validity checks for each address.",
+  "keys": {
+    "races": [
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/whitequark/ipaddr.js",
+    "sha": "a129a2e242619dd1f4b8c41b2fd2ea216df7341e",
+    "file_url": "https://cdn.jsdelivr.net/gh/whitequark/ipaddr.js@a129a2e242619dd1f4b8c41b2fd2ea216df7341e/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 666,
+    "size_mb": 0,
+    "created_at": "2011-07-27T02:22:26Z",
+    "last_commit_at": "2026-11-16T11:36:29Z",
+    "releases": 0,
+    "tags": 37,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "a129a2e242619dd1f4b8c41b2fd2ea216df7341e",
+    "v": 4
+  }
+}

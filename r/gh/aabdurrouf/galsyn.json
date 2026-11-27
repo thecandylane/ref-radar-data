@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:55cf7e12824f576c5ad2438e3609d02758fabe5f"
+  },
   "id": "gh:aabdurrouf/galsyn",
   "kind": "repo",
   "url": "https://github.com/aabdurrouf/GalSyn",
@@ -54,5 +57,17 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pinned_at": "2026-10-18T14:25:04Z"
+  "pack": {
+    "sha": "55cf7e12824f576c5ad2438e3609d02758fabe5f",
+    "v": 4
+  },
+  "pinned_at": "2026-10-18T14:25:04Z",
+  "papers": [
+    {
+      "id": "arxiv:2603.23986",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
 }

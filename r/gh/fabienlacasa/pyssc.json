@@ -56,22 +56,28 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "bb08243ed90a651c713ad8108eb4ed5d3c51fa2c",
+    "v": 4
+  },
   "pinned_at": "2023-07-01T10:00:50Z",
   "papers": [
     {
-      "id": "arxiv:2401.10024",
-      "via": [
-        "pwc"
-      ]
-    },
-    {
       "id": "arxiv:2109.02308",
       "via": [
-        "pwc"
+        "pwc",
+        "repo"
       ]
     },
     {
       "id": "arxiv:1809.05437",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2401.10024",
       "via": [
         "pwc"
       ]

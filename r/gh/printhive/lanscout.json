@@ -1,0 +1,66 @@
+{
+  "id": "gh:printhive/lanscout",
+  "kind": "repo",
+  "url": "https://github.com/PrintHive/lanscout",
+  "title": "lanscout",
+  "why": "Runs six discovery sources at once and merges their replies into one record per physical device, including Bambu Lab printers.",
+  "keys": {
+    "races": [
+      "netsec/scanning",
+      "infra/networking",
+      "industrial/3d-printing"
+    ],
+    "lanes": [
+      "netsec/scanning",
+      "infra/networking",
+      "industrial/3d-printing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "CLAUDE.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/PrintHive/lanscout",
+    "sha": "698133d178d49fa9e4a847463ded71c93a88a876",
+    "file_url": "https://cdn.jsdelivr.net/gh/PrintHive/lanscout@698133d178d49fa9e4a847463ded71c93a88a876/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-10-27T20:23:48Z",
+    "last_commit_at": "2026-11-02T00:13:35Z",
+    "releases": 0,
+    "tags": 5,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "698133d178d49fa9e4a847463ded71c93a88a876",
+    "v": 4
+  }
+}

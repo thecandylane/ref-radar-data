@@ -1,0 +1,61 @@
+{
+  "id": "gh:symfony/polyfill-iconv",
+  "kind": "repo",
+  "url": "https://github.com/symfony/polyfill-iconv",
+  "title": "polyfill-iconv",
+  "why": "Supplies iconv functions to PHP builds without the iconv extension, covering charset conversion and MIME header decoding.",
+  "keys": {
+    "races": [
+      "languages/runtimes"
+    ],
+    "lanes": [
+      "languages/runtimes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/symfony/polyfill-iconv",
+    "sha": "254724d95fe01b679cd97d88786e9623ee00bfb7",
+    "file_url": "https://cdn.jsdelivr.net/gh/symfony/polyfill-iconv@254724d95fe01b679cd97d88786e9623ee00bfb7/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 1747,
+    "size_mb": 1,
+    "created_at": "2015-10-22T12:57:13Z",
+    "last_commit_at": "2026-09-29T06:25:14Z",
+    "releases": 5,
+    "tags": 46,
+    "archived": false,
+    "release": {
+      "tag": "v1.43.0",
+      "at": "2026-09-30T10:23:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "254724d95fe01b679cd97d88786e9623ee00bfb7",
+    "v": 4
+  }
+}

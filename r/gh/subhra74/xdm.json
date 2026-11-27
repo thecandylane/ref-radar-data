@@ -1,0 +1,63 @@
+{
+  "id": "gh:subhra74/xdm",
+  "kind": "repo",
+  "url": "https://github.com/subhra74/xdm",
+  "title": "xdm",
+  "why": "Splits downloads across connections, grabs HLS and DASH streams into MP4 without ffmpeg, and resumes broken transfers.",
+  "keys": {
+    "races": [
+      "media/video",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "media/video",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/subhra74/xdm",
+    "sha": "c0f9b6c7146ed39e843cc91b2a2c2c86691d085e",
+    "file_url": "https://cdn.jsdelivr.net/gh/subhra74/xdm@c0f9b6c7146ed39e843cc91b2a2c2c86691d085e/{path}"
+  },
+  "facts": {
+    "lang": "Kotlin",
+    "license": "GPL-3.0",
+    "stars": 8871,
+    "size_mb": 309,
+    "created_at": "2018-02-25T13:09:15Z",
+    "last_commit_at": "2026-11-25T09:04:58Z",
+    "releases": 24,
+    "tags": 25,
+    "archived": false,
+    "release": {
+      "tag": "9.0.12",
+      "at": "2026-11-22T09:08:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c0f9b6c7146ed39e843cc91b2a2c2c86691d085e",
+    "v": 4
+  }
+}

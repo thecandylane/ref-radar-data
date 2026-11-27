@@ -1,0 +1,58 @@
+{
+  "id": "gh:bhklab/consensusov",
+  "kind": "repo",
+  "url": "https://github.com/bhklab/consensusOV",
+  "title": "consensusOV",
+  "why": "Applies four subtype classifiers and a consensus classifier to high-grade serous ovarian tumors, to stratify patients by subtype.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bhklab/consensusOV",
+    "sha": "cc9400f1a731cfbd21c9664e7afe0e477e2ab8db",
+    "file_url": "https://cdn.jsdelivr.net/gh/bhklab/consensusOV@cc9400f1a731cfbd21c9664e7afe0e477e2ab8db/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 3,
+    "size_mb": 48,
+    "created_at": "2017-05-02T01:37:24Z",
+    "last_commit_at": "2024-02-12T13:48:46Z",
+    "releases": 2,
+    "tags": 3,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "cc9400f1a731cfbd21c9664e7afe0e477e2ab8db",
+    "v": 4
+  }
+}

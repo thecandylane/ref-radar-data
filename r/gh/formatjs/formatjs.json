@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5bb6386b11e4bebd0e4ffdb138aad8f8091c64fb"
-  },
   "id": "gh:formatjs/formatjs",
   "kind": "repo",
   "url": "https://github.com/formatjs/formatjs",
@@ -35,22 +32,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/formatjs/formatjs",
-    "sha": "5bb6386b11e4bebd0e4ffdb138aad8f8091c64fb",
-    "file_url": "https://cdn.jsdelivr.net/gh/formatjs/formatjs@5bb6386b11e4bebd0e4ffdb138aad8f8091c64fb/{path}"
+    "sha": "57826e1250d8bd30a5c3260afaf3608ac1c4ac68",
+    "file_url": "https://cdn.jsdelivr.net/gh/formatjs/formatjs@57826e1250d8bd30a5c3260afaf3608ac1c4ac68/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "none",
-    "stars": 14757,
+    "stars": 14756,
     "size_mb": 126,
     "created_at": "2014-04-24T17:28:36Z",
-    "last_commit_at": "2026-11-26T02:52:37Z",
+    "last_commit_at": "2026-11-27T05:40:16Z",
     "releases": 1000,
-    "tags": 5383,
+    "tags": 5385,
     "archived": false,
     "release": {
-      "tag": "eslint-plugin-formatjs@8.3.0",
-      "at": "2026-11-26T02:53:54.000Z"
+      "tag": "eslint-plugin-formatjs@8.4.1",
+      "at": "2026-11-26T21:54:11.000Z"
     }
   },
   "reuse": "copy",
@@ -61,18 +58,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 5,
+    "star_delta_7d": 4,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "5bb6386b11e4bebd0e4ffdb138aad8f8091c64fb",
-    "v": 4
-  },
   "pins_before": [
+    "5bb6386b11e4bebd0e4ffdb138aad8f8091c64fb",
     "35439b34f6531a3d336b55103780ccc1ae0043e9"
   ],
-  "pinned_at": "2026-11-19T04:26:23Z"
+  "pinned_at": "2026-11-27T05:40:16Z"
 }

@@ -1,0 +1,67 @@
+{
+  "id": "gh:linbox-team/givaro",
+  "kind": "repo",
+  "url": "https://github.com/linbox-team/givaro",
+  "title": "givaro",
+  "why": "C++ library for arithmetic over finite fields, polynomials and GMP-wrapped integers, built to work with LinBox and FFLAS-FFPACK.",
+  "keys": {
+    "races": [
+      "sci/symbolic",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "sci/symbolic",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/linbox-team/givaro",
+    "sha": "d6177a2518ded619e8b94b44a47c803105ad6ba0",
+    "file_url": "https://cdn.jsdelivr.net/gh/linbox-team/givaro@d6177a2518ded619e8b94b44a47c803105ad6ba0/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 57,
+    "size_mb": 6,
+    "created_at": "2015-07-01T09:30:51Z",
+    "last_commit_at": "2026-05-28T12:39:38Z",
+    "releases": 13,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v4.2.2",
+      "at": "2026-05-28T12:43:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d6177a2518ded619e8b94b44a47c803105ad6ba0",
+    "v": 4
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "gh:bfalck/origami",
+  "kind": "repo",
+  "url": "https://github.com/bfalck/origami",
+  "title": "origami",
+  "why": "Labels each particle in an N-body simulation as halo, filament, wall or void by counting its shell-crossing axes.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bfalck/origami",
+    "sha": "dd1f95a81b164f8564d41d23c8f60b8ad89f8f93",
+    "file_url": "https://cdn.jsdelivr.net/gh/bfalck/origami@dd1f95a81b164f8564d41d23c8f60b8ad89f8f93/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 2,
+    "size_mb": 1,
+    "created_at": "2019-04-10T16:08:02Z",
+    "last_commit_at": "2019-04-10T16:00:32Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "dd1f95a81b164f8564d41d23c8f60b8ad89f8f93",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:1201.2353",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

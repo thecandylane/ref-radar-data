@@ -1,0 +1,63 @@
+{
+  "id": "gh:bioinfo-must/fastcnv",
+  "kind": "repo",
+  "url": "https://github.com/bioinfo-MUST/fastCNV",
+  "title": "fastCNV",
+  "why": "Docs site for fastCNV with search across pages, a theme toggle and tooltips, generated from pkgdown assets.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bioinfo-MUST/fastCNV",
+    "sha": "d46032609617a6b4a6cbeeffc74041a5caab445d",
+    "file_url": "https://cdn.jsdelivr.net/gh/bioinfo-MUST/fastCNV@d46032609617a6b4a6cbeeffc74041a5caab445d/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "none",
+    "stars": 58,
+    "size_mb": 82,
+    "created_at": "2024-07-17T13:02:55Z",
+    "last_commit_at": "2026-11-10T10:49:24Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.10",
+      "at": "2026-07-09T13:36:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d46032609617a6b4a6cbeeffc74041a5caab445d",
+    "v": 4
+  }
+}

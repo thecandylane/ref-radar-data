@@ -1,0 +1,58 @@
+{
+  "id": "gh:rainwoodman/gaepsi",
+  "kind": "repo",
+  "url": "https://github.com/rainwoodman/gaepsi",
+  "title": "gaepsi",
+  "why": "Visualization and analysis for GADGET SPH cosmology output, though it is barely maintained and gaepsi2 is the successor.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rainwoodman/gaepsi",
+    "sha": "860b662d7a4f99acdfd44c0862cf93b4d5bc777a",
+    "file_url": "https://cdn.jsdelivr.net/gh/rainwoodman/gaepsi@860b662d7a4f99acdfd44c0862cf93b4d5bc777a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 14,
+    "size_mb": 3,
+    "created_at": "2011-06-03T20:35:20Z",
+    "last_commit_at": "2016-03-18T16:24:53Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "860b662d7a4f99acdfd44c0862cf93b4d5bc777a",
+    "v": 4
+  }
+}

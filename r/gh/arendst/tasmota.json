@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c1711ca20c62b084fd6347a8b35e54fc8c858911"
+  },
   "id": "gh:arendst/tasmota",
   "kind": "repo",
   "url": "https://github.com/arendst/Tasmota",
@@ -34,10 +37,10 @@
   "facts": {
     "lang": "C",
     "license": "GPL-3.0",
-    "stars": 25029,
+    "stars": 25034,
     "size_mb": 279,
     "created_at": "2017-01-28T13:37:08Z",
-    "last_commit_at": "2026-11-26T09:02:21Z",
+    "last_commit_at": "2026-11-27T08:18:28Z",
     "releases": 120,
     "tags": 124,
     "archived": false,
@@ -60,6 +63,10 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "c1711ca20c62b084fd6347a8b35e54fc8c858911",
+    "v": 4
+  },
   "pins_before": [
     "0078ac6c28e03bf4c44690a05977e752b5d34fd7"
   ],

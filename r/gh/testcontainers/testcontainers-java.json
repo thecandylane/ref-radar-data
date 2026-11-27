@@ -25,8 +25,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/testcontainers/testcontainers-java",
-    "sha": "9f7ada889f53e97f8358806c18deb7c25dda66f7",
-    "file_url": "https://cdn.jsdelivr.net/gh/testcontainers/testcontainers-java@9f7ada889f53e97f8358806c18deb7c25dda66f7/{path}"
+    "sha": "a736c02500bb8cd8fffb68ec88f8ddbbffd7e80d",
+    "file_url": "https://cdn.jsdelivr.net/gh/testcontainers/testcontainers-java@a736c02500bb8cd8fffb68ec88f8ddbbffd7e80d/{path}"
   },
   "facts": {
     "lang": "Java",
@@ -34,7 +34,7 @@
     "stars": 8773,
     "size_mb": 15,
     "created_at": "2015-04-12T12:44:59Z",
-    "last_commit_at": "2026-11-19T07:53:27Z",
+    "last_commit_at": "2026-11-26T21:54:07Z",
     "releases": 92,
     "tags": 126,
     "archived": false,
@@ -57,12 +57,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "9f7ada889f53e97f8358806c18deb7c25dda66f7",
-    "v": 4
-  },
   "pins_before": [
+    "9f7ada889f53e97f8358806c18deb7c25dda66f7",
     "f74d167720038492c13df0ddaa053717ef61706a"
   ],
-  "pinned_at": "2026-11-19T07:53:27Z"
+  "pinned_at": "2026-11-26T21:54:07Z"
 }

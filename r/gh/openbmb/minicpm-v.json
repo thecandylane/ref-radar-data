@@ -1,0 +1,89 @@
+{
+  "id": "gh:openbmb/minicpm-v",
+  "kind": "repo",
+  "url": "https://github.com/OpenBMB/MiniCPM-V",
+  "title": "MiniCPM-V",
+  "why": "Open-weight multimodal models for images, video and speech, with int4 and GGUF builds for on-device use.",
+  "keys": {
+    "races": [
+      "ml/open-models",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "ml/open-models",
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OpenBMB/MiniCPM-V",
+    "sha": "4dbbb6c58b6f8a004d6689028417296719f0831a",
+    "file_url": "https://raw.githubusercontent.com/OpenBMB/MiniCPM-V/4dbbb6c58b6f8a004d6689028417296719f0831a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 27209,
+    "size_mb": 796,
+    "created_at": "2024-01-29T05:30:33Z",
+    "last_commit_at": "2026-11-09T07:37:28Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "20250527",
+      "at": "2025-05-27T09:55:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "4dbbb6c58b6f8a004d6689028417296719f0831a",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2408.01800",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2405.17220",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2312.00849",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2308.12038",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

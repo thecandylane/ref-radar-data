@@ -1,0 +1,63 @@
+{
+  "id": "gh:pierrecouprie/motuslabtool",
+  "kind": "repo",
+  "url": "https://github.com/pierrecouprie/MotusLabTool",
+  "title": "MotusLabTool",
+  "why": "Records mixer fader motions, the performer's audio, up to 4 webcams and MIDI for studying acousmatic interpretations on macOS.",
+  "keys": {
+    "races": [
+      "media/audio-production",
+      "media/video"
+    ],
+    "lanes": [
+      "media/audio-production",
+      "media/video"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pierrecouprie/MotusLabTool",
+    "sha": "75ae3f984a7705ef702d27048be47af189f0ffa6",
+    "file_url": "https://cdn.jsdelivr.net/gh/pierrecouprie/MotusLabTool@75ae3f984a7705ef702d27048be47af189f0ffa6/{path}"
+  },
+  "facts": {
+    "lang": "Swift",
+    "license": "NOASSERTION",
+    "stars": 14,
+    "size_mb": 5,
+    "created_at": "2019-09-07T16:44:56Z",
+    "last_commit_at": "2025-11-09T16:42:45Z",
+    "releases": 20,
+    "tags": 20,
+    "archived": false,
+    "release": {
+      "tag": "2.6.4",
+      "at": "2025-11-09T17:21:04.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "75ae3f984a7705ef702d27048be47af189f0ffa6",
+    "v": 4
+  }
+}

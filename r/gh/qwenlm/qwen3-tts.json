@@ -1,0 +1,71 @@
+{
+  "id": "gh:qwenlm/qwen3-tts",
+  "kind": "repo",
+  "url": "https://github.com/QwenLM/Qwen3-TTS",
+  "title": "Qwen3-TTS",
+  "why": "Generates speech from text with a 3-second voice clone from a short reference clip, or a voice built from a text description.",
+  "keys": {
+    "races": [
+      "media/speech",
+      "ml/open-models"
+    ],
+    "lanes": [
+      "media/speech",
+      "ml/open-models"
+    ],
+    "capabilities": [
+      "media/speech/text-to-speech",
+      "media/speech/voice-cloning"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/QwenLM/Qwen3-TTS",
+    "sha": "022e286b98fbec7e1e916cb940cdf532cd9f488e",
+    "file_url": "https://cdn.jsdelivr.net/gh/QwenLM/Qwen3-TTS@022e286b98fbec7e1e916cb940cdf532cd9f488e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 14670,
+    "size_mb": 7,
+    "created_at": "2026-01-21T06:41:32Z",
+    "last_commit_at": "2026-03-17T06:38:41Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "022e286b98fbec7e1e916cb940cdf532cd9f488e",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2601.15621",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

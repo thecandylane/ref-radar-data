@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:cad6be0514c3248b9465e48f1cfd2f6a4c3dfb6f"
-  },
   "id": "gh:saezlab/progeny",
   "kind": "repo",
   "url": "https://github.com/saezlab/progeny",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/saezlab/progeny",
-    "sha": "cad6be0514c3248b9465e48f1cfd2f6a4c3dfb6f",
-    "file_url": "https://cdn.jsdelivr.net/gh/saezlab/progeny@cad6be0514c3248b9465e48f1cfd2f6a4c3dfb6f/{path}"
+    "sha": "9a19a3b641ef4c1c8dd9cb7959bd71d4dcf8c908",
+    "file_url": "https://cdn.jsdelivr.net/gh/saezlab/progeny@9a19a3b641ef4c1c8dd9cb7959bd71d4dcf8c908/{path}"
   },
   "facts": {
     "lang": "R",
@@ -34,14 +31,14 @@
     "stars": 132,
     "size_mb": 49,
     "created_at": "2016-09-08T14:29:06Z",
-    "last_commit_at": "2023-01-30T10:01:10Z",
+    "last_commit_at": "2026-11-26T14:04:04Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
     "release": null
   },
   "reuse": "copy",
-  "maturity": "quiet",
+  "maturity": "unreleased",
   "status": null,
   "stats": {
     "picks": {},
@@ -54,9 +51,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "cad6be0514c3248b9465e48f1cfd2f6a4c3dfb6f",
-    "v": 3
-  },
-  "pinned_at": "2023-01-30T10:01:10Z"
+  "pins_before": [
+    "cad6be0514c3248b9465e48f1cfd2f6a4c3dfb6f"
+  ],
+  "pinned_at": "2026-11-26T14:04:04Z"
 }

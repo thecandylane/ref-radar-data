@@ -1,0 +1,62 @@
+{
+  "id": "gh:joshuabarnes/zeno",
+  "kind": "repo",
+  "url": "https://github.com/joshuabarnes/zeno",
+  "title": "zeno",
+  "why": "Runs N-body and SPH simulations in C and analyses the output in the same environment, with the detailed docs kept on a wiki.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/joshuabarnes/zeno",
+    "sha": "e3f40434f4ba4bb4efd684892a5013b6ddd7fdc1",
+    "file_url": "https://cdn.jsdelivr.net/gh/joshuabarnes/zeno@e3f40434f4ba4bb4efd684892a5013b6ddd7fdc1/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-3.0",
+    "stars": 20,
+    "size_mb": 3,
+    "created_at": "2013-10-05T02:08:21Z",
+    "last_commit_at": "2017-10-01T23:44:31Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e3f40434f4ba4bb4efd684892a5013b6ddd7fdc1",
+    "v": 4
+  }
+}

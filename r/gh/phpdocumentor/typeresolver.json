@@ -1,0 +1,67 @@
+{
+  "id": "gh:phpdocumentor/typeresolver",
+  "kind": "repo",
+  "url": "https://github.com/phpDocumentor/TypeResolver",
+  "title": "TypeResolver",
+  "why": "Turns a PHP docblock type like string|integer or a partial class name into its fully qualified form, given the namespace context.",
+  "keys": {
+    "races": [
+      "languages/type-systems",
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "languages/type-systems",
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/phpDocumentor/TypeResolver",
+    "sha": "dbe2133bb23e2e33a6834f4ed417f24a1b167769",
+    "file_url": "https://cdn.jsdelivr.net/gh/phpDocumentor/TypeResolver@dbe2133bb23e2e33a6834f4ed417f24a1b167769/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 9150,
+    "size_mb": 1,
+    "created_at": "2015-06-10T19:05:30Z",
+    "last_commit_at": "2026-09-27T19:32:54Z",
+    "releases": 43,
+    "tags": 49,
+    "archived": false,
+    "release": {
+      "tag": "2.1.0",
+      "at": "2026-09-28T18:39:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "dbe2133bb23e2e33a6834f4ed417f24a1b167769",
+    "v": 4
+  }
+}

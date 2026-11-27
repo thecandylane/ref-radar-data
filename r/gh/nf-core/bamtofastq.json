@@ -1,0 +1,61 @@
+{
+  "id": "gh:nf-core/bamtofastq",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/bamtofastq",
+  "title": "bamtofastq",
+  "why": "Nextflow pipeline converting BAM or CRAM alignments into fq.gz reads, with FastQC and MultiQC reports before and after conversion.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/bamtofastq",
+    "sha": "aa0150e34a159fa9f3d0ff62128cafeaa2e5fe78",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/bamtofastq@aa0150e34a159fa9f3d0ff62128cafeaa2e5fe78/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 32,
+    "size_mb": 160,
+    "created_at": "2020-08-03T15:02:23Z",
+    "last_commit_at": "2026-10-08T08:27:30Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "2.2.1",
+      "at": "2026-05-13T11:16:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "aa0150e34a159fa9f3d0ff62128cafeaa2e5fe78",
+    "v": 4
+  }
+}

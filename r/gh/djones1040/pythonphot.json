@@ -1,0 +1,58 @@
+{
+  "id": "gh:djones1040/pythonphot",
+  "kind": "repo",
+  "url": "https://github.com/djones1040/PythonPhot",
+  "title": "PythonPhot",
+  "why": "Builds a PSF model from isolated stars, then fits flux at chosen coordinates, with forced photometry and noise image options.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/djones1040/PythonPhot",
+    "sha": "7992eb6ba98ee946a4b8d27eb55ce0028f76374e",
+    "file_url": "https://cdn.jsdelivr.net/gh/djones1040/PythonPhot@7992eb6ba98ee946a4b8d27eb55ce0028f76374e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 40,
+    "size_mb": 16,
+    "created_at": "2014-01-17T21:56:32Z",
+    "last_commit_at": "2023-07-05T14:57:45Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "7992eb6ba98ee946a4b8d27eb55ce0028f76374e",
+    "v": 4
+  }
+}

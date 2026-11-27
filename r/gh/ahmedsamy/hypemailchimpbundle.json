@@ -1,0 +1,63 @@
+{
+  "id": "gh:ahmedsamy/hypemailchimpbundle",
+  "kind": "repo",
+  "url": "https://github.com/AhmedSamy/HypeMailchimpBundle",
+  "title": "HypeMailchimpBundle",
+  "why": "Symfony2 bundle wrapping Mailchimp API V2 campaign and list calls in method chaining, for object oriented PHP projects.",
+  "keys": {
+    "races": [
+      "marketing/email",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "marketing/email",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AhmedSamy/HypeMailchimpBundle",
+    "sha": "f76c2008d0611604d67f1823ea1c414982406488",
+    "file_url": "https://cdn.jsdelivr.net/gh/AhmedSamy/HypeMailchimpBundle@f76c2008d0611604d67f1823ea1c414982406488/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 53,
+    "size_mb": 0,
+    "created_at": "2013-08-28T20:08:39Z",
+    "last_commit_at": "2018-12-09T16:28:38Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": true,
+    "release": {
+      "tag": "v2.0",
+      "at": "2018-12-09T16:29:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f76c2008d0611604d67f1823ea1c414982406488",
+    "v": 4
+  }
+}

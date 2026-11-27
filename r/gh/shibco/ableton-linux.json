@@ -1,0 +1,63 @@
+{
+  "id": "gh:shibco/ableton-linux",
+  "kind": "repo",
+  "url": "https://github.com/shibco/ableton-linux",
+  "title": "ableton-linux",
+  "why": "Installs Ableton Live on Linux with rollback, preflight checks and a launcher that tunes audio threads and scale.",
+  "keys": {
+    "races": [
+      "media/audio-production",
+      "desktop/packaging"
+    ],
+    "lanes": [
+      "media/audio-production",
+      "desktop/packaging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/shibco/ableton-linux",
+    "sha": "1b1f596d17bb86675117f2ec315acd21b143e88c",
+    "file_url": "https://cdn.jsdelivr.net/gh/shibco/ableton-linux@1b1f596d17bb86675117f2ec315acd21b143e88c/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "LGPL-2.1",
+    "stars": 948,
+    "size_mb": 227,
+    "created_at": "2026-07-14T11:40:27Z",
+    "last_commit_at": "2026-10-25T09:52:02Z",
+    "releases": 20,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v2026.08.30.1",
+      "at": "2026-08-30T01:00:02.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "1b1f596d17bb86675117f2ec315acd21b143e88c",
+    "v": 4
+  }
+}

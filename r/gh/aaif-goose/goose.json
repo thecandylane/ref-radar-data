@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:e1967811310595f1998c962cfe3a0d4a62fa3443"
-  },
   "id": "gh:aaif-goose/goose",
   "kind": "repo",
   "url": "https://github.com/aaif-goose/goose",
@@ -34,16 +31,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/aaif-goose/goose",
-    "sha": "e1967811310595f1998c962cfe3a0d4a62fa3443",
-    "file_url": "https://raw.githubusercontent.com/aaif-goose/goose/e1967811310595f1998c962cfe3a0d4a62fa3443/{path}"
+    "sha": "c546eaa1cd02696e4cd628e203df51429e158175",
+    "file_url": "https://raw.githubusercontent.com/aaif-goose/goose/c546eaa1cd02696e4cd628e203df51429e158175/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 57019,
+    "stars": 57055,
     "size_mb": 980,
     "created_at": "2024-08-23T19:03:36Z",
-    "last_commit_at": "2026-11-26T06:38:39Z",
+    "last_commit_at": "2026-11-26T23:01:24Z",
     "releases": 168,
     "tags": 258,
     "archived": false,
@@ -60,19 +57,19 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 211,
+    "star_delta_7d": 247,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "e1967811310595f1998c962cfe3a0d4a62fa3443",
+    "sha": "c546eaa1cd02696e4cd628e203df51429e158175",
     "v": 4
   },
   "pins_before": [
+    "e1967811310595f1998c962cfe3a0d4a62fa3443",
     "3b71db042663adad5e8b33c1074acec3412540e3"
   ],
-  "pinned_at": "2026-11-19T05:06:15Z",
-  "hot": true
+  "pinned_at": "2026-11-26T23:01:24Z"
 }

@@ -1,0 +1,65 @@
+{
+  "id": "gh:openclimatedata/pyhector",
+  "kind": "repo",
+  "url": "https://github.com/openclimatedata/pyhector",
+  "title": "pyhector",
+  "why": "Runs the Hector carbon-cycle climate model from Python via pybind11, and returns temperature series for scenarios like ssp126.",
+  "keys": {
+    "races": [
+      "environment/earth-data"
+    ],
+    "lanes": [
+      "environment/earth-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openclimatedata/pyhector",
+    "sha": "5e44ce0b8e6d1cdc11a7ac1183d832b02d8c4a48",
+    "file_url": "https://cdn.jsdelivr.net/gh/openclimatedata/pyhector@5e44ce0b8e6d1cdc11a7ac1183d832b02d8c4a48/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 45,
+    "size_mb": 17,
+    "created_at": "2017-01-24T17:14:54Z",
+    "last_commit_at": "2024-03-06T14:34:16Z",
+    "releases": 15,
+    "tags": 22,
+    "archived": false,
+    "release": {
+      "tag": "v3.2.0.0",
+      "at": "2024-03-08T11:47:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "5e44ce0b8e6d1cdc11a7ac1183d832b02d8c4a48",
+    "v": 4
+  }
+}

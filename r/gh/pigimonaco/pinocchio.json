@@ -1,0 +1,85 @@
+{
+  "id": "gh:pigimonaco/pinocchio",
+  "kind": "repo",
+  "url": "https://github.com/pigimonaco/Pinocchio",
+  "title": "Pinocchio",
+  "why": "Generates dark matter halo catalogues with mass, position, velocity and merger history from a linear density field, without a full N-body run.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pigimonaco/Pinocchio",
+    "sha": "ad5449644a2cf12631e9c89f2ec157353b871602",
+    "file_url": "https://raw.githubusercontent.com/pigimonaco/Pinocchio/ad5449644a2cf12631e9c89f2ec157353b871602/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-2.0",
+    "stars": 24,
+    "size_mb": 143,
+    "created_at": "2016-12-13T15:29:09Z",
+    "last_commit_at": "2025-08-21T08:40:56Z",
+    "releases": 3,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v5.1",
+      "at": "2025-03-12T14:32:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ad5449644a2cf12631e9c89f2ec157353b871602",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2507.12116",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1610.07624",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1605.04788",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

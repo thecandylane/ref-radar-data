@@ -32,13 +32,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/kubernetes-sigs/kind",
-    "sha": "3bf373491ba085b2fa266ae987349d6faad1df8a",
-    "file_url": "https://cdn.jsdelivr.net/gh/kubernetes-sigs/kind@3bf373491ba085b2fa266ae987349d6faad1df8a/{path}"
+    "sha": "688af97dff2a4d048973cabc737fba4592d6ccf5",
+    "file_url": "https://cdn.jsdelivr.net/gh/kubernetes-sigs/kind@688af97dff2a4d048973cabc737fba4592d6ccf5/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 15650,
+    "stars": 15652,
     "size_mb": 14,
     "created_at": "2018-09-12T21:45:05Z",
     "last_commit_at": "2026-11-25T18:41:01Z",
@@ -58,18 +58,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 20,
+    "star_delta_7d": 22,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "3bf373491ba085b2fa266ae987349d6faad1df8a",
-    "v": 4
-  },
   "pins_before": [
+    "3bf373491ba085b2fa266ae987349d6faad1df8a",
     "46b5d280a425a0e50511712d84b31a0a36a7191f"
   ],
-  "pinned_at": "2026-11-19T08:22:13Z"
+  "pinned_at": "2026-11-25T18:41:01Z"
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:88f6cddc4a6ab7998d9664f692fced0290d18f53"
+  },
   "id": "gh:spiffe/spiffe",
   "kind": "repo",
   "url": "https://github.com/spiffe/spiffe",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": "Shell",
     "license": "Apache-2.0",
-    "stars": 1907,
+    "stars": 1914,
     "size_mb": 1,
     "created_at": "2017-08-07T20:45:21Z",
     "last_commit_at": "2026-11-17T06:41:01Z",
@@ -50,5 +53,10 @@
     "ranks": {}
   },
   "tier": "discovered",
-  "drafted": true
+  "drafted": true,
+  "pack": {
+    "sha": "88f6cddc4a6ab7998d9664f692fced0290d18f53",
+    "v": 4
+  },
+  "pinned_at": "2026-11-17T06:41:01Z"
 }

@@ -1,0 +1,61 @@
+{
+  "id": "gh:jupyter/terminado",
+  "kind": "repo",
+  "url": "https://github.com/jupyter/terminado",
+  "title": "terminado",
+  "why": "Pipes pseudo-terminal sessions to browser clients over websockets, with demos for named and unique terminals per page.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jupyter/terminado",
+    "sha": "27c4c65529ac3ebb10597b77907be9868af4455e",
+    "file_url": "https://cdn.jsdelivr.net/gh/jupyter/terminado@27c4c65529ac3ebb10597b77907be9868af4455e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-2-Clause",
+    "stars": 372,
+    "size_mb": 1,
+    "created_at": "2014-09-29T23:44:25Z",
+    "last_commit_at": "2026-11-16T14:32:21Z",
+    "releases": 20,
+    "tags": 43,
+    "archived": false,
+    "release": {
+      "tag": "v0.18.1",
+      "at": "2024-03-12T14:34:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "27c4c65529ac3ebb10597b77907be9868af4455e",
+    "v": 4
+  }
+}

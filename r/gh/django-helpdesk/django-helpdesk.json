@@ -1,0 +1,65 @@
+{
+  "id": "gh:django-helpdesk/django-helpdesk",
+  "kind": "repo",
+  "url": "https://github.com/django-helpdesk/django-helpdesk",
+  "title": "django-helpdesk",
+  "why": "Pulls mail over IMAP, POP3 or OAuth into queued tickets, with per-queue staff access and webhooks for new tickets and follow-ups.",
+  "keys": {
+    "races": [
+      "support/helpdesk"
+    ],
+    "lanes": [
+      "support/helpdesk"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/django-helpdesk/django-helpdesk",
+    "sha": "7154322c3b28e56afb1fd89c0354ddb85bef6981",
+    "file_url": "https://cdn.jsdelivr.net/gh/django-helpdesk/django-helpdesk@7154322c3b28e56afb1fd89c0354ddb85bef6981/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 1695,
+    "size_mb": 26,
+    "created_at": "2010-10-14T00:59:09Z",
+    "last_commit_at": "2026-11-24T16:14:18Z",
+    "releases": 65,
+    "tags": 69,
+    "archived": false,
+    "release": {
+      "tag": "v2.6.2",
+      "at": "2026-11-23T09:58:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "7154322c3b28e56afb1fd89c0354ddb85bef6981",
+    "v": 4
+  }
+}

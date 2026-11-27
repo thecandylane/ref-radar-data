@@ -1,0 +1,61 @@
+{
+  "id": "gh:hamcrest/javahamcrest",
+  "kind": "repo",
+  "url": "https://github.com/hamcrest/JavaHamcrest",
+  "title": "JavaHamcrest",
+  "why": "Combinable matchers for Java tests that turn assertions into readable statements of intent, distributed through Maven Central.",
+  "keys": {
+    "races": [
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hamcrest/JavaHamcrest",
+    "sha": "3d58e993a5d12e65ec1309497cf8fab4bf5f3645",
+    "file_url": "https://cdn.jsdelivr.net/gh/hamcrest/JavaHamcrest@3d58e993a5d12e65ec1309497cf8fab4bf5f3645/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "BSD-3-Clause",
+    "stars": 2188,
+    "size_mb": 20,
+    "created_at": "2012-04-01T19:38:04Z",
+    "last_commit_at": "2024-11-30T00:56:31Z",
+    "releases": 9,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "v3.0",
+      "at": "2024-08-01T09:23:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "3d58e993a5d12e65ec1309497cf8fab4bf5f3645",
+    "v": 4
+  }
+}

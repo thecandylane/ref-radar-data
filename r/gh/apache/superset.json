@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1baa8ab28ef00e2074bb1956b74c15ab8bdfd030"
-  },
   "id": "gh:apache/superset",
   "kind": "repo",
   "url": "https://github.com/apache/superset",
@@ -25,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/superset",
-    "sha": "1baa8ab28ef00e2074bb1956b74c15ab8bdfd030",
-    "file_url": "https://raw.githubusercontent.com/apache/superset/1baa8ab28ef00e2074bb1956b74c15ab8bdfd030/{path}"
+    "sha": "ad1abef52ee4ab6812570d2db20103ac28aae730",
+    "file_url": "https://raw.githubusercontent.com/apache/superset/ad1abef52ee4ab6812570d2db20103ac28aae730/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 75692,
-    "size_mb": 1545,
+    "stars": 75705,
+    "size_mb": 1549,
     "created_at": "2015-07-21T18:55:34Z",
-    "last_commit_at": "2026-11-26T07:58:32Z",
+    "last_commit_at": "2026-11-27T00:18:11Z",
     "releases": 272,
     "tags": 569,
     "archived": false,
@@ -51,19 +48,20 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 105,
+    "star_delta_7d": 118,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "1baa8ab28ef00e2074bb1956b74c15ab8bdfd030",
+    "sha": "ad1abef52ee4ab6812570d2db20103ac28aae730",
     "v": 4
   },
   "pins_before": [
+    "1baa8ab28ef00e2074bb1956b74c15ab8bdfd030",
     "deee513dab356e05104a3e5d4e6bace8be2681ca"
   ],
-  "pinned_at": "2026-11-19T07:03:05Z",
+  "pinned_at": "2026-11-27T00:18:11Z",
   "hot": true
 }

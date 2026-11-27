@@ -1,0 +1,69 @@
+{
+  "id": "gh:activepieces/activepieces",
+  "kind": "repo",
+  "url": "https://github.com/activepieces/activepieces",
+  "title": "activepieces",
+  "why": "Exposes each integration piece as an MCP server for LLM clients, and the same pieces run in a no-code flow builder.",
+  "keys": {
+    "races": [
+      "business-apps/low-code",
+      "agents/tools"
+    ],
+    "lanes": [
+      "business-apps/low-code",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/activepieces/activepieces",
+    "sha": "14c4f45aa54b4a63054e07be24a348f203f2b33e",
+    "file_url": "https://raw.githubusercontent.com/activepieces/activepieces/14c4f45aa54b4a63054e07be24a348f203f2b33e/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 25741,
+    "size_mb": 1064,
+    "created_at": "2022-12-03T02:52:46Z",
+    "last_commit_at": "2026-11-26T10:40:34Z",
+    "releases": 381,
+    "tags": 415,
+    "archived": false,
+    "release": {
+      "tag": "0.94.0",
+      "at": "2026-11-25T11:49:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "14c4f45aa54b4a63054e07be24a348f203f2b33e",
+    "v": 4
+  }
+}

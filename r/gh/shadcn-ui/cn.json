@@ -1,0 +1,65 @@
+{
+  "id": "gh:shadcn-ui/cn",
+  "kind": "repo",
+  "url": "https://github.com/shadcn-ui/cn",
+  "title": "cn",
+  "why": "Merges Tailwind class strings, compiling a config from the theme CSS, with a lite build and a vite plugin.",
+  "keys": {
+    "races": [
+      "web/css"
+    ],
+    "lanes": [
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/shadcn-ui/cn",
+    "sha": "b6a8dbe5ef67bbcafe70bf8548e640ab34a38206",
+    "file_url": "https://cdn.jsdelivr.net/gh/shadcn-ui/cn@b6a8dbe5ef67bbcafe70bf8548e640ab34a38206/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1798,
+    "size_mb": 2,
+    "created_at": "2026-08-31T07:04:03Z",
+    "last_commit_at": "2026-11-02T08:00:29Z",
+    "releases": 15,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "cn@0.5.2",
+      "at": "2026-11-02T08:01:15.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b6a8dbe5ef67bbcafe70bf8548e640ab34a38206",
+    "v": 4
+  }
+}

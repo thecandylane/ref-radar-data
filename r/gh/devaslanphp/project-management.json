@@ -1,0 +1,67 @@
+{
+  "id": "gh:devaslanphp/project-management",
+  "kind": "repo",
+  "url": "https://github.com/devaslanphp/project-management",
+  "title": "project-management",
+  "why": "Tracks projects, tickets and kanban boards for a team in one Laravel app, with hours logging, Jira import and a built-in helpdesk.",
+  "keys": {
+    "races": [
+      "practice/process",
+      "support/helpdesk"
+    ],
+    "lanes": [
+      "practice/process",
+      "support/helpdesk"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/devaslanphp/project-management",
+    "sha": "54982160896d8371ba79c8dc20ed65936878d91b",
+    "file_url": "https://cdn.jsdelivr.net/gh/devaslanphp/project-management@54982160896d8371ba79c8dc20ed65936878d91b/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 1096,
+    "size_mb": 18,
+    "created_at": "2022-11-02T11:03:27Z",
+    "last_commit_at": "2024-03-18T10:18:19Z",
+    "releases": 17,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.0-beta1",
+      "at": "2026-03-29T18:40:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "54982160896d8371ba79c8dc20ed65936878d91b",
+    "v": 4
+  }
+}

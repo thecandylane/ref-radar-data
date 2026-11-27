@@ -1,0 +1,64 @@
+{
+  "id": "gh:google/gonids",
+  "kind": "repo",
+  "url": "https://github.com/google/gonids",
+  "title": "gonids",
+  "why": "Parses and lints Snort rules and rewrites them with optimize passes, so a rule set is checked before a sensor loads it.",
+  "keys": {
+    "races": [
+      "cyber/detection",
+      "netsec/ids"
+    ],
+    "lanes": [
+      "cyber/detection",
+      "netsec/ids"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google/gonids",
+    "sha": "072b69357c2ac0138217b1d4435364750968589e",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/gonids@072b69357c2ac0138217b1d4435364750968589e/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 199,
+    "size_mb": 1,
+    "created_at": "2016-11-17T19:50:26Z",
+    "last_commit_at": "2026-11-21T18:05:53Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "072b69357c2ac0138217b1d4435364750968589e",
+    "v": 4
+  }
+}

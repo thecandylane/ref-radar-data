@@ -1,0 +1,65 @@
+{
+  "id": "gh:eminence/terminal-size",
+  "kind": "repo",
+  "url": "https://github.com/eminence/terminal-size",
+  "title": "terminal-size",
+  "why": "Reads the terminal width and height on Unix and Windows, cross-checking Unix results against stty.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/eminence/terminal-size",
+    "sha": "0a699e9d8c36d64df1b7d4a9975d1df254efcb6c",
+    "file_url": "https://cdn.jsdelivr.net/gh/eminence/terminal-size@0a699e9d8c36d64df1b7d4a9975d1df254efcb6c/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 119,
+    "size_mb": 1,
+    "created_at": "2015-08-26T03:11:24Z",
+    "last_commit_at": "2026-09-18T03:21:20Z",
+    "releases": 11,
+    "tags": 25,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.4",
+      "at": "2026-03-23T16:39:48.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "0a699e9d8c36d64df1b7d4a9975d1df254efcb6c",
+    "v": 4
+  }
+}

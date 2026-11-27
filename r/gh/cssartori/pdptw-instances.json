@@ -1,0 +1,60 @@
+{
+  "id": "gh:cssartori/pdptw-instances",
+  "kind": "repo",
+  "url": "https://github.com/cssartori/pdptw-instances",
+  "title": "pdptw-instances",
+  "why": "Holds benchmark instances plus a checker that validates solution files, and a map viewer to inspect the routes.",
+  "keys": {
+    "races": [
+      "logistics/route-optimization",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "logistics/route-optimization",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cssartori/pdptw-instances",
+    "sha": "b2f056954cf7408f32fe64ff321808640d9c9176",
+    "file_url": "https://cdn.jsdelivr.net/gh/cssartori/pdptw-instances@b2f056954cf7408f32fe64ff321808640d9c9176/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "none",
+    "stars": 63,
+    "size_mb": 12,
+    "created_at": "2019-01-30T00:28:16Z",
+    "last_commit_at": "2026-10-09T12:24:48Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "b2f056954cf7408f32fe64ff321808640d9c9176",
+    "v": 4
+  }
+}

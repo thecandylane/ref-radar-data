@@ -1,0 +1,65 @@
+{
+  "id": "gh:martinsos/edlib",
+  "kind": "repo",
+  "url": "https://github.com/Martinsos/edlib",
+  "title": "edlib",
+  "why": "Computes edit distance and alignment paths between sequences in C/C++, using very little memory even on very large sequences.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Martinsos/edlib",
+    "sha": "0ddc23ea06abd95ab6227442acb4c27bd7607b68",
+    "file_url": "https://cdn.jsdelivr.net/gh/Martinsos/edlib@0ddc23ea06abd95ab6227442acb4c27bd7607b68/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 612,
+    "size_mb": 5,
+    "created_at": "2014-01-19T23:05:09Z",
+    "last_commit_at": "2025-05-13T08:31:15Z",
+    "releases": 11,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.7",
+      "at": "2021-08-20T22:56:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "0ddc23ea06abd95ab6227442acb4c27bd7607b68",
+    "v": 4
+  }
+}

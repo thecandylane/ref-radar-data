@@ -1,0 +1,63 @@
+{
+  "id": "gh:cloudevents/spec",
+  "kind": "repo",
+  "url": "https://github.com/cloudevents/spec",
+  "title": "spec",
+  "why": "Spec defining event payloads in JSON, Protobuf and Avro, so SDKs and brokers like Kafka, MQTT and NATS can route them.",
+  "keys": {
+    "races": [
+      "data/serialization",
+      "data/queues"
+    ],
+    "lanes": [
+      "data/serialization",
+      "data/queues"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cloudevents/spec",
+    "sha": "5391e18c64aafafddcf7ba078e40e07d48352fb1",
+    "file_url": "https://cdn.jsdelivr.net/gh/cloudevents/spec@5391e18c64aafafddcf7ba078e40e07d48352fb1/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 5967,
+    "size_mb": 33,
+    "created_at": "2017-12-09T21:18:13Z",
+    "last_commit_at": "2026-11-20T03:57:40Z",
+    "releases": 8,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "ce@v1.0.2",
+      "at": "2022-02-06T00:48:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "5391e18c64aafafddcf7ba078e40e07d48352fb1",
+    "v": 4
+  }
+}

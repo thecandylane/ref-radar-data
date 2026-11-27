@@ -1,0 +1,70 @@
+{
+  "id": "gh:opencom-org/opencom",
+  "kind": "repo",
+  "url": "https://github.com/opencom-org/opencom",
+  "title": "opencom",
+  "why": "Pairs an embeddable chat widget and ticket queue on Convex with React Native and native SDKs, so mobile apps get the same chat.",
+  "keys": {
+    "races": [
+      "support/helpdesk",
+      "support/feedback",
+      "mobile/cross-platform"
+    ],
+    "lanes": [
+      "support/helpdesk",
+      "support/feedback",
+      "mobile/cross-platform"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/opencom-org/opencom",
+    "sha": "bf928a43bf75baee793886efe9cfa68d4f39b659",
+    "file_url": "https://cdn.jsdelivr.net/gh/opencom-org/opencom@bf928a43bf75baee793886efe9cfa68d4f39b659/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "AGPL-3.0",
+    "stars": 68,
+    "size_mb": 9,
+    "created_at": "2026-01-26T14:19:47Z",
+    "last_commit_at": "2026-06-11T09:45:04Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "bf928a43bf75baee793886efe9cfa68d4f39b659",
+    "v": 4
+  }
+}

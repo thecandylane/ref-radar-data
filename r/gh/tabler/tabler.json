@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:564724b933e863816b3994f91755eacd417f9b06"
+  },
   "id": "gh:tabler/tabler",
   "kind": "repo",
   "url": "https://github.com/tabler/tabler",
@@ -30,10 +33,10 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 42140,
-    "size_mb": 386,
+    "stars": 42143,
+    "size_mb": 387,
     "created_at": "2018-02-01T09:08:59Z",
-    "last_commit_at": "2026-11-25T11:33:51Z",
+    "last_commit_at": "2026-11-26T11:29:27Z",
     "releases": 61,
     "tags": 83,
     "archived": false,
@@ -56,5 +59,9 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "564724b933e863816b3994f91755eacd417f9b06",
+    "v": 4
+  },
   "pinned_at": "2026-11-25T11:33:51Z"
 }

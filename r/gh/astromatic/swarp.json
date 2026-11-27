@@ -1,0 +1,65 @@
+{
+  "id": "gh:astromatic/swarp",
+  "kind": "repo",
+  "url": "https://github.com/astromatic/swarp",
+  "title": "swarp",
+  "why": "Resamples and co-adds FITS images onto a common WCS grid, with weight maps that set each pixel's variance.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/astromatic/swarp",
+    "sha": "2f7e8b62a2ff78fa1dbd5d964cca7467f6e1966e",
+    "file_url": "https://cdn.jsdelivr.net/gh/astromatic/swarp@2f7e8b62a2ff78fa1dbd5d964cca7467f6e1966e/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-3.0",
+    "stars": 41,
+    "size_mb": 7,
+    "created_at": "2017-09-14T11:51:11Z",
+    "last_commit_at": "2026-09-02T09:47:21Z",
+    "releases": 3,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "2.41.5",
+      "at": "2021-02-13T22:30:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "2f7e8b62a2ff78fa1dbd5d964cca7467f6e1966e",
+    "v": 4
+  }
+}

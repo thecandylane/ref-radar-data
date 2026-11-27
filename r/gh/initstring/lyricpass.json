@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:fd31d07b33abe78baada945e308823d98063cf61"
+  },
   "id": "gh:initstring/lyricpass",
   "kind": "repo",
   "url": "https://github.com/initstring/lyricpass",
@@ -50,5 +53,10 @@
     "ranks": {}
   },
   "tier": "discovered",
-  "drafted": true
+  "drafted": true,
+  "pack": {
+    "sha": "fd31d07b33abe78baada945e308823d98063cf61",
+    "v": 4
+  },
+  "pinned_at": "2024-02-24T11:38:39Z"
 }

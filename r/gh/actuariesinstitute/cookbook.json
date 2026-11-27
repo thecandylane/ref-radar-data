@@ -1,0 +1,60 @@
+{
+  "id": "gh:actuariesinstitute/cookbook",
+  "kind": "repo",
+  "url": "https://github.com/ActuariesInstitute/cookbook",
+  "title": "ActuariesInstitute/cookbook",
+  "why": "Collects executed Jupyter notebooks that show actuaries how to start data and analytics projects, built into a site with Jupyter Book.",
+  "keys": {
+    "races": [
+      "insurance/actuarial",
+      "learning/courses"
+    ],
+    "lanes": [
+      "insurance/actuarial",
+      "learning/courses"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ActuariesInstitute/cookbook",
+    "sha": "68b45f199822fab064898040a13398a6c4e30c9b",
+    "file_url": "https://raw.githubusercontent.com/ActuariesInstitute/cookbook/68b45f199822fab064898040a13398a6c4e30c9b/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "none",
+    "stars": 71,
+    "size_mb": 789,
+    "created_at": "2021-09-25T01:49:46Z",
+    "last_commit_at": "2025-07-08T12:50:48Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "68b45f199822fab064898040a13398a6c4e30c9b",
+    "v": 4
+  }
+}

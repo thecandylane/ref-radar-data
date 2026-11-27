@@ -1,0 +1,65 @@
+{
+  "id": "gh:tree-sitter/py-tree-sitter",
+  "kind": "repo",
+  "url": "https://github.com/tree-sitter/py-tree-sitter",
+  "title": "py-tree-sitter",
+  "why": "Python bindings that parse source into syntax trees, with queries and cursors for walking nodes in code.",
+  "keys": {
+    "races": [
+      "agents/code-intel",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "agents/code-intel",
+      "languages/compilers"
+    ],
+    "capabilities": [
+      "agents/code-intel/code-graphs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tree-sitter/py-tree-sitter",
+    "sha": "fdadb17c19171753045e568d5674771c4c178565",
+    "file_url": "https://cdn.jsdelivr.net/gh/tree-sitter/py-tree-sitter@fdadb17c19171753045e568d5674771c4c178565/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 1526,
+    "size_mb": 1,
+    "created_at": "2019-03-20T06:00:07Z",
+    "last_commit_at": "2026-11-23T09:45:57Z",
+    "releases": 19,
+    "tags": 32,
+    "archived": false,
+    "release": {
+      "tag": "v0.27.0",
+      "at": "2026-11-23T09:41:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "fdadb17c19171753045e568d5674771c4c178565",
+    "v": 4
+  }
+}

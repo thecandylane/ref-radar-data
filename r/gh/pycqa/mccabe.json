@@ -1,0 +1,54 @@
+{
+  "id": "gh:pycqa/mccabe",
+  "kind": "repo",
+  "url": "https://github.com/PyCQA/mccabe",
+  "title": "mccabe",
+  "why": "Scores Python code complexity by visiting if, loop and try branches in each function, so you can flag tangled functions early.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/PyCQA/mccabe",
+    "sha": "7f9921b7c4eef88d3926b94d8b52f732255833db",
+    "file_url": "https://cdn.jsdelivr.net/gh/PyCQA/mccabe@7f9921b7c4eef88d3926b94d8b52f732255833db/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 685,
+    "size_mb": 0,
+    "created_at": "2013-02-20T22:19:04Z",
+    "last_commit_at": "2026-10-12T21:59:34Z",
+    "releases": 0,
+    "tags": 13,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "7f9921b7c4eef88d3926b94d8b52f732255833db",
+    "v": 4
+  }
+}

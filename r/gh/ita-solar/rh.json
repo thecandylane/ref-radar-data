@@ -1,0 +1,69 @@
+{
+  "id": "gh:ita-solar/rh",
+  "kind": "repo",
+  "url": "https://github.com/ITA-Solar/rh",
+  "title": "rh",
+  "why": "Solves radiative transfer through a model atmosphere for atomic and molecular lines, including polarized Stokes spectra.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ITA-Solar/rh",
+    "sha": "2f0f5eaf48d67fbe1f05f54de45ac65270b8e9cb",
+    "file_url": "https://cdn.jsdelivr.net/gh/ITA-Solar/rh@2f0f5eaf48d67fbe1f05f54de45ac65270b8e9cb/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "none",
+    "stars": 24,
+    "size_mb": 16,
+    "created_at": "2014-02-17T17:39:50Z",
+    "last_commit_at": "2026-11-17T16:08:36Z",
+    "releases": 4,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v1.5",
+      "at": "2018-05-28T14:53:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "2f0f5eaf48d67fbe1f05f54de45ac65270b8e9cb",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2108.02153",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

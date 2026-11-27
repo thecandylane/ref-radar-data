@@ -1,0 +1,61 @@
+{
+  "id": "gh:dmnd/dedent",
+  "kind": "repo",
+  "url": "https://github.com/dmnd/dedent",
+  "title": "dedent",
+  "why": "Tag for JavaScript template strings that strips shared indentation from multi-line text, with alignValues and trimWhitespace options.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dmnd/dedent",
+    "sha": "bbce4c414fa2cf42503a953732852559cb47c8f2",
+    "file_url": "https://cdn.jsdelivr.net/gh/dmnd/dedent@bbce4c414fa2cf42503a953732852559cb47c8f2/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1192,
+    "size_mb": 1,
+    "created_at": "2015-01-13T10:00:21Z",
+    "last_commit_at": "2026-03-01T16:05:05Z",
+    "releases": 14,
+    "tags": 19,
+    "archived": false,
+    "release": {
+      "tag": "v1.7.2",
+      "at": "2026-03-01T16:05:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "bbce4c414fa2cf42503a953732852559cb47c8f2",
+    "v": 4
+  }
+}

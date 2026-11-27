@@ -1,0 +1,65 @@
+{
+  "id": "gh:truemail-rb/truemail",
+  "kind": "repo",
+  "url": "https://github.com/truemail-rb/truemail",
+  "title": "truemail",
+  "why": "Shell scripts that lint the changelog, spellcheck commit messages and publish a new release to RubyGems and GitHub.",
+  "keys": {
+    "races": [
+      "infra/ci-cd"
+    ],
+    "lanes": [
+      "infra/ci-cd"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/truemail-rb/truemail",
+    "sha": "81974897b39c284707472c1f1a3a3c50f2bca47a",
+    "file_url": "https://cdn.jsdelivr.net/gh/truemail-rb/truemail@81974897b39c284707472c1f1a3a3c50f2bca47a/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "MIT",
+    "stars": 1294,
+    "size_mb": 1,
+    "created_at": "2019-03-04T10:29:42Z",
+    "last_commit_at": "2026-10-16T08:03:28Z",
+    "releases": 87,
+    "tags": 91,
+    "archived": false,
+    "release": {
+      "tag": "v4.0.0",
+      "at": "2026-10-16T08:05:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "81974897b39c284707472c1f1a3a3c50f2bca47a",
+    "v": 4
+  }
+}

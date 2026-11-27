@@ -1,0 +1,58 @@
+{
+  "id": "gh:tartley/colorama",
+  "kind": "repo",
+  "url": "https://github.com/tartley/colorama",
+  "title": "colorama",
+  "why": "Converts ANSI color escapes into Win32 console calls, so Python colored terminal text also works on Windows without extra setup.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tartley/colorama",
+    "sha": "841634ed2a0da5d5ac2d867db533da8131266cb2",
+    "file_url": "https://cdn.jsdelivr.net/gh/tartley/colorama@841634ed2a0da5d5ac2d867db533da8131266cb2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 3801,
+    "size_mb": 0,
+    "created_at": "2014-04-17T20:18:25Z",
+    "last_commit_at": "2026-05-13T18:21:46Z",
+    "releases": 0,
+    "tags": 15,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "841634ed2a0da5d5ac2d867db533da8131266cb2",
+    "v": 4
+  }
+}

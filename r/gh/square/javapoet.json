@@ -1,0 +1,62 @@
+{
+  "id": "gh:square/javapoet",
+  "kind": "repo",
+  "url": "https://github.com/square/javapoet",
+  "title": "javapoet",
+  "why": "Generates Java source files in code, handling imports for you, but the archived project was deprecated in 2020.",
+  "keys": {
+    "races": [
+      "languages/compilers"
+    ],
+    "lanes": [
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/square/javapoet",
+    "sha": "b9017a9503b76e11b4ad4c1a9f050e2d29112cb0",
+    "file_url": "https://cdn.jsdelivr.net/gh/square/javapoet@b9017a9503b76e11b4ad4c1a9f050e2d29112cb0/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 10822,
+    "size_mb": 2,
+    "created_at": "2013-02-01T16:56:30Z",
+    "last_commit_at": "2024-10-10T21:04:58Z",
+    "releases": 0,
+    "tags": 38,
+    "archived": true,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b9017a9503b76e11b4ad4c1a9f050e2d29112cb0",
+    "v": 4
+  }
+}

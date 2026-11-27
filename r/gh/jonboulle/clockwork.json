@@ -1,0 +1,61 @@
+{
+  "id": "gh:jonboulle/clockwork",
+  "kind": "repo",
+  "url": "https://github.com/jonboulle/clockwork",
+  "title": "clockwork",
+  "why": "Go clock interface with a fake clock, so tests can move Sleep, Ticker and Timer forward without waiting.",
+  "keys": {
+    "races": [
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jonboulle/clockwork",
+    "sha": "d0bc1c40f99c15bcdabff694afe6925bf76d6b7d",
+    "file_url": "https://cdn.jsdelivr.net/gh/jonboulle/clockwork@d0bc1c40f99c15bcdabff694afe6925bf76d6b7d/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 729,
+    "size_mb": 0,
+    "created_at": "2014-09-09T18:24:00Z",
+    "last_commit_at": "2026-11-13T10:36:14Z",
+    "releases": 7,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.0",
+      "at": "2025-01-02T13:07:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "d0bc1c40f99c15bcdabff694afe6925bf76d6b7d",
+    "v": 4
+  }
+}

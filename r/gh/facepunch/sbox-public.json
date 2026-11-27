@@ -1,0 +1,58 @@
+{
+  "id": "gh:facepunch/sbox-public",
+  "kind": "repo",
+  "url": "https://github.com/Facepunch/sbox-public",
+  "title": "sbox-public",
+  "why": "Compiling from source gives the s&box engine, editor and tooling on Windows, Linux and Apple Silicon Macs.",
+  "keys": {
+    "races": [
+      "games/engines"
+    ],
+    "lanes": [
+      "games/engines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Facepunch/sbox-public",
+    "sha": "1e551e0dcbdc7d120e620d943adba71af037138e",
+    "file_url": "https://cdn.jsdelivr.net/gh/Facepunch/sbox-public@1e551e0dcbdc7d120e620d943adba71af037138e/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "NOASSERTION",
+    "stars": 6551,
+    "size_mb": 40,
+    "created_at": "2025-11-24T08:18:33Z",
+    "last_commit_at": "2026-11-25T21:50:49Z",
+    "releases": 0,
+    "tags": 48,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "1e551e0dcbdc7d120e620d943adba71af037138e",
+    "v": 4
+  }
+}

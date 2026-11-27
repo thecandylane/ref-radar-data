@@ -1,0 +1,63 @@
+{
+  "id": "gh:jenfb/bkmr",
+  "kind": "repo",
+  "url": "https://github.com/jenfb/bkmr",
+  "title": "bkmr",
+  "why": "Fits Bayesian kernel machine regression in R to estimate the joint health effects of several concurrent exposures.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "medicine/health-data"
+    ],
+    "lanes": [
+      "data/statistics",
+      "medicine/health-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jenfb/bkmr",
+    "sha": "45413e338a316362d629f53bd2a917c4bf485c1e",
+    "file_url": "https://cdn.jsdelivr.net/gh/jenfb/bkmr@45413e338a316362d629f53bd2a917c4bf485c1e/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 66,
+    "size_mb": 5,
+    "created_at": "2016-06-20T16:19:20Z",
+    "last_commit_at": "2024-11-14T19:56:00Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.1",
+      "at": "2022-03-04T18:15:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "45413e338a316362d629f53bd2a917c4bf485c1e",
+    "v": 4
+  }
+}

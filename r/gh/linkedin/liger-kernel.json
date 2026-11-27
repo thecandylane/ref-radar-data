@@ -26,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/linkedin/Liger-Kernel",
-    "sha": "33b66dca97c22f5f38edd7af98a500d44abef7ef",
-    "file_url": "https://cdn.jsdelivr.net/gh/linkedin/Liger-Kernel@33b66dca97c22f5f38edd7af98a500d44abef7ef/{path}"
+    "sha": "cc29eda82744aece335c1ca4bd3ace5c9d768048",
+    "file_url": "https://cdn.jsdelivr.net/gh/linkedin/Liger-Kernel@cc29eda82744aece335c1ca4bd3ace5c9d768048/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "BSD-2-Clause",
-    "stars": 6712,
+    "stars": 6716,
     "size_mb": 27,
     "created_at": "2024-08-06T17:47:52Z",
     "last_commit_at": "2026-11-25T23:34:00Z",
@@ -52,20 +52,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 7,
+    "star_delta_7d": 11,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "33b66dca97c22f5f38edd7af98a500d44abef7ef",
-    "v": 4
-  },
   "pins_before": [
+    "33b66dca97c22f5f38edd7af98a500d44abef7ef",
     "42dc23c41dcaf1f95d858837aed5301fd4faa27a"
   ],
-  "pinned_at": "2026-11-19T05:51:56Z",
+  "pinned_at": "2026-11-25T23:34:00Z",
   "papers": [
     {
       "id": "arxiv:2410.10989",

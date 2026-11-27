@@ -1,0 +1,64 @@
+{
+  "id": "gh:apache/groovy",
+  "kind": "repo",
+  "url": "https://github.com/apache/groovy",
+  "title": "groovy",
+  "why": "A JVM language with optional typing and static type checking, so Java libraries can be called from scripts and DSLs.",
+  "keys": {
+    "races": [
+      "languages/compilers",
+      "languages/type-systems"
+    ],
+    "lanes": [
+      "languages/compilers",
+      "languages/type-systems"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.adoc",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/groovy",
+    "sha": "40d90fabe32f4d38aa60f1ed410192260f844282",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/groovy@40d90fabe32f4d38aa60f1ed410192260f844282/{path}"
+  },
+  "facts": {
+    "lang": "Groovy",
+    "license": "Apache-2.0",
+    "stars": 5490,
+    "size_mb": 337,
+    "created_at": "2015-04-16T07:00:05Z",
+    "last_commit_at": "2026-11-25T22:11:48Z",
+    "releases": 0,
+    "tags": 316,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "40d90fabe32f4d38aa60f1ed410192260f844282",
+    "v": 4
+  }
+}

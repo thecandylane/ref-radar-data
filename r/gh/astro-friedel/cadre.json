@@ -1,0 +1,58 @@
+{
+  "id": "gh:astro-friedel/cadre",
+  "kind": "repo",
+  "url": "https://github.com/astro-friedel/CADRE",
+  "title": "CADRE",
+  "why": "Reduces CARMA radio interferometer data into calibrated UV files and channel maps, but its maps need a human check before publication.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/astro-friedel/CADRE",
+    "sha": "90068f46f9fbe88f78e7e62693b582b700a99899",
+    "file_url": "https://cdn.jsdelivr.net/gh/astro-friedel/CADRE@90068f46f9fbe88f78e7e62693b582b700a99899/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "size_mb": 3,
+    "created_at": "2013-03-18T02:46:39Z",
+    "last_commit_at": "2019-09-03T18:17:30Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "90068f46f9fbe88f78e7e62693b582b700a99899",
+    "v": 4
+  }
+}

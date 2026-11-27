@@ -1,0 +1,65 @@
+{
+  "id": "gh:buyukakyuz/email-sleuth",
+  "kind": "repo",
+  "url": "https://github.com/buyukakyuz/email-sleuth",
+  "title": "email-sleuth",
+  "why": "Tries name and domain email patterns, then checks each address over DNS and SMTP, with optional API and headless browser checks.",
+  "keys": {
+    "races": [
+      "sales/prospecting"
+    ],
+    "lanes": [
+      "sales/prospecting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/buyukakyuz/email-sleuth",
+    "sha": "273ff38b17a13156c6e2918f8a0f9b70ce6f7bd2",
+    "file_url": "https://cdn.jsdelivr.net/gh/buyukakyuz/email-sleuth@273ff38b17a13156c6e2918f8a0f9b70ce6f7bd2/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 431,
+    "size_mb": 0,
+    "created_at": "2025-04-26T15:37:38Z",
+    "last_commit_at": "2025-12-20T19:11:48Z",
+    "releases": 5,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.3",
+      "at": "2025-05-15T10:03:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "273ff38b17a13156c6e2918f8a0f9b70ce6f7bd2",
+    "v": 4
+  }
+}

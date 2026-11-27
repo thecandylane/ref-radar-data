@@ -1,0 +1,58 @@
+{
+  "id": "gh:erikhom/aida",
+  "kind": "repo",
+  "url": "https://github.com/erikhom/aida",
+  "title": "aida",
+  "why": "Deconvolves multi-frame and three-dimensional image stacks, and estimates its two hyperparameters without manual guessing.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/erikhom/aida",
+    "sha": "65a60ad367bdd875af68ac0e37d7c938a3728d2b",
+    "file_url": "https://cdn.jsdelivr.net/gh/erikhom/aida@65a60ad367bdd875af68ac0e37d7c938a3728d2b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 23,
+    "size_mb": 14,
+    "created_at": "2013-07-12T14:23:15Z",
+    "last_commit_at": "2019-08-09T11:26:08Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "65a60ad367bdd875af68ac0e37d7c938a3728d2b",
+    "v": 4
+  }
+}

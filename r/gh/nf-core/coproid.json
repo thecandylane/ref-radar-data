@@ -1,0 +1,61 @@
+{
+  "id": "gh:nf-core/coproid",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/coproid",
+  "title": "coproid",
+  "why": "Python helpers that merge Kraken, DamageProfiler and PyDamage outputs into CSV and convert SAM alignments to JSON.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/coproid",
+    "sha": "ca53143aeda96598be5449598f00a2956564aa44",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/coproid@ca53143aeda96598be5449598f00a2956564aa44/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 13,
+    "size_mb": 115,
+    "created_at": "2019-04-23T15:38:41Z",
+    "last_commit_at": "2026-10-07T12:25:00Z",
+    "releases": 5,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "2.0.1",
+      "at": "2026-02-17T06:31:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ca53143aeda96598be5449598f00a2956564aa44",
+    "v": 4
+  }
+}

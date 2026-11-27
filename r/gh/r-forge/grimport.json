@@ -1,0 +1,58 @@
+{
+  "id": "gh:r-forge/grimport",
+  "kind": "repo",
+  "url": "https://github.com/r-forge/grimport",
+  "title": "grimport",
+  "why": "R package mirror from R-Forge, with pkg and www folders for its build and project page.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/r-forge/grimport",
+    "sha": "7fa7711394dcb5b1c2a4381baeb93e6e06812423",
+    "file_url": "https://cdn.jsdelivr.net/gh/r-forge/grimport@7fa7711394dcb5b1c2a4381baeb93e6e06812423/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 3,
+    "created_at": "2023-03-17T16:23:50Z",
+    "last_commit_at": "2024-07-25T17:43:15Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "7fa7711394dcb5b1c2a4381baeb93e6e06812423",
+    "v": 4
+  }
+}

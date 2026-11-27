@@ -1,0 +1,60 @@
+{
+  "id": "gh:nanmicoder/mediacrawler",
+  "kind": "repo",
+  "url": "https://github.com/NanmiCoder/MediaCrawler",
+  "title": "MediaCrawler",
+  "why": "Scrapes posts and comments from social platforms through Playwright, reusing the login state of a local Chrome.",
+  "keys": {
+    "races": [
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/web-access"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NanmiCoder/MediaCrawler",
+    "sha": "6b1f1693af27026be53044c6f091859c158e7c7b",
+    "file_url": "https://cdn.jsdelivr.net/gh/NanmiCoder/MediaCrawler@6b1f1693af27026be53044c6f091859c158e7c7b/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 71839,
+    "size_mb": 29,
+    "created_at": "2023-06-09T12:14:34Z",
+    "last_commit_at": "2026-11-26T06:26:14Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6b1f1693af27026be53044c6f091859c158e7c7b",
+    "v": 4
+  }
+}

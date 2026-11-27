@@ -1,0 +1,63 @@
+{
+  "id": "gh:buger/jsonparser",
+  "kind": "repo",
+  "url": "https://github.com/buger/jsonparser",
+  "title": "jsonparser",
+  "why": "Reads and edits JSON by key path without defining structs, allocating no memory, with a lenient mode for single-quoted strings.",
+  "keys": {
+    "races": [
+      "data/serialization",
+      "practice/performance"
+    ],
+    "lanes": [
+      "data/serialization",
+      "practice/performance"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/buger/jsonparser",
+    "sha": "36a686d11807c62cd5a30d41b294d66969ea25d8",
+    "file_url": "https://cdn.jsdelivr.net/gh/buger/jsonparser@36a686d11807c62cd5a30d41b294d66969ea25d8/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 5668,
+    "size_mb": 1,
+    "created_at": "2016-03-20T06:22:33Z",
+    "last_commit_at": "2026-08-21T19:33:42Z",
+    "releases": 12,
+    "tags": 12,
+    "archived": false,
+    "release": {
+      "tag": "v1.6.1",
+      "at": "2026-07-30T14:06:29.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "36a686d11807c62cd5a30d41b294d66969ea25d8",
+    "v": 4
+  }
+}

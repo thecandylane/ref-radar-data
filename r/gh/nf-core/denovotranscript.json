@@ -1,0 +1,61 @@
+{
+  "id": "gh:nf-core/denovotranscript",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/denovotranscript",
+  "title": "denovotranscript",
+  "why": "Lets you pick Trinity, rnaSPAdes or both for assembly, then reduces redundancy and quantifies the transcripts with Salmon.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/denovotranscript",
+    "sha": "c69ddd0e1aa2c2981f948ade39285f0e2918b74e",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/denovotranscript@c69ddd0e1aa2c2981f948ade39285f0e2918b74e/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 29,
+    "size_mb": 2,
+    "created_at": "2024-06-27T04:30:51Z",
+    "last_commit_at": "2026-10-07T13:25:38Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "1.2.1",
+      "at": "2025-08-28T09:23:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c69ddd0e1aa2c2981f948ade39285f0e2918b74e",
+    "v": 4
+  }
+}

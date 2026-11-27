@@ -1,0 +1,60 @@
+{
+  "id": "gh:cosmostat/cosmopmc",
+  "kind": "repo",
+  "url": "https://github.com/CosmoStat/CosmoPMC",
+  "title": "CosmoPMC",
+  "why": "Explores cosmological probe likelihoods with Population Monte Carlo, an adaptive importance sampler that refines the proposal each iteration.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CosmoStat/CosmoPMC",
+    "sha": "a082e14bae728a8a7bba3e240590ac2a1429ab85",
+    "file_url": "https://cdn.jsdelivr.net/gh/CosmoStat/CosmoPMC@a082e14bae728a8a7bba3e240590ac2a1429ab85/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 2,
+    "size_mb": 2,
+    "created_at": "2018-12-06T14:02:26Z",
+    "last_commit_at": "2020-04-06T13:46:39Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "a082e14bae728a8a7bba3e240590ac2a1429ab85",
+    "v": 4
+  }
+}

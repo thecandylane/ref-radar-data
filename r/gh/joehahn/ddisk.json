@@ -1,0 +1,58 @@
+{
+  "id": "gh:joehahn/ddisk",
+  "kind": "repo",
+  "url": "https://github.com/joehahn/ddisk",
+  "title": "ddisk",
+  "why": "Models dust abundance in a debris disk from planetesimals grinding down by collisions, with inputs set in one file.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/joehahn/ddisk",
+    "sha": "066de7f850ab6cce56d259d5347eb89a0311dad2",
+    "file_url": "https://cdn.jsdelivr.net/gh/joehahn/ddisk@066de7f850ab6cce56d259d5347eb89a0311dad2/{path}"
+  },
+  "facts": {
+    "lang": "Prolog",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2013-04-16T23:20:28Z",
+    "last_commit_at": "2013-04-16T23:22:42Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "066de7f850ab6cce56d259d5347eb89a0311dad2",
+    "v": 4
+  }
+}

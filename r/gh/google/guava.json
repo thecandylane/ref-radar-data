@@ -1,0 +1,57 @@
+{
+  "id": "gh:google/guava",
+  "kind": "repo",
+  "url": "https://github.com/google/guava",
+  "title": "guava",
+  "why": "Java core library with multimaps, immutable collections and a graph library, in separate JRE and Android builds.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google/guava",
+    "sha": "cdb3863e02e9e728848727b3c132f94f8c22cd26",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/guava@cdb3863e02e9e728848727b3c132f94f8c22cd26/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 51929,
+    "size_mb": 1410,
+    "created_at": "2014-05-29T16:23:17Z",
+    "last_commit_at": "2026-11-26T01:29:47Z",
+    "releases": 62,
+    "tags": 125,
+    "archived": false,
+    "release": {
+      "tag": "v33.8.0",
+      "at": "2026-11-02T18:08:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "cdb3863e02e9e728848727b3c132f94f8c22cd26",
+    "v": 4
+  }
+}

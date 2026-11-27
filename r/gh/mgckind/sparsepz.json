@@ -1,0 +1,69 @@
+{
+  "id": "gh:mgckind/sparsepz",
+  "kind": "repo",
+  "url": "https://github.com/mgckind/SparsePz",
+  "title": "SparsePz",
+  "why": "Compresses photometric redshift PDFs into a sparse form, with an example script and a read-back script for checking the output.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mgckind/SparsePz",
+    "sha": "ec40fb80505d2e07973bc27fac6b47c5620ddd3c",
+    "file_url": "https://cdn.jsdelivr.net/gh/mgckind/SparsePz@ec40fb80505d2e07973bc27fac6b47c5620ddd3c/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 2,
+    "size_mb": 1,
+    "created_at": "2014-04-27T22:07:50Z",
+    "last_commit_at": "2020-02-07T19:05:35Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ec40fb80505d2e07973bc27fac6b47c5620ddd3c",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:1404.6442",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

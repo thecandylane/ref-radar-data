@@ -1,0 +1,61 @@
+{
+  "id": "gh:open-spaced-repetition/py-fsrs",
+  "kind": "repo",
+  "url": "https://github.com/open-spaced-repetition/py-fsrs",
+  "title": "py-fsrs",
+  "why": "Python scheduler for FSRS card reviews, plus an optimizer that fits its parameters to your own review history.",
+  "keys": {
+    "races": [
+      "learning/spaced-repetition"
+    ],
+    "lanes": [
+      "learning/spaced-repetition"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/open-spaced-repetition/py-fsrs",
+    "sha": "e40a5a74799a12c9b15e01559a9b2c9f6be7a648",
+    "file_url": "https://cdn.jsdelivr.net/gh/open-spaced-repetition/py-fsrs@e40a5a74799a12c9b15e01559a9b2c9f6be7a648/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 538,
+    "size_mb": 1,
+    "created_at": "2022-11-28T10:41:11Z",
+    "last_commit_at": "2026-11-13T02:34:22Z",
+    "releases": 38,
+    "tags": 39,
+    "archived": false,
+    "release": {
+      "tag": "v6.3.3",
+      "at": "2026-11-13T02:50:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e40a5a74799a12c9b15e01559a9b2c9f6be7a648",
+    "v": 4
+  }
+}

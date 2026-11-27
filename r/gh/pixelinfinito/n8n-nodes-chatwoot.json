@@ -1,0 +1,60 @@
+{
+  "id": "gh:pixelinfinito/n8n-nodes-chatwoot",
+  "kind": "repo",
+  "url": "https://github.com/pixelinfinito/n8n-nodes-chatwoot",
+  "title": "n8n-nodes-chatwoot",
+  "why": "Lets n8n workflows create and update Chatwoot contacts, conversations and messages, including interactive forms and cards via JSON.",
+  "keys": {
+    "races": [
+      "support/helpdesk",
+      "business-apps/bpm"
+    ],
+    "lanes": [
+      "support/helpdesk",
+      "business-apps/bpm"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pixelinfinito/n8n-nodes-chatwoot",
+    "sha": "4136756e1ac75ea46d3780008bba405015a55a63",
+    "file_url": "https://cdn.jsdelivr.net/gh/pixelinfinito/n8n-nodes-chatwoot@4136756e1ac75ea46d3780008bba405015a55a63/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 7,
+    "size_mb": 0,
+    "created_at": "2025-07-28T16:20:51Z",
+    "last_commit_at": "2025-07-29T23:42:39Z",
+    "releases": 0,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "4136756e1ac75ea46d3780008bba405015a55a63",
+    "v": 4
+  }
+}

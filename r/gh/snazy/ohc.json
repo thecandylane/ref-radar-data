@@ -1,0 +1,54 @@
+{
+  "id": "gh:snazy/ohc",
+  "kind": "repo",
+  "url": "https://github.com/snazy/ohc",
+  "title": "ohc",
+  "why": "Off-heap Java cache for huge amounts of data that keeps GC pressure low, with a chunked mode for small entries though no longer maintained.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/snazy/ohc",
+    "sha": "7f59c264fe8ae4c859b9662c8cea15620f0f55f8",
+    "file_url": "https://cdn.jsdelivr.net/gh/snazy/ohc@7f59c264fe8ae4c859b9662c8cea15620f0f55f8/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 1090,
+    "size_mb": 1,
+    "created_at": "2014-11-20T00:28:09Z",
+    "last_commit_at": "2023-07-04T13:00:23Z",
+    "releases": 0,
+    "tags": 25,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "7f59c264fe8ae4c859b9662c8cea15620f0f55f8",
+    "v": 4
+  }
+}

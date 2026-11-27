@@ -1,0 +1,64 @@
+{
+  "id": "gh:sunyoungshin/atsnp",
+  "kind": "repo",
+  "url": "https://github.com/sunyoungshin/atSNP",
+  "title": "atSNP",
+  "why": "Scores motif binding for reference and SNP alleles and gets p-values by importance sampling, so 26K SNPs finish within 5 hours.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sunyoungshin/atSNP",
+    "sha": "391c211afe35b96686b32abce100e9cbcc9882c0",
+    "file_url": "https://cdn.jsdelivr.net/gh/sunyoungshin/atSNP@391c211afe35b96686b32abce100e9cbcc9882c0/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 2,
+    "size_mb": 18,
+    "created_at": "2014-12-04T21:23:25Z",
+    "last_commit_at": "2021-04-26T23:17:51Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "391c211afe35b96686b32abce100e9cbcc9882c0",
+    "v": 4
+  }
+}

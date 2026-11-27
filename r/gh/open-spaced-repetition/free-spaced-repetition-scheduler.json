@@ -1,0 +1,58 @@
+{
+  "id": "gh:open-spaced-repetition/free-spaced-repetition-scheduler",
+  "kind": "repo",
+  "url": "https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler",
+  "title": "free-spaced-repetition-scheduler",
+  "why": "Algorithm that schedules reviews earlier or later as it adapts to your memory, with ports in TypeScript, Go, Python and Rust.",
+  "keys": {
+    "races": [
+      "learning/spaced-repetition"
+    ],
+    "lanes": [
+      "learning/spaced-repetition"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler",
+    "sha": "93ed713fd9c139fa12be9bba8c080a682a7c503d",
+    "file_url": "https://cdn.jsdelivr.net/gh/open-spaced-repetition/free-spaced-repetition-scheduler@93ed713fd9c139fa12be9bba8c080a682a7c503d/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "MIT",
+    "stars": 742,
+    "size_mb": 0,
+    "created_at": "2021-12-31T03:27:39Z",
+    "last_commit_at": "2026-04-21T02:58:41Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "93ed713fd9c139fa12be9bba8c080a682a7c503d",
+    "v": 4
+  }
+}

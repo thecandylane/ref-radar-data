@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:addf1d2a5e912d229bab669fec2c3bf92fda6bad"
-  },
   "id": "gh:kata-containers/kata-containers",
   "kind": "repo",
   "url": "https://github.com/kata-containers/kata-containers",
@@ -33,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/kata-containers/kata-containers",
-    "sha": "addf1d2a5e912d229bab669fec2c3bf92fda6bad",
-    "file_url": "https://cdn.jsdelivr.net/gh/kata-containers/kata-containers@addf1d2a5e912d229bab669fec2c3bf92fda6bad/{path}"
+    "sha": "620fcb59449b110211105b88c092cfa28bc5521e",
+    "file_url": "https://cdn.jsdelivr.net/gh/kata-containers/kata-containers@620fcb59449b110211105b88c092cfa28bc5521e/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 9224,
+    "stars": 9228,
     "size_mb": 117,
     "created_at": "2017-12-07T05:01:12Z",
-    "last_commit_at": "2026-11-26T04:39:05Z",
+    "last_commit_at": "2026-11-27T00:17:28Z",
     "releases": 124,
     "tags": 155,
     "archived": false,
@@ -59,19 +56,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 37,
+    "star_delta_7d": 41,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "addf1d2a5e912d229bab669fec2c3bf92fda6bad",
-    "v": 4
-  },
   "pins_before": [
+    "addf1d2a5e912d229bab669fec2c3bf92fda6bad",
     "f4360e22a54db46119fd658edde35b5f80fb9187"
   ],
-  "pinned_at": "2026-11-19T07:53:41Z",
+  "pinned_at": "2026-11-27T00:17:28Z",
   "hot": true
 }

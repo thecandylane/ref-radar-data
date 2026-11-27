@@ -1,0 +1,67 @@
+{
+  "id": "gh:justinbeckwith/linkinator",
+  "kind": "repo",
+  "url": "https://github.com/JustinBeckwith/linkinator",
+  "title": "linkinator",
+  "why": "Crawls a site or sitemap and reports broken links and missing fragments from the command line.",
+  "keys": {
+    "races": [
+      "dev-tools/testing",
+      "seo/site-audits"
+    ],
+    "lanes": [
+      "dev-tools/testing",
+      "seo/site-audits"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/JustinBeckwith/linkinator",
+    "sha": "62ba21965daddd9db2a451e8eacc510a010d6762",
+    "file_url": "https://cdn.jsdelivr.net/gh/JustinBeckwith/linkinator@62ba21965daddd9db2a451e8eacc510a010d6762/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1292,
+    "size_mb": 5,
+    "created_at": "2019-02-12T02:13:33Z",
+    "last_commit_at": "2026-10-13T05:50:45Z",
+    "releases": 141,
+    "tags": 141,
+    "archived": false,
+    "release": {
+      "tag": "linkinator-v8.1.0",
+      "at": "2026-08-29T02:04:35.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "62ba21965daddd9db2a451e8eacc510a010d6762",
+    "v": 4
+  }
+}

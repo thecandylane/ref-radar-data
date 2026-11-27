@@ -1,0 +1,67 @@
+{
+  "id": "gh:microsoft/dicom-server",
+  "kind": "repo",
+  "url": "https://github.com/microsoft/dicom-server",
+  "title": "dicom-server",
+  "why": "Only the client code of this DICOMweb server remains on main, with the rest kept on an archived branch.",
+  "keys": {
+    "races": [
+      "medicine/medical-imaging",
+      "medicine/interoperability"
+    ],
+    "lanes": [
+      "medicine/medical-imaging",
+      "medicine/interoperability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microsoft/dicom-server",
+    "sha": "b3bb4170bd35315259e44352b4acc653b6ce1f72",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/dicom-server@b3bb4170bd35315259e44352b4acc653b6ce1f72/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "MIT",
+    "stars": 518,
+    "size_mb": 24,
+    "created_at": "2019-05-16T22:57:13Z",
+    "last_commit_at": "2024-12-18T17:31:02Z",
+    "releases": 321,
+    "tags": 325,
+    "archived": false,
+    "release": {
+      "tag": "10.0.838",
+      "at": "2024-03-01T01:04:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b3bb4170bd35315259e44352b4acc653b6ce1f72",
+    "v": 4
+  }
+}

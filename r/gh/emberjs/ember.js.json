@@ -1,0 +1,69 @@
+{
+  "id": "gh:emberjs/ember.js",
+  "kind": "repo",
+  "url": "https://github.com/emberjs/ember.js",
+  "title": "ember.js",
+  "why": "Client-side JavaScript framework with routing, Ember Data and autotracking, where components start from plain HTML.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/emberjs/ember.js",
+    "sha": "b0191b30145594af83c6bdbc348520499243925b",
+    "file_url": "https://cdn.jsdelivr.net/gh/emberjs/ember.js@b0191b30145594af83c6bdbc348520499243925b/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 22568,
+    "size_mb": 112,
+    "created_at": "2011-05-25T23:39:40Z",
+    "last_commit_at": "2026-11-24T20:21:07Z",
+    "releases": 596,
+    "tags": 1562,
+    "archived": false,
+    "release": {
+      "tag": "v7.4.1-ember-source",
+      "at": "2026-11-17T03:14:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b0191b30145594af83c6bdbc348520499243925b",
+    "v": 4
+  }
+}

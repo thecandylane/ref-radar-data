@@ -1,0 +1,68 @@
+{
+  "id": "gh:mckaywrigley/chatbot-ui",
+  "kind": "repo",
+  "url": "https://github.com/mckaywrigley/chatbot-ui",
+  "title": "chatbot-ui",
+  "why": "Chat UI for any model with a Supabase backend, so you can run your own instance locally or host it on Vercel.",
+  "keys": {
+    "races": [
+      "llm-infra/chat-apps"
+    ],
+    "lanes": [
+      "llm-infra/chat-apps"
+    ],
+    "capabilities": [
+      "llm-infra/chat-apps/self-hosted-chat"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mckaywrigley/chatbot-ui",
+    "sha": "81328b61d2a4ab597a7a057be70e785cf756d9f8",
+    "file_url": "https://cdn.jsdelivr.net/gh/mckaywrigley/chatbot-ui@81328b61d2a4ab597a7a057be70e785cf756d9f8/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 33313,
+    "size_mb": 4,
+    "created_at": "2023-03-11T14:53:14Z",
+    "last_commit_at": "2024-06-22T17:14:46Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "81328b61d2a4ab597a7a057be70e785cf756d9f8",
+    "v": 4
+  }
+}

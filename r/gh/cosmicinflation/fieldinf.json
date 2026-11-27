@@ -1,0 +1,64 @@
+{
+  "id": "gh:cosmicinflation/fieldinf",
+  "kind": "repo",
+  "url": "https://github.com/cosmicinflation/fieldinf",
+  "title": "fieldinf",
+  "why": "Exact solver for linear perturbations during cosmic inflation, written in Fortran under GPL-3.0 for cosmology work.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cosmicinflation/fieldinf",
+    "sha": "ad548d5e331259e8c03a4ef52565dd20b0243421",
+    "file_url": "https://cdn.jsdelivr.net/gh/cosmicinflation/fieldinf@ad548d5e331259e8c03a4ef52565dd20b0243421/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "GPL-3.0",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2023-03-31T15:43:14Z",
+    "last_commit_at": "2025-01-15T15:57:00Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ad548d5e331259e8c03a4ef52565dd20b0243421",
+    "v": 4
+  }
+}

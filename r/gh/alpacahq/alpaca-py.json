@@ -1,0 +1,65 @@
+{
+  "id": "gh:alpacahq/alpaca-py",
+  "kind": "repo",
+  "url": "https://github.com/alpacahq/alpaca-py",
+  "title": "alpaca-py",
+  "why": "Python client for placing orders, streaming trade updates and fetching bars across Alpaca's trading, data and broker APIs.",
+  "keys": {
+    "races": [
+      "finance/trading",
+      "finance/markets"
+    ],
+    "lanes": [
+      "finance/trading",
+      "finance/markets"
+    ],
+    "capabilities": [
+      "finance/markets/market-data"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/alpacahq/alpaca-py",
+    "sha": "1edd4ae1fdfbd500715b1a953412f0e4c43f0e99",
+    "file_url": "https://cdn.jsdelivr.net/gh/alpacahq/alpaca-py@1edd4ae1fdfbd500715b1a953412f0e4c43f0e99/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 1608,
+    "size_mb": 4,
+    "created_at": "2022-02-19T23:10:34Z",
+    "last_commit_at": "2026-11-26T11:29:22Z",
+    "releases": 89,
+    "tags": 96,
+    "archived": false,
+    "release": {
+      "tag": "v0.45.0",
+      "at": "2026-11-05T09:08:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "1edd4ae1fdfbd500715b1a953412f0e4c43f0e99",
+    "v": 4
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "gh:rubocop/rubocop-performance",
+  "kind": "repo",
+  "url": "https://github.com/rubocop/rubocop-performance",
+  "title": "rubocop-performance",
+  "why": "Adds a set of performance cops to RuboCop, loaded through the plugins setting in .rubocop.yml.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rubocop/rubocop-performance",
+    "sha": "22a6f2175b4d564fdb3a3d0840e7cdb604e18092",
+    "file_url": "https://cdn.jsdelivr.net/gh/rubocop/rubocop-performance@22a6f2175b4d564fdb3a3d0840e7cdb604e18092/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "MIT",
+    "stars": 744,
+    "size_mb": 25,
+    "created_at": "2018-06-10T12:08:51Z",
+    "last_commit_at": "2026-11-08T06:32:07Z",
+    "releases": 59,
+    "tags": 175,
+    "archived": false,
+    "release": {
+      "tag": "v1.27.0",
+      "at": "2026-08-16T05:00:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "22a6f2175b4d564fdb3a3d0840e7cdb604e18092",
+    "v": 4
+  }
+}

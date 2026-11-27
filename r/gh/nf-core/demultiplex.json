@@ -1,0 +1,65 @@
+{
+  "id": "gh:nf-core/demultiplex",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/demultiplex",
+  "title": "demultiplex",
+  "why": "Nextflow pipeline from nf-core for demultiplexing sequencing runs, with a small Groovy helper that formats its output.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/demultiplex",
+    "sha": "d6b68bd19ef8660c726b8389965c3f30d9d4d4f8",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/demultiplex@d6b68bd19ef8660c726b8389965c3f30d9d4d4f8/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 61,
+    "size_mb": 15,
+    "created_at": "2020-03-05T15:48:10Z",
+    "last_commit_at": "2026-10-08T09:25:01Z",
+    "releases": 18,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "1.8.0",
+      "at": "2026-09-15T14:35:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d6b68bd19ef8660c726b8389965c3f30d9d4d4f8",
+    "v": 4
+  }
+}

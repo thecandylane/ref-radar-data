@@ -1,0 +1,88 @@
+{
+  "id": "gh:dmlc/xgboost",
+  "kind": "repo",
+  "url": "https://github.com/dmlc/xgboost",
+  "title": "xgboost",
+  "why": "Fits gradient boosted tree models in Python, R, Java and Scala, running on a single machine or across Spark, Dask and Flink clusters.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "data/statistics"
+    ],
+    "lanes": [
+      "ml/training",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dmlc/xgboost",
+    "sha": "eca74538c55137543821206f11d57bb89c1d8ec3",
+    "file_url": "https://cdn.jsdelivr.net/gh/dmlc/xgboost@eca74538c55137543821206f11d57bb89c1d8ec3/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 29018,
+    "size_mb": 38,
+    "created_at": "2014-02-06T17:28:03Z",
+    "last_commit_at": "2026-11-25T19:05:38Z",
+    "releases": 80,
+    "tags": 81,
+    "archived": false,
+    "release": {
+      "tag": "v3.4.2",
+      "at": "2026-09-15T08:31:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "eca74538c55137543821206f11d57bb89c1d8ec3",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:1603.02754",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2305.00706",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1806.11248",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

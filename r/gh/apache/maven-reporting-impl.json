@@ -1,0 +1,67 @@
+{
+  "id": "gh:apache/maven-reporting-impl",
+  "kind": "repo",
+  "url": "https://github.com/apache/maven-reporting-impl",
+  "title": "maven-reporting-impl",
+  "why": "Base classes for Maven report plugins, so a custom report can render tables and sections into a site through sinks.",
+  "keys": {
+    "races": [
+      "dev-tools/build",
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/build",
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/maven-reporting-impl",
+    "sha": "68cc4a8bbf429ce665d3c54e15aa8e10bde99a82",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/maven-reporting-impl@68cc4a8bbf429ce665d3c54e15aa8e10bde99a82/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 6,
+    "size_mb": 0,
+    "created_at": "2017-12-07T18:19:07Z",
+    "last_commit_at": "2026-11-26T01:46:57Z",
+    "releases": 1,
+    "tags": 28,
+    "archived": false,
+    "release": {
+      "tag": "maven-reporting-impl-4.0.0",
+      "at": "2025-05-20T18:57:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "68cc4a8bbf429ce665d3c54e15aa8e10bde99a82",
+    "v": 4
+  }
+}

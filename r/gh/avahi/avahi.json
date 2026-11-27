@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:9c17c1337b4272ecef7608f21b1fdfc9214a6f3d"
+  },
   "id": "gh:avahi/avahi",
   "kind": "repo",
   "url": "https://github.com/avahi/avahi",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": "C",
     "license": "LGPL-2.1",
-    "stars": 1577,
+    "stars": 1578,
     "size_mb": 5,
     "created_at": "2014-11-26T02:35:47Z",
     "last_commit_at": "2026-11-23T19:20:06Z",
@@ -54,5 +57,9 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "9c17c1337b4272ecef7608f21b1fdfc9214a6f3d",
+    "v": 4
+  },
   "pinned_at": "2026-11-23T19:20:06Z"
 }

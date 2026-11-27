@@ -1,0 +1,61 @@
+{
+  "id": "gh:jschicht/mft2csv",
+  "kind": "repo",
+  "url": "https://github.com/jschicht/Mft2Csv",
+  "title": "Mft2Csv",
+  "why": "Writes $MFT record info to a csv file, a flat table to open and check outside the tool.",
+  "keys": {
+    "races": [
+      "forensics/triage"
+    ],
+    "lanes": [
+      "forensics/triage"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.txt",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jschicht/Mft2Csv",
+    "sha": "e6c16004fcf3a90647278be7ef3b2ee0c2e20a0e",
+    "file_url": "https://cdn.jsdelivr.net/gh/jschicht/Mft2Csv@e6c16004fcf3a90647278be7ef3b2ee0c2e20a0e/{path}"
+  },
+  "facts": {
+    "lang": "AutoIt",
+    "license": "MIT",
+    "stars": 289,
+    "size_mb": 20,
+    "created_at": "2014-01-24T00:10:50Z",
+    "last_commit_at": "2024-10-07T19:48:39Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.0.51",
+      "at": "2024-10-07T19:53:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e6c16004fcf3a90647278be7ef3b2ee0c2e20a0e",
+    "v": 4
+  }
+}

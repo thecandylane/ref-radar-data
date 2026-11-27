@@ -2,7 +2,7 @@
   "id": "gh:reflection-oss/cookbook",
   "kind": "repo",
   "url": "https://github.com/reflection-oss/cookbook",
-  "title": "cookbook",
+  "title": "reflection-oss/cookbook",
   "why": "Recipes that distill tool-calling traces from a teacher model into SFT rows, with audit scripts and a BFCL eval handler.",
   "keys": {
     "races": [
@@ -53,6 +53,10 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "dba01af9e8c1ba7e1801d9c17798189b55518ea1",
+    "v": 4
+  },
   "pinned_at": "2026-10-20T20:42:40Z",
   "papers": [
     {

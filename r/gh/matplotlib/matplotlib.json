@@ -32,10 +32,10 @@
   "facts": {
     "lang": "Python",
     "license": "none",
-    "stars": 23504,
+    "stars": 23514,
     "size_mb": 482,
     "created_at": "2011-02-19T03:17:12Z",
-    "last_commit_at": "2026-11-26T04:26:22Z",
+    "last_commit_at": "2026-11-27T01:36:56Z",
     "releases": 103,
     "tags": 152,
     "archived": false,
@@ -58,6 +58,10 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "b3693318c5d7103781b8aa2645887c35765e3997",
+    "v": 4
+  },
   "pins_before": [
     "ed25523818fb2fc1573225a5d13b6e32f4ff6070"
   ],

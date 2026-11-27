@@ -1,0 +1,67 @@
+{
+  "id": "gh:24kchengye/human-skill-tree",
+  "kind": "repo",
+  "url": "https://github.com/24kchengYe/human-skill-tree",
+  "title": "human-skill-tree",
+  "why": "Gives Claude Code and Cursor a Socratic tutoring skill for K-12 and career subjects, assessing your level before teaching.",
+  "keys": {
+    "races": [
+      "learning/courses",
+      "agents/skills"
+    ],
+    "lanes": [
+      "learning/courses",
+      "agents/skills"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/24kchengYe/human-skill-tree",
+    "sha": "be589ddd04c945cd64642702ed7f6cfbd2466e03",
+    "file_url": "https://cdn.jsdelivr.net/gh/24kchengYe/human-skill-tree@be589ddd04c945cd64642702ed7f6cfbd2466e03/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 603,
+    "size_mb": 6,
+    "created_at": "2026-03-07T19:08:46Z",
+    "last_commit_at": "2026-03-25T05:22:56Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-03-08T04:20:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "be589ddd04c945cd64642702ed7f6cfbd2466e03",
+    "v": 4
+  }
+}

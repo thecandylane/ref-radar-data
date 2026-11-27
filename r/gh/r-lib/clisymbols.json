@@ -1,0 +1,58 @@
+{
+  "id": "gh:r-lib/clisymbols",
+  "kind": "repo",
+  "url": "https://github.com/r-lib/clisymbols",
+  "title": "clisymbols",
+  "why": "R package with named Unicode symbols for CLI output, falling back to ASCII where terminals lack Unicode.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/r-lib/clisymbols",
+    "sha": "3ce0802679fd365f9423c283b4cf09489e01c91d",
+    "file_url": "https://cdn.jsdelivr.net/gh/r-lib/clisymbols@3ce0802679fd365f9423c283b4cf09489e01c91d/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 84,
+    "size_mb": 0,
+    "created_at": "2015-04-14T02:57:39Z",
+    "last_commit_at": "2024-11-09T13:44:42Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "3ce0802679fd365f9423c283b4cf09489e01c91d",
+    "v": 4
+  }
+}

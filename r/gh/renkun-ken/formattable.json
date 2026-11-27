@@ -1,0 +1,63 @@
+{
+  "id": "gh:renkun-ken/formattable",
+  "kind": "repo",
+  "url": "https://github.com/renkun-ken/formattable",
+  "title": "formattable",
+  "why": "Wraps vectors and data frames in formatting rules so percent, currency and accounting values print readable in R.",
+  "keys": {
+    "races": [
+      "data/analytics",
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "data/analytics",
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/renkun-ken/formattable",
+    "sha": "7e8d939ae83e2db08c0af9d019be222cee075a96",
+    "file_url": "https://cdn.jsdelivr.net/gh/renkun-ken/formattable@7e8d939ae83e2db08c0af9d019be222cee075a96/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "NOASSERTION",
+    "stars": 700,
+    "size_mb": 3,
+    "created_at": "2015-04-02T08:22:11Z",
+    "last_commit_at": "2026-10-10T01:44:55Z",
+    "releases": 1,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.1",
+      "at": "2021-04-21T06:04:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "7e8d939ae83e2db08c0af9d019be222cee075a96",
+    "v": 4
+  }
+}

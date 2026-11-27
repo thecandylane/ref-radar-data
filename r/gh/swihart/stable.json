@@ -1,0 +1,65 @@
+{
+  "id": "gh:swihart/stable",
+  "kind": "repo",
+  "url": "https://github.com/swihart/stable",
+  "title": "stable",
+  "why": "Density, distribution and quantile functions for stable distributions in R, with a conversion path to the stabledist parameterization.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/swihart/stable",
+    "sha": "d1b990e4579ea892e52dd42d38784711c6424055",
+    "file_url": "https://cdn.jsdelivr.net/gh/swihart/stable@d1b990e4579ea892e52dd42d38784711c6424055/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-2.0",
+    "stars": 5,
+    "size_mb": 1,
+    "created_at": "2016-11-23T18:01:57Z",
+    "last_commit_at": "2026-02-16T13:17:00Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.7",
+      "at": "2026-02-16T13:17:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d1b990e4579ea892e52dd42d38784711c6424055",
+    "v": 4
+  }
+}

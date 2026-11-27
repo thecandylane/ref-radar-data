@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:fce6c797b0af0e0afbe5c54d3ba0f88fe1d24f80"
-  },
   "id": "gh:smped/ngsreports",
   "kind": "repo",
   "url": "https://github.com/smped/ngsReports",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/smped/ngsReports",
-    "sha": "fce6c797b0af0e0afbe5c54d3ba0f88fe1d24f80",
-    "file_url": "https://cdn.jsdelivr.net/gh/smped/ngsReports@fce6c797b0af0e0afbe5c54d3ba0f88fe1d24f80/{path}"
+    "sha": "cce56b380e20ce4f6bf1c47541cba7dde818dd18",
+    "file_url": "https://cdn.jsdelivr.net/gh/smped/ngsReports@cce56b380e20ce4f6bf1c47541cba7dde818dd18/{path}"
   },
   "facts": {
     "lang": "R",
@@ -34,14 +31,14 @@
     "stars": 24,
     "size_mb": 49,
     "created_at": "2017-03-06T23:58:12Z",
-    "last_commit_at": "2026-04-28T12:49:57Z",
+    "last_commit_at": "2026-11-23T22:42:31Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
     "release": null
   },
   "reuse": "copy",
-  "maturity": "quiet",
+  "maturity": "unreleased",
   "status": null,
   "stats": {
     "picks": {},
@@ -54,9 +51,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "fce6c797b0af0e0afbe5c54d3ba0f88fe1d24f80",
-    "v": 3
-  },
-  "pinned_at": "2026-04-28T12:49:57Z"
+  "pins_before": [
+    "fce6c797b0af0e0afbe5c54d3ba0f88fe1d24f80"
+  ],
+  "pinned_at": "2026-11-23T22:42:31Z"
 }

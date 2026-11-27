@@ -1,0 +1,64 @@
+{
+  "id": "gh:usewaypoint/email-builder-js",
+  "kind": "repo",
+  "url": "https://github.com/usewaypoint/email-builder-js",
+  "title": "email-builder-js",
+  "why": "A React builder that outputs email templates as JSON and renders them to HTML for sending through nodemailer or an email API.",
+  "keys": {
+    "races": [
+      "marketing/email",
+      "business-apps/low-code"
+    ],
+    "lanes": [
+      "marketing/email",
+      "business-apps/low-code"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/usewaypoint/email-builder-js",
+    "sha": "ce3e610749fc80d7e999b20e28f6e775bfe09da7",
+    "file_url": "https://cdn.jsdelivr.net/gh/usewaypoint/email-builder-js@ce3e610749fc80d7e999b20e28f6e775bfe09da7/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1789,
+    "size_mb": 4,
+    "created_at": "2024-02-13T14:19:39Z",
+    "last_commit_at": "2026-02-09T19:17:17Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ce3e610749fc80d7e999b20e28f6e775bfe09da7",
+    "v": 4
+  }
+}

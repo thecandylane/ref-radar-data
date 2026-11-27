@@ -1,0 +1,60 @@
+{
+  "id": "gh:huggingface/candle",
+  "kind": "repo",
+  "url": "https://github.com/huggingface/candle",
+  "title": "candle",
+  "why": "Runs and trains PyTorch-style models in Rust, with CUDA and WASM backends and quantized LLaMA loading from gguf files.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "ml/training",
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/huggingface/candle",
+    "sha": "9c1fcffaf956fcfd629fdddc9fc25adefb95c052",
+    "file_url": "https://cdn.jsdelivr.net/gh/huggingface/candle@9c1fcffaf956fcfd629fdddc9fc25adefb95c052/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 21435,
+    "size_mb": 20,
+    "created_at": "2023-06-19T16:06:31Z",
+    "last_commit_at": "2026-11-26T12:36:50Z",
+    "releases": 0,
+    "tags": 22,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "9c1fcffaf956fcfd629fdddc9fc25adefb95c052",
+    "v": 4
+  }
+}

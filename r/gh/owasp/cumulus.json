@@ -1,0 +1,61 @@
+{
+  "id": "gh:owasp/cumulus",
+  "kind": "repo",
+  "url": "https://github.com/OWASP/cumulus",
+  "title": "cumulus",
+  "why": "Shell scripts that compile TeX sources into a PDF, cut out pages, convert them to JPG and sync a mirror repo.",
+  "keys": {
+    "races": [
+      "media/typesetting"
+    ],
+    "lanes": [
+      "media/typesetting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OWASP/cumulus",
+    "sha": "c3c23d15048dc96282b776445d9121fb12c0d3eb",
+    "file_url": "https://cdn.jsdelivr.net/gh/OWASP/cumulus@c3c23d15048dc96282b776445d9121fb12c0d3eb/{path}"
+  },
+  "facts": {
+    "lang": "TeX",
+    "license": "none",
+    "stars": 31,
+    "size_mb": 0,
+    "created_at": "2023-04-19T19:09:26Z",
+    "last_commit_at": "2026-10-06T07:18:55Z",
+    "releases": 7,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "release/v1.2.0",
+      "at": "2025-10-27T08:50:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c3c23d15048dc96282b776445d9121fb12c0d3eb",
+    "v": 4
+  }
+}

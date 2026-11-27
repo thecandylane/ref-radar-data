@@ -1,0 +1,67 @@
+{
+  "id": "gh:iobroker/iobroker.modbus",
+  "kind": "repo",
+  "url": "https://github.com/ioBroker/ioBroker.modbus",
+  "title": "ioBroker.modbus",
+  "why": "Reads Modbus registers from devices and matches them to device templates, with timeout tables and timing diagrams in the admin.",
+  "keys": {
+    "races": [
+      "industrial/protocols",
+      "industrial/scada"
+    ],
+    "lanes": [
+      "industrial/protocols",
+      "industrial/scada"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ioBroker/ioBroker.modbus",
+    "sha": "4cd7a9c9c625b76b944287434e870f5eb5ad1051",
+    "file_url": "https://cdn.jsdelivr.net/gh/ioBroker/ioBroker.modbus@4cd7a9c9c625b76b944287434e870f5eb5ad1051/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 58,
+    "size_mb": 76,
+    "created_at": "2015-09-26T21:08:22Z",
+    "last_commit_at": "2026-11-19T06:36:55Z",
+    "releases": 93,
+    "tags": 108,
+    "archived": false,
+    "release": {
+      "tag": "v9.5.0",
+      "at": "2026-11-19T06:45:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "4cd7a9c9c625b76b944287434e870f5eb5ad1051",
+    "v": 4
+  }
+}

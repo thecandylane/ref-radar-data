@@ -1,0 +1,58 @@
+{
+  "id": "gh:marko-js/examples",
+  "kind": "repo",
+  "url": "https://github.com/marko-js/examples",
+  "title": "marko-js/examples",
+  "why": "Compares how Marko apps are wired up with Vite, Rollup, webpack, Express and Fastify, using todomvc and tic-tac-toe demos.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/marko-js/examples",
+    "sha": "c097507ffede4be4d4df0cf51bd45fef4352bdd5",
+    "file_url": "https://cdn.jsdelivr.net/gh/marko-js/examples@c097507ffede4be4d4df0cf51bd45fef4352bdd5/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "none",
+    "stars": 58,
+    "size_mb": 1,
+    "created_at": "2019-10-29T21:18:14Z",
+    "last_commit_at": "2026-11-13T12:37:29Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "c097507ffede4be4d4df0cf51bd45fef4352bdd5",
+    "v": 4
+  }
+}

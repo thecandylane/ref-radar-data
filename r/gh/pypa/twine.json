@@ -1,0 +1,57 @@
+{
+  "id": "gh:pypa/twine",
+  "kind": "repo",
+  "url": "https://github.com/pypa/twine",
+  "title": "twine",
+  "why": "Uploads built wheels and sdists to a package index, checking metadata first and reading credentials from the keyring.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pypa/twine",
+    "sha": "ecad921d4a44091bf01d5b9ec8833d51bfdf58eb",
+    "file_url": "https://cdn.jsdelivr.net/gh/pypa/twine@ecad921d4a44091bf01d5b9ec8833d51bfdf58eb/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 1794,
+    "size_mb": 2,
+    "created_at": "2013-08-13T15:39:39Z",
+    "last_commit_at": "2026-11-11T12:13:02Z",
+    "releases": 17,
+    "tags": 55,
+    "archived": false,
+    "release": {
+      "tag": "7.0.0",
+      "at": "2026-07-28T14:43:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "ecad921d4a44091bf01d5b9ec8833d51bfdf58eb",
+    "v": 4
+  }
+}

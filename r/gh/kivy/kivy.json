@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a13b45a27fd39bba34db3fdfb83342539106fc9f"
-  },
   "id": "gh:kivy/kivy",
   "kind": "repo",
   "url": "https://github.com/kivy/kivy",
@@ -27,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/kivy/kivy",
-    "sha": "a13b45a27fd39bba34db3fdfb83342539106fc9f",
-    "file_url": "https://cdn.jsdelivr.net/gh/kivy/kivy@a13b45a27fd39bba34db3fdfb83342539106fc9f/{path}"
+    "sha": "27a5b15dbe0341720ba647a5f5dd651fd1c83931",
+    "file_url": "https://cdn.jsdelivr.net/gh/kivy/kivy@27a5b15dbe0341720ba647a5f5dd651fd1c83931/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 19033,
+    "stars": 19032,
     "size_mb": 79,
     "created_at": "2010-11-03T20:27:32Z",
     "last_commit_at": "2026-11-25T08:38:28Z",
@@ -53,18 +50,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 4,
+    "star_delta_7d": 3,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "a13b45a27fd39bba34db3fdfb83342539106fc9f",
-    "v": 4
-  },
   "pins_before": [
+    "a13b45a27fd39bba34db3fdfb83342539106fc9f",
     "e261d8879fd7c36df9bc7247e445cceb6acb8559"
   ],
-  "pinned_at": "2026-11-19T07:36:45Z"
+  "pinned_at": "2026-11-25T08:38:28Z"
 }

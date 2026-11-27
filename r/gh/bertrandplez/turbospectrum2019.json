@@ -1,0 +1,61 @@
+{
+  "id": "gh:bertrandplez/turbospectrum2019",
+  "kind": "repo",
+  "url": "https://github.com/bertrandplez/Turbospectrum2019",
+  "title": "Turbospectrum2019",
+  "why": "Fortran code for synthetic spectrum calculation alongside MARCS, though the NLTE version is the one still being developed.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bertrandplez/Turbospectrum2019",
+    "sha": "1fa2c3e681b44e7dbed55deaa84f2df69c49004d",
+    "file_url": "https://cdn.jsdelivr.net/gh/bertrandplez/Turbospectrum2019@1fa2c3e681b44e7dbed55deaa84f2df69c49004d/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "none",
+    "stars": 24,
+    "size_mb": 12,
+    "created_at": "2019-04-25T15:09:52Z",
+    "last_commit_at": "2024-10-01T09:23:43Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v19.1.5",
+      "at": "2022-05-17T06:24:04.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "1fa2c3e681b44e7dbed55deaa84f2df69c49004d",
+    "v": 4
+  }
+}

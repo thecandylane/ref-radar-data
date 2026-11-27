@@ -1,0 +1,63 @@
+{
+  "id": "gh:getgrav/grav",
+  "kind": "repo",
+  "url": "https://github.com/getgrav/grav",
+  "title": "grav",
+  "why": "Flat-file PHP CMS with Markdown content and Twig themes, installed by extracting a ZIP and updated through a package manager.",
+  "keys": {
+    "races": [
+      "web/cms",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/cms",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/getgrav/grav",
+    "sha": "190ad5899be4ff4d999bb4b146c25eb12e9428f8",
+    "file_url": "https://cdn.jsdelivr.net/gh/getgrav/grav@190ad5899be4ff4d999bb4b146c25eb12e9428f8/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 15740,
+    "size_mb": 35,
+    "created_at": "2014-08-02T18:29:10Z",
+    "last_commit_at": "2026-11-25T04:50:48Z",
+    "releases": 419,
+    "tags": 424,
+    "archived": false,
+    "release": {
+      "tag": "2.2.35",
+      "at": "2026-11-25T04:50:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "190ad5899be4ff4d999bb4b146c25eb12e9428f8",
+    "v": 4
+  }
+}

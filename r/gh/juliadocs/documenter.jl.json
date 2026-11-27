@@ -1,0 +1,65 @@
+{
+  "id": "gh:juliadocs/documenter.jl",
+  "kind": "repo",
+  "url": "https://github.com/JuliaDocs/Documenter.jl",
+  "title": "Documenter.jl",
+  "why": "Julia docs site builder whose page scripts add search through a worker, copy buttons, collapsible sections and theme switching from local storage.",
+  "keys": {
+    "races": [
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/JuliaDocs/Documenter.jl",
+    "sha": "356a41a475f71b671e33946523ced70f8accfdd9",
+    "file_url": "https://cdn.jsdelivr.net/gh/JuliaDocs/Documenter.jl@356a41a475f71b671e33946523ced70f8accfdd9/{path}"
+  },
+  "facts": {
+    "lang": "Julia",
+    "license": "MIT",
+    "stars": 924,
+    "size_mb": 90,
+    "created_at": "2016-01-08T21:33:00Z",
+    "last_commit_at": "2026-11-24T14:27:34Z",
+    "releases": 148,
+    "tags": 177,
+    "archived": false,
+    "release": {
+      "tag": "v1.20.0",
+      "at": "2026-11-06T01:24:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "356a41a475f71b671e33946523ced70f8accfdd9",
+    "v": 4
+  }
+}

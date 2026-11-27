@@ -1,0 +1,67 @@
+{
+  "id": "gh:louisdesdoigts/zodiax",
+  "kind": "repo",
+  "url": "https://github.com/LouisDesdoigts/zodiax",
+  "title": "zodiax",
+  "why": "Gives Equinox modules get, set, add and multiply methods that return updated copies, plus chi2 and z-score stats for fitting.",
+  "keys": {
+    "races": [
+      "sci/sciml",
+      "data/statistics"
+    ],
+    "lanes": [
+      "sci/sciml",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/LouisDesdoigts/zodiax",
+    "sha": "8061bf91fb616eed29e9aee3f32de7d9ae5ddcc1",
+    "file_url": "https://cdn.jsdelivr.net/gh/LouisDesdoigts/zodiax@8061bf91fb616eed29e9aee3f32de7d9ae5ddcc1/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 28,
+    "size_mb": 17,
+    "created_at": "2022-11-14T06:11:20Z",
+    "last_commit_at": "2026-11-16T18:52:55Z",
+    "releases": 9,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.0",
+      "at": "2026-04-21T11:37:02.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "8061bf91fb616eed29e9aee3f32de7d9ae5ddcc1",
+    "v": 4
+  }
+}

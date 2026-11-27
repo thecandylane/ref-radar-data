@@ -1,0 +1,65 @@
+{
+  "id": "gh:remarkjs/remark",
+  "kind": "repo",
+  "url": "https://github.com/remarkjs/remark",
+  "title": "remark",
+  "why": "Parses markdown into a syntax tree that plugins inspect and rewrite, with CommonMark compliance and lint presets layered on top.",
+  "keys": {
+    "races": [
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/remarkjs/remark",
+    "sha": "1146b3a274fc1f4607111e5d6607a3a769a0e89a",
+    "file_url": "https://cdn.jsdelivr.net/gh/remarkjs/remark@1146b3a274fc1f4607111e5d6607a3a769a0e89a/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 9045,
+    "size_mb": 14,
+    "created_at": "2014-07-28T19:35:14Z",
+    "last_commit_at": "2026-09-27T13:21:39Z",
+    "releases": 104,
+    "tags": 180,
+    "archived": false,
+    "release": {
+      "tag": "remark-cli@12.0.0",
+      "at": "2023-09-18T09:46:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "1146b3a274fc1f4607111e5d6607a3a769a0e89a",
+    "v": 4
+  }
+}

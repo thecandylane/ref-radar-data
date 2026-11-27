@@ -1,0 +1,64 @@
+{
+  "id": "gh:mtmorgan/rjsoncons",
+  "kind": "repo",
+  "url": "https://github.com/mtmorgan/rjsoncons",
+  "title": "rjsoncons",
+  "why": "Filters, pivots and patches JSON or NDJSON in R with JSONpath or JMESpath, and validates it against JSON Schema.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mtmorgan/rjsoncons",
+    "sha": "339558a4a0bd5a1fe8ba38bf862bdd47e7f162e3",
+    "file_url": "https://cdn.jsdelivr.net/gh/mtmorgan/rjsoncons@339558a4a0bd5a1fe8ba38bf862bdd47e7f162e3/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "none",
+    "stars": 8,
+    "size_mb": 10,
+    "created_at": "2021-02-16T10:31:12Z",
+    "last_commit_at": "2026-06-03T22:17:28Z",
+    "releases": 0,
+    "tags": 5,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "339558a4a0bd5a1fe8ba38bf862bdd47e7f162e3",
+    "v": 4
+  }
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:40a26e46dd3eb3c9bd404ff9736645840dc49507"
+  },
   "id": "gh:vector35/leak-audit",
   "kind": "repo",
   "url": "https://github.com/Vector35/Leak-Audit",
@@ -55,5 +58,10 @@
     "ranks": {}
   },
   "tier": "discovered",
-  "drafted": true
+  "drafted": true,
+  "pack": {
+    "sha": "40a26e46dd3eb3c9bd404ff9736645840dc49507",
+    "v": 4
+  },
+  "pinned_at": "2026-07-11T13:45:07Z"
 }

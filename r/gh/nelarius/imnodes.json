@@ -1,0 +1,61 @@
+{
+  "id": "gh:nelarius/imnodes",
+  "kind": "repo",
+  "url": "https://github.com/Nelarius/imnodes",
+  "title": "imnodes",
+  "why": "Adds a node editor with bezier links, selection and a minimap to ImGui windows, with save and load examples in C++.",
+  "keys": {
+    "races": [
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Nelarius/imnodes",
+    "sha": "2d0c280b07b2f62b120034811cc6e41251673961",
+    "file_url": "https://cdn.jsdelivr.net/gh/Nelarius/imnodes@2d0c280b07b2f62b120034811cc6e41251673961/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 2506,
+    "size_mb": 4,
+    "created_at": "2018-09-22T11:27:12Z",
+    "last_commit_at": "2026-10-17T23:21:32Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v0.5",
+      "at": "2022-03-09T07:52:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "2d0c280b07b2f62b120034811cc6e41251673961",
+    "v": 4
+  }
+}

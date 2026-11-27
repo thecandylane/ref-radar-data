@@ -1,0 +1,61 @@
+{
+  "id": "gh:uw-hydro/metsim",
+  "kind": "repo",
+  "url": "https://github.com/UW-Hydro/MetSim",
+  "title": "MetSim",
+  "why": "Turns daily forcings into sub-daily values for hydrologic models, driven by configuration files with optional parallel processes.",
+  "keys": {
+    "races": [
+      "environment/earth-data"
+    ],
+    "lanes": [
+      "environment/earth-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/UW-Hydro/MetSim",
+    "sha": "a4b4c52ce310c80dfd4d5f37c98e1fdbb9e4a676",
+    "file_url": "https://cdn.jsdelivr.net/gh/UW-Hydro/MetSim@a4b4c52ce310c80dfd4d5f37c98e1fdbb9e4a676/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 69,
+    "size_mb": 5,
+    "created_at": "2016-10-03T02:08:03Z",
+    "last_commit_at": "2023-11-06T17:15:44Z",
+    "releases": 23,
+    "tags": 23,
+    "archived": false,
+    "release": {
+      "tag": "2.4.4",
+      "at": "2023-11-06T17:16:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "a4b4c52ce310c80dfd4d5f37c98e1fdbb9e4a676",
+    "v": 4
+  }
+}

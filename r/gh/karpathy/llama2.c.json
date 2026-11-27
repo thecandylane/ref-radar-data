@@ -1,0 +1,71 @@
+{
+  "id": "gh:karpathy/llama2.c",
+  "kind": "repo",
+  "url": "https://github.com/karpathy/llama2.c",
+  "title": "llama2.c",
+  "why": "Runs Llama 2 checkpoints in one dependency-free C file, with an int8 quantized forward pass in runq.c beside run.c.",
+  "keys": {
+    "races": [
+      "llm-infra/inference",
+      "ml/training"
+    ],
+    "lanes": [
+      "llm-infra/inference",
+      "ml/training"
+    ],
+    "capabilities": [
+      "llm-infra/inference/low-bit"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/karpathy/llama2.c",
+    "sha": "350e04fe35433e6d2941dce5a1f53308f87058eb",
+    "file_url": "https://cdn.jsdelivr.net/gh/karpathy/llama2.c@350e04fe35433e6d2941dce5a1f53308f87058eb/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 20326,
+    "size_mb": 1,
+    "created_at": "2023-07-23T05:15:06Z",
+    "last_commit_at": "2024-05-29T17:01:04Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "350e04fe35433e6d2941dce5a1f53308f87058eb",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2203.15556",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "gh:upscayl/upscayl",
+  "kind": "repo",
+  "url": "https://github.com/upscayl/upscayl",
+  "title": "upscayl",
+  "why": "Enlarges low-resolution images with Real-ESRGAN models on a Vulkan GPU, and cannot de-blur out-of-focus photos.",
+  "keys": {
+    "races": [
+      "media/photo-editing",
+      "desktop/app-shells"
+    ],
+    "lanes": [
+      "media/photo-editing",
+      "desktop/app-shells"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/upscayl/upscayl",
+    "sha": "a00d55fee90e0f9435d5eaa86e76700df8199af8",
+    "file_url": "https://raw.githubusercontent.com/upscayl/upscayl/a00d55fee90e0f9435d5eaa86e76700df8199af8/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "AGPL-3.0",
+    "stars": 53315,
+    "size_mb": 555,
+    "created_at": "2022-07-30T17:19:20Z",
+    "last_commit_at": "2026-03-27T16:33:02Z",
+    "releases": 29,
+    "tags": 37,
+    "archived": false,
+    "release": {
+      "tag": "v2.15.0",
+      "at": "2024-12-25T13:44:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "a00d55fee90e0f9435d5eaa86e76700df8199af8",
+    "v": 4
+  }
+}

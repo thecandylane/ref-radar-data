@@ -1,0 +1,67 @@
+{
+  "id": "gh:ticketping-com/chat-widget",
+  "kind": "repo",
+  "url": "https://github.com/ticketping-com/chat-widget",
+  "title": "chat-widget",
+  "why": "Drops a live support chat into any site with one init call, with React and Svelte wrappers and WebSocket messages.",
+  "keys": {
+    "races": [
+      "support/helpdesk",
+      "web/ui-components"
+    ],
+    "lanes": [
+      "support/helpdesk",
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ticketping-com/chat-widget",
+    "sha": "c110ca91869646a5b0dabbe0b13080ed1b9a29d4",
+    "file_url": "https://cdn.jsdelivr.net/gh/ticketping-com/chat-widget@c110ca91869646a5b0dabbe0b13080ed1b9a29d4/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 1,
+    "created_at": "2025-07-04T22:50:10Z",
+    "last_commit_at": "2026-01-11T09:36:08Z",
+    "releases": 2,
+    "tags": 20,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.6",
+      "at": "2025-08-04T14:23:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c110ca91869646a5b0dabbe0b13080ed1b9a29d4",
+    "v": 4
+  }
+}

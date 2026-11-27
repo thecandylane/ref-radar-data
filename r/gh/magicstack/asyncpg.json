@@ -1,0 +1,61 @@
+{
+  "id": "gh:magicstack/asyncpg",
+  "kind": "repo",
+  "url": "https://github.com/MagicStack/asyncpg",
+  "title": "asyncpg",
+  "why": "Speaks the PostgreSQL server protocol natively to asyncio code, exposing prepared statements and scrollable cursors without a DB-API layer.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MagicStack/asyncpg",
+    "sha": "13b01910da3fe01b8241c31cc86eccb1301a2d39",
+    "file_url": "https://cdn.jsdelivr.net/gh/MagicStack/asyncpg@13b01910da3fe01b8241c31cc86eccb1301a2d39/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 8123,
+    "size_mb": 11,
+    "created_at": "2016-07-19T02:25:20Z",
+    "last_commit_at": "2026-10-08T23:19:11Z",
+    "releases": 33,
+    "tags": 42,
+    "archived": false,
+    "release": {
+      "tag": "v0.32.0",
+      "at": "2026-10-06T20:29:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "13b01910da3fe01b8241c31cc86eccb1301a2d39",
+    "v": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "gh:escomp/cesm",
+  "kind": "repo",
+  "url": "https://github.com/ESCOMP/CESM",
+  "title": "CESM",
+  "why": "Runs system tests and an ensemble check on perturbed model runs, plus a git tool for pulling in submodules.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ESCOMP/CESM",
+    "sha": "d9a1598c21f493577ecd4986d460b71d2cf40b6f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ESCOMP/CESM@d9a1598c21f493577ecd4986d460b71d2cf40b6f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 499,
+    "size_mb": 24,
+    "created_at": "2017-11-15T18:10:55Z",
+    "last_commit_at": "2026-11-23T21:13:41Z",
+    "releases": 18,
+    "tags": 407,
+    "archived": false,
+    "release": {
+      "tag": "release-cesm2.1.5",
+      "at": "2025-06-25T18:53:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "d9a1598c21f493577ecd4986d460b71d2cf40b6f",
+    "v": 4
+  }
+}

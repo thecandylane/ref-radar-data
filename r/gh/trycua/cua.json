@@ -39,16 +39,16 @@
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 32956,
-    "size_mb": 797,
+    "stars": 33062,
+    "size_mb": 796,
     "created_at": "2025-01-31T15:02:49Z",
-    "last_commit_at": "2026-11-26T02:51:55Z",
+    "last_commit_at": "2026-11-27T09:14:04Z",
     "releases": 1000,
-    "tags": 1458,
+    "tags": 1471,
     "archived": false,
     "release": {
-      "tag": "cua-spaces-v0.41.14",
-      "at": "2026-11-26T04:32:00.000Z"
+      "tag": "cua-spaces-v0.41.16",
+      "at": "2026-11-27T00:51:34.000Z"
     }
   },
   "reuse": "copy",
@@ -65,6 +65,10 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "705089e1db0b76f97c83775cd1ee71ac6b4fdbca",
+    "v": 4
+  },
   "pins_before": [
     "848e2a561a5f8b01286d855afb58bc1ac19a150c"
   ],

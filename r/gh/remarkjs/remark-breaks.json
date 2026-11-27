@@ -1,0 +1,61 @@
+{
+  "id": "gh:remarkjs/remark-breaks",
+  "kind": "repo",
+  "url": "https://github.com/remarkjs/remark-breaks",
+  "title": "remark-breaks",
+  "why": "Turns each line ending in user markdown into a hard break, so text shows line by line without trailing spaces or escapes.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/remarkjs/remark-breaks",
+    "sha": "71f4ff3ca9f08b685dccf2fdb9882d8bbaea3388",
+    "file_url": "https://cdn.jsdelivr.net/gh/remarkjs/remark-breaks@71f4ff3ca9f08b685dccf2fdb9882d8bbaea3388/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 155,
+    "size_mb": 0,
+    "created_at": "2017-07-20T20:08:59Z",
+    "last_commit_at": "2023-09-22T16:45:35Z",
+    "releases": 14,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "4.0.0",
+      "at": "2023-09-22T16:45:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "71f4ff3ca9f08b685dccf2fdb9882d8bbaea3388",
+    "v": 4
+  }
+}

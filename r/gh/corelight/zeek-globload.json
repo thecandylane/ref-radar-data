@@ -1,0 +1,58 @@
+{
+  "id": "gh:corelight/zeek-globload",
+  "kind": "repo",
+  "url": "https://github.com/corelight/zeek-globload",
+  "title": "zeek-globload",
+  "why": "Lets Zeek's @load directive take glob patterns, so script directories can be managed by several users.",
+  "keys": {
+    "races": [
+      "netsec/ids"
+    ],
+    "lanes": [
+      "netsec/ids"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/corelight/zeek-globload",
+    "sha": "a9552f53aec2821d89048ad139e44bbb9231d0a9",
+    "file_url": "https://cdn.jsdelivr.net/gh/corelight/zeek-globload@a9552f53aec2821d89048ad139e44bbb9231d0a9/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "BSD-3-Clause",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2021-06-14T21:18:24Z",
+    "last_commit_at": "2021-06-14T21:27:02Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "a9552f53aec2821d89048ad139e44bbb9231d0a9",
+    "v": 4
+  }
+}

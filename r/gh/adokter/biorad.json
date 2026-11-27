@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:64152da47cc5dccba4aba1baa40be9f5bfe33b49"
+  },
   "id": "gh:adokter/biorad",
   "kind": "repo",
   "url": "https://github.com/adokter/bioRad",
@@ -54,6 +57,10 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "64152da47cc5dccba4aba1baa40be9f5bfe33b49",
+    "v": 4
+  },
   "pins_before": [
     "682972ea4f221898ee785cd655b94d2dc9a96536"
   ],

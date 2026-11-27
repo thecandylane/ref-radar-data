@@ -1,0 +1,63 @@
+{
+  "id": "gh:pyvrp/vrplib",
+  "kind": "repo",
+  "url": "https://github.com/PyVRP/VRPLIB",
+  "title": "VRPLIB",
+  "why": "Reads VRPLIB and Solomon instance files into numpy arrays and writes them back, computing EUC_2D and EXPLICIT edge weights for solvers.",
+  "keys": {
+    "races": [
+      "logistics/route-optimization",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "logistics/route-optimization",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/PyVRP/VRPLIB",
+    "sha": "309f18900f54a91ec3aeaf8b840c0db351aa8c5d",
+    "file_url": "https://cdn.jsdelivr.net/gh/PyVRP/VRPLIB@309f18900f54a91ec3aeaf8b840c0db351aa8c5d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 131,
+    "size_mb": 21,
+    "created_at": "2022-04-16T13:51:22Z",
+    "last_commit_at": "2026-04-06T07:47:36Z",
+    "releases": 16,
+    "tags": 16,
+    "archived": false,
+    "release": {
+      "tag": "v2.2.0",
+      "at": "2026-04-06T07:47:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "309f18900f54a91ec3aeaf8b840c0db351aa8c5d",
+    "v": 4
+  }
+}

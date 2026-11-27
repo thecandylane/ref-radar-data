@@ -1,0 +1,60 @@
+{
+  "id": "gh:issue-tracking-system/project-management-software",
+  "kind": "repo",
+  "url": "https://github.com/issue-tracking-system/Project-Management-Software",
+  "title": "Project-Management-Software",
+  "why": "Ticket system where inbound email becomes tickets, with agile issue dashboards, per-project wiki spaces and tracked worked time.",
+  "keys": {
+    "races": [
+      "support/helpdesk",
+      "practice/process"
+    ],
+    "lanes": [
+      "support/helpdesk",
+      "practice/process"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/issue-tracking-system/Project-Management-Software",
+    "sha": "078fa56a782490c5059a0814f84df27984f4d7e2",
+    "file_url": "https://cdn.jsdelivr.net/gh/issue-tracking-system/Project-Management-Software@078fa56a782490c5059a0814f84df27984f4d7e2/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "none",
+    "stars": 151,
+    "size_mb": 4,
+    "created_at": "2016-09-13T09:14:24Z",
+    "last_commit_at": "2026-01-11T11:42:13Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "078fa56a782490c5059a0814f84df27984f4d7e2",
+    "v": 4
+  }
+}

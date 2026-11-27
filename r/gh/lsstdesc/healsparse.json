@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:258972e3b8d70bed9dc6916a41d7e103b8b695c0"
+  },
   "id": "gh:lsstdesc/healsparse",
   "kind": "repo",
   "url": "https://github.com/LSSTDESC/healsparse",
@@ -53,5 +56,10 @@
   },
   "tier": "discovered",
   "drafted": true,
+  "pack": {
+    "sha": "258972e3b8d70bed9dc6916a41d7e103b8b695c0",
+    "v": 4
+  },
+  "pinned_at": "2026-10-28T19:43:08Z",
   "scan_partial": true
 }

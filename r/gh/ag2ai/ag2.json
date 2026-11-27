@@ -27,14 +27,14 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ag2ai/ag2",
-    "sha": "6d2dd8bab8af873ea29ed759cfacb572466d925e",
-    "file_url": "https://cdn.jsdelivr.net/gh/ag2ai/ag2@6d2dd8bab8af873ea29ed759cfacb572466d925e/{path}"
+    "sha": "1742d550b554e3ce2eb726d421b562c151eb27b9",
+    "file_url": "https://cdn.jsdelivr.net/gh/ag2ai/ag2@1742d550b554e3ce2eb726d421b562c151eb27b9/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 5090,
-    "size_mb": 606,
+    "stars": 5092,
+    "size_mb": 607,
     "created_at": "2024-11-11T20:43:34Z",
     "last_commit_at": "2026-11-24T20:15:44Z",
     "releases": 94,
@@ -53,25 +53,32 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 15,
+    "star_delta_7d": 17,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "6d2dd8bab8af873ea29ed759cfacb572466d925e",
+    "sha": "1742d550b554e3ce2eb726d421b562c151eb27b9",
     "v": 4
   },
   "pins_before": [
+    "6d2dd8bab8af873ea29ed759cfacb572466d925e",
     "3399e3ef2e339f6c64f7fc8d27eaed09662846a4"
   ],
-  "pinned_at": "2026-11-19T04:37:53Z",
+  "pinned_at": "2026-11-24T20:15:44Z",
   "papers": [
     {
       "id": "arxiv:2405.19425",
       "via": [
         "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2308.08155",
+      "via": [
+        "repo"
       ]
     }
   ]

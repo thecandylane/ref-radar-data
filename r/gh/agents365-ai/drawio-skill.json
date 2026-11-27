@@ -29,13 +29,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Agents365-ai/drawio-skill",
-    "sha": "a8e83c75ad5385aea9a4e2e5b144947f1153fd17",
-    "file_url": "https://cdn.jsdelivr.net/gh/Agents365-ai/drawio-skill@a8e83c75ad5385aea9a4e2e5b144947f1153fd17/{path}"
+    "sha": "4133b6a2123e2f980e375364074acde97d804594",
+    "file_url": "https://cdn.jsdelivr.net/gh/Agents365-ai/drawio-skill@4133b6a2123e2f980e375364074acde97d804594/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 10954,
+    "stars": 10964,
     "size_mb": 7,
     "created_at": "2026-03-03T16:54:59Z",
     "last_commit_at": "2026-11-26T04:44:57Z",
@@ -61,9 +61,14 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "4133b6a2123e2f980e375364074acde97d804594",
+    "v": 4
+  },
   "pins_before": [
+    "a8e83c75ad5385aea9a4e2e5b144947f1153fd17",
     "77287b6452503d14faa255309f3c6ad5fb7e1df0",
     "6550495129d9a42eff7e71434d15bfc9846b6202"
   ],
-  "pinned_at": "2026-11-25T10:55:50Z"
+  "pinned_at": "2026-11-26T04:44:57Z"
 }

@@ -1,0 +1,93 @@
+{
+  "id": "gh:microsoft/rd-agent",
+  "kind": "repo",
+  "url": "https://github.com/microsoft/RD-Agent",
+  "title": "RD-Agent",
+  "why": "Proposes new ideas for data and models, implements them, and reports results on MLE-bench, a benchmark of 75 Kaggle competitions.",
+  "keys": {
+    "races": [
+      "agents/assistants",
+      "ml/training",
+      "finance/quant"
+    ],
+    "lanes": [
+      "agents/assistants",
+      "ml/training",
+      "finance/quant"
+    ],
+    "capabilities": [
+      "agents/assistants/deep-research"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/microsoft/RD-Agent",
+    "sha": "484776c211e4fbbeef03e0ec00d6bbee7362a4f4",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/RD-Agent@484776c211e4fbbeef03e0ec00d6bbee7362a4f4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 15521,
+    "size_mb": 68,
+    "created_at": "2024-04-03T03:39:33Z",
+    "last_commit_at": "2026-09-23T11:05:10Z",
+    "releases": 12,
+    "tags": 12,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-09-23T11:05:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "484776c211e4fbbeef03e0ec00d6bbee7362a4f4",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2505.15155",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2505.14738",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2407.18690",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2404.11276",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

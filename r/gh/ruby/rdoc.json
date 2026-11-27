@@ -1,0 +1,65 @@
+{
+  "id": "gh:ruby/rdoc",
+  "kind": "repo",
+  "url": "https://github.com/ruby/rdoc",
+  "title": "rdoc",
+  "why": "Generates HTML docs for Ruby code, with client-side search, source views and code highlighting built into its templates.",
+  "keys": {
+    "races": [
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ruby/rdoc",
+    "sha": "07859dfc1e40cf3d2099293eee7299723e3db967",
+    "file_url": "https://cdn.jsdelivr.net/gh/ruby/rdoc@07859dfc1e40cf3d2099293eee7299723e3db967/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "NOASSERTION",
+    "stars": 931,
+    "size_mb": 10,
+    "created_at": "2010-12-23T19:32:54Z",
+    "last_commit_at": "2026-11-24T02:09:38Z",
+    "releases": 113,
+    "tags": 121,
+    "archived": false,
+    "release": {
+      "tag": "v8.1.0",
+      "at": "2026-09-28T18:44:50.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "07859dfc1e40cf3d2099293eee7299723e3db967",
+    "v": 4
+  }
+}

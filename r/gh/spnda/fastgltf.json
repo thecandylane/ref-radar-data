@@ -1,0 +1,67 @@
+{
+  "id": "gh:spnda/fastgltf",
+  "kind": "repo",
+  "url": "https://github.com/spnda/fastgltf",
+  "title": "fastgltf",
+  "why": "Parses and exports glTF scenes in C++, with accessor iterators for reading mesh data straight from buffers.",
+  "keys": {
+    "races": [
+      "data/serialization",
+      "games/graphics"
+    ],
+    "lanes": [
+      "data/serialization",
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/spnda/fastgltf",
+    "sha": "d9f0846cacf3cc700273e79125f814fd73f0f7c5",
+    "file_url": "https://cdn.jsdelivr.net/gh/spnda/fastgltf@d9f0846cacf3cc700273e79125f814fd73f0f7c5/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 629,
+    "size_mb": 3,
+    "created_at": "2022-09-11T01:24:34Z",
+    "last_commit_at": "2026-11-25T19:03:50Z",
+    "releases": 14,
+    "tags": 16,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.1",
+      "at": "2026-11-07T04:18:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "d9f0846cacf3cc700273e79125f814fd73f0f7c5",
+    "v": 4
+  }
+}

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:69c80cc34641ca8b8d3cd122ce7287ae078c7dd3"
-  },
   "id": "gh:huggingface/transformers",
   "kind": "repo",
   "url": "https://github.com/huggingface/transformers",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/huggingface/transformers",
-    "sha": "69c80cc34641ca8b8d3cd122ce7287ae078c7dd3",
-    "file_url": "https://cdn.jsdelivr.net/gh/huggingface/transformers@69c80cc34641ca8b8d3cd122ce7287ae078c7dd3/{path}"
+    "sha": "44ee1da4158b5cdb5f836d2ddc489d191bf7d49c",
+    "file_url": "https://cdn.jsdelivr.net/gh/huggingface/transformers@44ee1da4158b5cdb5f836d2ddc489d191bf7d49c/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 169350,
-    "size_mb": 566,
+    "stars": 169393,
+    "size_mb": 568,
     "created_at": "2018-10-29T13:56:00Z",
-    "last_commit_at": "2026-11-26T09:03:40Z",
+    "last_commit_at": "2026-11-27T08:58:57Z",
     "releases": 285,
     "tags": 302,
     "archived": false,
@@ -61,20 +58,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 43,
+    "star_delta_7d": 86,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "69c80cc34641ca8b8d3cd122ce7287ae078c7dd3",
-    "v": 4
-  },
   "pins_before": [
+    "69c80cc34641ca8b8d3cd122ce7287ae078c7dd3",
     "57583c28b04ddc6b6c1e9390ad86181d1033c660"
   ],
-  "pinned_at": "2026-11-19T06:38:07Z",
+  "pinned_at": "2026-11-27T08:58:57Z",
   "papers": [
     {
       "id": "arxiv:2310.03744",

@@ -1,0 +1,65 @@
+{
+  "id": "gh:nextx-organization/nextfarm-sdk-node",
+  "kind": "repo",
+  "url": "https://github.com/nextx-organization/nextfarm-sdk-node",
+  "title": "nextfarm-sdk-node",
+  "why": "Builds a NextFarm API client on openapi-fetch, with a problem type for errors and typed options.",
+  "keys": {
+    "races": [
+      "agriculture/farm-management"
+    ],
+    "lanes": [
+      "agriculture/farm-management"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nextx-organization/nextfarm-sdk-node",
+    "sha": "b9ef8c3b1f17f08e6211846b713db670e9994bcd",
+    "file_url": "https://cdn.jsdelivr.net/gh/nextx-organization/nextfarm-sdk-node@b9ef8c3b1f17f08e6211846b713db670e9994bcd/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-10-28T00:38:38Z",
+    "last_commit_at": "2026-10-29T04:16:02Z",
+    "releases": 3,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.3",
+      "at": "2026-10-29T04:16:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b9ef8c3b1f17f08e6211846b713db670e9994bcd",
+    "v": 4
+  }
+}

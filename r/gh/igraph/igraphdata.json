@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d61dabac88607cf726323dcc68109fb5753aebc7"
+  },
   "id": "gh:igraph/igraphdata",
   "kind": "repo",
   "url": "https://github.com/igraph/igraphdata",
@@ -53,5 +56,10 @@
     "ranks": {}
   },
   "tier": "discovered",
-  "drafted": true
+  "drafted": true,
+  "pack": {
+    "sha": "d61dabac88607cf726323dcc68109fb5753aebc7",
+    "v": 4
+  },
+  "pinned_at": "2026-10-10T07:01:24Z"
 }

@@ -30,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/elizaOS/eliza",
-    "sha": "d00acaff090cb8f1c99ac1dd06cc295bac3347d6",
-    "file_url": "https://raw.githubusercontent.com/elizaOS/eliza/d00acaff090cb8f1c99ac1dd06cc295bac3347d6/{path}"
+    "sha": "a86a67a90023fe865aebbd1e99b3eab196f8b8ce",
+    "file_url": "https://cdn.jsdelivr.net/gh/elizaOS/eliza@a86a67a90023fe865aebbd1e99b3eab196f8b8ce/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "MIT",
-    "stars": 19921,
+    "stars": 19927,
     "size_mb": 2198,
     "created_at": "2024-07-09T07:55:40Z",
-    "last_commit_at": "2026-11-26T08:27:26Z",
+    "last_commit_at": "2026-11-27T09:14:32Z",
     "releases": 20,
     "tags": 131,
     "archived": false,
@@ -56,20 +56,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 16,
+    "star_delta_7d": 22,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "d00acaff090cb8f1c99ac1dd06cc295bac3347d6",
-    "v": 4
-  },
   "pins_before": [
+    "d00acaff090cb8f1c99ac1dd06cc295bac3347d6",
     "1d5a89838cedaff328445c050cef6d2a6292bef1"
   ],
-  "pinned_at": "2026-11-19T06:08:25Z",
+  "pinned_at": "2026-11-27T09:14:32Z",
   "papers": [
     {
       "id": "arxiv:2501.06781",

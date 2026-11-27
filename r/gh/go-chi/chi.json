@@ -1,0 +1,61 @@
+{
+  "id": "gh:go-chi/chi",
+  "kind": "repo",
+  "url": "https://github.com/go-chi/chi",
+  "title": "chi",
+  "why": "A small Go router with nested sub-routers and middleware, built on net/http handlers, so stdlib middleware drops straight in.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/go-chi/chi",
+    "sha": "c64ed7d6635f33a8b2feaff7dcfa55677023ac7d",
+    "file_url": "https://cdn.jsdelivr.net/gh/go-chi/chi@c64ed7d6635f33a8b2feaff7dcfa55677023ac7d/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 23173,
+    "size_mb": 4,
+    "created_at": "2015-10-15T20:46:29Z",
+    "last_commit_at": "2026-11-07T15:51:20Z",
+    "releases": 51,
+    "tags": 62,
+    "archived": false,
+    "release": {
+      "tag": "v5.5.0",
+      "at": "2026-10-14T13:20:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c64ed7d6635f33a8b2feaff7dcfa55677023ac7d",
+    "v": 4
+  }
+}

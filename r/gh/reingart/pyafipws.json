@@ -1,0 +1,67 @@
+{
+  "id": "gh:reingart/pyafipws",
+  "kind": "repo",
+  "url": "https://github.com/reingart/pyafipws",
+  "title": "pyafipws",
+  "why": "Gets AFIP authentication and invoice CAE codes from Python modules, with TXT, DBF and JSON files for legacy apps too.",
+  "keys": {
+    "races": [
+      "finance/e-invoicing",
+      "agriculture/farm-management"
+    ],
+    "lanes": [
+      "finance/e-invoicing",
+      "agriculture/farm-management"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/reingart/pyafipws",
+    "sha": "d595b072110accec9dae1ddb58165ab847b8520a",
+    "file_url": "https://cdn.jsdelivr.net/gh/reingart/pyafipws@d595b072110accec9dae1ddb58165ab847b8520a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "LGPL-3.0",
+    "stars": 366,
+    "size_mb": 8,
+    "created_at": "2013-07-30T21:35:52Z",
+    "last_commit_at": "2025-05-21T05:31:44Z",
+    "releases": 7,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "2.7.1872",
+      "at": "2016-09-10T16:09:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d595b072110accec9dae1ddb58165ab847b8520a",
+    "v": 4
+  }
+}

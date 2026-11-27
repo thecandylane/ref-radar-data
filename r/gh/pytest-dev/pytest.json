@@ -26,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/pytest-dev/pytest",
-    "sha": "9efd0121a4396da80c20d7c3b7844825966612f6",
-    "file_url": "https://cdn.jsdelivr.net/gh/pytest-dev/pytest@9efd0121a4396da80c20d7c3b7844825966612f6/{path}"
+    "sha": "72c941a553140a946a4fe08cf49b3372a30cea86",
+    "file_url": "https://cdn.jsdelivr.net/gh/pytest-dev/pytest@72c941a553140a946a4fe08cf49b3372a30cea86/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 14764,
+    "stars": 14771,
     "size_mb": 42,
     "created_at": "2015-06-15T20:28:27Z",
-    "last_commit_at": "2026-11-25T07:45:58Z",
+    "last_commit_at": "2026-11-27T01:05:54Z",
     "releases": 85,
     "tags": 226,
     "archived": false,
@@ -52,19 +52,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 44,
+    "star_delta_7d": 51,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "9efd0121a4396da80c20d7c3b7844825966612f6",
-    "v": 4
-  },
   "pins_before": [
+    "9efd0121a4396da80c20d7c3b7844825966612f6",
     "fc9a7ef678f64d17f1c03b619f3842ea1d127e74"
   ],
-  "pinned_at": "2026-11-19T07:23:33Z",
+  "pinned_at": "2026-11-27T01:05:54Z",
   "hot": true
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:4bc95602345253e807cd62d1f00ceee262db8dbd"
+  },
   "id": "gh:chrischall/hemnet-mcp",
   "kind": "repo",
   "url": "https://github.com/chrischall/hemnet-mcp",
@@ -41,7 +44,7 @@
     "stars": 1,
     "size_mb": 1,
     "created_at": "2026-07-09T07:36:42Z",
-    "last_commit_at": "2026-11-19T14:55:07Z",
+    "last_commit_at": "2026-11-26T14:54:54Z",
     "releases": 31,
     "tags": 31,
     "archived": false,
@@ -64,5 +67,9 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "4bc95602345253e807cd62d1f00ceee262db8dbd",
+    "v": 4
+  },
   "pinned_at": "2026-11-19T14:55:07Z"
 }

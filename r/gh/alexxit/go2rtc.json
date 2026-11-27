@@ -1,0 +1,71 @@
+{
+  "id": "gh:alexxit/go2rtc",
+  "kind": "repo",
+  "url": "https://github.com/AlexxIT/go2rtc",
+  "title": "go2rtc",
+  "why": "Turns camera feeds from RTSP, RTMP, HomeKit and vendor clouds into browser-ready streams, with zero-delay on many protocols, from one binary.",
+  "keys": {
+    "races": [
+      "media/video",
+      "infra/networking"
+    ],
+    "lanes": [
+      "media/video",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AlexxIT/go2rtc",
+    "sha": "90f3fa0c870a5969993af36e105c238e3e96ba02",
+    "file_url": "https://cdn.jsdelivr.net/gh/AlexxIT/go2rtc@90f3fa0c870a5969993af36e105c238e3e96ba02/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 14748,
+    "size_mb": 18,
+    "created_at": "2022-08-18T06:16:48Z",
+    "last_commit_at": "2026-11-27T12:39:27Z",
+    "releases": 64,
+    "tags": 68,
+    "archived": false,
+    "release": {
+      "tag": "v1.9.15",
+      "at": "2026-10-25T12:30:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "90f3fa0c870a5969993af36e105c238e3e96ba02",
+    "v": 4
+  }
+}

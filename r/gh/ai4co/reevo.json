@@ -1,0 +1,86 @@
+{
+  "id": "gh:ai4co/reevo",
+  "kind": "repo",
+  "url": "https://github.com/ai4co/reevo",
+  "title": "reevo",
+  "why": "Has an LLM write heuristics for routing and packing problems, then evolves them with reflective search that scores each candidate on generated instances.",
+  "keys": {
+    "races": [
+      "logistics/route-optimization",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "logistics/route-optimization",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ai4co/reevo",
+    "sha": "6dce18257da5e11db2d138e417a2fffc5c72d05f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ai4co/reevo@6dce18257da5e11db2d138e417a2fffc5c72d05f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 311,
+    "size_mb": 27,
+    "created_at": "2023-11-20T13:10:50Z",
+    "last_commit_at": "2026-01-24T05:13:34Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6dce18257da5e11db2d138e417a2fffc5c72d05f",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2402.01145",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2401.02051",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2311.15249",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2205.13225",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

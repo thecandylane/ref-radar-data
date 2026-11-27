@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:7ca6e6cb03d7f65e0ba77cd926b9233d380a8bfa"
-  },
   "id": "gh:confident-ai/deepeval",
   "kind": "repo",
   "url": "https://github.com/confident-ai/deepeval",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/confident-ai/deepeval",
-    "sha": "7ca6e6cb03d7f65e0ba77cd926b9233d380a8bfa",
-    "file_url": "https://cdn.jsdelivr.net/gh/confident-ai/deepeval@7ca6e6cb03d7f65e0ba77cd926b9233d380a8bfa/{path}"
+    "sha": "125713992704a3c556166c72aae71298326a30e8",
+    "file_url": "https://cdn.jsdelivr.net/gh/confident-ai/deepeval@125713992704a3c556166c72aae71298326a30e8/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 19676,
+    "stars": 19703,
     "size_mb": 274,
     "created_at": "2023-08-10T05:35:04Z",
-    "last_commit_at": "2026-11-26T01:19:21Z",
+    "last_commit_at": "2026-11-27T07:04:56Z",
     "releases": 64,
     "tags": 362,
     "archived": false,
@@ -57,19 +54,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 103,
+    "star_delta_7d": 130,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "7ca6e6cb03d7f65e0ba77cd926b9233d380a8bfa",
-    "v": 4
-  },
   "pins_before": [
+    "7ca6e6cb03d7f65e0ba77cd926b9233d380a8bfa",
     "debe7955c0029add96f8340e38932ae62a77907c"
   ],
-  "pinned_at": "2026-11-19T04:24:36Z",
+  "pinned_at": "2026-11-27T07:04:56Z",
   "hot": true
 }

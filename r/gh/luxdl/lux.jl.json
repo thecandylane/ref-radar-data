@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:1a22be65fe13ad3e4f9a7a2e36c0f30b27df11b4"
+  },
   "id": "gh:luxdl/lux.jl",
   "kind": "repo",
   "url": "https://github.com/LuxDL/Lux.jl",
@@ -36,16 +39,16 @@
   "facts": {
     "lang": "Julia",
     "license": "MIT",
-    "stars": 742,
-    "size_mb": 526,
+    "stars": 743,
+    "size_mb": 524,
     "created_at": "2022-03-21T04:53:14Z",
-    "last_commit_at": "2026-11-26T04:34:54Z",
-    "releases": 508,
-    "tags": 546,
+    "last_commit_at": "2026-11-27T07:33:49Z",
+    "releases": 512,
+    "tags": 550,
     "archived": false,
     "release": {
-      "tag": "v1.32.5",
-      "at": "2026-11-26T05:16:27.000Z"
+      "tag": "v1.32.8",
+      "at": "2026-11-27T06:34:26.000Z"
     }
   },
   "reuse": "copy",
@@ -56,7 +59,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 1,
+    "star_delta_7d": 2,
     "votes": {},
     "ranks": {}
   },

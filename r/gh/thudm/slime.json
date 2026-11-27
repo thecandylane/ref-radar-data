@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:79aa41a884ab0bf65222c94418f6357d3c31192b"
-  },
   "id": "gh:thudm/slime",
   "kind": "repo",
   "url": "https://github.com/THUDM/slime",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/THUDM/slime",
-    "sha": "79aa41a884ab0bf65222c94418f6357d3c31192b",
-    "file_url": "https://cdn.jsdelivr.net/gh/THUDM/slime@79aa41a884ab0bf65222c94418f6357d3c31192b/{path}"
+    "sha": "e3b669fd1919b12e9c30749cbb11becfd6a271ce",
+    "file_url": "https://cdn.jsdelivr.net/gh/THUDM/slime@e3b669fd1919b12e9c30749cbb11becfd6a271ce/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 8876,
-    "size_mb": 396,
+    "stars": 8884,
+    "size_mb": 399,
     "created_at": "2025-06-18T07:15:54Z",
-    "last_commit_at": "2026-11-05T23:32:32Z",
+    "last_commit_at": "2026-11-27T08:04:26Z",
     "releases": 11,
     "tags": 11,
     "archived": false,
@@ -61,9 +58,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "79aa41a884ab0bf65222c94418f6357d3c31192b",
-    "v": 4
-  },
-  "pinned_at": "2026-11-05T23:32:32Z"
+  "pins_before": [
+    "79aa41a884ab0bf65222c94418f6357d3c31192b"
+  ],
+  "pinned_at": "2026-11-27T08:04:26Z"
 }

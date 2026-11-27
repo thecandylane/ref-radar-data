@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ebe7dfd1b20e0cfb957a4d287ac30fa80fcc81ca"
+  },
   "id": "gh:desktop/desktop",
   "kind": "repo",
   "url": "https://github.com/desktop/desktop",
@@ -28,18 +31,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/desktop/desktop",
-    "sha": "6c8a1907cd8d08915ace8faeec6c04b9622f594d",
-    "file_url": "https://cdn.jsdelivr.net/gh/desktop/desktop@6c8a1907cd8d08915ace8faeec6c04b9622f594d/{path}"
+    "sha": "ebe7dfd1b20e0cfb957a4d287ac30fa80fcc81ca",
+    "file_url": "https://cdn.jsdelivr.net/gh/desktop/desktop@ebe7dfd1b20e0cfb957a4d287ac30fa80fcc81ca/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 22144,
+    "stars": 22151,
     "size_mb": 115,
     "created_at": "2016-05-11T15:59:00Z",
-    "last_commit_at": "2026-11-26T08:48:10Z",
-    "releases": 270,
-    "tags": 884,
+    "last_commit_at": "2026-11-26T21:20:37Z",
+    "releases": 271,
+    "tags": 886,
     "archived": false,
     "release": {
       "tag": "release-3.7.0",
@@ -54,18 +57,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 19,
+    "star_delta_7d": 26,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "6c8a1907cd8d08915ace8faeec6c04b9622f594d",
-    "v": 4
-  },
   "pins_before": [
+    "6c8a1907cd8d08915ace8faeec6c04b9622f594d",
     "4d2dfa2232f204f3321f42443bf969c729403c89"
   ],
-  "pinned_at": "2026-11-19T08:23:12Z"
+  "pinned_at": "2026-11-26T21:20:37Z"
 }

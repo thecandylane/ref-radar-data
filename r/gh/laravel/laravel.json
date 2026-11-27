@@ -1,0 +1,65 @@
+{
+  "id": "gh:laravel/laravel",
+  "kind": "repo",
+  "url": "https://github.com/laravel/laravel",
+  "title": "laravel/laravel",
+  "why": "PHP framework with routing, an ORM, queues and broadcasting, and Laravel Boost that teaches coding agents its conventions.",
+  "keys": {
+    "races": [
+      "web/frameworks"
+    ],
+    "lanes": [
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/laravel/laravel",
+    "sha": "f32d7019cbd0ab0c378b3154c551d0c60c553ebc",
+    "file_url": "https://cdn.jsdelivr.net/gh/laravel/laravel@f32d7019cbd0ab0c378b3154c551d0c60c553ebc/{path}"
+  },
+  "facts": {
+    "lang": "Blade",
+    "license": "none",
+    "stars": 85488,
+    "size_mb": 11,
+    "created_at": "2011-06-08T03:06:08Z",
+    "last_commit_at": "2026-11-23T14:37:18Z",
+    "releases": 229,
+    "tags": 301,
+    "archived": false,
+    "release": {
+      "tag": "v13.11.0",
+      "at": "2026-10-06T14:27:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f32d7019cbd0ab0c378b3154c551d0c60c553ebc",
+    "v": 4
+  }
+}

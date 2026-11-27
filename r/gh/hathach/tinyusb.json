@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:f9461cf5a8dde29ea383d702932bfc7a1617e71f"
+    "swh": "swh:1:rev:1384420308d4dd2792e97a330f4a053270b1c684"
   },
   "id": "gh:hathach/tinyusb",
   "kind": "repo",
@@ -35,8 +35,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/hathach/tinyusb",
-    "sha": "f9461cf5a8dde29ea383d702932bfc7a1617e71f",
-    "file_url": "https://cdn.jsdelivr.net/gh/hathach/tinyusb@f9461cf5a8dde29ea383d702932bfc7a1617e71f/{path}"
+    "sha": "1384420308d4dd2792e97a330f4a053270b1c684",
+    "file_url": "https://cdn.jsdelivr.net/gh/hathach/tinyusb@1384420308d4dd2792e97a330f4a053270b1c684/{path}"
   },
   "facts": {
     "lang": "C",
@@ -67,12 +67,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "f9461cf5a8dde29ea383d702932bfc7a1617e71f",
-    "v": 4
-  },
   "pins_before": [
+    "f9461cf5a8dde29ea383d702932bfc7a1617e71f",
     "43991c20de9ac946d8061b1f8f4a87af8859c204"
   ],
-  "pinned_at": "2026-11-19T08:38:40Z"
+  "pinned_at": "2026-11-25T08:08:44Z"
 }

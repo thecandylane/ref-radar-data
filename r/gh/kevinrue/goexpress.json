@@ -1,0 +1,58 @@
+{
+  "id": "gh:kevinrue/goexpress",
+  "kind": "repo",
+  "url": "https://github.com/kevinrue/GOexpress",
+  "title": "GOexpress",
+  "why": "Charts expression of each gene across Gene Ontology terms, a Bioconductor package with release and devel builds.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kevinrue/GOexpress",
+    "sha": "1f9c4631c489a3594004b147715ff1796bf333b2",
+    "file_url": "https://cdn.jsdelivr.net/gh/kevinrue/GOexpress@1f9c4631c489a3594004b147715ff1796bf333b2/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 10,
+    "size_mb": 4,
+    "created_at": "2017-08-09T14:12:16Z",
+    "last_commit_at": "2025-09-03T13:40:13Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "1f9c4631c489a3594004b147715ff1796bf333b2",
+    "v": 4
+  }
+}

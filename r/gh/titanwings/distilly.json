@@ -35,7 +35,7 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 26883,
+    "stars": 26899,
     "size_mb": 21,
     "created_at": "2026-03-30T05:22:23Z",
     "last_commit_at": "2026-10-13T05:42:45Z",
@@ -58,5 +58,17 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pinned_at": "2026-10-13T05:42:45Z"
+  "pack": {
+    "sha": "0afc45c29c360ba7bc8260f1bb0bf34e9155f4fa",
+    "v": 4
+  },
+  "pinned_at": "2026-10-13T05:42:45Z",
+  "papers": [
+    {
+      "id": "arxiv:2605.31264",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
 }

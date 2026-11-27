@@ -1,0 +1,60 @@
+{
+  "id": "gh:corelight/zeek-spicy-stun",
+  "kind": "repo",
+  "url": "https://github.com/corelight/zeek-spicy-stun",
+  "title": "zeek-spicy-stun",
+  "why": "Pulls STUN binding traffic out of pcap captures into logs, so NAT mappings show up beside the normal conn log.",
+  "keys": {
+    "races": [
+      "netsec/capture",
+      "netsec/ids"
+    ],
+    "lanes": [
+      "netsec/capture",
+      "netsec/ids"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Readme.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/corelight/zeek-spicy-stun",
+    "sha": "9d44d900727e94589925458c95fab85f1744a61e",
+    "file_url": "https://cdn.jsdelivr.net/gh/corelight/zeek-spicy-stun@9d44d900727e94589925458c95fab85f1744a61e/{path}"
+  },
+  "facts": {
+    "lang": "Zeek",
+    "license": "BSD-3-Clause",
+    "stars": 5,
+    "size_mb": 1,
+    "created_at": "2021-11-23T18:53:04Z",
+    "last_commit_at": "2025-08-20T14:11:43Z",
+    "releases": 0,
+    "tags": 15,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "9d44d900727e94589925458c95fab85f1744a61e",
+    "v": 4
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "gh:google/json5format",
+  "kind": "repo",
+  "url": "https://github.com/google/json5format",
+  "title": "json5format",
+  "why": "Rust formatter for JSON5 files that keeps line and block comments in place, with a formatjson5 command for indent and trailing commas.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/google/json5format",
+    "sha": "25a594b7daacb4605241dc8d63e7c36411208c87",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/json5format@25a594b7daacb4605241dc8d63e7c36411208c87/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "BSD-3-Clause",
+    "stars": 120,
+    "size_mb": 0,
+    "created_at": "2020-04-22T18:45:13Z",
+    "last_commit_at": "2024-01-29T18:02:17Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v0.2.4",
+      "at": "2022-01-21T18:43:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "25a594b7daacb4605241dc8d63e7c36411208c87",
+    "v": 4
+  }
+}

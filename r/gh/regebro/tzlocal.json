@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:eeec91f748c2d36825b6e5aaa7a36a42241da512"
+  },
   "id": "gh:regebro/tzlocal",
   "kind": "repo",
   "url": "https://github.com/regebro/tzlocal",
@@ -46,5 +49,10 @@
     "ranks": {}
   },
   "tier": "discovered",
-  "drafted": true
+  "drafted": true,
+  "pack": {
+    "sha": "eeec91f748c2d36825b6e5aaa7a36a42241da512",
+    "v": 4
+  },
+  "pinned_at": "2026-10-22T09:09:33Z"
 }

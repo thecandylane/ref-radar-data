@@ -1,0 +1,67 @@
+{
+  "id": "gh:ignited/laravel-omnipay",
+  "kind": "repo",
+  "url": "https://github.com/ignited/laravel-omnipay",
+  "title": "laravel-omnipay",
+  "why": "Configures several payment gateways in one Laravel or Lumen config file, then picks one per call with setGateway.",
+  "keys": {
+    "races": [
+      "finance/payments",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "finance/payments",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ignited/laravel-omnipay",
+    "sha": "80e7b66d0662b91c746cc437bff01aa928aa9126",
+    "file_url": "https://cdn.jsdelivr.net/gh/ignited/laravel-omnipay@80e7b66d0662b91c746cc437bff01aa928aa9126/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 514,
+    "size_mb": 0,
+    "created_at": "2013-10-18T00:10:37Z",
+    "last_commit_at": "2026-04-22T09:06:33Z",
+    "releases": 14,
+    "tags": 19,
+    "archived": false,
+    "release": {
+      "tag": "3.8.0",
+      "at": "2026-04-22T09:07:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "80e7b66d0662b91c746cc437bff01aa928aa9126",
+    "v": 4
+  }
+}

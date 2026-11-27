@@ -44,10 +44,10 @@
   "facts": {
     "lang": "Rust",
     "license": "AGPL-3.0",
-    "stars": 6527,
-    "size_mb": 3936,
+    "stars": 6554,
+    "size_mb": 3946,
     "created_at": "2025-11-08T15:18:27Z",
-    "last_commit_at": "2026-11-26T08:38:43Z",
+    "last_commit_at": "2026-11-27T08:52:55Z",
     "releases": 291,
     "tags": 313,
     "archived": false,
@@ -70,6 +70,10 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "62d0cdd5a1e67bd26069159518566986517d4752",
+    "v": 4
+  },
   "pins_before": [
     "580d91ac1c6c648d9e71919183f14a6f8c0b55e5"
   ],

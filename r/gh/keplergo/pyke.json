@@ -1,0 +1,61 @@
+{
+  "id": "gh:keplergo/pyke",
+  "kind": "repo",
+  "url": "https://github.com/KeplerGO/pyke",
+  "title": "pyke",
+  "why": "Command line tools that reduce and plot Kepler, K2 and TESS light curves, with the older PyRAF route left as an install option.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/KeplerGO/pyke",
+    "sha": "c74a62e48e3cf1ea367524656cd836283c5ddd94",
+    "file_url": "https://cdn.jsdelivr.net/gh/KeplerGO/pyke@c74a62e48e3cf1ea367524656cd836283c5ddd94/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 121,
+    "size_mb": 24,
+    "created_at": "2015-06-25T05:02:07Z",
+    "last_commit_at": "2017-07-28T18:06:06Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v3.1.0",
+      "at": "2018-01-26T04:02:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c74a62e48e3cf1ea367524656cd836283c5ddd94",
+    "v": 4
+  }
+}

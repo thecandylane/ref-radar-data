@@ -1,0 +1,65 @@
+{
+  "id": "gh:alibaba/nacos",
+  "kind": "repo",
+  "url": "https://github.com/alibaba/nacos",
+  "title": "nacos",
+  "why": "Holds service configuration that updates without redeploys, and serves as a registry for services alongside MCP and A2A agents.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "agents/tools",
+      "infra/kubernetes"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/alibaba/nacos",
+    "sha": "9a5c29a48f453630e6e49aa8223551a423220f00",
+    "file_url": "https://cdn.jsdelivr.net/gh/alibaba/nacos@9a5c29a48f453630e6e49aa8223551a423220f00/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 33544,
+    "size_mb": 112,
+    "created_at": "2018-06-15T06:49:27Z",
+    "last_commit_at": "2026-11-26T11:54:08Z",
+    "releases": 103,
+    "tags": 106,
+    "archived": false,
+    "release": {
+      "tag": "3.3.0",
+      "at": "2026-10-29T11:07:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "9a5c29a48f453630e6e49aa8223551a423220f00",
+    "v": 4
+  }
+}

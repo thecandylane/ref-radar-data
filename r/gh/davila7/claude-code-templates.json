@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:2a104d81976267e26f31db66901b83f1c97a41df"
+  },
   "id": "gh:davila7/claude-code-templates",
   "kind": "repo",
   "url": "https://github.com/davila7/claude-code-templates",
@@ -33,10 +36,10 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 34219,
-    "size_mb": 308,
+    "stars": 34236,
+    "size_mb": 311,
     "created_at": "2025-07-04T01:26:26Z",
-    "last_commit_at": "2026-11-26T03:09:36Z",
+    "last_commit_at": "2026-11-27T03:12:06Z",
     "releases": 22,
     "tags": 43,
     "archived": false,
@@ -59,6 +62,10 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "2a104d81976267e26f31db66901b83f1c97a41df",
+    "v": 4
+  },
   "pins_before": [
     "c4de112c9a0043261861dc55d92168eeb80b3127"
   ],

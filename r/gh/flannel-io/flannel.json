@@ -1,0 +1,71 @@
+{
+  "id": "gh:flannel-io/flannel",
+  "kind": "repo",
+  "url": "https://github.com/flannel-io/flannel",
+  "title": "flannel",
+  "why": "Gives each host a subnet lease and forwards pod traffic between nodes over VXLAN or cloud backends, storing config in the Kubernetes API.",
+  "keys": {
+    "races": [
+      "infra/kubernetes",
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/kubernetes",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/flannel-io/flannel",
+    "sha": "87f7078166efaa224a92da5aae254ee9649729a5",
+    "file_url": "https://cdn.jsdelivr.net/gh/flannel-io/flannel@87f7078166efaa224a92da5aae254ee9649729a5/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 9569,
+    "size_mb": 65,
+    "created_at": "2014-07-10T17:45:29Z",
+    "last_commit_at": "2026-11-24T17:05:10Z",
+    "releases": 97,
+    "tags": 107,
+    "archived": false,
+    "release": {
+      "tag": "v0.28.11",
+      "at": "2026-11-19T17:08:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "87f7078166efaa224a92da5aae254ee9649729a5",
+    "v": 4
+  }
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:012e9920d0e2f3619c9b2e822fcae8b182ca38f3"
+  },
   "id": "gh:activiti/activiti",
   "kind": "repo",
   "url": "https://github.com/Activiti/Activiti",
@@ -33,7 +36,7 @@
     "created_at": "2012-09-13T11:34:43Z",
     "last_commit_at": "2026-11-26T07:09:25Z",
     "releases": 1000,
-    "tags": 3629,
+    "tags": 3633,
     "archived": false,
     "release": {
       "tag": "8.8.2",
@@ -54,6 +57,10 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "012e9920d0e2f3619c9b2e822fcae8b182ca38f3",
+    "v": 4
+  },
   "pins_before": [
     "610f3e785dbce2ce7e35e0836e311d5777cc2de5"
   ],

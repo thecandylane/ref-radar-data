@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:bd7a182eb85f04fd48884c7639da89bd8fb1d5d5"
+  },
   "id": "gh:ampproject/amphtml",
   "kind": "repo",
   "url": "https://github.com/ampproject/amphtml",
@@ -60,5 +63,9 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "bd7a182eb85f04fd48884c7639da89bd8fb1d5d5",
+    "v": 4
+  },
   "pinned_at": "2026-11-25T00:33:22Z"
 }

@@ -1,0 +1,65 @@
+{
+  "id": "gh:jobovy/extreme-deconvolution",
+  "kind": "repo",
+  "url": "https://github.com/jobovy/extreme-deconvolution",
+  "title": "extreme-deconvolution",
+  "why": "Runs EM for Gaussian mixture fits, with split and merge steps in C and a Python entry point for the same routine.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jobovy/extreme-deconvolution",
+    "sha": "f8c6a6a99e8fc4c4600a278aa027f4c0faa77d75",
+    "file_url": "https://cdn.jsdelivr.net/gh/jobovy/extreme-deconvolution@f8c6a6a99e8fc4c4600a278aa027f4c0faa77d75/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 85,
+    "size_mb": 1,
+    "created_at": "2014-01-17T22:37:24Z",
+    "last_commit_at": "2026-10-28T03:20:30Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "1.4",
+      "at": "2014-01-17T23:29:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "f8c6a6a99e8fc4c4600a278aa027f4c0faa77d75",
+    "v": 4
+  }
+}

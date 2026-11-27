@@ -1,0 +1,63 @@
+{
+  "id": "gh:cosmicrays/dragon",
+  "kind": "repo",
+  "url": "https://github.com/cosmicrays/DRAGON",
+  "title": "DRAGON",
+  "why": "Solves galactic cosmic-ray diffusion via operator splitting, with a slower ADI scheme for very accurate runs.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cosmicrays/DRAGON",
+    "sha": "4a5d9c3189b3724dd4b137ebbc14a5b965768277",
+    "file_url": "https://cdn.jsdelivr.net/gh/cosmicrays/DRAGON@4a5d9c3189b3724dd4b137ebbc14a5b965768277/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-2.0",
+    "stars": 18,
+    "size_mb": 1,
+    "created_at": "2016-07-27T15:07:10Z",
+    "last_commit_at": "2020-04-29T09:34:09Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0",
+      "at": "2016-08-23T19:47:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "4a5d9c3189b3724dd4b137ebbc14a5b965768277",
+    "v": 4
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "gh:plgd-dev/go-coap",
+  "kind": "repo",
+  "url": "https://github.com/plgd-dev/go-coap",
+  "title": "go-coap",
+  "why": "Gives Go code CoAP clients and servers over UDP, TCP and DTLS, with routing by path and message handlers.",
+  "keys": {
+    "races": [
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/plgd-dev/go-coap",
+    "sha": "ff00b44911fa9d8d7e7c849608bbd830e89612e1",
+    "file_url": "https://cdn.jsdelivr.net/gh/plgd-dev/go-coap@ff00b44911fa9d8d7e7c849608bbd830e89612e1/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 525,
+    "size_mb": 2,
+    "created_at": "2018-06-01T08:43:15Z",
+    "last_commit_at": "2026-11-26T10:12:32Z",
+    "releases": 52,
+    "tags": 52,
+    "archived": false,
+    "release": {
+      "tag": "v3.9.1",
+      "at": "2026-11-25T12:51:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "ff00b44911fa9d8d7e7c849608bbd830e89612e1",
+    "v": 4
+  }
+}

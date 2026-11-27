@@ -1,0 +1,65 @@
+{
+  "id": "gh:stleary/json-java",
+  "kind": "repo",
+  "url": "https://github.com/stleary/JSON-java",
+  "title": "JSON-java",
+  "why": "Java JSON library covering parsing, building, XML conversion and JSONPointer lookups, with strict mode and nesting depth limits.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/stleary/JSON-java",
+    "sha": "1582e72dc54001f5c3847f64acb3209191dbe00d",
+    "file_url": "https://cdn.jsdelivr.net/gh/stleary/JSON-java@1582e72dc54001f5c3847f64acb3209191dbe00d/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "NOASSERTION",
+    "stars": 4728,
+    "size_mb": 3,
+    "created_at": "2010-12-21T17:46:09Z",
+    "last_commit_at": "2026-11-21T18:06:39Z",
+    "releases": 28,
+    "tags": 28,
+    "archived": false,
+    "release": {
+      "tag": "20260814",
+      "at": "2026-08-14T16:15:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "1582e72dc54001f5c3847f64acb3209191dbe00d",
+    "v": 4
+  }
+}

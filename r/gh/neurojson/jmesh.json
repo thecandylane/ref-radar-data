@@ -1,0 +1,68 @@
+{
+  "id": "gh:neurojson/jmesh",
+  "kind": "repo",
+  "url": "https://github.com/NeuroJSON/jmesh",
+  "title": "jmesh",
+  "why": "Collects comments on the JMesh spec draft, and its MATLAB lib and apps show how to read and write mesh files in JSON.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NeuroJSON/jmesh",
+    "sha": "6d1eccbf0857fefd5dcd50c8726e808958cbaa15",
+    "file_url": "https://cdn.jsdelivr.net/gh/NeuroJSON/jmesh@6d1eccbf0857fefd5dcd50c8726e808958cbaa15/{path}"
+  },
+  "facts": {
+    "lang": "MATLAB",
+    "license": "Apache-2.0",
+    "stars": 6,
+    "size_mb": 0,
+    "created_at": "2019-06-03T21:52:32Z",
+    "last_commit_at": "2025-08-24T21:56:00Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6d1eccbf0857fefd5dcd50c8726e808958cbaa15",
+    "v": 4
+  }
+}

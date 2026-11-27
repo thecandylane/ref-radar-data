@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5e88325af35a70f4377af8da797f2eaaa0e34488"
-  },
   "id": "gh:tidyomics/plyranges",
   "kind": "repo",
   "url": "https://github.com/tidyomics/plyranges",
@@ -27,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/tidyomics/plyranges",
-    "sha": "5e88325af35a70f4377af8da797f2eaaa0e34488",
-    "file_url": "https://cdn.jsdelivr.net/gh/tidyomics/plyranges@5e88325af35a70f4377af8da797f2eaaa0e34488/{path}"
+    "sha": "d6cb2e9e49479a65a70a7e062bc08ac36cc79880",
+    "file_url": "https://cdn.jsdelivr.net/gh/tidyomics/plyranges@d6cb2e9e49479a65a70a7e062bc08ac36cc79880/{path}"
   },
   "facts": {
     "lang": "R",
@@ -36,7 +33,7 @@
     "stars": 156,
     "size_mb": 5,
     "created_at": "2017-08-28T05:12:39Z",
-    "last_commit_at": "2026-07-30T15:23:34Z",
+    "last_commit_at": "2026-11-27T00:30:50Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -56,9 +53,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "5e88325af35a70f4377af8da797f2eaaa0e34488",
-    "v": 4
-  },
-  "pinned_at": "2026-07-30T15:23:34Z"
+  "pins_before": [
+    "5e88325af35a70f4377af8da797f2eaaa0e34488"
+  ],
+  "pinned_at": "2026-11-27T00:30:50Z"
 }

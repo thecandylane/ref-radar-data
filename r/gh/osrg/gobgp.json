@@ -1,0 +1,73 @@
+{
+  "id": "gh:osrg/gobgp",
+  "kind": "repo",
+  "url": "https://github.com/osrg/gobgp",
+  "title": "gobgp",
+  "why": "Runs a BGP daemon with a grpc API and a matching gobgp command line, covering rpki, bfd, bmp and mrt dumps.",
+  "keys": {
+    "races": [
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/osrg/gobgp",
+    "sha": "2a9eb2209c372105d6900d12142c46664b09728b",
+    "file_url": "https://cdn.jsdelivr.net/gh/osrg/gobgp@2a9eb2209c372105d6900d12142c46664b09728b/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 4121,
+    "size_mb": 24,
+    "created_at": "2014-09-14T01:51:58Z",
+    "last_commit_at": "2026-11-26T08:52:37Z",
+    "releases": 100,
+    "tags": 123,
+    "archived": false,
+    "release": {
+      "tag": "v4.11.0",
+      "at": "2026-11-01T03:49:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "2a9eb2209c372105d6900d12142c46664b09728b",
+    "v": 4
+  }
+}

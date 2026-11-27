@@ -1,0 +1,60 @@
+{
+  "id": "gh:roberthynes/binsim",
+  "kind": "repo",
+  "url": "https://github.com/RobertHynes/binsim",
+  "title": "binsim",
+  "why": "Draws binary star systems with a donor, disc and stream in OpenGL, driven by one parameter file, though not for light curves.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "games/graphics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/RobertHynes/binsim",
+    "sha": "3adebd631d820d3caa5d0ef0030f14b3d9b865e7",
+    "file_url": "https://cdn.jsdelivr.net/gh/RobertHynes/binsim@3adebd631d820d3caa5d0ef0030f14b3d9b865e7/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-3.0",
+    "stars": 3,
+    "size_mb": 0,
+    "created_at": "2025-06-06T21:18:29Z",
+    "last_commit_at": "2025-09-09T01:26:09Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "3adebd631d820d3caa5d0ef0030f14b3d9b865e7",
+    "v": 4
+  }
+}

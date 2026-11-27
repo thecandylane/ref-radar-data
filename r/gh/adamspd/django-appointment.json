@@ -22,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/adamspd/django-appointment",
-    "sha": "2e6d42e81c16e7c5c6da5b24752b08abe5bf0ff5",
-    "file_url": "https://cdn.jsdelivr.net/gh/adamspd/django-appointment@2e6d42e81c16e7c5c6da5b24752b08abe5bf0ff5/{path}"
+    "sha": "a00ff63690334cf30dace56e05f457aa5684af63",
+    "file_url": "https://cdn.jsdelivr.net/gh/adamspd/django-appointment@a00ff63690334cf30dace56e05f457aa5684af63/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -31,7 +31,7 @@
     "stars": 284,
     "size_mb": 14,
     "created_at": "2023-04-23T07:32:02Z",
-    "last_commit_at": "2026-11-25T13:46:07Z",
+    "last_commit_at": "2026-11-26T13:46:11Z",
     "releases": 48,
     "tags": 50,
     "archived": false,
@@ -54,11 +54,16 @@
   },
   "tier": "discovered",
   "drafted": true,
+  "pack": {
+    "sha": "a00ff63690334cf30dace56e05f457aa5684af63",
+    "v": 4
+  },
   "pins_before": [
+    "2e6d42e81c16e7c5c6da5b24752b08abe5bf0ff5",
     "6b7ccbbb0abe6dab9b81b4d5bbd5df6a91e6929c",
     "165920f93634dacdf00648f67ea829ba2904f70a",
     "f7c3cf0d3effa305f2526fa71c2d321039d42dc5",
     "2c394abdcf545b707e7cd4edc15f22bdb056c197"
   ],
-  "pinned_at": "2026-11-26T09:53:02Z"
+  "pinned_at": "2026-11-26T13:46:11Z"
 }

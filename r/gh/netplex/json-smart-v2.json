@@ -1,0 +1,61 @@
+{
+  "id": "gh:netplex/json-smart-v2",
+  "kind": "repo",
+  "url": "https://github.com/netplex/json-smart-v2",
+  "title": "json-smart-v2",
+  "why": "Parses and writes JSON in Java, plus accessors-smart code that generates fast bean field access.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/netplex/json-smart-v2",
+    "sha": "73f4999af81b27f1a3c8c1b412e916626e1de527",
+    "file_url": "https://cdn.jsdelivr.net/gh/netplex/json-smart-v2@73f4999af81b27f1a3c8c1b412e916626e1de527/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 172,
+    "size_mb": 1,
+    "created_at": "2014-05-30T08:01:55Z",
+    "last_commit_at": "2026-11-23T07:06:00Z",
+    "releases": 9,
+    "tags": 12,
+    "archived": false,
+    "release": {
+      "tag": "v2.6.0",
+      "at": "2025-08-06T13:16:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "73f4999af81b27f1a3c8c1b412e916626e1de527",
+    "v": 4
+  }
+}

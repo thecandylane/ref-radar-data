@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:2d66cc208b6f4c747a0e463ce404df87744d0c80"
-  },
   "id": "gh:azure/azure-sentinel",
   "kind": "repo",
   "url": "https://github.com/Azure/Azure-Sentinel",
@@ -25,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Azure/Azure-Sentinel",
-    "sha": "2d66cc208b6f4c747a0e463ce404df87744d0c80",
-    "file_url": "https://raw.githubusercontent.com/Azure/Azure-Sentinel/2d66cc208b6f4c747a0e463ce404df87744d0c80/{path}"
+    "sha": "bf0cb5c7bfa8baa60da7fecef51f78804c600cb1",
+    "file_url": "https://raw.githubusercontent.com/Azure/Azure-Sentinel/bf0cb5c7bfa8baa60da7fecef51f78804c600cb1/{path}"
   },
   "facts": {
     "lang": "HTML",
     "license": "MIT",
     "stars": 6273,
-    "size_mb": 11706,
+    "size_mb": 11710,
     "created_at": "2018-08-18T02:25:15Z",
-    "last_commit_at": "2026-11-26T09:04:04Z",
+    "last_commit_at": "2026-11-27T07:49:27Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -54,12 +51,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "2d66cc208b6f4c747a0e463ce404df87744d0c80",
-    "v": 4
-  },
   "pins_before": [
+    "2d66cc208b6f4c747a0e463ce404df87744d0c80",
     "724d3954767a855bf2794a668d349def74562ecd"
   ],
-  "pinned_at": "2026-11-19T07:50:40Z"
+  "pinned_at": "2026-11-27T07:49:27Z"
 }

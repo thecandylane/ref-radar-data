@@ -1,0 +1,186 @@
+{
+  "id": "gh:coqui-ai/tts",
+  "kind": "repo",
+  "url": "https://github.com/coqui-ai/TTS",
+  "title": "TTS",
+  "why": "Pretrained text-to-speech models for +1100 languages, plus tools to train or fine-tune your own voices in Python.",
+  "keys": {
+    "races": [
+      "media/speech"
+    ],
+    "lanes": [
+      "media/speech"
+    ],
+    "capabilities": [
+      "media/speech/text-to-speech",
+      "media/speech/voice-cloning"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/coqui-ai/TTS",
+    "sha": "dbf1a08a0d4e47fdad6172e433eeb34bc6b13b4e",
+    "file_url": "https://cdn.jsdelivr.net/gh/coqui-ai/TTS@dbf1a08a0d4e47fdad6172e433eeb34bc6b13b4e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MPL-2.0",
+    "stars": 46288,
+    "size_mb": 166,
+    "created_at": "2020-05-20T15:45:28Z",
+    "last_commit_at": "2024-02-10T14:20:58Z",
+    "releases": 98,
+    "tags": 98,
+    "archived": false,
+    "release": {
+      "tag": "v0.22.0",
+      "at": "2023-12-12T15:11:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "dbf1a08a0d4e47fdad6172e433eeb34bc6b13b4e",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2211.06892",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2112.02418",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2108.13320",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2108.10447",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2106.07889",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2106.06103",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2104.05557",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2009.00713",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2008.03802",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2006.06873",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2006.04558",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2005.11129",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2005.05106",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2003.11982",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2003.01950",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1910.11480",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1910.10288",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1910.06711",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1907.09006",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1905.09263",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

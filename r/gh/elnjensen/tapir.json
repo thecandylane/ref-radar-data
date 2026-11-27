@@ -1,0 +1,58 @@
+{
+  "id": "gh:elnjensen/tapir",
+  "kind": "repo",
+  "url": "https://github.com/elnjensen/Tapir",
+  "title": "Tapir",
+  "why": "Turns a target list into nightly transit tables with links to finding charts and airmass graphs, served through a CGI form.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/elnjensen/Tapir",
+    "sha": "dd08869fa142f1a90a6a4973b3cd38d1376fdc56",
+    "file_url": "https://cdn.jsdelivr.net/gh/elnjensen/Tapir@dd08869fa142f1a90a6a4973b3cd38d1376fdc56/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "GPL-3.0",
+    "stars": 17,
+    "size_mb": 1,
+    "created_at": "2012-12-12T22:26:41Z",
+    "last_commit_at": "2026-04-15T18:56:37Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "dd08869fa142f1a90a6a4973b3cd38d1376fdc56",
+    "v": 4
+  }
+}

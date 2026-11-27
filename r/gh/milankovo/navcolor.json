@@ -1,0 +1,63 @@
+{
+  "id": "gh:milankovo/navcolor",
+  "kind": "repo",
+  "url": "https://github.com/milankovo/navcolor",
+  "title": "navcolor",
+  "why": "Adds a colorizer that paints the navigation bar and asks for a color when activated, for quick reading of a binary.",
+  "keys": {
+    "races": [
+      "cyber/reversing"
+    ],
+    "lanes": [
+      "cyber/reversing"
+    ],
+    "capabilities": [
+      "cyber/reversing/disassemblers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/milankovo/navcolor",
+    "sha": "fd18635917b6997e31ad417663d6f1e260c63179",
+    "file_url": "https://cdn.jsdelivr.net/gh/milankovo/navcolor@fd18635917b6997e31ad417663d6f1e260c63179/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 29,
+    "size_mb": 0,
+    "created_at": "2024-09-14T22:06:41Z",
+    "last_commit_at": "2026-01-17T16:48:24Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.3",
+      "at": "2026-01-17T16:48:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "fd18635917b6997e31ad417663d6f1e260c63179",
+    "v": 4
+  }
+}

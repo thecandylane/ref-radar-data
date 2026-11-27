@@ -1,0 +1,63 @@
+{
+  "id": "gh:trinker/qdapdictionaries",
+  "kind": "repo",
+  "url": "https://github.com/trinker/qdapDictionaries",
+  "title": "qdapDictionaries",
+  "why": "Ships the word lists and dictionaries that qdap uses for text analysis in R, installed as its own package.",
+  "keys": {
+    "races": [
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/datasets"
+    ],
+    "capabilities": [
+      "data/datasets/dataset-lists"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/trinker/qdapDictionaries",
+    "sha": "8ade9fdb03d77be87f345654cdd55b9c1f464f1e",
+    "file_url": "https://cdn.jsdelivr.net/gh/trinker/qdapDictionaries@8ade9fdb03d77be87f345654cdd55b9c1f464f1e/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "none",
+    "stars": 4,
+    "size_mb": 9,
+    "created_at": "2013-07-21T15:51:56Z",
+    "last_commit_at": "2018-03-04T19:12:01Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "version1.0.5",
+      "at": "2015-04-07T22:15:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "8ade9fdb03d77be87f345654cdd55b9c1f464f1e",
+    "v": 4
+  }
+}

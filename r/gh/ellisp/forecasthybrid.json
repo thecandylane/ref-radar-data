@@ -1,0 +1,65 @@
+{
+  "id": "gh:ellisp/forecasthybrid",
+  "kind": "repo",
+  "url": "https://github.com/ellisp/forecastHybrid",
+  "title": "forecastHybrid",
+  "why": "Combines auto.arima, ets, tbats and nnetar models into one ensemble forecast in R, weighted equally or by chosen weights.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ellisp/forecastHybrid",
+    "sha": "471266726a31f5173e60ac92a54f18b430ffe45c",
+    "file_url": "https://cdn.jsdelivr.net/gh/ellisp/forecastHybrid@471266726a31f5173e60ac92a54f18b430ffe45c/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 81,
+    "size_mb": 2,
+    "created_at": "2016-02-20T21:40:13Z",
+    "last_commit_at": "2026-04-05T17:10:34Z",
+    "releases": 11,
+    "tags": 20,
+    "archived": false,
+    "release": {
+      "tag": "5.1.21",
+      "at": "2026-04-05T15:27:02.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "471266726a31f5173e60ac92a54f18b430ffe45c",
+    "v": 4
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "gh:compnet/netvotes",
+  "kind": "repo",
+  "url": "https://github.com/CompNet/NetVotes",
+  "title": "NetVotes",
+  "why": "Turns European Parliament vote records into weighted networks and runs graph partitioning on them, with R scripts that also plot the results.",
+  "keys": {
+    "races": [
+      "civic/legislative-data",
+      "data/statistics"
+    ],
+    "lanes": [
+      "civic/legislative-data",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CompNet/NetVotes",
+    "sha": "e0ef32e7617d78edde288a5e2b45a54975b63869",
+    "file_url": "https://cdn.jsdelivr.net/gh/CompNet/NetVotes@e0ef32e7617d78edde288a5e2b45a54975b63869/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-2.0",
+    "stars": 3,
+    "size_mb": 47,
+    "created_at": "2015-06-22T16:37:53Z",
+    "last_commit_at": "2026-07-10T07:24:25Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v2",
+      "at": "2019-07-11T10:01:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e0ef32e7617d78edde288a5e2b45a54975b63869",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:1712.10157",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1507.04215",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

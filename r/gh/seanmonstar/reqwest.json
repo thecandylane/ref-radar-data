@@ -1,0 +1,61 @@
+{
+  "id": "gh:seanmonstar/reqwest",
+  "kind": "repo",
+  "url": "https://github.com/seanmonstar/reqwest",
+  "title": "reqwest",
+  "why": "Gives Rust code async and blocking clients with JSON, multipart and cookie store support, and rustls TLS by default.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/seanmonstar/reqwest",
+    "sha": "11ea959bc35f0b221afff7277ccc2388b05752b8",
+    "file_url": "https://cdn.jsdelivr.net/gh/seanmonstar/reqwest@11ea959bc35f0b221afff7277ccc2388b05752b8/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 11962,
+    "size_mb": 3,
+    "created_at": "2016-07-01T00:23:08Z",
+    "last_commit_at": "2026-11-23T19:12:39Z",
+    "releases": 119,
+    "tags": 124,
+    "archived": false,
+    "release": {
+      "tag": "v0.13.5",
+      "at": "2026-09-08T20:57:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "11ea959bc35f0b221afff7277ccc2388b05752b8",
+    "v": 4
+  }
+}

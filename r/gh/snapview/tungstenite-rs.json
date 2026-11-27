@@ -1,0 +1,62 @@
+{
+  "id": "gh:snapview/tungstenite-rs",
+  "kind": "repo",
+  "url": "https://github.com/snapview/tungstenite-rs",
+  "title": "tungstenite-rs",
+  "why": "Handles the WebSocket handshake and frames over plain or TLS sockets, with fuzz targets and Autobahn test scripts.",
+  "keys": {
+    "races": [
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/snapview/tungstenite-rs",
+    "sha": "0110ba3bcd13f68624f15190a238045ff73fb8cf",
+    "file_url": "https://cdn.jsdelivr.net/gh/snapview/tungstenite-rs@0110ba3bcd13f68624f15190a238045ff73fb8cf/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 2407,
+    "size_mb": 1,
+    "created_at": "2017-03-17T15:38:17Z",
+    "last_commit_at": "2026-11-21T02:07:15Z",
+    "releases": 0,
+    "tags": 50,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "0110ba3bcd13f68624f15190a238045ff73fb8cf",
+    "v": 4
+  }
+}

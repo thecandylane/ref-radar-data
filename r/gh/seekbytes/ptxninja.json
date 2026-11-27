@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:2c05f3df2c04d052614f29caac9a80cddf86a06e"
+  },
   "id": "gh:seekbytes/ptxninja",
   "kind": "repo",
   "url": "https://github.com/seekbytes/ptxNinja",
@@ -55,5 +58,10 @@
     "ranks": {}
   },
   "tier": "discovered",
-  "drafted": true
+  "drafted": true,
+  "pack": {
+    "sha": "2c05f3df2c04d052614f29caac9a80cddf86a06e",
+    "v": 4
+  },
+  "pinned_at": "2026-03-06T18:00:21Z"
 }

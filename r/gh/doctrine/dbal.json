@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:075fe19b1135cb02dd1ec1d46ea338210653ba62"
+  },
   "id": "gh:doctrine/dbal",
   "kind": "repo",
   "url": "https://github.com/doctrine/dbal",
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "PHP",
     "license": "MIT",
-    "stars": 9701,
+    "stars": 9702,
     "size_mb": 45,
     "created_at": "2010-05-20T17:01:42Z",
-    "last_commit_at": "2026-11-26T09:06:37Z",
+    "last_commit_at": "2026-11-27T02:35:47Z",
     "releases": 150,
     "tags": 209,
     "archived": false,
@@ -57,5 +60,9 @@
     "ranks": {}
   },
   "tier": "curated",
-  "drafted": true
+  "drafted": true,
+  "pack": {
+    "sha": "075fe19b1135cb02dd1ec1d46ea338210653ba62",
+    "v": 4
+  }
 }

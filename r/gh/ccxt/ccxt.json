@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:10dddd1a926603da96a8fd04984415035d4c2437"
+  },
   "id": "gh:ccxt/ccxt",
   "kind": "repo",
   "url": "https://github.com/ccxt/ccxt",
@@ -32,10 +35,10 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 44997,
-    "size_mb": 8830,
+    "stars": 45005,
+    "size_mb": 8834,
     "created_at": "2017-05-14T15:41:56Z",
-    "last_commit_at": "2026-11-26T07:22:33Z",
+    "last_commit_at": "2026-11-27T08:37:17Z",
     "releases": 269,
     "tags": 721,
     "archived": false,
@@ -58,6 +61,10 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "10dddd1a926603da96a8fd04984415035d4c2437",
+    "v": 4
+  },
   "pins_before": [
     "00887d6e8837be4632ae0dd2fed08085f6958b58"
   ],

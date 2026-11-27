@@ -1,0 +1,64 @@
+{
+  "id": "gh:timmbogner/farm-data-relay-system",
+  "kind": "repo",
+  "url": "https://github.com/timmbogner/Farm-Data-Relay-System",
+  "title": "Farm-Data-Relay-System",
+  "why": "Passes sensor readings from remote ESP-NOW and LoRa nodes through repeaters to an MQTT or UART gateway, with no WiFi or LoRaWAN coverage needed.",
+  "keys": {
+    "races": [
+      "embedded/firmware",
+      "infra/networking"
+    ],
+    "lanes": [
+      "embedded/firmware",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/timmbogner/Farm-Data-Relay-System",
+    "sha": "70f5ede9450d239740552226c553b102ed0a7e2d",
+    "file_url": "https://cdn.jsdelivr.net/gh/timmbogner/Farm-Data-Relay-System@70f5ede9450d239740552226c553b102ed0a7e2d/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 633,
+    "size_mb": 6,
+    "created_at": "2020-12-18T01:54:55Z",
+    "last_commit_at": "2026-01-29T16:48:14Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "70f5ede9450d239740552226c553b102ed0a7e2d",
+    "v": 4
+  }
+}

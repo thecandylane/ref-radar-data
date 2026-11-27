@@ -1,0 +1,62 @@
+{
+  "id": "gh:allinnell/binsyn",
+  "kind": "repo",
+  "url": "https://github.com/AlLinnell/Binsyn",
+  "title": "Binsyn",
+  "why": "Fortran simulation codes for binary star systems, built with make from per-module folders and documented in USRGD.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "USRGD",
+      "kind": "path"
+    },
+    {
+      "locator": "systems",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/AlLinnell/Binsyn",
+    "sha": "29512283597d2be87e9bad3cad622d71cf94433f",
+    "file_url": "https://raw.githubusercontent.com/AlLinnell/Binsyn/29512283597d2be87e9bad3cad622d71cf94433f/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "none",
+    "stars": 2,
+    "size_mb": 192,
+    "created_at": "2009-12-06T19:20:44Z",
+    "last_commit_at": "2014-05-24T17:28:18Z",
+    "releases": 0,
+    "tags": 3,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "29512283597d2be87e9bad3cad622d71cf94433f",
+    "v": 4
+  }
+}

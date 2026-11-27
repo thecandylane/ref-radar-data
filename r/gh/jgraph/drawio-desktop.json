@@ -1,0 +1,67 @@
+{
+  "id": "gh:jgraph/drawio-desktop",
+  "kind": "repo",
+  "url": "https://github.com/jgraph/drawio-desktop",
+  "title": "drawio-desktop",
+  "why": "Runs the draw.io diagram editor as a desktop app that keeps diagrams local, with installers for Windows, macOS and Linux.",
+  "keys": {
+    "races": [
+      "desktop/app-shells",
+      "dev-tools/diagrams"
+    ],
+    "lanes": [
+      "desktop/app-shells",
+      "dev-tools/diagrams"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jgraph/drawio-desktop",
+    "sha": "5e8406789216bed8f043bc503f4927b4034d7a71",
+    "file_url": "https://cdn.jsdelivr.net/gh/jgraph/drawio-desktop@5e8406789216bed8f043bc503f4927b4034d7a71/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "GPL-3.0",
+    "stars": 64178,
+    "size_mb": 4,
+    "created_at": "2017-05-25T20:58:42Z",
+    "last_commit_at": "2026-11-17T19:44:10Z",
+    "releases": 201,
+    "tags": 257,
+    "archived": false,
+    "release": {
+      "tag": "v32.7.4",
+      "at": "2026-11-17T22:20:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "5e8406789216bed8f043bc503f4927b4034d7a71",
+    "v": 4
+  }
+}

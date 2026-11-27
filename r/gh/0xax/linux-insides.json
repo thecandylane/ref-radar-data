@@ -1,0 +1,60 @@
+{
+  "id": "gh:0xax/linux-insides",
+  "kind": "repo",
+  "url": "https://github.com/0xAX/linux-insides",
+  "title": "linux-insides",
+  "why": "A book-in-progress walking through Linux kernel boot, interrupts and memory management on x86_64, with chapters marked by kernel version.",
+  "keys": {
+    "races": [
+      "systems/os",
+      "learning/courses"
+    ],
+    "lanes": [
+      "systems/os",
+      "learning/courses"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/0xAX/linux-insides",
+    "sha": "d354624ca8fe896dc08c4f23e705dd02b124dbd7",
+    "file_url": "https://cdn.jsdelivr.net/gh/0xAX/linux-insides@d354624ca8fe896dc08c4f23e705dd02b124dbd7/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 33788,
+    "size_mb": 17,
+    "created_at": "2015-01-03T18:44:57Z",
+    "last_commit_at": "2026-11-26T18:49:17Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d354624ca8fe896dc08c4f23e705dd02b124dbd7",
+    "v": 4
+  }
+}

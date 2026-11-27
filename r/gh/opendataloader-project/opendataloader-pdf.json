@@ -24,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/opendataloader-project/opendataloader-pdf",
-    "sha": "d35622da981249eda1a8b9b553a88fd29eea882c",
-    "file_url": "https://cdn.jsdelivr.net/gh/opendataloader-project/opendataloader-pdf@d35622da981249eda1a8b9b553a88fd29eea882c/{path}"
+    "sha": "673378bcff8cb65b459e0175460f734d913d69cc",
+    "file_url": "https://cdn.jsdelivr.net/gh/opendataloader-project/opendataloader-pdf@673378bcff8cb65b459e0175460f734d913d69cc/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 30373,
+    "stars": 30375,
     "size_mb": 89,
     "created_at": "2025-05-13T05:48:02Z",
-    "last_commit_at": "2026-11-23T18:47:21Z",
+    "last_commit_at": "2026-11-26T18:01:10Z",
     "releases": 86,
     "tags": 94,
     "archived": false,
@@ -50,18 +50,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 21,
+    "star_delta_7d": 23,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "d35622da981249eda1a8b9b553a88fd29eea882c",
-    "v": 4
-  },
   "pins_before": [
+    "d35622da981249eda1a8b9b553a88fd29eea882c",
     "19e9a085ba4980cf59be537db4219bda014d1e49"
   ],
-  "pinned_at": "2026-11-19T04:39:12Z"
+  "pinned_at": "2026-11-26T18:01:10Z"
 }

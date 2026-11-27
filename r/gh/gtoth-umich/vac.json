@@ -1,0 +1,62 @@
+{
+  "id": "gh:gtoth-umich/vac",
+  "kind": "repo",
+  "url": "https://github.com/gtoth-umich/VAC",
+  "title": "VAC",
+  "why": "Fortran 90 advection code with a Perl web manual and IDL plotting macros, built for parallel runs with MPI.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gtoth-umich/VAC",
+    "sha": "47c010c268cbb3dced66fc634397b22b6622e215",
+    "file_url": "https://cdn.jsdelivr.net/gh/gtoth-umich/VAC@47c010c268cbb3dced66fc634397b22b6622e215/{path}"
+  },
+  "facts": {
+    "lang": "Perl",
+    "license": "NOASSERTION",
+    "stars": 3,
+    "size_mb": 1,
+    "created_at": "2023-07-07T15:00:52Z",
+    "last_commit_at": "2020-04-17T19:28:04Z",
+    "releases": 0,
+    "tags": 7,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "47c010c268cbb3dced66fc634397b22b6622e215",
+    "v": 4
+  }
+}

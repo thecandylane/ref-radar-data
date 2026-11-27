@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:64ef70505c5d4320231420bb21adf99dd1698e4e"
-  },
   "id": "gh:krayin/laravel-crm",
   "kind": "repo",
   "url": "https://github.com/krayin/laravel-crm",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/krayin/laravel-crm",
-    "sha": "64ef70505c5d4320231420bb21adf99dd1698e4e",
-    "file_url": "https://cdn.jsdelivr.net/gh/krayin/laravel-crm@64ef70505c5d4320231420bb21adf99dd1698e4e/{path}"
+    "sha": "d8f56150214ac5f89f3f6f5fc10e9254e84ec567",
+    "file_url": "https://cdn.jsdelivr.net/gh/krayin/laravel-crm@d8f56150214ac5f89f3f6f5fc10e9254e84ec567/{path}"
   },
   "facts": {
     "lang": "PHP",
     "license": "MIT",
-    "stars": 24214,
+    "stars": 24220,
     "size_mb": 54,
     "created_at": "2021-06-05T14:18:48Z",
-    "last_commit_at": "2026-11-17T14:09:45Z",
+    "last_commit_at": "2026-11-27T06:20:58Z",
     "releases": 35,
     "tags": 36,
     "archived": false,
@@ -67,9 +64,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "64ef70505c5d4320231420bb21adf99dd1698e4e",
-    "v": 4
-  },
-  "pinned_at": "2026-11-17T14:09:45Z"
+  "pins_before": [
+    "64ef70505c5d4320231420bb21adf99dd1698e4e"
+  ],
+  "pinned_at": "2026-11-27T06:20:58Z"
 }

@@ -1,0 +1,72 @@
+{
+  "id": "gh:ahmedkhaleel2004/gitdiagram",
+  "kind": "repo",
+  "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+  "title": "gitdiagram",
+  "why": "Turns a GitHub repo into an architecture diagram, and agents can pull its Mermaid source over the MCP server.",
+  "keys": {
+    "races": [
+      "dev-tools/diagrams",
+      "practice/architecture",
+      "agents/tools",
+      "agents/skills"
+    ],
+    "lanes": [
+      "dev-tools/diagrams",
+      "practice/architecture",
+      "agents/tools",
+      "agents/skills"
+    ],
+    "capabilities": [
+      "dev-tools/diagrams/mermaid-rendering",
+      "agents/tools/mcp-servers",
+      "agents/skills/plugin-specs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ahmedkhaleel2004/gitdiagram",
+    "sha": "dae121cd2e52ecf28f58a77b65e776ad5cd092a2",
+    "file_url": "https://cdn.jsdelivr.net/gh/ahmedkhaleel2004/gitdiagram@dae121cd2e52ecf28f58a77b65e776ad5cd092a2/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 19146,
+    "size_mb": 15,
+    "created_at": "2024-12-15T10:32:03Z",
+    "last_commit_at": "2026-11-23T23:35:37Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "dae121cd2e52ecf28f58a77b65e776ad5cd092a2",
+    "v": 4
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "gh:approx-tech/n8n-nodes-approx",
+  "kind": "repo",
+  "url": "https://github.com/Approx-Tech/n8n-nodes-approx",
+  "title": "n8n-nodes-approx",
+  "why": "Gives n8n workflows a node for Approx records, with query filters, sorting and an OAuth2 login.",
+  "keys": {
+    "races": [
+      "data/pipelines"
+    ],
+    "lanes": [
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Approx-Tech/n8n-nodes-approx",
+    "sha": "2f83661b600effc44672a9ed42e560e81b6992cd",
+    "file_url": "https://cdn.jsdelivr.net/gh/Approx-Tech/n8n-nodes-approx@2f83661b600effc44672a9ed42e560e81b6992cd/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-06-02T11:21:03Z",
+    "last_commit_at": "2026-11-22T17:19:16Z",
+    "releases": 18,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "v0.13.0",
+      "at": "2026-11-22T17:20:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "2f83661b600effc44672a9ed42e560e81b6992cd",
+    "v": 4
+  }
+}

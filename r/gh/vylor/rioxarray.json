@@ -1,0 +1,61 @@
+{
+  "id": "gh:vylor/rioxarray",
+  "kind": "repo",
+  "url": "https://github.com/vylor/rioxarray",
+  "title": "rioxarray",
+  "why": "Reads and writes rasters into xarray objects with CRS, transforms and reprojection, clipping and padding, following CF or Zarr conventions.",
+  "keys": {
+    "races": [
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vylor/rioxarray",
+    "sha": "35d411a44834917fdd95ff8a4dbe1ae48e3c00ec",
+    "file_url": "https://cdn.jsdelivr.net/gh/vylor/rioxarray@35d411a44834917fdd95ff8a4dbe1ae48e3c00ec/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 634,
+    "size_mb": 82,
+    "created_at": "2019-04-16T13:23:26Z",
+    "last_commit_at": "2026-11-25T19:21:56Z",
+    "releases": 85,
+    "tags": 85,
+    "archived": false,
+    "release": {
+      "tag": "0.25.1",
+      "at": "2026-11-25T19:21:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "35d411a44834917fdd95ff8a4dbe1ae48e3c00ec",
+    "v": 4
+  }
+}

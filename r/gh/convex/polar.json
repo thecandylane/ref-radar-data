@@ -1,8 +1,11 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:bc11665da3ad00f53fdd537890a543da320aa5e8"
+  },
   "id": "gh:convex/polar",
   "kind": "repo",
   "url": "https://github.com/convex/polar",
-  "title": "polar",
+  "title": "convex/polar",
   "why": "Convex component that syncs Polar products and subscriptions, and opens checkout and customer portal links from React.",
   "keys": {
     "races": [
@@ -57,5 +60,9 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "bc11665da3ad00f53fdd537890a543da320aa5e8",
+    "v": 4
+  },
   "pinned_at": "2026-11-24T03:10:09Z"
 }

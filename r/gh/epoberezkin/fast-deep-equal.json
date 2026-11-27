@@ -1,0 +1,61 @@
+{
+  "id": "gh:epoberezkin/fast-deep-equal",
+  "kind": "repo",
+  "url": "https://github.com/epoberezkin/fast-deep-equal",
+  "title": "fast-deep-equal",
+  "why": "Compares two nested values by content, covering Dates and RegExps and, in the es6 build, Maps, Sets and typed arrays.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/epoberezkin/fast-deep-equal",
+    "sha": "a8e7172b6c411ec320d6045fd4afbd2abc1b4bde",
+    "file_url": "https://cdn.jsdelivr.net/gh/epoberezkin/fast-deep-equal@a8e7172b6c411ec320d6045fd4afbd2abc1b4bde/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 2049,
+    "size_mb": 0,
+    "created_at": "2017-06-15T22:23:23Z",
+    "last_commit_at": "2020-06-09T08:59:48Z",
+    "releases": 14,
+    "tags": 14,
+    "archived": false,
+    "release": {
+      "tag": "v3.1.3",
+      "at": "2020-06-08T07:26:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "a8e7172b6c411ec320d6045fd4afbd2abc1b4bde",
+    "v": 4
+  }
+}

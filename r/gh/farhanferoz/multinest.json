@@ -1,0 +1,58 @@
+{
+  "id": "gh:farhanferoz/multinest",
+  "kind": "repo",
+  "url": "https://github.com/farhanferoz/MultiNest",
+  "title": "MultiNest",
+  "why": "Samples posteriors with several modes and curving degeneracies and reports log-evidence, with MPI support for parallel runs.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/farhanferoz/MultiNest",
+    "sha": "cc616c17ed440fbff8d35937997c86256ed4d744",
+    "file_url": "https://cdn.jsdelivr.net/gh/farhanferoz/MultiNest@cc616c17ed440fbff8d35937997c86256ed4d744/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "none",
+    "stars": 74,
+    "size_mb": 0,
+    "created_at": "2018-11-14T14:51:57Z",
+    "last_commit_at": "2022-03-01T14:04:28Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "cc616c17ed440fbff8d35937997c86256ed4d744",
+    "v": 4
+  }
+}

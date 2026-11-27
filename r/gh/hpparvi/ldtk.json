@@ -1,0 +1,70 @@
+{
+  "id": "gh:hpparvi/ldtk",
+  "kind": "repo",
+  "url": "https://github.com/hpparvi/ldtk",
+  "title": "ldtk",
+  "why": "Derives limb darkening coefficients from stellar intensity profiles, pulling spectra through astroquery and fitting models like quadratic and nonlinear.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hpparvi/ldtk",
+    "sha": "aee38e95a64a1421c5cb28f0e1e219ac32526439",
+    "file_url": "https://cdn.jsdelivr.net/gh/hpparvi/ldtk@aee38e95a64a1421c5cb28f0e1e219ac32526439/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "GPL-2.0",
+    "stars": 36,
+    "size_mb": 2,
+    "created_at": "2015-03-09T14:13:54Z",
+    "last_commit_at": "2026-10-15T15:33:05Z",
+    "releases": 14,
+    "tags": 19,
+    "archived": false,
+    "release": {
+      "tag": "v1.9.3",
+      "at": "2026-10-15T14:45:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "aee38e95a64a1421c5cb28f0e1e219ac32526439",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:1508.02634",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

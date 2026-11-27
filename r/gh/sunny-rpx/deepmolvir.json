@@ -1,0 +1,64 @@
+{
+  "id": "gh:sunny-rpx/deepmolvir",
+  "kind": "repo",
+  "url": "https://github.com/Sunny-RPX/DeepMolVir",
+  "title": "DeepMolVir",
+  "why": "Trains classifier and regressor models on SMILES molecule graphs to predict pIC50 values, with ECFP4 fingerprints and ESMC embeddings as extra inputs.",
+  "keys": {
+    "races": [
+      "engineering/chemistry",
+      "ml/training"
+    ],
+    "lanes": [
+      "engineering/chemistry",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Sunny-RPX/DeepMolVir",
+    "sha": "8b4d291a971b3e6a090a32dc2be09dfa5afefa58",
+    "file_url": "https://cdn.jsdelivr.net/gh/Sunny-RPX/DeepMolVir@8b4d291a971b3e6a090a32dc2be09dfa5afefa58/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 11,
+    "created_at": "2026-07-02T09:31:47Z",
+    "last_commit_at": "2026-11-04T00:46:30Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "8b4d291a971b3e6a090a32dc2be09dfa5afefa58",
+    "v": 4
+  }
+}

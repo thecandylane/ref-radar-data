@@ -1,0 +1,63 @@
+{
+  "id": "gh:mgckind/mlz",
+  "kind": "repo",
+  "url": "https://github.com/mgckind/MLZ",
+  "title": "MLZ",
+  "why": "Estimates photometric redshift PDFs for galaxies with machine learning, with optional extra inputs, from a runMLZ command line.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "ml/training"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mgckind/MLZ",
+    "sha": "c3d6d0031592eee26e0c965b302e56964bd4fd35",
+    "file_url": "https://cdn.jsdelivr.net/gh/mgckind/MLZ@c3d6d0031592eee26e0c965b302e56964bd4fd35/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 17,
+    "size_mb": 11,
+    "created_at": "2014-04-09T23:07:18Z",
+    "last_commit_at": "2016-09-17T01:23:59Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "1.2",
+      "at": "2015-04-09T14:04:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c3d6d0031592eee26e0c965b302e56964bd4fd35",
+    "v": 4
+  }
+}

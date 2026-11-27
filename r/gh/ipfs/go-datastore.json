@@ -1,0 +1,63 @@
+{
+  "id": "gh:ipfs/go-datastore",
+  "kind": "repo",
+  "url": "https://github.com/ipfs/go-datastore",
+  "title": "go-datastore",
+  "why": "Lets Go code swap datastores without changing application code, with grouped datastores for caching and sharding.",
+  "keys": {
+    "races": [
+      "data/databases",
+      "data/storage"
+    ],
+    "lanes": [
+      "data/databases",
+      "data/storage"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ipfs/go-datastore",
+    "sha": "3556410774ac30eb58d5a801db74f2f80f4205b2",
+    "file_url": "https://cdn.jsdelivr.net/gh/ipfs/go-datastore@3556410774ac30eb58d5a801db74f2f80f4205b2/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 248,
+    "size_mb": 1,
+    "created_at": "2014-01-19T18:56:13Z",
+    "last_commit_at": "2026-06-23T19:22:53Z",
+    "releases": 18,
+    "tags": 56,
+    "archived": false,
+    "release": {
+      "tag": "v0.9.2",
+      "at": "2026-06-23T19:23:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "3556410774ac30eb58d5a801db74f2f80f4205b2",
+    "v": 4
+  }
+}

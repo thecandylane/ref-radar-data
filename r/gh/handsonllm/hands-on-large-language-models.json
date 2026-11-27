@@ -1,0 +1,64 @@
+{
+  "id": "gh:handsonllm/hands-on-large-language-models",
+  "kind": "repo",
+  "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+  "title": "Hands-On-Large-Language-Models",
+  "why": "Colab notebooks for each chapter of the book, from tokens and embeddings to RAG and fine-tuning, runnable on a free T4 GPU.",
+  "keys": {
+    "races": [
+      "learning/courses",
+      "ml/embeddings",
+      "llm-infra/rag",
+      "ml/training"
+    ],
+    "lanes": [
+      "learning/courses",
+      "ml/embeddings",
+      "llm-infra/rag",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+    "sha": "ea3390819997999a51983677b80b3aac4dc50ada",
+    "file_url": "https://cdn.jsdelivr.net/gh/HandsOnLLM/Hands-On-Large-Language-Models@ea3390819997999a51983677b80b3aac4dc50ada/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "Apache-2.0",
+    "stars": 30429,
+    "size_mb": 13,
+    "created_at": "2024-06-28T11:49:46Z",
+    "last_commit_at": "2026-04-24T10:20:08Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ea3390819997999a51983677b80b3aac4dc50ada",
+    "v": 4
+  }
+}

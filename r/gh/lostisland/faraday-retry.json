@@ -1,0 +1,61 @@
+{
+  "id": "gh:lostisland/faraday-retry",
+  "kind": "repo",
+  "url": "https://github.com/lostisland/faraday-retry",
+  "title": "faraday-retry",
+  "why": "Retries failed Faraday requests on timeouts and chosen statuses, honoring Retry-After and RateLimit-Reset headers before each attempt.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lostisland/faraday-retry",
+    "sha": "89e39390f52974698a95d7be0ca04e786a77c770",
+    "file_url": "https://cdn.jsdelivr.net/gh/lostisland/faraday-retry@89e39390f52974698a95d7be0ca04e786a77c770/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "MIT",
+    "stars": 110,
+    "size_mb": 0,
+    "created_at": "2021-12-31T12:17:16Z",
+    "last_commit_at": "2026-06-23T06:56:38Z",
+    "releases": 13,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.4",
+      "at": "2026-03-10T08:50:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "89e39390f52974698a95d7be0ca04e786a77c770",
+    "v": 4
+  }
+}

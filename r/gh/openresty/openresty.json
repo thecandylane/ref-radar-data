@@ -1,0 +1,63 @@
+{
+  "id": "gh:openresty/openresty",
+  "kind": "repo",
+  "url": "https://github.com/openresty/openresty",
+  "title": "openresty",
+  "why": "Bundles the nginx core with many third-party modules into a scriptable web platform, and its resolver directive also reads resolv.conf files.",
+  "keys": {
+    "races": [
+      "web/frameworks",
+      "infra/networking"
+    ],
+    "lanes": [
+      "web/frameworks",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.markdown",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openresty/openresty",
+    "sha": "5c1ff18b6a6543068a852ba3c063c9ddfb6a0d4a",
+    "file_url": "https://cdn.jsdelivr.net/gh/openresty/openresty@5c1ff18b6a6543068a852ba3c063c9ddfb6a0d4a/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 14180,
+    "size_mb": 3,
+    "created_at": "2010-01-20T03:57:59Z",
+    "last_commit_at": "2026-11-26T02:45:27Z",
+    "releases": 20,
+    "tags": 191,
+    "archived": false,
+    "release": {
+      "tag": "v1.31.9.1",
+      "at": "2026-11-25T21:27:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "5c1ff18b6a6543068a852ba3c063c9ddfb6a0d4a",
+    "v": 4
+  }
+}

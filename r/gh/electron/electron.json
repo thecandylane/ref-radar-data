@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:fd974dc60062c208bada0f3ca37fc7708c7d3360"
-  },
   "id": "gh:electron/electron",
   "kind": "repo",
   "url": "https://github.com/electron/electron",
@@ -31,18 +28,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/electron/electron",
-    "sha": "fd974dc60062c208bada0f3ca37fc7708c7d3360",
-    "file_url": "https://cdn.jsdelivr.net/gh/electron/electron@fd974dc60062c208bada0f3ca37fc7708c7d3360/{path}"
+    "sha": "b5e057bafe526dea89ee79d024da6bce638dbe18",
+    "file_url": "https://cdn.jsdelivr.net/gh/electron/electron@b5e057bafe526dea89ee79d024da6bce638dbe18/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 124104,
+    "stars": 124130,
     "size_mb": 233,
     "created_at": "2013-04-12T01:47:36Z",
     "last_commit_at": "2026-11-26T02:05:22Z",
     "releases": 1000,
-    "tags": 3953,
+    "tags": 3955,
     "archived": false,
     "release": {
       "tag": "v45.5.0",
@@ -57,19 +54,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 90,
+    "star_delta_7d": 116,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "fd974dc60062c208bada0f3ca37fc7708c7d3360",
-    "v": 4
-  },
   "pins_before": [
+    "fd974dc60062c208bada0f3ca37fc7708c7d3360",
     "0b0dd43c1d85ec60f88eb05b606c061f88afb10a"
   ],
-  "pinned_at": "2026-11-19T07:11:08Z",
+  "pinned_at": "2026-11-26T02:05:22Z",
   "hot": true
 }

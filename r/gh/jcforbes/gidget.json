@@ -1,0 +1,62 @@
+{
+  "id": "gh:jcforbes/gidget",
+  "kind": "repo",
+  "url": "https://github.com/jcforbes/gidget",
+  "title": "gidget",
+  "why": "Python source for GIDGET, with its documentation moved out of this README into a PDF guide in docs.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jcforbes/gidget",
+    "sha": "d1536f778b9f221fb864fb4a45b3805034fcf9f5",
+    "file_url": "https://cdn.jsdelivr.net/gh/jcforbes/gidget@d1536f778b9f221fb864fb4a45b3805034fcf9f5/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 7,
+    "created_at": "2017-08-02T05:26:50Z",
+    "last_commit_at": "2021-11-17T21:39:11Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d1536f778b9f221fb864fb4a45b3805034fcf9f5",
+    "v": 4
+  }
+}

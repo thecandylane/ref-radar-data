@@ -1,0 +1,60 @@
+{
+  "id": "gh:briancurtin/deprecation",
+  "kind": "repo",
+  "url": "https://github.com/briancurtin/deprecation",
+  "title": "deprecation",
+  "why": "A decorator that appends deprecation details to docstrings and makes tests fail once the removal version is reached.",
+  "keys": {
+    "races": [
+      "dev-tools/testing",
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/testing",
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/briancurtin/deprecation",
+    "sha": "2a0ec0710a9fce97161886d81a10cebd8bf0d882",
+    "file_url": "https://cdn.jsdelivr.net/gh/briancurtin/deprecation@2a0ec0710a9fce97161886d81a10cebd8bf0d882/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 96,
+    "size_mb": 0,
+    "created_at": "2017-01-12T17:51:51Z",
+    "last_commit_at": "2023-01-09T22:30:50Z",
+    "releases": 0,
+    "tags": 12,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "2a0ec0710a9fce97161886d81a10cebd8bf0d882",
+    "v": 4
+  }
+}

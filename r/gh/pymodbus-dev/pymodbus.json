@@ -1,0 +1,61 @@
+{
+  "id": "gh:pymodbus-dev/pymodbus",
+  "kind": "repo",
+  "url": "https://github.com/pymodbus-dev/pymodbus",
+  "title": "pymodbus",
+  "why": "Modbus clients and servers over TCP, serial, UDP and TLS, plus a simulator driven by register setup files.",
+  "keys": {
+    "races": [
+      "industrial/protocols"
+    ],
+    "lanes": [
+      "industrial/protocols"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pymodbus-dev/pymodbus",
+    "sha": "9d18fb5c506f6a9bf4f26333db4529dbf174b111",
+    "file_url": "https://cdn.jsdelivr.net/gh/pymodbus-dev/pymodbus@9d18fb5c506f6a9bf4f26333db4529dbf174b111/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 2807,
+    "size_mb": 37,
+    "created_at": "2011-12-05T01:30:08Z",
+    "last_commit_at": "2026-11-25T19:24:50Z",
+    "releases": 102,
+    "tags": 109,
+    "archived": false,
+    "release": {
+      "tag": "v3.16.2",
+      "at": "2026-11-03T12:03:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "9d18fb5c506f6a9bf4f26333db4529dbf174b111",
+    "v": 4
+  }
+}

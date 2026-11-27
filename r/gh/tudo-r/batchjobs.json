@@ -1,0 +1,58 @@
+{
+  "id": "gh:tudo-r/batchjobs",
+  "kind": "repo",
+  "url": "https://github.com/tudo-r/BatchJobs",
+  "title": "BatchJobs",
+  "why": "Runs R Map, Reduce and Filter over batch queues like PBS, SLURM and LSF, with multicore and SSH fallbacks.",
+  "keys": {
+    "races": [
+      "sci/hpc"
+    ],
+    "lanes": [
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tudo-r/BatchJobs",
+    "sha": "74b541b8ce8da74f41bac289a970dd75c8fdf197",
+    "file_url": "https://cdn.jsdelivr.net/gh/tudo-r/BatchJobs@74b541b8ce8da74f41bac289a970dd75c8fdf197/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 86,
+    "size_mb": 2,
+    "created_at": "2013-11-05T14:58:33Z",
+    "last_commit_at": "2025-09-09T06:23:41Z",
+    "releases": 0,
+    "tags": 3,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "74b541b8ce8da74f41bac289a970dd75c8fdf197",
+    "v": 4
+  }
+}

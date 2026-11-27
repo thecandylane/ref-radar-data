@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:8bb63b335c3fb404e86779fa690f9d2cb1d6bf9a"
+  },
   "id": "gh:egafton/visplot",
   "kind": "repo",
   "url": "https://github.com/egafton/visplot",
@@ -51,5 +54,17 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pinned_at": "2026-11-10T20:57:56Z"
+  "pack": {
+    "sha": "8bb63b335c3fb404e86779fa690f9d2cb1d6bf9a",
+    "v": 4
+  },
+  "pinned_at": "2026-11-10T20:57:56Z",
+  "papers": [
+    {
+      "id": "arxiv:2604.14151",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
 }

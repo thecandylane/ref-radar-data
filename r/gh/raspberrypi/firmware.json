@@ -1,0 +1,63 @@
+{
+  "id": "gh:raspberrypi/firmware",
+  "kind": "repo",
+  "url": "https://github.com/raspberrypi/firmware",
+  "title": "raspberrypi/firmware",
+  "why": "Prebuilt Raspberry Pi kernel, modules and GPU bootloader binaries, with licence notes for each folder in boot.",
+  "keys": {
+    "races": [
+      "embedded/firmware",
+      "systems/os"
+    ],
+    "lanes": [
+      "embedded/firmware",
+      "systems/os"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/raspberrypi/firmware",
+    "sha": "46c2fa49622d28b4d48f2c536f9693831b824f8f",
+    "file_url": "https://raw.githubusercontent.com/raspberrypi/firmware/46c2fa49622d28b4d48f2c536f9693831b824f8f/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "none",
+    "stars": 5603,
+    "size_mb": 59985,
+    "created_at": "2012-02-27T23:06:53Z",
+    "last_commit_at": "2026-11-25T18:58:15Z",
+    "releases": 20,
+    "tags": 109,
+    "archived": false,
+    "release": {
+      "tag": "1.20260915",
+      "at": "2026-09-15T14:59:50.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "46c2fa49622d28b4d48f2c536f9693831b824f8f",
+    "v": 4
+  }
+}

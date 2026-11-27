@@ -1,0 +1,58 @@
+{
+  "id": "gh:daddeptr/needlets",
+  "kind": "repo",
+  "url": "https://github.com/daddeptr/Needlets",
+  "title": "Needlets",
+  "why": "Fortran code in the NeedATool v1.0 folder for needlet analysis on survey-style data.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "NeedATool_v1.0",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/daddeptr/Needlets",
+    "sha": "8437b8e1364336e178c0210221548a050ae9d664",
+    "file_url": "https://cdn.jsdelivr.net/gh/daddeptr/Needlets@8437b8e1364336e178c0210221548a050ae9d664/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 9,
+    "created_at": "2014-02-24T18:28:03Z",
+    "last_commit_at": "2014-04-29T21:23:26Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "8437b8e1364336e178c0210221548a050ae9d664",
+    "v": 4
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "gh:ffms/ffms2",
+  "kind": "repo",
+  "url": "https://github.com/FFMS/ffms2",
+  "title": "ffms2",
+  "why": "Wraps FFmpeg so C code can open almost any media file, with frame and sample accurate access and variable framerate support.",
+  "keys": {
+    "races": [
+      "media/video"
+    ],
+    "lanes": [
+      "media/video"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/FFMS/ffms2",
+    "sha": "3af2ef2ae47bc30b64597c9e419e5b19c4bda7d8",
+    "file_url": "https://cdn.jsdelivr.net/gh/FFMS/ffms2@3af2ef2ae47bc30b64597c9e419e5b19c4bda7d8/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 664,
+    "size_mb": 4,
+    "created_at": "2013-08-19T00:58:45Z",
+    "last_commit_at": "2026-04-27T14:26:18Z",
+    "releases": 15,
+    "tags": 22,
+    "archived": false,
+    "release": {
+      "tag": "5.0",
+      "at": "2024-05-28T19:53:13.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "3af2ef2ae47bc30b64597c9e419e5b19c4bda7d8",
+    "v": 4
+  }
+}

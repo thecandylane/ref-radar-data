@@ -1,0 +1,65 @@
+{
+  "id": "gh:apache/maven-resolver-ant-tasks",
+  "kind": "repo",
+  "url": "https://github.com/apache/maven-resolver-ant-tasks",
+  "title": "maven-resolver-ant-tasks",
+  "why": "Adds Ant tasks that resolve Maven dependencies and install or deploy artifacts, so an Ant build can reuse Maven repositories.",
+  "keys": {
+    "races": [
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/maven-resolver-ant-tasks",
+    "sha": "127f25202ab72259c9e6c384131af1c1304d4339",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/maven-resolver-ant-tasks@127f25202ab72259c9e6c384131af1c1304d4339/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 13,
+    "size_mb": 1,
+    "created_at": "2017-11-25T21:59:02Z",
+    "last_commit_at": "2026-11-24T05:46:03Z",
+    "releases": 6,
+    "tags": 12,
+    "archived": false,
+    "release": {
+      "tag": "maven-resolver-ant-tasks-2.0.0",
+      "at": "2026-08-06T19:13:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "127f25202ab72259c9e6c384131af1c1304d4339",
+    "v": 4
+  }
+}

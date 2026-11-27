@@ -26,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/go-git/go-git",
-    "sha": "75f3ca83333c62fa9603b8b4f6b339bd3e9ec9f4",
-    "file_url": "https://cdn.jsdelivr.net/gh/go-git/go-git@75f3ca83333c62fa9603b8b4f6b339bd3e9ec9f4/{path}"
+    "sha": "1405f5a659097d0f264465b4409606bf4a222389",
+    "file_url": "https://cdn.jsdelivr.net/gh/go-git/go-git@1405f5a659097d0f264465b4409606bf4a222389/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 7865,
-    "size_mb": 9,
+    "stars": 7866,
+    "size_mb": 10,
     "created_at": "2019-12-19T10:27:02Z",
-    "last_commit_at": "2026-11-25T15:21:19Z",
+    "last_commit_at": "2026-11-27T03:19:47Z",
     "releases": 95,
     "tags": 98,
     "archived": false,
@@ -52,18 +52,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 6,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "75f3ca83333c62fa9603b8b4f6b339bd3e9ec9f4",
-    "v": 4
-  },
   "pins_before": [
+    "75f3ca83333c62fa9603b8b4f6b339bd3e9ec9f4",
     "12b788e49978b5807b748e425de6fba31af979c9"
   ],
-  "pinned_at": "2026-11-19T06:45:20Z"
+  "pinned_at": "2026-11-27T03:19:47Z"
 }

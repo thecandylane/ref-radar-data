@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:260b54abdeee7202de04296d7b29f4880e61497e"
-  },
   "id": "gh:flutter/flutter",
   "kind": "repo",
   "url": "https://github.com/flutter/flutter",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/flutter/flutter",
-    "sha": "260b54abdeee7202de04296d7b29f4880e61497e",
-    "file_url": "https://raw.githubusercontent.com/flutter/flutter/260b54abdeee7202de04296d7b29f4880e61497e/{path}"
+    "sha": "43150a886d38fe7febfdee16c9b6813f3cf69cb1",
+    "file_url": "https://raw.githubusercontent.com/flutter/flutter/43150a886d38fe7febfdee16c9b6813f3cf69cb1/{path}"
   },
   "facts": {
     "lang": "Dart",
     "license": "BSD-3-Clause",
-    "stars": 181520,
+    "stars": 181555,
     "size_mb": 462,
     "created_at": "2015-03-06T22:54:58Z",
-    "last_commit_at": "2026-11-26T07:21:41Z",
+    "last_commit_at": "2026-11-27T02:54:37Z",
     "releases": 7,
     "tags": 1130,
     "archived": false,
@@ -61,19 +58,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 214,
+    "star_delta_7d": 249,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "260b54abdeee7202de04296d7b29f4880e61497e",
-    "v": 4
-  },
   "pins_before": [
+    "260b54abdeee7202de04296d7b29f4880e61497e",
     "8d4684336dac5689d97d6810c064106cf48f8c46"
   ],
-  "pinned_at": "2026-11-19T07:33:17Z",
+  "pinned_at": "2026-11-27T02:54:37Z",
   "hot": true
 }

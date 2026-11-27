@@ -1,0 +1,71 @@
+{
+  "id": "gh:pupilfirst/pupilfirst",
+  "kind": "repo",
+  "url": "https://github.com/pupilfirst/pupilfirst",
+  "title": "pupilfirst",
+  "why": "Runs an asynchronous school where students attempt tasks and get feedback from experts, with peers answering questions.",
+  "keys": {
+    "races": [
+      "learning/lms",
+      "learning/exercises"
+    ],
+    "lanes": [
+      "learning/lms",
+      "learning/exercises"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pupilfirst/pupilfirst",
+    "sha": "001ec461da8042f94d31288931a434898fc29a2a",
+    "file_url": "https://cdn.jsdelivr.net/gh/pupilfirst/pupilfirst@001ec461da8042f94d31288931a434898fc29a2a/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "NOASSERTION",
+    "stars": 984,
+    "size_mb": 131,
+    "created_at": "2019-08-13T09:41:32Z",
+    "last_commit_at": "2024-11-18T06:26:30Z",
+    "releases": 14,
+    "tags": 57,
+    "archived": false,
+    "release": {
+      "tag": "v2024.2.1efffc4",
+      "at": "2024-10-09T10:56:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "001ec461da8042f94d31288931a434898fc29a2a",
+    "v": 4
+  }
+}

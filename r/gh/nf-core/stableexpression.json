@@ -1,0 +1,65 @@
+{
+  "id": "gh:nf-core/stableexpression",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/stableexpression",
+  "title": "stableexpression",
+  "why": "Picks reference genes whose expression stays steady across samples, scoring stability and normalising counts to TPM or CPM.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics",
+      "data/datasets"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/stableexpression",
+    "sha": "59e9eae03152411e7c2aa2ffd25d6fe0c30ff9f1",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/stableexpression@59e9eae03152411e7c2aa2ffd25d6fe0c30ff9f1/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 11,
+    "size_mb": 25,
+    "created_at": "2024-12-20T23:22:55Z",
+    "last_commit_at": "2026-10-08T08:49:35Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "1.1.0",
+      "at": "2026-10-07T07:22:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "59e9eae03152411e7c2aa2ffd25d6fe0c30ff9f1",
+    "v": 4
+  }
+}

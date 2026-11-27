@@ -1,0 +1,63 @@
+{
+  "id": "gh:gosnmp/gosnmp",
+  "kind": "repo",
+  "url": "https://github.com/gosnmp/gosnmp",
+  "title": "gosnmp",
+  "why": "Go SNMP library for walking OID trees and sending or listening for traps, with v1 and v3 support.",
+  "keys": {
+    "races": [
+      "infra/networking",
+      "infra/observability"
+    ],
+    "lanes": [
+      "infra/networking",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gosnmp/gosnmp",
+    "sha": "2e76d76dcdda06e764dac5dac480a02bf12e7316",
+    "file_url": "https://cdn.jsdelivr.net/gh/gosnmp/gosnmp@2e76d76dcdda06e764dac5dac480a02bf12e7316/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "NOASSERTION",
+    "stars": 1262,
+    "size_mb": 1,
+    "created_at": "2012-08-27T05:59:24Z",
+    "last_commit_at": "2026-11-23T08:26:36Z",
+    "releases": 24,
+    "tags": 52,
+    "archived": false,
+    "release": {
+      "tag": "v1.47.0",
+      "at": "2026-10-23T20:29:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "2e76d76dcdda06e764dac5dac480a02bf12e7316",
+    "v": 4
+  }
+}

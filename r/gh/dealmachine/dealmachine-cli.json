@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:133e9417e9545f85ba02232bc28b1965c63fa59a"
+  },
   "id": "gh:dealmachine/dealmachine-cli",
   "kind": "repo",
   "url": "https://github.com/DealMachine/dealmachine-cli",
@@ -64,5 +67,9 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "133e9417e9545f85ba02232bc28b1965c63fa59a",
+    "v": 4
+  },
   "pinned_at": "2026-11-17T23:16:37Z"
 }

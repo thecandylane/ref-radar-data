@@ -1,0 +1,65 @@
+{
+  "id": "gh:apache/maven-jxr",
+  "kind": "repo",
+  "url": "https://github.com/apache/maven-jxr",
+  "title": "maven-jxr",
+  "why": "Renders Java source as HTML with xref links, run as a Maven plugin that adds the pages to site reports.",
+  "keys": {
+    "races": [
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/maven-jxr",
+    "sha": "bd6b1aaa6076a2b117b0eeaf853d9280da429698",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/maven-jxr@bd6b1aaa6076a2b117b0eeaf853d9280da429698/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 15,
+    "size_mb": 1,
+    "created_at": "2009-05-21T02:28:15Z",
+    "last_commit_at": "2026-11-25T21:34:46Z",
+    "releases": 5,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "jxr-3.6.0",
+      "at": "2025-04-19T17:51:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "bd6b1aaa6076a2b117b0eeaf853d9280da429698",
+    "v": 4
+  }
+}

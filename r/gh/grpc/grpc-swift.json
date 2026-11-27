@@ -1,0 +1,63 @@
+{
+  "id": "gh:grpc/grpc-swift",
+  "kind": "repo",
+  "url": "https://github.com/grpc/grpc-swift",
+  "title": "grpc-swift",
+  "why": "Generates Swift stubs for protocol buffer services and ships the runtime libraries to call them, now in maintenance mode for 1.x.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/grpc/grpc-swift",
+    "sha": "65d0084f6d7db34b0dfcb1c956b8dd8da8ef9d23",
+    "file_url": "https://cdn.jsdelivr.net/gh/grpc/grpc-swift@65d0084f6d7db34b0dfcb1c956b8dd8da8ef9d23/{path}"
+  },
+  "facts": {
+    "lang": "Swift",
+    "license": "Apache-2.0",
+    "stars": 2245,
+    "size_mb": 18,
+    "created_at": "2016-09-21T17:35:31Z",
+    "last_commit_at": "2026-08-10T14:56:29Z",
+    "releases": 121,
+    "tags": 137,
+    "archived": false,
+    "release": {
+      "tag": "1.27.6",
+      "at": "2026-09-01T12:53:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "65d0084f6d7db34b0dfcb1c956b8dd8da8ef9d23",
+    "v": 4
+  }
+}

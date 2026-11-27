@@ -1,0 +1,65 @@
+{
+  "id": "gh:trollefson/elizur",
+  "kind": "repo",
+  "url": "https://github.com/trollefson/elizur",
+  "title": "elizur",
+  "why": "Computes annuity present and future values, expected present values and life contingencies from a mortality table, with NumPy arrays accepted.",
+  "keys": {
+    "races": [
+      "insurance/actuarial"
+    ],
+    "lanes": [
+      "insurance/actuarial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/trollefson/elizur",
+    "sha": "631a8f0b92aaed383aaa9c7a0d7bd1f72304ec14",
+    "file_url": "https://cdn.jsdelivr.net/gh/trollefson/elizur@631a8f0b92aaed383aaa9c7a0d7bd1f72304ec14/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 32,
+    "size_mb": 9,
+    "created_at": "2019-06-28T02:55:56Z",
+    "last_commit_at": "2026-06-04T13:42:43Z",
+    "releases": 3,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.0",
+      "at": "2026-06-04T13:44:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "631a8f0b92aaed383aaa9c7a0d7bd1f72304ec14",
+    "v": 4
+  }
+}

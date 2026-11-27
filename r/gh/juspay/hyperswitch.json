@@ -28,18 +28,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/juspay/hyperswitch",
-    "sha": "c10afced975eddc82fde6f90e8ba9fe582aa9bb0",
-    "file_url": "https://raw.githubusercontent.com/juspay/hyperswitch/c10afced975eddc82fde6f90e8ba9fe582aa9bb0/{path}"
+    "sha": "ec086669c6685e8a9849fcdc1abc284cbbe15202",
+    "file_url": "https://raw.githubusercontent.com/juspay/hyperswitch/ec086669c6685e8a9849fcdc1abc284cbbe15202/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 45916,
-    "size_mb": 492,
+    "stars": 45927,
+    "size_mb": 493,
     "created_at": "2022-10-17T11:18:28Z",
-    "last_commit_at": "2026-11-26T00:27:17Z",
+    "last_commit_at": "2026-11-27T07:38:24Z",
     "releases": 163,
-    "tags": 1663,
+    "tags": 1665,
     "archived": false,
     "release": {
       "tag": "v1.131.0",
@@ -54,19 +54,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 65,
+    "star_delta_7d": 76,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "c10afced975eddc82fde6f90e8ba9fe582aa9bb0",
-    "v": 4
-  },
   "pins_before": [
+    "c10afced975eddc82fde6f90e8ba9fe582aa9bb0",
     "995562f725851f4eda9dafc8eab088d856793e72"
   ],
-  "pinned_at": "2026-11-19T08:09:02Z",
+  "pinned_at": "2026-11-27T07:38:24Z",
   "hot": true
 }

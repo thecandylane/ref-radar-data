@@ -1,0 +1,67 @@
+{
+  "id": "gh:isglobal-brge/snpassoc",
+  "kind": "repo",
+  "url": "https://github.com/isglobal-brge/SNPassoc",
+  "title": "SNPassoc",
+  "why": "Runs whole genome association analyses in R, from Hardy-Weinberg checks to GLM tests and haplotype and epistasis analysis.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/isglobal-brge/SNPassoc",
+    "sha": "f447edc1186e415a19b9477751c2f08d201b7a15",
+    "file_url": "https://cdn.jsdelivr.net/gh/isglobal-brge/SNPassoc@f447edc1186e415a19b9477751c2f08d201b7a15/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 16,
+    "size_mb": 2,
+    "created_at": "2017-05-29T20:41:02Z",
+    "last_commit_at": "2026-04-13T08:38:45Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v2.1-2",
+      "at": "2026-03-23T13:25:35.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f447edc1186e415a19b9477751c2f08d201b7a15",
+    "v": 4
+  }
+}

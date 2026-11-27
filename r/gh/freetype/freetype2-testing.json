@@ -1,0 +1,62 @@
+{
+  "id": "gh:freetype/freetype2-testing",
+  "kind": "repo",
+  "url": "https://github.com/freetype/freetype2-testing",
+  "title": "freetype2-testing",
+  "why": "Fuzz targets for OSS-Fuzz plus a Travis regression suite that replays fuzzed samples which uncovered FreeType bugs since fixed.",
+  "keys": {
+    "races": [
+      "media/fonts",
+      "exploit/fuzzing",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "media/fonts",
+      "exploit/fuzzing",
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/freetype/freetype2-testing",
+    "sha": "db8ae87fead2ede5487e242dd9f5a129ca5e9fd2",
+    "file_url": "https://cdn.jsdelivr.net/gh/freetype/freetype2-testing@db8ae87fead2ede5487e242dd9f5a129ca5e9fd2/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-2.0",
+    "stars": 14,
+    "size_mb": 3,
+    "created_at": "2018-05-14T14:10:03Z",
+    "last_commit_at": "2026-03-25T17:18:36Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "db8ae87fead2ede5487e242dd9f5a129ca5e9fd2",
+    "v": 4
+  }
+}

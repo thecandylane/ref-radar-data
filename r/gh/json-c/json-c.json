@@ -1,0 +1,65 @@
+{
+  "id": "gh:json-c/json-c",
+  "kind": "repo",
+  "url": "https://github.com/json-c/json-c",
+  "title": "json-c",
+  "why": "Parses and serializes JSON in C, with JSON Pointer lookups and JSON Patch application in the same library.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/json-c/json-c",
+    "sha": "890efe91ae8862b29385823a94e2ca1217ee461d",
+    "file_url": "https://cdn.jsdelivr.net/gh/json-c/json-c@890efe91ae8862b29385823a94e2ca1217ee461d/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 3301,
+    "size_mb": 5,
+    "created_at": "2010-12-04T22:17:02Z",
+    "last_commit_at": "2026-11-25T20:40:11Z",
+    "releases": 1,
+    "tags": 12,
+    "archived": false,
+    "release": {
+      "tag": "json-c-0.19-20260627",
+      "at": "2026-06-27T14:04:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "890efe91ae8862b29385823a94e2ca1217ee461d",
+    "v": 4
+  }
+}

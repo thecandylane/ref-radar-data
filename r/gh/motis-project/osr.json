@@ -1,0 +1,67 @@
+{
+  "id": "gh:motis-project/osr",
+  "kind": "repo",
+  "url": "https://github.com/motis-project/osr",
+  "title": "osr",
+  "why": "Map-matches input points onto OSM ways and extracts conditional turn restrictions and elevation data for routing.",
+  "keys": {
+    "races": [
+      "data/geospatial",
+      "logistics/route-optimization"
+    ],
+    "lanes": [
+      "data/geospatial",
+      "logistics/route-optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/motis-project/osr",
+    "sha": "4bc8b62e8cdc816c15010058674d4ec239475919",
+    "file_url": "https://cdn.jsdelivr.net/gh/motis-project/osr@4bc8b62e8cdc816c15010058674d4ec239475919/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 61,
+    "size_mb": 29,
+    "created_at": "2024-03-10T10:07:29Z",
+    "last_commit_at": "2026-11-16T23:45:59Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.0.4",
+      "at": "2024-10-28T13:34:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "4bc8b62e8cdc816c15010058674d4ec239475919",
+    "v": 4
+  }
+}

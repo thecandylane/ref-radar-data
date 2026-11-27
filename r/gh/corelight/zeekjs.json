@@ -1,0 +1,64 @@
+{
+  "id": "gh:corelight/zeekjs",
+  "kind": "repo",
+  "url": "https://github.com/corelight/zeekjs",
+  "title": "zeekjs",
+  "why": "Runs Zeek event handlers as JavaScript on Node.js, so network monitoring scripts are written as plain JS callbacks.",
+  "keys": {
+    "races": [
+      "netsec/ids",
+      "languages/runtimes"
+    ],
+    "lanes": [
+      "netsec/ids",
+      "languages/runtimes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/corelight/zeekjs",
+    "sha": "29ab7cf1ef92a06dcf5b8a0318f034faa23b2155",
+    "file_url": "https://cdn.jsdelivr.net/gh/corelight/zeekjs@29ab7cf1ef92a06dcf5b8a0318f034faa23b2155/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "BSD-3-Clause",
+    "stars": 9,
+    "size_mb": 1,
+    "created_at": "2021-12-17T13:00:12Z",
+    "last_commit_at": "2026-07-10T07:23:45Z",
+    "releases": 0,
+    "tags": 41,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "29ab7cf1ef92a06dcf5b8a0318f034faa23b2155",
+    "v": 4
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "gh:kellyjonbrazil/jc",
+  "kind": "repo",
+  "url": "https://github.com/kellyjonbrazil/jc",
+  "title": "jc",
+  "why": "Converts the output of many command-line tools and file types into JSON, so jq can filter it inside shell scripts.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kellyjonbrazil/jc",
+    "sha": "d8698b5829bdd476579fc2eb20cee32abd04bcf4",
+    "file_url": "https://cdn.jsdelivr.net/gh/kellyjonbrazil/jc@d8698b5829bdd476579fc2eb20cee32abd04bcf4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 8711,
+    "size_mb": 22,
+    "created_at": "2019-10-15T22:04:52Z",
+    "last_commit_at": "2026-10-29T21:51:15Z",
+    "releases": 57,
+    "tags": 116,
+    "archived": false,
+    "release": {
+      "tag": "v1.26.2",
+      "at": "2026-10-29T22:55:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d8698b5829bdd476579fc2eb20cee32abd04bcf4",
+    "v": 4
+  }
+}

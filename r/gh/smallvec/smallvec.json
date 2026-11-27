@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:189ba0ee5ff7214775910180b13d6325621f0041"
+  },
   "id": "gh:smallvec/smallvec",
   "kind": "repo",
   "url": "https://github.com/smallvec/smallvec",
@@ -35,7 +38,7 @@
     "stars": 1772,
     "size_mb": 1,
     "created_at": "2015-04-05T21:42:27Z",
-    "last_commit_at": "2026-11-23T20:17:35Z",
+    "last_commit_at": "2026-11-26T16:42:18Z",
     "releases": 79,
     "tags": 87,
     "archived": false,
@@ -58,5 +61,9 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "189ba0ee5ff7214775910180b13d6325621f0041",
+    "v": 4
+  },
   "pinned_at": "2026-11-23T20:17:35Z"
 }

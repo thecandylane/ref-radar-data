@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ad2a636f40868ac59c0ae4f72a8b9ffe3a125f29"
+  },
   "id": "gh:cmbscipol/furax",
   "kind": "repo",
   "url": "https://github.com/CMBSciPol/furax",
@@ -60,5 +63,17 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pinned_at": "2026-11-24T15:04:30Z"
+  "pack": {
+    "sha": "ad2a636f40868ac59c0ae4f72a8b9ffe3a125f29",
+    "v": 4
+  },
+  "pinned_at": "2026-11-24T15:04:30Z",
+  "papers": [
+    {
+      "id": "arxiv:2603.19600",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
 }

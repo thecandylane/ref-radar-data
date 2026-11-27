@@ -1,0 +1,67 @@
+{
+  "id": "gh:polarsource/polar",
+  "kind": "repo",
+  "url": "https://github.com/polarsource/polar",
+  "title": "polarsource/polar",
+  "why": "Meters tokens, API calls and GPU seconds for usage billing, and acts as merchant of record for tax and receipts.",
+  "keys": {
+    "races": [
+      "finance/billing",
+      "finance/payments"
+    ],
+    "lanes": [
+      "finance/billing",
+      "finance/payments"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "sdk",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/polarsource/polar",
+    "sha": "6c3731ce1b25b1c05cc8e9f3f90d903500750b87",
+    "file_url": "https://cdn.jsdelivr.net/gh/polarsource/polar@6c3731ce1b25b1c05cc8e9f3f90d903500750b87/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 10521,
+    "size_mb": 581,
+    "created_at": "2023-01-26T10:04:27Z",
+    "last_commit_at": "2026-11-27T12:37:47Z",
+    "releases": 96,
+    "tags": 119,
+    "archived": false,
+    "release": {
+      "tag": "@polar-sh/config@0.0.1",
+      "at": "2026-11-26T16:13:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6c3731ce1b25b1c05cc8e9f3f90d903500750b87",
+    "v": 4
+  }
+}

@@ -32,14 +32,14 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Arize-ai/phoenix",
-    "sha": "b1763711d88ac3767b710e92e1f61bede61e3f45",
-    "file_url": "https://cdn.jsdelivr.net/gh/Arize-ai/phoenix@b1763711d88ac3767b710e92e1f61bede61e3f45/{path}"
+    "sha": "2676de0e37cf14b50c41061a9e2c0922c974eff8",
+    "file_url": "https://cdn.jsdelivr.net/gh/Arize-ai/phoenix@2676de0e37cf14b50c41061a9e2c0922c974eff8/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 12432,
-    "size_mb": 571,
+    "stars": 12450,
+    "size_mb": 570,
     "created_at": "2022-11-09T23:44:35Z",
     "last_commit_at": "2026-11-26T08:08:30Z",
     "releases": 929,
@@ -58,19 +58,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 69,
+    "star_delta_7d": 87,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "b1763711d88ac3767b710e92e1f61bede61e3f45",
-    "v": 4
-  },
   "pins_before": [
+    "b1763711d88ac3767b710e92e1f61bede61e3f45",
     "26f422f20ead8a59df366497373e3e0e4813810b"
   ],
-  "pinned_at": "2026-11-19T07:39:29Z",
+  "pinned_at": "2026-11-26T08:08:30Z",
   "hot": true
 }

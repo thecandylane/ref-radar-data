@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:2620d0f45dc20de70f7607869a9c895a32fd4573"
-  },
   "id": "gh:kestra-io/kestra",
   "kind": "repo",
   "url": "https://github.com/kestra-io/kestra",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/kestra-io/kestra",
-    "sha": "2620d0f45dc20de70f7607869a9c895a32fd4573",
-    "file_url": "https://cdn.jsdelivr.net/gh/kestra-io/kestra@2620d0f45dc20de70f7607869a9c895a32fd4573/{path}"
+    "sha": "665efc8555f9f20d5fff1f7c5b1991099fddef38",
+    "file_url": "https://cdn.jsdelivr.net/gh/kestra-io/kestra@665efc8555f9f20d5fff1f7c5b1991099fddef38/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 30365,
-    "size_mb": 159,
+    "stars": 30382,
+    "size_mb": 161,
     "created_at": "2019-08-24T13:56:15Z",
-    "last_commit_at": "2026-11-26T08:44:31Z",
+    "last_commit_at": "2026-11-27T09:25:22Z",
     "releases": 517,
     "tags": 631,
     "archived": false,
@@ -55,19 +52,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 73,
+    "star_delta_7d": 90,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "2620d0f45dc20de70f7607869a9c895a32fd4573",
-    "v": 4
-  },
   "pins_before": [
+    "2620d0f45dc20de70f7607869a9c895a32fd4573",
     "0088d0f5ca28eab5ecf6aaa05ec3bcb00f9ebb47"
   ],
-  "pinned_at": "2026-11-19T08:54:19Z",
+  "pinned_at": "2026-11-27T09:25:22Z",
   "hot": true
 }

@@ -30,8 +30,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/axolotl-ai-cloud/axolotl",
-    "sha": "8dc59747455fbef765633a718312635b52822532",
-    "file_url": "https://cdn.jsdelivr.net/gh/axolotl-ai-cloud/axolotl@8dc59747455fbef765633a718312635b52822532/{path}"
+    "sha": "de8549a4406327ab5311f7187a8afaa232645487",
+    "file_url": "https://cdn.jsdelivr.net/gh/axolotl-ai-cloud/axolotl@de8549a4406327ab5311f7187a8afaa232645487/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -62,12 +62,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "8dc59747455fbef765633a718312635b52822532",
-    "v": 4
-  },
   "pins_before": [
+    "8dc59747455fbef765633a718312635b52822532",
     "75fe8a1c5c52e8d06fdb4df4427559148ad188df"
   ],
-  "pinned_at": "2026-11-19T06:26:03Z"
+  "pinned_at": "2026-11-20T05:10:45Z"
 }

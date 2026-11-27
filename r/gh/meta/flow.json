@@ -34,22 +34,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/meta/flow",
-    "sha": "846ff7e408c0c5e5709a7e89a6d45a12a352b3f9",
-    "file_url": "https://cdn.jsdelivr.net/gh/meta/flow@846ff7e408c0c5e5709a7e89a6d45a12a352b3f9/{path}"
+    "sha": "f7a2f2d5adb6ea72981a6c11f5bb0dc621dee5ff",
+    "file_url": "https://cdn.jsdelivr.net/gh/meta/flow@f7a2f2d5adb6ea72981a6c11f5bb0dc621dee5ff/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 22324,
-    "size_mb": 194,
+    "stars": 22323,
+    "size_mb": 196,
     "created_at": "2014-10-28T17:17:45Z",
-    "last_commit_at": "2026-11-26T06:22:38Z",
-    "releases": 485,
-    "tags": 488,
+    "last_commit_at": "2026-11-27T02:28:37Z",
+    "releases": 486,
+    "tags": 489,
     "archived": false,
     "release": {
-      "tag": "v0.342.0",
-      "at": "2026-11-21T00:24:36.000Z"
+      "tag": "v0.343.0",
+      "at": "2026-11-26T16:10:38.000Z"
     }
   },
   "reuse": "copy",
@@ -60,18 +60,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 6,
+    "star_delta_7d": 5,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "846ff7e408c0c5e5709a7e89a6d45a12a352b3f9",
-    "v": 4
-  },
   "pins_before": [
+    "846ff7e408c0c5e5709a7e89a6d45a12a352b3f9",
     "fd53b69e3592de389f5efe22eee4dffc52b30a67"
   ],
-  "pinned_at": "2026-11-19T08:07:02Z"
+  "pinned_at": "2026-11-27T02:28:37Z"
 }

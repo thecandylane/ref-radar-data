@@ -1,0 +1,69 @@
+{
+  "id": "gh:openvinotoolkit/openvino",
+  "kind": "repo",
+  "url": "https://github.com/openvinotoolkit/openvino",
+  "title": "openvino",
+  "why": "Converts PyTorch, TensorFlow and ONNX models and runs them on Intel CPU, GPU and NPU devices through one compile-and-infer API.",
+  "keys": {
+    "races": [
+      "llm-infra/inference",
+      "ml/vision",
+      "media/speech"
+    ],
+    "lanes": [
+      "llm-infra/inference",
+      "ml/vision",
+      "media/speech"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openvinotoolkit/openvino",
+    "sha": "2e7a29705be71c0a15f01b5c1d34b5fe72955fbb",
+    "file_url": "https://raw.githubusercontent.com/openvinotoolkit/openvino/2e7a29705be71c0a15f01b5c1d34b5fe72955fbb/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 12747,
+    "size_mb": 1032,
+    "created_at": "2018-10-15T10:54:40Z",
+    "last_commit_at": "2026-11-26T08:59:07Z",
+    "releases": 65,
+    "tags": 90,
+    "archived": false,
+    "release": {
+      "tag": "2026.4.1",
+      "at": "2026-10-01T13:45:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "2e7a29705be71c0a15f01b5c1d34b5fe72955fbb",
+    "v": 4
+  }
+}

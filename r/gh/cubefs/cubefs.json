@@ -32,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/cubefs/cubefs",
-    "sha": "55fdc155c001c95f0a7e9e9a5e4f7faa0cd866d5",
-    "file_url": "https://cdn.jsdelivr.net/gh/cubefs/cubefs@55fdc155c001c95f0a7e9e9a5e4f7faa0cd866d5/{path}"
+    "sha": "bda109899ceaa9de0fed7cf9c3be9261b8bfbe47",
+    "file_url": "https://cdn.jsdelivr.net/gh/cubefs/cubefs@bda109899ceaa9de0fed7cf9c3be9261b8bfbe47/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 5704,
+    "stars": 5706,
     "size_mb": 173,
     "created_at": "2019-02-19T03:15:04Z",
-    "last_commit_at": "2026-11-13T07:56:21Z",
+    "last_commit_at": "2026-11-27T07:50:21Z",
     "releases": 44,
     "tags": 53,
     "archived": false,
@@ -64,5 +64,20 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pinned_at": "2026-11-13T07:56:21Z"
+  "pack": {
+    "sha": "bda109899ceaa9de0fed7cf9c3be9261b8bfbe47",
+    "v": 4
+  },
+  "pins_before": [
+    "55fdc155c001c95f0a7e9e9a5e4f7faa0cd866d5"
+  ],
+  "pinned_at": "2026-11-27T07:50:21Z",
+  "papers": [
+    {
+      "id": "arxiv:1911.03001",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
 }

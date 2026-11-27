@@ -1,0 +1,58 @@
+{
+  "id": "gh:cosmograil/pycs",
+  "kind": "repo",
+  "url": "https://github.com/COSMOGRAIL/PyCS",
+  "title": "PyCS",
+  "why": "Shifts curves in Python for the COSMOGRAIL lab, and its README says it is no longer maintained in favor of PyCS3.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/COSMOGRAIL/PyCS",
+    "sha": "e29c92b57efaa2c69ca795c6d7c8294afe892d3d",
+    "file_url": "https://cdn.jsdelivr.net/gh/COSMOGRAIL/PyCS@e29c92b57efaa2c69ca795c6d7c8294afe892d3d/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 4,
+    "size_mb": 104,
+    "created_at": "2016-02-02T16:09:34Z",
+    "last_commit_at": "2020-09-01T08:49:12Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e29c92b57efaa2c69ca795c6d7c8294afe892d3d",
+    "v": 4
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "gh:laudspeaker/laudspeaker",
+  "kind": "repo",
+  "url": "https://github.com/laudspeaker/laudspeaker",
+  "title": "laudspeaker",
+  "why": "Visual journeys that send email, SMS, push and webhook messages on user events, though it is no longer under active development.",
+  "keys": {
+    "races": [
+      "marketing/email"
+    ],
+    "lanes": [
+      "marketing/email"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/laudspeaker/laudspeaker",
+    "sha": "26d2699e0a04c7a89dbf8312231c8c7a757c55af",
+    "file_url": "https://cdn.jsdelivr.net/gh/laudspeaker/laudspeaker@26d2699e0a04c7a89dbf8312231c8c7a757c55af/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 2636,
+    "size_mb": 31,
+    "created_at": "2022-10-06T00:43:55Z",
+    "last_commit_at": "2026-07-10T17:26:33Z",
+    "releases": 12,
+    "tags": 13,
+    "archived": false,
+    "release": {
+      "tag": "v.1.7.0",
+      "at": "2024-06-06T17:05:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "26d2699e0a04c7a89dbf8312231c8c7a757c55af",
+    "v": 4
+  }
+}

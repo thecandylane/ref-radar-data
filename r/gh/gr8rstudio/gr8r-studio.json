@@ -1,0 +1,62 @@
+{
+  "id": "gh:gr8rstudio/gr8r-studio",
+  "kind": "repo",
+  "url": "https://github.com/gr8rstudio/gr8r-studio",
+  "title": "gr8r-studio",
+  "why": "Team task app with board, table, calendar and timeline views, plus project pages and an activity log.",
+  "keys": {
+    "races": [
+      "practice/process"
+    ],
+    "lanes": [
+      "practice/process"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gr8rstudio/gr8r-studio",
+    "sha": "904205c626918ee96054eb35495c394a60c0c601",
+    "file_url": "https://cdn.jsdelivr.net/gh/gr8rstudio/gr8r-studio@904205c626918ee96054eb35495c394a60c0c601/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "none",
+    "stars": 2158,
+    "size_mb": 1,
+    "created_at": "2026-10-07T11:44:07Z",
+    "last_commit_at": "2026-10-07T14:05:10Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "904205c626918ee96054eb35495c394a60c0c601",
+    "v": 4
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "gh:tjko/jpegoptim",
+  "kind": "repo",
+  "url": "https://github.com/tjko/jpegoptim",
+  "title": "jpegoptim",
+  "why": "Shrinks JPEG files by re-encoding them, and can strip AI markers and Exif or XMP metadata from each file in place.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tjko/jpegoptim",
+    "sha": "c370ce7b7c0d6f0992d95a0bc6e74a1a600d6675",
+    "file_url": "https://cdn.jsdelivr.net/gh/tjko/jpegoptim@c370ce7b7c0d6f0992d95a0bc6e74a1a600d6675/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-3.0",
+    "stars": 1829,
+    "size_mb": 1,
+    "created_at": "2011-09-24T06:02:05Z",
+    "last_commit_at": "2026-11-25T06:14:38Z",
+    "releases": 8,
+    "tags": 27,
+    "archived": false,
+    "release": {
+      "tag": "v1.5.6",
+      "at": "2025-09-15T02:46:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c370ce7b7c0d6f0992d95a0bc6e74a1a600d6675",
+    "v": 4
+  }
+}

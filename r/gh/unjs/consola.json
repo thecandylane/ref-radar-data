@@ -1,0 +1,69 @@
+{
+  "id": "gh:unjs/consola",
+  "kind": "repo",
+  "url": "https://github.com/unjs/consola",
+  "title": "consola",
+  "why": "Logger for Node and browsers with fancy terminal output, a plain fallback in CI, and mocks for Jest or Vitest tests.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/unjs/consola",
+    "sha": "c47faac1738b7383971c6c20b5a34ffa15e7cc3b",
+    "file_url": "https://cdn.jsdelivr.net/gh/unjs/consola@c47faac1738b7383971c6c20b5a34ffa15e7cc3b/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 7373,
+    "size_mb": 3,
+    "created_at": "2018-03-31T15:47:47Z",
+    "last_commit_at": "2026-03-01T01:57:13Z",
+    "releases": 51,
+    "tags": 93,
+    "archived": false,
+    "release": {
+      "tag": "v3.4.2",
+      "at": "2025-03-18T10:18:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c47faac1738b7383971c6c20b5a34ffa15e7cc3b",
+    "v": 4
+  }
+}

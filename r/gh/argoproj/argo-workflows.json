@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:461a7eaa0ac8365f57aaec88c2fb3e3047381314"
-  },
   "id": "gh:argoproj/argo-workflows",
   "kind": "repo",
   "url": "https://github.com/argoproj/argo-workflows",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/argoproj/argo-workflows",
-    "sha": "461a7eaa0ac8365f57aaec88c2fb3e3047381314",
-    "file_url": "https://cdn.jsdelivr.net/gh/argoproj/argo-workflows@461a7eaa0ac8365f57aaec88c2fb3e3047381314/{path}"
+    "sha": "e4d78d75ab6a6cbe4ef0c26971c304672eda1a39",
+    "file_url": "https://cdn.jsdelivr.net/gh/argoproj/argo-workflows@e4d78d75ab6a6cbe4ef0c26971c304672eda1a39/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 17119,
+    "stars": 17125,
     "size_mb": 190,
     "created_at": "2017-08-21T18:50:44Z",
-    "last_commit_at": "2026-11-26T08:57:09Z",
+    "last_commit_at": "2026-11-27T08:39:14Z",
     "releases": 366,
     "tags": 412,
     "archived": false,
@@ -61,18 +58,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 12,
+    "star_delta_7d": 18,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "461a7eaa0ac8365f57aaec88c2fb3e3047381314",
-    "v": 4
-  },
   "pins_before": [
+    "461a7eaa0ac8365f57aaec88c2fb3e3047381314",
     "3142f33a38a9ce8912a02091374583d3c2317f77"
   ],
-  "pinned_at": "2026-11-19T04:56:51Z"
+  "pinned_at": "2026-11-27T08:39:14Z"
 }

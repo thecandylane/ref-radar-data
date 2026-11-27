@@ -28,22 +28,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/agentclientprotocol/claude-agent-acp",
-    "sha": "aa93ed06c1b0d54642727b9ab23b94f953c49cca",
-    "file_url": "https://cdn.jsdelivr.net/gh/agentclientprotocol/claude-agent-acp@aa93ed06c1b0d54642727b9ab23b94f953c49cca/{path}"
+    "sha": "9918571ebf265b5079ac0b6066aa5367f0021c82",
+    "file_url": "https://cdn.jsdelivr.net/gh/agentclientprotocol/claude-agent-acp@9918571ebf265b5079ac0b6066aa5367f0021c82/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 2820,
-    "size_mb": 10,
+    "stars": 2825,
+    "size_mb": 11,
     "created_at": "2025-08-27T07:10:19Z",
-    "last_commit_at": "2026-11-25T15:28:25Z",
-    "releases": 191,
-    "tags": 519,
+    "last_commit_at": "2026-11-26T15:15:15Z",
+    "releases": 192,
+    "tags": 522,
     "archived": false,
     "release": {
-      "tag": "v0.112.0",
-      "at": "2026-11-24T18:12:56.000Z"
+      "tag": "v0.113.0",
+      "at": "2026-11-26T13:34:35.000Z"
     }
   },
   "reuse": "copy",
@@ -54,18 +54,23 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 22,
+    "star_delta_7d": 27,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "9918571ebf265b5079ac0b6066aa5367f0021c82",
+    "v": 4
+  },
   "pins_before": [
+    "aa93ed06c1b0d54642727b9ab23b94f953c49cca",
     "37241a9e288f1d9cf8e5820acfc9b786b5951e68",
     "f9c25404ecebd2da2604608ac3be368784962236",
     "4af4581ad510a85d5cdfa3b9100412479e1cfef4",
     "184b7df993c0c64df593188f15bb0e5206f3e6fb",
     "3205f0bf0211f9346dad8583944f007bd0ef73c2"
   ],
-  "pinned_at": "2026-11-24T18:12:34Z"
+  "pinned_at": "2026-11-26T15:15:15Z"
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c5049a9bc5a0aebc70784750eb91b83c08804bfa"
+  },
   "id": "gh:clientio/joint",
   "kind": "repo",
   "url": "https://github.com/clientIO/joint",
@@ -30,10 +33,10 @@
   "facts": {
     "lang": "JavaScript",
     "license": "MPL-2.0",
-    "stars": 5401,
+    "stars": 5402,
     "size_mb": 57,
     "created_at": "2009-09-11T11:17:53Z",
-    "last_commit_at": "2026-11-24T13:07:53Z",
+    "last_commit_at": "2026-11-26T11:42:31Z",
     "releases": 88,
     "tags": 106,
     "archived": false,
@@ -56,5 +59,9 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "c5049a9bc5a0aebc70784750eb91b83c08804bfa",
+    "v": 4
+  },
   "pinned_at": "2026-11-24T13:07:53Z"
 }

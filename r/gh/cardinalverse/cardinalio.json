@@ -1,0 +1,67 @@
+{
+  "id": "gh:cardinalverse/cardinalio",
+  "kind": "repo",
+  "url": "https://github.com/Cardinalverse/CardinalIO",
+  "title": "CardinalIO",
+  "why": "Parses and writes imzML files in C++ for R, with pugixml handling the XML underneath each spectrumList.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/serialization"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Cardinalverse/CardinalIO",
+    "sha": "e4f571d8783e313cb09a40c9c7ca323b1279d810",
+    "file_url": "https://cdn.jsdelivr.net/gh/Cardinalverse/CardinalIO@e4f571d8783e313cb09a40c9c7ca323b1279d810/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Artistic-2.0",
+    "stars": 6,
+    "size_mb": 1,
+    "created_at": "2023-08-05T05:50:16Z",
+    "last_commit_at": "2026-11-16T23:53:23Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.6.0",
+      "at": "2025-09-22T20:12:38.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e4f571d8783e313cb09a40c9c7ca323b1279d810",
+    "v": 4
+  }
+}

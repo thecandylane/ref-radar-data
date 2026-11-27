@@ -1,0 +1,67 @@
+{
+  "id": "gh:metriport/metriport",
+  "kind": "repo",
+  "url": "https://github.com/metriport/metriport",
+  "title": "metriport",
+  "why": "Pulls records from HIE networks, ADT feeds and EHRs, then harmonizes them into one FHIR-native API and data warehouse.",
+  "keys": {
+    "races": [
+      "medicine/interoperability",
+      "medicine/ehr"
+    ],
+    "lanes": [
+      "medicine/interoperability",
+      "medicine/ehr"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/metriport/metriport",
+    "sha": "e1f26d504cb9d132d66a7a9607ffb199be759168",
+    "file_url": "https://raw.githubusercontent.com/metriport/metriport/e1f26d504cb9d132d66a7a9607ffb199be759168/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 801,
+    "size_mb": 538,
+    "created_at": "2022-12-21T05:07:17Z",
+    "last_commit_at": "2026-08-28T00:45:46Z",
+    "releases": 796,
+    "tags": 4642,
+    "archived": false,
+    "release": {
+      "tag": "v5.84.0",
+      "at": "2024-03-27T16:18:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e1f26d504cb9d132d66a7a9607ffb199be759168",
+    "v": 4
+  }
+}

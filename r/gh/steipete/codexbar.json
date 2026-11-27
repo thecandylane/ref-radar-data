@@ -1,0 +1,64 @@
+{
+  "id": "gh:steipete/codexbar",
+  "kind": "repo",
+  "url": "https://github.com/steipete/CodexBar",
+  "title": "CodexBar",
+  "why": "Shows each AI coding provider's session and weekly limits with reset countdowns in the menu bar, and the same numbers from a CLI.",
+  "keys": {
+    "races": [
+      "agents/clients"
+    ],
+    "lanes": [
+      "agents/clients"
+    ],
+    "capabilities": [
+      "agents/clients/desktop-apps",
+      "agents/clients/terminal-clients"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/steipete/CodexBar",
+    "sha": "a26ca57b518667a659d69524c473af2735069612",
+    "file_url": "https://cdn.jsdelivr.net/gh/steipete/CodexBar@a26ca57b518667a659d69524c473af2735069612/{path}"
+  },
+  "facts": {
+    "lang": "Swift",
+    "license": "MIT",
+    "stars": 23353,
+    "size_mb": 364,
+    "created_at": "2025-11-16T17:00:44Z",
+    "last_commit_at": "2026-11-21T17:40:45Z",
+    "releases": 157,
+    "tags": 176,
+    "archived": false,
+    "release": {
+      "tag": "v0.85.0",
+      "at": "2026-11-21T17:35:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "a26ca57b518667a659d69524c473af2735069612",
+    "v": 4
+  }
+}

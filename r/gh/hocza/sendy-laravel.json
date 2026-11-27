@@ -1,0 +1,65 @@
+{
+  "id": "gh:hocza/sendy-laravel",
+  "kind": "repo",
+  "url": "https://github.com/hocza/sendy-laravel",
+  "title": "sendy-laravel",
+  "why": "Wraps the Sendy API in a Laravel facade to subscribe, unsubscribe, check status and create campaigns from code.",
+  "keys": {
+    "races": [
+      "marketing/email"
+    ],
+    "lanes": [
+      "marketing/email"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hocza/sendy-laravel",
+    "sha": "0e1b53eb0bc28f4b12fe08a410ffa94892fd2f22",
+    "file_url": "https://cdn.jsdelivr.net/gh/hocza/sendy-laravel@0e1b53eb0bc28f4b12fe08a410ffa94892fd2f22/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 71,
+    "size_mb": 0,
+    "created_at": "2015-03-17T19:35:13Z",
+    "last_commit_at": "2024-01-15T06:03:28Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "1.1.1",
+      "at": "2024-01-15T09:19:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "0e1b53eb0bc28f4b12fe08a410ffa94892fd2f22",
+    "v": 4
+  }
+}

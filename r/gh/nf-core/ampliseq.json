@@ -1,0 +1,63 @@
+{
+  "id": "gh:nf-core/ampliseq",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/ampliseq",
+  "title": "ampliseq",
+  "why": "Turns SINTAX and VSEARCH classifier output into taxonomy tables and drops ASVs that fail a codon check.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/ampliseq",
+    "sha": "b9bd579c0480ee23ecf24655f51c0c67777cd6b3",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/ampliseq@b9bd579c0480ee23ecf24655f51c0c67777cd6b3/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 265,
+    "size_mb": 26,
+    "created_at": "2018-09-26T15:24:54Z",
+    "last_commit_at": "2026-10-28T15:16:58Z",
+    "releases": 34,
+    "tags": 34,
+    "archived": false,
+    "release": {
+      "tag": "3.1.0",
+      "at": "2026-10-28T15:19:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b9bd579c0480ee23ecf24655f51c0c67777cd6b3",
+    "v": 4
+  }
+}

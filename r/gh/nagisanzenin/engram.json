@@ -1,0 +1,67 @@
+{
+  "id": "gh:nagisanzenin/engram",
+  "kind": "repo",
+  "url": "https://github.com/nagisanzenin/engram",
+  "title": "engram",
+  "why": "Claude Code plugin that builds a concept map for a topic, grades free recall blind and schedules reviews with FSRS-4.5 on your own history.",
+  "keys": {
+    "races": [
+      "learning/spaced-repetition",
+      "agents/skills",
+      "learning/courses"
+    ],
+    "lanes": [
+      "learning/spaced-repetition",
+      "agents/skills",
+      "learning/courses"
+    ],
+    "capabilities": [
+      "agents/skills/plugin-specs"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nagisanzenin/engram",
+    "sha": "0590eb8f008680acbfb5aaa4dbc73bf63ca643dd",
+    "file_url": "https://cdn.jsdelivr.net/gh/nagisanzenin/engram@0590eb8f008680acbfb5aaa4dbc73bf63ca643dd/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1491,
+    "size_mb": 2,
+    "created_at": "2026-07-05T09:53:10Z",
+    "last_commit_at": "2026-08-27T09:28:55Z",
+    "releases": 55,
+    "tags": 55,
+    "archived": false,
+    "release": {
+      "tag": "v1.15.1",
+      "at": "2026-08-27T09:29:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "0590eb8f008680acbfb5aaa4dbc73bf63ca643dd",
+    "v": 4
+  }
+}

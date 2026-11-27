@@ -1,0 +1,75 @@
+{
+  "id": "gh:techarohq/anubis",
+  "kind": "repo",
+  "url": "https://github.com/TecharoHQ/anubis",
+  "title": "TecharoHQ/anubis",
+  "why": "Puts challenges in front of a site so scraper bots get stopped, with bot policy rules to allowlist good crawlers.",
+  "keys": {
+    "races": [
+      "seo/bot-traffic",
+      "infra/networking"
+    ],
+    "lanes": [
+      "seo/bot-traffic",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/TecharoHQ/anubis",
+    "sha": "7903b22fa03d0f993d0e1b10a2fdfb9c118fd51b",
+    "file_url": "https://cdn.jsdelivr.net/gh/TecharoHQ/anubis@7903b22fa03d0f993d0e1b10a2fdfb9c118fd51b/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 24469,
+    "size_mb": 30,
+    "created_at": "2025-03-17T17:35:28Z",
+    "last_commit_at": "2026-11-23T21:48:08Z",
+    "releases": 53,
+    "tags": 57,
+    "archived": false,
+    "release": {
+      "tag": "v1.28.2",
+      "at": "2026-10-23T05:58:13.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "7903b22fa03d0f993d0e1b10a2fdfb9c118fd51b",
+    "v": 4
+  }
+}

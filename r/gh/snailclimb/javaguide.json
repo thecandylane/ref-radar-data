@@ -1,0 +1,60 @@
+{
+  "id": "gh:snailclimb/javaguide",
+  "kind": "repo",
+  "url": "https://github.com/Snailclimb/JavaGuide",
+  "title": "JavaGuide",
+  "why": "Java interview study guide covering MySQL, Redis, system design and JVM topics, with an AI application track for backend developers.",
+  "keys": {
+    "races": [
+      "learning/courses",
+      "practice/architecture"
+    ],
+    "lanes": [
+      "learning/courses",
+      "practice/architecture"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Snailclimb/JavaGuide",
+    "sha": "992dae31eade2a34ba8dbbbcf5ed9de5511325ec",
+    "file_url": "https://cdn.jsdelivr.net/gh/Snailclimb/JavaGuide@992dae31eade2a34ba8dbbbcf5ed9de5511325ec/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "Apache-2.0",
+    "stars": 159686,
+    "size_mb": 179,
+    "created_at": "2018-05-07T13:27:00Z",
+    "last_commit_at": "2026-10-25T11:47:10Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "992dae31eade2a34ba8dbbbcf5ed9de5511325ec",
+    "v": 4
+  }
+}

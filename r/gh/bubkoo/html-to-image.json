@@ -1,0 +1,65 @@
+{
+  "id": "gh:bubkoo/html-to-image",
+  "kind": "repo",
+  "url": "https://github.com/bubkoo/html-to-image",
+  "title": "html-to-image",
+  "why": "Turns a DOM node into PNG, JPEG, SVG or canvas output, copying computed styles onto a detached clone first.",
+  "keys": {
+    "races": [
+      "web/css"
+    ],
+    "lanes": [
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bubkoo/html-to-image",
+    "sha": "f8d1c4b1abb7decf143fdf418ad08fa8b22bd309",
+    "file_url": "https://cdn.jsdelivr.net/gh/bubkoo/html-to-image@f8d1c4b1abb7decf143fdf418ad08fa8b22bd309/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 7276,
+    "size_mb": 332,
+    "created_at": "2017-12-04T09:29:15Z",
+    "last_commit_at": "2026-11-18T17:52:31Z",
+    "releases": 60,
+    "tags": 68,
+    "archived": false,
+    "release": {
+      "tag": "v1.11.13",
+      "at": "2025-02-14T01:43:50.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f8d1c4b1abb7decf143fdf418ad08fa8b22bd309",
+    "v": 4
+  }
+}

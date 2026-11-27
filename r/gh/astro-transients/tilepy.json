@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:07c9bdd22b01b345b1e2170686c4a6a9f2ed5641"
+  },
   "id": "gh:astro-transients/tilepy",
   "kind": "repo",
   "url": "https://github.com/astro-transients/tilepy",
@@ -58,7 +61,17 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "07c9bdd22b01b345b1e2170686c4a6a9f2ed5641",
+    "v": 4
+  },
   "papers": [
+    {
+      "id": "arxiv:2407.18076",
+      "via": [
+        "repo"
+      ]
+    },
     {
       "id": "arxiv:2312.08802",
       "via": [

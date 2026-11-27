@@ -1,0 +1,67 @@
+{
+  "id": "gh:apache/maven-scm-publish-plugin",
+  "kind": "repo",
+  "url": "https://github.com/apache/maven-scm-publish-plugin",
+  "title": "maven-scm-publish-plugin",
+  "why": "Maven goal that checks out an existing repo, copies generated files in and checks them in, with dry run and skip modes.",
+  "keys": {
+    "races": [
+      "dev-tools/build",
+      "dev-tools/vcs"
+    ],
+    "lanes": [
+      "dev-tools/build",
+      "dev-tools/vcs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/maven-scm-publish-plugin",
+    "sha": "24368a2e3d1ac5db9dc5e4ce4fb2d2bc1bef984b",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/maven-scm-publish-plugin@24368a2e3d1ac5db9dc5e4ce4fb2d2bc1bef984b/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 18,
+    "size_mb": 0,
+    "created_at": "2017-12-09T15:15:40Z",
+    "last_commit_at": "2026-11-26T09:11:55Z",
+    "releases": 1,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "maven-scm-publish-plugin-3.3.0",
+      "at": "2025-05-03T12:56:13.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "24368a2e3d1ac5db9dc5e4ce4fb2d2bc1bef984b",
+    "v": 4
+  }
+}

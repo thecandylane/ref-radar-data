@@ -1,0 +1,65 @@
+{
+  "id": "gh:escalated-dev/escalated",
+  "kind": "repo",
+  "url": "https://github.com/escalated-dev/escalated",
+  "title": "escalated",
+  "why": "Vue helpdesk with agent queues, SLA timers and an embeddable widget that talks to its host page through a frame bridge checking origins.",
+  "keys": {
+    "races": [
+      "support/helpdesk"
+    ],
+    "lanes": [
+      "support/helpdesk"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/escalated-dev/escalated",
+    "sha": "01eb76ad95a50940d488980154d5dc1005b12f85",
+    "file_url": "https://cdn.jsdelivr.net/gh/escalated-dev/escalated@01eb76ad95a50940d488980154d5dc1005b12f85/{path}"
+  },
+  "facts": {
+    "lang": "Vue",
+    "license": "MIT",
+    "stars": 49,
+    "size_mb": 54,
+    "created_at": "2026-02-07T03:44:11Z",
+    "last_commit_at": "2026-11-26T05:42:37Z",
+    "releases": 29,
+    "tags": 40,
+    "archived": false,
+    "release": {
+      "tag": "v0.12.12",
+      "at": "2026-11-26T05:42:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "01eb76ad95a50940d488980154d5dc1005b12f85",
+    "v": 4
+  }
+}

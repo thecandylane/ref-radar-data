@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c03beb56ba8757386f82477caff3874284503bbe"
+  },
   "id": "gh:fdm-monster/fdm-monster",
   "kind": "repo",
   "url": "https://github.com/fdm-monster/fdm-monster",
@@ -36,7 +39,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 200,
+    "stars": 201,
     "size_mb": 65,
     "created_at": "2021-09-11T10:11:23Z",
     "last_commit_at": "2026-11-21T02:51:56Z",
@@ -62,5 +65,9 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "c03beb56ba8757386f82477caff3874284503bbe",
+    "v": 4
+  },
   "pinned_at": "2026-11-21T02:51:56Z"
 }

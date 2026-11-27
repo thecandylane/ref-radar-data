@@ -26,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/caprover/caprover",
-    "sha": "0715c54de6c9ffef9fef54af7a9fce6e44c850cb",
-    "file_url": "https://cdn.jsdelivr.net/gh/caprover/caprover@0715c54de6c9ffef9fef54af7a9fce6e44c850cb/{path}"
+    "sha": "9d2320ac5b2f17aaa75c3f613e71ab8674cab69b",
+    "file_url": "https://cdn.jsdelivr.net/gh/caprover/caprover@9d2320ac5b2f17aaa75c3f613e71ab8674cab69b/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 15209,
+    "stars": 15210,
     "size_mb": 46,
     "created_at": "2017-10-25T05:00:43Z",
     "last_commit_at": "2026-11-22T18:26:49Z",
@@ -52,18 +52,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "0715c54de6c9ffef9fef54af7a9fce6e44c850cb",
-    "v": 4
-  },
   "pins_before": [
+    "0715c54de6c9ffef9fef54af7a9fce6e44c850cb",
     "41157992133943f52d9a34f87fb537c3e070d13d"
   ],
-  "pinned_at": "2026-11-19T05:10:39Z"
+  "pinned_at": "2026-11-22T18:26:49Z"
 }

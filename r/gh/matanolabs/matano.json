@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:84133693769ece362822c3bf423fb9956d32fe92"
+  },
   "id": "gh:matanolabs/matano",
   "kind": "repo",
   "url": "https://github.com/matanolabs/matano",
@@ -58,5 +61,10 @@
     "ranks": {}
   },
   "tier": "discovered",
-  "drafted": true
+  "drafted": true,
+  "pack": {
+    "sha": "84133693769ece362822c3bf423fb9956d32fe92",
+    "v": 4
+  },
+  "pinned_at": "2025-01-08T03:50:17Z"
 }

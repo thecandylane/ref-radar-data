@@ -1,0 +1,76 @@
+{
+  "id": "gh:bareid/cosmoxi2d",
+  "kind": "repo",
+  "url": "https://github.com/bareid/cosmoxi2d",
+  "title": "cosmoxi2d",
+  "why": "Computes the multipoles of the redshift space correlation function from an input linear power spectrum and bias.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bareid/cosmoxi2d",
+    "sha": "390bcfa12eb5643790b0d8cbc66c821d170e96c9",
+    "file_url": "https://cdn.jsdelivr.net/gh/bareid/cosmoxi2d@390bcfa12eb5643790b0d8cbc66c821d170e96c9/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 2,
+    "size_mb": 0,
+    "created_at": "2014-10-30T12:42:07Z",
+    "last_commit_at": "2014-10-30T16:06:40Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "390bcfa12eb5643790b0d8cbc66c821d170e96c9",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:1203.6641",
+      "via": [
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:1105.4165",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

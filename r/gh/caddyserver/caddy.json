@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:edcdfa0ed88f7dcc1c53720d25218fde9d63eb1e"
+    "swh": "swh:1:rev:679806f92d49e5b494200f2e90a93f228203a418"
   },
   "id": "gh:caddyserver/caddy",
   "kind": "repo",
@@ -35,13 +35,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/caddyserver/caddy",
-    "sha": "edcdfa0ed88f7dcc1c53720d25218fde9d63eb1e",
-    "file_url": "https://cdn.jsdelivr.net/gh/caddyserver/caddy@edcdfa0ed88f7dcc1c53720d25218fde9d63eb1e/{path}"
+    "sha": "679806f92d49e5b494200f2e90a93f228203a418",
+    "file_url": "https://cdn.jsdelivr.net/gh/caddyserver/caddy@679806f92d49e5b494200f2e90a93f228203a418/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 79567,
+    "stars": 79603,
     "size_mb": 21,
     "created_at": "2015-01-13T19:45:03Z",
     "last_commit_at": "2026-11-24T07:49:19Z",
@@ -61,19 +61,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 261,
+    "star_delta_7d": 297,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "edcdfa0ed88f7dcc1c53720d25218fde9d63eb1e",
-    "v": 4
-  },
   "pins_before": [
+    "edcdfa0ed88f7dcc1c53720d25218fde9d63eb1e",
     "7591cff1fb03202ce022982af020197f3f387220"
   ],
-  "pinned_at": "2026-11-19T07:04:44Z",
+  "pinned_at": "2026-11-24T07:49:19Z",
   "hot": true
 }

@@ -1,0 +1,60 @@
+{
+  "id": "gh:nf-core/deepmodeloptim",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/deepmodeloptim",
+  "title": "deepmodeloptim",
+  "why": "Nextflow workflow for tuning a deep model over a parameter grid, and it stops early when that grid is empty.",
+  "keys": {
+    "races": [
+      "ml/training",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "ml/training",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/deepmodeloptim",
+    "sha": "99252837424fa45ebc01c0f28f768da4fd85c1ab",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/deepmodeloptim@99252837424fa45ebc01c0f28f768da4fd85c1ab/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 32,
+    "size_mb": 4,
+    "created_at": "2024-03-04T11:37:13Z",
+    "last_commit_at": "2026-10-07T12:54:05Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "99252837424fa45ebc01c0f28f768da4fd85c1ab",
+    "v": 4
+  }
+}

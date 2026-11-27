@@ -1,0 +1,67 @@
+{
+  "id": "gh:thesysdev/openui",
+  "kind": "repo",
+  "url": "https://github.com/thesysdev/openui",
+  "title": "openui",
+  "why": "Has the model stream a compact UI language that React, Vue, Svelte or Angular renders live, with up to 67% fewer tokens than JSON.",
+  "keys": {
+    "races": [
+      "web/ui-components",
+      "agents/frameworks"
+    ],
+    "lanes": [
+      "web/ui-components",
+      "agents/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/thesysdev/openui",
+    "sha": "039dd484b6420ee1b7801c43fac22eb7f2ad6bc1",
+    "file_url": "https://raw.githubusercontent.com/thesysdev/openui/039dd484b6420ee1b7801c43fac22eb7f2ad6bc1/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 15542,
+    "size_mb": 468,
+    "created_at": "2024-12-02T10:40:06Z",
+    "last_commit_at": "2026-11-27T12:32:46Z",
+    "releases": 148,
+    "tags": 148,
+    "archived": false,
+    "release": {
+      "tag": "@openuidev/react-ui@0.20.1",
+      "at": "2026-11-26T14:14:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "039dd484b6420ee1b7801c43fac22eb7f2ad6bc1",
+    "v": 4
+  }
+}

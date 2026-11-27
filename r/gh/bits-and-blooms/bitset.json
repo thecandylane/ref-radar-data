@@ -1,0 +1,65 @@
+{
+  "id": "gh:bits-and-blooms/bitset",
+  "kind": "repo",
+  "url": "https://github.com/bits-and-blooms/bitset",
+  "title": "bitset",
+  "why": "Packs bits into words so Go programs can set, test and count flags over large sets, with BinaryOrder and Base64 export.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bits-and-blooms/bitset",
+    "sha": "f6dab08fbff03138bc4d7b7fddd630916b7c7d31",
+    "file_url": "https://cdn.jsdelivr.net/gh/bits-and-blooms/bitset@f6dab08fbff03138bc4d7b7fddd630916b7c7d31/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "BSD-3-Clause",
+    "stars": 1514,
+    "size_mb": 1,
+    "created_at": "2011-05-11T03:33:44Z",
+    "last_commit_at": "2026-11-19T05:29:10Z",
+    "releases": 53,
+    "tags": 56,
+    "archived": false,
+    "release": {
+      "tag": "v1.30.0",
+      "at": "2026-11-19T05:31:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f6dab08fbff03138bc4d7b7fddd630916b7c7d31",
+    "v": 4
+  }
+}

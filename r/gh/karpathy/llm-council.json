@@ -1,0 +1,62 @@
+{
+  "id": "gh:karpathy/llm-council",
+  "kind": "repo",
+  "url": "https://github.com/karpathy/llm-council",
+  "title": "llm-council",
+  "why": "Sends one query to several models via OpenRouter, has them rank each other's anonymized answers, and a chairman model writes the final reply.",
+  "keys": {
+    "races": [
+      "llm-infra/chat-apps",
+      "llm-infra/gateways"
+    ],
+    "lanes": [
+      "llm-infra/chat-apps",
+      "llm-infra/gateways"
+    ],
+    "capabilities": [
+      "llm-infra/gateways/model-routing"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/karpathy/llm-council",
+    "sha": "92e1fccb1bdcf1bab7221aa9ed90f9dc72529131",
+    "file_url": "https://cdn.jsdelivr.net/gh/karpathy/llm-council@92e1fccb1bdcf1bab7221aa9ed90f9dc72529131/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 27008,
+    "size_mb": 0,
+    "created_at": "2025-11-22T23:24:14Z",
+    "last_commit_at": "2025-11-22T23:35:19Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "92e1fccb1bdcf1bab7221aa9ed90f9dc72529131",
+    "v": 4
+  }
+}

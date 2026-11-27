@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d12c3fc6233a35285a53478ef6dff6941cdd3c10"
+  },
   "id": "gh:cheshiremew/puppetloom",
   "kind": "repo",
   "url": "https://github.com/CheshireMew/PuppetLoom",
@@ -62,5 +65,17 @@
     "ranks": {}
   },
   "tier": "curated",
-  "drafted": true
+  "drafted": true,
+  "pack": {
+    "sha": "d12c3fc6233a35285a53478ef6dff6941cdd3c10",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2602.03749",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
 }

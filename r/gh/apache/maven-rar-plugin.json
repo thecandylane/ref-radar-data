@@ -1,0 +1,65 @@
+{
+  "id": "gh:apache/maven-rar-plugin",
+  "kind": "repo",
+  "url": "https://github.com/apache/maven-rar-plugin",
+  "title": "maven-rar-plugin",
+  "why": "Maven mojo that builds the RAR file for a project and includes a custom manifest when one is supplied.",
+  "keys": {
+    "races": [
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/maven-rar-plugin",
+    "sha": "87b025e875e651e0a2e1d474234d34b96fbb8f11",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/maven-rar-plugin@87b025e875e651e0a2e1d474234d34b96fbb8f11/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 9,
+    "size_mb": 0,
+    "created_at": "2017-12-09T15:14:14Z",
+    "last_commit_at": "2026-11-26T03:02:43Z",
+    "releases": 2,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "maven-rar-plugin-3.1.0",
+      "at": "2025-11-15T11:50:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "87b025e875e651e0a2e1d474234d34b96fbb8f11",
+    "v": 4
+  }
+}

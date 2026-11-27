@@ -1,0 +1,58 @@
+{
+  "id": "gh:phihag/ipaddress",
+  "kind": "repo",
+  "url": "https://github.com/phihag/ipaddress",
+  "title": "ipaddress",
+  "why": "Backports Python 3.3+ ipaddress to Python 2.6, 2.7 and 3.2, tracking the CPython 3.8 copy.",
+  "keys": {
+    "races": [
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/phihag/ipaddress",
+    "sha": "d8aef06cc3ca8a6fd8570cda665b2bb879a29390",
+    "file_url": "https://cdn.jsdelivr.net/gh/phihag/ipaddress@d8aef06cc3ca8a6fd8570cda665b2bb879a29390/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 112,
+    "size_mb": 0,
+    "created_at": "2013-02-03T20:45:43Z",
+    "last_commit_at": "2019-10-18T01:30:15Z",
+    "releases": 0,
+    "tags": 14,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d8aef06cc3ca8a6fd8570cda665b2bb879a29390",
+    "v": 4
+  }
+}

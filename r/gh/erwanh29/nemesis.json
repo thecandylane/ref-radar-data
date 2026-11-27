@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c229c555ca7948338a715639712081a0f4dd03ca"
+  },
   "id": "gh:erwanh29/nemesis",
   "kind": "repo",
   "url": "https://github.com/ErwanH29/nemesis",
@@ -58,5 +61,17 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pinned_at": "2026-10-20T10:06:02Z"
+  "pack": {
+    "sha": "c229c555ca7948338a715639712081a0f4dd03ca",
+    "v": 4
+  },
+  "pinned_at": "2026-10-20T10:06:02Z",
+  "papers": [
+    {
+      "id": "arxiv:2604.19413",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
 }

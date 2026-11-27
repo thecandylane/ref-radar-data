@@ -1,0 +1,61 @@
+{
+  "id": "gh:pires/go-proxyproto",
+  "kind": "repo",
+  "url": "https://github.com/pires/go-proxyproto",
+  "title": "go-proxyproto",
+  "why": "Go library that parses and writes PROXY protocol v1 and v2 headers, with policies for which connections may carry one.",
+  "keys": {
+    "races": [
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pires/go-proxyproto",
+    "sha": "043cac36ea63620093df49194aebedc86647d4ec",
+    "file_url": "https://cdn.jsdelivr.net/gh/pires/go-proxyproto@043cac36ea63620093df49194aebedc86647d4ec/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 627,
+    "size_mb": 0,
+    "created_at": "2016-08-26T19:08:54Z",
+    "last_commit_at": "2026-11-21T09:15:29Z",
+    "releases": 28,
+    "tags": 29,
+    "archived": false,
+    "release": {
+      "tag": "v0.16.0",
+      "at": "2026-10-19T19:26:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "043cac36ea63620093df49194aebedc86647d4ec",
+    "v": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "gh:3b1b/manim",
+  "kind": "repo",
+  "url": "https://github.com/3b1b/manim",
+  "title": "manim",
+  "why": "Scripted math scenes rendered to video, with flags to write a file or show only the final frame for quick checks.",
+  "keys": {
+    "races": [
+      "media/video"
+    ],
+    "lanes": [
+      "media/video"
+    ],
+    "capabilities": [
+      "media/video/code-video"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/3b1b/manim",
+    "sha": "fafa083a4fb274bba9cabde0b6e2f50ba6da0622",
+    "file_url": "https://cdn.jsdelivr.net/gh/3b1b/manim@fafa083a4fb274bba9cabde0b6e2f50ba6da0622/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 96987,
+    "size_mb": 76,
+    "created_at": "2015-03-22T18:50:58Z",
+    "last_commit_at": "2026-09-09T16:23:48Z",
+    "releases": 13,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v1.7.2",
+      "at": "2024-12-13T02:58:56.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "fafa083a4fb274bba9cabde0b6e2f50ba6da0622",
+    "v": 4
+  }
+}

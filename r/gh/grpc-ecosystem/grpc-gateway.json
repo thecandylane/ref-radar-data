@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5bd371316502e3cfcf4ebe8330e385a120692407"
-  },
   "id": "gh:grpc-ecosystem/grpc-gateway",
   "kind": "repo",
   "url": "https://github.com/grpc-ecosystem/grpc-gateway",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/grpc-ecosystem/grpc-gateway",
-    "sha": "5bd371316502e3cfcf4ebe8330e385a120692407",
-    "file_url": "https://cdn.jsdelivr.net/gh/grpc-ecosystem/grpc-gateway@5bd371316502e3cfcf4ebe8330e385a120692407/{path}"
+    "sha": "65364b5f88002d5eafdc61fd717ba6119f82be82",
+    "file_url": "https://cdn.jsdelivr.net/gh/grpc-ecosystem/grpc-gateway@65364b5f88002d5eafdc61fd717ba6119f82be82/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "BSD-3-Clause",
-    "stars": 20018,
+    "stars": 20016,
     "size_mb": 16,
     "created_at": "2015-04-03T07:25:13Z",
-    "last_commit_at": "2026-11-25T17:28:51Z",
+    "last_commit_at": "2026-11-27T06:50:17Z",
     "releases": 127,
     "tags": 129,
     "archived": false,
@@ -57,18 +54,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 1,
+    "star_delta_7d": -1,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "5bd371316502e3cfcf4ebe8330e385a120692407",
-    "v": 4
-  },
   "pins_before": [
+    "5bd371316502e3cfcf4ebe8330e385a120692407",
     "6b57c41cdfc337bfb9f1a46a66145810bb0378ad"
   ],
-  "pinned_at": "2026-11-19T06:30:04Z"
+  "pinned_at": "2026-11-27T06:50:17Z"
 }

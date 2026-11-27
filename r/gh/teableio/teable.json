@@ -1,0 +1,73 @@
+{
+  "id": "gh:teableio/teable",
+  "kind": "repo",
+  "url": "https://github.com/teableio/teable",
+  "title": "teable",
+  "why": "Builds tables with AI chat and automations on real PostgreSQL, and runs each AI session in its own container.",
+  "keys": {
+    "races": [
+      "business-apps/low-code",
+      "data/databases",
+      "agents/sandboxes"
+    ],
+    "lanes": [
+      "business-apps/low-code",
+      "data/databases",
+      "agents/sandboxes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/teableio/teable",
+    "sha": "1997791c012dc4cfc25ff0a0a4e808c2aaec8b8e",
+    "file_url": "https://cdn.jsdelivr.net/gh/teableio/teable@1997791c012dc4cfc25ff0a0a4e808c2aaec8b8e/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 22028,
+    "size_mb": 97,
+    "created_at": "2022-11-01T07:02:49Z",
+    "last_commit_at": "2026-11-26T03:09:35Z",
+    "releases": 177,
+    "tags": 181,
+    "archived": false,
+    "release": {
+      "tag": "release.2026-11-26T23-38-15Z.4093",
+      "at": "2026-11-27T06:49:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "1997791c012dc4cfc25ff0a0a4e808c2aaec8b8e",
+    "v": 4
+  }
+}

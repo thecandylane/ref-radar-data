@@ -1,0 +1,63 @@
+{
+  "id": "gh:nf-core/cageseq",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/cageseq",
+  "title": "cageseq",
+  "why": "Runs CAGE-seq reads from raw fastq through trimming, STAR or bowtie1 alignment and paraclu clustering, with MultiQC reports.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/cageseq",
+    "sha": "48ac519dd2306b6497594470d9872b0255f86826",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/cageseq@48ac519dd2306b6497594470d9872b0255f86826/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 11,
+    "size_mb": 157,
+    "created_at": "2019-05-28T06:57:58Z",
+    "last_commit_at": "2026-07-28T14:21:10Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "1.0.2",
+      "at": "2021-01-14T07:56:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "48ac519dd2306b6497594470d9872b0255f86826",
+    "v": 4
+  }
+}

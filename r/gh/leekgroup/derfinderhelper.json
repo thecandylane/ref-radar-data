@@ -1,0 +1,58 @@
+{
+  "id": "gh:leekgroup/derfinderhelper",
+  "kind": "repo",
+  "url": "https://github.com/leekgroup/derfinderHelper",
+  "title": "derfinderHelper",
+  "why": "Helper functions for derfinder's expressed region analysis of RNA-seq data, installed from Bioconductor with BiocManager.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/leekgroup/derfinderHelper",
+    "sha": "9c62cf19165538aaecbd87b7e1de4d80bf00c3c9",
+    "file_url": "https://cdn.jsdelivr.net/gh/leekgroup/derfinderHelper@9c62cf19165538aaecbd87b7e1de4d80bf00c3c9/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2014-07-07T14:27:01Z",
+    "last_commit_at": "2026-03-31T17:22:35Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "9c62cf19165538aaecbd87b7e1de4d80bf00c3c9",
+    "v": 4
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "gh:copilotkit/opendots",
+  "kind": "repo",
+  "url": "https://github.com/CopilotKit/OpenDots",
+  "title": "OpenDots",
+  "why": "Agent app with page documents, a computer control panel and Slack and voice channels, where each action goes through a permissions store.",
+  "keys": {
+    "races": [
+      "agents/assistants"
+    ],
+    "lanes": [
+      "agents/assistants"
+    ],
+    "capabilities": [
+      "agents/assistants/personal-agents"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CopilotKit/OpenDots",
+    "sha": "f59b1d32c91ed70eaf8435caace4732ed438acf1",
+    "file_url": "https://cdn.jsdelivr.net/gh/CopilotKit/OpenDots@f59b1d32c91ed70eaf8435caace4732ed438acf1/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 6786,
+    "size_mb": 22,
+    "created_at": "2026-09-29T17:13:58Z",
+    "last_commit_at": "2026-11-25T15:05:30Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f59b1d32c91ed70eaf8435caace4732ed438acf1",
+    "v": 4
+  }
+}

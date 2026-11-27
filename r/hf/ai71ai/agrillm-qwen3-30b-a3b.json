@@ -1,0 +1,57 @@
+{
+  "id": "hf:ai71ai/agrillm-qwen3-30b-a3b",
+  "kind": "model",
+  "url": "https://huggingface.co/AI71ai/agrillm-Qwen3-30B-A3B",
+  "title": "agrillm-Qwen3-30B-A3B",
+  "why": "Agriculture-tuned Qwen3 model with LoRA on 146k domain Q&A pairs, meant to sit behind a RAG knowledge base for farm advice.",
+  "keys": {
+    "races": [
+      "ml/open-models",
+      "llm-infra/rag"
+    ],
+    "lanes": [
+      "ml/open-models",
+      "llm-infra/rag"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://huggingface.co/AI71ai/agrillm-Qwen3-30B-A3B",
+    "sha": "b176600a65e75045bcae992161d839feb7d17a67",
+    "file_url": "https://huggingface.co/AI71ai/agrillm-Qwen3-30B-A3B/raw/b176600a65e75045bcae992161d839feb7d17a67/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "Apache-2.0",
+    "stars": 0,
+    "size_mb": 61078,
+    "created_at": "2025-12-04T09:01:32.000Z",
+    "last_commit_at": "2025-12-08T06:46:28.000Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "likes": 11,
+    "downloads_30d": 63
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true
+}

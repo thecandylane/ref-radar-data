@@ -1,0 +1,61 @@
+{
+  "id": "gh:nf-core/crisprseq",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/crisprseq",
+  "title": "crisprseq",
+  "why": "Turns CRISPR screen reads into hits: UMI extraction, fold change, Bayes factors and clone zygosity calls in one workflow.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/crisprseq",
+    "sha": "4e7df56b49039ba910466e0ac2fbd1a4fae00e3b",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/crisprseq@4e7df56b49039ba910466e0ac2fbd1a4fae00e3b/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 65,
+    "size_mb": 20,
+    "created_at": "2022-07-14T11:14:34Z",
+    "last_commit_at": "2026-10-07T12:51:48Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "2.3.0",
+      "at": "2024-11-08T14:29:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "4e7df56b49039ba910466e0ac2fbd1a4fae00e3b",
+    "v": 4
+  }
+}

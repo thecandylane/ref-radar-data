@@ -1,0 +1,61 @@
+{
+  "id": "gh:hughjonesd/huxtable",
+  "kind": "repo",
+  "url": "https://github.com/hughjonesd/huxtable",
+  "title": "huxtable",
+  "why": "R package whose docs site has a light and dark theme toggle and search, plus a script that fetches GitHub snapshots per platform.",
+  "keys": {
+    "races": [
+      "media/typesetting"
+    ],
+    "lanes": [
+      "media/typesetting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hughjonesd/huxtable",
+    "sha": "a0e3fc2ac9334be1d32a11cdb250741c0a8a9d80",
+    "file_url": "https://cdn.jsdelivr.net/gh/hughjonesd/huxtable@a0e3fc2ac9334be1d32a11cdb250741c0a8a9d80/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 334,
+    "size_mb": 39,
+    "created_at": "2017-02-24T11:29:06Z",
+    "last_commit_at": "2026-09-21T10:21:27Z",
+    "releases": 10,
+    "tags": 66,
+    "archived": false,
+    "release": {
+      "tag": "v6.0.2",
+      "at": "2026-09-21T10:20:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "a0e3fc2ac9334be1d32a11cdb250741c0a8a9d80",
+    "v": 4
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "gh:grageragarces/hdh",
+  "kind": "repo",
+  "url": "https://github.com/grageragarces/HDH",
+  "title": "HDH",
+  "why": "Represents quantum circuits as a hypergraph so cut and teledata or telegate passes can split them, with converters from Qiskit and Cirq.",
+  "keys": {
+    "races": [
+      "sci/quantum"
+    ],
+    "lanes": [
+      "sci/quantum"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/grageragarces/HDH",
+    "sha": "fe525adf07e42ec4f9896ef97a220459c638f218",
+    "file_url": "https://cdn.jsdelivr.net/gh/grageragarces/HDH@fe525adf07e42ec4f9896ef97a220459c638f218/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 12,
+    "size_mb": 3563,
+    "created_at": "2025-05-24T11:36:13Z",
+    "last_commit_at": "2026-11-25T11:17:15Z",
+    "releases": 1,
+    "tags": 25,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-11-09T13:24:26.000Z"
+    },
+    "doi": "10.21105/joss.10912"
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "fe525adf07e42ec4f9896ef97a220459c638f218",
+    "v": 4
+  }
+}

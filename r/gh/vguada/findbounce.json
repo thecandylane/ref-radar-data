@@ -59,18 +59,24 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "7df9e5dba007cfc19ca04bde62c0a1959f039e1c",
+    "v": 4
+  },
   "pinned_at": "2020-05-03T14:57:21Z",
   "papers": [
     {
       "id": "arxiv:2002.00881",
       "via": [
-        "pwc"
+        "pwc",
+        "repo"
       ]
     },
     {
       "id": "arxiv:1803.02227",
       "via": [
-        "pwc"
+        "pwc",
+        "repo"
       ]
     }
   ]

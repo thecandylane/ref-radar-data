@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:cfac7afa6088b1f88e3edb4c9d05b0d9052f453b"
+  },
   "id": "gh:bioconductor/gdsarray",
   "kind": "repo",
   "url": "https://github.com/Bioconductor/GDSArray",
@@ -51,6 +54,10 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "cfac7afa6088b1f88e3edb4c9d05b0d9052f453b",
+    "v": 4
+  },
   "pins_before": [
     "c911edac10f4ed992ac93a82b89b8355cfa64aea"
   ],

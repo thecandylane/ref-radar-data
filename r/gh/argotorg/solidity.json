@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1534f767c923b4502a654cfae81bdbbd7cdedb7b"
-  },
   "id": "gh:argotorg/solidity",
   "kind": "repo",
   "url": "https://github.com/argotorg/solidity",
@@ -25,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/argotorg/solidity",
-    "sha": "1534f767c923b4502a654cfae81bdbbd7cdedb7b",
-    "file_url": "https://cdn.jsdelivr.net/gh/argotorg/solidity@1534f767c923b4502a654cfae81bdbbd7cdedb7b/{path}"
+    "sha": "1a85c6b9d3ca60453b90af173ff189263b1db194",
+    "file_url": "https://cdn.jsdelivr.net/gh/argotorg/solidity@1a85c6b9d3ca60453b90af173ff189263b1db194/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "GPL-3.0",
-    "stars": 25782,
+    "stars": 25784,
     "size_mb": 87,
     "created_at": "2015-08-17T12:27:26Z",
-    "last_commit_at": "2026-11-25T16:23:32Z",
+    "last_commit_at": "2026-11-26T11:54:45Z",
     "releases": 125,
     "tags": 142,
     "archived": false,
@@ -51,18 +48,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 5,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "1534f767c923b4502a654cfae81bdbbd7cdedb7b",
-    "v": 4
-  },
   "pins_before": [
+    "1534f767c923b4502a654cfae81bdbbd7cdedb7b",
     "2574c613b7f694d1e451d47e713864d5343a7e82"
   ],
-  "pinned_at": "2026-11-19T09:00:07Z"
+  "pinned_at": "2026-11-26T11:54:45Z"
 }

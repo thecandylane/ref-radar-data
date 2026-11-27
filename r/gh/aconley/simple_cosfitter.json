@@ -1,0 +1,64 @@
+{
+  "id": "gh:aconley/simple_cosfitter",
+  "kind": "repo",
+  "url": "https://github.com/aconley/simple_cosfitter",
+  "title": "simple_cosfitter",
+  "why": "Grid based supernova fitter for the dark energy equation of state, which can link LAPACK and BLAS libraries.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/aconley/simple_cosfitter",
+    "sha": "9cd3324de47be1142288337a058b04ca19aa1815",
+    "file_url": "https://cdn.jsdelivr.net/gh/aconley/simple_cosfitter@9cd3324de47be1142288337a058b04ca19aa1815/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-3.0",
+    "stars": 0,
+    "size_mb": 1,
+    "created_at": "2012-08-27T15:38:39Z",
+    "last_commit_at": "2015-05-18T19:37:10Z",
+    "releases": 0,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "9cd3324de47be1142288337a058b04ca19aa1815",
+    "v": 4
+  }
+}

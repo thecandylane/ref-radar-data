@@ -1,0 +1,62 @@
+{
+  "id": "gh:cisco/mercury",
+  "kind": "repo",
+  "url": "https://github.com/cisco/mercury",
+  "title": "cisco/mercury",
+  "why": "Captures live packets or reads pcap files, writing JA3 fingerprints and process details per flow as JSON for network monitoring.",
+  "keys": {
+    "races": [
+      "netsec/capture"
+    ],
+    "lanes": [
+      "netsec/capture"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cisco/mercury",
+    "sha": "d64fa8f4691b5869244b202be9c6a693f50a9b06",
+    "file_url": "https://cdn.jsdelivr.net/gh/cisco/mercury@d64fa8f4691b5869244b202be9c6a693f50a9b06/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 523,
+    "size_mb": 341,
+    "created_at": "2019-08-30T21:58:25Z",
+    "last_commit_at": "2026-09-23T18:24:40Z",
+    "releases": 0,
+    "tags": 54,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "d64fa8f4691b5869244b202be9c6a693f50a9b06",
+    "v": 4
+  }
+}

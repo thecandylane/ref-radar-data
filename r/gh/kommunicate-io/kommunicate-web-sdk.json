@@ -1,0 +1,63 @@
+{
+  "id": "gh:kommunicate-io/kommunicate-web-sdk",
+  "kind": "repo",
+  "url": "https://github.com/Kommunicate-io/Kommunicate-Web-SDK",
+  "title": "Kommunicate-Web-SDK",
+  "why": "Injects a support chat widget into a web page, with typing indicators, voice input, star ratings and gen-AI replies.",
+  "keys": {
+    "races": [
+      "support/helpdesk",
+      "llm-infra/chat-apps"
+    ],
+    "lanes": [
+      "support/helpdesk",
+      "llm-infra/chat-apps"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Kommunicate-io/Kommunicate-Web-SDK",
+    "sha": "37080dc9a6d0aceca5bbc04634e89129a6facbf5",
+    "file_url": "https://cdn.jsdelivr.net/gh/Kommunicate-io/Kommunicate-Web-SDK@37080dc9a6d0aceca5bbc04634e89129a6facbf5/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "BSD-3-Clause",
+    "stars": 42,
+    "size_mb": 37,
+    "created_at": "2018-08-16T07:03:21Z",
+    "last_commit_at": "2026-11-06T07:52:52Z",
+    "releases": 12,
+    "tags": 12,
+    "archived": false,
+    "release": {
+      "tag": "v6.5",
+      "at": "2021-02-04T10:26:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "37080dc9a6d0aceca5bbc04634e89129a6facbf5",
+    "v": 4
+  }
+}

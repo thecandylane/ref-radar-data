@@ -1,0 +1,58 @@
+{
+  "id": "gh:isaacs/node-lru-cache",
+  "kind": "repo",
+  "url": "https://github.com/isaacs/node-lru-cache",
+  "title": "node-lru-cache",
+  "why": "Least-recently-used cache for JavaScript that evicts by max count, maxSize or ttl, and runs in browsers too.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/isaacs/node-lru-cache",
+    "sha": "7e71a1f3babdc68dfbadde91f28eaeea919dad9b",
+    "file_url": "https://cdn.jsdelivr.net/gh/isaacs/node-lru-cache@7e71a1f3babdc68dfbadde91f28eaeea919dad9b/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "BlueOak-1.0.0",
+    "stars": 5918,
+    "size_mb": 2,
+    "created_at": "2010-05-21T21:00:58Z",
+    "last_commit_at": "2026-09-18T23:44:47Z",
+    "releases": 0,
+    "tags": 165,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "7e71a1f3babdc68dfbadde91f28eaeea919dad9b",
+    "v": 4
+  }
+}

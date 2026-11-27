@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a5a8acf2c6ae44a73670e0caf34663f16456d645"
-  },
   "id": "gh:ahujasid/mcp-for-blender",
   "kind": "repo",
   "url": "https://github.com/ahujasid/mcp-for-blender",
@@ -32,16 +29,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ahujasid/mcp-for-blender",
-    "sha": "a5a8acf2c6ae44a73670e0caf34663f16456d645",
-    "file_url": "https://cdn.jsdelivr.net/gh/ahujasid/mcp-for-blender@a5a8acf2c6ae44a73670e0caf34663f16456d645/{path}"
+    "sha": "7f31a4623cafac7441ba9b97e67a8787b9069ee2",
+    "file_url": "https://cdn.jsdelivr.net/gh/ahujasid/mcp-for-blender@7f31a4623cafac7441ba9b97e67a8787b9069ee2/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 35853,
+    "stars": 35961,
     "size_mb": 3,
     "created_at": "2025-03-07T09:58:58Z",
-    "last_commit_at": "2026-11-18T10:26:51Z",
+    "last_commit_at": "2026-11-26T16:55:13Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -61,5 +58,12 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pinned_at": "2026-11-18T10:26:51Z"
+  "pack": {
+    "sha": "7f31a4623cafac7441ba9b97e67a8787b9069ee2",
+    "v": 4
+  },
+  "pins_before": [
+    "a5a8acf2c6ae44a73670e0caf34663f16456d645"
+  ],
+  "pinned_at": "2026-11-26T16:55:13Z"
 }

@@ -1,0 +1,65 @@
+{
+  "id": "gh:polymarket/py-clob-client",
+  "kind": "repo",
+  "url": "https://github.com/Polymarket/py-clob-client",
+  "title": "py-clob-client",
+  "why": "Archived Python client for placing orders and reading the order book on Polymarket; the README says not to use it and names py-sdk.",
+  "keys": {
+    "races": [
+      "finance/trading",
+      "finance/markets"
+    ],
+    "lanes": [
+      "finance/trading",
+      "finance/markets"
+    ],
+    "capabilities": [
+      "finance/markets/market-data"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Polymarket/py-clob-client",
+    "sha": "b076b04d61135657e25dccc1bbd6866a96bd8c6e",
+    "file_url": "https://cdn.jsdelivr.net/gh/Polymarket/py-clob-client@b076b04d61135657e25dccc1bbd6866a96bd8c6e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1223,
+    "size_mb": 0,
+    "created_at": "2022-02-03T03:10:50Z",
+    "last_commit_at": "2026-05-25T18:13:30Z",
+    "releases": 81,
+    "tags": 84,
+    "archived": true,
+    "release": {
+      "tag": "v0.34.6",
+      "at": "2026-02-19T13:26:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b076b04d61135657e25dccc1bbd6866a96bd8c6e",
+    "v": 4
+  }
+}

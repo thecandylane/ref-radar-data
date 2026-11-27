@@ -1,0 +1,62 @@
+{
+  "id": "gh:rferdman/afr",
+  "kind": "repo",
+  "url": "https://github.com/rferdman/afr",
+  "title": "afr",
+  "why": "Run its C tools over raw pulsar recordings to produce arrival-time files for tempo, with -h flags listing each command's options.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rferdman/afr",
+    "sha": "242a9a2d0306d4fffc32ff8a794d0d79d3943e63",
+    "file_url": "https://cdn.jsdelivr.net/gh/rferdman/afr@242a9a2d0306d4fffc32ff8a794d0d79d3943e63/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2013-02-26T20:27:34Z",
+    "last_commit_at": "2016-02-25T14:43:21Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "242a9a2d0306d4fffc32ff8a794d0d79d3943e63",
+    "v": 4
+  }
+}

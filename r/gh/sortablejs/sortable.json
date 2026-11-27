@@ -1,0 +1,65 @@
+{
+  "id": "gh:sortablejs/sortable",
+  "kind": "repo",
+  "url": "https://github.com/SortableJS/Sortable",
+  "title": "Sortable",
+  "why": "Pick it when a browser list needs drag reordering on touch screens, and items can move between lists that share a group name.",
+  "keys": {
+    "races": [
+      "web/ui-components"
+    ],
+    "lanes": [
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/SortableJS/Sortable",
+    "sha": "48b626bbc61afbb0f179730c1dd3cca3dcc8b788",
+    "file_url": "https://cdn.jsdelivr.net/gh/SortableJS/Sortable@48b626bbc61afbb0f179730c1dd3cca3dcc8b788/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 31212,
+    "size_mb": 3,
+    "created_at": "2013-12-19T10:10:13Z",
+    "last_commit_at": "2026-03-24T22:02:15Z",
+    "releases": 31,
+    "tags": 47,
+    "archived": false,
+    "release": {
+      "tag": "1.15.7",
+      "at": "2026-02-11T22:31:13.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "48b626bbc61afbb0f179730c1dd3cca3dcc8b788",
+    "v": 4
+  }
+}

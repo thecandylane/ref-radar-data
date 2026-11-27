@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:751472e348e47c8e2f002de18f5d13794dcaf444"
-  },
   "id": "gh:commixproject/commix",
   "kind": "repo",
   "url": "https://github.com/commixproject/commix",
@@ -33,8 +30,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/commixproject/commix",
-    "sha": "751472e348e47c8e2f002de18f5d13794dcaf444",
-    "file_url": "https://cdn.jsdelivr.net/gh/commixproject/commix@751472e348e47c8e2f002de18f5d13794dcaf444/{path}"
+    "sha": "6adcdda9cf968acecefa4d83384452af18cc9c8c",
+    "file_url": "https://cdn.jsdelivr.net/gh/commixproject/commix@6adcdda9cf968acecefa4d83384452af18cc9c8c/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -42,7 +39,7 @@
     "stars": 5917,
     "size_mb": 11,
     "created_at": "2015-03-20T08:38:26Z",
-    "last_commit_at": "2026-11-26T06:32:21Z",
+    "last_commit_at": "2026-11-26T11:22:22Z",
     "releases": 40,
     "tags": 43,
     "archived": false,
@@ -65,12 +62,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "751472e348e47c8e2f002de18f5d13794dcaf444",
-    "v": 4
-  },
   "pins_before": [
+    "751472e348e47c8e2f002de18f5d13794dcaf444",
     "0265ceb26e59f124545f45a586c961cffb3f23c5"
   ],
-  "pinned_at": "2026-11-19T06:57:04Z"
+  "pinned_at": "2026-11-26T11:22:22Z"
 }

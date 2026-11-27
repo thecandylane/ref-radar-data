@@ -1,0 +1,60 @@
+{
+  "id": "gh:ccsoni/phantom-grape",
+  "kind": "repo",
+  "url": "https://github.com/ccsoni/Phantom-GRAPE",
+  "title": "Phantom-GRAPE",
+  "why": "Computes gravitational forces between particles with AVX and AVX-512 instructions, with GRAPE-5 and GRAPE-6 compatible calls for N-body runs.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ccsoni/Phantom-GRAPE",
+    "sha": "7b8702db3a32c46367ca68e526128dbee6a747a2",
+    "file_url": "https://cdn.jsdelivr.net/gh/ccsoni/Phantom-GRAPE@7b8702db3a32c46367ca68e526128dbee6a747a2/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 2,
+    "size_mb": 4,
+    "created_at": "2024-05-03T05:52:11Z",
+    "last_commit_at": "2026-04-28T04:26:49Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "7b8702db3a32c46367ca68e526128dbee6a747a2",
+    "v": 4
+  }
+}

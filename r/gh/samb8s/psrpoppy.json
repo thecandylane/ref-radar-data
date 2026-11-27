@@ -1,0 +1,67 @@
+{
+  "id": "gh:samb8s/psrpoppy",
+  "kind": "repo",
+  "url": "https://github.com/samb8s/PsrPopPy",
+  "title": "PsrPopPy",
+  "why": "Generates synthetic pulsar populations, then simulates which of them a radio survey would detect, using beaming and galactic models.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/samb8s/PsrPopPy",
+    "sha": "d3ab7bcd48726da8b4ac675acf8a9dbebbf97edf",
+    "file_url": "https://cdn.jsdelivr.net/gh/samb8s/PsrPopPy@d3ab7bcd48726da8b4ac675acf8a9dbebbf97edf/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "none",
+    "stars": 19,
+    "size_mb": 5,
+    "created_at": "2012-05-01T18:24:57Z",
+    "last_commit_at": "2026-11-23T02:28:12Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d3ab7bcd48726da8b4ac675acf8a9dbebbf97edf",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2012.13243",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

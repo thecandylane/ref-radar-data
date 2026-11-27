@@ -1,0 +1,65 @@
+{
+  "id": "gh:apache/maven-shared-resources",
+  "kind": "repo",
+  "url": "https://github.com/apache/maven-shared-resources",
+  "title": "maven-shared-resources",
+  "why": "Sets out how to send changes to Apache Maven shared components: topic branches, minimal diffs and pull requests against the Apache repository.",
+  "keys": {
+    "races": [
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/apache/maven-shared-resources",
+    "sha": "e084a325cc7d4e9f0c7682fb4f851eb91af16fb8",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/maven-shared-resources@e084a325cc7d4e9f0c7682fb4f851eb91af16fb8/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "Apache-2.0",
+    "stars": 8,
+    "size_mb": 0,
+    "created_at": "2017-12-07T18:20:53Z",
+    "last_commit_at": "2026-11-26T08:51:07Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "maven-shared-resources-6",
+      "at": "2024-06-11T18:10:35.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "e084a325cc7d4e9f0c7682fb4f851eb91af16fb8",
+    "v": 4
+  }
+}

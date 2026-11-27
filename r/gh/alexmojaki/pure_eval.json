@@ -1,0 +1,58 @@
+{
+  "id": "gh:alexmojaki/pure_eval",
+  "kind": "repo",
+  "url": "https://github.com/alexmojaki/pure_eval",
+  "title": "pure_eval",
+  "why": "Evaluates Python AST nodes against live objects but refuses properties, so debug views show values without side effects.",
+  "keys": {
+    "races": [
+      "dev-tools/debugging"
+    ],
+    "lanes": [
+      "dev-tools/debugging"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/alexmojaki/pure_eval",
+    "sha": "cbb525652850e4fd460dcd4b8be4d58c9858f5c4",
+    "file_url": "https://cdn.jsdelivr.net/gh/alexmojaki/pure_eval@cbb525652850e4fd460dcd4b8be4d58c9858f5c4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 51,
+    "size_mb": 0,
+    "created_at": "2019-09-07T15:50:40Z",
+    "last_commit_at": "2026-01-11T12:07:40Z",
+    "releases": 0,
+    "tags": 7,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "cbb525652850e4fd460dcd4b8be4d58c9858f5c4",
+    "v": 4
+  }
+}

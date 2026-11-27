@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:f52cb11a92b5a1e7538fef26b5c875311fe767db"
+  },
   "id": "gh:crate-py/rpds",
   "kind": "repo",
   "url": "https://github.com/crate-py/rpds",
@@ -53,5 +56,9 @@
     "ranks": {}
   },
   "tier": "curated",
-  "drafted": true
+  "drafted": true,
+  "pack": {
+    "sha": "f52cb11a92b5a1e7538fef26b5c875311fe767db",
+    "v": 4
+  }
 }

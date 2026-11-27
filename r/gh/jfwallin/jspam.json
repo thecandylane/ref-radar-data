@@ -1,0 +1,67 @@
+{
+  "id": "gh:jfwallin/jspam",
+  "kind": "repo",
+  "url": "https://github.com/jfwallin/JSPAM",
+  "title": "JSPAM",
+  "why": "Simulates interacting galaxies with a restricted three-body approximation, with the same code in Fortran, Java, JavaScript and Python.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jfwallin/JSPAM",
+    "sha": "d6a61dbacc884e140b97eb4b191446bb4239a00f",
+    "file_url": "https://cdn.jsdelivr.net/gh/jfwallin/JSPAM@d6a61dbacc884e140b97eb4b191446bb4239a00f/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "AFL-3.0",
+    "stars": 4,
+    "size_mb": 0,
+    "created_at": "2013-10-02T19:17:52Z",
+    "last_commit_at": "2020-10-09T03:26:33Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d6a61dbacc884e140b97eb4b191446bb4239a00f",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:1511.05041",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

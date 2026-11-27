@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:78b61e06e7f861c762ccc231b6acf02cb96057f0"
+  },
   "id": "gh:meilisearch/meilisearch",
   "kind": "repo",
   "url": "https://github.com/meilisearch/meilisearch",
@@ -36,12 +39,12 @@
   "facts": {
     "lang": "Rust",
     "license": "NOASSERTION",
-    "stars": 60014,
+    "stars": 60022,
     "size_mb": 91,
     "created_at": "2018-04-23T11:45:28Z",
-    "last_commit_at": "2026-11-26T08:10:57Z",
+    "last_commit_at": "2026-11-26T10:47:49Z",
     "releases": 344,
-    "tags": 701,
+    "tags": 702,
     "archived": false,
     "release": {
       "tag": "v1.58.0",
@@ -56,7 +59,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 77,
+    "star_delta_7d": 85,
     "votes": {},
     "ranks": {}
   },

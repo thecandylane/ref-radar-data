@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:60497b79bb09152829ca3e78cef45912fa228384"
+  },
   "id": "gh:submariner-io/submariner",
   "kind": "repo",
   "url": "https://github.com/submariner-io/submariner",
@@ -60,5 +63,9 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "60497b79bb09152829ca3e78cef45912fa228384",
+    "v": 4
+  },
   "pinned_at": "2026-11-24T15:38:23Z"
 }

@@ -1,0 +1,65 @@
+{
+  "id": "gh:nvidia/open-gpu-kernel-modules",
+  "kind": "repo",
+  "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
+  "title": "open-gpu-kernel-modules",
+  "why": "Builds the open NVIDIA kernel modules for x86_64 or aarch64, which must match a 620.73.04 user-space driver release.",
+  "keys": {
+    "races": [
+      "embedded/drivers"
+    ],
+    "lanes": [
+      "embedded/drivers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NVIDIA/open-gpu-kernel-modules",
+    "sha": "a4b95f6a2db0bba10ccaccef79190a3c18dcf14a",
+    "file_url": "https://cdn.jsdelivr.net/gh/NVIDIA/open-gpu-kernel-modules@a4b95f6a2db0bba10ccaccef79190a3c18dcf14a/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 17644,
+    "size_mb": 194,
+    "created_at": "2022-05-02T22:00:04Z",
+    "last_commit_at": "2026-11-18T17:03:43Z",
+    "releases": 227,
+    "tags": 230,
+    "archived": false,
+    "release": {
+      "tag": "620.73.04",
+      "at": "2026-11-18T17:05:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "a4b95f6a2db0bba10ccaccef79190a3c18dcf14a",
+    "v": 4
+  }
+}

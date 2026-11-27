@@ -1,0 +1,71 @@
+{
+  "id": "gh:wasm-bindgen/wasm-bindgen",
+  "kind": "repo",
+  "url": "https://github.com/wasm-bindgen/wasm-bindgen",
+  "title": "wasm-bindgen",
+  "why": "Generates the glue that lets Rust code call JavaScript and export functions to it, adding only the bindings you import.",
+  "keys": {
+    "races": [
+      "languages/runtimes",
+      "languages/compilers"
+    ],
+    "lanes": [
+      "languages/runtimes",
+      "languages/compilers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wasm-bindgen/wasm-bindgen",
+    "sha": "c8ddc95c888cc6a3001396418ea0cf3cfdf2cb7e",
+    "file_url": "https://cdn.jsdelivr.net/gh/wasm-bindgen/wasm-bindgen@c8ddc95c888cc6a3001396418ea0cf3cfdf2cb7e/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 9235,
+    "size_mb": 47,
+    "created_at": "2017-12-18T20:38:44Z",
+    "last_commit_at": "2026-11-27T01:15:34Z",
+    "releases": 133,
+    "tags": 142,
+    "archived": false,
+    "release": {
+      "tag": "0.2.130",
+      "at": "2026-10-30T06:16:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c8ddc95c888cc6a3001396418ea0cf3cfdf2cb7e",
+    "v": 4
+  }
+}

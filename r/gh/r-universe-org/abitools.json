@@ -1,0 +1,62 @@
+{
+  "id": "gh:r-universe-org/abitools",
+  "kind": "repo",
+  "url": "https://github.com/r-universe-org/abitools",
+  "title": "abitools",
+  "why": "Flags which installed R packages must be rebuilt when a dependency's S4 classes or C functions change binary interface.",
+  "keys": {
+    "races": [
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/r-universe-org/abitools",
+    "sha": "ce28cb2a84e90477d0790634c7a350b8cb810127",
+    "file_url": "https://cdn.jsdelivr.net/gh/r-universe-org/abitools@ce28cb2a84e90477d0790634c7a350b8cb810127/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-10-27T21:15:21Z",
+    "last_commit_at": "2026-11-10T23:36:34Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ce28cb2a84e90477d0790634c7a350b8cb810127",
+    "v": 4
+  }
+}

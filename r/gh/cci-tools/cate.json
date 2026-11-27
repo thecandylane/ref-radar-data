@@ -1,0 +1,61 @@
+{
+  "id": "gh:cci-tools/cate",
+  "kind": "repo",
+  "url": "https://github.com/CCI-Tools/cate",
+  "title": "cate",
+  "why": "Archived Python toolbox for ESA climate data, with a CLI and web API service that drives analysis from a browser app.",
+  "keys": {
+    "races": [
+      "environment/earth-data"
+    ],
+    "lanes": [
+      "environment/earth-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CCI-Tools/cate",
+    "sha": "c7b914f93544c9c771f6796a605f95a55c542c13",
+    "file_url": "https://cdn.jsdelivr.net/gh/CCI-Tools/cate@c7b914f93544c9c771f6796a605f95a55c542c13/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 51,
+    "size_mb": 128,
+    "created_at": "2016-03-24T10:11:06Z",
+    "last_commit_at": "2023-08-29T10:28:52Z",
+    "releases": 88,
+    "tags": 90,
+    "archived": true,
+    "release": {
+      "tag": "v3.1.6",
+      "at": "2023-03-17T12:55:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c7b914f93544c9c771f6796a605f95a55c542c13",
+    "v": 4
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "gh:andybalholm/cascadia",
+  "kind": "repo",
+  "url": "https://github.com/andybalholm/cascadia",
+  "title": "cascadia",
+  "why": "Parses CSS selectors in Go and runs them against parse trees, with :has and :not pseudo-classes and specificity.",
+  "keys": {
+    "races": [
+      "web/css"
+    ],
+    "lanes": [
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/andybalholm/cascadia",
+    "sha": "278c9965d5326d1fabaabc2acf71c25cc33e4045",
+    "file_url": "https://cdn.jsdelivr.net/gh/andybalholm/cascadia@278c9965d5326d1fabaabc2acf71c25cc33e4045/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "BSD-2-Clause",
+    "stars": 761,
+    "size_mb": 0,
+    "created_at": "2015-03-28T00:45:56Z",
+    "last_commit_at": "2026-11-24T00:28:16Z",
+    "releases": 1,
+    "tags": 9,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2018-02-20T18:47:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "278c9965d5326d1fabaabc2acf71c25cc33e4045",
+    "v": 4
+  }
+}

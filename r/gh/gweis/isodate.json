@@ -1,0 +1,58 @@
+{
+  "id": "gh:gweis/isodate",
+  "kind": "repo",
+  "url": "https://github.com/gweis/isodate",
+  "title": "isodate",
+  "why": "Parses ISO 8601 dates, times and durations into Python types, with a Duration class for years and months.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gweis/isodate",
+    "sha": "17cb25eb7bc3556a68f3f7b241313e9bb8b23760",
+    "file_url": "https://cdn.jsdelivr.net/gh/gweis/isodate@17cb25eb7bc3556a68f3f7b241313e9bb8b23760/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 179,
+    "size_mb": 0,
+    "created_at": "2012-10-29T23:32:06Z",
+    "last_commit_at": "2024-10-09T01:49:36Z",
+    "releases": 0,
+    "tags": 8,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "17cb25eb7bc3556a68f3f7b241313e9bb8b23760",
+    "v": 4
+  }
+}

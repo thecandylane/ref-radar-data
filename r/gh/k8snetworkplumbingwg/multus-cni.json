@@ -1,0 +1,71 @@
+{
+  "id": "gh:k8snetworkplumbingwg/multus-cni",
+  "kind": "repo",
+  "url": "https://github.com/k8snetworkplumbingwg/multus-cni",
+  "title": "multus-cni",
+  "why": "Attaches a pod to several networks by running delegate CNI plugins, served by a daemon that handles requests and approves per-node certificates.",
+  "keys": {
+    "races": [
+      "infra/networking",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "infra/networking",
+      "infra/kubernetes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/k8snetworkplumbingwg/multus-cni",
+    "sha": "6872ddebdc1d5ab9ec821e00a38b4fc955c2ba3a",
+    "file_url": "https://cdn.jsdelivr.net/gh/k8snetworkplumbingwg/multus-cni@6872ddebdc1d5ab9ec821e00a38b4fc955c2ba3a/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 2976,
+    "size_mb": 62,
+    "created_at": "2016-12-13T14:40:51Z",
+    "last_commit_at": "2026-11-25T11:26:28Z",
+    "releases": 39,
+    "tags": 39,
+    "archived": false,
+    "release": {
+      "tag": "v4.3.2",
+      "at": "2026-11-05T16:11:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "6872ddebdc1d5ab9ec821e00a38b4fc955c2ba3a",
+    "v": 4
+  }
+}

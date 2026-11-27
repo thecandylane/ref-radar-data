@@ -1,0 +1,63 @@
+{
+  "id": "gh:kingsford-group/arcade",
+  "kind": "repo",
+  "url": "https://github.com/Kingsford-Group/arcade",
+  "title": "arcade",
+  "why": "Steers CodonBERT to design mRNA codons toward CAI, GC content and MFE targets, using steering vectors instead of retraining.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "ml/training"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Kingsford-Group/arcade",
+    "sha": "f41648956966f05861e2b9475b0899de03e15ad5",
+    "file_url": "https://cdn.jsdelivr.net/gh/Kingsford-Group/arcade@f41648956966f05861e2b9475b0899de03e15ad5/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 4,
+    "size_mb": 7,
+    "created_at": "2025-08-06T18:24:15Z",
+    "last_commit_at": "2026-06-15T07:16:15Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-07-02T19:47:38.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f41648956966f05861e2b9475b0899de03e15ad5",
+    "v": 4
+  }
+}

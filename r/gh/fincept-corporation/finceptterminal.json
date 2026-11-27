@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:914134de5fd227fe66969c4591ac9ca7e461cdf4"
+  },
   "id": "gh:fincept-corporation/finceptterminal",
   "kind": "repo",
   "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
@@ -38,7 +41,7 @@
   "facts": {
     "lang": "C++",
     "license": "AGPL-3.0",
-    "stars": 34227,
+    "stars": 34266,
     "size_mb": 814,
     "created_at": "2024-08-29T14:38:08Z",
     "last_commit_at": "2026-11-19T10:39:21Z",
@@ -64,5 +67,9 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "914134de5fd227fe66969c4591ac9ca7e461cdf4",
+    "v": 4
+  },
   "pinned_at": "2026-11-19T10:39:21Z"
 }

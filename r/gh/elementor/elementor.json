@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:e8d7ebf016a593ea7f16c27463c1ec173e2e7e6a"
+  },
   "id": "gh:elementor/elementor",
   "kind": "repo",
   "url": "https://github.com/elementor/elementor",
@@ -36,16 +39,16 @@
   "facts": {
     "lang": "PHP",
     "license": "GPL-3.0",
-    "stars": 7106,
-    "size_mb": 916,
+    "stars": 7105,
+    "size_mb": 931,
     "created_at": "2016-05-30T13:05:46Z",
-    "last_commit_at": "2026-11-26T09:08:11Z",
+    "last_commit_at": "2026-11-27T08:53:44Z",
     "releases": 1000,
-    "tags": 1412,
+    "tags": 1428,
     "archived": false,
     "release": {
-      "tag": "4.5.0-latest-1795684113",
-      "at": "2026-11-26T09:10:53.000Z"
+      "tag": "4.4.0-latest-1795770298",
+      "at": "2026-11-27T09:08:33.000Z"
     }
   },
   "reuse": "copy",
@@ -62,6 +65,10 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "e8d7ebf016a593ea7f16c27463c1ec173e2e7e6a",
+    "v": 4
+  },
   "pins_before": [
     "db0c1b233eb7deb25b00e189e7b751dd49e6e84d"
   ],

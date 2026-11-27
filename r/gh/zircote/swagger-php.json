@@ -1,0 +1,65 @@
+{
+  "id": "gh:zircote/swagger-php",
+  "kind": "repo",
+  "url": "https://github.com/zircote/swagger-php",
+  "title": "swagger-php",
+  "why": "Builds OpenAPI 3.x specs from PHP attributes and phpdoc comments on your classes, so the docs stay next to the code.",
+  "keys": {
+    "races": [
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zircote/swagger-php",
+    "sha": "e5c7acbd167b0341e0a70e8e4f3f082ba78bf428",
+    "file_url": "https://cdn.jsdelivr.net/gh/zircote/swagger-php@e5c7acbd167b0341e0a70e8e4f3f082ba78bf428/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "Apache-2.0",
+    "stars": 5301,
+    "size_mb": 10,
+    "created_at": "2012-03-24T15:13:26Z",
+    "last_commit_at": "2026-11-25T23:39:51Z",
+    "releases": 218,
+    "tags": 245,
+    "archived": false,
+    "release": {
+      "tag": "7.11.0",
+      "at": "2026-11-25T23:44:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e5c7acbd167b0341e0a70e8e4f3f082ba78bf428",
+    "v": 4
+  }
+}

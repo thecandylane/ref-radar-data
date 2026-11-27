@@ -1,0 +1,58 @@
+{
+  "id": "gh:jive-vlbi/parseltongue",
+  "kind": "repo",
+  "url": "https://github.com/jive-vlbi/ParselTongue",
+  "title": "jive-vlbi/ParselTongue",
+  "why": "Lets Python scripts drive classic AIPS radio astronomy tasks, with adverbs discovered from the local installation at first start.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jive-vlbi/ParselTongue",
+    "sha": "97627ac1730c4bd0aec31ae18ca64c52253f074f",
+    "file_url": "https://cdn.jsdelivr.net/gh/jive-vlbi/ParselTongue@97627ac1730c4bd0aec31ae18ca64c52253f074f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-2.0",
+    "stars": 5,
+    "size_mb": 2,
+    "created_at": "2020-10-07T13:14:57Z",
+    "last_commit_at": "2026-02-03T11:05:59Z",
+    "releases": 0,
+    "tags": 20,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "97627ac1730c4bd0aec31ae18ca64c52253f074f",
+    "v": 4
+  }
+}

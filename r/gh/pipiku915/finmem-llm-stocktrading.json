@@ -1,0 +1,72 @@
+{
+  "id": "gh:pipiku915/finmem-llm-stocktrading",
+  "kind": "repo",
+  "url": "https://github.com/pipiku915/FinMem-LLM-StockTrading",
+  "title": "FinMem-LLM-StockTrading",
+  "why": "Keeps market news in layered memory with an adjustable span, and makes single stock trading decisions from what it recalls.",
+  "keys": {
+    "races": [
+      "finance/trading",
+      "agents/memory"
+    ],
+    "lanes": [
+      "finance/trading",
+      "agents/memory"
+    ],
+    "capabilities": [
+      "finance/trading/trading-agents",
+      "agents/memory/long-term-memory"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pipiku915/FinMem-LLM-StockTrading",
+    "sha": "be814aa47970de9bf2fdd6a1d5a60ae5cf361b46",
+    "file_url": "https://cdn.jsdelivr.net/gh/pipiku915/FinMem-LLM-StockTrading@be814aa47970de9bf2fdd6a1d5a60ae5cf361b46/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 973,
+    "size_mb": 30,
+    "created_at": "2023-12-01T04:01:38Z",
+    "last_commit_at": "2024-08-18T01:58:13Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "be814aa47970de9bf2fdd6a1d5a60ae5cf361b46",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2311.13743",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

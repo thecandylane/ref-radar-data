@@ -1,0 +1,71 @@
+{
+  "id": "gh:wader/fq",
+  "kind": "repo",
+  "url": "https://github.com/wader/fq",
+  "title": "fq",
+  "why": "Queries binary files with jq syntax, and decodes nested formats down to individual bits, with a structural hex viewer.",
+  "keys": {
+    "races": [
+      "data/serialization",
+      "netsec/capture"
+    ],
+    "lanes": [
+      "data/serialization",
+      "netsec/capture"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wader/fq",
+    "sha": "dd50b17f6f7dbda4fad8f08f316bdd7d4194b1f6",
+    "file_url": "https://cdn.jsdelivr.net/gh/wader/fq@dd50b17f6f7dbda4fad8f08f316bdd7d4194b1f6/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "NOASSERTION",
+    "stars": 10642,
+    "size_mb": 53,
+    "created_at": "2021-02-07T21:37:53Z",
+    "last_commit_at": "2026-11-24T13:22:01Z",
+    "releases": 29,
+    "tags": 29,
+    "archived": false,
+    "release": {
+      "tag": "v0.18.0",
+      "at": "2026-08-25T17:54:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "dd50b17f6f7dbda4fad8f08f316bdd7d4194b1f6",
+    "v": 4
+  }
+}

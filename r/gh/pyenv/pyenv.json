@@ -1,0 +1,65 @@
+{
+  "id": "gh:pyenv/pyenv",
+  "kind": "repo",
+  "url": "https://github.com/pyenv/pyenv",
+  "title": "pyenv",
+  "why": "Switches the Python version per shell, per project or globally, and installs new builds with pyenv install.",
+  "keys": {
+    "races": [
+      "languages/runtimes"
+    ],
+    "lanes": [
+      "languages/runtimes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pyenv/pyenv",
+    "sha": "f5b59c57594ec0ea1295f7a0173186b01e444959",
+    "file_url": "https://cdn.jsdelivr.net/gh/pyenv/pyenv@f5b59c57594ec0ea1295f7a0173186b01e444959/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "MIT",
+    "stars": 45185,
+    "size_mb": 7,
+    "created_at": "2012-08-31T06:57:52Z",
+    "last_commit_at": "2026-11-27T06:32:32Z",
+    "releases": 175,
+    "tags": 254,
+    "archived": false,
+    "release": {
+      "tag": "v2.8.15",
+      "at": "2026-11-10T21:41:03.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f5b59c57594ec0ea1295f7a0173186b01e444959",
+    "v": 4
+  }
+}

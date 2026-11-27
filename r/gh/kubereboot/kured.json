@@ -1,0 +1,73 @@
+{
+  "id": "gh:kubereboot/kured",
+  "kind": "repo",
+  "url": "https://github.com/kubereboot/kured",
+  "title": "kured",
+  "why": "Drains and reboots Kubernetes nodes that report a pending reboot, holding a lock so only one node goes down at a time.",
+  "keys": {
+    "races": [
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "infra/kubernetes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kubereboot/kured",
+    "sha": "c444c8b9304e9f6f18df55c1dcc5f8b190aadbe5",
+    "file_url": "https://cdn.jsdelivr.net/gh/kubereboot/kured@c444c8b9304e9f6f18df55c1dcc5f8b190aadbe5/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 2597,
+    "size_mb": 3,
+    "created_at": "2017-04-18T09:41:25Z",
+    "last_commit_at": "2026-11-24T14:12:38Z",
+    "releases": 46,
+    "tags": 50,
+    "archived": false,
+    "release": {
+      "tag": "1.23.0",
+      "at": "2026-06-30T11:35:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "c444c8b9304e9f6f18df55c1dcc5f8b190aadbe5",
+    "v": 4
+  }
+}

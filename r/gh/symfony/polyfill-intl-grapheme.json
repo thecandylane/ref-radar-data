@@ -1,0 +1,57 @@
+{
+  "id": "gh:symfony/polyfill-intl-grapheme",
+  "kind": "repo",
+  "url": "https://github.com/symfony/polyfill-intl-grapheme",
+  "title": "polyfill-intl-grapheme",
+  "why": "Provides grapheme_strlen, grapheme_substr and other grapheme functions for PHP, loaded by version-specific bootstrap files.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/symfony/polyfill-intl-grapheme",
+    "sha": "5a8f33c87aeecffce24e721b5064fab05f4becf8",
+    "file_url": "https://cdn.jsdelivr.net/gh/symfony/polyfill-intl-grapheme@5a8f33c87aeecffce24e721b5064fab05f4becf8/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 1727,
+    "size_mb": 0,
+    "created_at": "2015-10-22T12:57:25Z",
+    "last_commit_at": "2026-10-15T09:18:53Z",
+    "releases": 9,
+    "tags": 51,
+    "archived": false,
+    "release": {
+      "tag": "v1.43.3",
+      "at": "2026-10-28T10:07:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "5a8f33c87aeecffce24e721b5064fab05f4becf8",
+    "v": 4
+  }
+}

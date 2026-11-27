@@ -1,0 +1,63 @@
+{
+  "id": "gh:corelight/zeek-spicy-wireguard",
+  "kind": "repo",
+  "url": "https://github.com/corelight/zeek-spicy-wireguard",
+  "title": "zeek-spicy-wireguard",
+  "why": "Zeek analyzer that parses WireGuard and Tailscale discovery messages from captured traffic, logging established flags and initiation counts.",
+  "keys": {
+    "races": [
+      "netsec/capture",
+      "infra/networking"
+    ],
+    "lanes": [
+      "netsec/capture",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "Readme.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/corelight/zeek-spicy-wireguard",
+    "sha": "c235fe2a692d0b3865d5997c0b248eaf47ec5a71",
+    "file_url": "https://cdn.jsdelivr.net/gh/corelight/zeek-spicy-wireguard@c235fe2a692d0b3865d5997c0b248eaf47ec5a71/{path}"
+  },
+  "facts": {
+    "lang": "Zeek",
+    "license": "BSD-3-Clause",
+    "stars": 7,
+    "size_mb": 0,
+    "created_at": "2021-11-24T18:16:50Z",
+    "last_commit_at": "2026-03-03T00:25:29Z",
+    "releases": 1,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.9",
+      "at": "2026-03-03T17:40:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c235fe2a692d0b3865d5997c0b248eaf47ec5a71",
+    "v": 4
+  }
+}

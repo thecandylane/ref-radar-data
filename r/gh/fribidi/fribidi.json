@@ -1,0 +1,65 @@
+{
+  "id": "gh:fribidi/fribidi",
+  "kind": "repo",
+  "url": "https://github.com/fribidi/fribidi",
+  "title": "fribidi",
+  "why": "Reorders bidirectional text into visual order and shapes Arabic joining forms, with charset conversion for legacy code pages.",
+  "keys": {
+    "races": [
+      "media/fonts"
+    ],
+    "lanes": [
+      "media/fonts"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fribidi/fribidi",
+    "sha": "15393e4937aa95bcf865d92143735746aeb654fa",
+    "file_url": "https://cdn.jsdelivr.net/gh/fribidi/fribidi@15393e4937aa95bcf865d92143735746aeb654fa/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "LGPL-2.1",
+    "stars": 450,
+    "size_mb": 5,
+    "created_at": "2012-08-27T18:18:30Z",
+    "last_commit_at": "2026-10-29T22:18:10Z",
+    "releases": 23,
+    "tags": 25,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.18",
+      "at": "2026-10-29T22:26:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "15393e4937aa95bcf865d92143735746aeb654fa",
+    "v": 4
+  }
+}

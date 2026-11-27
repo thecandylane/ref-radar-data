@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9e426ecc54eac5b4d7e36b4a6f0d82088869568e"
-  },
   "id": "gh:hashcat/hashcat",
   "kind": "repo",
   "url": "https://github.com/hashcat/hashcat",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/hashcat/hashcat",
-    "sha": "9e426ecc54eac5b4d7e36b4a6f0d82088869568e",
-    "file_url": "https://cdn.jsdelivr.net/gh/hashcat/hashcat@9e426ecc54eac5b4d7e36b4a6f0d82088869568e/{path}"
+    "sha": "2dc308050a5a01ac483a7c9750f6ab22ca5cb6cd",
+    "file_url": "https://cdn.jsdelivr.net/gh/hashcat/hashcat@2dc308050a5a01ac483a7c9750f6ab22ca5cb6cd/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "none",
-    "stars": 27428,
+    "stars": 27432,
     "size_mb": 183,
     "created_at": "2015-12-04T14:46:51Z",
-    "last_commit_at": "2026-11-26T06:00:28Z",
+    "last_commit_at": "2026-11-27T07:22:59Z",
     "releases": 29,
     "tags": 32,
     "archived": false,
@@ -55,18 +52,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 37,
+    "star_delta_7d": 41,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "9e426ecc54eac5b4d7e36b4a6f0d82088869568e",
-    "v": 4
-  },
   "pins_before": [
+    "9e426ecc54eac5b4d7e36b4a6f0d82088869568e",
     "3b7dc822a20db5c27abd56b14931839f8661f951"
   ],
-  "pinned_at": "2026-11-19T07:28:31Z"
+  "pinned_at": "2026-11-27T07:22:59Z"
 }

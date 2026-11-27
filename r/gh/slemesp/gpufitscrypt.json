@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:8ae879a8c1fdd4f41eea5a5a97d45e25f577dc37"
+  },
   "id": "gh:slemesp/gpufitscrypt",
   "kind": "repo",
   "url": "https://github.com/slemesp/GpuFitsCrypt",
@@ -53,5 +56,18 @@
     "ranks": {}
   },
   "tier": "discovered",
-  "drafted": true
+  "drafted": true,
+  "pack": {
+    "sha": "8ae879a8c1fdd4f41eea5a5a97d45e25f577dc37",
+    "v": 4
+  },
+  "pinned_at": "2026-09-10T11:28:23Z",
+  "papers": [
+    {
+      "id": "arxiv:2602.23067",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
 }

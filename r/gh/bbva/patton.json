@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:9dc26d9de2e7cb0526f26b876454c77bee16110b"
+  },
   "id": "gh:bbva/patton",
   "kind": "repo",
   "url": "https://github.com/BBVA/patton",
@@ -54,5 +57,10 @@
     "ranks": {}
   },
   "tier": "discovered",
-  "drafted": true
+  "drafted": true,
+  "pack": {
+    "sha": "9dc26d9de2e7cb0526f26b876454c77bee16110b",
+    "v": 4
+  },
+  "pinned_at": "2022-05-10T11:02:04Z"
 }

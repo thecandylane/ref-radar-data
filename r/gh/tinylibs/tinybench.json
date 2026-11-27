@@ -1,0 +1,67 @@
+{
+  "id": "gh:tinylibs/tinybench",
+  "kind": "repo",
+  "url": "https://github.com/tinylibs/tinybench",
+  "title": "tinybench",
+  "why": "Times TypeScript functions with warmup runs and reports sample statistics, including a Student-t critical value per task.",
+  "keys": {
+    "races": [
+      "practice/performance",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "practice/performance",
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tinylibs/tinybench",
+    "sha": "e3fdc63fcca53b138c70c12cb759726c28711c38",
+    "file_url": "https://cdn.jsdelivr.net/gh/tinylibs/tinybench@e3fdc63fcca53b138c70c12cb759726c28711c38/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 2385,
+    "size_mb": 5,
+    "created_at": "2022-07-30T07:57:59Z",
+    "last_commit_at": "2026-11-25T15:20:03Z",
+    "releases": 66,
+    "tags": 78,
+    "archived": false,
+    "release": {
+      "tag": "v6.2.5",
+      "at": "2026-11-23T13:50:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "e3fdc63fcca53b138c70c12cb759726c28711c38",
+    "v": 4
+  }
+}

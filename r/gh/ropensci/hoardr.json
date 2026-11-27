@@ -1,0 +1,57 @@
+{
+  "id": "gh:ropensci/hoardr",
+  "kind": "repo",
+  "url": "https://github.com/ropensci/hoardr",
+  "title": "hoardr",
+  "why": "Keeps a package's cache directory inside one R6 object, so state persists and the importing package's NAMESPACE stays free of extra functions.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ropensci/hoardr",
+    "sha": "7c42ab6cbd4ce0095ba920ebbfbc0a78e6200eeb",
+    "file_url": "https://cdn.jsdelivr.net/gh/ropensci/hoardr@7c42ab6cbd4ce0095ba920ebbfbc0a78e6200eeb/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 23,
+    "size_mb": 0,
+    "created_at": "2017-01-12T18:27:17Z",
+    "last_commit_at": "2025-01-18T15:56:13Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.4",
+      "at": "2024-01-23T10:20:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "7c42ab6cbd4ce0095ba920ebbfbc0a78e6200eeb",
+    "v": 4
+  }
+}

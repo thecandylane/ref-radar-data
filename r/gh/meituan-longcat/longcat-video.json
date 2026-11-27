@@ -1,0 +1,76 @@
+{
+  "id": "gh:meituan-longcat/longcat-video",
+  "kind": "repo",
+  "url": "https://github.com/meituan-longcat/LongCat-Video",
+  "title": "LongCat-Video",
+  "why": "Generates text-to-video, image-to-video and video-continuation clips from one 13.6B model, with multi-GPU runs and avatar variants for audio-driven people.",
+  "keys": {
+    "races": [
+      "media/video",
+      "ml/open-models",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "media/video",
+      "ml/open-models",
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/meituan-longcat/LongCat-Video",
+    "sha": "58eb336edc5c8c63389838727e40b8c18434e54e",
+    "file_url": "https://cdn.jsdelivr.net/gh/meituan-longcat/LongCat-Video@58eb336edc5c8c63389838727e40b8c18434e54e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 9764,
+    "size_mb": 1345,
+    "created_at": "2025-10-25T06:49:49Z",
+    "last_commit_at": "2026-11-15T02:57:51Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "58eb336edc5c8c63389838727e40b8c18434e54e",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2605.26486",
+      "via": [
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2510.22200",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

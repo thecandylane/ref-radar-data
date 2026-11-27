@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:38b4615c72b9c59c54d675d087e5af09e62243f2"
-  },
   "id": "gh:apache/pulsar",
   "kind": "repo",
   "url": "https://github.com/apache/pulsar",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/pulsar",
-    "sha": "38b4615c72b9c59c54d675d087e5af09e62243f2",
-    "file_url": "https://cdn.jsdelivr.net/gh/apache/pulsar@38b4615c72b9c59c54d675d087e5af09e62243f2/{path}"
+    "sha": "b8716192295abb36fcd233399a08cb9754a9afd4",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/pulsar@b8716192295abb36fcd233399a08cb9754a9afd4/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
     "stars": 15370,
-    "size_mb": 295,
+    "size_mb": 296,
     "created_at": "2016-06-28T07:00:03Z",
-    "last_commit_at": "2026-11-26T08:14:54Z",
+    "last_commit_at": "2026-11-26T23:22:45Z",
     "releases": 138,
     "tags": 365,
     "archived": false,
@@ -62,11 +59,12 @@
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "38b4615c72b9c59c54d675d087e5af09e62243f2",
+    "sha": "b8716192295abb36fcd233399a08cb9754a9afd4",
     "v": 4
   },
   "pins_before": [
+    "38b4615c72b9c59c54d675d087e5af09e62243f2",
     "55b3876f041bcbc77228c1bfe5c43e0d6262070c"
   ],
-  "pinned_at": "2026-11-19T08:58:58Z"
+  "pinned_at": "2026-11-26T23:22:45Z"
 }

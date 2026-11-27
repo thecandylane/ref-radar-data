@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ef04ecbd729bc283281340a08c66cd6c2f9f00ee"
+  },
   "id": "gh:agones-dev/agones",
   "kind": "repo",
   "url": "https://github.com/agones-dev/agones",
@@ -62,6 +65,10 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "ef04ecbd729bc283281340a08c66cd6c2f9f00ee",
+    "v": 4
+  },
   "pins_before": [
     "464202485185400c955c16d277a58d12487d92d1"
   ],

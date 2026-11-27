@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:76e10f08c488eb0032f136c7c56a437cd30164c2"
+  },
   "id": "gh:snapview/tokio-tungstenite",
   "kind": "repo",
   "url": "https://github.com/snapview/tokio-tungstenite",
@@ -50,5 +53,10 @@
     "ranks": {}
   },
   "tier": "discovered",
-  "drafted": true
+  "drafted": true,
+  "pack": {
+    "sha": "76e10f08c488eb0032f136c7c56a437cd30164c2",
+    "v": 4
+  },
+  "pinned_at": "2026-10-24T21:37:14Z"
 }

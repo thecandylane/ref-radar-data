@@ -1,0 +1,75 @@
+{
+  "id": "gh:danieljprice/ndspmhd",
+  "kind": "repo",
+  "url": "https://github.com/danieljprice/ndspmhd",
+  "title": "ndspmhd",
+  "why": "Lets you try new SPH algorithms on test problems in 1, 2 and 3 dimensions, though it is not optimised or parallel.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/danieljprice/ndspmhd",
+    "sha": "d85156a8d457b409137a76e07759314f75144310",
+    "file_url": "https://cdn.jsdelivr.net/gh/danieljprice/ndspmhd@d85156a8d457b409137a76e07759314f75144310/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "NOASSERTION",
+    "stars": 6,
+    "size_mb": 5,
+    "created_at": "2021-01-12T06:05:50Z",
+    "last_commit_at": "2026-08-11T04:09:48Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v2.1",
+      "at": "2025-04-01T03:59:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d85156a8d457b409137a76e07759314f75144310",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:1012.1885",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

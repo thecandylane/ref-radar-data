@@ -1,0 +1,62 @@
+{
+  "id": "gh:joeldhartman/vartools",
+  "kind": "repo",
+  "url": "https://github.com/joeldhartman/vartools",
+  "title": "vartools",
+  "why": "Runs period searches such as Lomb-Scargle and BLS on light curves from a command line, and exposes the same steps through a Python pipeline API.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/joeldhartman/vartools",
+    "sha": "764eaf3aa84f2e01c1d29c1a5ad8f63a1f4523ed",
+    "file_url": "https://raw.githubusercontent.com/joeldhartman/vartools/764eaf3aa84f2e01c1d29c1a5ad8f63a1f4523ed/{path}"
+  },
+  "facts": {
+    "lang": "LiveScript",
+    "license": "GPL-3.0",
+    "stars": 35,
+    "size_mb": 110,
+    "created_at": "2016-05-13T15:39:58Z",
+    "last_commit_at": "2026-07-17T03:49:49Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "764eaf3aa84f2e01c1d29c1a5ad8f63a1f4523ed",
+    "v": 4
+  }
+}

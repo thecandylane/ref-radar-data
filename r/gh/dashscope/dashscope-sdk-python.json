@@ -1,0 +1,65 @@
+{
+  "id": "gh:dashscope/dashscope-sdk-python",
+  "kind": "repo",
+  "url": "https://github.com/dashscope/dashscope-sdk-python",
+  "title": "dashscope-sdk-python",
+  "why": "Python SDK and CLI for DashScope models, with protocol adapters that translate anthropic and native chat requests.",
+  "keys": {
+    "races": [
+      "agents/frameworks",
+      "llm-infra/gateways"
+    ],
+    "lanes": [
+      "agents/frameworks",
+      "llm-infra/gateways"
+    ],
+    "capabilities": [
+      "agents/frameworks/llm-sdks"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dashscope/dashscope-sdk-python",
+    "sha": "c4e985affa1fe770dde5b82a6f1186964eb742a5",
+    "file_url": "https://cdn.jsdelivr.net/gh/dashscope/dashscope-sdk-python@c4e985affa1fe770dde5b82a6f1186964eb742a5/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 83,
+    "size_mb": 10,
+    "created_at": "2025-03-07T05:45:51Z",
+    "last_commit_at": "2026-11-26T09:29:59Z",
+    "releases": 63,
+    "tags": 64,
+    "archived": false,
+    "release": {
+      "tag": "v2.1.1",
+      "at": "2026-11-20T06:25:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "c4e985affa1fe770dde5b82a6f1186964eb742a5",
+    "v": 4
+  }
+}

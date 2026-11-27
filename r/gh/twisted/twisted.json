@@ -1,0 +1,67 @@
+{
+  "id": "gh:twisted/twisted",
+  "kind": "repo",
+  "url": "https://github.com/twisted/twisted",
+  "title": "twisted",
+  "why": "Event-driven Python framework for HTTP, SSH, IRC, SMTP and DNS, with the trial unit test runner included.",
+  "keys": {
+    "races": [
+      "infra/networking",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "infra/networking",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/twisted/twisted",
+    "sha": "8ea2370e8d34e71ff6765ab4739419e309230486",
+    "file_url": "https://cdn.jsdelivr.net/gh/twisted/twisted@8ea2370e8d34e71ff6765ab4739419e309230486/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 6012,
+    "size_mb": 81,
+    "created_at": "2011-07-01T20:40:42Z",
+    "last_commit_at": "2026-11-14T14:46:47Z",
+    "releases": 45,
+    "tags": 96,
+    "archived": false,
+    "release": {
+      "tag": "twisted-26.10.0",
+      "at": "2026-10-30T09:23:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "8ea2370e8d34e71ff6765ab4739419e309230486",
+    "v": 4
+  }
+}

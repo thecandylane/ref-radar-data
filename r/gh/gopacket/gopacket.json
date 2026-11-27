@@ -1,0 +1,61 @@
+{
+  "id": "gh:gopacket/gopacket",
+  "kind": "repo",
+  "url": "https://github.com/gopacket/gopacket",
+  "title": "gopacket/gopacket",
+  "why": "Decodes and serializes packet layers in Go, with afpacket and BPF sniffers for capturing packets.",
+  "keys": {
+    "races": [
+      "netsec/capture"
+    ],
+    "lanes": [
+      "netsec/capture"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gopacket/gopacket",
+    "sha": "3c375ada4973ca3da025bf6cdc57ab860177372f",
+    "file_url": "https://cdn.jsdelivr.net/gh/gopacket/gopacket@3c375ada4973ca3da025bf6cdc57ab860177372f/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "BSD-3-Clause",
+    "stars": 322,
+    "size_mb": 10,
+    "created_at": "2022-08-13T01:00:34Z",
+    "last_commit_at": "2026-11-25T21:07:18Z",
+    "releases": 20,
+    "tags": 22,
+    "archived": false,
+    "release": {
+      "tag": "v1.8.1",
+      "at": "2026-11-25T06:03:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "3c375ada4973ca3da025bf6cdc57ab860177372f",
+    "v": 4
+  }
+}

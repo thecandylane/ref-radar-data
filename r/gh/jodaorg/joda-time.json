@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d451f7cf7b56628d8e390c649ecc865235701727"
+  },
   "id": "gh:jodaorg/joda-time",
   "kind": "repo",
   "url": "https://github.com/JodaOrg/joda-time",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 4976,
+    "stars": 4978,
     "size_mb": 13,
     "created_at": "2011-05-16T16:49:57Z",
     "last_commit_at": "2026-10-28T23:39:45Z",
@@ -53,5 +56,10 @@
     "ranks": {}
   },
   "tier": "discovered",
-  "drafted": true
+  "drafted": true,
+  "pack": {
+    "sha": "d451f7cf7b56628d8e390c649ecc865235701727",
+    "v": 4
+  },
+  "pinned_at": "2026-10-28T23:39:45Z"
 }

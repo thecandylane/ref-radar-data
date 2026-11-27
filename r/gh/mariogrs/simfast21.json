@@ -1,0 +1,78 @@
+{
+  "id": "gh:mariogrs/simfast21",
+  "kind": "repo",
+  "url": "https://github.com/mariogrs/Simfast21",
+  "title": "Simfast21",
+  "why": "Generates simulated 21cm brightness temperature boxes for the epoch of reionization, with density, halo and ionization outputs along the way.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.txt",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mariogrs/Simfast21",
+    "sha": "8a18fed55b06e1e79386dd372510099569638d97",
+    "file_url": "https://cdn.jsdelivr.net/gh/mariogrs/Simfast21@8a18fed55b06e1e79386dd372510099569638d97/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 19,
+    "size_mb": 0,
+    "created_at": "2014-06-27T16:41:45Z",
+    "last_commit_at": "2020-07-17T15:21:44Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "8a18fed55b06e1e79386dd372510099569638d97",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:1510.04280",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:0911.2219",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:0708.2424",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

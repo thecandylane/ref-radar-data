@@ -1,0 +1,61 @@
+{
+  "id": "gh:nf-core/variantprioritization",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/variantprioritization",
+  "title": "variantprioritization",
+  "why": "Harmonises variant calls from Mutect2, FreeBayes and Strelka into one format before intersecting and prioritizing them.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/variantprioritization",
+    "sha": "6bec2af6bdd197e54240902915b26b4a7181d5c0",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/variantprioritization@6bec2af6bdd197e54240902915b26b4a7181d5c0/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 17,
+    "size_mb": 7,
+    "created_at": "2025-03-25T09:13:34Z",
+    "last_commit_at": "2026-10-07T10:13:14Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "1.0.0",
+      "at": "2026-04-09T08:42:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6bec2af6bdd197e54240902915b26b4a7181d5c0",
+    "v": 4
+  }
+}

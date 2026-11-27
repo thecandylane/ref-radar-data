@@ -1,0 +1,60 @@
+{
+  "id": "gh:davidhalter/jedi",
+  "kind": "repo",
+  "url": "https://github.com/davidhalter/jedi",
+  "title": "jedi",
+  "why": "Gives Python editors completion, goto and rename through a simple API that other tools can call.",
+  "keys": {
+    "races": [
+      "dev-tools/editors",
+      "languages/type-systems"
+    ],
+    "lanes": [
+      "dev-tools/editors",
+      "languages/type-systems"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/davidhalter/jedi",
+    "sha": "b91f57bec2e4b3ba6c9ea52eae13f66af3604e74",
+    "file_url": "https://cdn.jsdelivr.net/gh/davidhalter/jedi@b91f57bec2e4b3ba6c9ea52eae13f66af3604e74/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 6188,
+    "size_mb": 13,
+    "created_at": "2012-02-19T23:12:30Z",
+    "last_commit_at": "2026-11-02T11:12:44Z",
+    "releases": 0,
+    "tags": 34,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b91f57bec2e4b3ba6c9ea52eae13f66af3604e74",
+    "v": 4
+  }
+}

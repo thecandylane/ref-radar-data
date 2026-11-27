@@ -1,0 +1,58 @@
+{
+  "id": "gh:leekgroup/swfdr",
+  "kind": "repo",
+  "url": "https://github.com/leekgroup/swfdr",
+  "title": "swfdr",
+  "why": "Estimates covariate-adjusted pi0 and q-values with lm_pi0 and lm_qvalue, so multiple testing across a field shares one false discovery rate.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/leekgroup/swfdr",
+    "sha": "f9832f6eb0332f5e9de4637eb50a41492e19cb4f",
+    "file_url": "https://cdn.jsdelivr.net/gh/leekgroup/swfdr@f9832f6eb0332f5e9de4637eb50a41492e19cb4f/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 3,
+    "size_mb": 19,
+    "created_at": "2016-07-18T19:14:24Z",
+    "last_commit_at": "2020-12-10T19:38:00Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "f9832f6eb0332f5e9de4637eb50a41492e19cb4f",
+    "v": 4
+  }
+}

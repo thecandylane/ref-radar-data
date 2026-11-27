@@ -1,0 +1,61 @@
+{
+  "id": "gh:pahfit/pahfit_classic",
+  "kind": "repo",
+  "url": "https://github.com/PAHFIT/pahfit_classic",
+  "title": "pahfit_classic",
+  "why": "Fits Spitzer IRS spectra of PAH emission with Drude profiles, recovering blended dust features and silicate absorption in one call.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/PAHFIT/pahfit_classic",
+    "sha": "8906d6c2c3c6a13a2578cc0d8a16e84fc620c875",
+    "file_url": "https://cdn.jsdelivr.net/gh/PAHFIT/pahfit_classic@8906d6c2c3c6a13a2578cc0d8a16e84fc620c875/{path}"
+  },
+  "facts": {
+    "lang": "IDL",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2024-07-03T17:44:21Z",
+    "last_commit_at": "2024-07-03T17:56:13Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.2",
+      "at": "2024-07-03T17:58:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "8906d6c2c3c6a13a2578cc0d8a16e84fc620c875",
+    "v": 4
+  }
+}

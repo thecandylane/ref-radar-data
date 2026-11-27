@@ -1,0 +1,69 @@
+{
+  "id": "gh:lightningnetwork/lnd",
+  "kind": "repo",
+  "url": "https://github.com/lightningnetwork/lnd",
+  "title": "lnd",
+  "why": "Lightning Network node in Go that opens channels and routes payments, with REST and gRPC APIs for apps to build on.",
+  "keys": {
+    "races": [
+      "finance/payments"
+    ],
+    "lanes": [
+      "finance/payments"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lightningnetwork/lnd",
+    "sha": "81953514734415d45ec1960f57ca6d999dd62e19",
+    "file_url": "https://cdn.jsdelivr.net/gh/lightningnetwork/lnd@81953514734415d45ec1960f57ca6d999dd62e19/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 8219,
+    "size_mb": 135,
+    "created_at": "2016-01-16T08:19:33Z",
+    "last_commit_at": "2026-11-26T23:45:14Z",
+    "releases": 209,
+    "tags": 397,
+    "archived": false,
+    "release": {
+      "tag": "v0.21.8-beta",
+      "at": "2026-11-11T20:41:18.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "81953514734415d45ec1960f57ca6d999dd62e19",
+    "v": 4
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "gh:alessandramb/nbsymple",
+  "kind": "repo",
+  "url": "https://github.com/alessandramb/NBSymple",
+  "title": "NBSymple",
+  "why": "Pick it for high precision N-body runs: a time-symplectic, parallel code written for exactly that job.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/alessandramb/NBSymple",
+    "sha": "96a4043d9a5521e6a9dbfbedf179058f05c4386c",
+    "file_url": "https://cdn.jsdelivr.net/gh/alessandramb/NBSymple@96a4043d9a5521e6a9dbfbedf179058f05c4386c/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2020-06-27T09:22:17Z",
+    "last_commit_at": "2020-06-27T09:46:54Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "96a4043d9a5521e6a9dbfbedf179058f05c4386c",
+    "v": 4
+  }
+}

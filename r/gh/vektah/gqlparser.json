@@ -1,0 +1,63 @@
+{
+  "id": "gh:vektah/gqlparser",
+  "kind": "repo",
+  "url": "https://github.com/vektah/gqlparser",
+  "title": "gqlparser",
+  "why": "Parses and validates schemas and queries in Go, with errors carrying source positions for the parser.",
+  "keys": {
+    "races": [
+      "languages/compilers",
+      "languages/type-systems"
+    ],
+    "lanes": [
+      "languages/compilers",
+      "languages/type-systems"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vektah/gqlparser",
+    "sha": "48416c730d754ab330da113b41ea7e91fcc310e2",
+    "file_url": "https://cdn.jsdelivr.net/gh/vektah/gqlparser@48416c730d754ab330da113b41ea7e91fcc310e2/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 559,
+    "size_mb": 2,
+    "created_at": "2018-05-06T02:24:25Z",
+    "last_commit_at": "2026-11-03T12:54:17Z",
+    "releases": 68,
+    "tags": 68,
+    "archived": false,
+    "release": {
+      "tag": "v2.5.64",
+      "at": "2026-10-22T20:44:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "48416c730d754ab330da113b41ea7e91fcc310e2",
+    "v": 4
+  }
+}

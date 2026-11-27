@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:baf25efd192d7c68ef0552aa6803c8aba0f77c4f"
-  },
   "id": "gh:google/comprehensive-rust",
   "kind": "repo",
   "url": "https://github.com/google/comprehensive-rust",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/google/comprehensive-rust",
-    "sha": "baf25efd192d7c68ef0552aa6803c8aba0f77c4f",
-    "file_url": "https://cdn.jsdelivr.net/gh/google/comprehensive-rust@baf25efd192d7c68ef0552aa6803c8aba0f77c4f/{path}"
+    "sha": "63ec252e197c4e3abe95e8d359f17028481c27e2",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/comprehensive-rust@63ec252e197c4e3abe95e8d359f17028481c27e2/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 33577,
+    "stars": 33579,
     "size_mb": 28,
     "created_at": "2022-12-21T15:17:24Z",
-    "last_commit_at": "2026-11-17T14:00:47Z",
+    "last_commit_at": "2026-11-26T14:05:13Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -60,9 +57,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "baf25efd192d7c68ef0552aa6803c8aba0f77c4f",
-    "v": 4
-  },
-  "pinned_at": "2026-11-17T14:00:47Z"
+  "pins_before": [
+    "baf25efd192d7c68ef0552aa6803c8aba0f77c4f"
+  ],
+  "pinned_at": "2026-11-26T14:05:13Z"
 }

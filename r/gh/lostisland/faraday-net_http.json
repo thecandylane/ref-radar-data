@@ -1,0 +1,61 @@
+{
+  "id": "gh:lostisland/faraday-net_http",
+  "kind": "repo",
+  "url": "https://github.com/lostisland/faraday-net_http",
+  "title": "faraday-net_http",
+  "why": "Lets Faraday connections run on Net::HTTP, with a yielded http object for setup, explicit CA stores and socks proxies.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lostisland/faraday-net_http",
+    "sha": "b437637efce5cf63bb15244c03747626efae0e46",
+    "file_url": "https://cdn.jsdelivr.net/gh/lostisland/faraday-net_http@b437637efce5cf63bb15244c03747626efae0e46/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "MIT",
+    "stars": 30,
+    "size_mb": 0,
+    "created_at": "2020-10-23T15:48:11Z",
+    "last_commit_at": "2026-10-11T10:42:06Z",
+    "releases": 23,
+    "tags": 23,
+    "archived": false,
+    "release": {
+      "tag": "v3.5.0",
+      "at": "2026-10-11T10:45:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b437637efce5cf63bb15244c03747626efae0e46",
+    "v": 4
+  }
+}

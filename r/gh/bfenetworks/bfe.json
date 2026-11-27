@@ -1,0 +1,61 @@
+{
+  "id": "gh:bfenetworks/bfe",
+  "kind": "repo",
+  "url": "https://github.com/bfenetworks/bfe",
+  "title": "bfe",
+  "why": "Routes HTTP, HTTP2 and WebSocket traffic by content rules written in a domain-specific language, with a plugin framework.",
+  "keys": {
+    "races": [
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bfenetworks/bfe",
+    "sha": "cb99da2de254c4b5fa8180dc848af6b27832e261",
+    "file_url": "https://cdn.jsdelivr.net/gh/bfenetworks/bfe@cb99da2de254c4b5fa8180dc848af6b27832e261/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 6276,
+    "size_mb": 53,
+    "created_at": "2019-07-31T02:33:55Z",
+    "last_commit_at": "2026-11-14T06:54:57Z",
+    "releases": 40,
+    "tags": 40,
+    "archived": false,
+    "release": {
+      "tag": "v1.9.0",
+      "at": "2026-11-14T06:57:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "cb99da2de254c4b5fa8180dc848af6b27832e261",
+    "v": 4
+  }
+}

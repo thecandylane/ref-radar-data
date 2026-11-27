@@ -1,0 +1,65 @@
+{
+  "id": "gh:stephenberry/glaze",
+  "kind": "repo",
+  "url": "https://github.com/stephenberry/glaze",
+  "title": "glaze",
+  "why": "Reflection-driven C++ library that reads and writes JSON, BEVE, CBOR and msgpack, with fuzz harnesses per format.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/stephenberry/glaze",
+    "sha": "283c966480db1514579dabac33cb61b064c6238f",
+    "file_url": "https://cdn.jsdelivr.net/gh/stephenberry/glaze@283c966480db1514579dabac33cb61b064c6238f/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 3122,
+    "size_mb": 15,
+    "created_at": "2022-07-15T11:52:30Z",
+    "last_commit_at": "2026-11-25T20:57:28Z",
+    "releases": 268,
+    "tags": 270,
+    "archived": false,
+    "release": {
+      "tag": "v9.1.0",
+      "at": "2026-10-28T16:07:32.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "283c966480db1514579dabac33cb61b064c6238f",
+    "v": 4
+  }
+}

@@ -22,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/gocd/gocd",
-    "sha": "16be75fd9b18c4f3e49e1ad1413aa8c02e5b1058",
-    "file_url": "https://cdn.jsdelivr.net/gh/gocd/gocd@16be75fd9b18c4f3e49e1ad1413aa8c02e5b1058/{path}"
+    "sha": "4aea02218df77cea4f3724e61e1485ec2fe21a65",
+    "file_url": "https://cdn.jsdelivr.net/gh/gocd/gocd@4aea02218df77cea4f3724e61e1485ec2fe21a65/{path}"
   },
   "facts": {
     "lang": "Java",
@@ -31,7 +31,7 @@
     "stars": 7439,
     "size_mb": 417,
     "created_at": "2013-12-13T05:26:16Z",
-    "last_commit_at": "2026-11-26T06:08:36Z",
+    "last_commit_at": "2026-11-27T05:18:07Z",
     "releases": 89,
     "tags": 89,
     "archived": false,
@@ -54,12 +54,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "16be75fd9b18c4f3e49e1ad1413aa8c02e5b1058",
-    "v": 4
-  },
   "pins_before": [
+    "16be75fd9b18c4f3e49e1ad1413aa8c02e5b1058",
     "96f58726b28a72cf389507c34128d76c2392c166"
   ],
-  "pinned_at": "2026-11-19T08:26:20Z"
+  "pinned_at": "2026-11-27T05:18:07Z"
 }

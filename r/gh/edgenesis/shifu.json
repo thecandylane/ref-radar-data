@@ -1,0 +1,73 @@
+{
+  "id": "gh:edgenesis/shifu",
+  "kind": "repo",
+  "url": "https://github.com/Edgenesis/shifu",
+  "title": "shifu",
+  "why": "Runs one deviceshifu per edge device, speaking MQTT, socket, TCP and OPC UA handlers, configured through CRD-based instruction files.",
+  "keys": {
+    "races": [
+      "industrial/scada",
+      "industrial/protocols",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "industrial/scada",
+      "industrial/protocols",
+      "infra/kubernetes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Edgenesis/shifu",
+    "sha": "895fa014cbe8ca5f91aa203e92112bf85d8e4e5f",
+    "file_url": "https://cdn.jsdelivr.net/gh/Edgenesis/shifu@895fa014cbe8ca5f91aa203e92112bf85d8e4e5f/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 1437,
+    "size_mb": 51,
+    "created_at": "2021-08-09T08:15:25Z",
+    "last_commit_at": "2026-11-18T07:22:20Z",
+    "releases": 244,
+    "tags": 245,
+    "archived": false,
+    "release": {
+      "tag": "v0.110.0",
+      "at": "2026-11-24T09:46:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "895fa014cbe8ca5f91aa203e92112bf85d8e4e5f",
+    "v": 4
+  }
+}

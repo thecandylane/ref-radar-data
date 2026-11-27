@@ -1,0 +1,73 @@
+{
+  "id": "gh:muratcankoylan/agent-skills-for-context-engineering",
+  "kind": "repo",
+  "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+  "title": "Agent-Skills-for-Context-Engineering",
+  "why": "Skill set for context engineering, with an LLM-as-judge example and scripts that compare skill revisions on benchmarks.",
+  "keys": {
+    "races": [
+      "agents/context",
+      "agents/skills",
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "agents/context",
+      "agents/skills",
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "sha": "d9202c76d6dc8351e648badb576a6e9b5aae1e7f",
+    "file_url": "https://cdn.jsdelivr.net/gh/muratcankoylan/Agent-Skills-for-Context-Engineering@d9202c76d6dc8351e648badb576a6e9b5aae1e7f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 18432,
+    "size_mb": 36,
+    "created_at": "2025-12-21T02:43:42Z",
+    "last_commit_at": "2026-11-21T07:36:17Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v2.3.0",
+      "at": "2026-05-22T04:31:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "d9202c76d6dc8351e648badb576a6e9b5aae1e7f",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2601.21557",
+      "via": [
+        "repo"
+      ]
+    }
+  ]
+}

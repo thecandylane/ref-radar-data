@@ -1,0 +1,67 @@
+{
+  "id": "gh:everyinfra/seo-skills",
+  "kind": "repo",
+  "url": "https://github.com/everyinfra/seo-skills",
+  "title": "everyinfra/seo-skills",
+  "why": "Scores pages for headline, value prop and CTA above the fold, plus Core EEAT and AI referral log checks for agent skills.",
+  "keys": {
+    "races": [
+      "seo/site-audits",
+      "seo/ai-visibility",
+      "seo/bot-traffic",
+      "agents/skills"
+    ],
+    "lanes": [
+      "seo/site-audits",
+      "seo/ai-visibility",
+      "seo/bot-traffic",
+      "agents/skills"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/everyinfra/seo-skills",
+    "sha": "6999d26bc454c030df50d5e9d88c397fe1ab0d08",
+    "file_url": "https://cdn.jsdelivr.net/gh/everyinfra/seo-skills@6999d26bc454c030df50d5e9d88c397fe1ab0d08/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 688,
+    "size_mb": 10,
+    "created_at": "2026-09-28T20:56:51Z",
+    "last_commit_at": "2026-11-27T09:39:15Z",
+    "releases": 63,
+    "tags": 63,
+    "archived": false,
+    "release": {
+      "tag": "v0.48.2",
+      "at": "2026-11-23T02:27:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6999d26bc454c030df50d5e9d88c397fe1ab0d08",
+    "v": 4
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "gh:atomiks/tippyjs",
+  "kind": "repo",
+  "url": "https://github.com/atomiks/tippyjs",
+  "title": "tippyjs",
+  "why": "Attaches tooltips, popovers and dropdown menus to page elements through a single tippy constructor, though the repo is archived.",
+  "keys": {
+    "races": [
+      "web/ui-components"
+    ],
+    "lanes": [
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/atomiks/tippyjs",
+    "sha": "ad85f6feb79cf6c5853c43bf1b2a50c4fa98e7a1",
+    "file_url": "https://cdn.jsdelivr.net/gh/atomiks/tippyjs@ad85f6feb79cf6c5853c43bf1b2a50c4fa98e7a1/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 12222,
+    "size_mb": 17,
+    "created_at": "2017-04-01T06:51:35Z",
+    "last_commit_at": "2022-02-05T01:49:20Z",
+    "releases": 89,
+    "tags": 101,
+    "archived": true,
+    "release": {
+      "tag": "v6.3.7",
+      "at": "2021-11-10T06:55:02.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "ad85f6feb79cf6c5853c43bf1b2a50c4fa98e7a1",
+    "v": 4
+  }
+}

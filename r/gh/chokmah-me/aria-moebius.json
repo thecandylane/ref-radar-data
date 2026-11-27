@@ -1,0 +1,62 @@
+{
+  "id": "gh:chokmah-me/aria-moebius",
+  "kind": "repo",
+  "url": "https://github.com/chokmah-me/aria-moebius",
+  "title": "aria-moebius",
+  "why": "Python checks of ARIA field arithmetic, key actions and power sum invariants, alongside its Lean proof sources.",
+  "keys": {
+    "races": [
+      "math/formal-proofs"
+    ],
+    "lanes": [
+      "math/formal-proofs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/chokmah-me/aria-moebius",
+    "sha": "a45a594493fe661887b3e005aceb127107a7463a",
+    "file_url": "https://cdn.jsdelivr.net/gh/chokmah-me/aria-moebius@a45a594493fe661887b3e005aceb127107a7463a/{path}"
+  },
+  "facts": {
+    "lang": "Lean",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "size_mb": 1,
+    "created_at": "2026-07-30T02:12:17Z",
+    "last_commit_at": "2026-10-22T12:18:42Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.4",
+      "at": "2026-10-07T14:35:27.000Z"
+    },
+    "doi": "10.5281/zenodo.21710669"
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "a45a594493fe661887b3e005aceb127107a7463a",
+    "v": 4
+  }
+}

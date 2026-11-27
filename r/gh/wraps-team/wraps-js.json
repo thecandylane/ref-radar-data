@@ -1,0 +1,69 @@
+{
+  "id": "gh:wraps-team/wraps-js",
+  "kind": "repo",
+  "url": "https://github.com/wraps-team/wraps-js",
+  "title": "wraps-js",
+  "why": "Lets an agent send email and SMS, manage contacts and run workflows through an MCP server, with suppression lists and opt-out checks.",
+  "keys": {
+    "races": [
+      "marketing/email",
+      "agents/tools"
+    ],
+    "lanes": [
+      "marketing/email",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wraps-team/wraps-js",
+    "sha": "009352cf3ae55dcceb18fd1b09d0393c015c0070",
+    "file_url": "https://cdn.jsdelivr.net/gh/wraps-team/wraps-js@009352cf3ae55dcceb18fd1b09d0393c015c0070/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 1,
+    "created_at": "2025-11-11T17:54:54Z",
+    "last_commit_at": "2026-11-18T19:08:28Z",
+    "releases": 81,
+    "tags": 83,
+    "archived": false,
+    "release": {
+      "tag": "client-v0.15.2",
+      "at": "2026-11-05T21:12:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "009352cf3ae55dcceb18fd1b09d0393c015c0070",
+    "v": 4
+  }
+}

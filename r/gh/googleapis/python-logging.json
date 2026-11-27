@@ -1,0 +1,61 @@
+{
+  "id": "gh:googleapis/python-logging",
+  "kind": "repo",
+  "url": "https://github.com/googleapis/python-logging",
+  "title": "python-logging",
+  "why": "Sends Python standard logging records to Google Cloud Logging, though the repo is archived and moved to google-cloud-python.",
+  "keys": {
+    "races": [
+      "infra/observability"
+    ],
+    "lanes": [
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/googleapis/python-logging",
+    "sha": "509b92abdec56c0829796ea28ce9810aea014aea",
+    "file_url": "https://cdn.jsdelivr.net/gh/googleapis/python-logging@509b92abdec56c0829796ea28ce9810aea014aea/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "Apache-2.0",
+    "stars": 142,
+    "size_mb": 5,
+    "created_at": "2019-12-10T00:09:45Z",
+    "last_commit_at": "2026-02-26T17:07:59Z",
+    "releases": 59,
+    "tags": 69,
+    "archived": true,
+    "release": {
+      "tag": "v3.13.0",
+      "at": "2025-12-16T13:40:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "509b92abdec56c0829796ea28ce9810aea014aea",
+    "v": 4
+  }
+}

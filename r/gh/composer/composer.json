@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c4899ab08f9e05c3a2d99843221704fcc71739b2"
+  },
   "id": "gh:composer/composer",
   "kind": "repo",
   "url": "https://github.com/composer/composer",
@@ -28,10 +31,10 @@
   "facts": {
     "lang": "PHP",
     "license": "MIT",
-    "stars": 29593,
+    "stars": 29595,
     "size_mb": 31,
     "created_at": "2011-06-08T08:53:00Z",
-    "last_commit_at": "2026-11-24T12:31:39Z",
+    "last_commit_at": "2026-11-26T11:24:21Z",
     "releases": 246,
     "tags": 246,
     "archived": false,
@@ -54,5 +57,9 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "c4899ab08f9e05c3a2d99843221704fcc71739b2",
+    "v": 4
+  },
   "pinned_at": "2026-11-24T12:31:39Z"
 }

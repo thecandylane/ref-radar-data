@@ -36,8 +36,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/chakra-ui/panda",
-    "sha": "d863086f3a8df681f3ff70cbcfd50116edd2b33b",
-    "file_url": "https://cdn.jsdelivr.net/gh/chakra-ui/panda@d863086f3a8df681f3ff70cbcfd50116edd2b33b/{path}"
+    "sha": "ed0d9e85e09029072d01683eec889e18b5f9d742",
+    "file_url": "https://cdn.jsdelivr.net/gh/chakra-ui/panda@ed0d9e85e09029072d01683eec889e18b5f9d742/{path}"
   },
   "facts": {
     "lang": "Rust",
@@ -68,12 +68,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "d863086f3a8df681f3ff70cbcfd50116edd2b33b",
-    "v": 4
-  },
   "pins_before": [
+    "d863086f3a8df681f3ff70cbcfd50116edd2b33b",
     "2b903703f3ab306f66f41bb02503674ada32b9be"
   ],
-  "pinned_at": "2026-11-19T09:01:19Z"
+  "pinned_at": "2026-11-26T05:18:39Z"
 }

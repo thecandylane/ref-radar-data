@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a0246d020f99e66ce9eb52a57ed6ba4995ab2f10"
+  },
   "id": "gh:fairwindsops/rbac-lookup",
   "kind": "repo",
   "url": "https://github.com/FairwindsOps/rbac-lookup",
@@ -61,5 +64,10 @@
     "ranks": {}
   },
   "tier": "discovered",
-  "drafted": true
+  "drafted": true,
+  "pack": {
+    "sha": "a0246d020f99e66ce9eb52a57ed6ba4995ab2f10",
+    "v": 4
+  },
+  "pinned_at": "2026-11-06T15:17:09Z"
 }

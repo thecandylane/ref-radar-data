@@ -1,0 +1,65 @@
+{
+  "id": "gh:getsentry/sentry-go",
+  "kind": "repo",
+  "url": "https://github.com/getsentry/sentry-go",
+  "title": "sentry-go",
+  "why": "Reports Go panics and exceptions to Sentry with breadcrumbs, traces and cron check-ins, configured through a single Init call.",
+  "keys": {
+    "races": [
+      "infra/observability"
+    ],
+    "lanes": [
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/getsentry/sentry-go",
+    "sha": "a09c1a6a8be29c7fd66ac60a8de966114339e2bf",
+    "file_url": "https://cdn.jsdelivr.net/gh/getsentry/sentry-go@a09c1a6a8be29c7fd66ac60a8de966114339e2bf/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 1109,
+    "size_mb": 4,
+    "created_at": "2019-03-08T11:02:24Z",
+    "last_commit_at": "2026-11-26T09:35:05Z",
+    "releases": 77,
+    "tags": 458,
+    "archived": false,
+    "release": {
+      "tag": "v0.50.0",
+      "at": "2026-10-08T08:34:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "a09c1a6a8be29c7fd66ac60a8de966114339e2bf",
+    "v": 4
+  }
+}

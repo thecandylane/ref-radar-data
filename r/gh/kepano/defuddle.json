@@ -1,0 +1,61 @@
+{
+  "id": "gh:kepano/defuddle",
+  "kind": "repo",
+  "url": "https://github.com/kepano/defuddle",
+  "title": "defuddle",
+  "why": "Pulls the article from a web page as Markdown, from the CLI or Node.js, with title, author and published metadata.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kepano/defuddle",
+    "sha": "aabdc3156a69a45a14fce20b9e4d6c6f571dfb0d",
+    "file_url": "https://cdn.jsdelivr.net/gh/kepano/defuddle@aabdc3156a69a45a14fce20b9e4d6c6f571dfb0d/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 10208,
+    "size_mb": 5,
+    "created_at": "2025-02-27T15:20:42Z",
+    "last_commit_at": "2026-11-20T15:51:27Z",
+    "releases": 54,
+    "tags": 56,
+    "archived": false,
+    "release": {
+      "tag": "0.19.13",
+      "at": "2026-11-20T16:01:47.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "aabdc3156a69a45a14fce20b9e4d6c6f571dfb0d",
+    "v": 4
+  }
+}

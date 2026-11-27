@@ -1,0 +1,58 @@
+{
+  "id": "gh:pschella/k3match",
+  "kind": "repo",
+  "url": "https://github.com/pschella/k3match",
+  "title": "k3match",
+  "why": "Pairs points between two 3D sets from Python, backed by C code, for spatial lookups.",
+  "keys": {
+    "races": [
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pschella/k3match",
+    "sha": "51a49a83d36bd5289bcd1c03296cf20531b4c924",
+    "file_url": "https://cdn.jsdelivr.net/gh/pschella/k3match@51a49a83d36bd5289bcd1c03296cf20531b4c924/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MPL-2.0",
+    "stars": 11,
+    "size_mb": 0,
+    "created_at": "2011-11-08T12:14:16Z",
+    "last_commit_at": "2018-03-06T19:06:52Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "51a49a83d36bd5289bcd1c03296cf20531b4c924",
+    "v": 4
+  }
+}

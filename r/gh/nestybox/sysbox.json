@@ -1,0 +1,67 @@
+{
+  "id": "gh:nestybox/sysbox",
+  "kind": "repo",
+  "url": "https://github.com/nestybox/sysbox",
+  "title": "sysbox",
+  "why": "Lets containers run systemd, Docker and Kubernetes inside without privileged mode, using a user namespace and virtualized procfs and sysfs.",
+  "keys": {
+    "races": [
+      "infra/containers",
+      "infra/isolation",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "infra/containers",
+      "infra/isolation",
+      "infra/kubernetes"
+    ],
+    "capabilities": [
+      "infra/isolation/unprivileged-sandboxes"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nestybox/sysbox",
+    "sha": "f1c8b73c05ef0a83e062370e0d6331560f7c529c",
+    "file_url": "https://cdn.jsdelivr.net/gh/nestybox/sysbox@f1c8b73c05ef0a83e062370e0d6331560f7c529c/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "Apache-2.0",
+    "stars": 3993,
+    "size_mb": 114,
+    "created_at": "2020-08-02T22:52:36Z",
+    "last_commit_at": "2026-11-23T01:30:58Z",
+    "releases": 16,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.2",
+      "at": "2026-11-23T02:00:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "f1c8b73c05ef0a83e062370e0d6331560f7c529c",
+    "v": 4
+  }
+}

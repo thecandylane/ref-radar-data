@@ -1,0 +1,54 @@
+{
+  "id": "gh:erickedu85/multistream",
+  "kind": "repo",
+  "url": "https://github.com/erickedu85/multistream",
+  "title": "multistream",
+  "why": "Streamgraph view that groups many time series into a hierarchy, letting you move from overview to details at different granularities.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/erickedu85/multistream",
+    "sha": "b2ad94601444ebc610cf163f9d2d2d228a1d61f8",
+    "file_url": "https://cdn.jsdelivr.net/gh/erickedu85/multistream@b2ad94601444ebc610cf163f9d2d2d228a1d61f8/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "NOASSERTION",
+    "stars": 3,
+    "size_mb": 310,
+    "created_at": "2019-05-24T07:45:19Z",
+    "last_commit_at": "2025-09-08T03:27:50Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "b2ad94601444ebc610cf163f9d2d2d228a1d61f8",
+    "v": 4
+  }
+}

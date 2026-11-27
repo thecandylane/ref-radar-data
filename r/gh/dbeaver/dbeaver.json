@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:17b108c08aa05985b66e5a44248c80ac32635104"
+  },
   "id": "gh:dbeaver/dbeaver",
   "kind": "repo",
   "url": "https://github.com/dbeaver/dbeaver",
@@ -30,10 +33,10 @@
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 52542,
+    "stars": 52550,
     "size_mb": 256,
     "created_at": "2015-10-21T08:26:28Z",
-    "last_commit_at": "2026-11-26T08:27:57Z",
+    "last_commit_at": "2026-11-27T08:55:32Z",
     "releases": 261,
     "tags": 278,
     "archived": false,
@@ -56,6 +59,10 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "17b108c08aa05985b66e5a44248c80ac32635104",
+    "v": 4
+  },
   "pins_before": [
     "ba0e6ddf8cad943138eead5bc1443c785640c53b"
   ],

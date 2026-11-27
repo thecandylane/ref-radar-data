@@ -1,0 +1,69 @@
+{
+  "id": "gh:virattt/dexter",
+  "kind": "repo",
+  "url": "https://github.com/virattt/dexter",
+  "title": "dexter",
+  "why": "Breaks a financial question into research steps, pulls income statements and cash flow data, then checks its own work.",
+  "keys": {
+    "races": [
+      "finance/markets",
+      "agents/assistants"
+    ],
+    "lanes": [
+      "finance/markets",
+      "agents/assistants"
+    ],
+    "capabilities": [
+      "agents/assistants/deep-research"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/virattt/dexter",
+    "sha": "534f6be455523c5926eba72bdaf4f914555be5c9",
+    "file_url": "https://cdn.jsdelivr.net/gh/virattt/dexter@534f6be455523c5926eba72bdaf4f914555be5c9/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "none",
+    "stars": 28044,
+    "size_mb": 2,
+    "created_at": "2025-10-14T21:02:00Z",
+    "last_commit_at": "2026-09-23T18:51:31Z",
+    "releases": 35,
+    "tags": 39,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2026-09-23T19:56:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "534f6be455523c5926eba72bdaf4f914555be5c9",
+    "v": 4
+  }
+}

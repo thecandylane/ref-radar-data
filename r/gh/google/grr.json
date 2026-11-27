@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d71034ae4f619169e3268c546fa87e8bab5d759b"
-  },
   "id": "gh:google/grr",
   "kind": "repo",
   "url": "https://github.com/google/grr",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/google/grr",
-    "sha": "d71034ae4f619169e3268c546fa87e8bab5d759b",
-    "file_url": "https://cdn.jsdelivr.net/gh/google/grr@d71034ae4f619169e3268c546fa87e8bab5d759b/{path}"
+    "sha": "4054999a5eff57ecfbcde95dfd7f2aa4787704ce",
+    "file_url": "https://cdn.jsdelivr.net/gh/google/grr@4054999a5eff57ecfbcde95dfd7f2aa4787704ce/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
     "stars": 5116,
-    "size_mb": 167,
+    "size_mb": 168,
     "created_at": "2013-12-04T00:17:53Z",
-    "last_commit_at": "2026-10-01T16:04:33Z",
+    "last_commit_at": "2026-11-26T15:12:27Z",
     "releases": 31,
     "tags": 32,
     "archived": false,
@@ -59,9 +56,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "d71034ae4f619169e3268c546fa87e8bab5d759b",
-    "v": 4
-  },
-  "pinned_at": "2026-10-01T16:04:33Z"
+  "pins_before": [
+    "d71034ae4f619169e3268c546fa87e8bab5d759b"
+  ],
+  "pinned_at": "2026-11-26T15:12:27Z"
 }

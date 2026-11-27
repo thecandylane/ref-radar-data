@@ -1,0 +1,63 @@
+{
+  "id": "gh:open-mpi/hwloc",
+  "kind": "repo",
+  "url": "https://github.com/open-mpi/hwloc",
+  "title": "hwloc",
+  "why": "Discovers the CPU, cache, NUMA and PCI topology of a machine, then binds threads and memory to chosen parts of it.",
+  "keys": {
+    "races": [
+      "sci/hpc",
+      "systems/memory"
+    ],
+    "lanes": [
+      "sci/hpc",
+      "systems/memory"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/open-mpi/hwloc",
+    "sha": "731e6151dee1f0d7dba9596a51d65bb270dd310a",
+    "file_url": "https://cdn.jsdelivr.net/gh/open-mpi/hwloc@731e6151dee1f0d7dba9596a51d65bb270dd310a/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 748,
+    "size_mb": 42,
+    "created_at": "2013-09-25T16:25:32Z",
+    "last_commit_at": "2026-11-26T07:32:04Z",
+    "releases": 11,
+    "tags": 180,
+    "archived": false,
+    "release": {
+      "tag": "hwloc-2.16.0",
+      "at": "2026-11-19T10:03:52.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "731e6151dee1f0d7dba9596a51d65bb270dd310a",
+    "v": 4
+  }
+}

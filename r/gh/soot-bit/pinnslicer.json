@@ -1,0 +1,66 @@
+{
+  "id": "gh:soot-bit/pinnslicer",
+  "kind": "repo",
+  "url": "https://github.com/soot-bit/pinnslicer",
+  "title": "pinnslicer",
+  "why": "Trains a network on physics equations to trace photon orbits, with a finite-difference solver to check the results.",
+  "keys": {
+    "races": [
+      "sci/sciml"
+    ],
+    "lanes": [
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/soot-bit/pinnslicer",
+    "sha": "27a8d6832642c2efb7435d75df8eb458d33553d8",
+    "file_url": "https://cdn.jsdelivr.net/gh/soot-bit/pinnslicer@27a8d6832642c2efb7435d75df8eb458d33553d8/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "none",
+    "stars": 4,
+    "size_mb": 9,
+    "created_at": "2025-10-15T21:27:55Z",
+    "last_commit_at": "2026-11-22T14:59:24Z",
+    "releases": 0,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "27a8d6832642c2efb7435d75df8eb458d33553d8",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2611.33953",
+      "via": [
+        "abstract"
+      ]
+    }
+  ]
+}

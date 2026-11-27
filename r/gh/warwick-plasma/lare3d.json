@@ -1,0 +1,64 @@
+{
+  "id": "gh:warwick-plasma/lare3d",
+  "kind": "repo",
+  "url": "https://github.com/Warwick-Plasma/Lare3d",
+  "title": "Lare3d",
+  "why": "Builds a Fortran MPI simulation code with make, where COMPILER=intel picks the compiler and MODE=debug turns on debugging flags.",
+  "keys": {
+    "races": [
+      "engineering/simulation",
+      "sci/hpc"
+    ],
+    "lanes": [
+      "engineering/simulation",
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Warwick-Plasma/Lare3d",
+    "sha": "6ac9e080b26bfa410599e1f1ae2acde014f61a12",
+    "file_url": "https://cdn.jsdelivr.net/gh/Warwick-Plasma/Lare3d@6ac9e080b26bfa410599e1f1ae2acde014f61a12/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "Apache-2.0",
+    "stars": 19,
+    "size_mb": 1,
+    "created_at": "2021-03-10T09:05:56Z",
+    "last_commit_at": "2026-01-16T10:49:08Z",
+    "releases": 0,
+    "tags": 32,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "6ac9e080b26bfa410599e1f1ae2acde014f61a12",
+    "v": 4
+  }
+}

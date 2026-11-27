@@ -1,0 +1,60 @@
+{
+  "id": "gh:nf-core/spinningjenny",
+  "kind": "repo",
+  "url": "https://github.com/nf-core/spinningjenny",
+  "title": "spinningjenny",
+  "why": "Turns parsed run stats into XML inside an nf-core Nextflow workflow, for pipelines that must hand XML to downstream tools.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/pipelines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nf-core/spinningjenny",
+    "sha": "d41309a18020121ad1a0130a03eb5a6822b8a41c",
+    "file_url": "https://cdn.jsdelivr.net/gh/nf-core/spinningjenny@d41309a18020121ad1a0130a03eb5a6822b8a41c/{path}"
+  },
+  "facts": {
+    "lang": "Nextflow",
+    "license": "MIT",
+    "stars": 4,
+    "size_mb": 3,
+    "created_at": "2023-03-27T09:54:15Z",
+    "last_commit_at": "2026-10-07T13:12:12Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d41309a18020121ad1a0130a03eb5a6822b8a41c",
+    "v": 4
+  }
+}

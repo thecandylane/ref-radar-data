@@ -1,0 +1,58 @@
+{
+  "id": "gh:basp-group/sopt",
+  "kind": "repo",
+  "url": "https://github.com/basp-group/sopt",
+  "title": "sopt",
+  "why": "C++ solvers for sparse regularisation problems such as SARA, with Matlab prototypes of several algorithms included.",
+  "keys": {
+    "races": [
+      "sci/optimization"
+    ],
+    "lanes": [
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/basp-group/sopt",
+    "sha": "acd629aeba43831d9ca1954612bbf10698d153a6",
+    "file_url": "https://cdn.jsdelivr.net/gh/basp-group/sopt@acd629aeba43831d9ca1954612bbf10698d153a6/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-2.0",
+    "stars": 22,
+    "size_mb": 4,
+    "created_at": "2013-02-22T16:26:16Z",
+    "last_commit_at": "2018-01-31T13:49:50Z",
+    "releases": 0,
+    "tags": 3,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "acd629aeba43831d9ca1954612bbf10698d153a6",
+    "v": 4
+  }
+}

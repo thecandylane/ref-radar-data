@@ -26,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/langchain-ai/deepagents",
-    "sha": "6f05ca12851f9ab39064dc8c30864350ca17cf88",
-    "file_url": "https://cdn.jsdelivr.net/gh/langchain-ai/deepagents@6f05ca12851f9ab39064dc8c30864350ca17cf88/{path}"
+    "sha": "621147a58e9fe201887ddea1710a5d25c4c4a3a2",
+    "file_url": "https://cdn.jsdelivr.net/gh/langchain-ai/deepagents@621147a58e9fe201887ddea1710a5d25c4c4a3a2/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 31608,
+    "stars": 31641,
     "size_mb": 401,
     "created_at": "2025-07-27T23:07:53Z",
-    "last_commit_at": "2026-11-26T08:36:20Z",
+    "last_commit_at": "2026-11-27T08:20:13Z",
     "releases": 361,
     "tags": 363,
     "archived": false,
@@ -49,19 +49,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 140,
+    "star_delta_7d": 173,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "6f05ca12851f9ab39064dc8c30864350ca17cf88",
-    "v": 4
-  },
   "pins_before": [
+    "6f05ca12851f9ab39064dc8c30864350ca17cf88",
     "7eee17462177b7079940587523af01f315edfd46"
   ],
-  "pinned_at": "2026-11-19T08:16:03Z",
+  "pinned_at": "2026-11-27T08:20:13Z",
   "hot": true
 }

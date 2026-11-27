@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:8bf716f99324efa9d7e47e3df91d723c8ab74793"
-  },
   "id": "gh:ggml-org/whisper.cpp",
   "kind": "repo",
   "url": "https://github.com/ggml-org/whisper.cpp",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ggml-org/whisper.cpp",
-    "sha": "8bf716f99324efa9d7e47e3df91d723c8ab74793",
-    "file_url": "https://cdn.jsdelivr.net/gh/ggml-org/whisper.cpp@8bf716f99324efa9d7e47e3df91d723c8ab74793/{path}"
+    "sha": "79b11911d9d38c4be2fc7dc8b4efeff3324c090f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ggml-org/whisper.cpp@79b11911d9d38c4be2fc7dc8b4efeff3324c090f/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 55531,
+    "stars": 55574,
     "size_mb": 51,
     "created_at": "2022-09-25T18:26:37Z",
-    "last_commit_at": "2026-11-26T07:00:06Z",
+    "last_commit_at": "2026-11-26T10:14:52Z",
     "releases": 47,
     "tags": 97,
     "archived": false,
@@ -57,18 +54,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 176,
+    "star_delta_7d": 219,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "8bf716f99324efa9d7e47e3df91d723c8ab74793",
-    "v": 4
-  },
   "pins_before": [
+    "8bf716f99324efa9d7e47e3df91d723c8ab74793",
     "d2c6f05a46dacf663e357bcf0ed40f542a72825d"
   ],
-  "pinned_at": "2026-11-19T07:29:33Z"
+  "pinned_at": "2026-11-26T10:14:52Z",
+  "hot": true
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:784c86bb234e805566481c9425fcb2a3897e8bcc"
-  },
   "id": "gh:immerjs/immer",
   "kind": "repo",
   "url": "https://github.com/immerjs/immer",
@@ -29,22 +26,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/immerjs/immer",
-    "sha": "784c86bb234e805566481c9425fcb2a3897e8bcc",
-    "file_url": "https://cdn.jsdelivr.net/gh/immerjs/immer@784c86bb234e805566481c9425fcb2a3897e8bcc/{path}"
+    "sha": "1068cee9d15a71201f731778c60d24aa826f669d",
+    "file_url": "https://cdn.jsdelivr.net/gh/immerjs/immer@1068cee9d15a71201f731778c60d24aa826f669d/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 29003,
-    "size_mb": 8,
+    "stars": 29004,
+    "size_mb": 7,
     "created_at": "2017-12-29T12:25:47Z",
-    "last_commit_at": "2026-11-10T14:46:10Z",
-    "releases": 148,
-    "tags": 183,
+    "last_commit_at": "2026-11-26T19:49:47Z",
+    "releases": 151,
+    "tags": 186,
     "archived": false,
     "release": {
-      "tag": "v11.2.10",
-      "at": "2026-11-10T14:41:29.000Z"
+      "tag": "v11.2.13",
+      "at": "2026-11-26T19:50:39.000Z"
     }
   },
   "reuse": "copy",
@@ -55,15 +52,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": -1,
+    "star_delta_7d": 0,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "784c86bb234e805566481c9425fcb2a3897e8bcc",
-    "v": 4
-  },
-  "pinned_at": "2026-11-10T14:46:10Z"
+  "pins_before": [
+    "784c86bb234e805566481c9425fcb2a3897e8bcc"
+  ],
+  "pinned_at": "2026-11-26T19:49:47Z"
 }

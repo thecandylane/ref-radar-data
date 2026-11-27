@@ -1,0 +1,63 @@
+{
+  "id": "gh:philboileau/scpca",
+  "kind": "repo",
+  "url": "https://github.com/PhilBoileau/scPCA",
+  "title": "scPCA",
+  "why": "R package for sparse contrastive PCA on high-dimensional biological data, with contrastive PCA and generalizations to target and background sets.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/PhilBoileau/scPCA",
+    "sha": "4329b9a777407401b760e58be243433a4f3c2886",
+    "file_url": "https://cdn.jsdelivr.net/gh/PhilBoileau/scPCA@4329b9a777407401b760e58be243433a4f3c2886/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 12,
+    "size_mb": 5,
+    "created_at": "2019-03-25T23:52:40Z",
+    "last_commit_at": "2025-02-10T18:05:14Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.10",
+      "at": "2020-02-24T19:09:35.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "4329b9a777407401b760e58be243433a4f3c2886",
+    "v": 4
+  }
+}

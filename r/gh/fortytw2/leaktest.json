@@ -1,0 +1,61 @@
+{
+  "id": "gh:fortytw2/leaktest",
+  "kind": "repo",
+  "url": "https://github.com/fortytw2/leaktest",
+  "title": "leaktest",
+  "why": "Compares goroutine snapshots taken when a Go test starts and ends, so a leaked goroutine fails the test with a single defer line.",
+  "keys": {
+    "races": [
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/fortytw2/leaktest",
+    "sha": "d73c753520d9250e8f091d70d468a99c71f8bceb",
+    "file_url": "https://cdn.jsdelivr.net/gh/fortytw2/leaktest@d73c753520d9250e8f091d70d468a99c71f8bceb/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "BSD-3-Clause",
+    "stars": 1043,
+    "size_mb": 0,
+    "created_at": "2016-04-26T15:19:27Z",
+    "last_commit_at": "2019-06-06T14:38:08Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.0",
+      "at": "2018-11-09T15:16:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "d73c753520d9250e8f091d70d468a99c71f8bceb",
+    "v": 4
+  }
+}

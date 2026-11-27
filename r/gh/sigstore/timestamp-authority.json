@@ -36,10 +36,10 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 145,
+    "stars": 146,
     "size_mb": 14,
     "created_at": "2022-07-13T22:38:47Z",
-    "last_commit_at": "2026-11-23T11:53:56Z",
+    "last_commit_at": "2026-11-26T11:22:11Z",
     "releases": 38,
     "tags": 41,
     "archived": false,
@@ -61,5 +61,9 @@
     "ranks": {}
   },
   "tier": "discovered",
-  "drafted": true
+  "drafted": true,
+  "pack": {
+    "sha": "cb8a625a4184d69a4fbf3a15f174e074ec34d10c",
+    "v": 4
+  }
 }

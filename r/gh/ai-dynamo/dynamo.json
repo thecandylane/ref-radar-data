@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:94ff094d87c527e4cffb4c17776056e877c60a60"
-  },
   "id": "gh:ai-dynamo/dynamo",
   "kind": "repo",
   "url": "https://github.com/ai-dynamo/dynamo",
@@ -33,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ai-dynamo/dynamo",
-    "sha": "94ff094d87c527e4cffb4c17776056e877c60a60",
-    "file_url": "https://raw.githubusercontent.com/ai-dynamo/dynamo/94ff094d87c527e4cffb4c17776056e877c60a60/{path}"
+    "sha": "cb6822576ce0981fa5406f6cceabc294e49ba3d8",
+    "file_url": "https://raw.githubusercontent.com/ai-dynamo/dynamo/cb6822576ce0981fa5406f6cceabc294e49ba3d8/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "NOASSERTION",
-    "stars": 8572,
-    "size_mb": 872,
+    "stars": 8582,
+    "size_mb": 873,
     "created_at": "2025-03-03T18:40:07Z",
-    "last_commit_at": "2026-11-26T03:41:56Z",
+    "last_commit_at": "2026-11-27T01:11:00Z",
     "releases": 74,
     "tags": 114,
     "archived": false,
@@ -59,18 +56,20 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 37,
+    "star_delta_7d": 47,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
   "pack": {
-    "sha": "94ff094d87c527e4cffb4c17776056e877c60a60",
+    "sha": "cb6822576ce0981fa5406f6cceabc294e49ba3d8",
     "v": 4
   },
   "pins_before": [
+    "94ff094d87c527e4cffb4c17776056e877c60a60",
     "a355698d3da1bb0fbf0e1ccf0b537ce7f7e16ffb"
   ],
-  "pinned_at": "2026-11-19T08:58:25Z"
+  "pinned_at": "2026-11-27T01:11:00Z",
+  "hot": true
 }

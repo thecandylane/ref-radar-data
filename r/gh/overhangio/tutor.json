@@ -1,0 +1,65 @@
+{
+  "id": "gh:overhangio/tutor",
+  "kind": "repo",
+  "url": "https://github.com/overhangio/tutor",
+  "title": "tutor",
+  "why": "Command line tool that brings up an openedx stack on docker compose or kubernetes, extended through plugins and config patches.",
+  "keys": {
+    "races": [
+      "learning/lms",
+      "infra/kubernetes",
+      "infra/containers"
+    ],
+    "lanes": [
+      "learning/lms",
+      "infra/kubernetes",
+      "infra/containers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/overhangio/tutor",
+    "sha": "1c74d1c4b778d828b77bebbb7ef2b0fc01e3f887",
+    "file_url": "https://cdn.jsdelivr.net/gh/overhangio/tutor@1c74d1c4b778d828b77bebbb7ef2b0fc01e3f887/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 1135,
+    "size_mb": 32,
+    "created_at": "2017-07-03T10:39:53Z",
+    "last_commit_at": "2026-11-18T15:09:31Z",
+    "releases": 235,
+    "tags": 237,
+    "archived": false,
+    "release": {
+      "tag": "v22.0.4",
+      "at": "2026-11-03T14:42:56.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "1c74d1c4b778d828b77bebbb7ef2b0fc01e3f887",
+    "v": 4
+  }
+}

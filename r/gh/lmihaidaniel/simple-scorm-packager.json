@@ -1,0 +1,62 @@
+{
+  "id": "gh:lmihaidaniel/simple-scorm-packager",
+  "kind": "repo",
+  "url": "https://github.com/lmihaidaniel/simple-scorm-packager",
+  "title": "simple-scorm-packager",
+  "why": "Zips a web course folder into a SCORM 1.2 or 2004 package from a Node script, with masteryScore and vcard metadata set in one config object.",
+  "keys": {
+    "races": [
+      "learning/lms"
+    ],
+    "lanes": [
+      "learning/lms"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lmihaidaniel/simple-scorm-packager",
+    "sha": "788d1fa2f05cad11d61d0d846a555dd4593daede",
+    "file_url": "https://cdn.jsdelivr.net/gh/lmihaidaniel/simple-scorm-packager@788d1fa2f05cad11d61d0d846a555dd4593daede/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 74,
+    "size_mb": 0,
+    "created_at": "2016-10-13T19:40:53Z",
+    "last_commit_at": "2026-04-03T22:25:52Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": true,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "788d1fa2f05cad11d61d0d846a555dd4593daede",
+    "v": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "gh:convertersystems/opc-ua-client",
+  "kind": "repo",
+  "url": "https://github.com/convertersystems/opc-ua-client",
+  "title": "opc-ua-client",
+  "why": "Lets a .NET or WPF HMI app browse, read, write and subscribe to live OPC UA server data, with XAML bindings to the view.",
+  "keys": {
+    "races": [
+      "industrial/protocols",
+      "industrial/scada"
+    ],
+    "lanes": [
+      "industrial/protocols",
+      "industrial/scada"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/convertersystems/opc-ua-client",
+    "sha": "75940cddb1c67c77adb2a19e91a8423f32833c84",
+    "file_url": "https://cdn.jsdelivr.net/gh/convertersystems/opc-ua-client@75940cddb1c67c77adb2a19e91a8423f32833c84/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "MIT",
+    "stars": 469,
+    "size_mb": 4,
+    "created_at": "2016-06-25T15:49:46Z",
+    "last_commit_at": "2025-09-01T18:45:43Z",
+    "releases": 12,
+    "tags": 12,
+    "archived": false,
+    "release": {
+      "tag": "v3.2.3",
+      "at": "2024-02-14T13:57:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "75940cddb1c67c77adb2a19e91a8423f32833c84",
+    "v": 4
+  }
+}

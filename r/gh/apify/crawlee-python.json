@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:d656fd81c57ccc413dca74d78d7587e2c1d7a128"
+    "swh": "swh:1:rev:8dee0d086bab3419f1c6a8cba4ae509f48f51cee"
   },
   "id": "gh:apify/crawlee-python",
   "kind": "repo",
@@ -32,14 +32,14 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apify/crawlee-python",
-    "sha": "d656fd81c57ccc413dca74d78d7587e2c1d7a128",
-    "file_url": "https://cdn.jsdelivr.net/gh/apify/crawlee-python@d656fd81c57ccc413dca74d78d7587e2c1d7a128/{path}"
+    "sha": "8dee0d086bab3419f1c6a8cba4ae509f48f51cee",
+    "file_url": "https://cdn.jsdelivr.net/gh/apify/crawlee-python@8dee0d086bab3419f1c6a8cba4ae509f48f51cee/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 9693,
-    "size_mb": 52,
+    "stars": 9696,
+    "size_mb": 51,
     "created_at": "2024-01-10T08:44:47Z",
     "last_commit_at": "2026-11-26T08:24:49Z",
     "releases": 83,
@@ -58,18 +58,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 15,
+    "star_delta_7d": 18,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "d656fd81c57ccc413dca74d78d7587e2c1d7a128",
-    "v": 4
-  },
   "pins_before": [
+    "d656fd81c57ccc413dca74d78d7587e2c1d7a128",
     "d8dd0d78f1e015428fb61528eff0719f9f84708c"
   ],
-  "pinned_at": "2026-11-19T07:10:26Z"
+  "pinned_at": "2026-11-26T08:24:49Z"
 }

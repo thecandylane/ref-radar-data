@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:338843b8f40ed64d8b8763da6dac55cf8ae9ad5f"
-  },
   "id": "gh:novuhq/novu",
   "kind": "repo",
   "url": "https://github.com/novuhq/novu",
@@ -39,16 +36,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/novuhq/novu",
-    "sha": "338843b8f40ed64d8b8763da6dac55cf8ae9ad5f",
-    "file_url": "https://raw.githubusercontent.com/novuhq/novu/338843b8f40ed64d8b8763da6dac55cf8ae9ad5f/{path}"
+    "sha": "f63c1e793bea7c3568612a06519237084bc079ca",
+    "file_url": "https://raw.githubusercontent.com/novuhq/novu/f63c1e793bea7c3568612a06519237084bc079ca/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 40430,
-    "size_mb": 523,
+    "stars": 40433,
+    "size_mb": 525,
     "created_at": "2021-08-26T15:22:44Z",
-    "last_commit_at": "2026-11-25T20:22:06Z",
+    "last_commit_at": "2026-11-27T08:30:41Z",
     "releases": 163,
     "tags": 309,
     "archived": false,
@@ -65,18 +62,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 42,
+    "star_delta_7d": 45,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "338843b8f40ed64d8b8763da6dac55cf8ae9ad5f",
-    "v": 4
-  },
   "pins_before": [
+    "338843b8f40ed64d8b8763da6dac55cf8ae9ad5f",
     "b2420a4e98860ba6a0aac659d3323c07c186fe64"
   ],
-  "pinned_at": "2026-11-19T06:15:56Z"
+  "pinned_at": "2026-11-27T08:30:41Z",
+  "hot": true
 }

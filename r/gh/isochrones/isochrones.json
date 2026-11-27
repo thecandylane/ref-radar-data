@@ -1,0 +1,63 @@
+{
+  "id": "gh:isochrones/isochrones",
+  "kind": "repo",
+  "url": "https://github.com/isochrones/isochrones",
+  "title": "isochrones",
+  "why": "Fits a star's properties from a star.ini file of spectroscopic and photometric values, then saves the StarModel to HDF5 with triangle plots.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/isochrones/isochrones",
+    "sha": "8862d1d8bd40b9161516cf934e0e97dc3e14a5f3",
+    "file_url": "https://cdn.jsdelivr.net/gh/isochrones/isochrones@8862d1d8bd40b9161516cf934e0e97dc3e14a5f3/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 144,
+    "size_mb": 130,
+    "created_at": "2014-05-02T15:14:25Z",
+    "last_commit_at": "2026-06-09T21:25:52Z",
+    "releases": 17,
+    "tags": 27,
+    "archived": false,
+    "release": {
+      "tag": "2.1",
+      "at": "2020-02-05T08:38:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "8862d1d8bd40b9161516cf934e0e97dc3e14a5f3",
+    "v": 4
+  }
+}

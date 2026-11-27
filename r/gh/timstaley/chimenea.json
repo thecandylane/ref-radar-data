@@ -1,0 +1,58 @@
+{
+  "id": "gh:timstaley/chimenea",
+  "kind": "repo",
+  "url": "https://github.com/timstaley/chimenea",
+  "title": "chimenea",
+  "why": "Runs CASA imaging steps across repeated radio observations, and its algorithm is telescope-agnostic, so AMI-LA is not required.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/timstaley/chimenea",
+    "sha": "83f0150ce34e83693eb3b5da9c504a4097e61f98",
+    "file_url": "https://cdn.jsdelivr.net/gh/timstaley/chimenea@83f0150ce34e83693eb3b5da9c504a4097e61f98/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2015-01-14T11:53:57Z",
+    "last_commit_at": "2016-06-06T11:56:05Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "83f0150ce34e83693eb3b5da9c504a4097e61f98",
+    "v": 4
+  }
+}

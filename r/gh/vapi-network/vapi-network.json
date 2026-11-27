@@ -1,0 +1,73 @@
+{
+  "id": "gh:vapi-network/vapi-network",
+  "kind": "repo",
+  "url": "https://github.com/vAPI-Network/vapi-network",
+  "title": "vapi-network",
+  "why": "Gives agents a local wallet for paying endpoints, with a CLI that grades x402 and MPP offers before paying.",
+  "keys": {
+    "races": [
+      "finance/payments",
+      "agents/tools",
+      "llm-infra/gateways"
+    ],
+    "lanes": [
+      "finance/payments",
+      "agents/tools",
+      "llm-infra/gateways"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vAPI-Network/vapi-network",
+    "sha": "5886f1b72c7ea03dee02e7b06eaa28e0a8214196",
+    "file_url": "https://cdn.jsdelivr.net/gh/vAPI-Network/vapi-network@5886f1b72c7ea03dee02e7b06eaa28e0a8214196/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 5919,
+    "size_mb": 4,
+    "created_at": "2026-10-02T13:05:19Z",
+    "last_commit_at": "2026-11-26T11:32:27Z",
+    "releases": 10,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v0.16.0",
+      "at": "2026-11-24T19:35:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "5886f1b72c7ea03dee02e7b06eaa28e0a8214196",
+    "v": 4
+  }
+}

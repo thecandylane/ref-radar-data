@@ -1,0 +1,69 @@
+{
+  "id": "gh:henry-yeh/glop",
+  "kind": "repo",
+  "url": "https://github.com/henry-yeh/GLOP",
+  "title": "GLOP",
+  "why": "Splits large routing problems into subproblems with a learned partitioner, then builds each route with a neural heuristic, reaching TSP100K.",
+  "keys": {
+    "races": [
+      "logistics/route-optimization",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "logistics/route-optimization",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/henry-yeh/GLOP",
+    "sha": "e540bc0153a0598e923e35116deeaecaf9c1cfff",
+    "file_url": "https://cdn.jsdelivr.net/gh/henry-yeh/GLOP@e540bc0153a0598e923e35116deeaecaf9c1cfff/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 108,
+    "size_mb": 1,
+    "created_at": "2022-09-13T04:15:14Z",
+    "last_commit_at": "2025-01-25T06:04:14Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "e540bc0153a0598e923e35116deeaecaf9c1cfff",
+    "v": 4
+  },
+  "papers": [
+    {
+      "id": "arxiv:2312.08224",
+      "via": [
+        "pwc",
+        "repo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "gh:brendangregg/flamegraph",
+  "kind": "repo",
+  "url": "https://github.com/brendangregg/FlameGraph",
+  "title": "FlameGraph",
+  "why": "Folds profiler stack samples from perf or DTrace into lines, then renders an SVG you can grep before drawing.",
+  "keys": {
+    "races": [
+      "practice/performance"
+    ],
+    "lanes": [
+      "practice/performance"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/brendangregg/FlameGraph",
+    "sha": "41fee1f99f9276008b7cd112fca19dc3ea84ac32",
+    "file_url": "https://cdn.jsdelivr.net/gh/brendangregg/FlameGraph@41fee1f99f9276008b7cd112fca19dc3ea84ac32/{path}"
+  },
+  "facts": {
+    "lang": "Perl",
+    "license": "none",
+    "stars": 19858,
+    "size_mb": 2,
+    "created_at": "2011-12-16T02:20:53Z",
+    "last_commit_at": "2024-10-20T21:48:45Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0",
+      "at": "2017-08-19T19:31:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "41fee1f99f9276008b7cd112fca19dc3ea84ac32",
+    "v": 4
+  }
+}

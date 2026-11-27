@@ -55,12 +55,23 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "20785f0b19be09e49c6e743e3236ba9cbdc47765",
+    "v": 4
+  },
   "pinned_at": "2026-11-25T06:34:26Z",
   "papers": [
     {
       "id": "arxiv:2611.28489",
       "via": [
-        "hf"
+        "hf",
+        "repo"
+      ]
+    },
+    {
+      "id": "arxiv:2604.20329",
+      "via": [
+        "repo"
       ]
     }
   ]

@@ -1,0 +1,61 @@
+{
+  "id": "gh:geldata/gel",
+  "kind": "repo",
+  "url": "https://github.com/geldata/gel",
+  "title": "gel",
+  "why": "Graph-relational database whose EdgeQL queries return nested objects, so fetching related records needs no JOINs.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/geldata/gel",
+    "sha": "85191063b4db8b87caf26499de40f8a9d90c8146",
+    "file_url": "https://cdn.jsdelivr.net/gh/geldata/gel@85191063b4db8b87caf26499de40f8a9d90c8146/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 14192,
+    "size_mb": 74,
+    "created_at": "2017-06-29T20:30:48Z",
+    "last_commit_at": "2025-12-24T02:14:33Z",
+    "releases": 32,
+    "tags": 113,
+    "archived": false,
+    "release": {
+      "tag": "v7.0",
+      "at": "2025-11-05T21:44:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "85191063b4db8b87caf26499de40f8a9d90c8146",
+    "v": 4
+  }
+}

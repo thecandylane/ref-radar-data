@@ -1,0 +1,65 @@
+{
+  "id": "gh:octoprint/octoprint",
+  "kind": "repo",
+  "url": "https://github.com/OctoPrint/OctoPrint",
+  "title": "OctoPrint",
+  "why": "Web interface for controlling a 3D printer from a browser, run as a Python server on a Raspberry Pi with a plugin repository.",
+  "keys": {
+    "races": [
+      "industrial/3d-printing"
+    ],
+    "lanes": [
+      "industrial/3d-printing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OctoPrint/OctoPrint",
+    "sha": "cec22a7ff0598a9819525a52255ce8e51fd77273",
+    "file_url": "https://cdn.jsdelivr.net/gh/OctoPrint/OctoPrint@cec22a7ff0598a9819525a52255ce8e51fd77273/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "AGPL-3.0",
+    "stars": 9223,
+    "size_mb": 60,
+    "created_at": "2012-12-31T12:20:57Z",
+    "last_commit_at": "2026-11-26T11:32:18Z",
+    "releases": 172,
+    "tags": 176,
+    "archived": false,
+    "release": {
+      "tag": "2.0.2",
+      "at": "2026-11-25T12:21:44.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pack": {
+    "sha": "cec22a7ff0598a9819525a52255ce8e51fd77273",
+    "v": 4
+  }
+}

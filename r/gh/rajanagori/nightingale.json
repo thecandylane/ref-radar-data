@@ -1,0 +1,65 @@
+{
+  "id": "gh:rajanagori/nightingale",
+  "kind": "repo",
+  "url": "https://github.com/RAJANAGORI/Nightingale",
+  "title": "Nightingale",
+  "why": "Shell scripts that set up a security toolkit with Python, Go and Node environments, Docker containers and Metasploit.",
+  "keys": {
+    "races": [
+      "cyber/offensive"
+    ],
+    "lanes": [
+      "cyber/offensive"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/RAJANAGORI/Nightingale",
+    "sha": "d533c889d181ea79749b234e97a6631cda66664e",
+    "file_url": "https://cdn.jsdelivr.net/gh/RAJANAGORI/Nightingale@d533c889d181ea79749b234e97a6631cda66664e/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "GPL-3.0",
+    "stars": 318,
+    "size_mb": 121,
+    "created_at": "2020-10-04T16:38:40Z",
+    "last_commit_at": "2026-09-22T10:01:25Z",
+    "releases": 52,
+    "tags": 53,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.49",
+      "at": "2026-11-01T16:34:40.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "d533c889d181ea79749b234e97a6631cda66664e",
+    "v": 4
+  }
+}

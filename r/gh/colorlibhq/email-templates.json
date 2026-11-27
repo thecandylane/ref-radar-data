@@ -1,0 +1,62 @@
+{
+  "id": "gh:colorlibhq/email-templates",
+  "kind": "repo",
+  "url": "https://github.com/ColorlibHQ/email-templates",
+  "title": "email-templates",
+  "why": "Build script and dev watcher for HTML email templates that reloads open browsers as you edit the layouts.",
+  "keys": {
+    "races": [
+      "marketing/email"
+    ],
+    "lanes": [
+      "marketing/email"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ColorlibHQ/email-templates",
+    "sha": "3018557fe943fb1c3e3367aa52d39b2fca44f725",
+    "file_url": "https://cdn.jsdelivr.net/gh/ColorlibHQ/email-templates@3018557fe943fb1c3e3367aa52d39b2fca44f725/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "MIT",
+    "stars": 1252,
+    "size_mb": 22,
+    "created_at": "2019-03-12T13:57:38Z",
+    "last_commit_at": "2026-09-08T13:44:43Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "pack": {
+    "sha": "3018557fe943fb1c3e3367aa52d39b2fca44f725",
+    "v": 4
+  }
+}
