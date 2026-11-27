@@ -1,0 +1,57 @@
+{
+  "id": "gh:lanl/laromance-2.0",
+  "kind": "repo",
+  "url": "https://github.com/lanl/LAROMance-2.0",
+  "title": "LAROMance-2.0",
+  "why": "Trains neural surrogates for stress updates, then exports them as MOOSE material models with JSON and a benchmark report.",
+  "keys": {
+    "races": [
+      "engineering/simulation",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "engineering/simulation",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lanl/LAROMance-2.0",
+    "sha": "07489e9cbbea5178b222a821befdd8b71f8e100c",
+    "file_url": "https://cdn.jsdelivr.net/gh/lanl/LAROMance-2.0@07489e9cbbea5178b222a821befdd8b71f8e100c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 1,
+    "size_mb": 91,
+    "created_at": "2026-10-02T22:53:48Z",
+    "last_commit_at": "2026-11-20T08:41:23Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-20T08:41:23Z"
+}

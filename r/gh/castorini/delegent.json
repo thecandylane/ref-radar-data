@@ -1,0 +1,74 @@
+{
+  "id": "gh:castorini/delegent",
+  "kind": "repo",
+  "url": "https://github.com/castorini/delegent",
+  "title": "delegent",
+  "why": "Routes subtasks from a coding agent to a cheaper SLM behind a relay, logging cost and prices in a ledger.",
+  "keys": {
+    "races": [
+      "agents/coding",
+      "agents/tools",
+      "agents/orchestration"
+    ],
+    "lanes": [
+      "agents/coding",
+      "agents/tools",
+      "agents/orchestration"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers",
+      "agents/orchestration/harness-adapters"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/castorini/delegent",
+    "sha": "aff89e46e4ef914f6e98b9f5f35b4c14a3230b34",
+    "file_url": "https://cdn.jsdelivr.net/gh/castorini/delegent@aff89e46e4ef914f6e98b9f5f35b4c14a3230b34/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 5,
+    "size_mb": 1,
+    "created_at": "2026-08-28T15:38:03Z",
+    "last_commit_at": "2026-11-25T07:59:55Z",
+    "releases": 0,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-25T07:59:55Z",
+  "papers": [
+    {
+      "id": "arxiv:2611.33098",
+      "via": [
+        "abstract"
+      ]
+    }
+  ]
+}

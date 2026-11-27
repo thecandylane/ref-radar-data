@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b34582712b82b888a5a7b51b3ee371e682b8c349"
+  },
+  "id": "gh:transientskp/tkp",
+  "kind": "repo",
+  "url": "https://github.com/transientskp/tkp",
+  "title": "tkp",
+  "why": "Finds transient and variable sources in a stream of astronomical images, built for LOFAR data and usable with other instruments.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/transientskp/tkp",
+    "sha": "b34582712b82b888a5a7b51b3ee371e682b8c349",
+    "file_url": "https://cdn.jsdelivr.net/gh/transientskp/tkp@b34582712b82b888a5a7b51b3ee371e682b8c349/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-2-Clause",
+    "stars": 20,
+    "size_mb": 16,
+    "created_at": "2012-05-21T12:01:49Z",
+    "last_commit_at": "2024-09-03T07:18:06Z",
+    "releases": 10,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "r6.0",
+      "at": "2024-03-21T11:32:48.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2024-09-03T07:18:06Z"
+}

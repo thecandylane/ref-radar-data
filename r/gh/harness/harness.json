@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:08899ac7793ad97cd8f549dcd2cc5dd0edf7d57d"
-  },
   "id": "gh:harness/harness",
   "kind": "repo",
   "url": "https://github.com/harness/harness",
@@ -35,13 +32,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/harness/harness",
-    "sha": "08899ac7793ad97cd8f549dcd2cc5dd0edf7d57d",
-    "file_url": "https://cdn.jsdelivr.net/gh/harness/harness@08899ac7793ad97cd8f549dcd2cc5dd0edf7d57d/{path}"
+    "sha": "07047b76fa7ceccd6d036eda31fd58702406dade",
+    "file_url": "https://cdn.jsdelivr.net/gh/harness/harness@07047b76fa7ceccd6d036eda31fd58702406dade/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 38970,
+    "stars": 38981,
     "size_mb": 59,
     "created_at": "2014-02-07T07:54:44Z",
     "last_commit_at": "2026-11-25T01:44:20Z",
@@ -61,18 +58,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 35,
+    "star_delta_7d": 41,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "08899ac7793ad97cd8f549dcd2cc5dd0edf7d57d",
-    "v": 4
-  },
   "pins_before": [
+    "08899ac7793ad97cd8f549dcd2cc5dd0edf7d57d",
     "9ecbac12693a5d1e3253b803f0274ae296e8dfe0"
   ],
-  "pinned_at": "2026-11-18T13:01:28Z"
+  "pinned_at": "2026-11-25T01:44:20Z"
 }

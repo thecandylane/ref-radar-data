@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:33ec62807261311a26eb59f8a1c95163c988efff"
-  },
   "id": "gh:uber/h3",
   "kind": "repo",
   "url": "https://github.com/uber/h3",
@@ -29,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/uber/h3",
-    "sha": "33ec62807261311a26eb59f8a1c95163c988efff",
-    "file_url": "https://cdn.jsdelivr.net/gh/uber/h3@33ec62807261311a26eb59f8a1c95163c988efff/{path}"
+    "sha": "03135828ecde394ab4a3779051ccc094562669ae",
+    "file_url": "https://cdn.jsdelivr.net/gh/uber/h3@03135828ecde394ab4a3779051ccc094562669ae/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "Apache-2.0",
-    "stars": 6765,
+    "stars": 6769,
     "size_mb": 86,
     "created_at": "2017-12-21T01:38:35Z",
     "last_commit_at": "2026-11-25T02:25:18Z",
@@ -55,18 +52,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 18,
+    "star_delta_7d": 16,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "33ec62807261311a26eb59f8a1c95163c988efff",
-    "v": 4
-  },
   "pins_before": [
+    "33ec62807261311a26eb59f8a1c95163c988efff",
     "119585689824f03e5b2c8eb734421aed38d8c3fc"
   ],
-  "pinned_at": "2026-11-18T22:25:46Z"
+  "pinned_at": "2026-11-25T02:25:18Z"
 }

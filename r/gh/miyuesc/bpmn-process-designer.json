@@ -1,0 +1,64 @@
+{
+  "id": "gh:miyuesc/bpmn-process-designer",
+  "kind": "repo",
+  "url": "https://github.com/miyuesc/bpmn-process-designer",
+  "title": "bpmn-process-designer",
+  "why": "Gives Vue apps a bpmn-js process designer with a viewer and demo, built to pair with Flowable.",
+  "keys": {
+    "races": [
+      "business-apps/bpm",
+      "web/ui-components"
+    ],
+    "lanes": [
+      "business-apps/bpm",
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/miyuesc/bpmn-process-designer",
+    "sha": "25360205831050b91f41e3c474fc3588ad38fdef",
+    "file_url": "https://cdn.jsdelivr.net/gh/miyuesc/bpmn-process-designer@25360205831050b91f41e3c474fc3588ad38fdef/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "Apache-2.0",
+    "stars": 1798,
+    "size_mb": 60,
+    "created_at": "2020-12-04T03:36:28Z",
+    "last_commit_at": "2025-08-21T08:32:05Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.0",
+      "at": "2022-09-27T03:30:51.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2025-08-21T08:32:05Z"
+}

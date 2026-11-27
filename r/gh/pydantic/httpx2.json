@@ -1,0 +1,58 @@
+{
+  "id": "gh:pydantic/httpx2",
+  "kind": "repo",
+  "url": "https://github.com/pydantic/httpx2",
+  "title": "httpx2",
+  "why": "Python HTTP client with sync and async calls, HTTP/2 connections, digest auth, a cookie jar and an SSE event source.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pydantic/httpx2",
+    "sha": "538b256cf35e52191dc871d2ef98b352f673f472",
+    "file_url": "https://cdn.jsdelivr.net/gh/pydantic/httpx2@538b256cf35e52191dc871d2ef98b352f673f472/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 1686,
+    "size_mb": 10,
+    "created_at": "2026-05-11T06:15:04Z",
+    "last_commit_at": "2026-11-24T09:37:47Z",
+    "releases": 23,
+    "tags": 23,
+    "archived": false,
+    "release": {
+      "tag": "v2.16.2",
+      "at": "2026-11-16T10:08:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-24T09:37:47Z"
+}

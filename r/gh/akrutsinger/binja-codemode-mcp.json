@@ -1,0 +1,61 @@
+{
+  "id": "gh:akrutsinger/binja-codemode-mcp",
+  "kind": "repo",
+  "url": "https://github.com/akrutsinger/binja-codemode-mcp",
+  "title": "binja-codemode-mcp",
+  "why": "Runs code against the Binary API through MCP, with checkpoints and rollback for edits such as function signatures.",
+  "keys": {
+    "races": [
+      "cyber/reversing",
+      "agents/tools"
+    ],
+    "lanes": [
+      "cyber/reversing",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/akrutsinger/binja-codemode-mcp",
+    "sha": "928c9fa50b56da4127b7deb15f221b139e69fe58",
+    "file_url": "https://cdn.jsdelivr.net/gh/akrutsinger/binja-codemode-mcp@928c9fa50b56da4127b7deb15f221b139e69fe58/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 13,
+    "size_mb": 0,
+    "created_at": "2025-12-03T05:25:12Z",
+    "last_commit_at": "2026-09-22T00:11:19Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "0.2.0",
+      "at": "2026-09-22T00:03:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

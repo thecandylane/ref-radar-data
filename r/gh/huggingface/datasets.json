@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:39fd698d619816099ffa8eb07b5c79b0f4f5f299"
-  },
   "id": "gh:huggingface/datasets",
   "kind": "repo",
   "url": "https://github.com/huggingface/datasets",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/huggingface/datasets",
-    "sha": "39fd698d619816099ffa8eb07b5c79b0f4f5f299",
-    "file_url": "https://cdn.jsdelivr.net/gh/huggingface/datasets@39fd698d619816099ffa8eb07b5c79b0f4f5f299/{path}"
+    "sha": "7a1a20b3e673248a39dc98613a286fc2fc74e002",
+    "file_url": "https://cdn.jsdelivr.net/gh/huggingface/datasets@7a1a20b3e673248a39dc98613a286fc2fc74e002/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 22185,
+    "stars": 22187,
     "size_mb": 114,
     "created_at": "2020-03-26T09:23:22Z",
-    "last_commit_at": "2026-11-18T15:51:17Z",
+    "last_commit_at": "2026-11-25T17:24:05Z",
     "releases": 124,
     "tags": 129,
     "archived": false,
@@ -57,20 +54,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 29,
+    "star_delta_7d": 14,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "39fd698d619816099ffa8eb07b5c79b0f4f5f299",
-    "v": 4
-  },
   "pins_before": [
+    "39fd698d619816099ffa8eb07b5c79b0f4f5f299",
     "efc82474bc990f5872226dca56457536c9a880e9"
   ],
-  "pinned_at": "2026-11-18T15:51:17Z",
+  "pinned_at": "2026-11-25T17:24:05Z",
   "papers": [
     {
       "id": "arxiv:2109.02846",

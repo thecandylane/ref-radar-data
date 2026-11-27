@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:757ed6a22052f0674bb7c9f765ca884d15dcb780"
+  },
+  "id": "gh:ultrafunkamsterdam/undetected-chromedriver",
+  "kind": "repo",
+  "url": "https://github.com/ultrafunkamsterdam/undetected-chromedriver",
+  "title": "undetected-chromedriver",
+  "why": "Patches the Selenium chromedriver binary so Cloudflare and DataDome checks are less likely to flag automated Chrome sessions.",
+  "keys": {
+    "races": [
+      "agents/tools",
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "agents/tools",
+      "dev-tools/testing"
+    ],
+    "capabilities": [
+      "agents/tools/browser-automation"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ultrafunkamsterdam/undetected-chromedriver",
+    "sha": "757ed6a22052f0674bb7c9f765ca884d15dcb780",
+    "file_url": "https://cdn.jsdelivr.net/gh/ultrafunkamsterdam/undetected-chromedriver@757ed6a22052f0674bb7c9f765ca884d15dcb780/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 12920,
+    "size_mb": 0,
+    "created_at": "2019-12-22T12:44:17Z",
+    "last_commit_at": "2025-07-05T10:42:02Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2025-07-05T10:42:02Z"
+}

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:6d09fd11bdfa53eba52075c12cdf1c505af26600"
-  },
   "id": "gh:bioconductor/shortread",
   "kind": "repo",
   "url": "https://github.com/Bioconductor/ShortRead",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Bioconductor/ShortRead",
-    "sha": "6d09fd11bdfa53eba52075c12cdf1c505af26600",
-    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/ShortRead@6d09fd11bdfa53eba52075c12cdf1c505af26600/{path}"
+    "sha": "225f70dd8a685307a48a119b8d7dade775bf9059",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/ShortRead@225f70dd8a685307a48a119b8d7dade775bf9059/{path}"
   },
   "facts": {
     "lang": "R",
@@ -34,7 +31,7 @@
     "stars": 8,
     "size_mb": 7,
     "created_at": "2017-08-25T16:12:54Z",
-    "last_commit_at": "2026-07-04T16:59:11Z",
+    "last_commit_at": "2026-11-23T22:29:13Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -54,9 +51,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "6d09fd11bdfa53eba52075c12cdf1c505af26600",
-    "v": 4
-  },
-  "pinned_at": "2026-07-04T16:59:11Z"
+  "pins_before": [
+    "6d09fd11bdfa53eba52075c12cdf1c505af26600"
+  ],
+  "pinned_at": "2026-11-23T22:29:13Z"
 }

@@ -1,0 +1,68 @@
+{
+  "id": "gh:douyinfe/semi-design",
+  "kind": "repo",
+  "url": "https://github.com/DouyinFE/semi-design",
+  "title": "semi-design",
+  "why": "React component library with 80+ components, plus a Figma plugin that turns designs into JSX and design tokens.",
+  "keys": {
+    "races": [
+      "web/ui-components",
+      "design/tools"
+    ],
+    "lanes": [
+      "web/ui-components",
+      "design/tools"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/DouyinFE/semi-design",
+    "sha": "7db305200a2b0fd2b20f0559819f2fa55631e2ba",
+    "file_url": "https://cdn.jsdelivr.net/gh/DouyinFE/semi-design@7db305200a2b0fd2b20f0559819f2fa55631e2ba/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 10502,
+    "size_mb": 66,
+    "created_at": "2021-10-25T11:47:38Z",
+    "last_commit_at": "2026-11-24T03:56:09Z",
+    "releases": 304,
+    "tags": 470,
+    "archived": false,
+    "release": {
+      "tag": "v2.88.2",
+      "at": "2025-11-18T09:36:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-24T03:56:09Z"
+}

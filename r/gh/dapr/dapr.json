@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:acde1d4c3162f6ee3a42f7b4df67eb8553370de1"
+  },
   "id": "gh:dapr/dapr",
   "kind": "repo",
   "url": "https://github.com/dapr/dapr",
@@ -36,16 +39,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/dapr/dapr",
-    "sha": "298d4593f3f95500676aa4b3a4a0a21dc328e87a",
-    "file_url": "https://cdn.jsdelivr.net/gh/dapr/dapr@298d4593f3f95500676aa4b3a4a0a21dc328e87a/{path}"
+    "sha": "acde1d4c3162f6ee3a42f7b4df67eb8553370de1",
+    "file_url": "https://cdn.jsdelivr.net/gh/dapr/dapr@acde1d4c3162f6ee3a42f7b4df67eb8553370de1/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 26219,
+    "stars": 26221,
     "size_mb": 213,
     "created_at": "2019-06-19T00:49:06Z",
-    "last_commit_at": "2026-11-19T15:21:20Z",
+    "last_commit_at": "2026-11-26T01:05:28Z",
     "releases": 443,
     "tags": 457,
     "archived": false,
@@ -62,18 +65,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 14,
+    "star_delta_7d": 9,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "298d4593f3f95500676aa4b3a4a0a21dc328e87a",
-    "v": 4
-  },
   "pins_before": [
+    "298d4593f3f95500676aa4b3a4a0a21dc328e87a",
     "e77ac60d1424b625eeb0aa6d15fd426f600476e7"
   ],
-  "pinned_at": "2026-11-18T16:20:52Z"
+  "pinned_at": "2026-11-26T01:05:28Z"
 }

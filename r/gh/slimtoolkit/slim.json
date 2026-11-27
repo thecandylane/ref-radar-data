@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:976805241c0000c0114b095e384657e0e98ccaaa"
+  },
+  "id": "gh:slimtoolkit/slim",
+  "kind": "repo",
+  "url": "https://github.com/slimtoolkit/slim",
+  "title": "slim",
+  "why": "Minifies container images by up to 30x without altering them, and generates seccomp and AppArmor profiles from observed app behavior.",
+  "keys": {
+    "races": [
+      "infra/containers",
+      "infra/isolation"
+    ],
+    "lanes": [
+      "infra/containers",
+      "infra/isolation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/slimtoolkit/slim",
+    "sha": "976805241c0000c0114b095e384657e0e98ccaaa",
+    "file_url": "https://cdn.jsdelivr.net/gh/slimtoolkit/slim@976805241c0000c0114b095e384657e0e98ccaaa/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 23550,
+    "size_mb": 80,
+    "created_at": "2015-09-09T17:39:11Z",
+    "last_commit_at": "2026-09-19T23:40:58Z",
+    "releases": 49,
+    "tags": 70,
+    "archived": false,
+    "release": {
+      "tag": "1.40.11",
+      "at": "2024-02-02T13:57:50.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-09-19T23:40:58Z"
+}

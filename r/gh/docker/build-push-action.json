@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:562e51947939164e4fe808a6eab5101977e509e0"
-  },
   "id": "gh:docker/build-push-action",
   "kind": "repo",
   "url": "https://github.com/docker/build-push-action",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/docker/build-push-action",
-    "sha": "562e51947939164e4fe808a6eab5101977e509e0",
-    "file_url": "https://cdn.jsdelivr.net/gh/docker/build-push-action@562e51947939164e4fe808a6eab5101977e509e0/{path}"
+    "sha": "45f22b1c11cde996551e271bed2de12d5a091009",
+    "file_url": "https://cdn.jsdelivr.net/gh/docker/build-push-action@45f22b1c11cde996551e271bed2de12d5a091009/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 5444,
+    "stars": 5445,
     "size_mb": 80,
     "created_at": "2020-02-17T11:35:27Z",
-    "last_commit_at": "2026-11-05T16:24:26Z",
+    "last_commit_at": "2026-11-25T16:08:12Z",
     "releases": 66,
     "tags": 75,
     "archived": false,
@@ -63,9 +60,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "562e51947939164e4fe808a6eab5101977e509e0",
-    "v": 4
-  },
-  "pinned_at": "2026-11-05T16:24:26Z"
+  "pins_before": [
+    "562e51947939164e4fe808a6eab5101977e509e0"
+  ],
+  "pinned_at": "2026-11-25T16:08:12Z"
 }

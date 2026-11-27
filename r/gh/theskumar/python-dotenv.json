@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4fbc6ff07215367ece731006855e732d1405992c"
+  },
+  "id": "gh:theskumar/python-dotenv",
+  "kind": "repo",
+  "url": "https://github.com/theskumar/python-dotenv",
+  "title": "python-dotenv",
+  "why": "Loads .env key-value pairs into os.environ without overriding existing variables, and parses the same file as a dict or stream.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/theskumar/python-dotenv",
+    "sha": "4fbc6ff07215367ece731006855e732d1405992c",
+    "file_url": "https://cdn.jsdelivr.net/gh/theskumar/python-dotenv@4fbc6ff07215367ece731006855e732d1405992c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 8920,
+    "size_mb": 2,
+    "created_at": "2014-09-06T05:35:17Z",
+    "last_commit_at": "2026-11-09T13:35:05Z",
+    "releases": 18,
+    "tags": 53,
+    "archived": false,
+    "release": {
+      "tag": "v1.2.4",
+      "at": "2026-10-01T05:35:46.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-09T13:35:05Z"
+}

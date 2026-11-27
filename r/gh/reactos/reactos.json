@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:303d27d62f801f1d27a056b9f296b9a5baead3a3"
+    "swh": "swh:1:rev:3e6033a613fbf7c5bd58aaeaa05af42514af59d5"
   },
   "id": "gh:reactos/reactos",
   "kind": "repo",
@@ -29,16 +29,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/reactos/reactos",
-    "sha": "303d27d62f801f1d27a056b9f296b9a5baead3a3",
-    "file_url": "https://raw.githubusercontent.com/reactos/reactos/303d27d62f801f1d27a056b9f296b9a5baead3a3/{path}"
+    "sha": "3e6033a613fbf7c5bd58aaeaa05af42514af59d5",
+    "file_url": "https://raw.githubusercontent.com/reactos/reactos/3e6033a613fbf7c5bd58aaeaa05af42514af59d5/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "GPL-2.0",
-    "stars": 18570,
+    "stars": 18581,
     "size_mb": 681,
     "created_at": "2017-10-03T08:04:52Z",
-    "last_commit_at": "2026-11-25T08:25:22Z",
+    "last_commit_at": "2026-11-25T14:12:30Z",
     "releases": 10,
     "tags": 281,
     "archived": false,
@@ -55,18 +55,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 40,
+    "star_delta_7d": 47,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "303d27d62f801f1d27a056b9f296b9a5baead3a3",
-    "v": 4
-  },
   "pins_before": [
+    "303d27d62f801f1d27a056b9f296b9a5baead3a3",
     "1103f43a0c0eae4906828b708a8726587888ef5f"
   ],
-  "pinned_at": "2026-11-18T23:12:47Z"
+  "pinned_at": "2026-11-25T14:12:30Z"
 }

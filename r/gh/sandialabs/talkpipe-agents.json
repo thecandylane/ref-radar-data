@@ -1,0 +1,64 @@
+{
+  "id": "gh:sandialabs/talkpipe-agents",
+  "kind": "repo",
+  "url": "https://github.com/sandialabs/talkpipe-agents",
+  "title": "talkpipe-agents",
+  "why": "Adds LLM agents to talkpipe pipelines, with tool calls, hooks, a retry strategy, and a judge that keeps or drops findings.",
+  "keys": {
+    "races": [
+      "agents/frameworks"
+    ],
+    "lanes": [
+      "agents/frameworks"
+    ],
+    "capabilities": [
+      "agents/frameworks/agent-workflows"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sandialabs/talkpipe-agents",
+    "sha": "5a395471f382782719fb58916e29d753cace10e4",
+    "file_url": "https://cdn.jsdelivr.net/gh/sandialabs/talkpipe-agents@5a395471f382782719fb58916e29d753cace10e4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 0,
+    "size_mb": 2,
+    "created_at": "2026-10-21T17:31:47Z",
+    "last_commit_at": "2026-11-06T04:51:54Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.0",
+      "at": "2026-11-06T11:32:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-06T04:51:54Z"
+}

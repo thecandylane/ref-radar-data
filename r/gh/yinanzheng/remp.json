@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9c6b097a51249ed50d3bbe8932f17dacfa971c8e"
+  },
+  "id": "gh:yinanzheng/remp",
+  "kind": "repo",
+  "url": "https://github.com/YinanZheng/REMP",
+  "title": "REMP",
+  "why": "Predicts methylation of locus-specific repetitive elements at single-base resolution, for EWAS and DMR analysis on arrays.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/YinanZheng/REMP",
+    "sha": "9c6b097a51249ed50d3bbe8932f17dacfa971c8e",
+    "file_url": "https://cdn.jsdelivr.net/gh/YinanZheng/REMP@9c6b097a51249ed50d3bbe8932f17dacfa971c8e/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 3,
+    "size_mb": 0,
+    "created_at": "2017-08-19T05:23:17Z",
+    "last_commit_at": "2022-05-13T09:55:06Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2022-05-13T09:55:06Z"
+}

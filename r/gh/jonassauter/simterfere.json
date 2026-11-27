@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:57284b00b9c73340b5b2a777f598ed003a11edfd"
+  },
+  "id": "gh:jonassauter/simterfere",
+  "kind": "repo",
+  "url": "https://github.com/JonasSauter/SIMTERFERE",
+  "title": "SIMTERFERE",
+  "why": "Reproduces VLTI GRAVITY on-axis observations from their ancillary data, with a tutorial script for the basic setup.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/JonasSauter/SIMTERFERE",
+    "sha": "57284b00b9c73340b5b2a777f598ed003a11edfd",
+    "file_url": "https://cdn.jsdelivr.net/gh/JonasSauter/SIMTERFERE@57284b00b9c73340b5b2a777f598ed003a11edfd/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 21,
+    "created_at": "2025-11-14T17:14:29Z",
+    "last_commit_at": "2025-11-19T15:08:50Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2025-11-19T15:08:50Z"
+}

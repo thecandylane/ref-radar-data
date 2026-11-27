@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f089cbe8d2717ead4862edf2c866ead61659e1f6"
+  },
+  "id": "gh:r-forge/roi",
+  "kind": "repo",
+  "url": "https://github.com/r-forge/roi",
+  "title": "roi",
+  "why": "Keeps an R package's source under a pkg folder, and R-Forge builds it daily for Mac OSX and Windows so installs come from its own repository.",
+  "keys": {
+    "races": [
+      "sci/optimization"
+    ],
+    "lanes": [
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/r-forge/roi",
+    "sha": "f089cbe8d2717ead4862edf2c866ead61659e1f6",
+    "file_url": "https://cdn.jsdelivr.net/gh/r-forge/roi@f089cbe8d2717ead4862edf2c866ead61659e1f6/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 13,
+    "created_at": "2023-03-17T16:36:35Z",
+    "last_commit_at": "2023-04-19T12:43:53Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2023-04-19T12:43:53Z"
+}

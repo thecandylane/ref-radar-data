@@ -1,0 +1,58 @@
+{
+  "id": "gh:desihub/redrock",
+  "kind": "repo",
+  "url": "https://github.com/desihub/redrock",
+  "title": "redrock",
+  "why": "Fits redshift and spectral type to DESI spectra by comparing chi2 across templates, with GPU and MPI paths for large runs.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/desihub/redrock",
+    "sha": "819ff142ea4f362d83061e12a4eb4a07af2aa9f4",
+    "file_url": "https://cdn.jsdelivr.net/gh/desihub/redrock@819ff142ea4f362d83061e12a4eb4a07af2aa9f4/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 30,
+    "size_mb": 9,
+    "created_at": "2015-10-15T23:00:44Z",
+    "last_commit_at": "2026-11-24T23:24:36Z",
+    "releases": 10,
+    "tags": 46,
+    "archived": false,
+    "release": {
+      "tag": "0.15.4",
+      "at": "2022-04-14T16:41:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-24T23:24:36Z"
+}

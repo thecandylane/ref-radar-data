@@ -1,0 +1,62 @@
+{
+  "id": "gh:pytest-dev/pytest-xdist",
+  "kind": "repo",
+  "url": "https://github.com/pytest-dev/pytest-xdist",
+  "title": "pytest-xdist",
+  "why": "Spreads a pytest run across worker processes, with schedulers that split tests by load, file, scope or group.",
+  "keys": {
+    "races": [
+      "dev-tools/testing"
+    ],
+    "lanes": [
+      "dev-tools/testing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pytest-dev/pytest-xdist",
+    "sha": "5f309c57dc278d0724f8737d8ae2b790cf0fcb7e",
+    "file_url": "https://cdn.jsdelivr.net/gh/pytest-dev/pytest-xdist@5f309c57dc278d0724f8737d8ae2b790cf0fcb7e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1934,
+    "size_mb": 2,
+    "created_at": "2015-09-01T18:51:45Z",
+    "last_commit_at": "2026-11-24T06:13:11Z",
+    "releases": 5,
+    "tags": 71,
+    "archived": false,
+    "release": {
+      "tag": "v3.8.0",
+      "at": "2025-07-01T13:31:02.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "scan_partial": true
+}

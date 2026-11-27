@@ -1,0 +1,64 @@
+{
+  "id": "gh:crenet-games/orthorig",
+  "kind": "repo",
+  "url": "https://github.com/CReNET-Games/OrthoRig",
+  "title": "OrthoRig",
+  "why": "Plays Blender-exported 2D rigs on pixi.js, with two-bone and look-at IK solvers, socket attachments and atlas slots.",
+  "keys": {
+    "races": [
+      "media/animation-vfx",
+      "games/engines"
+    ],
+    "lanes": [
+      "media/animation-vfx",
+      "games/engines"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CReNET-Games/OrthoRig",
+    "sha": "45c700b6ba5417f1ef5920eddecdc38fa2319f56",
+    "file_url": "https://cdn.jsdelivr.net/gh/CReNET-Games/OrthoRig@45c700b6ba5417f1ef5920eddecdc38fa2319f56/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-10-25T03:31:31Z",
+    "last_commit_at": "2026-11-23T01:47:30Z",
+    "releases": 3,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.0",
+      "at": "2026-10-26T19:59:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-23T01:47:30Z"
+}

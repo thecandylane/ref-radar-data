@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1f1dd57f36ddcd76f4b53c80e81ae993c00f54ff"
-  },
   "id": "gh:bioconductor/genomicdatacommons",
   "kind": "repo",
   "url": "https://github.com/Bioconductor/GenomicDataCommons",
@@ -27,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Bioconductor/GenomicDataCommons",
-    "sha": "1f1dd57f36ddcd76f4b53c80e81ae993c00f54ff",
-    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/GenomicDataCommons@1f1dd57f36ddcd76f4b53c80e81ae993c00f54ff/{path}"
+    "sha": "1f63f620b2f0b0a2dd99721d850d12aabd499868",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/GenomicDataCommons@1f63f620b2f0b0a2dd99721d850d12aabd499868/{path}"
   },
   "facts": {
     "lang": "R",
@@ -36,14 +33,14 @@
     "stars": 91,
     "size_mb": 5,
     "created_at": "2016-06-08T11:51:11Z",
-    "last_commit_at": "2026-04-28T12:45:25Z",
+    "last_commit_at": "2026-11-23T22:38:51Z",
     "releases": 0,
     "tags": 42,
     "archived": false,
     "release": null
   },
   "reuse": "copy",
-  "maturity": "quiet",
+  "maturity": "stable",
   "status": null,
   "stats": {
     "picks": {},
@@ -56,9 +53,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "1f1dd57f36ddcd76f4b53c80e81ae993c00f54ff",
-    "v": 4
-  },
-  "pinned_at": "2026-04-28T12:45:25Z"
+  "pins_before": [
+    "1f1dd57f36ddcd76f4b53c80e81ae993c00f54ff"
+  ],
+  "pinned_at": "2026-11-23T22:38:51Z"
 }

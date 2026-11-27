@@ -1,0 +1,59 @@
+{
+  "id": "gh:txhaflaire/virustotal_code_insights",
+  "kind": "repo",
+  "url": "https://github.com/txhaflaire/virustotal_code_insights",
+  "title": "virustotal_code_insights",
+  "why": "Sends the current function, as decompiled code or disassembly, to VirusTotal and shows the returned analysis in a panel.",
+  "keys": {
+    "races": [
+      "cyber/reversing",
+      "cyber/threat-intel"
+    ],
+    "lanes": [
+      "cyber/reversing",
+      "cyber/threat-intel"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/txhaflaire/virustotal_code_insights",
+    "sha": "06dce35ad12d916417a7d2e749e502ae3c3104c3",
+    "file_url": "https://cdn.jsdelivr.net/gh/txhaflaire/virustotal_code_insights@06dce35ad12d916417a7d2e749e502ae3c3104c3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 3,
+    "created_at": "2025-12-09T08:53:11Z",
+    "last_commit_at": "2025-12-09T09:36:11Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "1.0.0",
+      "at": "2025-12-09T09:48:02.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

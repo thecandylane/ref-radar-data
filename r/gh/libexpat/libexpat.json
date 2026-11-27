@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f7a71d28696693070c69dc4ab97ad817996f93c8"
+  },
+  "id": "gh:libexpat/libexpat",
+  "kind": "repo",
+  "url": "https://github.com/libexpat/libexpat",
+  "title": "libexpat",
+  "why": "C XML parser that ships an xmlwf command-line checker, a fuzzer and a QA script for its builds.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/libexpat/libexpat",
+    "sha": "f7a71d28696693070c69dc4ab97ad817996f93c8",
+    "file_url": "https://cdn.jsdelivr.net/gh/libexpat/libexpat@f7a71d28696693070c69dc4ab97ad817996f93c8/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 1412,
+    "size_mb": 18,
+    "created_at": "2017-01-28T22:11:05Z",
+    "last_commit_at": "2026-11-25T16:15:00Z",
+    "releases": 56,
+    "tags": 78,
+    "archived": false,
+    "release": {
+      "tag": "R_2_11_0",
+      "at": "2026-11-23T18:07:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true
+}

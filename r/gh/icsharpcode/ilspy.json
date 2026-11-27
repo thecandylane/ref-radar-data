@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:813679b0a02e7838159bffbc64a5380e5043373b"
+  },
   "id": "gh:icsharpcode/ilspy",
   "kind": "repo",
   "url": "https://github.com/icsharpcode/ILSpy",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "C#",
     "license": "MIT",
-    "stars": 27159,
+    "stars": 27173,
     "size_mb": 53,
     "created_at": "2011-02-04T11:24:20Z",
     "last_commit_at": "2026-11-24T20:26:17Z",
@@ -64,5 +67,6 @@
     "5b2699936d2f19f631f37dac27380bc9ce1d7d6a",
     "caff1a9549afc1a97b5319454fe602bfbde5ccde"
   ],
-  "pinned_at": "2026-11-24T08:45:29Z"
+  "pinned_at": "2026-11-24T08:45:29Z",
+  "hot": true
 }

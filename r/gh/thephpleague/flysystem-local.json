@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a099b24dce160f3b2239043d13d47c4a1a214ea4"
+  },
+  "id": "gh:thephpleague/flysystem-local",
+  "kind": "repo",
+  "url": "https://github.com/thephpleague/flysystem-local",
+  "title": "flysystem-local",
+  "why": "Adds a local disk adapter to Flysystem, so code written against one storage API can write files into server folders.",
+  "keys": {
+    "races": [
+      "data/storage"
+    ],
+    "lanes": [
+      "data/storage"
+    ],
+    "capabilities": [
+      "data/storage/object-storage"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/thephpleague/flysystem-local",
+    "sha": "a099b24dce160f3b2239043d13d47c4a1a214ea4",
+    "file_url": "https://cdn.jsdelivr.net/gh/thephpleague/flysystem-local@a099b24dce160f3b2239043d13d47c4a1a214ea4/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 231,
+    "size_mb": 0,
+    "created_at": "2023-05-02T19:40:37Z",
+    "last_commit_at": "2026-08-12T13:29:21Z",
+    "releases": 0,
+    "tags": 16,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-08-12T13:29:21Z"
+}

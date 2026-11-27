@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:c5f7fe11171df1f73ba9233c19b857518991c0c5"
-  },
   "id": "gh:bioconductor/annotationfilter",
   "kind": "repo",
   "url": "https://github.com/Bioconductor/AnnotationFilter",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Bioconductor/AnnotationFilter",
-    "sha": "c5f7fe11171df1f73ba9233c19b857518991c0c5",
-    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/AnnotationFilter@c5f7fe11171df1f73ba9233c19b857518991c0c5/{path}"
+    "sha": "cbeeaa511496d4b1c6f2ca8665a395b62a6e79d9",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/AnnotationFilter@cbeeaa511496d4b1c6f2ca8665a395b62a6e79d9/{path}"
   },
   "facts": {
     "lang": "R",
@@ -34,14 +31,14 @@
     "stars": 5,
     "size_mb": 0,
     "created_at": "2017-02-07T14:30:20Z",
-    "last_commit_at": "2026-04-28T12:45:23Z",
+    "last_commit_at": "2026-11-23T22:38:50Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
     "release": null
   },
   "reuse": "copy",
-  "maturity": "quiet",
+  "maturity": "unreleased",
   "status": null,
   "stats": {
     "picks": {},
@@ -54,9 +51,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "c5f7fe11171df1f73ba9233c19b857518991c0c5",
-    "v": 4
-  },
-  "pinned_at": "2026-04-28T12:45:23Z"
+  "pins_before": [
+    "c5f7fe11171df1f73ba9233c19b857518991c0c5"
+  ],
+  "pinned_at": "2026-11-23T22:38:50Z"
 }

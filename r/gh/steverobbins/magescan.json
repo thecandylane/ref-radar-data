@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:5751592463eb244af24522751dc5c1a008634efb"
+  },
+  "id": "gh:steverobbins/magescan",
+  "kind": "repo",
+  "url": "https://github.com/steverobbins/magescan",
+  "title": "magescan",
+  "why": "Checks a Magento store you have no access to for its version, installed modules, server technology and catalog, from the command line.",
+  "keys": {
+    "races": [
+      "netsec/scanning",
+      "web/cms"
+    ],
+    "lanes": [
+      "netsec/scanning",
+      "web/cms"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/steverobbins/magescan",
+    "sha": "5751592463eb244af24522751dc5c1a008634efb",
+    "file_url": "https://cdn.jsdelivr.net/gh/steverobbins/magescan@5751592463eb244af24522751dc5c1a008634efb/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "none",
+    "stars": 461,
+    "size_mb": 0,
+    "created_at": "2015-03-11T22:52:20Z",
+    "last_commit_at": "2019-02-12T17:58:37Z",
+    "releases": 59,
+    "tags": 59,
+    "archived": false,
+    "release": {
+      "tag": "v1.12.9",
+      "at": "2019-02-12T18:02:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2019-02-12T17:58:37Z"
+}

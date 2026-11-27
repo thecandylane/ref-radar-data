@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:80b623833fd0c472f7df80795b5affb406bc4001"
+    "swh": "swh:1:rev:3804fa83aff26219cea20920ac9082bc98b9a9be"
   },
   "id": "gh:ipython/ipython",
   "kind": "repo",
@@ -27,13 +27,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ipython/ipython",
-    "sha": "80b623833fd0c472f7df80795b5affb406bc4001",
-    "file_url": "https://cdn.jsdelivr.net/gh/ipython/ipython@80b623833fd0c472f7df80795b5affb406bc4001/{path}"
+    "sha": "3804fa83aff26219cea20920ac9082bc98b9a9be",
+    "file_url": "https://cdn.jsdelivr.net/gh/ipython/ipython@3804fa83aff26219cea20920ac9082bc98b9a9be/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "BSD-3-Clause",
-    "stars": 16813,
+    "stars": 16814,
     "size_mb": 80,
     "created_at": "2010-05-10T04:46:06Z",
     "last_commit_at": "2026-11-23T09:06:17Z",
@@ -59,12 +59,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "80b623833fd0c472f7df80795b5affb406bc4001",
-    "v": 4
-  },
   "pins_before": [
+    "80b623833fd0c472f7df80795b5affb406bc4001",
     "cf63afd11e2fca4eb4645e9d5b4a712f3549f632"
   ],
-  "pinned_at": "2026-11-18T13:19:24Z"
+  "pinned_at": "2026-11-23T09:06:17Z"
 }

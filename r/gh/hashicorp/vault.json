@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:919514d4c0335be21ae01bd605471624aa393f00"
-  },
   "id": "gh:hashicorp/vault",
   "kind": "repo",
   "url": "https://github.com/hashicorp/vault",
@@ -36,16 +33,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/hashicorp/vault",
-    "sha": "919514d4c0335be21ae01bd605471624aa393f00",
-    "file_url": "https://cdn.jsdelivr.net/gh/hashicorp/vault@919514d4c0335be21ae01bd605471624aa393f00/{path}"
+    "sha": "b996f58fa69463d5582d6924b4c68cb7c88c78d5",
+    "file_url": "https://cdn.jsdelivr.net/gh/hashicorp/vault@b996f58fa69463d5582d6924b4c68cb7c88c78d5/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "NOASSERTION",
-    "stars": 36558,
+    "stars": 36563,
     "size_mb": 358,
     "created_at": "2015-02-25T00:15:59Z",
-    "last_commit_at": "2026-11-25T00:02:30Z",
+    "last_commit_at": "2026-11-25T22:02:21Z",
     "releases": 189,
     "tags": 491,
     "archived": false,
@@ -62,18 +59,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 32,
+    "star_delta_7d": 13,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "919514d4c0335be21ae01bd605471624aa393f00",
-    "v": 4
-  },
   "pins_before": [
+    "919514d4c0335be21ae01bd605471624aa393f00",
     "15488016812ea722894fb2e615e61363c0449597"
   ],
-  "pinned_at": "2026-11-19T01:01:54Z"
+  "pinned_at": "2026-11-25T22:02:21Z"
 }

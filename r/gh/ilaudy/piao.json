@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:02f0157d13e1b06e26e5c23c07cf3a5c35e31b08"
+  },
+  "id": "gh:ilaudy/piao",
+  "kind": "repo",
+  "url": "https://github.com/ilaudy/PIAO",
+  "title": "PIAO",
+  "why": "Identifies halos with the standard SO algorithm in memory-controlled Python, run across MPI processes with mpiexec.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ilaudy/PIAO",
+    "sha": "02f0157d13e1b06e26e5c23c07cf3a5c35e31b08",
+    "file_url": "https://cdn.jsdelivr.net/gh/ilaudy/PIAO@02f0157d13e1b06e26e5c23c07cf3a5c35e31b08/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2013-11-26T08:18:05Z",
+    "last_commit_at": "2016-02-02T07:51:30Z",
+    "releases": 1,
+    "tags": 2,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2016-02-02T07:51:30Z"
+}

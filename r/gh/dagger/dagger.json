@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:fcce0f890ef1fd1230fed302fe9b973b37b9be05"
-  },
   "id": "gh:dagger/dagger",
   "kind": "repo",
   "url": "https://github.com/dagger/dagger",
@@ -43,18 +40,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/dagger/dagger",
-    "sha": "fcce0f890ef1fd1230fed302fe9b973b37b9be05",
-    "file_url": "https://raw.githubusercontent.com/dagger/dagger/fcce0f890ef1fd1230fed302fe9b973b37b9be05/{path}"
+    "sha": "ba6b630b0bfb251c5796cb9d1e8e2e54b41855a4",
+    "file_url": "https://raw.githubusercontent.com/dagger/dagger/ba6b630b0bfb251c5796cb9d1e8e2e54b41855a4/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 16648,
-    "size_mb": 289,
+    "stars": 16650,
+    "size_mb": 292,
     "created_at": "2019-11-20T01:31:51Z",
-    "last_commit_at": "2026-11-25T05:05:20Z",
+    "last_commit_at": "2026-11-26T01:38:39Z",
     "releases": 975,
-    "tags": 1105,
+    "tags": 1106,
     "archived": false,
     "release": {
       "tag": "v0.21.12",
@@ -69,18 +66,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 20,
+    "star_delta_7d": 14,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "fcce0f890ef1fd1230fed302fe9b973b37b9be05",
-    "v": 4
-  },
   "pins_before": [
+    "fcce0f890ef1fd1230fed302fe9b973b37b9be05",
     "ca60691bf322debe77575cfdb1024c141b2e8744"
   ],
-  "pinned_at": "2026-11-18T19:17:38Z"
+  "pinned_at": "2026-11-26T01:38:39Z"
 }

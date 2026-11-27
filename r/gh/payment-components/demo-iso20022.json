@@ -1,0 +1,59 @@
+{
+  "id": "gh:payment-components/demo-iso20022",
+  "kind": "repo",
+  "url": "https://github.com/Payment-Components/demo-iso20022",
+  "title": "demo-iso20022",
+  "why": "Shows how to parse, validate and build pacs.002 payment status messages in Java against the SWIFT MX schemas, with rule checks after the XSD pass.",
+  "keys": {
+    "races": [
+      "finance/payments"
+    ],
+    "lanes": [
+      "finance/payments"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Payment-Components/demo-iso20022",
+    "sha": "0991027e5feaad8bcdec27a5e3f6165184153f8e",
+    "file_url": "https://cdn.jsdelivr.net/gh/Payment-Components/demo-iso20022@0991027e5feaad8bcdec27a5e3f6165184153f8e/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "none",
+    "stars": 37,
+    "size_mb": 0,
+    "created_at": "2020-12-10T09:53:06Z",
+    "last_commit_at": "2026-04-06T10:29:39Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-04-06T10:29:39Z"
+}

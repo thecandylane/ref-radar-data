@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5e0881d2f258067e3edbab5aa02cbf18dcae5f1d"
-  },
   "id": "gh:kubernetes/minikube",
   "kind": "repo",
   "url": "https://github.com/kubernetes/minikube",
@@ -33,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/kubernetes/minikube",
-    "sha": "5e0881d2f258067e3edbab5aa02cbf18dcae5f1d",
-    "file_url": "https://cdn.jsdelivr.net/gh/kubernetes/minikube@5e0881d2f258067e3edbab5aa02cbf18dcae5f1d/{path}"
+    "sha": "61e410233d20e551ff1ec58895ef3d09051300ad",
+    "file_url": "https://cdn.jsdelivr.net/gh/kubernetes/minikube@61e410233d20e551ff1ec58895ef3d09051300ad/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 32274,
+    "stars": 32276,
     "size_mb": 299,
     "created_at": "2016-04-15T22:38:35Z",
-    "last_commit_at": "2026-11-24T13:24:24Z",
+    "last_commit_at": "2026-11-25T23:00:48Z",
     "releases": 155,
     "tags": 155,
     "archived": false,
@@ -65,12 +62,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "5e0881d2f258067e3edbab5aa02cbf18dcae5f1d",
-    "v": 4
-  },
   "pins_before": [
+    "5e0881d2f258067e3edbab5aa02cbf18dcae5f1d",
     "e4348403bb6c8416c5b2f4405934ea18454554bf"
   ],
-  "pinned_at": "2026-11-18T18:28:28Z"
+  "pinned_at": "2026-11-25T23:00:48Z"
 }

@@ -27,7 +27,7 @@
     ]
   },
   "archive": {
-    "swh": "swh:1:rev:2549ece6e05e1a880d24ad6c22614e0925ce8319"
+    "swh": "swh:1:rev:78624109904655d7a4609f27d34eb0982cd8963f"
   },
   "id": "gh:gastownhall/beads",
   "kind": "repo",
@@ -65,13 +65,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/gastownhall/beads",
-    "sha": "2549ece6e05e1a880d24ad6c22614e0925ce8319",
-    "file_url": "https://cdn.jsdelivr.net/gh/gastownhall/beads@2549ece6e05e1a880d24ad6c22614e0925ce8319/{path}"
+    "sha": "78624109904655d7a4609f27d34eb0982cd8963f",
+    "file_url": "https://cdn.jsdelivr.net/gh/gastownhall/beads@78624109904655d7a4609f27d34eb0982cd8963f/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 29042,
+    "stars": 29096,
     "size_mb": 210,
     "created_at": "2025-10-12T03:09:46Z",
     "last_commit_at": "2026-11-20T20:42:29Z",
@@ -91,15 +91,11 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 228,
+    "star_delta_7d": 241,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "2549ece6e05e1a880d24ad6c22614e0925ce8319",
-    "v": 4
-  },
-  "pinned_at": "2026-11-18T19:36:02Z"
+  "pinned_at": "2026-11-20T20:42:29Z"
 }

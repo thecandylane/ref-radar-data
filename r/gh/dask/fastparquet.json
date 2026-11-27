@@ -1,0 +1,59 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d5c57426e8bfe4445d351c362e4379787957ece0"
+  },
+  "id": "gh:dask/fastparquet",
+  "kind": "repo",
+  "url": "https://github.com/dask/fastparquet",
+  "title": "fastparquet",
+  "why": "Reads and writes Parquet files for pandas, with row groups, partitioned datasets and nullable columns handled per column.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": [
+      "data/serialization/schema-formats"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dask/fastparquet",
+    "sha": "d5c57426e8bfe4445d351c362e4379787957ece0",
+    "file_url": "https://cdn.jsdelivr.net/gh/dask/fastparquet@d5c57426e8bfe4445d351c362e4379787957ece0/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 911,
+    "size_mb": 30,
+    "created_at": "2015-11-06T16:42:17Z",
+    "last_commit_at": "2026-11-25T21:07:13Z",
+    "releases": 0,
+    "tags": 54,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true
+}

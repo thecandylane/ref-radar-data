@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ecea8d2574aff63aee3a04d626cfd945762a7a88"
-  },
   "id": "gh:hypothesisworks/hypothesis",
   "kind": "repo",
   "url": "https://github.com/HypothesisWorks/hypothesis",
@@ -27,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/HypothesisWorks/hypothesis",
-    "sha": "ecea8d2574aff63aee3a04d626cfd945762a7a88",
-    "file_url": "https://cdn.jsdelivr.net/gh/HypothesisWorks/hypothesis@ecea8d2574aff63aee3a04d626cfd945762a7a88/{path}"
+    "sha": "b9d568cc54d01e9be704cb430135f2fa545e8a0c",
+    "file_url": "https://cdn.jsdelivr.net/gh/HypothesisWorks/hypothesis@b9d568cc54d01e9be704cb430135f2fa545e8a0c/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 9240,
+    "stars": 9250,
     "size_mb": 44,
     "created_at": "2013-03-10T13:51:19Z",
     "last_commit_at": "2026-11-23T21:08:41Z",
@@ -53,19 +50,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 55,
+    "star_delta_7d": 56,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "ecea8d2574aff63aee3a04d626cfd945762a7a88",
-    "v": 4
-  },
   "pins_before": [
+    "ecea8d2574aff63aee3a04d626cfd945762a7a88",
     "9ab0be61aaaa27396fc1bbf4b34e7925cc68d1e2"
   ],
-  "pinned_at": "2026-11-18T23:25:34Z",
+  "pinned_at": "2026-11-23T21:08:41Z",
   "hot": true
 }

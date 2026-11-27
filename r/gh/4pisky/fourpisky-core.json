@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1dc9c4f73dfef075e2a27c3c8453d811a5a99e58"
+  },
+  "id": "gh:4pisky/fourpisky-core",
+  "kind": "repo",
+  "url": "https://github.com/4pisky/fourpisky-core",
+  "title": "fourpisky-core",
+  "why": "Filters incoming VOEvents by per-observatory follow-up criteria, then sends email site reports or new VOEvents; shared as a reference, not for general use.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/4pisky/fourpisky-core",
+    "sha": "1dc9c4f73dfef075e2a27c3c8453d811a5a99e58",
+    "file_url": "https://cdn.jsdelivr.net/gh/4pisky/fourpisky-core@1dc9c4f73dfef075e2a27c3c8453d811a5a99e58/{path}"
+  },
+  "facts": {
+    "lang": "HTML",
+    "license": "NOASSERTION",
+    "stars": 2,
+    "size_mb": 1,
+    "created_at": "2016-01-01T16:02:56Z",
+    "last_commit_at": "2018-09-29T22:54:47Z",
+    "releases": 0,
+    "tags": 28,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2018-09-29T22:54:47Z"
+}

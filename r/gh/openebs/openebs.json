@@ -1,0 +1,59 @@
+{
+  "id": "gh:openebs/openebs",
+  "kind": "repo",
+  "url": "https://github.com/openebs/openebs",
+  "title": "openebs",
+  "why": "Gives Kubernetes stateful apps persistent storage from local disks or replicated engines, so each workload can pick its tradeoff.",
+  "keys": {
+    "races": [
+      "data/storage",
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "data/storage",
+      "infra/kubernetes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/openebs/openebs",
+    "sha": "dcf55cbc335e849b9ef1c09f780657f35fef0841",
+    "file_url": "https://cdn.jsdelivr.net/gh/openebs/openebs@dcf55cbc335e849b9ef1c09f780657f35fef0841/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "Apache-2.0",
+    "stars": 9854,
+    "size_mb": 748,
+    "created_at": "2016-08-01T09:33:32Z",
+    "last_commit_at": "2026-11-26T00:02:02Z",
+    "releases": 81,
+    "tags": 81,
+    "archived": false,
+    "release": {
+      "tag": "v4.6.2",
+      "at": "2026-10-07T11:41:26.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true
+}

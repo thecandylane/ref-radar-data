@@ -30,18 +30,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/meilisearch/meilisearch",
-    "sha": "01794fd9078b40def7b1f46c9475d0281b1ddb02",
-    "file_url": "https://cdn.jsdelivr.net/gh/meilisearch/meilisearch@01794fd9078b40def7b1f46c9475d0281b1ddb02/{path}"
+    "sha": "78b61e06e7f861c762ccc231b6acf02cb96057f0",
+    "file_url": "https://cdn.jsdelivr.net/gh/meilisearch/meilisearch@78b61e06e7f861c762ccc231b6acf02cb96057f0/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "NOASSERTION",
-    "stars": 59992,
+    "stars": 60014,
     "size_mb": 91,
     "created_at": "2018-04-23T11:45:28Z",
-    "last_commit_at": "2026-11-24T15:33:52Z",
+    "last_commit_at": "2026-11-26T08:10:57Z",
     "releases": 344,
-    "tags": 700,
+    "tags": 701,
     "archived": false,
     "release": {
       "tag": "v1.58.0",
@@ -56,19 +56,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 102,
+    "star_delta_7d": 77,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "01794fd9078b40def7b1f46c9475d0281b1ddb02",
-    "v": 4
-  },
   "pins_before": [
+    "01794fd9078b40def7b1f46c9475d0281b1ddb02",
     "4ef8a91f27ee6affff3f59bc46a9e07a2a761636"
   ],
-  "pinned_at": "2026-11-18T11:13:08Z",
+  "pinned_at": "2026-11-26T08:10:57Z",
   "hot": true
 }

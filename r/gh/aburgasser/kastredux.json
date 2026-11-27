@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b36d465a3730db6c9b2389fa041eb17109dd27bd"
+  },
+  "id": "gh:aburgasser/kastredux",
+  "kind": "repo",
+  "url": "https://github.com/aburgasser/kastredux",
+  "title": "kastredux",
+  "why": "Reduces raw Kast RED and BLUE fits frames to flux calibrated spectra, with telluric correction and a diagnostic PDF for each step.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/aburgasser/kastredux",
+    "sha": "b36d465a3730db6c9b2389fa041eb17109dd27bd",
+    "file_url": "https://raw.githubusercontent.com/aburgasser/kastredux/b36d465a3730db6c9b2389fa041eb17109dd27bd/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 86,
+    "created_at": "2024-07-12T22:44:45Z",
+    "last_commit_at": "2026-03-30T08:01:31Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.4",
+      "at": "2026-03-30T08:03:05.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-03-30T08:01:31Z"
+}

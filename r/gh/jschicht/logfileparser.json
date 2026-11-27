@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:30827368f305b3b7f98417ad06fb1e299e6aef7e"
+  },
+  "id": "gh:jschicht/logfileparser",
+  "kind": "repo",
+  "url": "https://github.com/jschicht/LogFileParser",
+  "title": "LogFileParser",
+  "why": "Decodes the NTFS $LogFile into CSV and sqlite, recovering data runs and transactions from slack space within the log.",
+  "keys": {
+    "races": [
+      "forensics/triage"
+    ],
+    "lanes": [
+      "forensics/triage"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.txt",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jschicht/LogFileParser",
+    "sha": "30827368f305b3b7f98417ad06fb1e299e6aef7e",
+    "file_url": "https://cdn.jsdelivr.net/gh/jschicht/LogFileParser@30827368f305b3b7f98417ad06fb1e299e6aef7e/{path}"
+  },
+  "facts": {
+    "lang": "AutoIt",
+    "license": "MIT",
+    "stars": 219,
+    "size_mb": 33,
+    "created_at": "2014-02-19T21:34:57Z",
+    "last_commit_at": "2026-06-05T18:17:19Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.0.53",
+      "at": "2025-06-01T14:53:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-06-05T18:17:19Z"
+}

@@ -36,18 +36,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/gitbutlerapp/gitbutler",
-    "sha": "ed4f6a61d9bc3202fd7e9b553cc5e14ba7831185",
-    "file_url": "https://cdn.jsdelivr.net/gh/gitbutlerapp/gitbutler@ed4f6a61d9bc3202fd7e9b553cc5e14ba7831185/{path}"
+    "sha": "43e91fbb9e85123b8be21210b7c681a995d18a2e",
+    "file_url": "https://cdn.jsdelivr.net/gh/gitbutlerapp/gitbutler@43e91fbb9e85123b8be21210b7c681a995d18a2e/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "NOASSERTION",
-    "stars": 22020,
+    "stars": 22026,
     "size_mb": 367,
     "created_at": "2023-01-31T14:56:22Z",
-    "last_commit_at": "2026-11-25T00:14:03Z",
+    "last_commit_at": "2026-11-26T00:24:27Z",
     "releases": 153,
-    "tags": 2495,
+    "tags": 2496,
     "archived": false,
     "release": {
       "tag": "release/0.23.5",
@@ -62,18 +62,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 46,
+    "star_delta_7d": 35,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "ed4f6a61d9bc3202fd7e9b553cc5e14ba7831185",
-    "v": 4
-  },
   "pins_before": [
+    "ed4f6a61d9bc3202fd7e9b553cc5e14ba7831185",
     "74fc568a6d79b0dfdecfd1d5bdd0c2cfb3ab2f0f"
   ],
-  "pinned_at": "2026-11-18T22:17:49Z"
+  "pinned_at": "2026-11-26T00:24:27Z"
 }

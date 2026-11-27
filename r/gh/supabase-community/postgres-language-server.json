@@ -32,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/supabase-community/postgres-language-server",
-    "sha": "5d71c55b735fb098972d948eb51e1a36e51922e2",
-    "file_url": "https://cdn.jsdelivr.net/gh/supabase-community/postgres-language-server@5d71c55b735fb098972d948eb51e1a36e51922e2/{path}"
+    "sha": "7de5f719dd2084983d4234a77d4fe82c747b2e90",
+    "file_url": "https://cdn.jsdelivr.net/gh/supabase-community/postgres-language-server@7de5f719dd2084983d4234a77d4fe82c747b2e90/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 5266,
-    "size_mb": 44,
+    "stars": 5265,
+    "size_mb": 45,
     "created_at": "2023-05-17T19:23:15Z",
-    "last_commit_at": "2026-11-25T07:36:45Z",
+    "last_commit_at": "2026-11-26T09:53:23Z",
     "releases": 46,
     "tags": 48,
     "archived": false,
@@ -64,12 +64,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "5d71c55b735fb098972d948eb51e1a36e51922e2",
-    "v": 4
-  },
   "pins_before": [
+    "5d71c55b735fb098972d948eb51e1a36e51922e2",
     "22ac20e13b440550596a31adb11e08a30b16fee6"
   ],
-  "pinned_at": "2026-11-18T19:15:24Z"
+  "pinned_at": "2026-11-26T09:53:23Z"
 }

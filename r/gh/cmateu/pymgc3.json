@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9f41286bbefe20fa662745908c25462cfb13a225"
+  },
+  "id": "gh:cmateu/pymgc3",
+  "kind": "repo",
+  "url": "https://github.com/cmateu/PyMGC3",
+  "title": "PyMGC3",
+  "why": "Converts sky positions and proper motions between galactic, equatorial and rectangular frames, and runs the mgc3 model over survey footprints.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cmateu/PyMGC3",
+    "sha": "9f41286bbefe20fa662745908c25462cfb13a225",
+    "file_url": "https://cdn.jsdelivr.net/gh/cmateu/PyMGC3@9f41286bbefe20fa662745908c25462cfb13a225/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 9,
+    "size_mb": 3,
+    "created_at": "2014-04-11T23:12:51Z",
+    "last_commit_at": "2026-10-27T19:49:05Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-10-27T19:49:05Z",
+  "papers": [
+    {
+      "id": "arxiv:1411.6267",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

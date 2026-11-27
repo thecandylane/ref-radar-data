@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a5a8acf2c6ae44a73670e0caf34663f16456d645"
+  },
+  "id": "gh:ahujasid/mcp-for-blender",
+  "kind": "repo",
+  "url": "https://github.com/ahujasid/mcp-for-blender",
+  "title": "mcp-for-blender",
+  "why": "Lets an LLM drive a running Blender through a socket addon, creating objects, applying materials, and checking renders from multiple angles.",
+  "keys": {
+    "races": [
+      "agents/tools"
+    ],
+    "lanes": [
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/text-to-cad",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ahujasid/mcp-for-blender",
+    "sha": "a5a8acf2c6ae44a73670e0caf34663f16456d645",
+    "file_url": "https://cdn.jsdelivr.net/gh/ahujasid/mcp-for-blender@a5a8acf2c6ae44a73670e0caf34663f16456d645/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 35853,
+    "size_mb": 3,
+    "created_at": "2025-03-07T09:58:58Z",
+    "last_commit_at": "2026-11-18T10:26:51Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-18T10:26:51Z"
+}

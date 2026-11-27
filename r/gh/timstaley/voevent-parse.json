@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fbebba61c915e69adc31b99984d3db1ec914c255"
+  },
+  "id": "gh:timstaley/voevent-parse",
+  "kind": "repo",
+  "url": "https://github.com/timstaley/voevent-parse",
+  "title": "voevent-parse",
+  "why": "Parses, edits and generates VOEvent XML packets in Python on top of lxml.objectify, a lightweight route into astronomy event data.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/serialization"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/timstaley/voevent-parse",
+    "sha": "fbebba61c915e69adc31b99984d3db1ec914c255",
+    "file_url": "https://cdn.jsdelivr.net/gh/timstaley/voevent-parse@fbebba61c915e69adc31b99984d3db1ec914c255/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-2-Clause",
+    "stars": 11,
+    "size_mb": 0,
+    "created_at": "2012-11-19T19:15:14Z",
+    "last_commit_at": "2022-06-15T09:44:39Z",
+    "releases": 3,
+    "tags": 19,
+    "archived": false,
+    "release": {
+      "tag": "1.0.2",
+      "at": "2018-02-10T16:07:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2022-06-15T09:44:39Z"
+}

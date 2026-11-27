@@ -1,0 +1,72 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b1c021362d01a854ecd845bddbafd6adfb0dc30c"
+  },
+  "id": "gh:nushell/nushell",
+  "kind": "repo",
+  "url": "https://github.com/nushell/nushell",
+  "title": "nushell",
+  "why": "Pipes structured tables between commands, so ls and ps output can be filtered with where instead of raw text streams.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nushell/nushell",
+    "sha": "b1c021362d01a854ecd845bddbafd6adfb0dc30c",
+    "file_url": "https://cdn.jsdelivr.net/gh/nushell/nushell@b1c021362d01a854ecd845bddbafd6adfb0dc30c/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 41112,
+    "size_mb": 72,
+    "created_at": "2019-05-10T16:59:42Z",
+    "last_commit_at": "2026-11-26T00:18:17Z",
+    "releases": 128,
+    "tags": 135,
+    "archived": false,
+    "release": {
+      "tag": "0.117.0",
+      "at": "2026-11-10T00:39:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pins_before": [
+    "6418f8fc1605faa64e00fd02aa9cce97ae2dfa27"
+  ],
+  "pinned_at": "2026-11-26T00:18:17Z"
+}

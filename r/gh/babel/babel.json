@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:24f41d12f2df9929c27c33a2c633f4d02cfa9e3b"
-  },
   "id": "gh:babel/babel",
   "kind": "repo",
   "url": "https://github.com/babel/babel",
@@ -33,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/babel/babel",
-    "sha": "24f41d12f2df9929c27c33a2c633f4d02cfa9e3b",
-    "file_url": "https://cdn.jsdelivr.net/gh/babel/babel@24f41d12f2df9929c27c33a2c633f4d02cfa9e3b/{path}"
+    "sha": "f8345b3dcc7b53142ebaea61ec405259de75e14a",
+    "file_url": "https://cdn.jsdelivr.net/gh/babel/babel@f8345b3dcc7b53142ebaea61ec405259de75e14a/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 44075,
+    "stars": 44074,
     "size_mb": 151,
     "created_at": "2014-09-28T13:38:23Z",
-    "last_commit_at": "2026-11-24T19:19:32Z",
+    "last_commit_at": "2026-11-25T21:06:36Z",
     "releases": 485,
     "tags": 942,
     "archived": false,
@@ -59,18 +56,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 11,
+    "star_delta_7d": -1,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "24f41d12f2df9929c27c33a2c633f4d02cfa9e3b",
-    "v": 4
-  },
   "pins_before": [
+    "24f41d12f2df9929c27c33a2c633f4d02cfa9e3b",
     "db68099d1dbbe7412f031617813a2984b307bf98"
   ],
-  "pinned_at": "2026-11-18T18:50:30Z"
+  "pinned_at": "2026-11-25T21:06:36Z"
 }

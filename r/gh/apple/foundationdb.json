@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:39fb2391049fe326d2c5c7c3dd8dbb8b596284b9"
+    "swh": "swh:1:rev:58f80b14ae6dc8a431585ecf76671892c67a35c9"
   },
   "id": "gh:apple/foundationdb",
   "kind": "repo",
@@ -25,13 +25,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apple/foundationdb",
-    "sha": "39fb2391049fe326d2c5c7c3dd8dbb8b596284b9",
-    "file_url": "https://cdn.jsdelivr.net/gh/apple/foundationdb@39fb2391049fe326d2c5c7c3dd8dbb8b596284b9/{path}"
+    "sha": "58f80b14ae6dc8a431585ecf76671892c67a35c9",
+    "file_url": "https://cdn.jsdelivr.net/gh/apple/foundationdb@58f80b14ae6dc8a431585ecf76671892c67a35c9/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "Apache-2.0",
-    "stars": 16877,
+    "stars": 16876,
     "size_mb": 215,
     "created_at": "2017-12-14T01:40:42Z",
     "last_commit_at": "2026-11-24T06:14:25Z",
@@ -57,12 +57,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "39fb2391049fe326d2c5c7c3dd8dbb8b596284b9",
-    "v": 4
-  },
   "pins_before": [
+    "39fb2391049fe326d2c5c7c3dd8dbb8b596284b9",
     "f033e55b68f22eaf60ee9b2e3799b3a6d198b80a"
   ],
-  "pinned_at": "2026-11-18T20:53:07Z"
+  "pinned_at": "2026-11-24T06:14:25Z"
 }

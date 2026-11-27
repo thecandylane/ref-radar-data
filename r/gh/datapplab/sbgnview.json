@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:bbaeea8a37a23faca63377ee7094dfc4b920a387"
+  },
+  "id": "gh:datapplab/sbgnview",
+  "kind": "repo",
+  "url": "https://github.com/datapplab/SBGNview",
+  "title": "SBGNview",
+  "why": "Maps gene data onto SBGN pathway diagrams from Reactome, MetaCyc, KEGG and more, with highlight functions for nodes, edges and paths.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/datapplab/SBGNview",
+    "sha": "bbaeea8a37a23faca63377ee7094dfc4b920a387",
+    "file_url": "https://cdn.jsdelivr.net/gh/datapplab/SBGNview@bbaeea8a37a23faca63377ee7094dfc4b920a387/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 30,
+    "size_mb": 18,
+    "created_at": "2019-05-28T14:55:44Z",
+    "last_commit_at": "2022-06-11T22:25:05Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2022-06-11T22:25:05Z"
+}

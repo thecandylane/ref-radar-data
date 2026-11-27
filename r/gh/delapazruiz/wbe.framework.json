@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2cc58e6ee75d5dcb4dabf935c83aadc11280497c"
+  },
+  "id": "gh:delapazruiz/wbe.framework",
+  "kind": "repo",
+  "url": "https://github.com/delapazruiz/WBE.framework",
+  "title": "WBE.framework",
+  "why": "NetLogo simulations and an renv setup that reproduce a wastewater surveillance study, run locally or in Docker.",
+  "keys": {
+    "races": [
+      "medicine/health-data"
+    ],
+    "lanes": [
+      "medicine/health-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/delapazruiz/WBE.framework",
+    "sha": "2cc58e6ee75d5dcb4dabf935c83aadc11280497c",
+    "file_url": "https://cdn.jsdelivr.net/gh/delapazruiz/WBE.framework@2cc58e6ee75d5dcb4dabf935c83aadc11280497c/{path}"
+  },
+  "facts": {
+    "lang": "NetLogo",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2024-10-07T13:23:00Z",
+    "last_commit_at": "2025-04-03T14:17:14Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.1",
+      "at": "2025-02-17T14:45:21.000Z"
+    },
+    "doi": "10.5281/zenodo.14883768",
+    "citations": {
+      "count": 2,
+      "by": "DataCite",
+      "at": "2026-11-26"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2025-04-03T14:17:14Z"
+}

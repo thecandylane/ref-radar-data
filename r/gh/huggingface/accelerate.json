@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:bd0703e3390ebb2b4eb1db5a0f1283f8edbc6091"
-  },
   "id": "gh:huggingface/accelerate",
   "kind": "repo",
   "url": "https://github.com/huggingface/accelerate",
@@ -29,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/huggingface/accelerate",
-    "sha": "bd0703e3390ebb2b4eb1db5a0f1283f8edbc6091",
-    "file_url": "https://cdn.jsdelivr.net/gh/huggingface/accelerate@bd0703e3390ebb2b4eb1db5a0f1283f8edbc6091/{path}"
+    "sha": "bcc1fe6c8a53945effd3987caf6ee2069148ae84",
+    "file_url": "https://cdn.jsdelivr.net/gh/huggingface/accelerate@bcc1fe6c8a53945effd3987caf6ee2069148ae84/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 9957,
+    "stars": 9960,
     "size_mb": 7,
     "created_at": "2020-10-30T13:27:12Z",
     "last_commit_at": "2026-11-23T12:55:00Z",
@@ -55,18 +52,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 7,
+    "star_delta_7d": 10,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "bd0703e3390ebb2b4eb1db5a0f1283f8edbc6091",
-    "v": 4
-  },
   "pins_before": [
+    "bd0703e3390ebb2b4eb1db5a0f1283f8edbc6091",
     "f47439c1fb24721ea71ab98f9b512726b5a97828"
   ],
-  "pinned_at": "2026-11-18T14:01:58Z"
+  "pinned_at": "2026-11-23T12:55:00Z"
 }

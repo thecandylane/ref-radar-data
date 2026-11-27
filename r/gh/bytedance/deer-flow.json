@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:585abb979fbc483485c0fc53ed0e571ab7eebadb"
+  },
   "id": "gh:bytedance/deer-flow",
   "kind": "repo",
   "url": "https://github.com/bytedance/deer-flow",
@@ -36,10 +39,10 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 85781,
+    "stars": 85839,
     "size_mb": 109,
     "created_at": "2025-05-07T02:50:19Z",
-    "last_commit_at": "2026-11-25T09:00:32Z",
+    "last_commit_at": "2026-11-26T08:05:09Z",
     "releases": 3,
     "tags": 12,
     "archived": false,
@@ -56,7 +59,7 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 306,
+    "star_delta_7d": 295,
     "votes": {},
     "ranks": {}
   },
@@ -69,5 +72,6 @@
   "pins_before": [
     "416a0647a481f2e743215251f95cfd6c24bf7cb8"
   ],
-  "pinned_at": "2026-11-19T03:40:37Z"
+  "pinned_at": "2026-11-19T03:40:37Z",
+  "hot": true
 }

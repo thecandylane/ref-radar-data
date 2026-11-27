@@ -1,0 +1,77 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7df9e5dba007cfc19ca04bde62c0a1959f039e1c"
+  },
+  "id": "gh:vguada/findbounce",
+  "kind": "repo",
+  "url": "https://github.com/vguada/FindBounce",
+  "title": "FindBounce",
+  "why": "Finds the bounce path for false vacuum decay with several scalar fields in Mathematica, returning the action and a plot of the field trajectory.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/vguada/FindBounce",
+    "sha": "7df9e5dba007cfc19ca04bde62c0a1959f039e1c",
+    "file_url": "https://cdn.jsdelivr.net/gh/vguada/FindBounce@7df9e5dba007cfc19ca04bde62c0a1959f039e1c/{path}"
+  },
+  "facts": {
+    "lang": "Mathematica",
+    "license": "GPL-3.0",
+    "stars": 22,
+    "size_mb": 13,
+    "created_at": "2019-03-29T17:35:39Z",
+    "last_commit_at": "2020-05-03T14:57:21Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2020-05-04T16:38:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2020-05-03T14:57:21Z",
+  "papers": [
+    {
+      "id": "arxiv:2002.00881",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:1803.02227",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

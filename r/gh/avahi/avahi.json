@@ -1,0 +1,58 @@
+{
+  "id": "gh:avahi/avahi",
+  "kind": "repo",
+  "url": "https://github.com/avahi/avahi",
+  "title": "avahi",
+  "why": "Lets programs publish and browse services and host names on the local network, with an autoipd daemon for link-local addresses.",
+  "keys": {
+    "races": [
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/avahi/avahi",
+    "sha": "9c17c1337b4272ecef7608f21b1fdfc9214a6f3d",
+    "file_url": "https://cdn.jsdelivr.net/gh/avahi/avahi@9c17c1337b4272ecef7608f21b1fdfc9214a6f3d/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "LGPL-2.1",
+    "stars": 1577,
+    "size_mb": 5,
+    "created_at": "2014-11-26T02:35:47Z",
+    "last_commit_at": "2026-11-23T19:20:06Z",
+    "releases": 4,
+    "tags": 48,
+    "archived": false,
+    "release": {
+      "tag": "v0.8",
+      "at": "2020-02-18T07:12:56.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-23T19:20:06Z"
+}

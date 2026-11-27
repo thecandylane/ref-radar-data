@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:994ff9242c0de7f8a2a43757cff7e5ac838d80d0"
+  },
+  "id": "gh:crpropa/crpropa2",
+  "kind": "repo",
+  "url": "https://github.com/CRPropa/CRPropa2",
+  "title": "CRPropa2",
+  "why": "Runs XML-configured source and trajectory simulations over magnetic field grids, needing CLHEP and CFITSIO built first.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CRPropa/CRPropa2",
+    "sha": "994ff9242c0de7f8a2a43757cff7e5ac838d80d0",
+    "file_url": "https://cdn.jsdelivr.net/gh/CRPropa/CRPropa2@994ff9242c0de7f8a2a43757cff7e5ac838d80d0/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "GPL-2.0",
+    "stars": 0,
+    "size_mb": 26,
+    "created_at": "2012-09-17T15:46:10Z",
+    "last_commit_at": "2015-01-15T10:31:49Z",
+    "releases": 2,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.4",
+      "at": "2014-06-05T10:07:04.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2015-01-15T10:31:49Z"
+}

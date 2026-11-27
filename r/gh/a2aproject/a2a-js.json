@@ -28,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/a2aproject/a2a-js",
-    "sha": "c1ef1b59bd51d4f46f3bb9ef016059ee89776721",
-    "file_url": "https://cdn.jsdelivr.net/gh/a2aproject/a2a-js@c1ef1b59bd51d4f46f3bb9ef016059ee89776721/{path}"
+    "sha": "f33bbc065b14325798fe982c83a9e8891433d08d",
+    "file_url": "https://cdn.jsdelivr.net/gh/a2aproject/a2a-js@f33bbc065b14325798fe982c83a9e8891433d08d/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 661,
+    "stars": 660,
     "size_mb": 3,
     "created_at": "2025-05-27T22:13:37Z",
     "last_commit_at": "2026-11-24T14:33:45Z",
@@ -54,22 +54,20 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 5,
+    "star_delta_7d": 4,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "c1ef1b59bd51d4f46f3bb9ef016059ee89776721",
-    "v": 4
-  },
   "pins_before": [
+    "a6077782c9e806359292684d2704acfde4d23d71",
+    "c1ef1b59bd51d4f46f3bb9ef016059ee89776721",
     "20108e67c468b223e48865606cf55190672eb3a2",
     "605d9637eeeb442a74c41ce7c8c9e6676a98196c",
     "4adce08dffed9113b60d73be45ed5c19b2968d86",
     "41335e66b6941db20065580782b909ff6e8476c0",
     "f8ce0b90ce5e1a01aed2d86e98fb838d1d032bbc"
   ],
-  "pinned_at": "2026-11-24T12:14:35Z"
+  "pinned_at": "2026-11-26T10:28:14Z"
 }

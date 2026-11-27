@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:22ed3074b1e7b134bcbc09028d0ba320839b0655"
+  },
+  "id": "gh:centerforaisafety/hle",
+  "kind": "repo",
+  "url": "https://github.com/centerforaisafety/hle",
+  "title": "hle",
+  "why": "Runs a model over the questions, then a judge pass scores each answer and dumps the metrics to file.",
+  "keys": {
+    "races": [
+      "llm-infra/evals"
+    ],
+    "lanes": [
+      "llm-infra/evals"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/centerforaisafety/hle",
+    "sha": "22ed3074b1e7b134bcbc09028d0ba320839b0655",
+    "file_url": "https://cdn.jsdelivr.net/gh/centerforaisafety/hle@22ed3074b1e7b134bcbc09028d0ba320839b0655/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 1755,
+    "size_mb": 1,
+    "created_at": "2025-01-23T00:10:21Z",
+    "last_commit_at": "2026-09-23T15:38:47Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-09-23T15:38:47Z"
+}

@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:671eb9b898b28c0d02a6a2455dacc0f5b269e280"
+  },
+  "id": "gh:andysantarelli/mesa-quest",
+  "kind": "repo",
+  "url": "https://github.com/andysantarelli/MESA-QUEST",
+  "title": "MESA-QUEST",
+  "why": "MESA model of a quasi-star whose black hole core accretes under Bondi or Eddington rates, with a version per paper.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/andysantarelli/MESA-QUEST",
+    "sha": "671eb9b898b28c0d02a6a2455dacc0f5b269e280",
+    "file_url": "https://cdn.jsdelivr.net/gh/andysantarelli/MESA-QUEST@671eb9b898b28c0d02a6a2455dacc0f5b269e280/{path}"
+  },
+  "facts": {
+    "lang": "AMPL",
+    "license": "MIT",
+    "stars": 7,
+    "size_mb": 4,
+    "created_at": "2025-07-01T19:58:50Z",
+    "last_commit_at": "2026-02-09T17:51:00Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-02-09T17:51:00Z"
+}

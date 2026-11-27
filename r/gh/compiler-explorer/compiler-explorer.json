@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:073e0cdd36fd7e10a2dc8d08946a42d2ece49181"
+    "swh": "swh:1:rev:2a6b7886a58d1da76a9263dfe928c671b5ccf343"
   },
   "id": "gh:compiler-explorer/compiler-explorer",
   "kind": "repo",
@@ -29,18 +29,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/compiler-explorer/compiler-explorer",
-    "sha": "073e0cdd36fd7e10a2dc8d08946a42d2ece49181",
-    "file_url": "https://cdn.jsdelivr.net/gh/compiler-explorer/compiler-explorer@073e0cdd36fd7e10a2dc8d08946a42d2ece49181/{path}"
+    "sha": "2a6b7886a58d1da76a9263dfe928c671b5ccf343",
+    "file_url": "https://cdn.jsdelivr.net/gh/compiler-explorer/compiler-explorer@2a6b7886a58d1da76a9263dfe928c671b5ccf343/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "BSD-2-Clause",
-    "stars": 19204,
-    "size_mb": 109,
+    "stars": 19203,
+    "size_mb": 110,
     "created_at": "2012-05-23T01:31:17Z",
-    "last_commit_at": "2026-11-24T21:45:14Z",
+    "last_commit_at": "2026-11-25T18:58:41Z",
     "releases": 0,
-    "tags": 9663,
+    "tags": 9682,
     "archived": false,
     "release": null
   },
@@ -52,18 +52,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 7,
+    "star_delta_7d": 3,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "073e0cdd36fd7e10a2dc8d08946a42d2ece49181",
-    "v": 4
-  },
   "pins_before": [
+    "073e0cdd36fd7e10a2dc8d08946a42d2ece49181",
     "7b177ae2e330556023d4bdd65d6909ccbff71d4a"
   ],
-  "pinned_at": "2026-11-18T21:24:48Z"
+  "pinned_at": "2026-11-25T18:58:41Z"
 }

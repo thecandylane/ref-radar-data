@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d113e1b6b46e2fb34999314992e82a2c9dd0935a"
+  },
+  "id": "gh:gemyxzhang/hysbi-galaxy",
+  "kind": "repo",
+  "url": "https://github.com/gemyxzhang/HySBI-galaxy",
+  "title": "HySBI-galaxy",
+  "why": "Runs hybrid simulation-based inference on galaxy clustering catalogs from Quijote halos, training normalizing flows and sampling with emcee.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gemyxzhang/HySBI-galaxy",
+    "sha": "d113e1b6b46e2fb34999314992e82a2c9dd0935a",
+    "file_url": "https://cdn.jsdelivr.net/gh/gemyxzhang/HySBI-galaxy@d113e1b6b46e2fb34999314992e82a2c9dd0935a/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 2,
+    "size_mb": 15,
+    "created_at": "2023-09-11T00:35:25Z",
+    "last_commit_at": "2025-06-14T00:59:36Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2025-06-14T00:59:36Z"
+}

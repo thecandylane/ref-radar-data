@@ -1,0 +1,60 @@
+{
+  "id": "gh:tonywu71/colpali-cookbooks",
+  "kind": "repo",
+  "url": "https://github.com/tonywu71/colpali-cookbooks",
+  "title": "colpali-cookbooks",
+  "why": "Notebooks that fine-tune ColPali with LoRA and run ColQwen2 retrieval with adapter hot-swapping, plus similarity maps for reading its predictions.",
+  "keys": {
+    "races": [
+      "llm-infra/rag",
+      "ml/training"
+    ],
+    "lanes": [
+      "llm-infra/rag",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tonywu71/colpali-cookbooks",
+    "sha": "fedbdbfaae4b935993f96fc8fcc8ec7478a80b19",
+    "file_url": "https://cdn.jsdelivr.net/gh/tonywu71/colpali-cookbooks@fedbdbfaae4b935993f96fc8fcc8ec7478a80b19/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "MIT",
+    "stars": 355,
+    "size_mb": 13,
+    "created_at": "2024-08-17T10:12:39Z",
+    "last_commit_at": "2026-09-03T12:37:51Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.0",
+      "at": "2025-06-02T13:54:50.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-09-03T12:37:51Z"
+}

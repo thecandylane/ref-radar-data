@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:af21926e09ba79cc802b67ee406e790df0e233b0"
+  },
+  "id": "gh:nnarenraju/sage",
+  "kind": "repo",
+  "url": "https://github.com/nnarenraju/sage",
+  "title": "sage",
+  "why": "Trains neural networks on o3a to o4b gravitational-wave detector data, with a config set per run and a hard-example training pass.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "ml/training"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "ml/training"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/nnarenraju/sage",
+    "sha": "af21926e09ba79cc802b67ee406e790df0e233b0",
+    "file_url": "https://cdn.jsdelivr.net/gh/nnarenraju/sage@af21926e09ba79cc802b67ee406e790df0e233b0/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "GPL-3.0",
+    "stars": 12,
+    "size_mb": 169,
+    "created_at": "2022-04-15T16:52:08Z",
+    "last_commit_at": "2026-10-23T08:20:20Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.0-pappardelle",
+      "at": "2026-05-25T08:32:42.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-10-23T08:20:20Z"
+}

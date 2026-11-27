@@ -1,0 +1,71 @@
+{
+  "id": "gh:storytold/craft-launcher",
+  "kind": "repo",
+  "url": "https://github.com/storytold/craft-launcher",
+  "title": "craft-launcher",
+  "why": "Installs and updates a suite of apps from a signed catalog, picking the native package format for each Linux distro.",
+  "keys": {
+    "races": [
+      "desktop/native-ui",
+      "desktop/packaging",
+      "agents/tools"
+    ],
+    "lanes": [
+      "desktop/native-ui",
+      "desktop/packaging",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/storytold/craft-launcher",
+    "sha": "bc765549cec168d29c2d53f7b772f8bfa5d2249e",
+    "file_url": "https://cdn.jsdelivr.net/gh/storytold/craft-launcher@bc765549cec168d29c2d53f7b772f8bfa5d2249e/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 5697,
+    "size_mb": 11,
+    "created_at": "2026-10-09T23:21:59Z",
+    "last_commit_at": "2026-11-26T04:59:43Z",
+    "releases": 32,
+    "tags": 34,
+    "archived": false,
+    "release": {
+      "tag": "v0.20.3",
+      "at": "2026-11-26T04:59:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true
+}

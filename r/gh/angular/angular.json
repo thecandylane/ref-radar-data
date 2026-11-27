@@ -26,22 +26,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/angular/angular",
-    "sha": "250ca0795363827975a2610854f1273ed768c5ca",
-    "file_url": "https://cdn.jsdelivr.net/gh/angular/angular@250ca0795363827975a2610854f1273ed768c5ca/{path}"
+    "sha": "63fa515ec74cb3690c2c48587d627c0c3120d0f0",
+    "file_url": "https://cdn.jsdelivr.net/gh/angular/angular@63fa515ec74cb3690c2c48587d627c0c3120d0f0/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 101549,
-    "size_mb": 662,
+    "stars": 101599,
+    "size_mb": 661,
     "created_at": "2014-09-18T16:12:01Z",
-    "last_commit_at": "2026-11-24T22:33:49Z",
-    "releases": 730,
-    "tags": 1348,
+    "last_commit_at": "2026-11-25T17:55:18Z",
+    "releases": 731,
+    "tags": 1349,
     "archived": false,
     "release": {
-      "tag": "v22.3.0",
-      "at": "2026-11-18T19:26:45.000Z"
+      "tag": "v22.3.1",
+      "at": "2026-11-25T18:37:21.000Z"
     }
   },
   "reuse": "copy",
@@ -52,19 +52,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 80,
+    "star_delta_7d": 133,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "250ca0795363827975a2610854f1273ed768c5ca",
-    "v": 4
-  },
   "pins_before": [
+    "250ca0795363827975a2610854f1273ed768c5ca",
     "9b0d8bc9d537bc240247f36ba49aaf4bc9a9df54"
   ],
-  "pinned_at": "2026-11-18T19:30:50Z",
+  "pinned_at": "2026-11-25T17:55:18Z",
   "hot": true
 }

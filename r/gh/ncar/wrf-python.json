@@ -1,0 +1,64 @@
+{
+  "id": "gh:ncar/wrf-python",
+  "kind": "repo",
+  "url": "https://github.com/NCAR/wrf-python",
+  "title": "wrf-python",
+  "why": "Computes diagnostics like cape, slp and wind from WRF output, and converts latlon points to grid ij positions.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NCAR/wrf-python",
+    "sha": "658170d73bd01da03a18147d2eb9bead15c0581f",
+    "file_url": "https://cdn.jsdelivr.net/gh/NCAR/wrf-python@658170d73bd01da03a18147d2eb9bead15c0581f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 504,
+    "size_mb": 40,
+    "created_at": "2016-05-23T20:55:40Z",
+    "last_commit_at": "2026-11-17T06:35:19Z",
+    "releases": 8,
+    "tags": 52,
+    "archived": false,
+    "release": {
+      "tag": "v1.4.2",
+      "at": "2025-12-18T20:33:13.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-17T06:35:19Z"
+}

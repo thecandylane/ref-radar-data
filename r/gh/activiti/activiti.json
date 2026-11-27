@@ -1,0 +1,61 @@
+{
+  "id": "gh:activiti/activiti",
+  "kind": "repo",
+  "url": "https://github.com/Activiti/Activiti",
+  "title": "Activiti",
+  "why": "Embeds a BPMN process engine in Spring or plain Java apps, with the same setup on a server, a cluster or cloud.",
+  "keys": {
+    "races": [
+      "business-apps/bpm"
+    ],
+    "lanes": [
+      "business-apps/bpm"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Activiti/Activiti",
+    "sha": "012e9920d0e2f3619c9b2e822fcae8b182ca38f3",
+    "file_url": "https://cdn.jsdelivr.net/gh/Activiti/Activiti@012e9920d0e2f3619c9b2e822fcae8b182ca38f3/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 10559,
+    "size_mb": 133,
+    "created_at": "2012-09-13T11:34:43Z",
+    "last_commit_at": "2026-11-26T07:09:25Z",
+    "releases": 1000,
+    "tags": 3629,
+    "archived": false,
+    "release": {
+      "tag": "8.8.2",
+      "at": "2026-11-16T12:12:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pins_before": [
+    "610f3e785dbce2ce7e35e0836e311d5777cc2de5"
+  ],
+  "pinned_at": "2026-11-26T07:09:25Z"
+}

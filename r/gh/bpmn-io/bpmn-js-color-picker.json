@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:337eb458909b8065b795e933a8ca1a0865680c6e"
+  },
+  "id": "gh:bpmn-io/bpmn-js-color-picker",
+  "kind": "repo",
+  "url": "https://github.com/bpmn-io/bpmn-js-color-picker",
+  "title": "bpmn-js-color-picker",
+  "why": "Adds color actions to the bpmn-js modeler's context pad and popup, so a diagram element can be recolored in place.",
+  "keys": {
+    "races": [
+      "business-apps/bpm"
+    ],
+    "lanes": [
+      "business-apps/bpm"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bpmn-io/bpmn-js-color-picker",
+    "sha": "337eb458909b8065b795e933a8ca1a0865680c6e",
+    "file_url": "https://cdn.jsdelivr.net/gh/bpmn-io/bpmn-js-color-picker@337eb458909b8065b795e933a8ca1a0865680c6e/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 33,
+    "size_mb": 1,
+    "created_at": "2016-09-16T16:42:01Z",
+    "last_commit_at": "2026-11-17T17:59:54Z",
+    "releases": 3,
+    "tags": 10,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.2",
+      "at": "2025-07-15T09:12:15.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-17T17:59:54Z"
+}

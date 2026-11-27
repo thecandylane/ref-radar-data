@@ -1,0 +1,58 @@
+{
+  "id": "gh:phpdotenv/phpdotenv",
+  "kind": "repo",
+  "url": "https://github.com/phpdotenv/phpdotenv",
+  "title": "phpdotenv",
+  "why": "Validates each loaded value with required, isInteger and allowedValues rules, and rejects unknown backslash escapes in double quotes.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/phpdotenv/phpdotenv",
+    "sha": "ba37876e98122ca15151247ce1187d20ee8bf4e0",
+    "file_url": "https://cdn.jsdelivr.net/gh/phpdotenv/phpdotenv@ba37876e98122ca15151247ce1187d20ee8bf4e0/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "BSD-3-Clause",
+    "stars": 13560,
+    "size_mb": 1,
+    "created_at": "2013-01-23T06:57:12Z",
+    "last_commit_at": "2026-11-23T00:53:11Z",
+    "releases": 69,
+    "tags": 86,
+    "archived": false,
+    "release": {
+      "tag": "v5.8.1",
+      "at": "2026-11-23T00:53:36.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-23T00:53:11Z"
+}

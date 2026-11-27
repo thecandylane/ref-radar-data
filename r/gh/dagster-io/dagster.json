@@ -22,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/dagster-io/dagster",
-    "sha": "0ad8b455fc4f9e4b90b6ef0582cc145b24fe1b1b",
-    "file_url": "https://raw.githubusercontent.com/dagster-io/dagster/0ad8b455fc4f9e4b90b6ef0582cc145b24fe1b1b/{path}"
+    "sha": "832b59f744d7dda160bebcce4aa385de258db855",
+    "file_url": "https://raw.githubusercontent.com/dagster-io/dagster/832b59f744d7dda160bebcce4aa385de258db855/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 16471,
-    "size_mb": 1494,
+    "stars": 16476,
+    "size_mb": 1497,
     "created_at": "2018-04-30T16:30:04Z",
-    "last_commit_at": "2026-11-24T20:06:11Z",
+    "last_commit_at": "2026-11-25T17:53:40Z",
     "releases": 438,
     "tags": 3966,
     "archived": false,
@@ -54,12 +54,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "0ad8b455fc4f9e4b90b6ef0582cc145b24fe1b1b",
-    "v": 4
-  },
   "pins_before": [
+    "0ad8b455fc4f9e4b90b6ef0582cc145b24fe1b1b",
     "93e5f51da49420d3e06d9399471070acedb554ca"
   ],
-  "pinned_at": "2026-11-18T19:02:18Z"
+  "pinned_at": "2026-11-25T17:53:40Z"
 }

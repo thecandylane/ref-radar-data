@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3aaa0a86ac54ca7a5052615a752412e9a480b971"
+  },
+  "id": "gh:zhoutz/gpu_ppm",
+  "kind": "repo",
+  "url": "https://github.com/zhoutz/gpu_ppm",
+  "title": "gpu_ppm",
+  "why": "Models phase-resolved pulse profiles from rotating neutron stars on the GPU, with CPU reference code to cross-check results.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zhoutz/gpu_ppm",
+    "sha": "3aaa0a86ac54ca7a5052615a752412e9a480b971",
+    "file_url": "https://cdn.jsdelivr.net/gh/zhoutz/gpu_ppm@3aaa0a86ac54ca7a5052615a752412e9a480b971/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 4,
+    "size_mb": 26,
+    "created_at": "2025-10-01T21:56:41Z",
+    "last_commit_at": "2025-10-11T17:28:48Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2025-10-11T17:28:48Z"
+}

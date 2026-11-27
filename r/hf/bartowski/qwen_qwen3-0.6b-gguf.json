@@ -1,0 +1,58 @@
+{
+  "id": "hf:bartowski/qwen_qwen3-0.6b-gguf",
+  "kind": "model",
+  "url": "https://huggingface.co/bartowski/Qwen_Qwen3-0.6B-GGUF",
+  "title": "Qwen_Qwen3-0.6B-GGUF",
+  "why": "Quantizations of Qwen3-0.6B in GGUF files from 0.33GB to 1.51GB, so you can match a file to your RAM and run it with llama.cpp.",
+  "keys": {
+    "races": [
+      "ml/open-models",
+      "llm-infra/inference"
+    ],
+    "lanes": [
+      "ml/open-models",
+      "llm-infra/inference"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://huggingface.co/bartowski/Qwen_Qwen3-0.6B-GGUF",
+    "sha": "60b85c0e3d8fe0f6474f406922a26d12aca4550d",
+    "file_url": "https://huggingface.co/bartowski/Qwen_Qwen3-0.6B-GGUF/raw/60b85c0e3d8fe0f6474f406922a26d12aca4550d/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "none",
+    "stars": 0,
+    "size_mb": 12946,
+    "created_at": "2025-04-28T16:57:39.000Z",
+    "last_commit_at": "2025-04-28T17:26:40.000Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "likes": 29,
+    "downloads_30d": 259821
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2025-04-28T17:26:40.000Z"
+}

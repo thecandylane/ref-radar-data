@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:618434bcf6ef31e2f54a9c0561bf897be12468e0"
-  },
   "id": "gh:bioconductor/uniprot.ws",
   "kind": "repo",
   "url": "https://github.com/Bioconductor/UniProt.ws",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Bioconductor/UniProt.ws",
-    "sha": "618434bcf6ef31e2f54a9c0561bf897be12468e0",
-    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/UniProt.ws@618434bcf6ef31e2f54a9c0561bf897be12468e0/{path}"
+    "sha": "3b36ffcefe60729ae7d787213372178cdabf1af3",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/UniProt.ws@3b36ffcefe60729ae7d787213372178cdabf1af3/{path}"
   },
   "facts": {
     "lang": "R",
@@ -34,7 +31,7 @@
     "stars": 10,
     "size_mb": 2,
     "created_at": "2017-09-01T20:25:00Z",
-    "last_commit_at": "2026-07-21T18:43:28Z",
+    "last_commit_at": "2026-11-23T22:32:14Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -54,9 +51,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "618434bcf6ef31e2f54a9c0561bf897be12468e0",
-    "v": 4
-  },
-  "pinned_at": "2026-07-21T18:43:28Z"
+  "pins_before": [
+    "618434bcf6ef31e2f54a9c0561bf897be12468e0"
+  ],
+  "pinned_at": "2026-11-23T22:32:14Z"
 }

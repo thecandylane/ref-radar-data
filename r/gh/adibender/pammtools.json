@@ -1,0 +1,58 @@
+{
+  "id": "gh:adibender/pammtools",
+  "kind": "repo",
+  "url": "https://github.com/adibender/pammtools",
+  "title": "pammtools",
+  "why": "Fits piecewise exponential additive mixed models for time-to-event data using GAM software such as mgcv, including competing risks.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/adibender/pammtools",
+    "sha": "067afe00a572273e55cabdccd256cc6d31a1d639",
+    "file_url": "https://cdn.jsdelivr.net/gh/adibender/pammtools@067afe00a572273e55cabdccd256cc6d31a1d639/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 52,
+    "size_mb": 136,
+    "created_at": "2017-10-09T08:55:47Z",
+    "last_commit_at": "2026-11-20T13:46:39Z",
+    "releases": 21,
+    "tags": 22,
+    "archived": false,
+    "release": {
+      "tag": "v.0.8.0",
+      "at": "2026-07-03T09:24:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-20T13:46:39Z"
+}

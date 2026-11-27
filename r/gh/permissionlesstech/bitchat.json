@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:04995f68e470a18d1fc99f86fa326c2a87bab4f2"
-  },
   "id": "gh:permissionlesstech/bitchat",
   "kind": "repo",
   "url": "https://github.com/permissionlesstech/bitchat",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/permissionlesstech/bitchat",
-    "sha": "04995f68e470a18d1fc99f86fa326c2a87bab4f2",
-    "file_url": "https://cdn.jsdelivr.net/gh/permissionlesstech/bitchat@04995f68e470a18d1fc99f86fa326c2a87bab4f2/{path}"
+    "sha": "9b170b174a65271d00538e13667e9c269b4894e6",
+    "file_url": "https://cdn.jsdelivr.net/gh/permissionlesstech/bitchat@9b170b174a65271d00538e13667e9c269b4894e6/{path}"
   },
   "facts": {
     "lang": "Swift",
     "license": "Unlicense",
-    "stars": 37201,
-    "size_mb": 127,
+    "stars": 37214,
+    "size_mb": 128,
     "created_at": "2025-07-04T14:34:38Z",
-    "last_commit_at": "2026-10-25T00:55:00Z",
+    "last_commit_at": "2026-11-26T07:58:18Z",
     "releases": 21,
     "tags": 24,
     "archived": false,
@@ -53,15 +50,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 25,
+    "star_delta_7d": 26,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "04995f68e470a18d1fc99f86fa326c2a87bab4f2",
-    "v": 3
-  },
-  "pinned_at": "2026-10-25T00:55:00Z"
+  "pins_before": [
+    "04995f68e470a18d1fc99f86fa326c2a87bab4f2"
+  ],
+  "pinned_at": "2026-11-26T07:58:18Z"
 }

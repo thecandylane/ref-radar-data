@@ -1,0 +1,64 @@
+{
+  "id": "gh:k8up-io/k8up",
+  "kind": "repo",
+  "url": "https://github.com/k8up-io/k8up",
+  "title": "k8up",
+  "why": "Operator that turns Backup, Restore, Archive, Prune and Check schedules into restic jobs, with S3, GCS and Azure backends.",
+  "keys": {
+    "races": [
+      "infra/kubernetes",
+      "data/storage"
+    ],
+    "lanes": [
+      "infra/kubernetes",
+      "data/storage"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/k8up-io/k8up",
+    "sha": "596ab872761d469ca84de9b3cf279cc028af32cf",
+    "file_url": "https://cdn.jsdelivr.net/gh/k8up-io/k8up@596ab872761d469ca84de9b3cf279cc028af32cf/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 1040,
+    "size_mb": 52,
+    "created_at": "2019-01-17T10:05:05Z",
+    "last_commit_at": "2026-11-23T13:46:27Z",
+    "releases": 91,
+    "tags": 107,
+    "archived": false,
+    "release": {
+      "tag": "k8up-4.10.1",
+      "at": "2026-10-22T15:06:15.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-23T13:46:27Z"
+}

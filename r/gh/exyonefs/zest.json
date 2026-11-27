@@ -1,0 +1,62 @@
+{
+  "id": "gh:exyonefs/zest",
+  "kind": "repo",
+  "url": "https://github.com/exyonefs/zest",
+  "title": "zest",
+  "why": "Static site tool with a dev server that live-reloads on file changes, plus build, init and preview commands.",
+  "keys": {
+    "races": [
+      "web/static-sites"
+    ],
+    "lanes": [
+      "web/static-sites"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/exyonefs/zest",
+    "sha": "5dea068e3a034f3a97a65282b7e9f6ccfc438066",
+    "file_url": "https://cdn.jsdelivr.net/gh/exyonefs/zest@5dea068e3a034f3a97a65282b7e9f6ccfc438066/{path}"
+  },
+  "facts": {
+    "lang": "F#",
+    "license": "Apache-2.0",
+    "stars": 61,
+    "size_mb": 2,
+    "created_at": "2026-06-20T12:17:49Z",
+    "last_commit_at": "2026-10-17T04:22:38Z",
+    "releases": 19,
+    "tags": 19,
+    "archived": false,
+    "release": {
+      "tag": "v0.10.0",
+      "at": "2026-10-17T04:36:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-10-17T04:22:38Z"
+}

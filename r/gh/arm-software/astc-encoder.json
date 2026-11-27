@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:64b61768b9832b3c5b3be3de373d5ad9080a9f45"
+  },
+  "id": "gh:arm-software/astc-encoder",
+  "kind": "repo",
+  "url": "https://github.com/ARM-software/astc-encoder",
+  "title": "astc-encoder",
+  "why": "Encodes and decodes image blocks in the ASTC format through a C library header, and its CLI prints compression metrics.",
+  "keys": {
+    "races": [
+      "games/graphics"
+    ],
+    "lanes": [
+      "games/graphics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ARM-software/astc-encoder",
+    "sha": "64b61768b9832b3c5b3be3de373d5ad9080a9f45",
+    "file_url": "https://cdn.jsdelivr.net/gh/ARM-software/astc-encoder@64b61768b9832b3c5b3be3de373d5ad9080a9f45/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 1323,
+    "size_mb": 51,
+    "created_at": "2015-04-29T14:51:23Z",
+    "last_commit_at": "2026-11-25T18:02:25Z",
+    "releases": 38,
+    "tags": 42,
+    "archived": false,
+    "release": {
+      "tag": "5.7.1",
+      "at": "2026-11-03T21:40:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true
+}

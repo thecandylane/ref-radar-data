@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:24d3dc155dc7312f96f44ee283e5eb6d678ec676"
-  },
   "id": "gh:gruntwork-io/terragrunt",
   "kind": "repo",
   "url": "https://github.com/gruntwork-io/terragrunt",
@@ -33,22 +30,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/gruntwork-io/terragrunt",
-    "sha": "24d3dc155dc7312f96f44ee283e5eb6d678ec676",
-    "file_url": "https://cdn.jsdelivr.net/gh/gruntwork-io/terragrunt@24d3dc155dc7312f96f44ee283e5eb6d678ec676/{path}"
+    "sha": "9f78f47697cff20bb159421ff2e54cd5e16caa04",
+    "file_url": "https://cdn.jsdelivr.net/gh/gruntwork-io/terragrunt@9f78f47697cff20bb159421ff2e54cd5e16caa04/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 9935,
-    "size_mb": 82,
+    "stars": 9937,
+    "size_mb": 81,
     "created_at": "2016-05-23T22:17:48Z",
-    "last_commit_at": "2026-11-24T20:03:39Z",
-    "releases": 955,
-    "tags": 962,
+    "last_commit_at": "2026-11-25T19:59:53Z",
+    "releases": 956,
+    "tags": 963,
     "archived": false,
     "release": {
-      "tag": "v1.2.2",
-      "at": "2026-11-11T15:21:00.000Z"
+      "tag": "v1.2.3",
+      "at": "2026-11-25T16:29:42.000Z"
     }
   },
   "reuse": "copy",
@@ -65,12 +62,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "24d3dc155dc7312f96f44ee283e5eb6d678ec676",
-    "v": 4
-  },
   "pins_before": [
+    "24d3dc155dc7312f96f44ee283e5eb6d678ec676",
     "dd66cfa9efbb567364e24335d3409378553cc33e"
   ],
-  "pinned_at": "2026-11-18T20:12:01Z"
+  "pinned_at": "2026-11-25T19:59:53Z"
 }

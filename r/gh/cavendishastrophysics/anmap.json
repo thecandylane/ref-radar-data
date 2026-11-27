@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:efb611d7f80a3d14dc55e46cd01e8a622f6fd294"
+  },
+  "id": "gh:cavendishastrophysics/anmap",
+  "kind": "repo",
+  "url": "https://github.com/CavendishAstrophysics/anmap",
+  "title": "anmap",
+  "why": "Fits and models spectral and image data in Fortran, with a scripting language for user-written analysis routines.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/CavendishAstrophysics/anmap",
+    "sha": "efb611d7f80a3d14dc55e46cd01e8a622f6fd294",
+    "file_url": "https://cdn.jsdelivr.net/gh/CavendishAstrophysics/anmap@efb611d7f80a3d14dc55e46cd01e8a622f6fd294/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "BSD-3-Clause",
+    "stars": 0,
+    "size_mb": 3,
+    "created_at": "2014-11-27T00:15:49Z",
+    "last_commit_at": "2014-11-27T00:31:16Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2014-11-27T00:31:16Z"
+}

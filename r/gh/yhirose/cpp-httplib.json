@@ -1,0 +1,57 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4995333ef2c8d4b5a7bbc5afee1b722ccc97cbe0"
+  },
+  "id": "gh:yhirose/cpp-httplib",
+  "kind": "repo",
+  "url": "https://github.com/yhirose/cpp-httplib",
+  "title": "cpp-httplib",
+  "why": "Header-only C++ library that runs an HTTP or HTTPS server and client, with SSL through OpenSSL, Mbed TLS or wolfSSL.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/yhirose/cpp-httplib",
+    "sha": "4995333ef2c8d4b5a7bbc5afee1b722ccc97cbe0",
+    "file_url": "https://cdn.jsdelivr.net/gh/yhirose/cpp-httplib@4995333ef2c8d4b5a7bbc5afee1b722ccc97cbe0/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 17010,
+    "size_mb": 9,
+    "created_at": "2012-09-22T02:38:32Z",
+    "last_commit_at": "2026-11-25T04:58:31Z",
+    "releases": 191,
+    "tags": 193,
+    "archived": false,
+    "release": {
+      "tag": "v0.67.0",
+      "at": "2026-11-18T17:28:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-25T04:58:31Z"
+}

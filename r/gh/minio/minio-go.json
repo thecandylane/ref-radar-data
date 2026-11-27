@@ -1,0 +1,73 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d33b8ad6db6b7b4a24fbda4337feab2242bd8eab"
+  },
+  "id": "gh:minio/minio-go",
+  "kind": "repo",
+  "url": "https://github.com/minio/minio-go",
+  "title": "minio-go",
+  "why": "Go client for object buckets, with lifecycle, replication, versioning and append-object calls, plus Cortex agent memory endpoints.",
+  "keys": {
+    "races": [
+      "data/storage",
+      "agents/memory"
+    ],
+    "lanes": [
+      "data/storage",
+      "agents/memory"
+    ],
+    "capabilities": [
+      "data/storage/object-storage"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/minio/minio-go",
+    "sha": "d33b8ad6db6b7b4a24fbda4337feab2242bd8eab",
+    "file_url": "https://cdn.jsdelivr.net/gh/minio/minio-go@d33b8ad6db6b7b4a24fbda4337feab2242bd8eab/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 3021,
+    "size_mb": 8,
+    "created_at": "2015-05-02T02:36:46Z",
+    "last_commit_at": "2026-11-23T09:29:14Z",
+    "releases": 185,
+    "tags": 194,
+    "archived": false,
+    "release": {
+      "tag": "v7.4.1",
+      "at": "2026-10-12T23:47:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-23T09:29:14Z"
+}

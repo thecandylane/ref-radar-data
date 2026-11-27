@@ -26,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/zylon-ai/private-gpt",
-    "sha": "2373cc7b912019c9b8fdb8907b2c256799b2adcb",
-    "file_url": "https://cdn.jsdelivr.net/gh/zylon-ai/private-gpt@2373cc7b912019c9b8fdb8907b2c256799b2adcb/{path}"
+    "sha": "16d907133081fb23f377c52b91a87862806d16ce",
+    "file_url": "https://cdn.jsdelivr.net/gh/zylon-ai/private-gpt@16d907133081fb23f377c52b91a87862806d16ce/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 57652,
+    "stars": 57659,
     "size_mb": 222,
     "created_at": "2023-05-02T09:15:31Z",
-    "last_commit_at": "2026-11-23T13:39:14Z",
+    "last_commit_at": "2026-11-26T09:18:14Z",
     "releases": 14,
     "tags": 25,
     "archived": false,
@@ -52,18 +52,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 9,
+    "star_delta_7d": 13,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "2373cc7b912019c9b8fdb8907b2c256799b2adcb",
-    "v": 4
-  },
   "pins_before": [
+    "2373cc7b912019c9b8fdb8907b2c256799b2adcb",
     "44fa6598a10f2c29cd5d8745bf29cc04b75cb3ad"
   ],
-  "pinned_at": "2026-11-18T11:09:06Z"
+  "pinned_at": "2026-11-26T09:18:14Z"
 }

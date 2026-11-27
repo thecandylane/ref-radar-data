@@ -4,7 +4,7 @@
   },
   "id": "gh:aixisstudio/snitch",
   "kind": "repo",
-  "url": "https://github.com/aixisstudio/Snitch",
+  "url": "https://github.com/aixisstudio/Wiretap",
   "title": "aixisstudio/Snitch",
   "why": "Electron app that watches packets and flows, scoring domains for DGA and matching C2 fingerprints before it blocks IPs.",
   "keys": {
@@ -28,23 +28,23 @@
   ],
   "fetch": {
     "type": "git-sparse",
-    "repo": "https://github.com/aixisstudio/Snitch",
+    "repo": "https://github.com/aixisstudio/Wiretap",
     "sha": "c2d220150b2aaea0ae45c4ad62f3cbf283a153da",
-    "file_url": "https://cdn.jsdelivr.net/gh/aixisstudio/Snitch@c2d220150b2aaea0ae45c4ad62f3cbf283a153da/{path}"
+    "file_url": "https://cdn.jsdelivr.net/gh/aixisstudio/Wiretap@c2d220150b2aaea0ae45c4ad62f3cbf283a153da/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "AGPL-3.0",
-    "stars": 828,
-    "size_mb": 70,
+    "stars": 835,
+    "size_mb": 78,
     "created_at": "2026-10-01T15:47:55Z",
-    "last_commit_at": "2026-11-19T14:40:42Z",
-    "releases": 16,
-    "tags": 17,
+    "last_commit_at": "2026-11-25T14:33:26Z",
+    "releases": 19,
+    "tags": 20,
     "archived": false,
     "release": {
-      "tag": "v1.6.4",
-      "at": "2026-10-23T10:58:15.000Z"
+      "tag": "v1.9.0",
+      "at": "2026-11-25T12:54:31.000Z"
     }
   },
   "reuse": "copy",

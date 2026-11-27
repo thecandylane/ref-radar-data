@@ -1,0 +1,55 @@
+{
+  "id": "gh:sharedskies/alsvid",
+  "kind": "repo",
+  "url": "https://github.com/sharedskies/Alsvid",
+  "title": "Alsvid",
+  "why": "Command-line scripts in Python and Julia for processing astronomical images and data, run from a shell or bash script.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/sharedskies/Alsvid",
+    "sha": "be332b5dd6dc8ce5728654bb2f5af4200ff074d2",
+    "file_url": "https://cdn.jsdelivr.net/gh/sharedskies/Alsvid@be332b5dd6dc8ce5728654bb2f5af4200ff074d2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 29,
+    "created_at": "2026-05-15T02:50:47Z",
+    "last_commit_at": "2026-06-28T06:16:31Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-06-28T06:16:31Z"
+}

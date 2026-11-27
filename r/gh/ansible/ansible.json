@@ -26,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ansible/ansible",
-    "sha": "0631c278a6e69c4303634dffa18741d4d1f40825",
-    "file_url": "https://cdn.jsdelivr.net/gh/ansible/ansible@0631c278a6e69c4303634dffa18741d4d1f40825/{path}"
+    "sha": "cd313f0a8650ded36707a24e2bad61375f1214ce",
+    "file_url": "https://cdn.jsdelivr.net/gh/ansible/ansible@cd313f0a8650ded36707a24e2bad61375f1214ce/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "GPL-3.0",
-    "stars": 71595,
+    "stars": 71630,
     "size_mb": 261,
     "created_at": "2012-03-06T14:58:02Z",
     "last_commit_at": "2026-11-23T14:17:55Z",
@@ -52,19 +52,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 93,
+    "star_delta_7d": 106,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "0631c278a6e69c4303634dffa18741d4d1f40825",
-    "v": 4
-  },
   "pins_before": [
+    "0631c278a6e69c4303634dffa18741d4d1f40825",
     "b4b2b1e82a535d27f902a71fc8396c3af138fca2"
   ],
-  "pinned_at": "2026-11-19T01:55:58Z",
+  "pinned_at": "2026-11-23T14:17:55Z",
   "hot": true
 }

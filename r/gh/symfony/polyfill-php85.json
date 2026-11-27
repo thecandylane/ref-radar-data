@@ -1,0 +1,58 @@
+{
+  "id": "gh:symfony/polyfill-php85",
+  "kind": "repo",
+  "url": "https://github.com/symfony/polyfill-php85",
+  "title": "polyfill-php85",
+  "why": "Backports functions missing from older PHP versions, such as array_first and grapheme_levenshtein, so they run on earlier releases.",
+  "keys": {
+    "races": [
+      "languages/runtimes"
+    ],
+    "lanes": [
+      "languages/runtimes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/symfony/polyfill-php85",
+    "sha": "94c794cb5ba51784bc259f11e9f128593297d8dc",
+    "file_url": "https://cdn.jsdelivr.net/gh/symfony/polyfill-php85@94c794cb5ba51784bc259f11e9f128593297d8dc/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 69,
+    "size_mb": 0,
+    "created_at": "2025-03-31T13:33:56Z",
+    "last_commit_at": "2026-10-30T15:20:09Z",
+    "releases": 9,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "v1.44.0",
+      "at": "2026-11-15T14:20:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-10-30T15:20:09Z"
+}

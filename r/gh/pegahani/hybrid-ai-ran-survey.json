@@ -1,0 +1,63 @@
+{
+  "id": "gh:pegahani/hybrid-ai-ran-survey",
+  "kind": "repo",
+  "url": "https://github.com/pegahani/Hybrid-AI-RAN-Survey",
+  "title": "Hybrid-AI-RAN-Survey",
+  "why": "Generates the survey README from a bibliography file, turning each entry into a table row with venue and citation links.",
+  "keys": {
+    "races": [
+      "dev-tools/docs"
+    ],
+    "lanes": [
+      "dev-tools/docs"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pegahani/Hybrid-AI-RAN-Survey",
+    "sha": "b51359367ad3b077083703d9ef79d0f370720aaf",
+    "file_url": "https://cdn.jsdelivr.net/gh/pegahani/Hybrid-AI-RAN-Survey@b51359367ad3b077083703d9ef79d0f370720aaf/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 1,
+    "size_mb": 1,
+    "created_at": "2026-10-15T12:11:26Z",
+    "last_commit_at": "2026-11-24T15:27:18Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-24T15:27:18Z",
+  "papers": [
+    {
+      "id": "arxiv:2611.33035",
+      "via": [
+        "abstract"
+      ]
+    }
+  ]
+}

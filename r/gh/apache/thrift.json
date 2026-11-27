@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:7e1b6ab4465cc1fab7b7541764b7aa6547ce2134"
+    "swh": "swh:1:rev:a7cc5e4f71d82c0cb3a01ffcde45d298fcd34f7f"
   },
   "id": "gh:apache/thrift",
   "kind": "repo",
@@ -31,16 +31,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/thrift",
-    "sha": "7e1b6ab4465cc1fab7b7541764b7aa6547ce2134",
-    "file_url": "https://cdn.jsdelivr.net/gh/apache/thrift@7e1b6ab4465cc1fab7b7541764b7aa6547ce2134/{path}"
+    "sha": "a7cc5e4f71d82c0cb3a01ffcde45d298fcd34f7f",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/thrift@a7cc5e4f71d82c0cb3a01ffcde45d298fcd34f7f/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "Apache-2.0",
-    "stars": 10971,
+    "stars": 10972,
     "size_mb": 42,
     "created_at": "2009-09-18T08:00:17Z",
-    "last_commit_at": "2026-11-25T01:03:57Z",
+    "last_commit_at": "2026-11-26T01:56:38Z",
     "releases": 19,
     "tags": 43,
     "archived": false,
@@ -63,12 +63,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "7e1b6ab4465cc1fab7b7541764b7aa6547ce2134",
-    "v": 4
-  },
   "pins_before": [
+    "7e1b6ab4465cc1fab7b7541764b7aa6547ce2134",
     "000cdb7b3c52a0d46298f2cc554466a6e663ac0e"
   ],
-  "pinned_at": "2026-11-19T02:13:58Z"
+  "pinned_at": "2026-11-26T01:56:38Z"
 }

@@ -33,7 +33,7 @@
     "type": "git-sparse",
     "repo": "https://github.com/portbuster1337/ArachneC2",
     "sha": "48b9b417ec7a2aebffbb97b736df81a0764ed87b",
-    "file_url": "https://raw.githubusercontent.com/portbuster1337/ArachneC2/48b9b417ec7a2aebffbb97b736df81a0764ed87b/{path}"
+    "file_url": "https://cdn.jsdelivr.net/gh/portbuster1337/ArachneC2@48b9b417ec7a2aebffbb97b736df81a0764ed87b/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -44,7 +44,11 @@
     "last_commit_at": "2026-06-16T14:02:21Z",
     "releases": 1,
     "tags": 3,
-    "archived": false
+    "archived": false,
+    "release": {
+      "tag": "v0.2.7",
+      "at": "2026-06-11T15:48:29.000Z"
+    }
   },
   "reuse": "copy",
   "maturity": "new",
@@ -60,11 +64,12 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pinned_at": "2026-06-16T14:02:21Z",
   "risk": {
     "level": "caution",
     "signals": [
       "offensive or proof-of-concept code"
     ],
-    "scanned_at": "2026-11-25T13:06:19.956Z"
+    "scanned_at": "2026-11-26T13:27:25.250Z"
   }
 }

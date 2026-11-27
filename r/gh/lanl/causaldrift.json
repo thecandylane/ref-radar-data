@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7dc2c7fd4c083467b1445bdafbd06a6a7641c6d1"
+  },
+  "id": "gh:lanl/causaldrift",
+  "kind": "repo",
+  "url": "https://github.com/lanl/CausalDrift",
+  "title": "CausalDrift",
+  "why": "Scores causal discovery methods on graphs that drift over time, using structural and weighted Hamming distance.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lanl/CausalDrift",
+    "sha": "7dc2c7fd4c083467b1445bdafbd06a6a7641c6d1",
+    "file_url": "https://cdn.jsdelivr.net/gh/lanl/CausalDrift@7dc2c7fd4c083467b1445bdafbd06a6a7641c6d1/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 0,
+    "size_mb": 0,
+    "created_at": "2026-10-03T23:48:57Z",
+    "last_commit_at": "2026-10-03T23:59:22Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-10-03T23:59:22Z"
+}

@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4c8e6772881a8d9c8f1b3142a753ea37e8ad2342"
+  },
+  "id": "gh:serilog/serilog-sinks-file",
+  "kind": "repo",
+  "url": "https://github.com/serilog/serilog-sinks-file",
+  "title": "serilog-sinks-file",
+  "why": "Writes Serilog events to rolling text or JSON files, capped by size and retention, with optional sharing between processes.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/serilog/serilog-sinks-file",
+    "sha": "4c8e6772881a8d9c8f1b3142a753ea37e8ad2342",
+    "file_url": "https://cdn.jsdelivr.net/gh/serilog/serilog-sinks-file@4c8e6772881a8d9c8f1b3142a753ea37e8ad2342/{path}"
+  },
+  "facts": {
+    "lang": "C#",
+    "license": "Apache-2.0",
+    "stars": 373,
+    "size_mb": 0,
+    "created_at": "2016-03-09T05:54:08Z",
+    "last_commit_at": "2026-07-16T04:07:49Z",
+    "releases": 13,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v7.0.0",
+      "at": "2025-04-28T00:39:23.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-07-16T04:07:49Z"
+}

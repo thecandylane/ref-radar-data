@@ -30,13 +30,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/agentgateway/agentgateway",
-    "sha": "ed9b7c49008a211b24107e62ff7ac1890b15dc01",
-    "file_url": "https://cdn.jsdelivr.net/gh/agentgateway/agentgateway@ed9b7c49008a211b24107e62ff7ac1890b15dc01/{path}"
+    "sha": "134cbf02e02742cce08ad52cdd221fef579186b8",
+    "file_url": "https://cdn.jsdelivr.net/gh/agentgateway/agentgateway@134cbf02e02742cce08ad52cdd221fef579186b8/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 6414,
+    "stars": 6441,
     "size_mb": 71,
     "created_at": "2025-03-18T20:55:22Z",
     "last_commit_at": "2026-11-24T23:22:06Z",
@@ -56,19 +56,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 137,
+    "star_delta_7d": 120,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "ed9b7c49008a211b24107e62ff7ac1890b15dc01",
-    "v": 4
-  },
   "pins_before": [
+    "ed9b7c49008a211b24107e62ff7ac1890b15dc01",
     "2f1e69ed409bf31ada0becffda5681bf08531a3a"
   ],
-  "pinned_at": "2026-11-18T22:51:20Z",
+  "pinned_at": "2026-11-24T23:22:06Z",
   "hot": true
 }

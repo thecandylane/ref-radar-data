@@ -1,0 +1,63 @@
+{
+  "id": "gh:callstack/linaria",
+  "kind": "repo",
+  "url": "https://github.com/callstack/linaria",
+  "title": "linaria",
+  "why": "Styles written in JS compile to plain CSS files at build time, so dynamic props run on CSS variables with no runtime.",
+  "keys": {
+    "races": [
+      "web/css",
+      "web/ui-components"
+    ],
+    "lanes": [
+      "web/css",
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/callstack/linaria",
+    "sha": "75e11a78433e1593a2d4e9f1b6cfd40673f0965f",
+    "file_url": "https://cdn.jsdelivr.net/gh/callstack/linaria@75e11a78433e1593a2d4e9f1b6cfd40673f0965f/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 12351,
+    "size_mb": 34,
+    "created_at": "2017-05-23T00:52:34Z",
+    "last_commit_at": "2026-11-25T14:25:26Z",
+    "releases": 625,
+    "tags": 749,
+    "archived": false,
+    "release": {
+      "tag": "@linaria/atomic@8.3.0",
+      "at": "2026-11-05T20:54:30.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true
+}

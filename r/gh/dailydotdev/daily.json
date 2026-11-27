@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:c7b38010fd59e59f2c23679c7e71f92af9287813"
+    "swh": "swh:1:rev:0992c020d17b388238451e3857b40962f607ff81"
   },
   "id": "gh:dailydotdev/daily",
   "kind": "repo",
@@ -27,13 +27,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/dailydotdev/daily",
-    "sha": "c7b38010fd59e59f2c23679c7e71f92af9287813",
-    "file_url": "https://cdn.jsdelivr.net/gh/dailydotdev/daily@c7b38010fd59e59f2c23679c7e71f92af9287813/{path}"
+    "sha": "0992c020d17b388238451e3857b40962f607ff81",
+    "file_url": "https://cdn.jsdelivr.net/gh/dailydotdev/daily@0992c020d17b388238451e3857b40962f607ff81/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "AGPL-3.0",
-    "stars": 20159,
+    "stars": 20162,
     "size_mb": 21,
     "created_at": "2017-11-10T07:30:51Z",
     "last_commit_at": "2026-11-21T20:30:54Z",
@@ -50,18 +50,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 10,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "c7b38010fd59e59f2c23679c7e71f92af9287813",
-    "v": 4
-  },
   "pins_before": [
+    "c7b38010fd59e59f2c23679c7e71f92af9287813",
     "07eebd36a8a683ee9f0c28d75545f3824b58f2a8"
   ],
-  "pinned_at": "2026-11-18T15:16:36Z"
+  "pinned_at": "2026-11-21T20:30:54Z"
 }

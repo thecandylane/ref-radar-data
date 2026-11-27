@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:12930254888f54a48ea9d8ac04c2f73a0e3b09f1"
+  },
+  "id": "gh:thephpleague/flysystem",
+  "kind": "repo",
+  "url": "https://github.com/thephpleague/flysystem",
+  "title": "flysystem",
+  "why": "One interface over local, FTP, SFTP, AWS S3 and Google Cloud Storage adapters, so the storage backend can change without touching calling code.",
+  "keys": {
+    "races": [
+      "data/storage"
+    ],
+    "lanes": [
+      "data/storage"
+    ],
+    "capabilities": [
+      "data/storage/object-storage"
+    ]
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/thephpleague/flysystem",
+    "sha": "12930254888f54a48ea9d8ac04c2f73a0e3b09f1",
+    "file_url": "https://cdn.jsdelivr.net/gh/thephpleague/flysystem@12930254888f54a48ea9d8ac04c2f73a0e3b09f1/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 13597,
+    "size_mb": 4,
+    "created_at": "2013-10-27T11:07:22Z",
+    "last_commit_at": "2026-11-18T15:55:38Z",
+    "releases": 16,
+    "tags": 258,
+    "archived": false,
+    "release": {
+      "tag": "3.16.0",
+      "at": "2023-09-07T19:25:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-18T15:55:38Z"
+}

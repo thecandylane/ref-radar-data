@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ee9fa7cc4704d683020526f47a9655f14c8d5f4c"
+  },
+  "id": "gh:espeak-ng/espeak-ng",
+  "kind": "repo",
+  "url": "https://github.com/espeak-ng/espeak-ng",
+  "title": "espeak-ng",
+  "why": "Formant synthesis keeps a text-to-speech engine in a few Mbytes across more than 100 languages, usable as a library or CLI.",
+  "keys": {
+    "races": [
+      "media/speech"
+    ],
+    "lanes": [
+      "media/speech"
+    ],
+    "capabilities": [
+      "media/speech/text-to-speech"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/espeak-ng/espeak-ng",
+    "sha": "ee9fa7cc4704d683020526f47a9655f14c8d5f4c",
+    "file_url": "https://cdn.jsdelivr.net/gh/espeak-ng/espeak-ng@ee9fa7cc4704d683020526f47a9655f14c8d5f4c/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-3.0",
+    "stars": 7061,
+    "size_mb": 77,
+    "created_at": "2015-12-08T20:42:42Z",
+    "last_commit_at": "2026-11-19T13:51:51Z",
+    "releases": 6,
+    "tags": 112,
+    "archived": false,
+    "release": {
+      "tag": "1.52.0",
+      "at": "2024-12-12T13:47:27.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-19T13:51:51Z"
+}

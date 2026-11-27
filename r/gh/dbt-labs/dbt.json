@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:7428c52a28859c0e6173248af7910391b2e87dd6"
-  },
   "id": "gh:dbt-labs/dbt",
   "kind": "repo",
   "url": "https://github.com/dbt-labs/dbt",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/dbt-labs/dbt",
-    "sha": "7428c52a28859c0e6173248af7910391b2e87dd6",
-    "file_url": "https://raw.githubusercontent.com/dbt-labs/dbt/7428c52a28859c0e6173248af7910391b2e87dd6/{path}"
+    "sha": "1dc062366c3d9690e3335adaf572f2f65839f206",
+    "file_url": "https://raw.githubusercontent.com/dbt-labs/dbt/1dc062366c3d9690e3335adaf572f2f65839f206/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 14211,
+    "stars": 14214,
     "size_mb": 143,
     "created_at": "2016-03-10T02:38:00Z",
-    "last_commit_at": "2026-11-25T05:21:02Z",
+    "last_commit_at": "2026-11-26T04:03:33Z",
     "releases": 380,
     "tags": 388,
     "archived": false,
@@ -67,12 +64,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "7428c52a28859c0e6173248af7910391b2e87dd6",
-    "v": 4
-  },
   "pins_before": [
+    "7428c52a28859c0e6173248af7910391b2e87dd6",
     "5e216d75ad38da16d6275ac658efc5c5390987c9"
   ],
-  "pinned_at": "2026-11-18T22:30:49Z"
+  "pinned_at": "2026-11-26T04:03:33Z"
 }

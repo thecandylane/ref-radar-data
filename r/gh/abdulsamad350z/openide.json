@@ -24,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/AbdulSamad350z/openide",
-    "sha": "ce6dc2d1265669c24054c6d232ce1c052f28bdfb",
-    "file_url": "https://cdn.jsdelivr.net/gh/AbdulSamad350z/openide@ce6dc2d1265669c24054c6d232ce1c052f28bdfb/{path}"
+    "sha": "3f3cfaff512efc6f6a9e4a2b57698911eb70c67d",
+    "file_url": "https://cdn.jsdelivr.net/gh/AbdulSamad350z/openide@3f3cfaff512efc6f6a9e4a2b57698911eb70c67d/{path}"
   },
   "facts": {
     "lang": "Java",
@@ -33,7 +33,7 @@
     "stars": 58,
     "size_mb": 1,
     "created_at": "2026-10-22T20:59:33Z",
-    "last_commit_at": "2026-11-25T03:18:15Z",
+    "last_commit_at": "2026-11-26T04:39:26Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -53,14 +53,12 @@
   },
   "tier": "discovered",
   "drafted": true,
-  "pack": {
-    "sha": "ce6dc2d1265669c24054c6d232ce1c052f28bdfb",
-    "v": 4
-  },
   "pins_before": [
+    "51adab6146378e342b5a7d3f5e9788dabcdd7569",
+    "ce6dc2d1265669c24054c6d232ce1c052f28bdfb",
     "4ec7bf798d2937778dad2862451dd66369ef25ac",
     "da051f7121980aacedbf32cd65791c6275da5711",
     "79daf8662b99206ea8c92bb63dd6a39eadea35c3"
   ],
-  "pinned_at": "2026-11-24T08:00:23Z"
+  "pinned_at": "2026-11-26T04:39:26Z"
 }

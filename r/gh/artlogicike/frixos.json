@@ -1,0 +1,60 @@
+{
+  "id": "gh:artlogicike/frixos",
+  "kind": "repo",
+  "url": "https://github.com/ArtLogicIKE/frixos",
+  "title": "frixos",
+  "why": "Firmware for a board that fetches Dexcom, Nightscout and FreeStyle glucose and draws the readings on a screen with OTA updates.",
+  "keys": {
+    "races": [
+      "medicine/diabetes-tech",
+      "embedded/firmware"
+    ],
+    "lanes": [
+      "medicine/diabetes-tech",
+      "embedded/firmware"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ArtLogicIKE/frixos",
+    "sha": "15bc2aa96e788180099af6fe3e860e5f038e5086",
+    "file_url": "https://cdn.jsdelivr.net/gh/ArtLogicIKE/frixos@15bc2aa96e788180099af6fe3e860e5f038e5086/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 81,
+    "size_mb": 15,
+    "created_at": "2026-02-25T21:56:20Z",
+    "last_commit_at": "2026-11-23T10:41:31Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "76",
+      "at": "2026-11-20T17:51:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-23T10:41:31Z"
+}

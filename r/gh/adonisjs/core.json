@@ -28,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/adonisjs/core",
-    "sha": "ceae80f7c3affe1d9b757d791d4141181cc709c8",
-    "file_url": "https://cdn.jsdelivr.net/gh/adonisjs/core@ceae80f7c3affe1d9b757d791d4141181cc709c8/{path}"
+    "sha": "776aa17234e1d4aecbfc4c880a04286ed85e3a10",
+    "file_url": "https://cdn.jsdelivr.net/gh/adonisjs/core@776aa17234e1d4aecbfc4c880a04286ed85e3a10/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 19194,
+    "stars": 19196,
     "size_mb": 7,
     "created_at": "2015-08-15T17:03:54Z",
     "last_commit_at": "2026-11-24T04:15:11Z",
@@ -54,20 +54,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 9,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "ceae80f7c3affe1d9b757d791d4141181cc709c8",
-    "v": 4
-  },
   "pins_before": [
+    "ceae80f7c3affe1d9b757d791d4141181cc709c8",
     "1c7581594eab91572e1f1c306a21cd788d27eff0",
     "0e9e88fea0fc93f20ee6a65a27a795a666be43e8",
     "683eb60de35efaec6efc6d222e9254768c5eeabb"
   ],
-  "pinned_at": "2026-11-24T04:15:11Z"
+  "pinned_at": "2026-11-26T10:16:47Z"
 }

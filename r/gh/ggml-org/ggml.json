@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d9fe7bff3d2bf4d077e25c654486d02c321734aa"
-  },
   "id": "gh:ggml-org/ggml",
   "kind": "repo",
   "url": "https://github.com/ggml-org/ggml",
@@ -31,22 +28,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ggml-org/ggml",
-    "sha": "d9fe7bff3d2bf4d077e25c654486d02c321734aa",
-    "file_url": "https://cdn.jsdelivr.net/gh/ggml-org/ggml@d9fe7bff3d2bf4d077e25c654486d02c321734aa/{path}"
+    "sha": "bb877c0c51f38c52ee2d5e41d58e3d0c20f3fed4",
+    "file_url": "https://cdn.jsdelivr.net/gh/ggml-org/ggml@bb877c0c51f38c52ee2d5e41d58e3d0c20f3fed4/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 16197,
-    "size_mb": 38,
+    "stars": 16212,
+    "size_mb": 40,
     "created_at": "2022-09-18T17:07:19Z",
-    "last_commit_at": "2026-11-16T09:35:03Z",
-    "releases": 45,
-    "tags": 45,
+    "last_commit_at": "2026-11-26T06:40:09Z",
+    "releases": 47,
+    "tags": 47,
     "archived": false,
     "release": {
-      "tag": "v1.0.0",
-      "at": "2026-11-13T08:34:21.000Z"
+      "tag": "v1.1.1",
+      "at": "2026-11-26T07:26:40.000Z"
     }
   },
   "reuse": "copy",
@@ -57,18 +54,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 88,
+    "star_delta_7d": 86,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "d9fe7bff3d2bf4d077e25c654486d02c321734aa",
-    "v": 4
-  },
   "pins_before": [
+    "d9fe7bff3d2bf4d077e25c654486d02c321734aa",
     "417a024b4fb6bc3116d41af7c067166a039bdf12"
   ],
-  "pinned_at": "2026-11-16T09:35:03Z"
+  "pinned_at": "2026-11-26T06:40:09Z"
 }

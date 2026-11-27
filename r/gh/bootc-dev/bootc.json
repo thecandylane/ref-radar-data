@@ -1,0 +1,63 @@
+{
+  "id": "gh:bootc-dev/bootc",
+  "kind": "repo",
+  "url": "https://github.com/bootc-dev/bootc",
+  "title": "bootc",
+  "why": "Installs and upgrades a whole OS from a container image, with boot kargs, bound images and composefs boot artifacts handled in Rust.",
+  "keys": {
+    "races": [
+      "systems/os",
+      "infra/containers"
+    ],
+    "lanes": [
+      "systems/os",
+      "infra/containers"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bootc-dev/bootc",
+    "sha": "72299d0c554529bb601ca2d9b15c59d7b7c1a10b",
+    "file_url": "https://cdn.jsdelivr.net/gh/bootc-dev/bootc@72299d0c554529bb601ca2d9b15c59d7b7c1a10b/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "NOASSERTION",
+    "stars": 2374,
+    "size_mb": 11,
+    "created_at": "2022-11-30T20:11:04Z",
+    "last_commit_at": "2026-11-25T15:05:30Z",
+    "releases": 65,
+    "tags": 152,
+    "archived": false,
+    "release": {
+      "tag": "v1.17.5",
+      "at": "2026-11-20T20:25:04.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true
+}

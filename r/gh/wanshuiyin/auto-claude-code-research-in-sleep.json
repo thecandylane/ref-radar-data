@@ -1,0 +1,65 @@
+{
+  "id": "gh:wanshuiyin/auto-claude-code-research-in-sleep",
+  "kind": "repo",
+  "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+  "title": "Auto-claude-code-research-in-sleep",
+  "why": "Installs research skills into Claude Code and Codex, with gates that hold a paper review step until its evidence checks pass.",
+  "keys": {
+    "races": [
+      "agents/skills",
+      "agents/tools",
+      "agents/assistants"
+    ],
+    "lanes": [
+      "agents/skills",
+      "agents/tools",
+      "agents/assistants"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers",
+      "agents/assistants/deep-research"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "sha": "3fefd34146d3317e407aec65a5a29335de87b9ee",
+    "file_url": "https://cdn.jsdelivr.net/gh/wanshuiyin/Auto-claude-code-research-in-sleep@3fefd34146d3317e407aec65a5a29335de87b9ee/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 19926,
+    "size_mb": 37,
+    "created_at": "2026-03-10T07:31:45Z",
+    "last_commit_at": "2026-11-25T11:59:57Z",
+    "releases": 46,
+    "tags": 46,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.28",
+      "at": "2026-09-28T09:38:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-25T11:59:57Z"
+}

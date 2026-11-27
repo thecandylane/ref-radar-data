@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ae70d98934df45bbab755664b368d497f53baa1c"
+  },
+  "id": "gh:python-windrose/windrose",
+  "kind": "repo",
+  "url": "https://github.com/python-windrose/windrose",
+  "title": "windrose",
+  "why": "Draws wind rose diagrams on matplotlib axes from wind records, taking pandas data frames and split plots by year, month or day.",
+  "keys": {
+    "races": [
+      "environment/earth-data"
+    ],
+    "lanes": [
+      "environment/earth-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/python-windrose/windrose",
+    "sha": "ae70d98934df45bbab755664b368d497f53baa1c",
+    "file_url": "https://cdn.jsdelivr.net/gh/python-windrose/windrose@ae70d98934df45bbab755664b368d497f53baa1c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 363,
+    "size_mb": 86,
+    "created_at": "2015-06-16T18:42:14Z",
+    "last_commit_at": "2026-11-23T21:55:15Z",
+    "releases": 16,
+    "tags": 16,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.0",
+      "at": "2026-10-27T14:22:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-23T21:55:15Z"
+}

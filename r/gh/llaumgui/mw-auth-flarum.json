@@ -1,0 +1,65 @@
+{
+  "id": "gh:llaumgui/mw-auth-flarum",
+  "kind": "repo",
+  "url": "https://github.com/llaumgui/mw-auth-flarum",
+  "title": "mw-auth-flarum",
+  "why": "Authentication provider that logs users in through a Flarum forum API, fetching user info and accepting two-factor token requests.",
+  "keys": {
+    "races": [
+      "cyber/identity",
+      "web/cms"
+    ],
+    "lanes": [
+      "cyber/identity",
+      "web/cms"
+    ],
+    "capabilities": [
+      "cyber/identity/iam"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/llaumgui/mw-auth-flarum",
+    "sha": "f8a6a4a9d5968cf6f3354237baa3f52c1e8347d4",
+    "file_url": "https://cdn.jsdelivr.net/gh/llaumgui/mw-auth-flarum@f8a6a4a9d5968cf6f3354237baa3f52c1e8347d4/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "GPL-2.0",
+    "stars": 6,
+    "size_mb": 0,
+    "created_at": "2021-05-20T06:28:26Z",
+    "last_commit_at": "2026-11-24T09:51:23Z",
+    "releases": 3,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v1.1.0",
+      "at": "2026-11-23T18:46:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

@@ -1,0 +1,64 @@
+{
+  "id": "gh:ncar/musica",
+  "kind": "repo",
+  "url": "https://github.com/NCAR/musica",
+  "title": "musica",
+  "why": "Reads chemical mechanism configurations and runs the MICM solver from Python, Julia or JavaScript, with emissions and photolysis reactions.",
+  "keys": {
+    "races": [
+      "environment/earth-data",
+      "sci/numerics"
+    ],
+    "lanes": [
+      "environment/earth-data",
+      "sci/numerics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/NCAR/musica",
+    "sha": "9a5768c62cb0acb258fe8d19b13019bf4d690e90",
+    "file_url": "https://cdn.jsdelivr.net/gh/NCAR/musica@9a5768c62cb0acb258fe8d19b13019bf4d690e90/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "Apache-2.0",
+    "stars": 20,
+    "size_mb": 26,
+    "created_at": "2022-10-12T16:42:28Z",
+    "last_commit_at": "2026-11-19T17:45:50Z",
+    "releases": 40,
+    "tags": 41,
+    "archived": false,
+    "release": {
+      "tag": "v0.17.2",
+      "at": "2026-10-19T22:43:59.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-19T17:45:50Z"
+}

@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:1d23c3bfe34f26e7be15b0cdac8db300c55f9072"
+    "swh": "swh:1:rev:66eb733b16d2448dddb501a2c58b4a3d98c0da7c"
   },
   "id": "gh:ibm/sarama",
   "kind": "repo",
@@ -29,8 +29,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/IBM/sarama",
-    "sha": "1d23c3bfe34f26e7be15b0cdac8db300c55f9072",
-    "file_url": "https://cdn.jsdelivr.net/gh/IBM/sarama@1d23c3bfe34f26e7be15b0cdac8db300c55f9072/{path}"
+    "sha": "66eb733b16d2448dddb501a2c58b4a3d98c0da7c",
+    "file_url": "https://cdn.jsdelivr.net/gh/IBM/sarama@66eb733b16d2448dddb501a2c58b4a3d98c0da7c/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -61,12 +61,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "1d23c3bfe34f26e7be15b0cdac8db300c55f9072",
-    "v": 4
-  },
   "pins_before": [
+    "1d23c3bfe34f26e7be15b0cdac8db300c55f9072",
     "b66113a8905e23f2c407b61b729924cde252b665"
   ],
-  "pinned_at": "2026-11-18T19:46:11Z"
+  "pinned_at": "2026-11-23T23:05:17Z"
 }

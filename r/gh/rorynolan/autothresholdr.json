@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:a720207320c6748796011d93caf79350b71fe1dd"
+  },
+  "id": "gh:rorynolan/autothresholdr",
+  "kind": "repo",
+  "url": "https://github.com/rorynolan/autothresholdr",
+  "title": "autothresholdr",
+  "why": "Picks thresholds for images automatically, using the same algorithms as the ImageJ Auto Threshold plugin, so R scripts need no ImageJ.",
+  "keys": {
+    "races": [
+      "data/statistics"
+    ],
+    "lanes": [
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rorynolan/autothresholdr",
+    "sha": "a720207320c6748796011d93caf79350b71fe1dd",
+    "file_url": "https://cdn.jsdelivr.net/gh/rorynolan/autothresholdr@a720207320c6748796011d93caf79350b71fe1dd/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 6,
+    "size_mb": 29,
+    "created_at": "2016-11-02T11:14:55Z",
+    "last_commit_at": "2025-09-25T08:51:07Z",
+    "releases": 7,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v1.4.0",
+      "at": "2022-01-05T00:56:33.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2025-09-25T08:51:07Z"
+}

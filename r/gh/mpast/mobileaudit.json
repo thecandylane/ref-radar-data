@@ -1,0 +1,65 @@
+{
+  "id": "gh:mpast/mobileaudit",
+  "kind": "repo",
+  "url": "https://github.com/mpast/mobileAudit",
+  "title": "mobileAudit",
+  "why": "Web app that decompiles an uploaded APK with jadx and lists the findings by severity, with guest scans allowed without an account.",
+  "keys": {
+    "races": [
+      "cyber/appsec",
+      "mobile/android",
+      "cyber/reversing"
+    ],
+    "lanes": [
+      "cyber/appsec",
+      "mobile/android",
+      "cyber/reversing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "app",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mpast/mobileAudit",
+    "sha": "066d221b8247ef8491a7a1cd6a3fa5fb05f54b2f",
+    "file_url": "https://cdn.jsdelivr.net/gh/mpast/mobileAudit@066d221b8247ef8491a7a1cd6a3fa5fb05f54b2f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 230,
+    "size_mb": 7,
+    "created_at": "2020-11-21T11:01:32Z",
+    "last_commit_at": "2026-11-14T10:25:50Z",
+    "releases": 25,
+    "tags": 25,
+    "archived": false,
+    "release": {
+      "tag": "4.0.3",
+      "at": "2026-11-14T10:26:25.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

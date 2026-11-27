@@ -1,0 +1,62 @@
+{
+  "id": "gh:hackademix/noscript",
+  "kind": "repo",
+  "url": "https://github.com/hackademix/noscript",
+  "title": "noscript",
+  "why": "Blocks scripts site by site and checks requests for XSS injection, with a policy layer that allows or blocks requests per tab.",
+  "keys": {
+    "races": [
+      "privacy/anti-tracking"
+    ],
+    "lanes": [
+      "privacy/anti-tracking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hackademix/noscript",
+    "sha": "3935fedf979f91cbabeba6ad7ecda727a1c2af26",
+    "file_url": "https://cdn.jsdelivr.net/gh/hackademix/noscript@3935fedf979f91cbabeba6ad7ecda727a1c2af26/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "GPL-3.0",
+    "stars": 1177,
+    "size_mb": 6,
+    "created_at": "2018-06-30T22:00:24Z",
+    "last_commit_at": "2026-11-23T09:05:56Z",
+    "releases": 363,
+    "tags": 879,
+    "archived": false,
+    "release": {
+      "tag": "13.6.39",
+      "at": "2026-11-23T09:12:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-23T09:05:56Z"
+}

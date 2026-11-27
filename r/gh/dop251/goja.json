@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:8dfece3d1e1d717c1bfdc9be25186a7be06a5f12"
-  },
   "id": "gh:dop251/goja",
   "kind": "repo",
   "url": "https://github.com/dop251/goja",
@@ -25,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/dop251/goja",
-    "sha": "8dfece3d1e1d717c1bfdc9be25186a7be06a5f12",
-    "file_url": "https://cdn.jsdelivr.net/gh/dop251/goja@8dfece3d1e1d717c1bfdc9be25186a7be06a5f12/{path}"
+    "sha": "5e92a7e24d0cdfe00a9cf2ba6d62e08b5cabe5df",
+    "file_url": "https://cdn.jsdelivr.net/gh/dop251/goja@5e92a7e24d0cdfe00a9cf2ba6d62e08b5cabe5df/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 7207,
+    "stars": 7208,
     "size_mb": 3,
     "created_at": "2016-11-04T22:04:06Z",
-    "last_commit_at": "2026-11-24T18:02:48Z",
+    "last_commit_at": "2026-11-25T21:05:01Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -54,12 +51,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "8dfece3d1e1d717c1bfdc9be25186a7be06a5f12",
-    "v": 4
-  },
   "pins_before": [
+    "8dfece3d1e1d717c1bfdc9be25186a7be06a5f12",
     "f493a2b600d62d18dc5ee168cd1178ae635b0470"
   ],
-  "pinned_at": "2026-11-18T20:46:51Z"
+  "pinned_at": "2026-11-25T21:05:01Z"
 }

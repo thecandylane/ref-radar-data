@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:d1045f2aa9bef19903219296b71775ac3ebd568a"
+    "swh": "swh:1:rev:e85a6b4a3b7c8c0128bb543c9a95f75205eea000"
   },
   "id": "gh:awslabs/mountpoint-s3",
   "kind": "repo",
@@ -27,13 +27,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/awslabs/mountpoint-s3",
-    "sha": "d1045f2aa9bef19903219296b71775ac3ebd568a",
-    "file_url": "https://cdn.jsdelivr.net/gh/awslabs/mountpoint-s3@d1045f2aa9bef19903219296b71775ac3ebd568a/{path}"
+    "sha": "e85a6b4a3b7c8c0128bb543c9a95f75205eea000",
+    "file_url": "https://cdn.jsdelivr.net/gh/awslabs/mountpoint-s3@e85a6b4a3b7c8c0128bb543c9a95f75205eea000/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 5800,
+    "stars": 5802,
     "size_mb": 30,
     "created_at": "2022-08-22T21:19:45Z",
     "last_commit_at": "2026-11-23T16:37:08Z",
@@ -53,18 +53,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": -1,
+    "star_delta_7d": 1,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "d1045f2aa9bef19903219296b71775ac3ebd568a",
-    "v": 4
-  },
   "pins_before": [
+    "d1045f2aa9bef19903219296b71775ac3ebd568a",
     "12f00c23775ed78a6a687cf34c39fd118dba95d8"
   ],
-  "pinned_at": "2026-11-18T16:13:26Z"
+  "pinned_at": "2026-11-23T16:37:08Z"
 }

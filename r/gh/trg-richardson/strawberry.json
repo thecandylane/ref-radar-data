@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fb7976d7e8f9a27415c5f871feca425e0ef6a258"
+  },
+  "id": "gh:trg-richardson/strawberry",
+  "kind": "repo",
+  "url": "https://github.com/trg-richardson/strawberry",
+  "title": "strawberry",
+  "why": "Finds dark matter haloes in cosmological simulations by topology, using a boosted potential, with the core written in Cython.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/trg-richardson/strawberry",
+    "sha": "fb7976d7e8f9a27415c5f871feca425e0ef6a258",
+    "file_url": "https://raw.githubusercontent.com/trg-richardson/strawberry/fb7976d7e8f9a27415c5f871feca425e0ef6a258/{path}"
+  },
+  "facts": {
+    "lang": "Cython",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "size_mb": 189,
+    "created_at": "2023-10-10T13:10:59Z",
+    "last_commit_at": "2026-02-19T09:05:38Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-02-19T09:05:38Z"
+}

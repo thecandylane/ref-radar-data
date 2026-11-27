@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:53f4b7843b21de61ed025bfaa669e967c697d112"
-  },
   "id": "gh:moby/moby",
   "kind": "repo",
   "url": "https://github.com/moby/moby",
@@ -37,16 +34,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/moby/moby",
-    "sha": "53f4b7843b21de61ed025bfaa669e967c697d112",
-    "file_url": "https://cdn.jsdelivr.net/gh/moby/moby@53f4b7843b21de61ed025bfaa669e967c697d112/{path}"
+    "sha": "ef9054461f8e11d5e13e56806a70fc151759b205",
+    "file_url": "https://cdn.jsdelivr.net/gh/moby/moby@ef9054461f8e11d5e13e56806a70fc151759b205/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 72315,
+    "stars": 72321,
     "size_mb": 273,
     "created_at": "2013-01-18T18:10:57Z",
-    "last_commit_at": "2026-11-24T20:33:46Z",
+    "last_commit_at": "2026-11-25T21:26:43Z",
     "releases": 330,
     "tags": 625,
     "archived": false,
@@ -63,19 +60,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 41,
+    "star_delta_7d": 20,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "53f4b7843b21de61ed025bfaa669e967c697d112",
-    "v": 4
-  },
   "pins_before": [
+    "53f4b7843b21de61ed025bfaa669e967c697d112",
     "1e9198df7debc4af8c1e7c1c2e668d33c6fc5170"
   ],
-  "pinned_at": "2026-11-18T13:30:53Z",
-  "hot": true
+  "pinned_at": "2026-11-25T21:26:43Z"
 }

@@ -34,16 +34,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/docker/compose",
-    "sha": "469ab94d72326565c6dfdf304a72882115011800",
-    "file_url": "https://cdn.jsdelivr.net/gh/docker/compose@469ab94d72326565c6dfdf304a72882115011800/{path}"
+    "sha": "78bad178bcf901333d7c4cebb07fcc600dc5b1c0",
+    "file_url": "https://cdn.jsdelivr.net/gh/docker/compose@78bad178bcf901333d7c4cebb07fcc600dc5b1c0/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 39049,
+    "stars": 39112,
     "size_mb": 30,
     "created_at": "2013-12-09T11:40:58Z",
-    "last_commit_at": "2026-11-25T07:57:25Z",
+    "last_commit_at": "2026-11-25T21:10:24Z",
     "releases": 291,
     "tags": 312,
     "archived": false,
@@ -66,13 +66,10 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "469ab94d72326565c6dfdf304a72882115011800",
-    "v": 4
-  },
   "pins_before": [
+    "469ab94d72326565c6dfdf304a72882115011800",
     "e0f431cc7ebc3551da35416c90a9c37e837b53f0"
   ],
-  "pinned_at": "2026-11-18T14:30:25Z",
+  "pinned_at": "2026-11-25T21:10:24Z",
   "hot": true
 }

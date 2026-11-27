@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fb9cc39034160fad28fe98e485e070559a3f2feb"
+  },
+  "id": "gh:jstuecker/jztree",
+  "kind": "repo",
+  "url": "https://github.com/jstuecker/jztree",
+  "title": "jztree",
+  "why": "Builds particle trees in JAX on GPUs for fof and knn queries, including multi-GPU runs across distributed shards.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jstuecker/jztree",
+    "sha": "fb9cc39034160fad28fe98e485e070559a3f2feb",
+    "file_url": "https://cdn.jsdelivr.net/gh/jstuecker/jztree@fb9cc39034160fad28fe98e485e070559a3f2feb/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 56,
+    "size_mb": 13,
+    "created_at": "2025-07-26T18:23:42Z",
+    "last_commit_at": "2026-11-13T11:12:16Z",
+    "releases": 2,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.3",
+      "at": "2026-04-28T21:18:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-13T11:12:16Z"
+}

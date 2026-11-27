@@ -1,0 +1,61 @@
+{
+  "id": "gh:npcooley/synextend",
+  "kind": "repo",
+  "url": "https://github.com/npcooley/SynExtend",
+  "title": "SynExtend",
+  "why": "Scores distances between trees and mutual information between sequence columns in R, with the heavy loops written in C.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/npcooley/SynExtend",
+    "sha": "f58a994ed80eedce6f95b5f462e97eb2d16f23a0",
+    "file_url": "https://cdn.jsdelivr.net/gh/npcooley/SynExtend@f58a994ed80eedce6f95b5f462e97eb2d16f23a0/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 2,
+    "size_mb": 28,
+    "created_at": "2020-02-13T19:14:36Z",
+    "last_commit_at": "2026-11-18T14:55:48Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-18T14:55:48Z"
+}

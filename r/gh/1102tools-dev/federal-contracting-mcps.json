@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1575ef7d2891ac9e8b97b41c479f0ab0ed39bcc2"
-  },
   "id": "gh:1102tools-dev/federal-contracting-mcps",
   "kind": "repo",
   "url": "https://github.com/1102tools-dev/federal-contracting-mcps",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/1102tools-dev/federal-contracting-mcps",
-    "sha": "1575ef7d2891ac9e8b97b41c479f0ab0ed39bcc2",
-    "file_url": "https://cdn.jsdelivr.net/gh/1102tools-dev/federal-contracting-mcps@1575ef7d2891ac9e8b97b41c479f0ab0ed39bcc2/{path}"
+    "sha": "233117d572bd8fe4f029a71293e40b90526d18fe",
+    "file_url": "https://cdn.jsdelivr.net/gh/1102tools-dev/federal-contracting-mcps@233117d572bd8fe4f029a71293e40b90526d18fe/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -61,9 +58,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "1575ef7d2891ac9e8b97b41c479f0ab0ed39bcc2",
-    "v": 4
-  },
-  "pinned_at": "2026-11-16T03:54:44Z"
+  "pins_before": [
+    "1575ef7d2891ac9e8b97b41c479f0ab0ed39bcc2"
+  ],
+  "pinned_at": "2026-11-24T22:09:33Z"
 }

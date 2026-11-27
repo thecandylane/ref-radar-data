@@ -1,0 +1,65 @@
+{
+  "id": "gh:matplotlib/matplotlib",
+  "kind": "repo",
+  "url": "https://github.com/matplotlib/matplotlib",
+  "title": "matplotlib",
+  "why": "Python plotting library that draws static, animated and interactive figures, from scripts, shells and GUI toolkits alike.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/matplotlib/matplotlib",
+    "sha": "b3693318c5d7103781b8aa2645887c35765e3997",
+    "file_url": "https://cdn.jsdelivr.net/gh/matplotlib/matplotlib@b3693318c5d7103781b8aa2645887c35765e3997/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 23504,
+    "size_mb": 482,
+    "created_at": "2011-02-19T03:17:12Z",
+    "last_commit_at": "2026-11-26T04:26:22Z",
+    "releases": 103,
+    "tags": 152,
+    "archived": false,
+    "release": {
+      "tag": "v3.11.2",
+      "at": "2026-09-11T03:48:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pins_before": [
+    "ed25523818fb2fc1573225a5d13b6e32f4ff6070"
+  ],
+  "pinned_at": "2026-11-26T04:26:22Z"
+}

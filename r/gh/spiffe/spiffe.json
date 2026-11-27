@@ -1,0 +1,54 @@
+{
+  "id": "gh:spiffe/spiffe",
+  "kind": "repo",
+  "url": "https://github.com/spiffe/spiffe",
+  "title": "spiffe",
+  "why": "Standards and Workload API specs for giving each service a SPIFFE ID and SVID certificates, with SPIRE as the reference runtime.",
+  "keys": {
+    "races": [
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/identity"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/spiffe/spiffe",
+    "sha": "88f6cddc4a6ab7998d9664f692fced0290d18f53",
+    "file_url": "https://cdn.jsdelivr.net/gh/spiffe/spiffe@88f6cddc4a6ab7998d9664f692fced0290d18f53/{path}"
+  },
+  "facts": {
+    "lang": "Shell",
+    "license": "Apache-2.0",
+    "stars": 1907,
+    "size_mb": 1,
+    "created_at": "2017-08-07T20:45:21Z",
+    "last_commit_at": "2026-11-17T06:41:01Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

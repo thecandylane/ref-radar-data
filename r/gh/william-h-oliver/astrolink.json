@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:8c27710e2f10ce7cc21e7e309cf7194e063ad575"
+  },
+  "id": "gh:william-h-oliver/astrolink",
+  "kind": "repo",
+  "url": "https://github.com/william-h-oliver/astrolink",
+  "title": "astrolink",
+  "why": "Groups sources in a GDR3 catalogue by local density and kNN estimates, and scores each group's significance.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/william-h-oliver/astrolink",
+    "sha": "8c27710e2f10ce7cc21e7e309cf7194e063ad575",
+    "file_url": "https://cdn.jsdelivr.net/gh/william-h-oliver/astrolink@8c27710e2f10ce7cc21e7e309cf7194e063ad575/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 15,
+    "size_mb": 59,
+    "created_at": "2024-02-09T11:07:45Z",
+    "last_commit_at": "2026-10-03T05:57:24Z",
+    "releases": 10,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "v0.5.4",
+      "at": "2025-11-13T17:17:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-10-03T05:57:24Z",
+  "papers": [
+    {
+      "id": "arxiv:2312.14632",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

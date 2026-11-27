@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:e5bf3b82b611daab89e0cf22724c5f3f73ddc997"
-  },
   "id": "gh:taosdata/tdengine",
   "kind": "repo",
   "url": "https://github.com/taosdata/TDengine",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/taosdata/TDengine",
-    "sha": "e5bf3b82b611daab89e0cf22724c5f3f73ddc997",
-    "file_url": "https://raw.githubusercontent.com/taosdata/TDengine/e5bf3b82b611daab89e0cf22724c5f3f73ddc997/{path}"
+    "sha": "4c1dc93f0405aec472e4d4caa71bb0f506a1afd8",
+    "file_url": "https://raw.githubusercontent.com/taosdata/TDengine/4c1dc93f0405aec472e4d4caa71bb0f506a1afd8/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "AGPL-3.0",
-    "stars": 25206,
-    "size_mb": 1312,
+    "stars": 25208,
+    "size_mb": 1323,
     "created_at": "2019-07-11T08:33:48Z",
-    "last_commit_at": "2026-11-03T02:14:53Z",
+    "last_commit_at": "2026-11-26T05:36:29Z",
     "releases": 141,
     "tags": 518,
     "archived": false,
@@ -59,9 +56,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "e5bf3b82b611daab89e0cf22724c5f3f73ddc997",
-    "v": 4
-  },
-  "pinned_at": "2026-11-03T02:14:53Z"
+  "pins_before": [
+    "e5bf3b82b611daab89e0cf22724c5f3f73ddc997"
+  ],
+  "pinned_at": "2026-11-26T05:36:29Z"
 }

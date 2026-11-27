@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9abda4879140c0fa066c8301ab89b8bc50559f31"
+  },
+  "id": "gh:mfouesneau/pystellibs",
+  "kind": "repo",
+  "url": "https://github.com/mfouesneau/pystellibs",
+  "title": "pystellibs",
+  "why": "Computes synthetic spectra from several spectral and atmosphere libraries behind one common interface, handling units through Astropy.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/mfouesneau/pystellibs",
+    "sha": "9abda4879140c0fa066c8301ab89b8bc50559f31",
+    "file_url": "https://raw.githubusercontent.com/mfouesneau/pystellibs/9abda4879140c0fa066c8301ab89b8bc50559f31/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 20,
+    "size_mb": 225,
+    "created_at": "2016-10-18T11:48:52Z",
+    "last_commit_at": "2025-10-06T07:40:16Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2025-10-01T12:52:19.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2025-10-06T07:40:16Z"
+}

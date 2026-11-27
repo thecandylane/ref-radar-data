@@ -1,8 +1,11 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:f51fa15a7015c7d02817a46d2db44c899a0016e8"
+  },
   "id": "gh:serde-rs/json",
   "kind": "repo",
   "url": "https://github.com/serde-rs/json",
-  "title": "json",
+  "title": "serde-rs/json",
   "why": "Parses and writes JSON in Rust as text, as untyped values, or as strongly typed structs, with a macro for building values inline.",
   "keys": {
     "races": [
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 5690,
+    "stars": 5693,
     "size_mb": 3,
     "created_at": "2015-05-19T16:30:20Z",
     "last_commit_at": "2026-11-16T05:14:19Z",

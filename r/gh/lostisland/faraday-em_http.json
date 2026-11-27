@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ac042ba1047124432cac1a2453128f938d0d3086"
+  },
+  "id": "gh:lostisland/faraday-em_http",
+  "kind": "repo",
+  "url": "https://github.com/lostisland/faraday-em_http",
+  "title": "faraday-em_http",
+  "why": "Sends many Faraday requests in parallel on EventMachine, without fibers, so you swap in one adapter line.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lostisland/faraday-em_http",
+    "sha": "ac042ba1047124432cac1a2453128f938d0d3086",
+    "file_url": "https://cdn.jsdelivr.net/gh/lostisland/faraday-em_http@ac042ba1047124432cac1a2453128f938d0d3086/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "MIT",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2021-04-25T08:27:13Z",
+    "last_commit_at": "2026-06-23T06:55:07Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.1",
+      "at": "2025-06-18T21:07:17.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-06-23T06:55:07Z"
+}

@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:12ba3c470606582e73bbf905983f93272923a01d"
+  },
+  "id": "gh:gulohui/csst-ifs-elfo",
+  "kind": "repo",
+  "url": "https://github.com/GuloHui/csst-ifs-elfo",
+  "title": "csst-ifs-elfo",
+  "why": "Fits emission lines across integral field spectra by seeding each fit from neighboring spectra and keeping the most spatially smooth result.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/GuloHui/csst-ifs-elfo",
+    "sha": "12ba3c470606582e73bbf905983f93272923a01d",
+    "file_url": "https://raw.githubusercontent.com/GuloHui/csst-ifs-elfo/12ba3c470606582e73bbf905983f93272923a01d/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "GPL-3.0",
+    "stars": 1,
+    "size_mb": 125,
+    "created_at": "2025-04-18T08:38:48Z",
+    "last_commit_at": "2025-12-12T09:12:04Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2025-11-28T09:13:15.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2025-12-12T09:12:04Z"
+}

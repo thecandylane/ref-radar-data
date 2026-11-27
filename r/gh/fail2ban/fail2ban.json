@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:cae17d2f99d53d613c4e5ed9d1b2328f201a3612"
-  },
   "id": "gh:fail2ban/fail2ban",
   "kind": "repo",
   "url": "https://github.com/fail2ban/fail2ban",
@@ -27,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/fail2ban/fail2ban",
-    "sha": "cae17d2f99d53d613c4e5ed9d1b2328f201a3612",
-    "file_url": "https://cdn.jsdelivr.net/gh/fail2ban/fail2ban@cae17d2f99d53d613c4e5ed9d1b2328f201a3612/{path}"
+    "sha": "bb58d27de76436aa985984d02a1fe52cab63e365",
+    "file_url": "https://cdn.jsdelivr.net/gh/fail2ban/fail2ban@bb58d27de76436aa985984d02a1fe52cab63e365/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 19103,
+    "stars": 19117,
     "size_mb": 13,
     "created_at": "2011-09-28T16:24:20Z",
     "last_commit_at": "2026-11-23T23:19:13Z",
@@ -53,19 +50,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 46,
+    "star_delta_7d": 50,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "cae17d2f99d53d613c4e5ed9d1b2328f201a3612",
-    "v": 4
-  },
   "pins_before": [
+    "cae17d2f99d53d613c4e5ed9d1b2328f201a3612",
     "bbf16043a2ab524f5df5108d53e7f89cf24ad30a"
   ],
-  "pinned_at": "2026-11-18T21:56:51Z",
+  "pinned_at": "2026-11-23T23:19:13Z",
   "hot": true
 }

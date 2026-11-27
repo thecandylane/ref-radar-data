@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1e9824cfe69ba0f2088e922b04fd84fbb3490f8c"
+  },
+  "id": "gh:cssinjs/jss",
+  "kind": "repo",
+  "url": "https://github.com/cssinjs/jss",
+  "title": "jss",
+  "why": "Generates style sheets from JavaScript, in maintenance mode, taking only security fixes and critical bug fixes.",
+  "keys": {
+    "races": [
+      "web/css"
+    ],
+    "lanes": [
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "readme.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/cssinjs/jss",
+    "sha": "1e9824cfe69ba0f2088e922b04fd84fbb3490f8c",
+    "file_url": "https://cdn.jsdelivr.net/gh/cssinjs/jss@1e9824cfe69ba0f2088e922b04fd84fbb3490f8c/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 7040,
+    "size_mb": 8,
+    "created_at": "2014-10-12T20:33:53Z",
+    "last_commit_at": "2026-11-15T11:37:27Z",
+    "releases": 42,
+    "tags": 185,
+    "archived": false,
+    "release": {
+      "tag": "v10.10.1",
+      "at": "2024-05-14T12:58:14.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-15T11:37:27Z"
+}

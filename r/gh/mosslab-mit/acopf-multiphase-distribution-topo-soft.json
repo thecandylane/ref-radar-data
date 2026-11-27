@@ -1,0 +1,65 @@
+{
+  "id": "gh:mosslab-mit/acopf-multiphase-distribution-topo-soft",
+  "kind": "repo",
+  "url": "https://github.com/MOSSLab-MIT/ACOPF-Multiphase-Distribution-topo-soft",
+  "title": "ACOPF-Multiphase-Distribution-topo-soft",
+  "why": "Optimal power flow for multiphase distribution grids, where an MLP predicts DER controls and a linear OPF solver checks them.",
+  "keys": {
+    "races": [
+      "energy/power-grid",
+      "sci/optimization"
+    ],
+    "lanes": [
+      "energy/power-grid",
+      "sci/optimization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/MOSSLab-MIT/ACOPF-Multiphase-Distribution-topo-soft",
+    "sha": "41c94c2d4e6c17a6b0bfa6a34386e3377fe0ac66",
+    "file_url": "https://cdn.jsdelivr.net/gh/MOSSLab-MIT/ACOPF-Multiphase-Distribution-topo-soft@41c94c2d4e6c17a6b0bfa6a34386e3377fe0ac66/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 0,
+    "size_mb": 3,
+    "created_at": "2026-10-22T00:26:36Z",
+    "last_commit_at": "2026-11-14T02:03:52Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-14T02:03:52Z",
+  "papers": [
+    {
+      "id": "arxiv:2611.31026",
+      "via": [
+        "abstract"
+      ]
+    }
+  ]
+}

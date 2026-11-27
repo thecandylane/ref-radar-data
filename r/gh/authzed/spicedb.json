@@ -38,13 +38,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/authzed/spicedb",
-    "sha": "c9e95eba0a82dbe1ae9d5cdd27df842025ae200d",
-    "file_url": "https://cdn.jsdelivr.net/gh/authzed/spicedb@c9e95eba0a82dbe1ae9d5cdd27df842025ae200d/{path}"
+    "sha": "9596a364d8a028410949644014644b87278f4a72",
+    "file_url": "https://cdn.jsdelivr.net/gh/authzed/spicedb@9596a364d8a028410949644014644b87278f4a72/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 7242,
+    "stars": 7244,
     "size_mb": 36,
     "created_at": "2021-08-16T15:32:09Z",
     "last_commit_at": "2026-11-24T22:34:14Z",
@@ -70,12 +70,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "c9e95eba0a82dbe1ae9d5cdd27df842025ae200d",
-    "v": 4
-  },
   "pins_before": [
+    "c9e95eba0a82dbe1ae9d5cdd27df842025ae200d",
     "576278c93026be9cfabe4d6de231f7d11d800159"
   ],
-  "pinned_at": "2026-11-18T19:39:47Z"
+  "pinned_at": "2026-11-24T22:34:14Z"
 }

@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ca3c4baecbfb04876270b9bb6b180b742eb4a948"
+  },
+  "id": "gh:ornl/condor",
+  "kind": "repo",
+  "url": "https://github.com/ORNL/Condor",
+  "title": "Condor",
+  "why": "Simulates a moving beam heating metal and tracks melt pool solidification, with calibration and snapshot modes run across MPI ranks.",
+  "keys": {
+    "races": [
+      "engineering/simulation"
+    ],
+    "lanes": [
+      "engineering/simulation"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ORNL/Condor",
+    "sha": "ca3c4baecbfb04876270b9bb6b180b742eb4a948",
+    "file_url": "https://cdn.jsdelivr.net/gh/ORNL/Condor@ca3c4baecbfb04876270b9bb6b180b742eb4a948/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "BSD-3-Clause",
+    "stars": 2,
+    "size_mb": 0,
+    "created_at": "2026-09-20T11:50:59Z",
+    "last_commit_at": "2026-09-29T16:37:43Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-09-29T16:37:43Z"
+}

@@ -36,16 +36,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/cri-o/cri-o",
-    "sha": "49b4179ffae1b16321aa0ee885c7d2789e9d9cf6",
-    "file_url": "https://cdn.jsdelivr.net/gh/cri-o/cri-o@49b4179ffae1b16321aa0ee885c7d2789e9d9cf6/{path}"
+    "sha": "b02592d72036f164e08908a52967229dcd6a0e24",
+    "file_url": "https://cdn.jsdelivr.net/gh/cri-o/cri-o@b02592d72036f164e08908a52967229dcd6a0e24/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
     "stars": 5694,
-    "size_mb": 206,
+    "size_mb": 205,
     "created_at": "2016-09-09T19:56:31Z",
-    "last_commit_at": "2026-11-25T05:37:48Z",
+    "last_commit_at": "2026-11-26T08:22:50Z",
     "releases": 315,
     "tags": 326,
     "archived": false,
@@ -68,12 +68,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "49b4179ffae1b16321aa0ee885c7d2789e9d9cf6",
-    "v": 4
-  },
   "pins_before": [
+    "49b4179ffae1b16321aa0ee885c7d2789e9d9cf6",
     "cd5c593e152949c9135a73a7f9442c86a92dce89"
   ],
-  "pinned_at": "2026-11-18T20:06:37Z"
+  "pinned_at": "2026-11-26T08:22:50Z"
 }

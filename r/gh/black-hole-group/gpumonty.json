@@ -1,0 +1,64 @@
+{
+  "id": "gh:black-hole-group/gpumonty",
+  "kind": "repo",
+  "url": "https://github.com/black-hole-group/gpumonty",
+  "title": "gpumonty",
+  "why": "Traces photons through fluid models on the GPU, sampling Compton scattering and emission, and writes spectra to HDF5.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/hpc"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/black-hole-group/gpumonty",
+    "sha": "a37408a5c4e67b3ba48a0bd0eb18de272d34f1f0",
+    "file_url": "https://cdn.jsdelivr.net/gh/black-hole-group/gpumonty@a37408a5c4e67b3ba48a0bd0eb18de272d34f1f0/{path}"
+  },
+  "facts": {
+    "lang": "Cuda",
+    "license": "GPL-2.0",
+    "stars": 7,
+    "size_mb": 60,
+    "created_at": "2026-01-14T04:56:19Z",
+    "last_commit_at": "2026-11-16T19:25:53Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v.1.1",
+      "at": "2026-02-16T15:29:29.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-16T19:25:53Z"
+}

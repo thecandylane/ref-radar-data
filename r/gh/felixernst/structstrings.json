@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f009cfc371f81eb35242763f3c55a4b737198e91"
+  },
+  "id": "gh:felixernst/structstrings",
+  "kind": "repo",
+  "url": "https://github.com/FelixErnst/Structstrings",
+  "title": "Structstrings",
+  "why": "Stores RNA secondary structure in dot bracket notation as Biostrings classes, with base pair tables and loop indices for analysis.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics"
+    ],
+    "lanes": [
+      "biology/bioinformatics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/FelixErnst/Structstrings",
+    "sha": "f009cfc371f81eb35242763f3c55a4b737198e91",
+    "file_url": "https://cdn.jsdelivr.net/gh/FelixErnst/Structstrings@f009cfc371f81eb35242763f3c55a4b737198e91/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 5,
+    "size_mb": 0,
+    "created_at": "2019-01-02T16:10:34Z",
+    "last_commit_at": "2025-12-26T12:58:16Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2025-12-26T12:58:16Z"
+}

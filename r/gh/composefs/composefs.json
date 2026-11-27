@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ec2573a0f68f548ae91f3e10acc990a08f9122dc"
+  },
+  "id": "gh:composefs/composefs",
+  "kind": "repo",
+  "url": "https://github.com/composefs/composefs",
+  "title": "composefs",
+  "why": "Mounts read-only filesystem trees built from content-addressed files, so container images and host systems share data in the page cache.",
+  "keys": {
+    "races": [
+      "data/storage",
+      "infra/containers"
+    ],
+    "lanes": [
+      "data/storage",
+      "infra/containers"
+    ],
+    "capabilities": [
+      "data/storage/object-storage"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/composefs/composefs",
+    "sha": "ec2573a0f68f548ae91f3e10acc990a08f9122dc",
+    "file_url": "https://cdn.jsdelivr.net/gh/composefs/composefs@ec2573a0f68f548ae91f3e10acc990a08f9122dc/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 710,
+    "size_mb": 19,
+    "created_at": "2021-10-07T14:50:46Z",
+    "last_commit_at": "2026-07-28T20:14:04Z",
+    "releases": 14,
+    "tags": 15,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.8",
+      "at": "2025-01-03T16:14:43.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-07-28T20:14:04Z"
+}

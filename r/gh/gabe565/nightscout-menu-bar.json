@@ -1,0 +1,64 @@
+{
+  "id": "gh:gabe565/nightscout-menu-bar",
+  "kind": "repo",
+  "url": "https://github.com/gabe565/nightscout-menu-bar",
+  "title": "nightscout-menu-bar",
+  "why": "Puts the latest Nightscout reading in the tray as a dynamic icon, with Arrow and Delta values and mmol or Mgdl units.",
+  "keys": {
+    "races": [
+      "medicine/diabetes-tech",
+      "desktop/native-ui"
+    ],
+    "lanes": [
+      "medicine/diabetes-tech",
+      "desktop/native-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/gabe565/nightscout-menu-bar",
+    "sha": "f3447ce60d29c06f9788d4ea08459707946ec77a",
+    "file_url": "https://cdn.jsdelivr.net/gh/gabe565/nightscout-menu-bar@f3447ce60d29c06f9788d4ea08459707946ec77a/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 33,
+    "size_mb": 1,
+    "created_at": "2022-09-28T06:09:59Z",
+    "last_commit_at": "2026-11-18T00:36:32Z",
+    "releases": 17,
+    "tags": 17,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.1",
+      "at": "2026-11-08T11:29:32.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-18T00:36:32Z"
+}

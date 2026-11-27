@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:de56ee61b377608e63d4420f424def7ceaec942f"
+  },
+  "id": "gh:dadams42/gravsphere2",
+  "kind": "repo",
+  "url": "https://github.com/dadams42/GravSphere2",
+  "title": "GravSphere2",
+  "why": "Fits mass models of galaxies and star clusters from stellar velocities with fourth-order Jeans equations, without binning the data.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/dadams42/GravSphere2",
+    "sha": "de56ee61b377608e63d4420f424def7ceaec942f",
+    "file_url": "https://cdn.jsdelivr.net/gh/dadams42/GravSphere2@de56ee61b377608e63d4420f424def7ceaec942f/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 5,
+    "size_mb": 61,
+    "created_at": "2025-09-09T14:18:08Z",
+    "last_commit_at": "2026-08-21T11:35:15Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-08-21T11:35:15Z"
+}

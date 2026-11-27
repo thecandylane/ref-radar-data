@@ -1,0 +1,65 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:831e28cabf5d540e19dac908bc1d68658e2de566"
+  },
+  "id": "gh:ultrajson/ultrajson",
+  "kind": "repo",
+  "url": "https://github.com/ultrajson/ultrajson",
+  "title": "ultrajson",
+  "why": "Encodes and decodes JSON for Python in C, with a bundled double-conversion library for printing doubles.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ultrajson/ultrajson",
+    "sha": "831e28cabf5d540e19dac908bc1d68658e2de566",
+    "file_url": "https://cdn.jsdelivr.net/gh/ultrajson/ultrajson@831e28cabf5d540e19dac908bc1d68658e2de566/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 4501,
+    "size_mb": 9,
+    "created_at": "2011-02-27T20:00:51Z",
+    "last_commit_at": "2026-11-07T21:24:30Z",
+    "releases": 32,
+    "tags": 33,
+    "archived": false,
+    "release": {
+      "tag": "6.1.0",
+      "at": "2026-11-03T11:10:08.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-07T21:24:30Z"
+}

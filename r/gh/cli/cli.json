@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:acee710547dcf7dfb6490afea77972187e74b819"
-  },
   "id": "gh:cli/cli",
   "kind": "repo",
   "url": "https://github.com/cli/cli",
@@ -39,22 +36,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/cli/cli",
-    "sha": "acee710547dcf7dfb6490afea77972187e74b819",
-    "file_url": "https://cdn.jsdelivr.net/gh/cli/cli@acee710547dcf7dfb6490afea77972187e74b819/{path}"
+    "sha": "529111a21612ff1e29dc45e567a157df24e0e243",
+    "file_url": "https://cdn.jsdelivr.net/gh/cli/cli@529111a21612ff1e29dc45e567a157df24e0e243/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 47196,
+    "stars": 47217,
     "size_mb": 82,
     "created_at": "2019-10-03T15:24:53Z",
-    "last_commit_at": "2026-11-24T23:23:09Z",
-    "releases": 212,
-    "tags": 212,
+    "last_commit_at": "2026-11-25T22:34:54Z",
+    "releases": 213,
+    "tags": 213,
     "archived": false,
     "release": {
-      "tag": "v2.105.0",
-      "at": "2026-11-18T00:18:35.000Z"
+      "tag": "v2.106.0",
+      "at": "2026-11-25T22:48:46.000Z"
     }
   },
   "reuse": "copy",
@@ -65,19 +62,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 127,
+    "star_delta_7d": 123,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "acee710547dcf7dfb6490afea77972187e74b819",
-    "v": 4
-  },
   "pins_before": [
+    "acee710547dcf7dfb6490afea77972187e74b819",
     "233b470d3a189e89cf6fa69624e11c3fa9387d81"
   ],
-  "pinned_at": "2026-11-18T17:25:28Z",
+  "pinned_at": "2026-11-25T22:34:54Z",
   "hot": true
 }

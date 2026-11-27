@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:f5990756495bfd6d86495733bfb238c96771cbbf"
+  },
+  "id": "gh:resume/resume.github.com",
+  "kind": "repo",
+  "url": "https://github.com/resume/resume.github.com",
+  "title": "resume.github.com",
+  "why": "Builds a resume from a GitHub user's repos and activity, shown only to people who star the project first, served by a Rack app.",
+  "keys": {
+    "races": [
+      "hr/recruiting"
+    ],
+    "lanes": [
+      "hr/recruiting"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.markdown",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/resume/resume.github.com",
+    "sha": "f5990756495bfd6d86495733bfb238c96771cbbf",
+    "file_url": "https://cdn.jsdelivr.net/gh/resume/resume.github.com@f5990756495bfd6d86495733bfb238c96771cbbf/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "none",
+    "stars": 62908,
+    "size_mb": 0,
+    "created_at": "2011-02-06T13:39:55Z",
+    "last_commit_at": "2016-08-05T05:37:30Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2016-08-05T05:37:30Z"
+}

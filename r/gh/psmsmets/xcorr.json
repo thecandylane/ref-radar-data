@@ -1,0 +1,69 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:188d4a9f303726383e0a244b031a564bc189d7d9"
+  },
+  "id": "gh:psmsmets/xcorr",
+  "kind": "repo",
+  "url": "https://github.com/psmsmets/xcorr",
+  "title": "xcorr",
+  "why": "Cross-correlates obspy waveform streams into a labelled xarray dataset saved as NetCDF, so results and metadata travel together.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "data/datasets"
+    ],
+    "lanes": [
+      "data/statistics",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/psmsmets/xcorr",
+    "sha": "188d4a9f303726383e0a244b031a564bc189d7d9",
+    "file_url": "https://cdn.jsdelivr.net/gh/psmsmets/xcorr@188d4a9f303726383e0a244b031a564bc189d7d9/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 3,
+    "size_mb": 46,
+    "created_at": "2022-01-20T12:21:16Z",
+    "last_commit_at": "2022-05-07T08:02:44Z",
+    "releases": 1,
+    "tags": 35,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.0",
+      "at": "2022-01-20T12:30:46.000Z"
+    },
+    "doi": "10.5281/zenodo.5883341",
+    "citations": {
+      "count": 2,
+      "by": "DataCite",
+      "at": "2026-11-26"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2022-05-07T08:02:44Z"
+}

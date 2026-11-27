@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:433438c401aaa949f5b1e537d2c1fe8e5901c944"
+  },
+  "id": "gh:brianmario/yajl-ruby",
+  "kind": "repo",
+  "url": "https://github.com/brianmario/yajl-ruby",
+  "title": "yajl-ruby",
+  "why": "Parses JSON in chunks and fires callbacks as each value arrives, and generates JSON from Ruby objects through a C extension.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/brianmario/yajl-ruby",
+    "sha": "433438c401aaa949f5b1e537d2c1fe8e5901c944",
+    "file_url": "https://cdn.jsdelivr.net/gh/brianmario/yajl-ruby@433438c401aaa949f5b1e537d2c1fe8e5901c944/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "MIT",
+    "stars": 1489,
+    "size_mb": 4,
+    "created_at": "2009-04-20T07:49:09Z",
+    "last_commit_at": "2026-11-04T02:24:00Z",
+    "releases": 0,
+    "tags": 65,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-04T02:24:00Z"
+}

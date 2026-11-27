@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:2cab2705158e2b9131e0e8537b8c62b4fb5619f5"
+  },
+  "id": "gh:kozea/tinycss2",
+  "kind": "repo",
+  "url": "https://github.com/Kozea/tinycss2",
+  "title": "tinycss2",
+  "why": "Python CSS tokenizer and parser that turns stylesheets into a tree of nodes, with color and nth-expression helpers built in.",
+  "keys": {
+    "races": [
+      "web/css"
+    ],
+    "lanes": [
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Kozea/tinycss2",
+    "sha": "2cab2705158e2b9131e0e8537b8c62b4fb5619f5",
+    "file_url": "https://cdn.jsdelivr.net/gh/Kozea/tinycss2@2cab2705158e2b9131e0e8537b8c62b4fb5619f5/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 194,
+    "size_mb": 0,
+    "created_at": "2013-04-30T12:26:38Z",
+    "last_commit_at": "2026-10-25T13:05:26Z",
+    "releases": 18,
+    "tags": 18,
+    "archived": false,
+    "release": {
+      "tag": "v1.5.1",
+      "at": "2025-11-23T10:29:06.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-10-25T13:05:26Z"
+}

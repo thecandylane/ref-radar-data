@@ -1,0 +1,55 @@
+{
+  "id": "gh:celstomp/celstomp",
+  "kind": "repo",
+  "url": "https://github.com/Celstomp/celstomp",
+  "title": "celstomp",
+  "why": "Runs frame-by-frame cel animation in a browser tab, with onion skin, layer blend modes and export to MP4, GIF or image sequence.",
+  "keys": {
+    "races": [
+      "media/animation-vfx"
+    ],
+    "lanes": [
+      "media/animation-vfx"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/Celstomp/celstomp",
+    "sha": "bf0b67dd82175e6913b23195eac21ad9f1970904",
+    "file_url": "https://cdn.jsdelivr.net/gh/Celstomp/celstomp@bf0b67dd82175e6913b23195eac21ad9f1970904/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "GPL-3.0",
+    "stars": 60,
+    "size_mb": 1,
+    "created_at": "2026-02-08T04:15:49Z",
+    "last_commit_at": "2026-03-29T12:20:52Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-03-29T12:20:52Z"
+}

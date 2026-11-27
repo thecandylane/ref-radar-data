@@ -30,18 +30,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/microsoft/fluentui",
-    "sha": "feab6ba63b55703d803f17092eab54c9dc82430b",
-    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/fluentui@feab6ba63b55703d803f17092eab54c9dc82430b/{path}"
+    "sha": "e10773071a08f4f2a24a2fbbc7022e54431498a9",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/fluentui@e10773071a08f4f2a24a2fbbc7022e54431498a9/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 20432,
+    "stars": 20434,
     "size_mb": 860,
     "created_at": "2016-06-06T15:03:44Z",
-    "last_commit_at": "2026-11-25T04:09:02Z",
+    "last_commit_at": "2026-11-26T04:08:42Z",
     "releases": 1000,
-    "tags": 34992,
+    "tags": 34994,
     "archived": false,
     "release": {
       "tag": "@fluentui/web-components_v3.2.2",
@@ -62,12 +62,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "feab6ba63b55703d803f17092eab54c9dc82430b",
-    "v": 4
-  },
   "pins_before": [
+    "feab6ba63b55703d803f17092eab54c9dc82430b",
     "c30fbd57369a6daa0550ce2eba6ae5c006d816bd"
   ],
-  "pinned_at": "2026-11-18T13:45:41Z"
+  "pinned_at": "2026-11-26T04:08:42Z"
 }

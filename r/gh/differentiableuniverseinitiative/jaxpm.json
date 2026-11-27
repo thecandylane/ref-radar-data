@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c9903cc1a0e54cb7a0c9203a3cb33085758d942a"
+  },
+  "id": "gh:differentiableuniverseinitiative/jaxpm",
+  "kind": "repo",
+  "url": "https://github.com/DifferentiableUniverseInitiative/JaxPM",
+  "title": "JaxPM",
+  "why": "Runs cosmology simulations in JAX with differentiable forces, CIC paint, FFTs and sharding across multiple hosts.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/DifferentiableUniverseInitiative/JaxPM",
+    "sha": "c9903cc1a0e54cb7a0c9203a3cb33085758d942a",
+    "file_url": "https://cdn.jsdelivr.net/gh/DifferentiableUniverseInitiative/JaxPM@c9903cc1a0e54cb7a0c9203a3cb33085758d942a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 72,
+    "size_mb": 32,
+    "created_at": "2021-07-16T21:10:42Z",
+    "last_commit_at": "2026-09-28T01:34:20Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.6",
+      "at": "2025-06-29T11:29:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-09-28T01:34:20Z"
+}

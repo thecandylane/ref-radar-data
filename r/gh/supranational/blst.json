@@ -1,0 +1,57 @@
+{
+  "id": "gh:supranational/blst",
+  "kind": "repo",
+  "url": "https://github.com/supranational/blst",
+  "title": "blst",
+  "why": "Pairing checks and aggregate public key routines in C, with headers and a Node binding for callers.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/supranational/blst",
+    "sha": "6018aaaf4c8a5e957f8a73a7cd0ed019df7d7b99",
+    "file_url": "https://cdn.jsdelivr.net/gh/supranational/blst@6018aaaf4c8a5e957f8a73a7cd0ed019df7d7b99/{path}"
+  },
+  "facts": {
+    "lang": "Assembly",
+    "license": "Apache-2.0",
+    "stars": 579,
+    "size_mb": 2,
+    "created_at": "2020-06-22T15:28:41Z",
+    "last_commit_at": "2026-11-22T12:52:01Z",
+    "releases": 19,
+    "tags": 21,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.17",
+      "at": "2026-07-24T14:06:09.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

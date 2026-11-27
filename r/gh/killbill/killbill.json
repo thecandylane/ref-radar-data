@@ -1,0 +1,63 @@
+{
+  "id": "gh:killbill/killbill",
+  "kind": "repo",
+  "url": "https://github.com/killbill/killbill",
+  "title": "killbill",
+  "why": "Billing platform where plugins add gateway and tax integrations, and you can test which billing model is most profitable.",
+  "keys": {
+    "races": [
+      "finance/billing",
+      "finance/payments"
+    ],
+    "lanes": [
+      "finance/billing",
+      "finance/payments"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/killbill/killbill",
+    "sha": "5c549cbfbb0a961cca8c63b2a6c35fcc974cb2e9",
+    "file_url": "https://cdn.jsdelivr.net/gh/killbill/killbill@5c549cbfbb0a961cca8c63b2a6c35fcc974cb2e9/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 5869,
+    "size_mb": 667,
+    "created_at": "2012-10-21T20:55:05Z",
+    "last_commit_at": "2026-11-26T04:50:40Z",
+    "releases": 165,
+    "tags": 345,
+    "archived": false,
+    "release": {
+      "tag": "killbill-0.25.7",
+      "at": "2026-11-23T14:24:12.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pins_before": [
+    "8881b6617a7ef2d0bd5e1dd354d37405eb1362d6"
+  ],
+  "pinned_at": "2026-11-26T04:50:40Z"
+}

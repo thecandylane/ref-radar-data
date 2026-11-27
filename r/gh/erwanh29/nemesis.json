@@ -1,0 +1,62 @@
+{
+  "id": "gh:erwanh29/nemesis",
+  "kind": "repo",
+  "url": "https://github.com/ErwanH29/nemesis",
+  "title": "nemesis",
+  "why": "Runs star-cluster simulations with hierarchical particles, where stellar workers and gravity correctors handle parents and their children.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ErwanH29/nemesis",
+    "sha": "c229c555ca7948338a715639712081a0f4dd03ca",
+    "file_url": "https://cdn.jsdelivr.net/gh/ErwanH29/nemesis@c229c555ca7948338a715639712081a0f4dd03ca/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 2,
+    "size_mb": 7,
+    "created_at": "2025-12-10T09:15:54Z",
+    "last_commit_at": "2026-10-20T10:06:02Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2026-08-20T09:36:11.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-10-20T10:06:02Z"
+}

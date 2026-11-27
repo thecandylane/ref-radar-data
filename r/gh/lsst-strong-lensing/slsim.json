@@ -1,0 +1,58 @@
+{
+  "id": "gh:lsst-strong-lensing/slsim",
+  "kind": "repo",
+  "url": "https://github.com/LSST-strong-lensing/slsim",
+  "title": "slsim",
+  "why": "Simulates strong lens populations from deflectors and sources, then injects them into LSST images and microlensing light curves.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/LSST-strong-lensing/slsim",
+    "sha": "60f20c3d9ff392b8d026b1875aaf94ffd284b46c",
+    "file_url": "https://cdn.jsdelivr.net/gh/LSST-strong-lensing/slsim@60f20c3d9ff392b8d026b1875aaf94ffd284b46c/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 40,
+    "size_mb": 383,
+    "created_at": "2022-01-31T19:40:37Z",
+    "last_commit_at": "2026-11-16T20:22:46Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.1.1",
+      "at": "2025-11-10T16:21:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-16T20:22:46Z"
+}

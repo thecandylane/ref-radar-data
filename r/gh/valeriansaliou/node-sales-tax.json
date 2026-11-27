@@ -1,0 +1,59 @@
+{
+  "id": "gh:valeriansaliou/node-sales-tax",
+  "kind": "repo",
+  "url": "https://github.com/valeriansaliou/node-sales-tax",
+  "title": "node-sales-tax",
+  "why": "Looks up sales tax by country and state, checks VAT and tax numbers, and computes the amount with tax added.",
+  "keys": {
+    "races": [
+      "finance/billing"
+    ],
+    "lanes": [
+      "finance/billing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/valeriansaliou/node-sales-tax",
+    "sha": "4d4918814600f54192914f1ba130c65ea702a54e",
+    "file_url": "https://cdn.jsdelivr.net/gh/valeriansaliou/node-sales-tax@4d4918814600f54192914f1ba130c65ea702a54e/{path}"
+  },
+  "facts": {
+    "lang": "JavaScript",
+    "license": "MIT",
+    "stars": 341,
+    "size_mb": 0,
+    "created_at": "2017-05-05T07:47:56Z",
+    "last_commit_at": "2026-11-15T12:43:04Z",
+    "releases": 0,
+    "tags": 52,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-15T12:43:04Z"
+}

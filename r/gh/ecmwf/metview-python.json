@@ -1,0 +1,58 @@
+{
+  "id": "gh:ecmwf/metview-python",
+  "kind": "repo",
+  "url": "https://github.com/ecmwf/metview-python",
+  "title": "metview-python",
+  "why": "Plots maps, stamp and RMSE plots from GRIB fieldsets through Python bindings that call into Metview.",
+  "keys": {
+    "races": [
+      "environment/earth-data"
+    ],
+    "lanes": [
+      "environment/earth-data"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ecmwf/metview-python",
+    "sha": "b7026ff2ea6f749d0ff839ef74ddb3e0ff039ae8",
+    "file_url": "https://cdn.jsdelivr.net/gh/ecmwf/metview-python@b7026ff2ea6f749d0ff839ef74ddb3e0ff039ae8/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 148,
+    "size_mb": 77,
+    "created_at": "2018-06-08T12:37:53Z",
+    "last_commit_at": "2026-11-20T09:37:23Z",
+    "releases": 1,
+    "tags": 46,
+    "archived": false,
+    "release": {
+      "tag": "1.7.2",
+      "at": "2021-06-14T11:04:57.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-20T09:37:23Z"
+}

@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:6965392507e19998de706aa15e514f81e9b7ce11"
+    "swh": "swh:1:rev:6caad7444cef13b797c4bf4680a79541609d712e"
   },
   "id": "gh:nixos/nix",
   "kind": "repo",
@@ -31,16 +31,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/NixOS/nix",
-    "sha": "6965392507e19998de706aa15e514f81e9b7ce11",
-    "file_url": "https://cdn.jsdelivr.net/gh/NixOS/nix@6965392507e19998de706aa15e514f81e9b7ce11/{path}"
+    "sha": "6caad7444cef13b797c4bf4680a79541609d712e",
+    "file_url": "https://cdn.jsdelivr.net/gh/NixOS/nix@6caad7444cef13b797c4bf4680a79541609d712e/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "LGPL-2.1",
-    "stars": 18073,
+    "stars": 18079,
     "size_mb": 139,
     "created_at": "2012-02-08T10:17:59Z",
-    "last_commit_at": "2026-11-25T01:13:36Z",
+    "last_commit_at": "2026-11-26T02:16:06Z",
     "releases": 0,
     "tags": 260,
     "archived": false,
@@ -60,12 +60,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "6965392507e19998de706aa15e514f81e9b7ce11",
-    "v": 4
-  },
   "pins_before": [
+    "6965392507e19998de706aa15e514f81e9b7ce11",
     "c563a2a3d17b91bd464385b769e36fd04802a6c5"
   ],
-  "pinned_at": "2026-11-19T01:10:06Z"
+  "pinned_at": "2026-11-26T02:16:06Z"
 }

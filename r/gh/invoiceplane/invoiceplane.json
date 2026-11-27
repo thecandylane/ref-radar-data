@@ -1,0 +1,66 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:d61f75a27a9f50b7c401df8d85337c6174487247"
+  },
+  "id": "gh:invoiceplane/invoiceplane",
+  "kind": "repo",
+  "url": "https://github.com/InvoicePlane/InvoicePlane",
+  "title": "InvoicePlane",
+  "why": "Self-hosted PHP app for issuing invoices and quotes, with e-invoice XML export, Stripe-aware payment callbacks and PDF output.",
+  "keys": {
+    "races": [
+      "finance/accounting",
+      "finance/e-invoicing",
+      "finance/payments"
+    ],
+    "lanes": [
+      "finance/accounting",
+      "finance/e-invoicing",
+      "finance/payments"
+    ],
+    "capabilities": [
+      "finance/accounting/bookkeeping"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/InvoicePlane/InvoicePlane",
+    "sha": "d61f75a27a9f50b7c401df8d85337c6174487247",
+    "file_url": "https://cdn.jsdelivr.net/gh/InvoicePlane/InvoicePlane@d61f75a27a9f50b7c401df8d85337c6174487247/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "NOASSERTION",
+    "stars": 3292,
+    "size_mb": 44,
+    "created_at": "2014-05-21T12:52:29Z",
+    "last_commit_at": "2026-11-25T16:44:54Z",
+    "releases": 65,
+    "tags": 78,
+    "archived": false,
+    "release": {
+      "tag": "v1.7.2",
+      "at": "2026-08-28T09:00:53.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true
+}

@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1a5d86a1afad858eb569aca8daaeb244bd189c87"
+  },
+  "id": "gh:lgnbhl/bfs",
+  "kind": "repo",
+  "url": "https://github.com/lgnbhl/BFS",
+  "title": "BFS",
+  "why": "R client for Swiss Federal Statistical Office APIs, returning tidy data frames in German, French, Italian or English.",
+  "keys": {
+    "races": [
+      "data/datasets",
+      "data/geospatial"
+    ],
+    "lanes": [
+      "data/datasets",
+      "data/geospatial"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/lgnbhl/BFS",
+    "sha": "1a5d86a1afad858eb569aca8daaeb244bd189c87",
+    "file_url": "https://cdn.jsdelivr.net/gh/lgnbhl/BFS@1a5d86a1afad858eb569aca8daaeb244bd189c87/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "GPL-3.0",
+    "stars": 30,
+    "size_mb": 5,
+    "created_at": "2017-11-09T09:25:28Z",
+    "last_commit_at": "2026-10-20T17:12:11Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v0.8.0",
+      "at": "2026-10-20T19:36:48.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-10-20T17:12:11Z"
+}

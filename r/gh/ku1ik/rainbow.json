@@ -1,0 +1,59 @@
+{
+  "id": "gh:ku1ik/rainbow",
+  "kind": "repo",
+  "url": "https://github.com/ku1ik/rainbow",
+  "title": "rainbow",
+  "why": "Chain color and formatting calls onto a Ruby string, and the codes drop out when STDOUT is not a TTY or the terminal is dumb.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui"
+    ],
+    "lanes": [
+      "desktop/terminal-ui"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.markdown",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ku1ik/rainbow",
+    "sha": "c6fcabf39c2475dbdb219c23c24a1d8c9dbd4a28",
+    "file_url": "https://cdn.jsdelivr.net/gh/ku1ik/rainbow@c6fcabf39c2475dbdb219c23c24a1d8c9dbd4a28/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "MIT",
+    "stars": 844,
+    "size_mb": 0,
+    "created_at": "2008-10-30T09:34:00Z",
+    "last_commit_at": "2026-10-19T09:56:14Z",
+    "releases": 0,
+    "tags": 21,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-10-19T09:56:14Z"
+}

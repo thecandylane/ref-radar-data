@@ -1,0 +1,57 @@
+{
+  "id": "gh:suchestoncampbelllab/gwasurvivr",
+  "kind": "repo",
+  "url": "https://github.com/suchestoncampbelllab/gwasurvivr",
+  "title": "gwasurvivr",
+  "why": "Runs Cox proportional hazards models of survival against each SNP in imputed VCF, IMPUTE2 or PLINK genotypes, in chunks to save memory.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/suchestoncampbelllab/gwasurvivr",
+    "sha": "609e3cdce8a6fe7418e55bb93713cbba9e9c899a",
+    "file_url": "https://cdn.jsdelivr.net/gh/suchestoncampbelllab/gwasurvivr@609e3cdce8a6fe7418e55bb93713cbba9e9c899a/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 13,
+    "size_mb": 112,
+    "created_at": "2017-08-17T19:57:47Z",
+    "last_commit_at": "2026-11-19T19:11:35Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-19T19:11:35Z"
+}

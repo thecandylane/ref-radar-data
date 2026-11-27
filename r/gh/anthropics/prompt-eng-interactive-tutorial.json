@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:0d277542e927652da25b0014c9b346723af55881"
+  },
+  "id": "gh:anthropics/prompt-eng-interactive-tutorial",
+  "kind": "repo",
+  "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+  "title": "prompt-eng-interactive-tutorial",
+  "why": "Works through 9 chapters of prompt exercises in notebooks, each with a playground for trying changes to Claude's responses.",
+  "keys": {
+    "races": [
+      "learning/courses",
+      "agents/optimization"
+    ],
+    "lanes": [
+      "learning/courses",
+      "agents/optimization"
+    ],
+    "capabilities": [
+      "agents/optimization/prompt-optimization"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "sha": "0d277542e927652da25b0014c9b346723af55881",
+    "file_url": "https://cdn.jsdelivr.net/gh/anthropics/prompt-eng-interactive-tutorial@0d277542e927652da25b0014c9b346723af55881/{path}"
+  },
+  "facts": {
+    "lang": "Jupyter Notebook",
+    "license": "none",
+    "stars": 39797,
+    "size_mb": 6,
+    "created_at": "2024-04-02T15:52:00Z",
+    "last_commit_at": "2024-04-08T03:17:07Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2024-04-08T03:17:07Z"
+}

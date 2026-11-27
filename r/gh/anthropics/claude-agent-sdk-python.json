@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a98138b6ed9aafef05ff646965b15de1ec24ceb5"
-  },
   "id": "gh:anthropics/claude-agent-sdk-python",
   "kind": "repo",
   "url": "https://github.com/anthropics/claude-agent-sdk-python",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/anthropics/claude-agent-sdk-python",
-    "sha": "a98138b6ed9aafef05ff646965b15de1ec24ceb5",
-    "file_url": "https://cdn.jsdelivr.net/gh/anthropics/claude-agent-sdk-python@a98138b6ed9aafef05ff646965b15de1ec24ceb5/{path}"
+    "sha": "6c1b03f920981a5e93efae884a31fadbfabb9418",
+    "file_url": "https://cdn.jsdelivr.net/gh/anthropics/claude-agent-sdk-python@6c1b03f920981a5e93efae884a31fadbfabb9418/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 8638,
+    "stars": 8644,
     "size_mb": 2,
     "created_at": "2025-06-11T21:33:43Z",
     "last_commit_at": "2026-11-25T02:22:18Z",
@@ -57,18 +54,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 62,
+    "star_delta_7d": 47,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "a98138b6ed9aafef05ff646965b15de1ec24ceb5",
-    "v": 4
-  },
   "pins_before": [
+    "a98138b6ed9aafef05ff646965b15de1ec24ceb5",
     "3cf3446b0fa6c97042e85b245bba07459f22f946"
   ],
-  "pinned_at": "2026-11-19T02:13:00Z"
+  "pinned_at": "2026-11-25T02:22:18Z"
 }

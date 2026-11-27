@@ -1,0 +1,66 @@
+{
+  "id": "gh:fairwindsops/pluto",
+  "kind": "repo",
+  "url": "https://github.com/FairwindsOps/pluto",
+  "title": "FairwindsOps/pluto",
+  "why": "Flags Kubernetes API versions that are deprecated or removed, checking Helm releases and files, with replacement columns in the output.",
+  "keys": {
+    "races": [
+      "infra/kubernetes"
+    ],
+    "lanes": [
+      "infra/kubernetes"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "pkg",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/FairwindsOps/pluto",
+    "sha": "436c77cea5a73e95a1a1d8a64e5177f0b3942fc0",
+    "file_url": "https://cdn.jsdelivr.net/gh/FairwindsOps/pluto@436c77cea5a73e95a1a1d8a64e5177f0b3942fc0/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "Apache-2.0",
+    "stars": 2610,
+    "size_mb": 3,
+    "created_at": "2020-03-24T20:47:16Z",
+    "last_commit_at": "2026-11-23T13:36:15Z",
+    "releases": 135,
+    "tags": 145,
+    "archived": false,
+    "release": {
+      "tag": "v5.24.6",
+      "at": "2026-11-25T13:17:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-23T13:36:15Z"
+}

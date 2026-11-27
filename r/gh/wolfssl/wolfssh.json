@@ -1,0 +1,66 @@
+{
+  "id": "gh:wolfssl/wolfssh",
+  "kind": "repo",
+  "url": "https://github.com/wolfSSL/wolfssh",
+  "title": "wolfssh",
+  "why": "Adds SSH, SFTP and SCP to a C program, including an agent that holds keys and a terminal escape parser.",
+  "keys": {
+    "races": [
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    },
+    {
+      "locator": "apps",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wolfSSL/wolfssh",
+    "sha": "f0d0527c2f9048c205e0a324fa05a20565f6c517",
+    "file_url": "https://cdn.jsdelivr.net/gh/wolfSSL/wolfssh@f0d0527c2f9048c205e0a324fa05a20565f6c517/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "none",
+    "stars": 509,
+    "size_mb": 10,
+    "created_at": "2014-06-23T17:07:57Z",
+    "last_commit_at": "2026-11-22T22:10:11Z",
+    "releases": 25,
+    "tags": 33,
+    "archived": false,
+    "release": {
+      "tag": "v1.6.0-stable",
+      "at": "2026-10-06T22:18:24.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-22T22:10:11Z"
+}

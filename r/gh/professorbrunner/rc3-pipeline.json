@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1a47cf1fa329964169a620a7dceeedd47e997bd2"
+  },
+  "id": "gh:professorbrunner/rc3-pipeline",
+  "kind": "repo",
+  "url": "https://github.com/ProfessorBrunner/rc3-pipeline",
+  "title": "rc3-pipeline",
+  "why": "Builds calibrated FITS mosaics and color images of RC3 galaxies from SDSS and DPOSS plates, using Montage for stitching.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ProfessorBrunner/rc3-pipeline",
+    "sha": "1a47cf1fa329964169a620a7dceeedd47e997bd2",
+    "file_url": "https://cdn.jsdelivr.net/gh/ProfessorBrunner/rc3-pipeline@1a47cf1fa329964169a620a7dceeedd47e997bd2/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 5,
+    "size_mb": 1475,
+    "created_at": "2014-04-22T18:07:49Z",
+    "last_commit_at": "2015-07-29T14:04:48Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2015-07-29T14:04:48Z"
+}

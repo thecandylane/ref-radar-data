@@ -1,0 +1,61 @@
+{
+  "id": "gh:pyo3/maturin",
+  "kind": "repo",
+  "url": "https://github.com/PyO3/maturin",
+  "title": "maturin",
+  "why": "Builds Rust crates into Python wheels with pyo3, cffi or uniffi bindings, and handles manylinux tagging when you publish.",
+  "keys": {
+    "races": [
+      "dev-tools/build"
+    ],
+    "lanes": [
+      "dev-tools/build"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/PyO3/maturin",
+    "sha": "033c9a935101bace83b6d503d28a05a7e4c56a17",
+    "file_url": "https://cdn.jsdelivr.net/gh/PyO3/maturin@033c9a935101bace83b6d503d28a05a7e4c56a17/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 5925,
+    "size_mb": 10,
+    "created_at": "2018-07-21T21:27:46Z",
+    "last_commit_at": "2026-11-26T07:20:29Z",
+    "releases": 318,
+    "tags": 341,
+    "archived": false,
+    "release": {
+      "tag": "v1.16.0",
+      "at": "2026-10-29T14:07:37.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true
+}

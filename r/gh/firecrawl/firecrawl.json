@@ -28,18 +28,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/firecrawl/firecrawl",
-    "sha": "1510bc4fff9c7014f6fa5be0f821ece168a69d13",
-    "file_url": "https://cdn.jsdelivr.net/gh/firecrawl/firecrawl@1510bc4fff9c7014f6fa5be0f821ece168a69d13/{path}"
+    "sha": "68291b7a8c27d60b848a58f26e271be808912735",
+    "file_url": "https://cdn.jsdelivr.net/gh/firecrawl/firecrawl@68291b7a8c27d60b848a58f26e271be808912735/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 209344,
-    "size_mb": 190,
+    "stars": 210404,
+    "size_mb": 191,
     "created_at": "2024-04-15T21:02:29Z",
-    "last_commit_at": "2026-11-25T07:09:27Z",
+    "last_commit_at": "2026-11-26T01:17:12Z",
     "releases": 35,
-    "tags": 956,
+    "tags": 963,
     "archived": false,
     "release": {
       "tag": "v2.11.0",
@@ -54,19 +54,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 6609,
+    "star_delta_7d": 5774,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "1510bc4fff9c7014f6fa5be0f821ece168a69d13",
-    "v": 4
-  },
   "pins_before": [
+    "1510bc4fff9c7014f6fa5be0f821ece168a69d13",
     "404a57968a67edf14ce21fe911474f9e31a3fc01"
   ],
-  "pinned_at": "2026-11-18T22:26:31Z",
+  "pinned_at": "2026-11-26T01:17:12Z",
   "hot": true
 }

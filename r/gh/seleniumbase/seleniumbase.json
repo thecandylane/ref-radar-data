@@ -1,0 +1,63 @@
+{
+  "id": "gh:seleniumbase/seleniumbase",
+  "kind": "repo",
+  "url": "https://github.com/seleniumbase/SeleniumBase",
+  "title": "SeleniumBase",
+  "why": "Pytest tests that drive Chromium through CDP Mode, the stealth mode that gets past Cloudflare checks.",
+  "keys": {
+    "races": [
+      "dev-tools/testing",
+      "agents/tools"
+    ],
+    "lanes": [
+      "dev-tools/testing",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "dev-tools/testing/e2e-testing",
+      "agents/tools/browser-automation",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/seleniumbase/SeleniumBase",
+    "sha": "f7a1a3dd70978a8db5dd0dd3b5934bd36c60192a",
+    "file_url": "https://cdn.jsdelivr.net/gh/seleniumbase/SeleniumBase@f7a1a3dd70978a8db5dd0dd3b5934bd36c60192a/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 13286,
+    "size_mb": 15,
+    "created_at": "2014-03-04T23:07:33Z",
+    "last_commit_at": "2026-11-25T22:44:01Z",
+    "releases": 1000,
+    "tags": 1225,
+    "archived": false,
+    "release": {
+      "tag": "v4.59.1",
+      "at": "2026-11-25T22:45:38.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true
+}

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c094099c1516e578cb3b0976175e4e75a552e6d1"
+  },
   "id": "gh:coder/code-server",
   "kind": "repo",
   "url": "https://github.com/coder/code-server",
@@ -28,13 +31,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/coder/code-server",
-    "sha": "e7ff0c41be5cff7d2a82d1a21e58eda83c2db160",
-    "file_url": "https://cdn.jsdelivr.net/gh/coder/code-server@e7ff0c41be5cff7d2a82d1a21e58eda83c2db160/{path}"
+    "sha": "c094099c1516e578cb3b0976175e4e75a552e6d1",
+    "file_url": "https://cdn.jsdelivr.net/gh/coder/code-server@c094099c1516e578cb3b0976175e4e75a552e6d1/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 79945,
+    "stars": 79953,
     "size_mb": 53,
     "created_at": "2019-02-27T16:50:41Z",
     "last_commit_at": "2026-11-22T20:06:08Z",
@@ -54,18 +57,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 38,
+    "star_delta_7d": 40,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "e7ff0c41be5cff7d2a82d1a21e58eda83c2db160",
-    "v": 4
-  },
   "pins_before": [
+    "e7ff0c41be5cff7d2a82d1a21e58eda83c2db160",
     "568a58f9a0d082fbec94d9c3e08087f6f465188f"
   ],
-  "pinned_at": "2026-11-19T00:54:42Z"
+  "pinned_at": "2026-11-22T20:06:08Z"
 }

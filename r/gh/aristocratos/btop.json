@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:fdf7fba467ef91b216dc8bb15c582be0532c08ae"
+  },
+  "id": "gh:aristocratos/btop",
+  "kind": "repo",
+  "url": "https://github.com/aristocratos/btop",
+  "title": "btop",
+  "why": "Watches processor, memory, disk and network load from a terminal, with braille graphs and mouse support for the process list.",
+  "keys": {
+    "races": [
+      "desktop/terminal-ui",
+      "infra/observability"
+    ],
+    "lanes": [
+      "desktop/terminal-ui",
+      "infra/observability"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/aristocratos/btop",
+    "sha": "fdf7fba467ef91b216dc8bb15c582be0532c08ae",
+    "file_url": "https://cdn.jsdelivr.net/gh/aristocratos/btop@fdf7fba467ef91b216dc8bb15c582be0532c08ae/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "Apache-2.0",
+    "stars": 35525,
+    "size_mb": 10,
+    "created_at": "2021-05-06T18:40:21Z",
+    "last_commit_at": "2026-11-25T08:59:39Z",
+    "releases": 56,
+    "tags": 56,
+    "archived": false,
+    "release": {
+      "tag": "v1.4.8",
+      "at": "2026-10-25T08:02:10.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-25T08:59:39Z"
+}

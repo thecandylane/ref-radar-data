@@ -1,0 +1,60 @@
+{
+  "id": "gh:tabler/tabler",
+  "kind": "repo",
+  "url": "https://github.com/tabler/tabler",
+  "title": "tabler",
+  "why": "Bootstrap 5 dashboard kit with more than 120 demo pages in light and dark mode, plus a skill for coding agents to read real docs.",
+  "keys": {
+    "races": [
+      "web/ui-components",
+      "web/css"
+    ],
+    "lanes": [
+      "web/ui-components",
+      "web/css"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tabler/tabler",
+    "sha": "564724b933e863816b3994f91755eacd417f9b06",
+    "file_url": "https://cdn.jsdelivr.net/gh/tabler/tabler@564724b933e863816b3994f91755eacd417f9b06/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 42140,
+    "size_mb": 386,
+    "created_at": "2018-02-01T09:08:59Z",
+    "last_commit_at": "2026-11-25T11:33:51Z",
+    "releases": 61,
+    "tags": 83,
+    "archived": false,
+    "release": {
+      "tag": "@tabler/core@1.7.5",
+      "at": "2026-11-12T13:08:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-25T11:33:51Z"
+}

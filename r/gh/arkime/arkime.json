@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:4323354088ebdf15a1ad01ed76c14840cd4457ef"
-  },
   "id": "gh:arkime/arkime",
   "kind": "repo",
   "url": "https://github.com/arkime/arkime",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/arkime/arkime",
-    "sha": "4323354088ebdf15a1ad01ed76c14840cd4457ef",
-    "file_url": "https://cdn.jsdelivr.net/gh/arkime/arkime@4323354088ebdf15a1ad01ed76c14840cd4457ef/{path}"
+    "sha": "55988590b4462692af11e53a77830294e278c0be",
+    "file_url": "https://cdn.jsdelivr.net/gh/arkime/arkime@55988590b4462692af11e53a77830294e278c0be/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "Apache-2.0",
-    "stars": 7588,
-    "size_mb": 76,
+    "stars": 7593,
+    "size_mb": 77,
     "created_at": "2012-07-06T16:10:55Z",
-    "last_commit_at": "2026-11-21T23:05:58Z",
+    "last_commit_at": "2026-11-25T15:17:24Z",
     "releases": 95,
     "tags": 173,
     "archived": false,
@@ -55,18 +52,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 7,
+    "star_delta_7d": 10,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "4323354088ebdf15a1ad01ed76c14840cd4457ef",
-    "v": 4
-  },
   "pins_before": [
+    "4323354088ebdf15a1ad01ed76c14840cd4457ef",
     "766982ace43e56581156866d229248cb775c6fad"
   ],
-  "pinned_at": "2026-11-19T00:28:55Z"
+  "pinned_at": "2026-11-25T15:17:24Z"
 }

@@ -1,0 +1,62 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e93b1060d4bc46b09910b70fcc60594734eed95e"
+  },
+  "id": "gh:boostorg/json",
+  "kind": "repo",
+  "url": "https://github.com/boostorg/json",
+  "title": "boostorg/json",
+  "why": "Parses and serializes JSON in C++ with a stream parser, monotonic memory resources and gdb printers for inspecting values.",
+  "keys": {
+    "races": [
+      "data/serialization"
+    ],
+    "lanes": [
+      "data/serialization"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.adoc",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/boostorg/json",
+    "sha": "e93b1060d4bc46b09910b70fcc60594734eed95e",
+    "file_url": "https://cdn.jsdelivr.net/gh/boostorg/json@e93b1060d4bc46b09910b70fcc60594734eed95e/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "BSL-1.0",
+    "stars": 482,
+    "size_mb": 13,
+    "created_at": "2019-09-12T18:28:30Z",
+    "last_commit_at": "2026-11-03T16:51:07Z",
+    "releases": 0,
+    "tags": 36,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-03T16:51:07Z"
+}

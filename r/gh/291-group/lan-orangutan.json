@@ -1,0 +1,68 @@
+{
+  "id": "gh:291-group/lan-orangutan",
+  "kind": "repo",
+  "url": "https://github.com/291-Group/LAN-Orangutan",
+  "title": "LAN-Orangutan",
+  "why": "Finds devices on each LAN through ARP and IPv6 discovery, classifies them by vendor and ports, and sends change alerts to webhooks.",
+  "keys": {
+    "races": [
+      "netsec/scanning",
+      "infra/networking"
+    ],
+    "lanes": [
+      "netsec/scanning",
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "internal",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/291-Group/LAN-Orangutan",
+    "sha": "bacad6467299d809b8f0d88fbe70511741cf1a04",
+    "file_url": "https://cdn.jsdelivr.net/gh/291-Group/LAN-Orangutan@bacad6467299d809b8f0d88fbe70511741cf1a04/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "MIT",
+    "stars": 1187,
+    "size_mb": 3,
+    "created_at": "2025-12-29T13:32:02Z",
+    "last_commit_at": "2026-11-24T16:27:27Z",
+    "releases": 8,
+    "tags": 8,
+    "archived": false,
+    "release": {
+      "tag": "v4.0.0",
+      "at": "2026-11-18T16:55:55.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-24T16:27:27Z"
+}

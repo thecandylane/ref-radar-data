@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:a2b4548efc2ff022b9427bb122ef56084ca42c98"
-  },
   "id": "gh:lintsinghua/deepaudit",
   "kind": "repo",
   "url": "https://github.com/lintsinghua/DeepAudit",
@@ -31,22 +28,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/lintsinghua/DeepAudit",
-    "sha": "a2b4548efc2ff022b9427bb122ef56084ca42c98",
-    "file_url": "https://cdn.jsdelivr.net/gh/lintsinghua/DeepAudit@a2b4548efc2ff022b9427bb122ef56084ca42c98/{path}"
+    "sha": "1a33a65215f45016921fe1ddd3b5a5bf14a46810",
+    "file_url": "https://cdn.jsdelivr.net/gh/lintsinghua/DeepAudit@1a33a65215f45016921fe1ddd3b5a5bf14a46810/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "AGPL-3.0",
-    "stars": 7353,
-    "size_mb": 72,
+    "stars": 7356,
+    "size_mb": 71,
     "created_at": "2025-09-19T15:53:48Z",
-    "last_commit_at": "2026-11-16T11:04:57Z",
-    "releases": 24,
-    "tags": 33,
+    "last_commit_at": "2026-11-26T05:24:23Z",
+    "releases": 29,
+    "tags": 38,
     "archived": false,
     "release": {
-      "tag": "v3.0.4",
-      "at": "2026-01-24T09:42:49.000Z"
+      "tag": "v3.8.5",
+      "at": "2026-11-26T05:25:28.000Z"
     }
   },
   "reuse": "copy",
@@ -57,18 +54,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 31,
+    "star_delta_7d": 21,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "a2b4548efc2ff022b9427bb122ef56084ca42c98",
-    "v": 4
-  },
   "pins_before": [
+    "a2b4548efc2ff022b9427bb122ef56084ca42c98",
     "551cf2565fa1e8d21cae7bf4d4cc85d0d0abcfa9"
   ],
-  "pinned_at": "2026-11-16T11:04:57Z"
+  "pinned_at": "2026-11-26T05:24:23Z"
 }

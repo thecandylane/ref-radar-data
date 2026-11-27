@@ -1,0 +1,64 @@
+{
+  "id": "gh:react/yoga",
+  "kind": "repo",
+  "url": "https://github.com/react/yoga",
+  "title": "yoga",
+  "why": "Computes flexbox layouts in C++ with bindings for other languages, so the same layout rules run on every platform.",
+  "keys": {
+    "races": [
+      "web/css",
+      "web/ui-components"
+    ],
+    "lanes": [
+      "web/css",
+      "web/ui-components"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/react/yoga",
+    "sha": "8d20739cf68e4fbb31139ccc1823b3ee002443b9",
+    "file_url": "https://cdn.jsdelivr.net/gh/react/yoga@8d20739cf68e4fbb31139ccc1823b3ee002443b9/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "MIT",
+    "stars": 18968,
+    "size_mb": 27,
+    "created_at": "2014-04-07T01:37:37Z",
+    "last_commit_at": "2026-11-23T17:51:11Z",
+    "releases": 33,
+    "tags": 60,
+    "archived": false,
+    "release": {
+      "tag": "v3.2.1",
+      "at": "2024-12-13T01:58:00.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-23T17:51:11Z"
+}

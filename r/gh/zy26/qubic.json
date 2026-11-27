@@ -1,0 +1,64 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7e67e79502ba5439b98021564368838d25fe302d"
+  },
+  "id": "gh:zy26/qubic",
+  "kind": "repo",
+  "url": "https://github.com/zy26/QUBIC",
+  "title": "QUBIC",
+  "why": "Biclusters gene co-expression matrices with QUBIC's discretization, then draws heatmaps and co-expression networks from the result.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zy26/QUBIC",
+    "sha": "7e67e79502ba5439b98021564368838d25fe302d",
+    "file_url": "https://cdn.jsdelivr.net/gh/zy26/QUBIC@7e67e79502ba5439b98021564368838d25fe302d/{path}"
+  },
+  "facts": {
+    "lang": "C++",
+    "license": "NOASSERTION",
+    "stars": 4,
+    "size_mb": 0,
+    "created_at": "2016-02-27T12:48:56Z",
+    "last_commit_at": "2026-04-15T00:45:57Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-04-15T00:45:57Z"
+}

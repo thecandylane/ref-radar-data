@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:80c962c99a8d487e75acdfba7a2bcf01a5abfb93"
-  },
   "id": "gh:angr/angr",
   "kind": "repo",
   "url": "https://github.com/angr/angr",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/angr/angr",
-    "sha": "80c962c99a8d487e75acdfba7a2bcf01a5abfb93",
-    "file_url": "https://cdn.jsdelivr.net/gh/angr/angr@80c962c99a8d487e75acdfba7a2bcf01a5abfb93/{path}"
+    "sha": "48d4130c44d29b22cd6accf77901250e3553cebf",
+    "file_url": "https://cdn.jsdelivr.net/gh/angr/angr@48d4130c44d29b22cd6accf77901250e3553cebf/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "BSD-2-Clause",
-    "stars": 9415,
+    "stars": 9417,
     "size_mb": 96,
     "created_at": "2015-08-06T21:46:55Z",
-    "last_commit_at": "2026-11-25T08:18:07Z",
+    "last_commit_at": "2026-11-26T03:36:07Z",
     "releases": 0,
     "tags": 306,
     "archived": false,
@@ -50,18 +47,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 28,
+    "star_delta_7d": 20,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "80c962c99a8d487e75acdfba7a2bcf01a5abfb93",
-    "v": 4
-  },
   "pins_before": [
+    "80c962c99a8d487e75acdfba7a2bcf01a5abfb93",
     "940c50a23765c509d3dc7434b4a1729a8de18707"
   ],
-  "pinned_at": "2026-11-18T19:01:07Z"
+  "pinned_at": "2026-11-26T03:36:07Z"
 }

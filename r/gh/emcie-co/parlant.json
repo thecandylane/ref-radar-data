@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:07b2bcb4bebfeda7c53f1e2bbf2c68415f389e83"
-  },
   "id": "gh:emcie-co/parlant",
   "kind": "repo",
   "url": "https://github.com/emcie-co/parlant",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/emcie-co/parlant",
-    "sha": "07b2bcb4bebfeda7c53f1e2bbf2c68415f389e83",
-    "file_url": "https://cdn.jsdelivr.net/gh/emcie-co/parlant@07b2bcb4bebfeda7c53f1e2bbf2c68415f389e83/{path}"
+    "sha": "81f79b7bb4df47569cb70d429bbe5c32d2631925",
+    "file_url": "https://cdn.jsdelivr.net/gh/emcie-co/parlant@81f79b7bb4df47569cb70d429bbe5c32d2631925/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 18345,
+    "stars": 18348,
     "size_mb": 93,
     "created_at": "2024-02-15T20:16:15Z",
     "last_commit_at": "2026-11-24T13:50:56Z",
@@ -63,9 +60,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "07b2bcb4bebfeda7c53f1e2bbf2c68415f389e83",
-    "v": 4
-  },
-  "pinned_at": "2026-11-18T12:46:30Z"
+  "pins_before": [
+    "07b2bcb4bebfeda7c53f1e2bbf2c68415f389e83"
+  ],
+  "pinned_at": "2026-11-24T13:50:56Z"
 }

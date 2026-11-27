@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:472c0f751bd10d7a59272b3f8c16fdaa7839a5ca"
+  },
+  "id": "gh:louisdesdoigts/amigo",
+  "kind": "repo",
+  "url": "https://github.com/LouisDesdoigts/amigo",
+  "title": "amigo",
+  "why": "Runs aperture masking interferometry for JWST from modelling through calibration files and image reconstruction in one pipeline.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "sci/sciml"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "sci/sciml"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/LouisDesdoigts/amigo",
+    "sha": "472c0f751bd10d7a59272b3f8c16fdaa7839a5ca",
+    "file_url": "https://cdn.jsdelivr.net/gh/LouisDesdoigts/amigo@472c0f751bd10d7a59272b3f8c16fdaa7839a5ca/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 26,
+    "size_mb": 2,
+    "created_at": "2023-11-30T04:49:12Z",
+    "last_commit_at": "2026-05-22T04:24:00Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.0.10",
+      "at": "2026-05-08T10:24:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-05-22T04:24:00Z"
+}

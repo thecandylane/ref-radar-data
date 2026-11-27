@@ -1,0 +1,57 @@
+{
+  "id": "gh:tzinfo/tzinfo",
+  "kind": "repo",
+  "url": "https://github.com/tzinfo/tzinfo",
+  "title": "tzinfo",
+  "why": "Ruby gem that converts times using IANA zone rules, reporting offsets and DST state, and lists zones by country.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tzinfo/tzinfo",
+    "sha": "99962dfa8cd334dfc8c7c265b0ab61768481689d",
+    "file_url": "https://cdn.jsdelivr.net/gh/tzinfo/tzinfo@99962dfa8cd334dfc8c7c265b0ab61768481689d/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "MIT",
+    "stars": 384,
+    "size_mb": 11,
+    "created_at": "2013-08-04T14:08:00Z",
+    "last_commit_at": "2026-11-16T20:45:29Z",
+    "releases": 95,
+    "tags": 95,
+    "archived": false,
+    "release": {
+      "tag": "v2.0.6",
+      "at": "2023-01-28T20:27:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

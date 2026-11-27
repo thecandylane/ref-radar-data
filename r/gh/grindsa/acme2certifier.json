@@ -1,0 +1,57 @@
+{
+  "id": "gh:grindsa/acme2certifier",
+  "kind": "repo",
+  "url": "https://github.com/grindsa/acme2certifier",
+  "title": "acme2certifier",
+  "why": "Serves ACME certificate requests through CAhandler modules, with account, challenge, order and certificate tables in a database.",
+  "keys": {
+    "races": [
+      "cyber/identity"
+    ],
+    "lanes": [
+      "cyber/identity"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/grindsa/acme2certifier",
+    "sha": "64250804150109996db12f7f136aa5bc7254b983",
+    "file_url": "https://cdn.jsdelivr.net/gh/grindsa/acme2certifier@64250804150109996db12f7f136aa5bc7254b983/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 303,
+    "size_mb": 20,
+    "created_at": "2018-03-04T06:16:48Z",
+    "last_commit_at": "2026-11-24T10:20:06Z",
+    "releases": 84,
+    "tags": 90,
+    "archived": false,
+    "release": {
+      "tag": "0.47.1",
+      "at": "2026-11-22T14:08:49.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

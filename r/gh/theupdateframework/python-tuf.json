@@ -1,0 +1,57 @@
+{
+  "id": "gh:theupdateframework/python-tuf",
+  "kind": "repo",
+  "url": "https://github.com/theupdateframework/python-tuf",
+  "title": "python-tuf",
+  "why": "Python API for signed update metadata: targets download only after they are verified, and expired metadata is rejected.",
+  "keys": {
+    "races": [
+      "cyber/supply-chain"
+    ],
+    "lanes": [
+      "cyber/supply-chain"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/theupdateframework/python-tuf",
+    "sha": "7fda3fe7c9fb8b3346b08afc213f26a4bb819add",
+    "file_url": "https://cdn.jsdelivr.net/gh/theupdateframework/python-tuf@7fda3fe7c9fb8b3346b08afc213f26a4bb819add/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 1733,
+    "size_mb": 19,
+    "created_at": "2013-01-31T18:36:34Z",
+    "last_commit_at": "2026-11-24T15:56:03Z",
+    "releases": 36,
+    "tags": 36,
+    "archived": false,
+    "release": {
+      "tag": "v7.0.1",
+      "at": "2026-09-01T12:05:31.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

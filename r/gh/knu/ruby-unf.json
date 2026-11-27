@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:782ca4f74307d17b774d3eb188639611e4919806"
+  },
+  "id": "gh:knu/ruby-unf",
+  "kind": "repo",
+  "url": "https://github.com/knu/ruby-unf",
+  "title": "ruby-unf",
+  "why": "Normalizes UTF-8 strings into NFC, NFD, NFKC or NFKD in Ruby, using unf_ext on CRuby and Normalizer on JRuby.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/knu/ruby-unf",
+    "sha": "782ca4f74307d17b774d3eb188639611e4919806",
+    "file_url": "https://cdn.jsdelivr.net/gh/knu/ruby-unf@782ca4f74307d17b774d3eb188639611e4919806/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "BSD-2-Clause",
+    "stars": 76,
+    "size_mb": 0,
+    "created_at": "2011-10-24T13:45:30Z",
+    "last_commit_at": "2024-08-17T16:38:34Z",
+    "releases": 0,
+    "tags": 11,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2024-08-17T16:38:34Z"
+}

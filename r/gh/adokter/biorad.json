@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:682972ea4f221898ee785cd655b94d2dc9a96536"
-  },
   "id": "gh:adokter/biorad",
   "kind": "repo",
   "url": "https://github.com/adokter/bioRad",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/adokter/bioRad",
-    "sha": "682972ea4f221898ee785cd655b94d2dc9a96536",
-    "file_url": "https://cdn.jsdelivr.net/gh/adokter/bioRad@682972ea4f221898ee785cd655b94d2dc9a96536/{path}"
+    "sha": "64152da47cc5dccba4aba1baa40be9f5bfe33b49",
+    "file_url": "https://cdn.jsdelivr.net/gh/adokter/bioRad@64152da47cc5dccba4aba1baa40be9f5bfe33b49/{path}"
   },
   "facts": {
     "lang": "R",
@@ -57,9 +54,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "682972ea4f221898ee785cd655b94d2dc9a96536",
-    "v": 4
-  },
-  "pinned_at": "2026-11-11T13:00:02Z"
+  "pins_before": [
+    "682972ea4f221898ee785cd655b94d2dc9a96536"
+  ],
+  "pinned_at": "2026-11-24T17:12:38Z"
 }

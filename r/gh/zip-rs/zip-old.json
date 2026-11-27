@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7d96484fff3616987df0c7f1a8f67cd1ec34b184"
+  },
+  "id": "gh:zip-rs/zip-old",
+  "kind": "repo",
+  "url": "https://github.com/zip-rs/zip-old",
+  "title": "zip-old",
+  "why": "Points to the zip crate's new home, so issues and pull requests belong in the moved repository rather than here.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zip-rs/zip-old",
+    "sha": "7d96484fff3616987df0c7f1a8f67cd1ec34b184",
+    "file_url": "https://cdn.jsdelivr.net/gh/zip-rs/zip-old@7d96484fff3616987df0c7f1a8f67cd1ec34b184/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 708,
+    "size_mb": 1,
+    "created_at": "2014-09-07T11:54:21Z",
+    "last_commit_at": "2024-05-10T22:58:02Z",
+    "releases": 0,
+    "tags": 7,
+    "archived": true,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2024-05-10T22:58:02Z"
+}

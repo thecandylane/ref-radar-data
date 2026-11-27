@@ -1,0 +1,66 @@
+{
+  "id": "gh:zeikar/iki",
+  "kind": "repo",
+  "url": "https://github.com/zeikar/iki",
+  "title": "iki",
+  "why": "Rigs a 2D character from PSD layers so meshes deform through parameters and motion clips, with an MCP server beside the editor.",
+  "keys": {
+    "races": [
+      "media/animation-vfx",
+      "agents/tools"
+    ],
+    "lanes": [
+      "media/animation-vfx",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "packages",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/zeikar/iki",
+    "sha": "82954513a711a9ddf91f87243b92ff6c98cace0e",
+    "file_url": "https://cdn.jsdelivr.net/gh/zeikar/iki@82954513a711a9ddf91f87243b92ff6c98cace0e/{path}"
+  },
+  "facts": {
+    "lang": "TypeScript",
+    "license": "MIT",
+    "stars": 54,
+    "size_mb": 68,
+    "created_at": "2026-06-04T14:15:47Z",
+    "last_commit_at": "2026-11-24T22:05:28Z",
+    "releases": 154,
+    "tags": 154,
+    "archived": false,
+    "release": {
+      "tag": "@ikijs/mcp@0.39.1",
+      "at": "2026-11-24T22:00:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-24T22:05:28Z"
+}

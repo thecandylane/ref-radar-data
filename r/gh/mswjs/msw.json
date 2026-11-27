@@ -28,22 +28,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/mswjs/msw",
-    "sha": "b3df8504adc30538e9634a46b7303a850a817928",
-    "file_url": "https://cdn.jsdelivr.net/gh/mswjs/msw@b3df8504adc30538e9634a46b7303a850a817928/{path}"
+    "sha": "0f87d4695dbd90ca661b6f42c508acf846bf5f51",
+    "file_url": "https://cdn.jsdelivr.net/gh/mswjs/msw@0f87d4695dbd90ca661b6f42c508acf846bf5f51/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 18362,
+    "stars": 18365,
     "size_mb": 14,
     "created_at": "2018-11-13T14:58:44Z",
-    "last_commit_at": "2026-11-18T01:12:39Z",
-    "releases": 279,
-    "tags": 321,
+    "last_commit_at": "2026-11-26T01:12:38Z",
+    "releases": 280,
+    "tags": 322,
     "archived": false,
     "release": {
-      "tag": "v3.0.7",
-      "at": "2026-11-18T01:12:43.000Z"
+      "tag": "v3.0.8",
+      "at": "2026-11-26T01:12:43.000Z"
     }
   },
   "reuse": "copy",
@@ -54,18 +54,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 7,
+    "star_delta_7d": 9,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "b3df8504adc30538e9634a46b7303a850a817928",
-    "v": 4
-  },
   "pins_before": [
+    "b3df8504adc30538e9634a46b7303a850a817928",
     "ec5e8777d6c81f3953d3454d755552a67159eb86"
   ],
-  "pinned_at": "2026-11-18T01:12:39Z"
+  "pinned_at": "2026-11-26T01:12:38Z"
 }

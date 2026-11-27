@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:9ae09f520e93143c782aa6088d18a5e300c69dd0"
+  },
+  "id": "gh:golang/snappy",
+  "kind": "repo",
+  "url": "https://github.com/golang/snappy",
+  "title": "golang/snappy",
+  "why": "Snappy compression format in Go, whose encoded output is byte-for-byte identical to the C++ version.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README",
+      "kind": "path"
+    },
+    {
+      "locator": "cmd",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/golang/snappy",
+    "sha": "9ae09f520e93143c782aa6088d18a5e300c69dd0",
+    "file_url": "https://cdn.jsdelivr.net/gh/golang/snappy@9ae09f520e93143c782aa6088d18a5e300c69dd0/{path}"
+  },
+  "facts": {
+    "lang": "Go",
+    "license": "BSD-3-Clause",
+    "stars": 1572,
+    "size_mb": 2,
+    "created_at": "2015-05-12T22:48:31Z",
+    "last_commit_at": "2026-07-16T11:44:14Z",
+    "releases": 1,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v1.0.0",
+      "at": "2025-03-07T05:42:29.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-07-16T11:44:14Z"
+}

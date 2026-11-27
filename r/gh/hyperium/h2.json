@@ -1,0 +1,62 @@
+{
+  "id": "gh:hyperium/h2",
+  "kind": "repo",
+  "url": "https://github.com/hyperium/h2",
+  "title": "h2",
+  "why": "Speaks HTTP/2 in Rust with separate client and server APIs, plus an HPACK codec and flow control under the hood.",
+  "keys": {
+    "races": [
+      "infra/networking"
+    ],
+    "lanes": [
+      "infra/networking"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/hyperium/h2",
+    "sha": "d1a9b403a6fc180c47e720274ad8f819d5187716",
+    "file_url": "https://cdn.jsdelivr.net/gh/hyperium/h2@d1a9b403a6fc180c47e720274ad8f819d5187716/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "MIT",
+    "stars": 1558,
+    "size_mb": 6,
+    "created_at": "2017-03-10T04:03:11Z",
+    "last_commit_at": "2026-11-24T21:43:56Z",
+    "releases": 57,
+    "tags": 87,
+    "archived": false,
+    "release": {
+      "tag": "v0.4.21",
+      "at": "2026-11-24T21:46:41.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-24T21:43:56Z"
+}

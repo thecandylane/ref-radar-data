@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:c7d3881173b01504286cf6784622420401ddaa41"
+  },
+  "id": "gh:pharmaverse/pharmaverseadam",
+  "kind": "repo",
+  "url": "https://github.com/pharmaverse/pharmaverseadam",
+  "title": "pharmaverseadam",
+  "why": "Gives R users ready ADaM test datasets to try pharmaverse packages without building the templates first, regenerated on each new release.",
+  "keys": {
+    "races": [
+      "medicine/health-data",
+      "data/datasets"
+    ],
+    "lanes": [
+      "medicine/health-data",
+      "data/datasets"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/pharmaverse/pharmaverseadam",
+    "sha": "c7d3881173b01504286cf6784622420401ddaa41",
+    "file_url": "https://raw.githubusercontent.com/pharmaverse/pharmaverseadam/c7d3881173b01504286cf6784622420401ddaa41/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "Apache-2.0",
+    "stars": 38,
+    "size_mb": 85,
+    "created_at": "2023-07-12T13:50:31Z",
+    "last_commit_at": "2026-10-14T08:44:33Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v1.4.0",
+      "at": "2026-10-14T08:49:54.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-10-14T08:44:33Z"
+}

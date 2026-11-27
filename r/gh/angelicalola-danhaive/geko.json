@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:30797a808dd523845a07b940fccbc882fd695d4e"
+  },
+  "id": "gh:angelicalola-danhaive/geko",
+  "kind": "repo",
+  "url": "https://github.com/angelicalola-danhaive/geko",
+  "title": "geko",
+  "why": "Fits emission-line kinematics in JWST NIRCam grism spectra with Numpyro's No-U-Turn sampler, so each source gets an MCMC fit.",
+  "keys": {
+    "races": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "lanes": [
+      "space/astronomy",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/angelicalola-danhaive/geko",
+    "sha": "30797a808dd523845a07b940fccbc882fd695d4e",
+    "file_url": "https://cdn.jsdelivr.net/gh/angelicalola-danhaive/geko@30797a808dd523845a07b940fccbc882fd695d4e/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "none",
+    "stars": 9,
+    "size_mb": 12,
+    "created_at": "2024-03-14T09:45:03Z",
+    "last_commit_at": "2025-11-25T14:18:36Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2025-11-25T14:18:36Z"
+}

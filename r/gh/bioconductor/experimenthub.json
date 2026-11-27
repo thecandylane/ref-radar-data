@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:366356762ee6c3823050c12d2913756d0b3177aa"
-  },
   "id": "gh:bioconductor/experimenthub",
   "kind": "repo",
   "url": "https://github.com/Bioconductor/ExperimentHub",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Bioconductor/ExperimentHub",
-    "sha": "366356762ee6c3823050c12d2913756d0b3177aa",
-    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/ExperimentHub@366356762ee6c3823050c12d2913756d0b3177aa/{path}"
+    "sha": "0bd63617ae250155836e3dff3bb836662030d303",
+    "file_url": "https://cdn.jsdelivr.net/gh/Bioconductor/ExperimentHub@0bd63617ae250155836e3dff3bb836662030d303/{path}"
   },
   "facts": {
     "lang": "R",
@@ -40,7 +37,7 @@
     "stars": 11,
     "size_mb": 0,
     "created_at": "2017-08-24T15:46:09Z",
-    "last_commit_at": "2026-08-12T16:08:44Z",
+    "last_commit_at": "2026-11-23T22:36:48Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -60,9 +57,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "366356762ee6c3823050c12d2913756d0b3177aa",
-    "v": 4
-  },
-  "pinned_at": "2026-08-12T16:08:44Z"
+  "pins_before": [
+    "366356762ee6c3823050c12d2913756d0b3177aa"
+  ],
+  "pinned_at": "2026-11-23T22:36:48Z"
 }

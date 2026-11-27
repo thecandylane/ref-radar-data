@@ -34,22 +34,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/mostlygeek/llama-swap",
-    "sha": "7104a0012ff6c1997d662cc0bc6f26935372fd75",
-    "file_url": "https://cdn.jsdelivr.net/gh/mostlygeek/llama-swap@7104a0012ff6c1997d662cc0bc6f26935372fd75/{path}"
+    "sha": "906e61199b6f25410ca23a804f5d6cdf89a802d7",
+    "file_url": "https://cdn.jsdelivr.net/gh/mostlygeek/llama-swap@906e61199b6f25410ca23a804f5d6cdf89a802d7/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 6311,
+    "stars": 6325,
     "size_mb": 12,
     "created_at": "2024-10-04T04:06:01Z",
-    "last_commit_at": "2026-11-24T07:04:28Z",
-    "releases": 217,
-    "tags": 220,
+    "last_commit_at": "2026-11-26T02:40:45Z",
+    "releases": 218,
+    "tags": 221,
     "archived": false,
     "release": {
-      "tag": "v275",
-      "at": "2026-11-20T07:21:21.000Z"
+      "tag": "v276",
+      "at": "2026-11-26T02:22:18.000Z"
     }
   },
   "reuse": "copy",
@@ -60,18 +60,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 44,
+    "star_delta_7d": 48,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "7104a0012ff6c1997d662cc0bc6f26935372fd75",
-    "v": 4
-  },
   "pins_before": [
+    "7104a0012ff6c1997d662cc0bc6f26935372fd75",
     "a36540b79313031b7cb2a2514f928171814825d6"
   ],
-  "pinned_at": "2026-11-18T23:18:57Z"
+  "pinned_at": "2026-11-26T02:40:45Z"
 }

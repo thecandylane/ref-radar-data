@@ -26,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/hashicorp/terraform-provider-aws",
-    "sha": "0739908635e9a4e271b4ae92cf8c9fc4888712d9",
-    "file_url": "https://raw.githubusercontent.com/hashicorp/terraform-provider-aws/0739908635e9a4e271b4ae92cf8c9fc4888712d9/{path}"
+    "sha": "e01f7a86e40e0217eb243b04b08aa5447469375f",
+    "file_url": "https://raw.githubusercontent.com/hashicorp/terraform-provider-aws/e01f7a86e40e0217eb243b04b08aa5447469375f/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MPL-2.0",
-    "stars": 11159,
+    "stars": 11161,
     "size_mb": 966,
     "created_at": "2017-06-05T20:37:52Z",
-    "last_commit_at": "2026-11-24T21:01:35Z",
+    "last_commit_at": "2026-11-25T21:13:45Z",
     "releases": 428,
     "tags": 529,
     "archived": false,
@@ -58,12 +58,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "0739908635e9a4e271b4ae92cf8c9fc4888712d9",
-    "v": 4
-  },
   "pins_before": [
+    "0739908635e9a4e271b4ae92cf8c9fc4888712d9",
     "7c3558c94543f9cab8658ba38af175377a5a4e0b"
   ],
-  "pinned_at": "2026-11-18T19:23:56Z"
+  "pinned_at": "2026-11-25T21:13:45Z"
 }

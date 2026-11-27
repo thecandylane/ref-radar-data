@@ -1,0 +1,54 @@
+{
+  "id": "gh:burntsushi/jiff",
+  "kind": "repo",
+  "url": "https://github.com/BurntSushi/jiff",
+  "title": "jiff",
+  "why": "Rust date and time library for timestamps, zoned datetimes and spans, with time zone data bundled and used for offsets.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "crates",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/BurntSushi/jiff",
+    "sha": "623ea08d41d4ad0c647585eed9405e6b76d2d27e",
+    "file_url": "https://cdn.jsdelivr.net/gh/BurntSushi/jiff@623ea08d41d4ad0c647585eed9405e6b76d2d27e/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Unlicense",
+    "stars": 3233,
+    "size_mb": 5,
+    "created_at": "2024-02-17T18:31:06Z",
+    "last_commit_at": "2026-11-18T01:42:10Z",
+    "releases": 0,
+    "tags": 157,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

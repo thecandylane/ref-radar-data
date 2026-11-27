@@ -1,0 +1,63 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cd8a780a1c7ef790095a30c1abc94767bf6b2089"
+  },
+  "id": "gh:federicomarini/ideal",
+  "kind": "repo",
+  "url": "https://github.com/federicomarini/ideal",
+  "title": "ideal",
+  "why": "Shiny app for differential expression in RNA-seq counts, taking a DESeqDataSet and exporting HTML reports, so bench biologists can rerun it.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "data/statistics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/federicomarini/ideal",
+    "sha": "cd8a780a1c7ef790095a30c1abc94767bf6b2089",
+    "file_url": "https://cdn.jsdelivr.net/gh/federicomarini/ideal@cd8a780a1c7ef790095a30c1abc94767bf6b2089/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "NOASSERTION",
+    "stars": 34,
+    "size_mb": 27,
+    "created_at": "2017-03-15T10:25:39Z",
+    "last_commit_at": "2026-11-03T09:12:14Z",
+    "releases": 2,
+    "tags": 2,
+    "archived": false,
+    "release": {
+      "tag": "v1.13.2-revision",
+      "at": "2020-09-28T16:45:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-03T09:12:14Z"
+}

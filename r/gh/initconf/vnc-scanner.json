@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:4003e217b976d260a125cec272dfede59ff9d87e"
+  },
+  "id": "gh:initconf/vnc-scanner",
+  "kind": "repo",
+  "url": "https://github.com/initconf/vnc-scanner",
+  "title": "vnc-scanner",
+  "why": "Bro policy counting the dst IPs each source touches over RFB, raising a VNCScanner notice on port 5900.",
+  "keys": {
+    "races": [
+      "netsec/ids",
+      "netsec/scanning"
+    ],
+    "lanes": [
+      "netsec/ids",
+      "netsec/scanning"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/initconf/vnc-scanner",
+    "sha": "4003e217b976d260a125cec272dfede59ff9d87e",
+    "file_url": "https://cdn.jsdelivr.net/gh/initconf/vnc-scanner@4003e217b976d260a125cec272dfede59ff9d87e/{path}"
+  },
+  "facts": {
+    "lang": "Bro",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "size_mb": 0,
+    "created_at": "2017-11-29T22:48:17Z",
+    "last_commit_at": "2017-11-30T23:33:44Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2017-11-30T23:33:44Z"
+}

@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:3742026f46ea979b8eb137336c208d0a97bac308"
+  },
+  "id": "gh:furrysalamander/rubedo",
+  "kind": "repo",
+  "url": "https://github.com/furrysalamander/rubedo",
+  "title": "rubedo",
+  "why": "Scans test lines printed with pressure advance using a toolhead camera and line laser, then ranks each line by how deformed it is.",
+  "keys": {
+    "races": [
+      "industrial/3d-printing"
+    ],
+    "lanes": [
+      "industrial/3d-printing"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/furrysalamander/rubedo",
+    "sha": "3742026f46ea979b8eb137336c208d0a97bac308",
+    "file_url": "https://cdn.jsdelivr.net/gh/furrysalamander/rubedo@3742026f46ea979b8eb137336c208d0a97bac308/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "GPL-3.0",
+    "stars": 492,
+    "size_mb": 14,
+    "created_at": "2023-02-02T03:27:49Z",
+    "last_commit_at": "2025-01-17T04:01:36Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2025-01-17T04:01:36Z"
+}

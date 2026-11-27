@@ -1,0 +1,78 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:cb77bb7b9a75a7d2d2d05c6ae634b54a874d17fc"
+  },
+  "id": "gh:wm1995/tcup",
+  "kind": "repo",
+  "url": "https://github.com/wm1995/tcup",
+  "title": "tcup",
+  "why": "Linear regression for errors in both the x and y measurements, built on the XDGMM extreme deconvolution step.",
+  "keys": {
+    "races": [
+      "data/statistics",
+      "space/astronomy"
+    ],
+    "lanes": [
+      "data/statistics",
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wm1995/tcup",
+    "sha": "cb77bb7b9a75a7d2d2d05c6ae634b54a874d17fc",
+    "file_url": "https://cdn.jsdelivr.net/gh/wm1995/tcup@cb77bb7b9a75a7d2d2d05c6ae634b54a874d17fc/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 3,
+    "size_mb": 0,
+    "created_at": "2022-12-14T17:00:13Z",
+    "last_commit_at": "2025-08-05T13:59:17Z",
+    "releases": 0,
+    "tags": 10,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2025-08-05T13:59:17Z",
+  "papers": [
+    {
+      "id": "arxiv:2411.02380",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:0905.2979",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

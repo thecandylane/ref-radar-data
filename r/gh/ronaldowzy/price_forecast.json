@@ -1,0 +1,63 @@
+{
+  "id": "gh:ronaldowzy/price_forecast",
+  "kind": "repo",
+  "url": "https://github.com/ronaldowzy/price_forecast",
+  "title": "price_forecast",
+  "why": "Forecasts Shandong 15-minute real-time power prices with a backtest engine, net load and spike features, and Excel reports.",
+  "keys": {
+    "races": [
+      "energy/grid-data",
+      "finance/trading"
+    ],
+    "lanes": [
+      "energy/grid-data",
+      "finance/trading"
+    ],
+    "capabilities": [
+      "finance/trading/backtesting"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ronaldowzy/price_forecast",
+    "sha": "96ddcf9b020e98be35c9b8eb1c0f8b6e1fb8dc6f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ronaldowzy/price_forecast@96ddcf9b020e98be35c9b8eb1c0f8b6e1fb8dc6f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 25,
+    "size_mb": 90,
+    "created_at": "2025-12-19T01:13:15Z",
+    "last_commit_at": "2026-06-02T10:01:07Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-06-02T10:01:07Z"
+}

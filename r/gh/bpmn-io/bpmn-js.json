@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:8ff0a2851c6b7defd0b4867ef1395ada1767e50f"
-  },
   "id": "gh:bpmn-io/bpmn-js",
   "kind": "repo",
   "url": "https://github.com/bpmn-io/bpmn-js",
@@ -31,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/bpmn-io/bpmn-js",
-    "sha": "8ff0a2851c6b7defd0b4867ef1395ada1767e50f",
-    "file_url": "https://cdn.jsdelivr.net/gh/bpmn-io/bpmn-js@8ff0a2851c6b7defd0b4867ef1395ada1767e50f/{path}"
+    "sha": "3327bcf5c823dd45c43c0936eceaf046181b6869",
+    "file_url": "https://cdn.jsdelivr.net/gh/bpmn-io/bpmn-js@3327bcf5c823dd45c43c0936eceaf046181b6869/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "NOASSERTION",
-    "stars": 9747,
+    "stars": 9749,
     "size_mb": 17,
     "created_at": "2014-03-10T12:57:00Z",
     "last_commit_at": "2026-11-23T12:48:38Z",
@@ -57,18 +54,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8,
+    "star_delta_7d": 9,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "8ff0a2851c6b7defd0b4867ef1395ada1767e50f",
-    "v": 4
-  },
   "pins_before": [
+    "8ff0a2851c6b7defd0b4867ef1395ada1767e50f",
     "546a06984f38d8d3383cf9365f7916a63395eb85"
   ],
-  "pinned_at": "2026-11-18T12:19:52Z"
+  "pinned_at": "2026-11-23T12:48:38Z"
 }

@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:e7bdc25da2a50aaf29d61f50085ff5862bc63d38"
+  },
+  "id": "gh:weaverba137/pydl",
+  "kind": "repo",
+  "url": "https://github.com/weaverba137/pydl",
+  "title": "pydl",
+  "why": "Python replacements for IDL astronomy routines from idlutils and the Goddard library, aimed at reproducing their results.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.rst",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/weaverba137/pydl",
+    "sha": "e7bdc25da2a50aaf29d61f50085ff5862bc63d38",
+    "file_url": "https://cdn.jsdelivr.net/gh/weaverba137/pydl@e7bdc25da2a50aaf29d61f50085ff5862bc63d38/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 32,
+    "size_mb": 2,
+    "created_at": "2013-03-06T17:24:16Z",
+    "last_commit_at": "2025-05-07T16:07:26Z",
+    "releases": 19,
+    "tags": 19,
+    "archived": false,
+    "release": {
+      "tag": "1.0.1",
+      "at": "2024-07-23T16:28:38.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2025-05-07T16:07:26Z"
+}

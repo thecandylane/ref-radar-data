@@ -1,0 +1,58 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1166177ec398601d6dd4d88891cf7674f3978888"
+  },
+  "id": "gh:rust-num/num-traits",
+  "kind": "repo",
+  "url": "https://github.com/rust-num/num-traits",
+  "title": "num-traits",
+  "why": "Lets generic Rust code take integer and float types through one set of numeric traits, and runs without std when that feature is off.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/rust-num/num-traits",
+    "sha": "1166177ec398601d6dd4d88891cf7674f3978888",
+    "file_url": "https://cdn.jsdelivr.net/gh/rust-num/num-traits@1166177ec398601d6dd4d88891cf7674f3978888/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 979,
+    "size_mb": 2,
+    "created_at": "2017-12-19T01:37:18Z",
+    "last_commit_at": "2026-07-07T20:24:52Z",
+    "releases": 0,
+    "tags": 36,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-07-07T20:24:52Z"
+}

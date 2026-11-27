@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:4e2a4d7ea6a2c3aa31f9a57785e1b69f76b0fa9a"
-  },
   "id": "gh:gperftools/gperftools",
   "kind": "repo",
   "url": "https://github.com/gperftools/gperftools",
@@ -31,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/gperftools/gperftools",
-    "sha": "4e2a4d7ea6a2c3aa31f9a57785e1b69f76b0fa9a",
-    "file_url": "https://cdn.jsdelivr.net/gh/gperftools/gperftools@4e2a4d7ea6a2c3aa31f9a57785e1b69f76b0fa9a/{path}"
+    "sha": "313715fd449fb52e8f7239afac17823d01133b15",
+    "file_url": "https://cdn.jsdelivr.net/gh/gperftools/gperftools@313715fd449fb52e8f7239afac17823d01133b15/{path}"
   },
   "facts": {
     "lang": "C++",
@@ -57,18 +54,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 5,
+    "star_delta_7d": 4,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "4e2a4d7ea6a2c3aa31f9a57785e1b69f76b0fa9a",
-    "v": 4
-  },
   "pins_before": [
+    "4e2a4d7ea6a2c3aa31f9a57785e1b69f76b0fa9a",
     "42fe79ad1456d5ca816c3aeb7fc7e6780df9f83f"
   ],
-  "pinned_at": "2026-11-18T22:57:31Z"
+  "pinned_at": "2026-11-24T18:41:10Z"
 }

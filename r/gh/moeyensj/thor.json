@@ -1,0 +1,70 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7d74c0bf0140b1ba99a99074d011a158b1dd2336"
+  },
+  "id": "gh:moeyensj/thor",
+  "kind": "repo",
+  "url": "https://github.com/moeyensj/thor",
+  "title": "thor",
+  "why": "Recovers orbits of asteroids without linking tracklets first, built to run at scale across many small cloud-hosted VMs.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/moeyensj/thor",
+    "sha": "7d74c0bf0140b1ba99a99074d011a158b1dd2336",
+    "file_url": "https://cdn.jsdelivr.net/gh/moeyensj/thor@7d74c0bf0140b1ba99a99074d011a158b1dd2336/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "BSD-3-Clause",
+    "stars": 47,
+    "size_mb": 49,
+    "created_at": "2018-01-09T01:03:36Z",
+    "last_commit_at": "2026-03-04T21:20:04Z",
+    "releases": 1,
+    "tags": 5,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-03-04T21:20:04Z",
+  "papers": [
+    {
+      "id": "arxiv:2105.01056",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

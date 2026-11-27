@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:b7de1f73ab14817a9aa9c7f26abcd09acdea3d61"
+  },
+  "id": "gh:bnomei/kirby3-robots-txt",
+  "kind": "repo",
+  "url": "https://github.com/bnomei/kirby3-robots-txt",
+  "title": "kirby3-robots-txt",
+  "why": "Builds robots.txt from Kirby config groups per user-agent, and turns off all indexing whenever debug is on.",
+  "keys": {
+    "races": [
+      "seo/meta-sitemaps"
+    ],
+    "lanes": [
+      "seo/meta-sitemaps"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/bnomei/kirby3-robots-txt",
+    "sha": "b7de1f73ab14817a9aa9c7f26abcd09acdea3d61",
+    "file_url": "https://cdn.jsdelivr.net/gh/bnomei/kirby3-robots-txt@b7de1f73ab14817a9aa9c7f26abcd09acdea3d61/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 23,
+    "size_mb": 0,
+    "created_at": "2018-10-05T14:14:31Z",
+    "last_commit_at": "2026-11-25T13:24:53Z",
+    "releases": 28,
+    "tags": 28,
+    "archived": false,
+    "release": {
+      "tag": "v5.1.0",
+      "at": "2025-05-18T13:28:01.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true
+}

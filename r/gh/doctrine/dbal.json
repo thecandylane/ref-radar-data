@@ -1,0 +1,61 @@
+{
+  "id": "gh:doctrine/dbal",
+  "kind": "repo",
+  "url": "https://github.com/doctrine/dbal",
+  "title": "dbal",
+  "why": "Presents PHP code one API across MySQL, PostgreSQL, SQLite, Oracle and SQL Server, and reads schema from each engine.",
+  "keys": {
+    "races": [
+      "data/databases"
+    ],
+    "lanes": [
+      "data/databases"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/doctrine/dbal",
+    "sha": "075fe19b1135cb02dd1ec1d46ea338210653ba62",
+    "file_url": "https://cdn.jsdelivr.net/gh/doctrine/dbal@075fe19b1135cb02dd1ec1d46ea338210653ba62/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "MIT",
+    "stars": 9701,
+    "size_mb": 45,
+    "created_at": "2010-05-20T17:01:42Z",
+    "last_commit_at": "2026-11-26T09:06:37Z",
+    "releases": 150,
+    "tags": 209,
+    "archived": false,
+    "release": {
+      "tag": "4.6.0",
+      "at": "2026-11-14T18:18:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true
+}

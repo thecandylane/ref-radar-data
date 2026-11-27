@@ -34,16 +34,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/goreleaser/goreleaser",
-    "sha": "336e935653f55c515240b4b10768ba7bf1d06c43",
-    "file_url": "https://cdn.jsdelivr.net/gh/goreleaser/goreleaser@336e935653f55c515240b4b10768ba7bf1d06c43/{path}"
+    "sha": "aafac3888c6ab78b5d10bc0014d7b311ba5aa944",
+    "file_url": "https://cdn.jsdelivr.net/gh/goreleaser/goreleaser@aafac3888c6ab78b5d10bc0014d7b311ba5aa944/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 16154,
+    "stars": 16157,
     "size_mb": 30,
     "created_at": "2016-12-21T17:13:39Z",
-    "last_commit_at": "2026-11-20T04:45:21Z",
+    "last_commit_at": "2026-11-25T20:19:43Z",
     "releases": 608,
     "tags": 609,
     "archived": false,
@@ -60,18 +60,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 2,
+    "star_delta_7d": 6,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "336e935653f55c515240b4b10768ba7bf1d06c43",
-    "v": 4
-  },
   "pins_before": [
+    "336e935653f55c515240b4b10768ba7bf1d06c43",
     "1bf59683fabedd7b446d089ec31b1e343b472ce6"
   ],
-  "pinned_at": "2026-11-18T10:18:23Z"
+  "pinned_at": "2026-11-25T20:19:43Z"
 }

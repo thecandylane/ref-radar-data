@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:7de70b27acd2638e23fe5d59bfa6f867a477824e"
+  },
+  "id": "gh:ruby/ruby2_keywords",
+  "kind": "repo",
+  "url": "https://github.com/ruby/ruby2_keywords",
+  "title": "ruby2_keywords",
+  "why": "Keeps ruby2.7-style keyword delegation working in Ruby 3 code, because the method is a no-op on newer versions.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "lib",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/ruby/ruby2_keywords",
+    "sha": "7de70b27acd2638e23fe5d59bfa6f867a477824e",
+    "file_url": "https://cdn.jsdelivr.net/gh/ruby/ruby2_keywords@7de70b27acd2638e23fe5d59bfa6f867a477824e/{path}"
+  },
+  "facts": {
+    "lang": "Ruby",
+    "license": "BSD-2-Clause",
+    "stars": 78,
+    "size_mb": 0,
+    "created_at": "2019-10-16T15:18:13Z",
+    "last_commit_at": "2026-11-26T06:32:09Z",
+    "releases": 6,
+    "tags": 6,
+    "archived": false,
+    "release": {
+      "tag": "v0.0.5",
+      "at": "2022-11-17T08:47:21.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true
+}

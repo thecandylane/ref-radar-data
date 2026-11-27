@@ -1,0 +1,60 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:ca75e3a82523c6165228ffc7a0e349cbdd35ad1a"
+  },
+  "id": "gh:girke-lab/bioassayr",
+  "kind": "repo",
+  "url": "https://github.com/girke-lab/bioassayR",
+  "title": "bioassayR",
+  "why": "Queries a prebuilt database of public PubChem bioactivity data, to compare small molecules across targets in R.",
+  "keys": {
+    "races": [
+      "biology/bioinformatics",
+      "engineering/chemistry"
+    ],
+    "lanes": [
+      "biology/bioinformatics",
+      "engineering/chemistry"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/girke-lab/bioassayR",
+    "sha": "ca75e3a82523c6165228ffc7a0e349cbdd35ad1a",
+    "file_url": "https://cdn.jsdelivr.net/gh/girke-lab/bioassayR@ca75e3a82523c6165228ffc7a0e349cbdd35ad1a/{path}"
+  },
+  "facts": {
+    "lang": "R",
+    "license": "none",
+    "stars": 6,
+    "size_mb": 1,
+    "created_at": "2016-02-11T18:41:06Z",
+    "last_commit_at": "2024-10-22T04:08:22Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2024-10-22T04:08:22Z"
+}

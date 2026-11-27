@@ -1,0 +1,64 @@
+{
+  "id": "gh:wolfssl/wolfmqtt",
+  "kind": "repo",
+  "url": "https://github.com/wolfSSL/wolfMQTT",
+  "title": "wolfMQTT",
+  "why": "Lets a C device run an MQTT client or broker, with MQTT-SN for constrained sensors and TLS for the links.",
+  "keys": {
+    "races": [
+      "data/queues",
+      "embedded/firmware"
+    ],
+    "lanes": [
+      "data/queues",
+      "embedded/firmware"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/wolfSSL/wolfMQTT",
+    "sha": "b606f8e695bfb0dd2affc8c8119da4e87939423e",
+    "file_url": "https://cdn.jsdelivr.net/gh/wolfSSL/wolfMQTT@b606f8e695bfb0dd2affc8c8119da4e87939423e/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "GPL-3.0",
+    "stars": 598,
+    "size_mb": 8,
+    "created_at": "2015-10-26T16:58:13Z",
+    "last_commit_at": "2026-11-20T20:10:16Z",
+    "releases": 40,
+    "tags": 42,
+    "archived": false,
+    "release": {
+      "tag": "v2.2.0",
+      "at": "2026-10-08T13:39:22.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-11-20T20:10:16Z"
+}

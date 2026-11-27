@@ -28,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Fission-AI/OpenSpec",
-    "sha": "e6539de023915e36848b351ea737ca8e192e8538",
-    "file_url": "https://cdn.jsdelivr.net/gh/Fission-AI/OpenSpec@e6539de023915e36848b351ea737ca8e192e8538/{path}"
+    "sha": "f1cd852f4edce22b8df9548a4df889172ca8ff25",
+    "file_url": "https://cdn.jsdelivr.net/gh/Fission-AI/OpenSpec@f1cd852f4edce22b8df9548a4df889172ca8ff25/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 75679,
+    "stars": 75757,
     "size_mb": 13,
     "created_at": "2025-08-05T10:37:45Z",
     "last_commit_at": "2026-11-24T19:44:06Z",
@@ -54,18 +54,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 545,
+    "star_delta_7d": 450,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "e6539de023915e36848b351ea737ca8e192e8538",
-    "v": 4
-  },
   "pins_before": [
+    "e6539de023915e36848b351ea737ca8e192e8538",
     "d12c2817776779e06891d68230773b3bb673b106"
   ],
-  "pinned_at": "2026-11-18T22:40:58Z"
+  "pinned_at": "2026-11-24T19:44:06Z"
 }

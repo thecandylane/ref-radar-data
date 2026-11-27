@@ -32,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/onlook-dev/onlook",
-    "sha": "fa8b12fb1b8d9fe6e7374abe5d5c02ff3deb32aa",
-    "file_url": "https://cdn.jsdelivr.net/gh/onlook-dev/onlook@fa8b12fb1b8d9fe6e7374abe5d5c02ff3deb32aa/{path}"
+    "sha": "1648c3a307911af76a7e3013941399424080a159",
+    "file_url": "https://cdn.jsdelivr.net/gh/onlook-dev/onlook@1648c3a307911af76a7e3013941399424080a159/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 27915,
+    "stars": 27959,
     "size_mb": 90,
     "created_at": "2024-06-25T19:16:02Z",
-    "last_commit_at": "2026-11-25T09:31:25Z",
+    "last_commit_at": "2026-11-26T03:44:10Z",
     "releases": 149,
     "tags": 171,
     "archived": false,
@@ -58,19 +58,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 659,
+    "star_delta_7d": 455,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "fa8b12fb1b8d9fe6e7374abe5d5c02ff3deb32aa",
-    "v": 4
-  },
   "pins_before": [
+    "fa8b12fb1b8d9fe6e7374abe5d5c02ff3deb32aa",
     "423e2e924366419e418ee049093872d535eea41a"
   ],
-  "pinned_at": "2026-11-18T18:44:52Z",
+  "pinned_at": "2026-11-26T03:44:10Z",
   "hot": true
 }

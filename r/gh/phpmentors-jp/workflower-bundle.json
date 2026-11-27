@@ -1,0 +1,67 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:1e89101e8882c5429ea2b6159f1fc38edad19213"
+  },
+  "id": "gh:phpmentors-jp/workflower-bundle",
+  "kind": "repo",
+  "url": "https://github.com/phpmentors-jp/workflower-bundle",
+  "title": "workflower-bundle",
+  "why": "Plugs BPMN workflow processes into a Symfony app, with participant security and Doctrine ORM entity serialization built in.",
+  "keys": {
+    "races": [
+      "business-apps/bpm",
+      "web/frameworks"
+    ],
+    "lanes": [
+      "business-apps/bpm",
+      "web/frameworks"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/phpmentors-jp/workflower-bundle",
+    "sha": "1e89101e8882c5429ea2b6159f1fc38edad19213",
+    "file_url": "https://cdn.jsdelivr.net/gh/phpmentors-jp/workflower-bundle@1e89101e8882c5429ea2b6159f1fc38edad19213/{path}"
+  },
+  "facts": {
+    "lang": "PHP",
+    "license": "BSD-2-Clause",
+    "stars": 24,
+    "size_mb": 0,
+    "created_at": "2015-06-08T06:22:40Z",
+    "last_commit_at": "2019-02-18T01:20:30Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v1.4.0",
+      "at": "2017-09-08T04:53:34.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2019-02-18T01:20:30Z"
+}

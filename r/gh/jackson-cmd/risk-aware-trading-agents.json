@@ -1,0 +1,68 @@
+{
+  "id": "gh:jackson-cmd/risk-aware-trading-agents",
+  "kind": "repo",
+  "url": "https://github.com/jackson-cmd/risk-aware-trading-agents",
+  "title": "risk-aware-trading-agents",
+  "why": "Gives paper-trading agents a frozen 2026 dataset of prices, VIX and news, and a look-ahead check on each research run.",
+  "keys": {
+    "races": [
+      "finance/trading",
+      "agents/tools"
+    ],
+    "lanes": [
+      "finance/trading",
+      "agents/tools"
+    ],
+    "capabilities": [
+      "finance/trading/trading-agents",
+      "finance/trading/backtesting",
+      "agents/tools/mcp-servers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jackson-cmd/risk-aware-trading-agents",
+    "sha": "188b015e244ee3bdeec5897db86abe2c4c81ec02",
+    "file_url": "https://cdn.jsdelivr.net/gh/jackson-cmd/risk-aware-trading-agents@188b015e244ee3bdeec5897db86abe2c4c81ec02/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 68,
+    "size_mb": 14,
+    "created_at": "2026-11-12T02:29:31Z",
+    "last_commit_at": "2026-11-13T05:45:53Z",
+    "releases": 11,
+    "tags": 11,
+    "archived": false,
+    "release": {
+      "tag": "v0.7.1",
+      "at": "2026-11-13T05:35:32.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true,
+  "fresh": true
+}

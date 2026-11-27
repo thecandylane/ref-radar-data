@@ -1,0 +1,75 @@
+{
+  "id": "gh:astro-transients/tilepy",
+  "kind": "repo",
+  "url": "https://github.com/astro-transients/tilepy",
+  "title": "tilepy",
+  "why": "Ranks observation times for telescope pointings against GW and galaxy sky maps, using visibility and darkness windows.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/astro-transients/tilepy",
+    "sha": "07c9bdd22b01b345b1e2170686c4a6a9f2ed5641",
+    "file_url": "https://cdn.jsdelivr.net/gh/astro-transients/tilepy@07c9bdd22b01b345b1e2170686c4a6a9f2ed5641/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "NOASSERTION",
+    "stars": 19,
+    "size_mb": 221,
+    "created_at": "2023-02-21T10:22:20Z",
+    "last_commit_at": "2026-11-25T12:43:50Z",
+    "releases": 23,
+    "tags": 44,
+    "archived": false,
+    "release": {
+      "tag": "v3.2.0",
+      "at": "2026-11-25T15:00:28.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "papers": [
+    {
+      "id": "arxiv:2312.08802",
+      "via": [
+        "pwc"
+      ]
+    },
+    {
+      "id": "arxiv:2309.14725",
+      "via": [
+        "pwc"
+      ]
+    }
+  ]
+}

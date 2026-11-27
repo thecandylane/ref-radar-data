@@ -1,0 +1,61 @@
+{
+  "archive": {
+    "swh": "swh:1:rev:85367af605ea7c4a9b14a927159b1f7b89ccdab4"
+  },
+  "id": "gh:kolecki4/metal-pipe",
+  "kind": "repo",
+  "url": "https://github.com/kolecki4/Metal-Pipe",
+  "title": "Metal-Pipe",
+  "why": "Fits line-by-line abundances for FGK stars from normalized spectra, with a Python step that pulls stellar parameters from SIMBAD.",
+  "keys": {
+    "races": [
+      "space/astronomy"
+    ],
+    "lanes": [
+      "space/astronomy"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/kolecki4/Metal-Pipe",
+    "sha": "85367af605ea7c4a9b14a927159b1f7b89ccdab4",
+    "file_url": "https://raw.githubusercontent.com/kolecki4/Metal-Pipe/85367af605ea7c4a9b14a927159b1f7b89ccdab4/{path}"
+  },
+  "facts": {
+    "lang": "Fortran",
+    "license": "none",
+    "stars": 2,
+    "size_mb": 95,
+    "created_at": "2024-08-06T19:42:19Z",
+    "last_commit_at": "2026-08-05T18:07:12Z",
+    "releases": 3,
+    "tags": 3,
+    "archived": false,
+    "release": {
+      "tag": "Beta_v1.6.1",
+      "at": "2026-08-05T18:12:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "curated",
+  "drafted": true,
+  "pinned_at": "2026-08-05T18:07:12Z"
+}
