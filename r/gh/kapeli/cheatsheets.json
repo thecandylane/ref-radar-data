@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:966f52170a5208fd79dd546464325d816ec3c3e8"
-  },
   "id": "gh:kapeli/cheatsheets",
   "kind": "repo",
   "url": "https://github.com/Kapeli/cheatsheets",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Kapeli/cheatsheets",
-    "sha": "966f52170a5208fd79dd546464325d816ec3c3e8",
-    "file_url": "https://cdn.jsdelivr.net/gh/Kapeli/cheatsheets@966f52170a5208fd79dd546464325d816ec3c3e8/{path}"
+    "sha": "3c96fd5ee9c0b236fdb838091150622700827256",
+    "file_url": "https://cdn.jsdelivr.net/gh/Kapeli/cheatsheets@3c96fd5ee9c0b236fdb838091150622700827256/{path}"
   },
   "facts": {
     "lang": "Ruby",
@@ -34,14 +31,14 @@
     "stars": 808,
     "size_mb": 3,
     "created_at": "2014-02-20T02:03:04Z",
-    "last_commit_at": "2026-03-14T09:48:43Z",
+    "last_commit_at": "2026-11-27T11:10:07Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
     "release": null
   },
   "reuse": "copy",
-  "maturity": "quiet",
+  "maturity": "unreleased",
   "status": null,
   "stats": {
     "picks": {},
@@ -54,9 +51,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "966f52170a5208fd79dd546464325d816ec3c3e8",
-    "v": 4
-  },
-  "pinned_at": "2026-03-14T09:48:43Z"
+  "pins_before": [
+    "966f52170a5208fd79dd546464325d816ec3c3e8"
+  ],
+  "pinned_at": "2026-11-27T11:10:07Z"
 }

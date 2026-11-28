@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:cfe72976c7600602555af81b6e994b79a6f8f87e"
-  },
   "id": "gh:rook/rook",
   "kind": "repo",
   "url": "https://github.com/rook/rook",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/rook/rook",
-    "sha": "cfe72976c7600602555af81b6e994b79a6f8f87e",
-    "file_url": "https://cdn.jsdelivr.net/gh/rook/rook@cfe72976c7600602555af81b6e994b79a6f8f87e/{path}"
+    "sha": "99836e578bd8497eca0e50707d3fffaa66df1d5e",
+    "file_url": "https://cdn.jsdelivr.net/gh/rook/rook@99836e578bd8497eca0e50707d3fffaa66df1d5e/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 13720,
-    "size_mb": 81,
+    "stars": 13724,
+    "size_mb": 82,
     "created_at": "2016-07-08T22:45:05Z",
-    "last_commit_at": "2026-11-24T18:34:46Z",
+    "last_commit_at": "2026-11-27T12:14:50Z",
     "releases": 262,
     "tags": 306,
     "archived": false,
@@ -61,18 +58,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 6,
+    "star_delta_7d": 10,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "cfe72976c7600602555af81b6e994b79a6f8f87e",
-    "v": 4
-  },
   "pins_before": [
+    "cfe72976c7600602555af81b6e994b79a6f8f87e",
     "719f345e220db7b9617c98a43f74160fa039cc7d"
   ],
-  "pinned_at": "2026-11-20T19:56:25Z"
+  "pinned_at": "2026-11-27T12:14:50Z"
 }

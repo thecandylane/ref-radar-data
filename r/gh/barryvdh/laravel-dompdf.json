@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a7f7e228b91d95f8dde56e1cff236f15713bb0f0"
+  },
   "id": "gh:barryvdh/laravel-dompdf",
   "kind": "repo",
   "url": "https://github.com/barryvdh/laravel-dompdf",
@@ -36,7 +39,7 @@
   "facts": {
     "lang": "PHP",
     "license": "MIT",
-    "stars": 7299,
+    "stars": 7298,
     "size_mb": 0,
     "created_at": "2013-06-23T11:27:07Z",
     "last_commit_at": "2026-07-09T07:15:08Z",
@@ -65,5 +68,6 @@
   "pack": {
     "sha": "a7f7e228b91d95f8dde56e1cff236f15713bb0f0",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-07-09T07:15:08Z"
 }

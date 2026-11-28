@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:2dd57038758b7630c028dcfd5eaf4e27acc0b11a"
+  },
   "id": "gh:signalapp/signal-android",
   "kind": "repo",
   "url": "https://github.com/signalapp/Signal-Android",
@@ -36,7 +39,7 @@
   "facts": {
     "lang": "Kotlin",
     "license": "AGPL-3.0",
-    "stars": 29706,
+    "stars": 29711,
     "size_mb": 2675,
     "created_at": "2011-12-15T20:01:12Z",
     "last_commit_at": "2026-11-23T19:00:16Z",
@@ -65,5 +68,6 @@
   "pack": {
     "sha": "2dd57038758b7630c028dcfd5eaf4e27acc0b11a",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-23T19:00:16Z"
 }

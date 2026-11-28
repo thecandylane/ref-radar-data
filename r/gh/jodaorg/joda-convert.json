@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:87c3e244a63d9ee6e8a24f106a99c067c97600cd"
+  },
   "id": "gh:jodaorg/joda-convert",
   "kind": "repo",
   "url": "https://github.com/JodaOrg/joda-convert",
@@ -45,7 +48,7 @@
     }
   },
   "reuse": "copy",
-  "maturity": "stable",
+  "maturity": "quiet",
   "status": null,
   "stats": {
     "picks": {},
@@ -61,5 +64,6 @@
   "pack": {
     "sha": "87c3e244a63d9ee6e8a24f106a99c067c97600cd",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-05-31T21:38:46Z"
 }

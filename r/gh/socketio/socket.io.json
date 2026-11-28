@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c04ce00d380af51cec92d136cd6fb6631d8d8c41"
+  },
   "id": "gh:socketio/socket.io",
   "kind": "repo",
   "url": "https://github.com/socketio/socket.io",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 63265,
+    "stars": 63263,
     "size_mb": 33,
     "created_at": "2010-03-11T18:24:48Z",
     "last_commit_at": "2026-11-23T12:02:25Z",
@@ -57,5 +60,6 @@
   "pack": {
     "sha": "c04ce00d380af51cec92d136cd6fb6631d8d8c41",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-23T12:02:25Z"
 }

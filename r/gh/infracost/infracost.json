@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a972f62392ce47b282b70e2812423a16e982fbce"
+  },
   "id": "gh:infracost/infracost",
   "kind": "repo",
   "url": "https://github.com/infracost/infracost",
@@ -32,8 +35,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/infracost/infracost",
-    "sha": "b8c2bd6e345b30c2c88c36431bed78cfc13885a5",
-    "file_url": "https://cdn.jsdelivr.net/gh/infracost/infracost@b8c2bd6e345b30c2c88c36431bed78cfc13885a5/{path}"
+    "sha": "a972f62392ce47b282b70e2812423a16e982fbce",
+    "file_url": "https://cdn.jsdelivr.net/gh/infracost/infracost@a972f62392ce47b282b70e2812423a16e982fbce/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -64,13 +67,10 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "b8c2bd6e345b30c2c88c36431bed78cfc13885a5",
-    "v": 4
-  },
   "pins_before": [
+    "b8c2bd6e345b30c2c88c36431bed78cfc13885a5",
     "34e9cd0606610f5aa6fe4ac15709c3dc2954cc04",
     "40ad0ac9f247d883884cd0f60057367b4af3df08"
   ],
-  "pinned_at": "2026-11-20T18:17:11Z"
+  "pinned_at": "2026-11-27T08:58:46Z"
 }

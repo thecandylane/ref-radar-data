@@ -24,22 +24,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/strands-agents/harness-sdk",
-    "sha": "d6c5fae7c6c23452b711d021f4a6c724b387df05",
-    "file_url": "https://cdn.jsdelivr.net/gh/strands-agents/harness-sdk@d6c5fae7c6c23452b711d021f4a6c724b387df05/{path}"
+    "sha": "19be7a25cc4e990ada8f309fe0130c0df094c297",
+    "file_url": "https://cdn.jsdelivr.net/gh/strands-agents/harness-sdk@19be7a25cc4e990ada8f309fe0130c0df094c297/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 9298,
-    "size_mb": 444,
+    "stars": 9302,
+    "size_mb": 455,
     "created_at": "2025-05-14T19:59:51Z",
-    "last_commit_at": "2026-11-25T21:37:15Z",
-    "releases": 155,
-    "tags": 252,
+    "last_commit_at": "2026-11-27T23:20:00Z",
+    "releases": 160,
+    "tags": 257,
     "archived": false,
     "release": {
-      "tag": "harness-cli/v0.5.0",
-      "at": "2026-11-25T22:23:42.000Z"
+      "tag": "harness-cli/v0.6.0",
+      "at": "2026-11-27T23:59:48.000Z"
     }
   },
   "reuse": "copy",
@@ -56,12 +56,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "d6c5fae7c6c23452b711d021f4a6c724b387df05",
-    "v": 4
-  },
   "pins_before": [
+    "d6c5fae7c6c23452b711d021f4a6c724b387df05",
     "4330e2268ac24483a3753fcdfc4dfbea1707a5e2"
   ],
-  "pinned_at": "2026-11-20T21:35:43Z"
+  "pinned_at": "2026-11-27T23:20:00Z"
 }

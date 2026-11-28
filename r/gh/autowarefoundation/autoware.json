@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5c367ad11966d674e547694069284024e561ae9c"
-  },
   "id": "gh:autowarefoundation/autoware",
   "kind": "repo",
   "url": "https://github.com/autowarefoundation/autoware",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/autowarefoundation/autoware",
-    "sha": "5c367ad11966d674e547694069284024e561ae9c",
-    "file_url": "https://cdn.jsdelivr.net/gh/autowarefoundation/autoware@5c367ad11966d674e547694069284024e561ae9c/{path}"
+    "sha": "85deef4e8eeace24f8454a9086d9b60eb32fe83e",
+    "file_url": "https://cdn.jsdelivr.net/gh/autowarefoundation/autoware@85deef4e8eeace24f8454a9086d9b60eb32fe83e/{path}"
   },
   "facts": {
     "lang": "Dockerfile",
     "license": "Apache-2.0",
-    "stars": 12282,
+    "stars": 12284,
     "size_mb": 2,
     "created_at": "2015-08-24T23:17:57Z",
-    "last_commit_at": "2026-11-25T01:35:41Z",
+    "last_commit_at": "2026-11-27T12:48:19Z",
     "releases": 13,
     "tags": 18,
     "archived": false,
@@ -55,18 +52,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 14,
+    "star_delta_7d": 16,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "5c367ad11966d674e547694069284024e561ae9c",
-    "v": 4
-  },
   "pins_before": [
+    "5c367ad11966d674e547694069284024e561ae9c",
     "468e13cddad1ec93a0ae6fe6e88a3e8e35d58b70"
   ],
-  "pinned_at": "2026-11-20T22:18:47Z"
+  "pinned_at": "2026-11-27T12:48:19Z"
 }

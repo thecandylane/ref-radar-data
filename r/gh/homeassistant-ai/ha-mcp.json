@@ -28,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/homeassistant-ai/ha-mcp",
-    "sha": "fc625a858047eff7e41865ead8568594bfafb41b",
-    "file_url": "https://cdn.jsdelivr.net/gh/homeassistant-ai/ha-mcp@fc625a858047eff7e41865ead8568594bfafb41b/{path}"
+    "sha": "c8ea7ae269f4ec84d0055d70b1bc0c3cdf008310",
+    "file_url": "https://cdn.jsdelivr.net/gh/homeassistant-ai/ha-mcp@c8ea7ae269f4ec84d0055d70b1bc0c3cdf008310/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 8149,
-    "size_mb": 66,
+    "stars": 8155,
+    "size_mb": 70,
     "created_at": "2025-09-14T13:23:45Z",
-    "last_commit_at": "2026-11-27T12:10:21Z",
+    "last_commit_at": "2026-11-28T00:37:13Z",
     "releases": 158,
     "tags": 1080,
     "archived": false,
@@ -60,8 +60,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "fc625a858047eff7e41865ead8568594bfafb41b",
-    "v": 4
-  }
+  "pins_before": [
+    "fc625a858047eff7e41865ead8568594bfafb41b"
+  ],
+  "pinned_at": "2026-11-28T00:37:13Z"
 }

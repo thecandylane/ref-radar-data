@@ -28,22 +28,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/polarsource/polar",
-    "sha": "6c3731ce1b25b1c05cc8e9f3f90d903500750b87",
-    "file_url": "https://cdn.jsdelivr.net/gh/polarsource/polar@6c3731ce1b25b1c05cc8e9f3f90d903500750b87/{path}"
+    "sha": "02c5c2d86d4709ca9ccee44c049a449d4faf85e0",
+    "file_url": "https://cdn.jsdelivr.net/gh/polarsource/polar@02c5c2d86d4709ca9ccee44c049a449d4faf85e0/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 10521,
-    "size_mb": 581,
+    "stars": 10519,
+    "size_mb": 583,
     "created_at": "2023-01-26T10:04:27Z",
-    "last_commit_at": "2026-11-27T12:37:47Z",
-    "releases": 96,
-    "tags": 119,
+    "last_commit_at": "2026-11-27T19:33:27Z",
+    "releases": 98,
+    "tags": 121,
     "archived": false,
     "release": {
-      "tag": "@polar-sh/config@0.0.1",
-      "at": "2026-11-26T16:13:57.000Z"
+      "tag": "@polar-sh/config@0.0.2",
+      "at": "2026-11-27T13:11:05.000Z"
     }
   },
   "reuse": "copy",
@@ -60,8 +60,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "6c3731ce1b25b1c05cc8e9f3f90d903500750b87",
-    "v": 4
-  }
+  "pins_before": [
+    "6c3731ce1b25b1c05cc8e9f3f90d903500750b87"
+  ],
+  "pinned_at": "2026-11-27T19:33:27Z"
 }

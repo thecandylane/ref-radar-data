@@ -1,0 +1,57 @@
+{
+  "id": "gh:tkaitchuck/ahash",
+  "kind": "repo",
+  "url": "https://github.com/tkaitchuck/aHash",
+  "title": "aHash",
+  "why": "Hasher for Rust maps and sets, using AES instructions where available and a fallback path otherwise.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/tkaitchuck/aHash",
+    "sha": "a999f22e0ef9fd3a7ce7618ca1a0dd7bc2ff3967",
+    "file_url": "https://cdn.jsdelivr.net/gh/tkaitchuck/aHash@a999f22e0ef9fd3a7ce7618ca1a0dd7bc2ff3967/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "Apache-2.0",
+    "stars": 1352,
+    "size_mb": 1,
+    "created_at": "2019-02-28T06:34:40Z",
+    "last_commit_at": "2026-11-25T09:23:11Z",
+    "releases": 16,
+    "tags": 20,
+    "archived": false,
+    "release": {
+      "tag": "v0.8.14",
+      "at": "2026-11-25T09:22:07.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

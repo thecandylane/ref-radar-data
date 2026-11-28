@@ -24,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/microsoft/playwright-python",
-    "sha": "f31e7025d36bebc4b55c2e94f97f26ac92e13067",
-    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/playwright-python@f31e7025d36bebc4b55c2e94f97f26ac92e13067/{path}"
+    "sha": "d0d2bce89c2ac5d4578b4de6631f0e3707b3e866",
+    "file_url": "https://cdn.jsdelivr.net/gh/microsoft/playwright-python@d0d2bce89c2ac5d4578b4de6631f0e3707b3e866/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 15133,
+    "stars": 15135,
     "size_mb": 17,
     "created_at": "2020-07-01T15:28:13Z",
-    "last_commit_at": "2026-11-25T11:33:10Z",
+    "last_commit_at": "2026-11-27T08:38:30Z",
     "releases": 112,
     "tags": 112,
     "archived": false,
@@ -56,8 +56,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "f31e7025d36bebc4b55c2e94f97f26ac92e13067",
-    "v": 4
-  }
+  "pins_before": [
+    "f31e7025d36bebc4b55c2e94f97f26ac92e13067"
+  ],
+  "pinned_at": "2026-11-27T08:38:30Z"
 }

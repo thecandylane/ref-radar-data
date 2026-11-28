@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c64ed7d6635f33a8b2feaff7dcfa55677023ac7d"
+  },
   "id": "gh:go-chi/chi",
   "kind": "repo",
   "url": "https://github.com/go-chi/chi",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 23173,
+    "stars": 23189,
     "size_mb": 4,
     "created_at": "2015-10-15T20:46:29Z",
     "last_commit_at": "2026-11-07T15:51:20Z",
@@ -57,5 +60,6 @@
   "pack": {
     "sha": "c64ed7d6635f33a8b2feaff7dcfa55677023ac7d",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-07T15:51:20Z"
 }

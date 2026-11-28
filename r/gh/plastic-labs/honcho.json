@@ -30,13 +30,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/plastic-labs/honcho",
-    "sha": "6cc24d94bc3036f3867d9328054cd89afe7df9d2",
-    "file_url": "https://cdn.jsdelivr.net/gh/plastic-labs/honcho@6cc24d94bc3036f3867d9328054cd89afe7df9d2/{path}"
+    "sha": "1747caf8a388a8efde8fecee9056fc5dc28c473d",
+    "file_url": "https://cdn.jsdelivr.net/gh/plastic-labs/honcho@1747caf8a388a8efde8fecee9056fc5dc28c473d/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "AGPL-3.0",
-    "stars": 8308,
+    "stars": 8319,
     "size_mb": 32,
     "created_at": "2023-09-10T21:29:54Z",
     "last_commit_at": "2026-11-25T20:23:56Z",
@@ -56,18 +56,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 102,
+    "star_delta_7d": 105,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "6cc24d94bc3036f3867d9328054cd89afe7df9d2",
-    "v": 4
-  },
   "pins_before": [
+    "6cc24d94bc3036f3867d9328054cd89afe7df9d2",
     "ca81eed3ddca57d7407854c5f447195779dcabf2"
   ],
-  "pinned_at": "2026-11-20T14:31:57Z"
+  "pinned_at": "2026-11-25T20:23:56Z"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:b336e170cd1d6f15daeb332b5e51ca20e4fc3c0f"
-  },
   "id": "gh:tock/tock",
   "kind": "repo",
   "url": "https://github.com/tock/tock",
@@ -27,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/tock/tock",
-    "sha": "b336e170cd1d6f15daeb332b5e51ca20e4fc3c0f",
-    "file_url": "https://cdn.jsdelivr.net/gh/tock/tock@b336e170cd1d6f15daeb332b5e51ca20e4fc3c0f/{path}"
+    "sha": "b89939e06a270a31081ea711b9ed7319f68fcb64",
+    "file_url": "https://cdn.jsdelivr.net/gh/tock/tock@b89939e06a270a31081ea711b9ed7319f68fcb64/{path}"
   },
   "facts": {
     "lang": "Rust",
@@ -53,18 +50,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 8,
+    "star_delta_7d": 6,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "b336e170cd1d6f15daeb332b5e51ca20e4fc3c0f",
-    "v": 4
-  },
   "pins_before": [
+    "b336e170cd1d6f15daeb332b5e51ca20e4fc3c0f",
     "39dcbecb9f7be4c6b7dfe6132473e098ba0e3236"
   ],
-  "pinned_at": "2026-11-20T20:54:19Z"
+  "pinned_at": "2026-11-23T21:34:15Z"
 }

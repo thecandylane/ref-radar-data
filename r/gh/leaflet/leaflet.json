@@ -26,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Leaflet/Leaflet",
-    "sha": "f044dfabb5211fe67763ec2139e4a903912fc2ed",
-    "file_url": "https://cdn.jsdelivr.net/gh/Leaflet/Leaflet@f044dfabb5211fe67763ec2139e4a903912fc2ed/{path}"
+    "sha": "3701e81adcc1aedf18970c662dda0d14780c040b",
+    "file_url": "https://cdn.jsdelivr.net/gh/Leaflet/Leaflet@3701e81adcc1aedf18970c662dda0d14780c040b/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "BSD-2-Clause",
-    "stars": 46002,
+    "stars": 46004,
     "size_mb": 61,
     "created_at": "2010-09-22T16:57:44Z",
-    "last_commit_at": "2026-11-25T19:31:47Z",
+    "last_commit_at": "2026-11-27T18:04:11Z",
     "releases": 39,
     "tags": 66,
     "archived": false,
@@ -52,19 +52,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 44,
+    "star_delta_7d": 41,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "f044dfabb5211fe67763ec2139e4a903912fc2ed",
-    "v": 4
-  },
   "pins_before": [
+    "f044dfabb5211fe67763ec2139e4a903912fc2ed",
     "f6522f77405fcb000419cdc586c8288d6954e239"
   ],
-  "pinned_at": "2026-11-19T09:14:05Z",
+  "pinned_at": "2026-11-27T18:04:11Z",
   "hot": true
 }

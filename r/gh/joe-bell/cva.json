@@ -28,8 +28,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/joe-bell/cva",
-    "sha": "c4902f2278ad4cf011493b438f148411095c6091",
-    "file_url": "https://cdn.jsdelivr.net/gh/joe-bell/cva@c4902f2278ad4cf011493b438f148411095c6091/{path}"
+    "sha": "a5826441af94875181a69241cf51e5711e37134a",
+    "file_url": "https://cdn.jsdelivr.net/gh/joe-bell/cva@a5826441af94875181a69241cf51e5711e37134a/{path}"
   },
   "facts": {
     "lang": "TypeScript",
@@ -60,12 +60,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "c4902f2278ad4cf011493b438f148411095c6091",
-    "v": 4
-  },
   "pins_before": [
+    "c4902f2278ad4cf011493b438f148411095c6091",
     "58b0af48fee24dc796b0133fa4adc514823fd344"
   ],
-  "pinned_at": "2026-11-19T15:42:34Z"
+  "pinned_at": "2026-11-23T13:06:18Z"
 }

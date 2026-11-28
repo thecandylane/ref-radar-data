@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:4ea01d85748c5c19343535743dd875fe4f38a056"
+  },
   "id": "gh:alibaba/arthas",
   "kind": "repo",
   "url": "https://github.com/alibaba/arthas",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 37635,
+    "stars": 37642,
     "size_mb": 72,
     "created_at": "2018-08-29T17:15:57Z",
     "last_commit_at": "2026-11-24T07:04:03Z",
@@ -63,5 +66,6 @@
   "pack": {
     "sha": "4ea01d85748c5c19343535743dd875fe4f38a056",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-24T07:04:03Z"
 }

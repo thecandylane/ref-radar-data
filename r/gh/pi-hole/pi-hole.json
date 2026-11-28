@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:f7c0220e63e753c664a1ec08d42d6b647b86005d"
+  },
   "id": "gh:pi-hole/pi-hole",
   "kind": "repo",
   "url": "https://github.com/pi-hole/pi-hole",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "Shell",
     "license": "NOASSERTION",
-    "stars": 62249,
+    "stars": 62265,
     "size_mb": 9,
     "created_at": "2014-06-08T15:02:55Z",
     "last_commit_at": "2026-11-11T18:35:12Z",
@@ -61,5 +64,6 @@
   "pack": {
     "sha": "f7c0220e63e753c664a1ec08d42d6b647b86005d",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-11T18:35:12Z"
 }

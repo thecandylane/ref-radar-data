@@ -36,18 +36,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/grafana/grafana",
-    "sha": "e5916f7b7afcb04b8fd384ca7aaf8944b83c1673",
-    "file_url": "https://raw.githubusercontent.com/grafana/grafana/e5916f7b7afcb04b8fd384ca7aaf8944b83c1673/{path}"
+    "sha": "6fbc80550339b89f37143c647187507d91a365fe",
+    "file_url": "https://raw.githubusercontent.com/grafana/grafana/6fbc80550339b89f37143c647187507d91a365fe/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "AGPL-3.0",
-    "stars": 78221,
-    "size_mb": 2120,
+    "stars": 78219,
+    "size_mb": 2146,
     "created_at": "2013-12-11T15:59:56Z",
-    "last_commit_at": "2026-11-27T08:52:03Z",
+    "last_commit_at": "2026-11-28T00:33:48Z",
     "releases": 671,
-    "tags": 759,
+    "tags": 760,
     "archived": false,
     "release": {
       "tag": "v13.3.2",
@@ -62,19 +62,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 210,
+    "star_delta_7d": 197,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "e5916f7b7afcb04b8fd384ca7aaf8944b83c1673",
-    "v": 4
-  },
   "pins_before": [
+    "e5916f7b7afcb04b8fd384ca7aaf8944b83c1673",
     "71686a7507066d36c0b3e51498ba9308a49cd783"
   ],
-  "pinned_at": "2026-11-19T09:07:29Z",
+  "pinned_at": "2026-11-28T00:33:48Z",
   "hot": true
 }

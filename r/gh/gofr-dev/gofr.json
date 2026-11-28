@@ -32,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/gofr-dev/gofr",
-    "sha": "796da0253323b5fc8673f7c4f7a4c554dd57e93f",
-    "file_url": "https://cdn.jsdelivr.net/gh/gofr-dev/gofr@796da0253323b5fc8673f7c4f7a4c554dd57e93f/{path}"
+    "sha": "32c601501387b6a7d40f602725c4ade2755c842d",
+    "file_url": "https://cdn.jsdelivr.net/gh/gofr-dev/gofr@32c601501387b6a7d40f602725c4ade2755c842d/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 20780,
+    "stars": 20778,
     "size_mb": 31,
     "created_at": "2023-10-24T10:14:48Z",
-    "last_commit_at": "2026-11-27T12:34:06Z",
+    "last_commit_at": "2026-11-27T13:10:44Z",
     "releases": 120,
     "tags": 324,
     "archived": false,
@@ -64,8 +64,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "796da0253323b5fc8673f7c4f7a4c554dd57e93f",
-    "v": 4
-  }
+  "pins_before": [
+    "796da0253323b5fc8673f7c4f7a4c554dd57e93f"
+  ],
+  "pinned_at": "2026-11-27T13:10:44Z"
 }

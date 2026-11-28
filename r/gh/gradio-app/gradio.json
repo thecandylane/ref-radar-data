@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:626553066c5309d94fedd21bf5e3a7e7ec50b269"
+  },
   "id": "gh:gradio-app/gradio",
   "kind": "repo",
   "url": "https://github.com/gradio-app/gradio",
@@ -24,13 +27,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/gradio-app/gradio",
-    "sha": "ec6658fe10a240751cf956fad1f50e829c12ab0a",
-    "file_url": "https://cdn.jsdelivr.net/gh/gradio-app/gradio@ec6658fe10a240751cf956fad1f50e829c12ab0a/{path}"
+    "sha": "626553066c5309d94fedd21bf5e3a7e7ec50b269",
+    "file_url": "https://cdn.jsdelivr.net/gh/gradio-app/gradio@626553066c5309d94fedd21bf5e3a7e7ec50b269/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 44165,
+    "stars": 44178,
     "size_mb": 140,
     "created_at": "2018-12-19T08:24:04Z",
     "last_commit_at": "2026-11-23T16:12:28Z",
@@ -56,11 +59,10 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "ec6658fe10a240751cf956fad1f50e829c12ab0a",
-    "v": 4
-  },
-  "pinned_at": "2026-11-20T14:24:39Z",
+  "pins_before": [
+    "ec6658fe10a240751cf956fad1f50e829c12ab0a"
+  ],
+  "pinned_at": "2026-11-23T16:12:28Z",
   "papers": [
     {
       "id": "arxiv:1906.02569",

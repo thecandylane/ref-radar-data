@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:9dceb4240c12b4cff1da94630d422a3422b39fcf"
+  },
   "id": "gh:apptainer/singularity",
   "kind": "repo",
   "url": "https://github.com/apptainer/singularity",
@@ -42,7 +45,7 @@
   "facts": {
     "lang": "Go",
     "license": "NOASSERTION",
-    "stars": 2630,
+    "stars": 2631,
     "size_mb": 36,
     "created_at": "2015-10-09T22:15:12Z",
     "last_commit_at": "2022-10-10T17:50:28Z",
@@ -71,5 +74,6 @@
   "pack": {
     "sha": "9dceb4240c12b4cff1da94630d422a3422b39fcf",
     "v": 4
-  }
+  },
+  "pinned_at": "2022-10-10T17:50:28Z"
 }

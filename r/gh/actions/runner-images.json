@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:0e63d4f9d2c29043b4cf1d2f40d1812a7cde1369"
-  },
   "id": "gh:actions/runner-images",
   "kind": "repo",
   "url": "https://github.com/actions/runner-images",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/actions/runner-images",
-    "sha": "0e63d4f9d2c29043b4cf1d2f40d1812a7cde1369",
-    "file_url": "https://cdn.jsdelivr.net/gh/actions/runner-images@0e63d4f9d2c29043b4cf1d2f40d1812a7cde1369/{path}"
+    "sha": "1ede08b87c78b9a8871f4761a20f9b5fd94796c4",
+    "file_url": "https://cdn.jsdelivr.net/gh/actions/runner-images@1ede08b87c78b9a8871f4761a20f9b5fd94796c4/{path}"
   },
   "facts": {
     "lang": "PowerShell",
@@ -38,13 +35,13 @@
     "stars": 13630,
     "size_mb": 17,
     "created_at": "2019-06-05T15:02:59Z",
-    "last_commit_at": "2026-11-26T13:02:13Z",
+    "last_commit_at": "2026-11-27T18:41:16Z",
     "releases": 1000,
     "tags": 2489,
     "archived": false,
     "release": {
-      "tag": "macos-26-arm64/20261117.0516",
-      "at": "2026-11-18T11:59:55.000Z"
+      "tag": "win25/20261124.341",
+      "at": "2026-11-25T10:47:46.000Z"
     }
   },
   "reuse": "copy",
@@ -61,9 +58,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "0e63d4f9d2c29043b4cf1d2f40d1812a7cde1369",
-    "v": 4
-  },
-  "pinned_at": "2026-11-20T18:22:29Z"
+  "pins_before": [
+    "0e63d4f9d2c29043b4cf1d2f40d1812a7cde1369"
+  ],
+  "pinned_at": "2026-11-27T18:41:16Z"
 }

@@ -28,22 +28,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/thesysdev/openui",
-    "sha": "039dd484b6420ee1b7801c43fac22eb7f2ad6bc1",
-    "file_url": "https://raw.githubusercontent.com/thesysdev/openui/039dd484b6420ee1b7801c43fac22eb7f2ad6bc1/{path}"
+    "sha": "849cd14bf1f6d82349e15df44250305bc64a7063",
+    "file_url": "https://raw.githubusercontent.com/thesysdev/openui/849cd14bf1f6d82349e15df44250305bc64a7063/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 15542,
-    "size_mb": 468,
+    "stars": 15563,
+    "size_mb": 470,
     "created_at": "2024-12-02T10:40:06Z",
-    "last_commit_at": "2026-11-27T12:32:46Z",
-    "releases": 148,
-    "tags": 148,
+    "last_commit_at": "2026-11-27T12:55:33Z",
+    "releases": 149,
+    "tags": 149,
     "archived": false,
     "release": {
-      "tag": "@openuidev/react-ui@0.20.1",
-      "at": "2026-11-26T14:14:00.000Z"
+      "tag": "@openuidev/channels@0.3.0",
+      "at": "2026-11-27T12:58:16.000Z"
     }
   },
   "reuse": "copy",
@@ -60,8 +60,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "039dd484b6420ee1b7801c43fac22eb7f2ad6bc1",
-    "v": 4
-  }
+  "pins_before": [
+    "039dd484b6420ee1b7801c43fac22eb7f2ad6bc1"
+  ],
+  "pinned_at": "2026-11-27T12:55:33Z"
 }

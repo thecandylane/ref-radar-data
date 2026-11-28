@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ea4158c4f8ec84b4c76db028f0898294817cdf06"
-  },
   "id": "gh:frappe/hrms",
   "kind": "repo",
   "url": "https://github.com/frappe/hrms",
@@ -27,22 +24,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/frappe/hrms",
-    "sha": "ea4158c4f8ec84b4c76db028f0898294817cdf06",
-    "file_url": "https://cdn.jsdelivr.net/gh/frappe/hrms@ea4158c4f8ec84b4c76db028f0898294817cdf06/{path}"
+    "sha": "cbc5ddd926730acf437363368f9387f03366f508",
+    "file_url": "https://cdn.jsdelivr.net/gh/frappe/hrms@cbc5ddd926730acf437363368f9387f03366f508/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "GPL-3.0",
-    "stars": 9121,
+    "stars": 9125,
     "size_mb": 97,
     "created_at": "2022-06-08T14:45:49Z",
-    "last_commit_at": "2026-11-27T05:40:04Z",
-    "releases": 359,
-    "tags": 359,
+    "last_commit_at": "2026-11-27T15:07:15Z",
+    "releases": 361,
+    "tags": 361,
     "archived": false,
     "release": {
-      "tag": "v16.60.0",
-      "at": "2026-11-17T22:27:15.000Z"
+      "tag": "v16.60.1",
+      "at": "2026-11-27T10:48:55.000Z"
     }
   },
   "reuse": "copy",
@@ -53,18 +50,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 34,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "ea4158c4f8ec84b4c76db028f0898294817cdf06",
-    "v": 4
-  },
   "pins_before": [
+    "ea4158c4f8ec84b4c76db028f0898294817cdf06",
     "156b32429fa1fbc6435118e3ca02b044c838286b"
   ],
-  "pinned_at": "2026-11-20T12:36:48Z"
+  "pinned_at": "2026-11-27T15:07:15Z"
 }

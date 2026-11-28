@@ -28,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/tracel-ai/burn",
-    "sha": "f63adccc7ca704779333285ac529d8b3c46cc48c",
-    "file_url": "https://cdn.jsdelivr.net/gh/tracel-ai/burn@f63adccc7ca704779333285ac529d8b3c46cc48c/{path}"
+    "sha": "826be49ab1ad74a6bdea5837653a2700966cfff8",
+    "file_url": "https://cdn.jsdelivr.net/gh/tracel-ai/burn@826be49ab1ad74a6bdea5837653a2700966cfff8/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 16362,
+    "stars": 16365,
     "size_mb": 87,
     "created_at": "2022-07-18T23:11:45Z",
-    "last_commit_at": "2026-11-26T21:22:12Z",
+    "last_commit_at": "2026-11-28T00:16:54Z",
     "releases": 46,
     "tags": 56,
     "archived": false,
@@ -60,8 +60,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "f63adccc7ca704779333285ac529d8b3c46cc48c",
-    "v": 4
-  }
+  "pins_before": [
+    "f63adccc7ca704779333285ac529d8b3c46cc48c"
+  ],
+  "pinned_at": "2026-11-28T00:16:54Z"
 }

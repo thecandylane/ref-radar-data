@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:588d5ff7035e78cd4f69eb798890749ac4641b30"
+  },
   "id": "gh:php-fig/cache",
   "kind": "repo",
   "url": "https://github.com/php-fig/cache",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": "PHP",
     "license": "MIT",
-    "stars": 5172,
+    "stars": 5173,
     "size_mb": 0,
     "created_at": "2015-08-19T12:07:50Z",
     "last_commit_at": "2025-04-11T19:21:12Z",
@@ -54,5 +57,6 @@
   "pack": {
     "sha": "588d5ff7035e78cd4f69eb798890749ac4641b30",
     "v": 4
-  }
+  },
+  "pinned_at": "2025-04-11T19:21:12Z"
 }

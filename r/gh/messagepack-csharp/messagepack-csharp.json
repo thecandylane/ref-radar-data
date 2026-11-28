@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c633b45a2274c7a047a9e6664d039cd34607bd5a"
+  },
   "id": "gh:messagepack-csharp/messagepack-csharp",
   "kind": "repo",
   "url": "https://github.com/MessagePack-CSharp/MessagePack-CSharp",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "C#",
     "license": "NOASSERTION",
-    "stars": 6812,
+    "stars": 6813,
     "size_mb": 17,
     "created_at": "2017-02-13T00:58:41Z",
     "last_commit_at": "2026-11-11T19:06:05Z",
@@ -61,5 +64,6 @@
   "pack": {
     "sha": "c633b45a2274c7a047a9e6664d039cd34607bd5a",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-11T19:06:05Z"
 }

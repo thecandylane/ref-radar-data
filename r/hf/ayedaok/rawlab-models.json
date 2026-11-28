@@ -26,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://huggingface.co/AyedaOk/rawlab-models",
-    "sha": "251b80cf634cc3ad3d2968eeac705f5db39428cc",
-    "file_url": "https://huggingface.co/AyedaOk/rawlab-models/raw/251b80cf634cc3ad3d2968eeac705f5db39428cc/{path}"
+    "sha": "a883174327b694b1297b0e6dd4e95aab4288c057",
+    "file_url": "https://huggingface.co/AyedaOk/rawlab-models/raw/a883174327b694b1297b0e6dd4e95aab4288c057/{path}"
   },
   "facts": {
     "lang": null,
     "license": "NOASSERTION",
     "stars": 0,
-    "size_mb": 1201,
+    "size_mb": 1318,
     "created_at": "2026-08-24T00:21:02.000Z",
-    "last_commit_at": "2026-10-08T21:13:04.000Z",
+    "last_commit_at": "2026-11-27T17:41:16.000Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -56,5 +56,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pinned_at": "2026-10-08T21:13:04.000Z"
+  "pins_before": [
+    "251b80cf634cc3ad3d2968eeac705f5db39428cc"
+  ],
+  "pinned_at": "2026-11-27T17:41:16.000Z"
 }

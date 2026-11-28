@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ea3390819997999a51983677b80b3aac4dc50ada"
+  },
   "id": "gh:handsonllm/hands-on-large-language-models",
   "kind": "repo",
   "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "Jupyter Notebook",
     "license": "Apache-2.0",
-    "stars": 30429,
+    "stars": 30430,
     "size_mb": 13,
     "created_at": "2024-06-28T11:49:46Z",
     "last_commit_at": "2026-04-24T10:20:08Z",
@@ -60,5 +63,6 @@
   "pack": {
     "sha": "ea3390819997999a51983677b80b3aac4dc50ada",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-04-24T10:20:08Z"
 }

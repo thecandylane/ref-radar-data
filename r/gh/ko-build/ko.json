@@ -36,8 +36,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ko-build/ko",
-    "sha": "caaefc6f61be03dffdc114f4ba6ca763ef61003d",
-    "file_url": "https://cdn.jsdelivr.net/gh/ko-build/ko@caaefc6f61be03dffdc114f4ba6ca763ef61003d/{path}"
+    "sha": "739034df3f1bd3a26feaf820d3e1cc84f689289c",
+    "file_url": "https://cdn.jsdelivr.net/gh/ko-build/ko@739034df3f1bd3a26feaf820d3e1cc84f689289c/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -68,12 +68,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "caaefc6f61be03dffdc114f4ba6ca763ef61003d",
-    "v": 4
-  },
   "pins_before": [
+    "caaefc6f61be03dffdc114f4ba6ca763ef61003d",
     "16c8737c7ae9c0d3c865f39d432663103c4d3cb3"
   ],
-  "pinned_at": "2026-11-20T19:43:03Z"
+  "pinned_at": "2026-11-26T16:26:11Z"
 }

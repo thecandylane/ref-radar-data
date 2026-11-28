@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:a194eead0136bb66e5e59e4fdb2e18543e730929"
+  },
   "id": "gh:openjdk/jmh",
   "kind": "repo",
   "url": "https://github.com/openjdk/jmh",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "Java",
     "license": "GPL-2.0",
-    "stars": 2709,
+    "stars": 2710,
     "size_mb": 4,
     "created_at": "2019-05-15T06:47:19Z",
     "last_commit_at": "2026-07-14T14:46:21Z",
@@ -58,5 +61,6 @@
   "pack": {
     "sha": "a194eead0136bb66e5e59e4fdb2e18543e730929",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-07-14T14:46:21Z"
 }

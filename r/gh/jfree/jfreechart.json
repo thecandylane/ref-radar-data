@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:98d9c90b6e0a1e553a506497daaf64a5704a4413"
+  },
   "id": "gh:jfree/jfreechart",
   "kind": "repo",
   "url": "https://github.com/jfree/jfreechart",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": "Java",
     "license": "LGPL-2.1",
-    "stars": 1391,
+    "stars": 1392,
     "size_mb": 30,
     "created_at": "2016-02-01T21:43:12Z",
     "last_commit_at": "2025-06-07T16:20:09Z",
@@ -57,5 +60,6 @@
   "pack": {
     "sha": "98d9c90b6e0a1e553a506497daaf64a5704a4413",
     "v": 4
-  }
+  },
+  "pinned_at": "2025-06-07T16:20:09Z"
 }

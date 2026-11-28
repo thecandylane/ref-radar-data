@@ -28,13 +28,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/solidtime-io/solidtime",
-    "sha": "d0f5e7452f1aeb9ff842395b654e4588af29eac6",
-    "file_url": "https://cdn.jsdelivr.net/gh/solidtime-io/solidtime@d0f5e7452f1aeb9ff842395b654e4588af29eac6/{path}"
+    "sha": "ec74a1d841c7c0016aa20391ff02ea97560adb1d",
+    "file_url": "https://cdn.jsdelivr.net/gh/solidtime-io/solidtime@ec74a1d841c7c0016aa20391ff02ea97560adb1d/{path}"
   },
   "facts": {
     "lang": "PHP",
     "license": "AGPL-3.0",
-    "stars": 9151,
+    "stars": 9152,
     "size_mb": 10,
     "created_at": "2024-01-16T15:30:47Z",
     "last_commit_at": "2026-11-26T18:18:40Z",
@@ -60,9 +60,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "d0f5e7452f1aeb9ff842395b654e4588af29eac6",
-    "v": 4
-  },
-  "pinned_at": "2026-11-19T17:14:40Z"
+  "pins_before": [
+    "d0f5e7452f1aeb9ff842395b654e4588af29eac6"
+  ],
+  "pinned_at": "2026-11-26T18:18:40Z"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:87cc6f98b6a9c5968d7846c0e775ea713bd0d7b2"
-  },
   "id": "gh:electronnet/electron.net",
   "kind": "repo",
   "url": "https://github.com/ElectronNET/Electron.NET",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ElectronNET/Electron.NET",
-    "sha": "87cc6f98b6a9c5968d7846c0e775ea713bd0d7b2",
-    "file_url": "https://cdn.jsdelivr.net/gh/ElectronNET/Electron.NET@87cc6f98b6a9c5968d7846c0e775ea713bd0d7b2/{path}"
+    "sha": "33846107c8f4380881f9f87a4b6a67783eeda1dc",
+    "file_url": "https://cdn.jsdelivr.net/gh/ElectronNET/Electron.NET@33846107c8f4380881f9f87a4b6a67783eeda1dc/{path}"
   },
   "facts": {
     "lang": "C#",
@@ -38,13 +35,13 @@
     "stars": 7601,
     "size_mb": 9,
     "created_at": "2017-10-03T12:30:29Z",
-    "last_commit_at": "2026-09-07T08:00:41Z",
+    "last_commit_at": "2026-11-27T13:09:43Z",
     "releases": 28,
-    "tags": 63,
+    "tags": 64,
     "archived": false,
     "release": {
-      "tag": "0.6.0",
-      "at": "2026-09-07T08:08:48.000Z"
+      "tag": "0.7.0",
+      "at": "2026-11-27T16:43:16.000Z"
     }
   },
   "reuse": "copy",
@@ -61,9 +58,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "87cc6f98b6a9c5968d7846c0e775ea713bd0d7b2",
-    "v": 4
-  },
-  "pinned_at": "2026-09-07T08:00:41Z"
+  "pins_before": [
+    "87cc6f98b6a9c5968d7846c0e775ea713bd0d7b2"
+  ],
+  "pinned_at": "2026-11-27T13:09:43Z"
 }

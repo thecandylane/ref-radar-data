@@ -22,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/netty/netty",
-    "sha": "9bd81544aa5a308d6b5a2efb7a33b0761d82713b",
-    "file_url": "https://cdn.jsdelivr.net/gh/netty/netty@9bd81544aa5a308d6b5a2efb7a33b0761d82713b/{path}"
+    "sha": "8edc19ec545a6624af7df6e298cade5cced1d050",
+    "file_url": "https://cdn.jsdelivr.net/gh/netty/netty@8edc19ec545a6624af7df6e298cade5cced1d050/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 35069,
+    "stars": 35070,
     "size_mb": 119,
     "created_at": "2010-11-09T09:22:21Z",
-    "last_commit_at": "2026-11-26T08:19:08Z",
+    "last_commit_at": "2026-11-27T18:07:43Z",
     "releases": 22,
     "tags": 345,
     "archived": false,
@@ -54,8 +54,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "9bd81544aa5a308d6b5a2efb7a33b0761d82713b",
-    "v": 4
-  }
+  "pins_before": [
+    "9bd81544aa5a308d6b5a2efb7a33b0761d82713b"
+  ],
+  "pinned_at": "2026-11-27T18:07:43Z"
 }

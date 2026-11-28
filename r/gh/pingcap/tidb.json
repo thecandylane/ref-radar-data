@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:d3a10d865e6c7a969641dcb5ca0b60c3353b4b18"
-  },
   "id": "gh:pingcap/tidb",
   "kind": "repo",
   "url": "https://github.com/pingcap/tidb",
@@ -39,18 +36,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/pingcap/tidb",
-    "sha": "d3a10d865e6c7a969641dcb5ca0b60c3353b4b18",
-    "file_url": "https://raw.githubusercontent.com/pingcap/tidb/d3a10d865e6c7a969641dcb5ca0b60c3353b4b18/{path}"
+    "sha": "727915525b98b6fabf74f4455f451cee299f4a75",
+    "file_url": "https://raw.githubusercontent.com/pingcap/tidb/727915525b98b6fabf74f4455f451cee299f4a75/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
     "stars": 40782,
-    "size_mb": 884,
+    "size_mb": 886,
     "created_at": "2015-09-06T04:01:52Z",
-    "last_commit_at": "2026-11-27T09:14:13Z",
+    "last_commit_at": "2026-11-27T12:21:40Z",
     "releases": 217,
-    "tags": 779,
+    "tags": 780,
     "archived": false,
     "release": {
       "tag": "v7.5.8",
@@ -65,18 +62,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 26,
+    "star_delta_7d": 24,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "d3a10d865e6c7a969641dcb5ca0b60c3353b4b18",
-    "v": 4
-  },
   "pins_before": [
+    "d3a10d865e6c7a969641dcb5ca0b60c3353b4b18",
     "39db39aed3049262aaf69bc25278e3761b471d0c"
   ],
-  "pinned_at": "2026-11-20T11:12:39Z"
+  "pinned_at": "2026-11-27T12:21:40Z"
 }

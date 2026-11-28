@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:0b052396b47852c776ef13bb70a18c73c7e61def"
+  },
   "id": "gh:cvat-ai/cvat",
   "kind": "repo",
   "url": "https://github.com/cvat-ai/cvat",
@@ -24,16 +27,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/cvat-ai/cvat",
-    "sha": "68ef35e927a3831cd4736c9866d7e88709b8ee66",
-    "file_url": "https://raw.githubusercontent.com/cvat-ai/cvat/68ef35e927a3831cd4736c9866d7e88709b8ee66/{path}"
+    "sha": "0b052396b47852c776ef13bb70a18c73c7e61def",
+    "file_url": "https://raw.githubusercontent.com/cvat-ai/cvat/0b052396b47852c776ef13bb70a18c73c7e61def/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 17211,
+    "stars": 17223,
     "size_mb": 393,
     "created_at": "2018-06-29T14:02:45Z",
-    "last_commit_at": "2026-11-26T08:06:58Z",
+    "last_commit_at": "2026-11-27T13:26:09Z",
     "releases": 161,
     "tags": 165,
     "archived": false,
@@ -56,8 +59,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "68ef35e927a3831cd4736c9866d7e88709b8ee66",
-    "v": 4
-  }
+  "pins_before": [
+    "68ef35e927a3831cd4736c9866d7e88709b8ee66"
+  ],
+  "pinned_at": "2026-11-27T13:26:09Z"
 }

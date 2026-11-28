@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:eb0c8b95c89f20acc6008b406c71bed1c478641e"
+  },
   "id": "gh:nvm-sh/nvm",
   "kind": "repo",
   "url": "https://github.com/nvm-sh/nvm",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": "Shell",
     "license": "MIT",
-    "stars": 96349,
+    "stars": 96272,
     "size_mb": 5,
     "created_at": "2010-04-15T17:47:47Z",
     "last_commit_at": "2026-11-25T19:13:13Z",
@@ -57,5 +60,6 @@
   "pack": {
     "sha": "eb0c8b95c89f20acc6008b406c71bed1c478641e",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-25T19:13:13Z"
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:259d3700206c0a868f27659aa82ebae9f1ce3b4a"
+  },
   "id": "gh:m1k1o/neko",
   "kind": "repo",
   "url": "https://github.com/m1k1o/neko",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 22730,
+    "stars": 22732,
     "size_mb": 90,
     "created_at": "2020-03-14T20:46:07Z",
     "last_commit_at": "2026-11-26T00:06:30Z",
@@ -63,5 +66,6 @@
   "pack": {
     "sha": "259d3700206c0a868f27659aa82ebae9f1ce3b4a",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-26T00:06:30Z"
 }

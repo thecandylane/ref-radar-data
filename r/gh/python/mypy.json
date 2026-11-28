@@ -24,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/python/mypy",
-    "sha": "1572a18848d181f5cd91877aa3ab4e1644b14f20",
-    "file_url": "https://cdn.jsdelivr.net/gh/python/mypy@1572a18848d181f5cd91877aa3ab4e1644b14f20/{path}"
+    "sha": "8824606acc08f021d481b1a66daa9034246bdd1d",
+    "file_url": "https://cdn.jsdelivr.net/gh/python/mypy@8824606acc08f021d481b1a66daa9034246bdd1d/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -33,7 +33,7 @@
     "stars": 20740,
     "size_mb": 88,
     "created_at": "2012-12-07T13:30:23Z",
-    "last_commit_at": "2026-11-27T09:32:08Z",
+    "last_commit_at": "2026-11-27T15:47:09Z",
     "releases": 0,
     "tags": 118,
     "archived": false,
@@ -47,18 +47,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 10,
+    "star_delta_7d": 8,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "1572a18848d181f5cd91877aa3ab4e1644b14f20",
-    "v": 4
-  },
   "pins_before": [
+    "1572a18848d181f5cd91877aa3ab4e1644b14f20",
     "332915e151c64a804bdd37b08b45700d14b0e219"
   ],
-  "pinned_at": "2026-11-20T15:13:05Z"
+  "pinned_at": "2026-11-27T15:47:09Z"
 }

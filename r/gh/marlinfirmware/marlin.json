@@ -24,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/MarlinFirmware/Marlin",
-    "sha": "d3c269a332a20bbec554300eeff7c96af40874ed",
-    "file_url": "https://cdn.jsdelivr.net/gh/MarlinFirmware/Marlin@d3c269a332a20bbec554300eeff7c96af40874ed/{path}"
+    "sha": "d030b9938a94e3c01280f2222ba77fb874b7f5aa",
+    "file_url": "https://cdn.jsdelivr.net/gh/MarlinFirmware/Marlin@d030b9938a94e3c01280f2222ba77fb874b7f5aa/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "GPL-3.0",
-    "stars": 17683,
+    "stars": 17685,
     "size_mb": 260,
     "created_at": "2011-08-13T08:07:20Z",
-    "last_commit_at": "2026-11-27T00:28:56Z",
+    "last_commit_at": "2026-11-28T08:32:07Z",
     "releases": 106,
     "tags": 126,
     "archived": false,
@@ -56,8 +56,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "d3c269a332a20bbec554300eeff7c96af40874ed",
-    "v": 4
-  }
+  "pins_before": [
+    "d3c269a332a20bbec554300eeff7c96af40874ed"
+  ],
+  "pinned_at": "2026-11-28T08:32:07Z"
 }

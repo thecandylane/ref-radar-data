@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9d0f6d0959861473730bbd19e9fcf2f47a3a44ae"
-  },
   "id": "gh:kubernetes-sigs/kubebuilder",
   "kind": "repo",
   "url": "https://github.com/kubernetes-sigs/kubebuilder",
@@ -33,8 +30,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/kubernetes-sigs/kubebuilder",
-    "sha": "9d0f6d0959861473730bbd19e9fcf2f47a3a44ae",
-    "file_url": "https://cdn.jsdelivr.net/gh/kubernetes-sigs/kubebuilder@9d0f6d0959861473730bbd19e9fcf2f47a3a44ae/{path}"
+    "sha": "fb9595812994480dfa55f268af37200dfc029c05",
+    "file_url": "https://cdn.jsdelivr.net/gh/kubernetes-sigs/kubebuilder@fb9595812994480dfa55f268af37200dfc029c05/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -42,7 +39,7 @@
     "stars": 9384,
     "size_mb": 77,
     "created_at": "2018-03-14T21:26:14Z",
-    "last_commit_at": "2026-11-26T08:18:48Z",
+    "last_commit_at": "2026-11-28T00:08:49Z",
     "releases": 88,
     "tags": 91,
     "archived": false,
@@ -65,13 +62,10 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "9d0f6d0959861473730bbd19e9fcf2f47a3a44ae",
-    "v": 4
-  },
   "pins_before": [
+    "9d0f6d0959861473730bbd19e9fcf2f47a3a44ae",
     "7655742716cc1833ed352d575a31ebfe9ba8f31f",
     "242af8b0bdc7db8b40fce81a565b3680dde0c8d3"
   ],
-  "pinned_at": "2026-11-20T18:22:31Z"
+  "pinned_at": "2026-11-28T00:08:49Z"
 }

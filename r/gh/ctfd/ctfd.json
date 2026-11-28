@@ -22,13 +22,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/CTFd/CTFd",
-    "sha": "f9fa28b2f17b22ec6c631a5b745f47573966f7f2",
-    "file_url": "https://cdn.jsdelivr.net/gh/CTFd/CTFd@f9fa28b2f17b22ec6c631a5b745f47573966f7f2/{path}"
+    "sha": "2a917e925f61682e1fb5fd453772025f7ab8c56d",
+    "file_url": "https://cdn.jsdelivr.net/gh/CTFd/CTFd@2a917e925f61682e1fb5fd453772025f7ab8c56d/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 6931,
+    "stars": 6933,
     "size_mb": 45,
     "created_at": "2015-01-01T05:36:55Z",
     "last_commit_at": "2026-11-26T07:31:58Z",
@@ -54,12 +54,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "f9fa28b2f17b22ec6c631a5b745f47573966f7f2",
-    "v": 4
-  },
   "pins_before": [
+    "f9fa28b2f17b22ec6c631a5b745f47573966f7f2",
     "485d59e7bff790424f093be80ea9f6031b631f2d"
   ],
-  "pinned_at": "2026-11-20T22:30:03Z"
+  "pinned_at": "2026-11-26T07:31:58Z"
 }

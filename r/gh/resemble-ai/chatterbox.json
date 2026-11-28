@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ab55923c27757c90cfcc407baa57dc25a7d25217"
+  },
   "id": "gh:resemble-ai/chatterbox",
   "kind": "repo",
   "url": "https://github.com/resemble-ai/chatterbox",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 28153,
+    "stars": 28174,
     "size_mb": 2,
     "created_at": "2025-04-23T08:16:38Z",
     "last_commit_at": "2026-11-04T18:48:10Z",
@@ -63,5 +66,6 @@
   "pack": {
     "sha": "ab55923c27757c90cfcc407baa57dc25a7d25217",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-04T18:48:10Z"
 }

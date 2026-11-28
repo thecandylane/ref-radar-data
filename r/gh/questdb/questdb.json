@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:fd97aa17b37b50730be6d0634e59ab6bb1f64e88"
-  },
   "id": "gh:questdb/questdb",
   "kind": "repo",
   "url": "https://github.com/questdb/questdb",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/questdb/questdb",
-    "sha": "fd97aa17b37b50730be6d0634e59ab6bb1f64e88",
-    "file_url": "https://raw.githubusercontent.com/questdb/questdb/fd97aa17b37b50730be6d0634e59ab6bb1f64e88/{path}"
+    "sha": "57afa19f8b2feb52d0733a0834004eab1bfd936b",
+    "file_url": "https://raw.githubusercontent.com/questdb/questdb/57afa19f8b2feb52d0733a0834004eab1bfd936b/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 17553,
-    "size_mb": 2190,
+    "stars": 17554,
+    "size_mb": 2201,
     "created_at": "2014-04-28T23:29:15Z",
-    "last_commit_at": "2026-11-26T17:17:09Z",
+    "last_commit_at": "2026-11-27T22:45:37Z",
     "releases": 113,
     "tags": 135,
     "archived": false,
@@ -67,9 +64,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "fd97aa17b37b50730be6d0634e59ab6bb1f64e88",
-    "v": 4
-  },
-  "pinned_at": "2026-11-21T00:18:10Z"
+  "pins_before": [
+    "fd97aa17b37b50730be6d0634e59ab6bb1f64e88"
+  ],
+  "pinned_at": "2026-11-27T22:45:37Z"
 }

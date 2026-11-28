@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:c2a703a4d84aa57ee2722ff8fb4a8016279fb3c4"
+  },
   "id": "gh:moment/moment",
   "kind": "repo",
   "url": "https://github.com/moment/moment",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 47871,
+    "stars": 47869,
     "size_mb": 23,
     "created_at": "2011-03-01T02:46:06Z",
     "last_commit_at": "2026-10-08T16:26:53Z",
@@ -57,5 +60,6 @@
   "pack": {
     "sha": "c2a703a4d84aa57ee2722ff8fb4a8016279fb3c4",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-10-08T16:26:53Z"
 }

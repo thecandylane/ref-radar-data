@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:40cd758a4a4f0178ef22d1f98837734325c4ab07"
+  },
   "id": "gh:intel/intel-one-mono",
   "kind": "repo",
   "url": "https://github.com/intel/intel-one-mono",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": null,
     "license": "OFL-1.1",
-    "stars": 10410,
+    "stars": 11006,
     "size_mb": 25,
     "created_at": "2023-04-11T20:25:19Z",
     "last_commit_at": "2026-11-04T18:02:00Z",
@@ -57,5 +60,6 @@
   "pack": {
     "sha": "40cd758a4a4f0178ef22d1f98837734325c4ab07",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-04T18:02:00Z"
 }

@@ -32,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/pydantic/monty",
-    "sha": "5f4a3dfc493538bb9dc319974393391ba9e7cf14",
-    "file_url": "https://cdn.jsdelivr.net/gh/pydantic/monty@5f4a3dfc493538bb9dc319974393391ba9e7cf14/{path}"
+    "sha": "c15247e472e7dec9833127f5379dd32fff8cfb27",
+    "file_url": "https://cdn.jsdelivr.net/gh/pydantic/monty@c15247e472e7dec9833127f5379dd32fff8cfb27/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MIT",
-    "stars": 9015,
+    "stars": 9084,
     "size_mb": 26,
     "created_at": "2023-05-28T11:13:38Z",
-    "last_commit_at": "2026-11-26T12:57:27Z",
+    "last_commit_at": "2026-11-27T17:49:19Z",
     "releases": 41,
     "tags": 42,
     "archived": false,
@@ -58,18 +58,16 @@
     "pickers": 0,
     "packs": 1,
     "used_30d": 0,
-    "star_delta_7d": 43,
+    "star_delta_7d": 105,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "5f4a3dfc493538bb9dc319974393391ba9e7cf14",
-    "v": 4
-  },
   "pins_before": [
+    "5f4a3dfc493538bb9dc319974393391ba9e7cf14",
     "3f89dcbf82071896efb5e3ded507db4191e8d829"
   ],
-  "pinned_at": "2026-11-20T20:13:24Z"
+  "pinned_at": "2026-11-27T17:49:19Z",
+  "hot": true
 }

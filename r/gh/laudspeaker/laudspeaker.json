@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:26d2699e0a04c7a89dbf8312231c8c7a757c55af"
+  },
   "id": "gh:laudspeaker/laudspeaker",
   "kind": "repo",
   "url": "https://github.com/laudspeaker/laudspeaker",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 2636,
+    "stars": 2638,
     "size_mb": 31,
     "created_at": "2022-10-06T00:43:55Z",
     "last_commit_at": "2026-07-10T17:26:33Z",
@@ -61,5 +64,6 @@
   "pack": {
     "sha": "26d2699e0a04c7a89dbf8312231c8c7a757c55af",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-07-10T17:26:33Z"
 }

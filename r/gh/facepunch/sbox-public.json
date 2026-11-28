@@ -22,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Facepunch/sbox-public",
-    "sha": "1e551e0dcbdc7d120e620d943adba71af037138e",
-    "file_url": "https://cdn.jsdelivr.net/gh/Facepunch/sbox-public@1e551e0dcbdc7d120e620d943adba71af037138e/{path}"
+    "sha": "0bf1527db3c65fed09a41c89509af6a7a24b2410",
+    "file_url": "https://cdn.jsdelivr.net/gh/Facepunch/sbox-public@0bf1527db3c65fed09a41c89509af6a7a24b2410/{path}"
   },
   "facts": {
     "lang": "C#",
     "license": "NOASSERTION",
-    "stars": 6551,
-    "size_mb": 40,
+    "stars": 6555,
+    "size_mb": 45,
     "created_at": "2025-11-24T08:18:33Z",
-    "last_commit_at": "2026-11-25T21:50:49Z",
+    "last_commit_at": "2026-11-28T00:16:36Z",
     "releases": 0,
     "tags": 48,
     "archived": false,
@@ -51,8 +51,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "1e551e0dcbdc7d120e620d943adba71af037138e",
-    "v": 4
-  }
+  "pins_before": [
+    "1e551e0dcbdc7d120e620d943adba71af037138e"
+  ],
+  "pinned_at": "2026-11-28T00:16:36Z"
 }

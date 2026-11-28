@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:4f7ef28ffc8f0404b0fac54ccc214e5a1fdae806"
+  },
   "id": "gh:gaurav-gosain/tuios",
   "kind": "repo",
   "url": "https://github.com/Gaurav-Gosain/tuios",
@@ -46,10 +49,10 @@
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 6835,
-    "size_mb": 185,
+    "stars": 6847,
+    "size_mb": 188,
     "created_at": "2025-09-06T18:13:51Z",
-    "last_commit_at": "2026-11-27T08:38:41Z",
+    "last_commit_at": "2026-11-28T08:52:49Z",
     "releases": 58,
     "tags": 94,
     "archived": false,
@@ -66,7 +69,7 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 247,
     "votes": {},
     "ranks": {}
   },
@@ -79,5 +82,6 @@
   "pins_before": [
     "5480696456ed7c50e1d5462db7d71244bf97e5f4"
   ],
-  "pinned_at": "2026-11-21T08:14:21Z"
+  "pinned_at": "2026-11-21T08:14:21Z",
+  "hot": true
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:17cbd0b0c9fad101aa03fe0a45035e98e917640c"
+  },
   "id": "gh:paulmillr/noble-hashes",
   "kind": "repo",
   "url": "https://github.com/paulmillr/noble-hashes",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 946,
+    "stars": 949,
     "size_mb": 16,
     "created_at": "2021-10-06T18:39:37Z",
     "last_commit_at": "2026-09-08T10:19:19Z",
@@ -57,5 +60,6 @@
   "pack": {
     "sha": "17cbd0b0c9fad101aa03fe0a45035e98e917640c",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-09-08T10:19:19Z"
 }

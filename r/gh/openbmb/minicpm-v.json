@@ -24,8 +24,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/OpenBMB/MiniCPM-V",
-    "sha": "4dbbb6c58b6f8a004d6689028417296719f0831a",
-    "file_url": "https://raw.githubusercontent.com/OpenBMB/MiniCPM-V/4dbbb6c58b6f8a004d6689028417296719f0831a/{path}"
+    "sha": "c338612890a93889f08be0155c62706c6e4d00ef",
+    "file_url": "https://raw.githubusercontent.com/OpenBMB/MiniCPM-V/c338612890a93889f08be0155c62706c6e4d00ef/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -33,7 +33,7 @@
     "stars": 27209,
     "size_mb": 796,
     "created_at": "2024-01-29T05:30:33Z",
-    "last_commit_at": "2026-11-09T07:37:28Z",
+    "last_commit_at": "2026-11-27T14:49:39Z",
     "releases": 1,
     "tags": 1,
     "archived": false,
@@ -56,10 +56,10 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "4dbbb6c58b6f8a004d6689028417296719f0831a",
-    "v": 4
-  },
+  "pins_before": [
+    "4dbbb6c58b6f8a004d6689028417296719f0831a"
+  ],
+  "pinned_at": "2026-11-27T14:49:39Z",
   "papers": [
     {
       "id": "arxiv:2408.01800",

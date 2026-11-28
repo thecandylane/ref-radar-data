@@ -28,18 +28,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/apache/groovy",
-    "sha": "40d90fabe32f4d38aa60f1ed410192260f844282",
-    "file_url": "https://cdn.jsdelivr.net/gh/apache/groovy@40d90fabe32f4d38aa60f1ed410192260f844282/{path}"
+    "sha": "d108274c11dda1f125e157d221fd0dcc27883fd8",
+    "file_url": "https://cdn.jsdelivr.net/gh/apache/groovy@d108274c11dda1f125e157d221fd0dcc27883fd8/{path}"
   },
   "facts": {
     "lang": "Groovy",
     "license": "Apache-2.0",
-    "stars": 5490,
-    "size_mb": 337,
+    "stars": 5493,
+    "size_mb": 340,
     "created_at": "2015-04-16T07:00:05Z",
-    "last_commit_at": "2026-11-25T22:11:48Z",
+    "last_commit_at": "2026-11-27T04:10:15Z",
     "releases": 0,
-    "tags": 316,
+    "tags": 318,
     "archived": false,
     "release": null
   },
@@ -57,8 +57,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "40d90fabe32f4d38aa60f1ed410192260f844282",
-    "v": 4
-  }
+  "pins_before": [
+    "40d90fabe32f4d38aa60f1ed410192260f844282"
+  ],
+  "pinned_at": "2026-11-27T04:10:15Z"
 }

@@ -36,8 +36,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/wpscanteam/wpscan",
-    "sha": "173916e12fbfce67bea2b12bb5f50730f8efbf53",
-    "file_url": "https://cdn.jsdelivr.net/gh/wpscanteam/wpscan@173916e12fbfce67bea2b12bb5f50730f8efbf53/{path}"
+    "sha": "01377491da3c2115aa2b3b54fe8714f422269aa0",
+    "file_url": "https://cdn.jsdelivr.net/gh/wpscanteam/wpscan@01377491da3c2115aa2b3b54fe8714f422269aa0/{path}"
   },
   "facts": {
     "lang": "Ruby",
@@ -68,12 +68,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "173916e12fbfce67bea2b12bb5f50730f8efbf53",
-    "v": 4
-  },
   "pins_before": [
+    "173916e12fbfce67bea2b12bb5f50730f8efbf53",
     "3c528bae8c284d6cbef6b11841b8b73fd4d4a115"
   ],
-  "pinned_at": "2026-11-19T20:55:21Z"
+  "pinned_at": "2026-11-24T16:33:20Z"
 }

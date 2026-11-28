@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:daddf7b65535a4f7c670793ff4a2df2f17e2e4ae"
+  },
   "id": "gh:carltongibson/django-filter",
   "kind": "repo",
   "url": "https://github.com/carltongibson/django-filter",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 4689,
+    "stars": 4690,
     "size_mb": 3,
     "created_at": "2009-01-30T00:35:57Z",
     "last_commit_at": "2026-10-03T11:52:30Z",
@@ -57,5 +60,6 @@
   "pack": {
     "sha": "daddf7b65535a4f7c670793ff4a2df2f17e2e4ae",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-10-03T11:52:30Z"
 }

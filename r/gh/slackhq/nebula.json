@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:7876efaaf499061109ca888f6ad4f197140087b8"
-  },
   "id": "gh:slackhq/nebula",
   "kind": "repo",
   "url": "https://github.com/slackhq/nebula",
@@ -29,13 +26,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/slackhq/nebula",
-    "sha": "7876efaaf499061109ca888f6ad4f197140087b8",
-    "file_url": "https://cdn.jsdelivr.net/gh/slackhq/nebula@7876efaaf499061109ca888f6ad4f197140087b8/{path}"
+    "sha": "12d7350d654b578b433f5f7b29ec52b242da9068",
+    "file_url": "https://cdn.jsdelivr.net/gh/slackhq/nebula@12d7350d654b578b433f5f7b29ec52b242da9068/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 18575,
+    "stars": 18580,
     "size_mb": 6,
     "created_at": "2019-11-16T23:26:23Z",
     "last_commit_at": "2026-11-24T15:16:31Z",
@@ -55,18 +52,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 28,
+    "star_delta_7d": 34,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "7876efaaf499061109ca888f6ad4f197140087b8",
-    "v": 4
-  },
   "pins_before": [
+    "7876efaaf499061109ca888f6ad4f197140087b8",
     "d4e6b160916c848c3a52f5cc0c1255990481ffb5"
   ],
-  "pinned_at": "2026-11-19T14:18:10Z"
+  "pinned_at": "2026-11-24T15:16:31Z"
 }

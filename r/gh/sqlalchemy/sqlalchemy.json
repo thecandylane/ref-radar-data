@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:9c88919beb770ff0b14deab7e914ff7aaa5c4bd2"
+  },
   "id": "gh:sqlalchemy/sqlalchemy",
   "kind": "repo",
   "url": "https://github.com/sqlalchemy/sqlalchemy",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 12312,
+    "stars": 12315,
     "size_mb": 102,
     "created_at": "2018-11-27T03:35:03Z",
     "last_commit_at": "2026-11-24T14:27:02Z",
@@ -61,5 +64,6 @@
   "pack": {
     "sha": "9c88919beb770ff0b14deab7e914ff7aaa5c4bd2",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-24T14:27:02Z"
 }

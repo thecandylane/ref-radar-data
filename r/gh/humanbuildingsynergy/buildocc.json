@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:0db5686aa73bdbf303650b29850996597fa1fbf6"
+  },
   "id": "gh:humanbuildingsynergy/buildocc",
   "kind": "repo",
   "url": "https://github.com/humanbuildingsynergy/BuildOcc",
@@ -46,7 +49,12 @@
       "tag": "v1.0.1",
       "at": "2026-09-02T13:43:45.000Z"
     },
-    "doi": "10.5281/zenodo.21192894"
+    "doi": "10.5281/zenodo.21192894",
+    "citations": {
+      "count": 2,
+      "by": "DataCite",
+      "at": "2026-11-28"
+    }
   },
   "reuse": "copy",
   "maturity": "new",
@@ -66,6 +74,7 @@
     "sha": "0db5686aa73bdbf303650b29850996597fa1fbf6",
     "v": 4
   },
+  "pinned_at": "2026-09-25T15:34:22Z",
   "papers": [
     {
       "id": "arxiv:2609.02729",

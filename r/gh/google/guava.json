@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:cdb3863e02e9e728848727b3c132f94f8c22cd26"
+  },
   "id": "gh:google/guava",
   "kind": "repo",
   "url": "https://github.com/google/guava",
@@ -24,7 +27,7 @@
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 51929,
+    "stars": 51933,
     "size_mb": 1410,
     "created_at": "2014-05-29T16:23:17Z",
     "last_commit_at": "2026-11-26T01:29:47Z",
@@ -53,5 +56,6 @@
   "pack": {
     "sha": "cdb3863e02e9e728848727b3c132f94f8c22cd26",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-26T01:29:47Z"
 }

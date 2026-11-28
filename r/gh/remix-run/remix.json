@@ -28,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/remix-run/remix",
-    "sha": "ab07c1d894e74e5f12a38fd8d4f71e5a543ca9fc",
-    "file_url": "https://raw.githubusercontent.com/remix-run/remix/ab07c1d894e74e5f12a38fd8d4f71e5a543ca9fc/{path}"
+    "sha": "382477df9c2da85883026dd5121baadaa1b5e0cc",
+    "file_url": "https://raw.githubusercontent.com/remix-run/remix/382477df9c2da85883026dd5121baadaa1b5e0cc/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 33476,
+    "stars": 33495,
     "size_mb": 734,
     "created_at": "2020-10-26T19:57:28Z",
-    "last_commit_at": "2026-11-26T06:27:05Z",
+    "last_commit_at": "2026-11-28T05:55:14Z",
     "releases": 865,
     "tags": 2303,
     "archived": false,
@@ -60,8 +60,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "ab07c1d894e74e5f12a38fd8d4f71e5a543ca9fc",
-    "v": 4
-  }
+  "pins_before": [
+    "ab07c1d894e74e5f12a38fd8d4f71e5a543ca9fc"
+  ],
+  "pinned_at": "2026-11-28T05:55:14Z"
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:dfb907a02bba8152ca444717ca5d78747ccb4bec"
+  },
   "id": "gh:hexgrad/kokoro",
   "kind": "repo",
   "url": "https://github.com/hexgrad/kokoro",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "JavaScript",
     "license": "Apache-2.0",
-    "stars": 10408,
+    "stars": 10433,
     "size_mb": 28,
     "created_at": "2025-01-10T21:37:05Z",
     "last_commit_at": "2025-08-06T22:28:53Z",
@@ -58,5 +61,6 @@
   "pack": {
     "sha": "dfb907a02bba8152ca444717ca5d78747ccb4bec",
     "v": 4
-  }
+  },
+  "pinned_at": "2025-08-06T22:28:53Z"
 }

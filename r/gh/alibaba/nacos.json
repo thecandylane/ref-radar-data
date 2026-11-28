@@ -26,22 +26,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/alibaba/nacos",
-    "sha": "9a5c29a48f453630e6e49aa8223551a423220f00",
-    "file_url": "https://cdn.jsdelivr.net/gh/alibaba/nacos@9a5c29a48f453630e6e49aa8223551a423220f00/{path}"
+    "sha": "a82b95acd29f0a69c6701b4c7d9e68d423c58458",
+    "file_url": "https://cdn.jsdelivr.net/gh/alibaba/nacos@a82b95acd29f0a69c6701b4c7d9e68d423c58458/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 33544,
+    "stars": 33548,
     "size_mb": 112,
     "created_at": "2018-06-15T06:49:27Z",
-    "last_commit_at": "2026-11-26T11:54:08Z",
-    "releases": 103,
-    "tags": 106,
+    "last_commit_at": "2026-11-27T05:33:31Z",
+    "releases": 104,
+    "tags": 107,
     "archived": false,
     "release": {
-      "tag": "3.3.0",
-      "at": "2026-10-29T11:07:05.000Z"
+      "tag": "3.3.1",
+      "at": "2026-11-27T08:06:20.000Z"
     }
   },
   "reuse": "copy",
@@ -58,8 +58,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "9a5c29a48f453630e6e49aa8223551a423220f00",
-    "v": 4
-  }
+  "pins_before": [
+    "9a5c29a48f453630e6e49aa8223551a423220f00"
+  ],
+  "pinned_at": "2026-11-27T05:33:31Z"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:ad20ded62a2d67a26e501fdc1905f43ba7ad6c81"
-  },
   "id": "gh:espressif/esp-idf",
   "kind": "repo",
   "url": "https://github.com/espressif/esp-idf",
@@ -25,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/espressif/esp-idf",
-    "sha": "ad20ded62a2d67a26e501fdc1905f43ba7ad6c81",
-    "file_url": "https://raw.githubusercontent.com/espressif/esp-idf/ad20ded62a2d67a26e501fdc1905f43ba7ad6c81/{path}"
+    "sha": "66f6a91dae393b6432ccfc809c8a5e20bee5798d",
+    "file_url": "https://raw.githubusercontent.com/espressif/esp-idf/66f6a91dae393b6432ccfc809c8a5e20bee5798d/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "Apache-2.0",
-    "stars": 19619,
-    "size_mb": 457,
+    "stars": 19625,
+    "size_mb": 461,
     "created_at": "2016-08-17T10:40:35Z",
-    "last_commit_at": "2026-11-15T14:41:11Z",
+    "last_commit_at": "2026-11-27T13:38:13Z",
     "releases": 167,
     "tags": 197,
     "archived": false,
@@ -51,19 +48,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 68,
+    "star_delta_7d": 69,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "ad20ded62a2d67a26e501fdc1905f43ba7ad6c81",
-    "v": 4
-  },
   "pins_before": [
+    "ad20ded62a2d67a26e501fdc1905f43ba7ad6c81",
     "827cc6229fb01c6ecf6362b4840ef27d62d2138e"
   ],
-  "pinned_at": "2026-11-15T14:41:11Z",
+  "pinned_at": "2026-11-27T13:38:13Z",
   "hot": true
 }

@@ -28,14 +28,14 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/reflex-dev/reflex",
-    "sha": "df7f1571ec6a2e7f814e472199ad2dd03b973c2c",
-    "file_url": "https://cdn.jsdelivr.net/gh/reflex-dev/reflex@df7f1571ec6a2e7f814e472199ad2dd03b973c2c/{path}"
+    "sha": "6f5c39caccff287453de94b41ed6af9a3cc6f0f9",
+    "file_url": "https://cdn.jsdelivr.net/gh/reflex-dev/reflex@6f5c39caccff287453de94b41ed6af9a3cc6f0f9/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
     "stars": 29051,
-    "size_mb": 219,
+    "size_mb": 222,
     "created_at": "2022-10-25T03:08:48Z",
     "last_commit_at": "2026-11-26T01:14:04Z",
     "releases": 463,
@@ -60,12 +60,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "df7f1571ec6a2e7f814e472199ad2dd03b973c2c",
-    "v": 4
-  },
   "pins_before": [
+    "df7f1571ec6a2e7f814e472199ad2dd03b973c2c",
     "a3934877169548226f68b38d1fbfa7cc000eb3ff"
   ],
-  "pinned_at": "2026-11-20T19:09:37Z"
+  "pinned_at": "2026-11-26T01:14:04Z"
 }

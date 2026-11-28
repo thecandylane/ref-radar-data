@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5513abc4df1f20a02bb810849477b64c989c3160"
-  },
   "id": "gh:prefecthq/prefect",
   "kind": "repo",
   "url": "https://github.com/PrefectHQ/prefect",
@@ -29,18 +26,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/PrefectHQ/prefect",
-    "sha": "5513abc4df1f20a02bb810849477b64c989c3160",
-    "file_url": "https://cdn.jsdelivr.net/gh/PrefectHQ/prefect@5513abc4df1f20a02bb810849477b64c989c3160/{path}"
+    "sha": "53237ab29d52cc1c9faa2b41c51fc7163ecdf61d",
+    "file_url": "https://cdn.jsdelivr.net/gh/PrefectHQ/prefect@53237ab29d52cc1c9faa2b41c51fc7163ecdf61d/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 24251,
+    "stars": 24255,
     "size_mb": 251,
     "created_at": "2018-06-29T21:59:26Z",
-    "last_commit_at": "2026-11-25T22:14:24Z",
-    "releases": 959,
-    "tags": 1355,
+    "last_commit_at": "2026-11-28T04:07:34Z",
+    "releases": 960,
+    "tags": 1356,
     "archived": false,
     "release": {
       "tag": "3.9.5",
@@ -55,19 +52,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 59,
+    "star_delta_7d": 53,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "5513abc4df1f20a02bb810849477b64c989c3160",
-    "v": 4
-  },
   "pins_before": [
+    "5513abc4df1f20a02bb810849477b64c989c3160",
     "5cf5adc41e7d21f6c32f49a1443ac0441c6fd44c"
   ],
-  "pinned_at": "2026-11-20T22:27:52Z",
+  "pinned_at": "2026-11-28T04:07:34Z",
   "hot": true
 }

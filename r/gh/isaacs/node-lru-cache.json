@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:7e71a1f3babdc68dfbadde91f28eaeea919dad9b"
+  },
   "id": "gh:isaacs/node-lru-cache",
   "kind": "repo",
   "url": "https://github.com/isaacs/node-lru-cache",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": "JavaScript",
     "license": "BlueOak-1.0.0",
-    "stars": 5918,
+    "stars": 5920,
     "size_mb": 2,
     "created_at": "2010-05-21T21:00:58Z",
     "last_commit_at": "2026-09-18T23:44:47Z",
@@ -54,5 +57,6 @@
   "pack": {
     "sha": "7e71a1f3babdc68dfbadde91f28eaeea919dad9b",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-09-18T23:44:47Z"
 }

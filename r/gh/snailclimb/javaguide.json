@@ -24,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/Snailclimb/JavaGuide",
-    "sha": "992dae31eade2a34ba8dbbbcf5ed9de5511325ec",
-    "file_url": "https://cdn.jsdelivr.net/gh/Snailclimb/JavaGuide@992dae31eade2a34ba8dbbbcf5ed9de5511325ec/{path}"
+    "sha": "a67570a0ae7ec262a942c01bb9238f4cf3999b24",
+    "file_url": "https://cdn.jsdelivr.net/gh/Snailclimb/JavaGuide@a67570a0ae7ec262a942c01bb9238f4cf3999b24/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "Apache-2.0",
-    "stars": 159686,
-    "size_mb": 179,
+    "stars": 159697,
+    "size_mb": 180,
     "created_at": "2018-05-07T13:27:00Z",
-    "last_commit_at": "2026-10-25T11:47:10Z",
+    "last_commit_at": "2026-11-27T13:17:09Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -53,8 +53,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "992dae31eade2a34ba8dbbbcf5ed9de5511325ec",
-    "v": 4
-  }
+  "pins_before": [
+    "992dae31eade2a34ba8dbbbcf5ed9de5511325ec"
+  ],
+  "pinned_at": "2026-11-27T13:17:09Z"
 }

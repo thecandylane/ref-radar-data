@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:3e92048f628971d0ed24b512740fae82ed6376c5"
-  },
   "id": "gh:geopandas/geopandas",
   "kind": "repo",
   "url": "https://github.com/geopandas/geopandas",
@@ -25,8 +22,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/geopandas/geopandas",
-    "sha": "3e92048f628971d0ed24b512740fae82ed6376c5",
-    "file_url": "https://cdn.jsdelivr.net/gh/geopandas/geopandas@3e92048f628971d0ed24b512740fae82ed6376c5/{path}"
+    "sha": "d6ff79e9f91f60c463c72fe864a79752f9811d71",
+    "file_url": "https://cdn.jsdelivr.net/gh/geopandas/geopandas@d6ff79e9f91f60c463c72fe864a79752f9811d71/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -51,19 +48,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 9,
+    "star_delta_7d": 7,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "3e92048f628971d0ed24b512740fae82ed6376c5",
-    "v": 4
-  },
   "pins_before": [
+    "3e92048f628971d0ed24b512740fae82ed6376c5",
     "f596bc16071809a3e86c550fb3a9158c9bae5292",
     "ead9a4fe380b3e5cb189fca03328af4e1db5fa33"
   ],
-  "pinned_at": "2026-11-19T20:04:07Z"
+  "pinned_at": "2026-11-23T20:32:09Z"
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b6487568afcf0614ab00488499ab2a3af1e32c89"
+  },
   "id": "gh:pierrec/lz4",
   "kind": "repo",
   "url": "https://github.com/pierrec/lz4",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "Go",
     "license": "BSD-3-Clause",
-    "stars": 974,
+    "stars": 975,
     "size_mb": 75,
     "created_at": "2015-03-14T17:21:06Z",
     "last_commit_at": "2026-11-27T02:22:50Z",
@@ -61,5 +64,6 @@
   "pack": {
     "sha": "b6487568afcf0614ab00488499ab2a3af1e32c89",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-27T02:22:50Z"
 }

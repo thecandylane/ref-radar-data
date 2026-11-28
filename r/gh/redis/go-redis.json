@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:7eca3a191d2cf944d591123a95cd8d010b85925c"
-  },
   "id": "gh:redis/go-redis",
   "kind": "repo",
   "url": "https://github.com/redis/go-redis",
@@ -29,8 +26,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/redis/go-redis",
-    "sha": "7eca3a191d2cf944d591123a95cd8d010b85925c",
-    "file_url": "https://cdn.jsdelivr.net/gh/redis/go-redis@7eca3a191d2cf944d591123a95cd8d010b85925c/{path}"
+    "sha": "2337759de06720b583f970bf0da84dcab8885408",
+    "file_url": "https://cdn.jsdelivr.net/gh/redis/go-redis@2337759de06720b583f970bf0da84dcab8885408/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -38,13 +35,13 @@
     "stars": 22292,
     "size_mb": 23,
     "created_at": "2012-07-25T13:01:39Z",
-    "last_commit_at": "2026-11-26T15:44:06Z",
-    "releases": 75,
-    "tags": 555,
+    "last_commit_at": "2026-11-28T07:52:48Z",
+    "releases": 76,
+    "tags": 561,
     "archived": false,
     "release": {
-      "tag": "v9.24.0",
-      "at": "2026-11-24T11:50:39.000Z"
+      "tag": "v9.24.1",
+      "at": "2026-11-27T13:53:16.000Z"
     }
   },
   "reuse": "copy",
@@ -55,18 +52,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": -2,
+    "star_delta_7d": -1,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "7eca3a191d2cf944d591123a95cd8d010b85925c",
-    "v": 4
-  },
   "pins_before": [
+    "7eca3a191d2cf944d591123a95cd8d010b85925c",
     "7420be752c7e45ce49d16a10e227cfe1ebcb0328"
   ],
-  "pinned_at": "2026-11-20T13:44:53Z"
+  "pinned_at": "2026-11-28T07:52:48Z"
 }

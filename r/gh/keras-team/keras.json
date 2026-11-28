@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:e1705782f99a692cd5b5aef181590f69342847c2"
+    "swh": "swh:1:rev:769752132143bc2601207b20941f1ac711bb9357"
   },
   "id": "gh:keras-team/keras",
   "kind": "repo",
@@ -27,13 +27,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/keras-team/keras",
-    "sha": "e1705782f99a692cd5b5aef181590f69342847c2",
-    "file_url": "https://cdn.jsdelivr.net/gh/keras-team/keras@e1705782f99a692cd5b5aef181590f69342847c2/{path}"
+    "sha": "769752132143bc2601207b20941f1ac711bb9357",
+    "file_url": "https://cdn.jsdelivr.net/gh/keras-team/keras@769752132143bc2601207b20941f1ac711bb9357/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 64456,
+    "stars": 64454,
     "size_mb": 58,
     "created_at": "2015-03-28T00:35:42Z",
     "last_commit_at": "2026-11-26T05:31:43Z",
@@ -53,18 +53,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 8,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "e1705782f99a692cd5b5aef181590f69342847c2",
-    "v": 4
-  },
   "pins_before": [
+    "e1705782f99a692cd5b5aef181590f69342847c2",
     "a8c8a995833ee1fcbe751c568b1a547d5dbd4860"
   ],
-  "pinned_at": "2026-11-20T23:54:36Z"
+  "pinned_at": "2026-11-26T05:31:43Z"
 }

@@ -36,16 +36,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/higress-group/higress",
-    "sha": "879a65125c13b0b38ee2d972f205ce0908514107",
-    "file_url": "https://cdn.jsdelivr.net/gh/higress-group/higress@879a65125c13b0b38ee2d972f205ce0908514107/{path}"
+    "sha": "e41d82d23e099b823cbdb4fc041cfc5fe26b5a3f",
+    "file_url": "https://cdn.jsdelivr.net/gh/higress-group/higress@e41d82d23e099b823cbdb4fc041cfc5fe26b5a3f/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 9857,
+    "stars": 9872,
     "size_mb": 43,
     "created_at": "2022-10-27T03:53:00Z",
-    "last_commit_at": "2026-11-26T09:20:13Z",
+    "last_commit_at": "2026-11-28T01:26:48Z",
     "releases": 72,
     "tags": 84,
     "archived": false,
@@ -68,8 +68,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "879a65125c13b0b38ee2d972f205ce0908514107",
-    "v": 4
-  }
+  "pins_before": [
+    "879a65125c13b0b38ee2d972f205ce0908514107"
+  ],
+  "pinned_at": "2026-11-28T01:26:48Z"
 }

@@ -24,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/tradermonty/claude-trading-skills",
-    "sha": "1fd5da2949a56170369a0aa639da0488f2b21750",
-    "file_url": "https://cdn.jsdelivr.net/gh/tradermonty/claude-trading-skills@1fd5da2949a56170369a0aa639da0488f2b21750/{path}"
+    "sha": "58108806bb46b39cc6ea1995d975bc97681eaa2f",
+    "file_url": "https://cdn.jsdelivr.net/gh/tradermonty/claude-trading-skills@58108806bb46b39cc6ea1995d975bc97681eaa2f/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 8527,
-    "size_mb": 74,
+    "stars": 8776,
+    "size_mb": 76,
     "created_at": "2025-10-19T16:37:29Z",
-    "last_commit_at": "2026-11-26T07:39:01Z",
+    "last_commit_at": "2026-11-28T06:57:57Z",
     "releases": 0,
     "tags": 0,
     "archived": false,
@@ -53,8 +53,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "1fd5da2949a56170369a0aa639da0488f2b21750",
-    "v": 4
-  }
+  "pins_before": [
+    "1fd5da2949a56170369a0aa639da0488f2b21750"
+  ],
+  "pinned_at": "2026-11-28T06:57:57Z"
 }

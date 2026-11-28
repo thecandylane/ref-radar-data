@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9534a668e3bd53f9c08aa5b8d2d77f409ccd09d4"
-  },
   "id": "gh:dayuanjiang/next-ai-draw-io",
   "kind": "repo",
   "url": "https://github.com/DayuanJiang/next-ai-draw-io",
@@ -45,22 +42,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/DayuanJiang/next-ai-draw-io",
-    "sha": "9534a668e3bd53f9c08aa5b8d2d77f409ccd09d4",
-    "file_url": "https://cdn.jsdelivr.net/gh/DayuanJiang/next-ai-draw-io@9534a668e3bd53f9c08aa5b8d2d77f409ccd09d4/{path}"
+    "sha": "75f0df30663aa26d9c65c1b9563e2db1a597924f",
+    "file_url": "https://cdn.jsdelivr.net/gh/DayuanJiang/next-ai-draw-io@75f0df30663aa26d9c65c1b9563e2db1a597924f/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 37209,
-    "size_mb": 13,
+    "stars": 37220,
+    "size_mb": 14,
     "created_at": "2025-03-23T15:03:48Z",
-    "last_commit_at": "2026-11-14T00:13:43Z",
-    "releases": 20,
-    "tags": 20,
+    "last_commit_at": "2026-11-28T04:10:30Z",
+    "releases": 21,
+    "tags": 21,
     "archived": false,
     "release": {
-      "tag": "v0.5.1",
-      "at": "2026-10-31T02:25:35.000Z"
+      "tag": "v0.5.2",
+      "at": "2026-11-28T04:12:28.000Z"
     }
   },
   "reuse": "copy",
@@ -77,9 +74,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "9534a668e3bd53f9c08aa5b8d2d77f409ccd09d4",
-    "v": 4
-  },
-  "pinned_at": "2026-11-14T00:13:43Z"
+  "pins_before": [
+    "9534a668e3bd53f9c08aa5b8d2d77f409ccd09d4"
+  ],
+  "pinned_at": "2026-11-28T04:10:30Z"
 }

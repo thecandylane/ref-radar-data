@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:f041b70191850639c054a8e4edcae4e106e89622"
-  },
   "id": "gh:berriai/litellm",
   "kind": "repo",
   "url": "https://github.com/BerriAI/litellm",
@@ -28,18 +25,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/BerriAI/litellm",
-    "sha": "f041b70191850639c054a8e4edcae4e106e89622",
-    "file_url": "https://raw.githubusercontent.com/BerriAI/litellm/f041b70191850639c054a8e4edcae4e106e89622/{path}"
+    "sha": "3261387b34b9ff475ab10c0a502f4c236f96d305",
+    "file_url": "https://raw.githubusercontent.com/BerriAI/litellm/3261387b34b9ff475ab10c0a502f4c236f96d305/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 64004,
-    "size_mb": 3197,
+    "stars": 64057,
+    "size_mb": 3207,
     "created_at": "2023-07-27T00:09:52Z",
-    "last_commit_at": "2026-11-27T08:19:33Z",
+    "last_commit_at": "2026-11-28T08:34:35Z",
     "releases": 1000,
-    "tags": 1678,
+    "tags": 1679,
     "archived": false,
     "release": {
       "tag": "v1.111.0",
@@ -54,19 +51,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 408,
+    "star_delta_7d": 415,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "f041b70191850639c054a8e4edcae4e106e89622",
-    "v": 4
-  },
   "pins_before": [
+    "f041b70191850639c054a8e4edcae4e106e89622",
     "7e4ad6eb333071d67c2eb03ce6468f89a0855027"
   ],
-  "pinned_at": "2026-11-19T09:01:40Z",
+  "pinned_at": "2026-11-28T08:34:35Z",
   "hot": true
 }

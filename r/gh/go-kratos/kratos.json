@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:56cfd65deee99fe63559d2f875ea6723191b1507"
+  },
   "id": "gh:go-kratos/kratos",
   "kind": "repo",
   "url": "https://github.com/go-kratos/kratos",
@@ -40,7 +43,7 @@
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 26049,
+    "stars": 26052,
     "size_mb": 10,
     "created_at": "2019-01-10T10:42:31Z",
     "last_commit_at": "2026-11-23T03:21:33Z",
@@ -69,5 +72,6 @@
   "pack": {
     "sha": "56cfd65deee99fe63559d2f875ea6723191b1507",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-23T03:21:33Z"
 }

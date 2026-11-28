@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5db2e62884d91f3ed3b43ec55904737e4051e9d7"
-  },
   "id": "gh:sqlmapproject/sqlmap",
   "kind": "repo",
   "url": "https://github.com/sqlmapproject/sqlmap",
@@ -35,13 +32,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/sqlmapproject/sqlmap",
-    "sha": "5db2e62884d91f3ed3b43ec55904737e4051e9d7",
-    "file_url": "https://cdn.jsdelivr.net/gh/sqlmapproject/sqlmap@5db2e62884d91f3ed3b43ec55904737e4051e9d7/{path}"
+    "sha": "c9fbd7a34c5df37fcf10f153fd8eb9d04d35b7f1",
+    "file_url": "https://cdn.jsdelivr.net/gh/sqlmapproject/sqlmap@c9fbd7a34c5df37fcf10f153fd8eb9d04d35b7f1/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 39063,
+    "stars": 39069,
     "size_mb": 96,
     "created_at": "2012-06-26T09:52:15Z",
     "last_commit_at": "2026-11-24T19:02:18Z",
@@ -67,13 +64,10 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "5db2e62884d91f3ed3b43ec55904737e4051e9d7",
-    "v": 4
-  },
   "pins_before": [
+    "5db2e62884d91f3ed3b43ec55904737e4051e9d7",
     "cb5216564aa94f3f2f64dad732cf3edc2d762081"
   ],
-  "pinned_at": "2026-11-19T14:06:30Z",
+  "pinned_at": "2026-11-24T19:02:18Z",
   "hot": true
 }

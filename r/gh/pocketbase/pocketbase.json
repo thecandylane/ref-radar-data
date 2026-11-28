@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:7f2773ec234b62d0b80ca47c508397cb3d0da3ea"
+  },
   "id": "gh:pocketbase/pocketbase",
   "kind": "repo",
   "url": "https://github.com/pocketbase/pocketbase",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "Go",
     "license": "MIT",
-    "stars": 61583,
+    "stars": 61592,
     "size_mb": 144,
     "created_at": "2022-07-05T06:06:21Z",
     "last_commit_at": "2026-10-26T18:07:11Z",
@@ -63,5 +66,6 @@
   "pack": {
     "sha": "7f2773ec234b62d0b80ca47c508397cb3d0da3ea",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-10-26T18:07:11Z"
 }

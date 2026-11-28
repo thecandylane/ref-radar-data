@@ -24,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/huggingface/pytorch-image-models",
-    "sha": "b4f423c19f778672f875e0948f296322c775f24b",
-    "file_url": "https://cdn.jsdelivr.net/gh/huggingface/pytorch-image-models@b4f423c19f778672f875e0948f296322c775f24b/{path}"
+    "sha": "36ca667d8f8bd8bbd28a4e2b0bf33aa88cd1bee0",
+    "file_url": "https://cdn.jsdelivr.net/gh/huggingface/pytorch-image-models@36ca667d8f8bd8bbd28a4e2b0bf33aa88cd1bee0/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 37314,
+    "stars": 37318,
     "size_mb": 33,
     "created_at": "2019-02-02T05:51:12Z",
     "last_commit_at": "2026-11-27T04:46:31Z",
@@ -50,19 +50,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 18,
+    "star_delta_7d": 19,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "b4f423c19f778672f875e0948f296322c775f24b",
-    "v": 4
-  },
   "pins_before": [
+    "b4f423c19f778672f875e0948f296322c775f24b",
     "d90ea08620e684ade06b61bed382bb4f42767b1d",
     "43b549bfe9d680bc94284cfd0b611152d18e97d7"
   ],
-  "pinned_at": "2026-11-20T04:16:36Z"
+  "pinned_at": "2026-11-27T04:46:31Z"
 }

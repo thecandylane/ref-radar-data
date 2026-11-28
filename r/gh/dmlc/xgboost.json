@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:4b6dcbabfba325f9b827c518d367dcadda95c93d"
+  },
   "id": "gh:dmlc/xgboost",
   "kind": "repo",
   "url": "https://github.com/dmlc/xgboost",
@@ -28,16 +31,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/dmlc/xgboost",
-    "sha": "eca74538c55137543821206f11d57bb89c1d8ec3",
-    "file_url": "https://cdn.jsdelivr.net/gh/dmlc/xgboost@eca74538c55137543821206f11d57bb89c1d8ec3/{path}"
+    "sha": "4b6dcbabfba325f9b827c518d367dcadda95c93d",
+    "file_url": "https://cdn.jsdelivr.net/gh/dmlc/xgboost@4b6dcbabfba325f9b827c518d367dcadda95c93d/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "Apache-2.0",
-    "stars": 29018,
+    "stars": 29022,
     "size_mb": 38,
     "created_at": "2014-02-06T17:28:03Z",
-    "last_commit_at": "2026-11-25T19:05:38Z",
+    "last_commit_at": "2026-11-27T16:08:32Z",
     "releases": 80,
     "tags": 81,
     "archived": false,
@@ -60,10 +63,10 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "eca74538c55137543821206f11d57bb89c1d8ec3",
-    "v": 4
-  },
+  "pins_before": [
+    "eca74538c55137543821206f11d57bb89c1d8ec3"
+  ],
+  "pinned_at": "2026-11-27T16:08:32Z",
   "papers": [
     {
       "id": "arxiv:1603.02754",

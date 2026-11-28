@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d7b9a6176ab4e279465ba3ee09922cde2b74de47"
+  },
   "id": "gh:gitlabhq/gitlabhq",
   "kind": "repo",
   "url": "https://github.com/gitlabhq/gitlabhq",
@@ -40,7 +43,7 @@
   "facts": {
     "lang": "Ruby",
     "license": "NOASSERTION",
-    "stars": 24572,
+    "stars": 24568,
     "size_mb": 2905,
     "created_at": "2011-10-02T16:25:27Z",
     "last_commit_at": "2026-10-23T09:08:28Z",
@@ -66,5 +69,6 @@
   "pack": {
     "sha": "d7b9a6176ab4e279465ba3ee09922cde2b74de47",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-10-23T09:08:28Z"
 }

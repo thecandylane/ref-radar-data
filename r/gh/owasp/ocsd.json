@@ -1,0 +1,56 @@
+{
+  "id": "gh:owasp/ocsd",
+  "kind": "repo",
+  "url": "https://github.com/OWASP/OCSD",
+  "title": "OCSD",
+  "why": "Curriculum modules and sample assessment questions for a developer certification in web application security, open to contributors.",
+  "keys": {
+    "races": [
+      "learning/courses",
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "learning/courses",
+      "cyber/appsec"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OWASP/OCSD",
+    "sha": "b25120c6a3eb1b4de5d035155d78ecd5622c324d",
+    "file_url": "https://cdn.jsdelivr.net/gh/OWASP/OCSD@b25120c6a3eb1b4de5d035155d78ecd5622c324d/{path}"
+  },
+  "facts": {
+    "lang": null,
+    "license": "CC-BY-SA-4.0",
+    "stars": 48,
+    "size_mb": 20,
+    "created_at": "2025-02-25T14:22:24Z",
+    "last_commit_at": "2026-09-24T16:02:00Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

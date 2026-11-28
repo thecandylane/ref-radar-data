@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:b27dac72af5a078ed8982edcfda89337304a8d85"
-  },
   "id": "gh:actions/actions-runner-controller",
   "kind": "repo",
   "url": "https://github.com/actions/actions-runner-controller",
@@ -35,8 +32,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/actions/actions-runner-controller",
-    "sha": "b27dac72af5a078ed8982edcfda89337304a8d85",
-    "file_url": "https://cdn.jsdelivr.net/gh/actions/actions-runner-controller@b27dac72af5a078ed8982edcfda89337304a8d85/{path}"
+    "sha": "eca1a62a7fbe50bb1b21ba55fe923bde653c6f9e",
+    "file_url": "https://cdn.jsdelivr.net/gh/actions/actions-runner-controller@eca1a62a7fbe50bb1b21ba55fe923bde653c6f9e/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -61,18 +58,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 13,
+    "star_delta_7d": 11,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "b27dac72af5a078ed8982edcfda89337304a8d85",
-    "v": 4
-  },
   "pins_before": [
+    "b27dac72af5a078ed8982edcfda89337304a8d85",
     "89f34c4f782d4b488e6aecb66146407fee8eb3af"
   ],
-  "pinned_at": "2026-11-19T10:25:45Z"
+  "pinned_at": "2026-11-25T11:05:32Z"
 }

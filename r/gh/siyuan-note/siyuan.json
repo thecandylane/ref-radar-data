@@ -32,18 +32,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/siyuan-note/siyuan",
-    "sha": "e6794a0c44976269591c2e1633c29dc44ca379e4",
-    "file_url": "https://raw.githubusercontent.com/siyuan-note/siyuan/e6794a0c44976269591c2e1633c29dc44ca379e4/{path}"
+    "sha": "c901a60323f3ad22867145f16ace0cface627b5a",
+    "file_url": "https://raw.githubusercontent.com/siyuan-note/siyuan/c901a60323f3ad22867145f16ace0cface627b5a/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 47432,
-    "size_mb": 845,
+    "stars": 47447,
+    "size_mb": 844,
     "created_at": "2020-08-30T09:21:35Z",
     "last_commit_at": "2026-11-24T05:07:47Z",
     "releases": 1000,
-    "tags": 1086,
+    "tags": 1089,
     "archived": false,
     "release": {
       "tag": "v3.8.12",
@@ -64,9 +64,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "e6794a0c44976269591c2e1633c29dc44ca379e4",
-    "v": 4
-  },
-  "pinned_at": "2026-11-19T14:25:49Z"
+  "pins_before": [
+    "e6794a0c44976269591c2e1633c29dc44ca379e4"
+  ],
+  "pinned_at": "2026-11-24T05:07:47Z"
 }

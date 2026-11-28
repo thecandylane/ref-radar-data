@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:2224255c4acc594d734cef0bbc83360452a67983"
+  },
   "id": "gh:arrow-py/arrow",
   "kind": "repo",
   "url": "https://github.com/arrow-py/arrow",
@@ -24,7 +27,7 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 9053,
+    "stars": 9052,
     "size_mb": 2,
     "created_at": "2012-11-18T20:23:27Z",
     "last_commit_at": "2026-04-30T08:13:11Z",
@@ -53,5 +56,6 @@
   "pack": {
     "sha": "2224255c4acc594d734cef0bbc83360452a67983",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-04-30T08:13:11Z"
 }

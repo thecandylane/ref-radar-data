@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:704f329e541deebb6a39674ac6ef83c997bf5552"
-  },
   "id": "gh:changesets/changesets",
   "kind": "repo",
   "url": "https://github.com/changesets/changesets",
@@ -31,22 +28,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/changesets/changesets",
-    "sha": "704f329e541deebb6a39674ac6ef83c997bf5552",
-    "file_url": "https://cdn.jsdelivr.net/gh/changesets/changesets@704f329e541deebb6a39674ac6ef83c997bf5552/{path}"
+    "sha": "e7b07117723c9c24568a48a35638aa582958315e",
+    "file_url": "https://cdn.jsdelivr.net/gh/changesets/changesets@e7b07117723c9c24568a48a35638aa582958315e/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 12604,
+    "stars": 12609,
     "size_mb": 8,
     "created_at": "2019-03-21T22:33:37Z",
-    "last_commit_at": "2026-11-26T07:37:10Z",
-    "releases": 603,
-    "tags": 740,
+    "last_commit_at": "2026-11-27T18:08:15Z",
+    "releases": 619,
+    "tags": 756,
     "archived": false,
     "release": {
-      "tag": "@changesets/cli@3.0.3",
-      "at": "2026-09-14T15:27:19.000Z"
+      "tag": "@changesets/cli@3.1.0",
+      "at": "2026-11-27T18:23:15.000Z"
     }
   },
   "reuse": "copy",
@@ -57,19 +54,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 18,
+    "star_delta_7d": 21,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "704f329e541deebb6a39674ac6ef83c997bf5552",
-    "v": 4
-  },
   "pins_before": [
+    "704f329e541deebb6a39674ac6ef83c997bf5552",
     "9a035ec36045aeb6141dd0bbac9ab9e3c69ac0bc",
     "2f6995d5bbd3b1572d7a6cd897d2229bfc1ce8c1"
   ],
-  "pinned_at": "2026-11-20T23:42:58Z"
+  "pinned_at": "2026-11-27T18:08:15Z"
 }

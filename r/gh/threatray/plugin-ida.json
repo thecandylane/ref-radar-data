@@ -1,0 +1,59 @@
+{
+  "id": "gh:threatray/plugin-ida",
+  "kind": "repo",
+  "url": "https://github.com/threatray/plugin-ida",
+  "title": "plugin-ida",
+  "why": "Adds Threatray matches inside IDA, so functions get renamed, commented and colored from code detections and retrohunt hits.",
+  "keys": {
+    "races": [
+      "cyber/reversing"
+    ],
+    "lanes": [
+      "cyber/reversing"
+    ],
+    "capabilities": [
+      "cyber/reversing/disassemblers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/threatray/plugin-ida",
+    "sha": "79c01c229818880aedc690a265385839538377c8",
+    "file_url": "https://cdn.jsdelivr.net/gh/threatray/plugin-ida@79c01c229818880aedc690a265385839538377c8/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 4,
+    "size_mb": 3,
+    "created_at": "2026-04-16T14:44:21Z",
+    "last_commit_at": "2026-11-20T16:56:57Z",
+    "releases": 5,
+    "tags": 5,
+    "archived": false,
+    "release": {
+      "tag": "v3.0.5",
+      "at": "2026-11-13T16:14:16.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

@@ -1,0 +1,56 @@
+{
+  "id": "gh:allenai/robotrack",
+  "kind": "repo",
+  "url": "https://github.com/allenai/robotrack",
+  "title": "robotrack",
+  "why": "Evaluates AllTracker and CoWTracker point tracking on robot video, and generates RoboTrack15M data from simulated house rollouts.",
+  "keys": {
+    "races": [
+      "ml/vision",
+      "embedded/robotics"
+    ],
+    "lanes": [
+      "ml/vision",
+      "embedded/robotics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/allenai/robotrack",
+    "sha": "fc5cd87f60fad57c7cbc48c3d09e9aa7b45061a3",
+    "file_url": "https://cdn.jsdelivr.net/gh/allenai/robotrack@fc5cd87f60fad57c7cbc48c3d09e9aa7b45061a3/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 14,
+    "size_mb": 2,
+    "created_at": "2026-05-18T22:05:32Z",
+    "last_commit_at": "2026-11-23T06:42:15Z",
+    "releases": 0,
+    "tags": 0,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "unreleased",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

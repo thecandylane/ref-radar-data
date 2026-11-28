@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:214f2bb42abf5a577c079d00add5d6cc470620d3"
+  },
   "id": "gh:google/guetzli",
   "kind": "repo",
   "url": "https://github.com/google/guetzli",
@@ -24,7 +27,7 @@
   "facts": {
     "lang": "C++",
     "license": "Apache-2.0",
-    "stars": 12879,
+    "stars": 12877,
     "size_mb": 0,
     "created_at": "2016-10-21T15:13:18Z",
     "last_commit_at": "2019-10-25T12:45:01Z",
@@ -53,5 +56,6 @@
   "pack": {
     "sha": "214f2bb42abf5a577c079d00add5d6cc470620d3",
     "v": 4
-  }
+  },
+  "pinned_at": "2019-10-25T12:45:01Z"
 }

@@ -38,16 +38,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/photoprism/photoprism",
-    "sha": "6383b439983d6a9d558876f64a5cdb83477df9df",
-    "file_url": "https://cdn.jsdelivr.net/gh/photoprism/photoprism@6383b439983d6a9d558876f64a5cdb83477df9df/{path}"
+    "sha": "024443c4c8722459d9df484d8cfb40386ecc063a",
+    "file_url": "https://cdn.jsdelivr.net/gh/photoprism/photoprism@024443c4c8722459d9df484d8cfb40386ecc063a/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "NOASSERTION",
-    "stars": 40484,
+    "stars": 40488,
     "size_mb": 407,
     "created_at": "2018-01-27T12:00:15Z",
-    "last_commit_at": "2026-11-27T09:13:33Z",
+    "last_commit_at": "2026-11-27T12:27:08Z",
     "releases": 86,
     "tags": 86,
     "archived": false,
@@ -70,9 +70,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "6383b439983d6a9d558876f64a5cdb83477df9df",
-    "v": 4
-  },
-  "pinned_at": "2026-11-20T15:30:32Z"
+  "pins_before": [
+    "6383b439983d6a9d558876f64a5cdb83477df9df"
+  ],
+  "pinned_at": "2026-11-27T12:27:08Z"
 }

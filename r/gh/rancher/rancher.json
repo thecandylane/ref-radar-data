@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:531c5f6744731c4a279374ac00a8c442a8c40fdb"
-  },
   "id": "gh:rancher/rancher",
   "kind": "repo",
   "url": "https://github.com/rancher/rancher",
@@ -39,8 +36,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/rancher/rancher",
-    "sha": "531c5f6744731c4a279374ac00a8c442a8c40fdb",
-    "file_url": "https://cdn.jsdelivr.net/gh/rancher/rancher@531c5f6744731c4a279374ac00a8c442a8c40fdb/{path}"
+    "sha": "2ea967d5f6cad0fe3d6f8784144cfb4ac50c10d6",
+    "file_url": "https://cdn.jsdelivr.net/gh/rancher/rancher@2ea967d5f6cad0fe3d6f8784144cfb4ac50c10d6/{path}"
   },
   "facts": {
     "lang": "Go",
@@ -48,7 +45,7 @@
     "stars": 26085,
     "size_mb": 185,
     "created_at": "2014-11-07T20:49:31Z",
-    "last_commit_at": "2026-11-27T05:04:52Z",
+    "last_commit_at": "2026-11-27T15:01:31Z",
     "releases": 1000,
     "tags": 2610,
     "archived": false,
@@ -65,18 +62,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 9,
+    "star_delta_7d": 10,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "531c5f6744731c4a279374ac00a8c442a8c40fdb",
-    "v": 4
-  },
   "pins_before": [
+    "531c5f6744731c4a279374ac00a8c442a8c40fdb",
     "8b6248a6b08d866a175be0306c8a226a9b495963"
   ],
-  "pinned_at": "2026-11-20T20:44:15Z"
+  "pinned_at": "2026-11-27T15:01:31Z"
 }

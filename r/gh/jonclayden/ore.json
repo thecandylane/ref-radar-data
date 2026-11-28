@@ -1,0 +1,57 @@
+{
+  "id": "gh:jonclayden/ore",
+  "kind": "repo",
+  "url": "https://github.com/jonclayden/ore",
+  "title": "ore",
+  "why": "Regex search, substitution and split for R strings, running on an Onig engine with encoding handling for text in several encodings.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/jonclayden/ore",
+    "sha": "00b677a82a90ec356659458e77b37174f97fca04",
+    "file_url": "https://cdn.jsdelivr.net/gh/jonclayden/ore@00b677a82a90ec356659458e77b37174f97fca04/{path}"
+  },
+  "facts": {
+    "lang": "C",
+    "license": "NOASSERTION",
+    "stars": 56,
+    "size_mb": 1,
+    "created_at": "2014-10-01T20:55:22Z",
+    "last_commit_at": "2026-10-07T17:50:10Z",
+    "releases": 6,
+    "tags": 31,
+    "archived": false,
+    "release": {
+      "tag": "v1.7.5",
+      "at": "2025-03-17T15:37:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

@@ -30,22 +30,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/bvaughn/react-resizable-panels",
-    "sha": "fa1417e3ad890aad227dd5ecfd41b4700775a60e",
-    "file_url": "https://cdn.jsdelivr.net/gh/bvaughn/react-resizable-panels@fa1417e3ad890aad227dd5ecfd41b4700775a60e/{path}"
+    "sha": "ac4c431bff7d539707ca78eb2b42a4f2ba400c6c",
+    "file_url": "https://cdn.jsdelivr.net/gh/bvaughn/react-resizable-panels@ac4c431bff7d539707ca78eb2b42a4f2ba400c6c/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "MIT",
-    "stars": 5486,
+    "stars": 5487,
     "size_mb": 7,
     "created_at": "2022-12-22T19:06:17Z",
-    "last_commit_at": "2026-11-25T22:13:15Z",
-    "releases": 197,
-    "tags": 208,
+    "last_commit_at": "2026-11-27T23:31:33Z",
+    "releases": 200,
+    "tags": 211,
     "archived": false,
     "release": {
-      "tag": "4.24.3",
-      "at": "2026-11-25T22:14:17.000Z"
+      "tag": "4.26.0",
+      "at": "2026-11-27T23:32:08.000Z"
     }
   },
   "reuse": "copy",
@@ -62,8 +62,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "fa1417e3ad890aad227dd5ecfd41b4700775a60e",
-    "v": 4
-  }
+  "pins_before": [
+    "fa1417e3ad890aad227dd5ecfd41b4700775a60e"
+  ],
+  "pinned_at": "2026-11-27T23:31:33Z"
 }

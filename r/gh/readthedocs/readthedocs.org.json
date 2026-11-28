@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:fa1c454658c531c590f04c4f9d55784d608a222a"
+    "swh": "swh:1:rev:bc127389f2c8cadb0319335eb6e210ddd670f817"
   },
   "id": "gh:readthedocs/readthedocs.org",
   "kind": "repo",
@@ -25,8 +25,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/readthedocs/readthedocs.org",
-    "sha": "fa1c454658c531c590f04c4f9d55784d608a222a",
-    "file_url": "https://cdn.jsdelivr.net/gh/readthedocs/readthedocs.org@fa1c454658c531c590f04c4f9d55784d608a222a/{path}"
+    "sha": "bc127389f2c8cadb0319335eb6e210ddd670f817",
+    "file_url": "https://cdn.jsdelivr.net/gh/readthedocs/readthedocs.org@bc127389f2c8cadb0319335eb6e210ddd670f817/{path}"
   },
   "facts": {
     "lang": "Python",
@@ -57,12 +57,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "fa1c454658c531c590f04c4f9d55784d608a222a",
-    "v": 4
-  },
   "pins_before": [
+    "fa1c454658c531c590f04c4f9d55784d608a222a",
     "516881b08da007391b560db8f2f64d79f8c3e00c"
   ],
-  "pinned_at": "2026-11-20T12:05:53Z"
+  "pinned_at": "2026-11-25T09:57:19Z"
 }

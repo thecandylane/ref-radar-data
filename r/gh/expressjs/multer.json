@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:2c380d06cdaacc68bbef8b36244493a3d33d6b88"
+  },
   "id": "gh:expressjs/multer",
   "kind": "repo",
   "url": "https://github.com/expressjs/multer",
@@ -34,7 +37,7 @@
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 12088,
+    "stars": 12089,
     "size_mb": 6,
     "created_at": "2014-01-30T18:16:04Z",
     "last_commit_at": "2026-10-22T11:55:30Z",
@@ -63,5 +66,6 @@
   "pack": {
     "sha": "2c380d06cdaacc68bbef8b36244493a3d33d6b88",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-10-22T11:55:30Z"
 }

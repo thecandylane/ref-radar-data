@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b738a89287bb78e51c06ac9624014bbda3c1429f"
+  },
   "id": "gh:bytecodealliance/wasmtime",
   "kind": "repo",
   "url": "https://github.com/bytecodealliance/wasmtime",
@@ -38,7 +41,7 @@
   "facts": {
     "lang": "Rust",
     "license": "Apache-2.0",
-    "stars": 18901,
+    "stars": 18906,
     "size_mb": 171,
     "created_at": "2017-08-29T14:01:55Z",
     "last_commit_at": "2026-11-25T21:32:57Z",
@@ -64,6 +67,10 @@
   },
   "tier": "curated",
   "drafted": true,
+  "pack": {
+    "sha": "b738a89287bb78e51c06ac9624014bbda3c1429f",
+    "v": 4
+  },
   "pins_before": [
     "3ce2209872ccf1ea115914a81e020aef66a10c51",
     "266d7946f7783be62864cad5e553764b4c0a0f58"

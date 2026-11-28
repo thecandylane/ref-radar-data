@@ -30,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/openvinotoolkit/openvino",
-    "sha": "2e7a29705be71c0a15f01b5c1d34b5fe72955fbb",
-    "file_url": "https://raw.githubusercontent.com/openvinotoolkit/openvino/2e7a29705be71c0a15f01b5c1d34b5fe72955fbb/{path}"
+    "sha": "67f7f1218e6350e321e5408293b5bd1682b0321b",
+    "file_url": "https://raw.githubusercontent.com/openvinotoolkit/openvino/67f7f1218e6350e321e5408293b5bd1682b0321b/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "Apache-2.0",
-    "stars": 12747,
-    "size_mb": 1032,
+    "stars": 12986,
+    "size_mb": 1034,
     "created_at": "2018-10-15T10:54:40Z",
-    "last_commit_at": "2026-11-26T08:59:07Z",
+    "last_commit_at": "2026-11-27T23:02:24Z",
     "releases": 65,
     "tags": 90,
     "archived": false,
@@ -62,8 +62,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "2e7a29705be71c0a15f01b5c1d34b5fe72955fbb",
-    "v": 4
-  }
+  "pins_before": [
+    "2e7a29705be71c0a15f01b5c1d34b5fe72955fbb"
+  ],
+  "pinned_at": "2026-11-27T23:02:24Z"
 }

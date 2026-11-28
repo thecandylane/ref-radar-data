@@ -1,0 +1,63 @@
+{
+  "id": "gh:owasp/json-sanitizer",
+  "kind": "repo",
+  "url": "https://github.com/OWASP/json-sanitizer",
+  "title": "json-sanitizer",
+  "why": "Cleans untrusted JSON text by eliding trailing commas and capping nesting depth, so a Java service can pass it on safely.",
+  "keys": {
+    "races": [
+      "data/serialization",
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "data/serialization",
+      "cyber/appsec"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/OWASP/json-sanitizer",
+    "sha": "d978b247faab6fa9b206e5bfc82a2e8e73c6d09a",
+    "file_url": "https://cdn.jsdelivr.net/gh/OWASP/json-sanitizer@d978b247faab6fa9b206e5bfc82a2e8e73c6d09a/{path}"
+  },
+  "facts": {
+    "lang": "Java",
+    "license": "Apache-2.0",
+    "stars": 221,
+    "size_mb": 2,
+    "created_at": "2015-04-24T18:39:53Z",
+    "last_commit_at": "2026-11-14T17:07:23Z",
+    "releases": 4,
+    "tags": 7,
+    "archived": false,
+    "release": {
+      "tag": "v1.3.0",
+      "at": "2026-11-07T21:33:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

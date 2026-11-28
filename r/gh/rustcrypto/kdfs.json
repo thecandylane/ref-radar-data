@@ -1,0 +1,50 @@
+{
+  "id": "gh:rustcrypto/kdfs",
+  "kind": "repo",
+  "url": "https://github.com/RustCrypto/KDFs",
+  "title": "KDFs",
+  "why": "Rust crates for key derivation: HKDF, KBKDF, one-step KDF and BAKE, built on the digest and hmac crates.",
+  "keys": {
+    "races": [],
+    "lanes": [],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/RustCrypto/KDFs",
+    "sha": "75efa88fe8a836ba259e798016e9896e9f4ad555",
+    "file_url": "https://cdn.jsdelivr.net/gh/RustCrypto/KDFs@75efa88fe8a836ba259e798016e9896e9f4ad555/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "none",
+    "stars": 111,
+    "size_mb": 6,
+    "created_at": "2015-01-03T00:01:55Z",
+    "last_commit_at": "2026-11-09T00:57:00Z",
+    "releases": 0,
+    "tags": 49,
+    "archived": false,
+    "release": null
+  },
+  "reuse": "copy",
+  "maturity": "stable",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:8f66cb79044c370e3813c56ceb7a75a5ca2d0a0e"
+    "swh": "swh:1:rev:9751c62358073580cbf330a4df22077a7c6a407c"
   },
   "id": "gh:qemu/qemu",
   "kind": "repo",
@@ -25,13 +25,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/qemu/qemu",
-    "sha": "8f66cb79044c370e3813c56ceb7a75a5ca2d0a0e",
-    "file_url": "https://cdn.jsdelivr.net/gh/qemu/qemu@8f66cb79044c370e3813c56ceb7a75a5ca2d0a0e/{path}"
+    "sha": "9751c62358073580cbf330a4df22077a7c6a407c",
+    "file_url": "https://cdn.jsdelivr.net/gh/qemu/qemu@9751c62358073580cbf330a4df22077a7c6a407c/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 14095,
+    "stars": 14099,
     "size_mb": 705,
     "created_at": "2012-08-11T21:48:37Z",
     "last_commit_at": "2026-11-26T05:39:27Z",
@@ -48,18 +48,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 38,
+    "star_delta_7d": 34,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "8f66cb79044c370e3813c56ceb7a75a5ca2d0a0e",
-    "v": 4
-  },
   "pins_before": [
+    "8f66cb79044c370e3813c56ceb7a75a5ca2d0a0e",
     "29760efaf96bbe5928f8111881eddbf5ac06439e"
   ],
-  "pinned_at": "2026-11-20T22:52:05Z"
+  "pinned_at": "2026-11-26T05:39:27Z"
 }

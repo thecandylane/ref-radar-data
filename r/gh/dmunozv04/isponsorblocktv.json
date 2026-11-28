@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:6a73a2d9e590f0cc7684036ca8fbf26812ceca0a"
-  },
   "id": "gh:dmunozv04/isponsorblocktv",
   "kind": "repo",
   "url": "https://github.com/dmunozv04/iSponsorBlockTV",
@@ -29,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/dmunozv04/iSponsorBlockTV",
-    "sha": "6a73a2d9e590f0cc7684036ca8fbf26812ceca0a",
-    "file_url": "https://cdn.jsdelivr.net/gh/dmunozv04/iSponsorBlockTV@6a73a2d9e590f0cc7684036ca8fbf26812ceca0a/{path}"
+    "sha": "ecc2ed01e52722c70efa5468dbd1a84f3ca4c638",
+    "file_url": "https://cdn.jsdelivr.net/gh/dmunozv04/iSponsorBlockTV@ecc2ed01e52722c70efa5468dbd1a84f3ca4c638/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "GPL-3.0",
-    "stars": 7342,
+    "stars": 7345,
     "size_mb": 1,
     "created_at": "2022-01-15T18:26:33Z",
-    "last_commit_at": "2026-11-08T17:58:30Z",
+    "last_commit_at": "2026-11-27T17:26:45Z",
     "releases": 28,
     "tags": 30,
     "archived": false,
@@ -55,15 +52,14 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 64,
+    "star_delta_7d": 51,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "6a73a2d9e590f0cc7684036ca8fbf26812ceca0a",
-    "v": 4
-  },
-  "pinned_at": "2026-11-08T17:58:30Z"
+  "pins_before": [
+    "6a73a2d9e590f0cc7684036ca8fbf26812ceca0a"
+  ],
+  "pinned_at": "2026-11-27T17:26:45Z"
 }

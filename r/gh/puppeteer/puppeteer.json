@@ -1,6 +1,6 @@
 {
   "archive": {
-    "swh": "swh:1:rev:47a6c686b8dd58e8c9a5c3ac03ae36c84e2c6f7f"
+    "swh": "swh:1:rev:d1ab44e96472b4d1b92b7f2209ad6e9c432d7a4b"
   },
   "id": "gh:puppeteer/puppeteer",
   "kind": "repo",
@@ -31,13 +31,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/puppeteer/puppeteer",
-    "sha": "47a6c686b8dd58e8c9a5c3ac03ae36c84e2c6f7f",
-    "file_url": "https://cdn.jsdelivr.net/gh/puppeteer/puppeteer@47a6c686b8dd58e8c9a5c3ac03ae36c84e2c6f7f/{path}"
+    "sha": "d1ab44e96472b4d1b92b7f2209ad6e9c432d7a4b",
+    "file_url": "https://cdn.jsdelivr.net/gh/puppeteer/puppeteer@d1ab44e96472b4d1b92b7f2209ad6e9c432d7a4b/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "Apache-2.0",
-    "stars": 95914,
+    "stars": 95913,
     "size_mb": 1598,
     "created_at": "2017-05-09T22:16:13Z",
     "last_commit_at": "2026-11-26T20:24:36Z",
@@ -57,19 +57,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 40,
+    "star_delta_7d": 37,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "47a6c686b8dd58e8c9a5c3ac03ae36c84e2c6f7f",
-    "v": 4
-  },
   "pins_before": [
+    "47a6c686b8dd58e8c9a5c3ac03ae36c84e2c6f7f",
     "e61ec75722ad2c543a8ea1578a4f941e82ddf5a9"
   ],
-  "pinned_at": "2026-11-20T18:09:01Z",
+  "pinned_at": "2026-11-26T20:24:36Z",
   "hot": true
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:825b8547fc9f883bac6645c09d6a726239c2720a"
-  },
   "id": "gh:umbraco/umbraco-cms",
   "kind": "repo",
   "url": "https://github.com/umbraco/Umbraco-CMS",
@@ -29,14 +26,14 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/umbraco/Umbraco-CMS",
-    "sha": "825b8547fc9f883bac6645c09d6a726239c2720a",
-    "file_url": "https://cdn.jsdelivr.net/gh/umbraco/Umbraco-CMS@825b8547fc9f883bac6645c09d6a726239c2720a/{path}"
+    "sha": "53fc93392670d4f7ab56d9cbffee2ab7972707e3",
+    "file_url": "https://cdn.jsdelivr.net/gh/umbraco/Umbraco-CMS@53fc93392670d4f7ab56d9cbffee2ab7972707e3/{path}"
   },
   "facts": {
     "lang": "C#",
     "license": "MIT",
     "stars": 5291,
-    "size_mb": 486,
+    "size_mb": 487,
     "created_at": "2013-06-10T13:50:46Z",
     "last_commit_at": "2026-11-25T13:32:31Z",
     "releases": 199,
@@ -61,12 +58,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "825b8547fc9f883bac6645c09d6a726239c2720a",
-    "v": 4
-  },
   "pins_before": [
+    "825b8547fc9f883bac6645c09d6a726239c2720a",
     "d16223769819cafc838bf8cb332ee2d4515e2632"
   ],
-  "pinned_at": "2026-11-20T22:14:44Z"
+  "pinned_at": "2026-11-25T13:32:31Z"
 }

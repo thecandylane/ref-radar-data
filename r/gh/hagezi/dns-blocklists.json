@@ -24,22 +24,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/hagezi/dns-blocklists",
-    "sha": "777dda81a6ed7fe3b70a606fdf8004de1d72168e",
-    "file_url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/777dda81a6ed7fe3b70a606fdf8004de1d72168e/{path}"
+    "sha": "ab2e0f4933f66031db77ca88ff9b4b622ff518b0",
+    "file_url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/ab2e0f4933f66031db77ca88ff9b4b622ff518b0/{path}"
   },
   "facts": {
     "lang": "Text",
     "license": "GPL-3.0",
-    "stars": 29212,
-    "size_mb": 2677,
+    "stars": 29240,
+    "size_mb": 2703,
     "created_at": "2022-04-25T07:13:09Z",
-    "last_commit_at": "2026-11-27T09:03:42Z",
+    "last_commit_at": "2026-11-28T09:03:15Z",
     "releases": 1,
     "tags": 1,
     "archived": false,
     "release": {
-      "tag": "37522026.331.32808",
-      "at": "2026-11-27T09:06:50.000Z"
+      "tag": "37522026.332.32773",
+      "at": "2026-11-28T09:06:16.000Z"
     }
   },
   "reuse": "copy",
@@ -56,8 +56,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "777dda81a6ed7fe3b70a606fdf8004de1d72168e",
-    "v": 4
-  }
+  "pins_before": [
+    "777dda81a6ed7fe3b70a606fdf8004de1d72168e"
+  ],
+  "pinned_at": "2026-11-28T09:03:15Z"
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:838c9c772ec7813d31bd135d22668481e644dcc7"
-  },
   "id": "gh:mautic/mautic",
   "kind": "repo",
   "url": "https://github.com/mautic/mautic",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/mautic/mautic",
-    "sha": "838c9c772ec7813d31bd135d22668481e644dcc7",
-    "file_url": "https://cdn.jsdelivr.net/gh/mautic/mautic@838c9c772ec7813d31bd135d22668481e644dcc7/{path}"
+    "sha": "e062ab859be228969574d750f305db6a9c466f08",
+    "file_url": "https://cdn.jsdelivr.net/gh/mautic/mautic@e062ab859be228969574d750f305db6a9c466f08/{path}"
   },
   "facts": {
     "lang": "PHP",
     "license": "NOASSERTION",
-    "stars": 11127,
+    "stars": 11132,
     "size_mb": 325,
     "created_at": "2013-08-19T00:36:28Z",
-    "last_commit_at": "2026-11-27T09:02:25Z",
+    "last_commit_at": "2026-11-27T13:12:45Z",
     "releases": 199,
     "tags": 213,
     "archived": false,
@@ -57,15 +54,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 68,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "838c9c772ec7813d31bd135d22668481e644dcc7",
-    "v": 4
-  },
-  "pinned_at": "2026-11-19T13:33:24Z"
+  "pins_before": [
+    "838c9c772ec7813d31bd135d22668481e644dcc7"
+  ],
+  "pinned_at": "2026-11-27T13:12:45Z",
+  "hot": true
 }

@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:1a13355998e2e0183e74d0221e0504564ca21e6c"
-  },
   "id": "cb:forgejo/forgejo",
   "kind": "repo",
   "url": "https://codeberg.org/forgejo/forgejo",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://codeberg.org/forgejo/forgejo",
-    "sha": "1a13355998e2e0183e74d0221e0504564ca21e6c",
-    "file_url": "https://ref.lookit.space/api/file?ref=cb%3Aforgejo%2Fforgejo&sha=1a13355998e2e0183e74d0221e0504564ca21e6c&path={path}"
+    "sha": "08f8259a95e6633b05bc0c92a74aed87f7748331",
+    "file_url": "https://ref.lookit.space/api/file?ref=cb%3Aforgejo%2Fforgejo&sha=08f8259a95e6633b05bc0c92a74aed87f7748331&path={path}"
   },
   "facts": {
     "lang": "Go",
     "license": "NOASSERTION",
-    "stars": 5868,
-    "size_mb": 340,
+    "stars": 5870,
+    "size_mb": 335,
     "created_at": "2022-11-06T06:24:57.000Z",
-    "last_commit_at": "2026-11-27T01:13:06.000Z",
+    "last_commit_at": "2026-11-28T00:02:34.000Z",
     "releases": 127,
     "tags": 311,
     "archived": false
@@ -53,18 +50,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 19,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "1a13355998e2e0183e74d0221e0504564ca21e6c",
-    "v": 4
-  },
   "pins_before": [
+    "1a13355998e2e0183e74d0221e0504564ca21e6c",
     "1c3d5cd94bf8c834a1aacd4e6a7b0c779a6c7260"
   ],
-  "pinned_at": "2026-11-20T20:04:40.000Z"
+  "pinned_at": "2026-11-28T00:02:34.000Z"
 }

@@ -28,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/langfuse/langfuse",
-    "sha": "45a2a9e9bf6f3f55c4221c626f76dc11a137d4e1",
-    "file_url": "https://cdn.jsdelivr.net/gh/langfuse/langfuse@45a2a9e9bf6f3f55c4221c626f76dc11a137d4e1/{path}"
+    "sha": "ab0535959f3d941d9c2e29574b0d2e19f1f661d5",
+    "file_url": "https://cdn.jsdelivr.net/gh/langfuse/langfuse@ab0535959f3d941d9c2e29574b0d2e19f1f661d5/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 37913,
-    "size_mb": 291,
+    "stars": 37944,
+    "size_mb": 293,
     "created_at": "2023-05-18T17:47:09Z",
-    "last_commit_at": "2026-11-27T09:23:31Z",
+    "last_commit_at": "2026-11-27T17:38:47Z",
     "releases": 750,
     "tags": 761,
     "archived": false,
@@ -54,19 +54,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 252,
+    "star_delta_7d": 253,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "45a2a9e9bf6f3f55c4221c626f76dc11a137d4e1",
-    "v": 4
-  },
   "pins_before": [
+    "45a2a9e9bf6f3f55c4221c626f76dc11a137d4e1",
     "729038c5dd276c5adc470bdd2db2be1b92ecc8fc"
   ],
-  "pinned_at": "2026-11-19T09:13:40Z",
+  "pinned_at": "2026-11-27T17:38:47Z",
   "hot": true
 }

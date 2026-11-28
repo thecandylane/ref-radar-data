@@ -28,22 +28,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/siteboon/claudecodeui",
-    "sha": "b6959148ec006f258d737e72bb630ff2e5e84672",
-    "file_url": "https://cdn.jsdelivr.net/gh/siteboon/claudecodeui@b6959148ec006f258d737e72bb630ff2e5e84672/{path}"
+    "sha": "de4c768b04a162aa81667086e5599cab5713699a",
+    "file_url": "https://cdn.jsdelivr.net/gh/siteboon/claudecodeui@de4c768b04a162aa81667086e5599cab5713699a/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "AGPL-3.0",
-    "stars": 14802,
+    "stars": 14815,
     "size_mb": 22,
     "created_at": "2025-06-25T12:51:12Z",
-    "last_commit_at": "2026-11-25T08:20:43Z",
-    "releases": 99,
-    "tags": 112,
+    "last_commit_at": "2026-11-27T12:03:29Z",
+    "releases": 100,
+    "tags": 113,
     "archived": false,
     "release": {
-      "tag": "v1.37.10",
-      "at": "2026-11-25T08:20:46.000Z"
+      "tag": "v1.37.11",
+      "at": "2026-11-27T12:03:32.000Z"
     }
   },
   "reuse": "copy",
@@ -54,18 +54,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 101,
+    "star_delta_7d": 103,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "b6959148ec006f258d737e72bb630ff2e5e84672",
-    "v": 4
-  },
   "pins_before": [
+    "b6959148ec006f258d737e72bb630ff2e5e84672",
     "9497bcb94a25ad44b379ec2f9fd9f5da36b7059e"
   ],
-  "pinned_at": "2026-11-19T15:18:20Z"
+  "pinned_at": "2026-11-27T12:03:29Z"
 }

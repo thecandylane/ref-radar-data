@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:41fee1f99f9276008b7cd112fca19dc3ea84ac32"
+  },
   "id": "gh:brendangregg/flamegraph",
   "kind": "repo",
   "url": "https://github.com/brendangregg/FlameGraph",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": "Perl",
     "license": "none",
-    "stars": 19858,
+    "stars": 19862,
     "size_mb": 2,
     "created_at": "2011-12-16T02:20:53Z",
     "last_commit_at": "2024-10-20T21:48:45Z",
@@ -57,5 +60,6 @@
   "pack": {
     "sha": "41fee1f99f9276008b7cd112fca19dc3ea84ac32",
     "v": 4
-  }
+  },
+  "pinned_at": "2024-10-20T21:48:45Z"
 }

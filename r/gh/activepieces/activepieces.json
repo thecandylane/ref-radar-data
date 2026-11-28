@@ -30,16 +30,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/activepieces/activepieces",
-    "sha": "14c4f45aa54b4a63054e07be24a348f203f2b33e",
-    "file_url": "https://raw.githubusercontent.com/activepieces/activepieces/14c4f45aa54b4a63054e07be24a348f203f2b33e/{path}"
+    "sha": "b541150a7d071d22a8d1ba9116b64ad638e38239",
+    "file_url": "https://raw.githubusercontent.com/activepieces/activepieces/b541150a7d071d22a8d1ba9116b64ad638e38239/{path}"
   },
   "facts": {
     "lang": "TypeScript",
     "license": "NOASSERTION",
-    "stars": 25741,
-    "size_mb": 1064,
+    "stars": 25765,
+    "size_mb": 1079,
     "created_at": "2022-12-03T02:52:46Z",
-    "last_commit_at": "2026-11-26T10:40:34Z",
+    "last_commit_at": "2026-11-27T19:58:22Z",
     "releases": 381,
     "tags": 415,
     "archived": false,
@@ -62,8 +62,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "14c4f45aa54b4a63054e07be24a348f203f2b33e",
-    "v": 4
-  }
+  "pins_before": [
+    "14c4f45aa54b4a63054e07be24a348f203f2b33e"
+  ],
+  "pinned_at": "2026-11-27T19:58:22Z"
 }

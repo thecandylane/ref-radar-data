@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:fe525adf07e42ec4f9896ef97a220459c638f218"
+  },
   "id": "gh:grageragarces/hdh",
   "kind": "repo",
   "url": "https://github.com/grageragarces/HDH",
@@ -31,7 +34,7 @@
     "stars": 12,
     "size_mb": 3563,
     "created_at": "2025-05-24T11:36:13Z",
-    "last_commit_at": "2026-11-25T11:17:15Z",
+    "last_commit_at": "2026-11-26T16:50:51Z",
     "releases": 1,
     "tags": 25,
     "archived": false,
@@ -39,7 +42,12 @@
       "tag": "v1.0.0",
       "at": "2026-11-09T13:24:26.000Z"
     },
-    "doi": "10.21105/joss.10912"
+    "doi": "10.21105/joss.10912",
+    "citations": {
+      "count": 0,
+      "by": "Crossref",
+      "at": "2026-11-28"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",

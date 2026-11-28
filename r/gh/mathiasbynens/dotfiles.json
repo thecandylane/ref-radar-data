@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b7c7894e7bb2de5d60bfb9a2f5e46d01a61300ea"
+  },
   "id": "gh:mathiasbynens/dotfiles",
   "kind": "repo",
   "url": "https://github.com/mathiasbynens/dotfiles",
@@ -24,7 +27,7 @@
   "facts": {
     "lang": "Shell",
     "license": "MIT",
-    "stars": 31523,
+    "stars": 31524,
     "size_mb": 1,
     "created_at": "2011-09-05T18:07:54Z",
     "last_commit_at": "2024-04-09T20:59:24Z",
@@ -50,5 +53,6 @@
   "pack": {
     "sha": "b7c7894e7bb2de5d60bfb9a2f5e46d01a61300ea",
     "v": 4
-  }
+  },
+  "pinned_at": "2024-04-09T20:59:24Z"
 }

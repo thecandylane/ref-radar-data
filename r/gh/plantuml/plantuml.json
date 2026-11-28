@@ -26,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/plantuml/plantuml",
-    "sha": "b5df043884cb2ebdfac92fcee03eae87df5d452b",
-    "file_url": "https://raw.githubusercontent.com/plantuml/plantuml/b5df043884cb2ebdfac92fcee03eae87df5d452b/{path}"
+    "sha": "52283e12d232128d73e22d557ef6eec738605a68",
+    "file_url": "https://raw.githubusercontent.com/plantuml/plantuml/52283e12d232128d73e22d557ef6eec738605a68/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "LGPL-3.0",
-    "stars": 13444,
-    "size_mb": 1462,
+    "stars": 13447,
+    "size_mb": 1468,
     "created_at": "2010-11-04T15:55:50Z",
-    "last_commit_at": "2026-11-26T22:05:52Z",
+    "last_commit_at": "2026-11-27T15:59:46Z",
     "releases": 77,
     "tags": 155,
     "archived": false,
@@ -58,12 +58,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "b5df043884cb2ebdfac92fcee03eae87df5d452b",
-    "v": 4
-  },
   "pins_before": [
+    "b5df043884cb2ebdfac92fcee03eae87df5d452b",
     "db06d70e18e71839dd5e330ac4086f3845371e3b"
   ],
-  "pinned_at": "2026-11-20T11:33:27Z"
+  "pinned_at": "2026-11-27T15:59:46Z"
 }

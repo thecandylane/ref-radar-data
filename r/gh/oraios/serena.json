@@ -31,16 +31,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/oraios/serena",
-    "sha": "7f7d6245bf96b60fdf4e752a779917372fd1ee6e",
-    "file_url": "https://cdn.jsdelivr.net/gh/oraios/serena@7f7d6245bf96b60fdf4e752a779917372fd1ee6e/{path}"
+    "sha": "46f5dca7a0847be965bee988b4efa3ca14cedb3b",
+    "file_url": "https://cdn.jsdelivr.net/gh/oraios/serena@46f5dca7a0847be965bee988b4efa3ca14cedb3b/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 31740,
+    "stars": 31774,
     "size_mb": 13,
     "created_at": "2025-03-23T22:35:24Z",
-    "last_commit_at": "2026-11-24T17:24:35Z",
+    "last_commit_at": "2026-11-27T15:49:38Z",
     "releases": 18,
     "tags": 27,
     "archived": false,
@@ -57,19 +57,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 193,
+    "star_delta_7d": 212,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "7f7d6245bf96b60fdf4e752a779917372fd1ee6e",
-    "v": 4
-  },
   "pins_before": [
+    "7f7d6245bf96b60fdf4e752a779917372fd1ee6e",
     "6e5c3776d4e67befaab7c290bc29b0279c98d1ed"
   ],
-  "pinned_at": "2026-11-19T20:37:51Z",
-  "hot": true
+  "pinned_at": "2026-11-27T15:49:38Z"
 }

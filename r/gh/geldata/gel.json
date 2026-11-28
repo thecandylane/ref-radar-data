@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:85191063b4db8b87caf26499de40f8a9d90c8146"
+  },
   "id": "gh:geldata/gel",
   "kind": "repo",
   "url": "https://github.com/geldata/gel",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 14192,
+    "stars": 14191,
     "size_mb": 74,
     "created_at": "2017-06-29T20:30:48Z",
     "last_commit_at": "2025-12-24T02:14:33Z",
@@ -57,5 +60,6 @@
   "pack": {
     "sha": "85191063b4db8b87caf26499de40f8a9d90c8146",
     "v": 4
-  }
+  },
+  "pinned_at": "2025-12-24T02:14:33Z"
 }

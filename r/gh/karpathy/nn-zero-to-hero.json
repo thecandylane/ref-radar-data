@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:73c3fcc741f0ec104ca850b1fb0df90e7e8d4cde"
+  },
   "id": "gh:karpathy/nn-zero-to-hero",
   "kind": "repo",
   "url": "https://github.com/karpathy/nn-zero-to-hero",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "Jupyter Notebook",
     "license": "MIT",
-    "stars": 26020,
+    "stars": 26063,
     "size_mb": 0,
     "created_at": "2022-09-08T21:23:25Z",
     "last_commit_at": "2024-02-20T17:19:51Z",
@@ -56,5 +59,6 @@
   "pack": {
     "sha": "73c3fcc741f0ec104ca850b1fb0df90e7e8d4cde",
     "v": 4
-  }
+  },
+  "pinned_at": "2024-02-20T17:19:51Z"
 }

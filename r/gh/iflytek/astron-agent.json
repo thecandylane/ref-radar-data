@@ -24,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/iflytek/astron-agent",
-    "sha": "34c10d85b8bb3b64fd7bfca86a9c80d316e8822b",
-    "file_url": "https://cdn.jsdelivr.net/gh/iflytek/astron-agent@34c10d85b8bb3b64fd7bfca86a9c80d316e8822b/{path}"
+    "sha": "493904cc46b62cede4b48817b752135b072831aa",
+    "file_url": "https://cdn.jsdelivr.net/gh/iflytek/astron-agent@493904cc46b62cede4b48817b752135b072831aa/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 8930,
+    "stars": 8936,
     "size_mb": 113,
     "created_at": "2025-09-19T08:46:01Z",
-    "last_commit_at": "2026-11-26T06:30:20Z",
+    "last_commit_at": "2026-11-27T07:47:16Z",
     "releases": 23,
     "tags": 24,
     "archived": false,
@@ -56,8 +56,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "34c10d85b8bb3b64fd7bfca86a9c80d316e8822b",
-    "v": 4
-  }
+  "pins_before": [
+    "34c10d85b8bb3b64fd7bfca86a9c80d316e8822b"
+  ],
+  "pinned_at": "2026-11-27T07:47:16Z"
 }

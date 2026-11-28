@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:12cdbfc004a8101b7826a34492a1c50a7696f959"
+  },
   "id": "gh:openelb/openelb",
   "kind": "repo",
   "url": "https://github.com/openelb/openelb",
@@ -38,7 +41,7 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 1767,
+    "stars": 1768,
     "size_mb": 131,
     "created_at": "2019-02-01T02:21:18Z",
     "last_commit_at": "2025-05-26T13:37:26Z",
@@ -67,5 +70,6 @@
   "pack": {
     "sha": "12cdbfc004a8101b7826a34492a1c50a7696f959",
     "v": 4
-  }
+  },
+  "pinned_at": "2025-05-26T13:37:26Z"
 }

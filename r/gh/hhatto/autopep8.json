@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d6b5b3342aac6bcf28e7533389754e472c082bc8"
+  },
   "id": "gh:hhatto/autopep8",
   "kind": "repo",
   "url": "https://github.com/hhatto/autopep8",
@@ -28,7 +31,7 @@
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 4654,
+    "stars": 4655,
     "size_mb": 4,
     "created_at": "2010-12-29T20:08:51Z",
     "last_commit_at": "2026-07-06T00:52:33Z",
@@ -57,5 +60,6 @@
   "pack": {
     "sha": "d6b5b3342aac6bcf28e7533389754e472c082bc8",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-07-06T00:52:33Z"
 }

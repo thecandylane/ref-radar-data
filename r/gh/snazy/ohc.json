@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:7f59c264fe8ae4c859b9662c8cea15620f0f55f8"
+  },
   "id": "gh:snazy/ohc",
   "kind": "repo",
   "url": "https://github.com/snazy/ohc",
@@ -24,7 +27,7 @@
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 1090,
+    "stars": 1088,
     "size_mb": 1,
     "created_at": "2014-11-20T00:28:09Z",
     "last_commit_at": "2023-07-04T13:00:23Z",
@@ -50,5 +53,6 @@
   "pack": {
     "sha": "7f59c264fe8ae4c859b9662c8cea15620f0f55f8",
     "v": 4
-  }
+  },
+  "pinned_at": "2023-07-04T13:00:23Z"
 }

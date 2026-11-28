@@ -1,0 +1,59 @@
+{
+  "id": "gh:chenxvb/unicorn-trace",
+  "kind": "repo",
+  "url": "https://github.com/chenxvb/Unicorn-Trace",
+  "title": "Unicorn-Trace",
+  "why": "Runs ARM64 code from memory dumps in an emulator and traces memory access, with an IDA plugin for stepping through it.",
+  "keys": {
+    "races": [
+      "cyber/reversing"
+    ],
+    "lanes": [
+      "cyber/reversing"
+    ],
+    "capabilities": [
+      "cyber/reversing/debuggers"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/chenxvb/Unicorn-Trace",
+    "sha": "e59cda3d82eec3a5104a2935225d5c9ba0f0a74f",
+    "file_url": "https://cdn.jsdelivr.net/gh/chenxvb/Unicorn-Trace@e59cda3d82eec3a5104a2935225d5c9ba0f0a74f/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "MIT",
+    "stars": 213,
+    "size_mb": 82,
+    "created_at": "2025-11-18T11:26:28Z",
+    "last_commit_at": "2026-05-11T07:07:44Z",
+    "releases": 4,
+    "tags": 4,
+    "archived": false,
+    "release": {
+      "tag": "v0.4",
+      "at": "2026-05-08T10:29:45.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

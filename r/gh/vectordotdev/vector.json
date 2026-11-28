@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:5542782b1715b46fc39b7405cc6f05516136acd4"
-  },
   "id": "gh:vectordotdev/vector",
   "kind": "repo",
   "url": "https://github.com/vectordotdev/vector",
@@ -35,14 +32,14 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/vectordotdev/vector",
-    "sha": "5542782b1715b46fc39b7405cc6f05516136acd4",
-    "file_url": "https://cdn.jsdelivr.net/gh/vectordotdev/vector@5542782b1715b46fc39b7405cc6f05516136acd4/{path}"
+    "sha": "83cc0a23b61b60b67141bdbc49cc3bb0d0b30c9c",
+    "file_url": "https://cdn.jsdelivr.net/gh/vectordotdev/vector@83cc0a23b61b60b67141bdbc49cc3bb0d0b30c9c/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "MPL-2.0",
-    "stars": 22983,
-    "size_mb": 142,
+    "stars": 22991,
+    "size_mb": 141,
     "created_at": "2018-08-27T16:57:34Z",
     "last_commit_at": "2026-11-26T18:41:42Z",
     "releases": 111,
@@ -67,13 +64,10 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "5542782b1715b46fc39b7405cc6f05516136acd4",
-    "v": 4
-  },
   "pins_before": [
+    "5542782b1715b46fc39b7405cc6f05516136acd4",
     "37c8033ce7ea1d4946bacc8f9ea74d47ac94d74b"
   ],
-  "pinned_at": "2026-11-21T00:38:58Z",
+  "pinned_at": "2026-11-26T18:41:42Z",
   "hot": true
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:963b14d9cff6d9530a8f8abec7f9862e847b6cb8"
+  },
   "id": "gh:mubeng/mubeng",
   "kind": "repo",
   "url": "https://github.com/mubeng/mubeng",
@@ -38,7 +41,7 @@
   "facts": {
     "lang": "Go",
     "license": "Apache-2.0",
-    "stars": 2810,
+    "stars": 2811,
     "size_mb": 2,
     "created_at": "2021-01-16T00:33:07Z",
     "last_commit_at": "2026-09-09T05:04:18Z",
@@ -67,5 +70,6 @@
   "pack": {
     "sha": "963b14d9cff6d9530a8f8abec7f9862e847b6cb8",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-09-09T05:04:18Z"
 }

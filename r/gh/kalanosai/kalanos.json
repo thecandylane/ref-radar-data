@@ -1,0 +1,61 @@
+{
+  "id": "gh:kalanosai/kalanos",
+  "kind": "repo",
+  "url": "https://github.com/KalanosAI/kalanos",
+  "title": "kalanos",
+  "why": "Generates tiny LeRobot, HDF5 and MCAP fixtures, then benchmarks detections against injected defects in sensor recordings.",
+  "keys": {
+    "races": [
+      "embedded/robotics"
+    ],
+    "lanes": [
+      "embedded/robotics"
+    ],
+    "capabilities": []
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/KalanosAI/kalanos",
+    "sha": "bf3e61f202a7c0a6c5d93547672e3a416386b0cd",
+    "file_url": "https://cdn.jsdelivr.net/gh/KalanosAI/kalanos@bf3e61f202a7c0a6c5d93547672e3a416386b0cd/{path}"
+  },
+  "facts": {
+    "lang": "Python",
+    "license": "Apache-2.0",
+    "stars": 2,
+    "size_mb": 4,
+    "created_at": "2026-09-24T18:27:09Z",
+    "last_commit_at": "2026-11-27T19:30:14Z",
+    "releases": 26,
+    "tags": 26,
+    "archived": false,
+    "release": {
+      "tag": "v0.10.3",
+      "at": "2026-11-26T01:26:39.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "new",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

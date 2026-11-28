@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:b7debdbd5cce8bef05d419512d9d6780e920c3cc"
-  },
   "id": "gh:sparkle-project/sparkle",
   "kind": "repo",
   "url": "https://github.com/sparkle-project/Sparkle",
@@ -27,16 +24,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/sparkle-project/Sparkle",
-    "sha": "b7debdbd5cce8bef05d419512d9d6780e920c3cc",
-    "file_url": "https://cdn.jsdelivr.net/gh/sparkle-project/Sparkle@b7debdbd5cce8bef05d419512d9d6780e920c3cc/{path}"
+    "sha": "86fd1c1c8a6f8680f01d5e2418642b326bf8e8a1",
+    "file_url": "https://cdn.jsdelivr.net/gh/sparkle-project/Sparkle@86fd1c1c8a6f8680f01d5e2418642b326bf8e8a1/{path}"
   },
   "facts": {
     "lang": "Objective-C",
     "license": "NOASSERTION",
-    "stars": 9987,
+    "stars": 9991,
     "size_mb": 45,
     "created_at": "2009-08-11T07:05:25Z",
-    "last_commit_at": "2026-11-25T01:21:48Z",
+    "last_commit_at": "2026-11-27T17:23:43Z",
     "releases": 120,
     "tags": 327,
     "archived": false,
@@ -59,13 +56,10 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "b7debdbd5cce8bef05d419512d9d6780e920c3cc",
-    "v": 4
-  },
   "pins_before": [
+    "b7debdbd5cce8bef05d419512d9d6780e920c3cc",
     "4b20aee135d5a29ce418fc6fc8d211945c2edeeb"
   ],
-  "pinned_at": "2026-11-20T04:33:12Z",
+  "pinned_at": "2026-11-27T17:23:43Z",
   "hot": true
 }

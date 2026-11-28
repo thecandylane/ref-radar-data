@@ -28,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/projectdiscovery/nuclei-templates",
-    "sha": "1ad258956016afba455d4284539812eb24be690a",
-    "file_url": "https://cdn.jsdelivr.net/gh/projectdiscovery/nuclei-templates@1ad258956016afba455d4284539812eb24be690a/{path}"
+    "sha": "5fec6044b29d5b765d6d33242946e0aebf464a63",
+    "file_url": "https://cdn.jsdelivr.net/gh/projectdiscovery/nuclei-templates@5fec6044b29d5b765d6d33242946e0aebf464a63/{path}"
   },
   "facts": {
     "lang": "JavaScript",
     "license": "MIT",
-    "stars": 13423,
-    "size_mb": 834,
+    "stars": 13427,
+    "size_mb": 833,
     "created_at": "2020-04-04T16:21:34Z",
-    "last_commit_at": "2026-11-27T07:13:57Z",
+    "last_commit_at": "2026-11-28T03:11:05Z",
     "releases": 334,
     "tags": 336,
     "archived": false,
@@ -54,19 +54,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 52,
+    "star_delta_7d": 48,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "1ad258956016afba455d4284539812eb24be690a",
-    "v": 4
-  },
   "pins_before": [
+    "1ad258956016afba455d4284539812eb24be690a",
     "f99ca476bb7e82e6de3c15834584e16eeff29d88"
   ],
-  "pinned_at": "2026-11-21T03:11:58Z",
+  "pinned_at": "2026-11-28T03:11:05Z",
   "hot": true
 }

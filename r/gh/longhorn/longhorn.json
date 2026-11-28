@@ -24,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/longhorn/longhorn",
-    "sha": "46cea7f327f40c5694caa2f48fc040eea7aaa5cc",
-    "file_url": "https://cdn.jsdelivr.net/gh/longhorn/longhorn@46cea7f327f40c5694caa2f48fc040eea7aaa5cc/{path}"
+    "sha": "b02928b171f7285ae9330fd82406a1ed96cd6fa1",
+    "file_url": "https://cdn.jsdelivr.net/gh/longhorn/longhorn@b02928b171f7285ae9330fd82406a1ed96cd6fa1/{path}"
   },
   "facts": {
     "lang": "Shell",
     "license": "Apache-2.0",
-    "stars": 8086,
+    "stars": 8087,
     "size_mb": 19,
     "created_at": "2017-04-14T19:57:01Z",
     "last_commit_at": "2026-11-27T07:36:57Z",
@@ -50,19 +50,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 15,
+    "star_delta_7d": 13,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "46cea7f327f40c5694caa2f48fc040eea7aaa5cc",
-    "v": 4
-  },
   "pins_before": [
+    "46cea7f327f40c5694caa2f48fc040eea7aaa5cc",
     "9ff9b44cdffe7af85de3f3565e2307a6e51411e9",
     "562c6c6df52d62b219df4b1b2b8c3aea199cf499"
   ],
-  "pinned_at": "2026-11-20T04:45:41Z"
+  "pinned_at": "2026-11-27T07:36:57Z"
 }

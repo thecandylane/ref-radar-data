@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:dee24dfb337f2e5ae937cd45d8564084bac55967"
-  },
   "id": "gh:pydantic/pydantic-ai",
   "kind": "repo",
   "url": "https://github.com/pydantic/pydantic-ai",
@@ -31,22 +28,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/pydantic/pydantic-ai",
-    "sha": "dee24dfb337f2e5ae937cd45d8564084bac55967",
-    "file_url": "https://raw.githubusercontent.com/pydantic/pydantic-ai/dee24dfb337f2e5ae937cd45d8564084bac55967/{path}"
+    "sha": "e0e2ff98f47a44a55bd6c5cc1f815770345bb033",
+    "file_url": "https://raw.githubusercontent.com/pydantic/pydantic-ai/e0e2ff98f47a44a55bd6c5cc1f815770345bb033/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "MIT",
-    "stars": 21426,
-    "size_mb": 456,
+    "stars": 21436,
+    "size_mb": 452,
     "created_at": "2024-06-21T15:55:04Z",
-    "last_commit_at": "2026-11-27T05:33:30Z",
-    "releases": 365,
-    "tags": 365,
+    "last_commit_at": "2026-11-28T05:07:11Z",
+    "releases": 366,
+    "tags": 366,
     "archived": false,
     "release": {
-      "tag": "v2.76.0",
-      "at": "2026-11-26T23:49:06.000Z"
+      "tag": "v2.77.0",
+      "at": "2026-11-27T23:32:31.000Z"
     }
   },
   "reuse": "copy",
@@ -57,19 +54,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 119,
+    "star_delta_7d": 113,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "dee24dfb337f2e5ae937cd45d8564084bac55967",
-    "v": 4
-  },
   "pins_before": [
+    "dee24dfb337f2e5ae937cd45d8564084bac55967",
     "d94586aad1acd640715f2bf1152e8d730c8f9938"
   ],
-  "pinned_at": "2026-11-20T23:24:34Z",
+  "pinned_at": "2026-11-28T05:07:11Z",
   "hot": true
 }

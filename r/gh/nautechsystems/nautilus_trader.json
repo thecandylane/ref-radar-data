@@ -29,16 +29,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/nautechsystems/nautilus_trader",
-    "sha": "067cfa2022336651a674e0d28a08ab4dd6e64cc6",
-    "file_url": "https://cdn.jsdelivr.net/gh/nautechsystems/nautilus_trader@067cfa2022336651a674e0d28a08ab4dd6e64cc6/{path}"
+    "sha": "22a2e15b69fffe9157e6e678499b176b8223212f",
+    "file_url": "https://cdn.jsdelivr.net/gh/nautechsystems/nautilus_trader@22a2e15b69fffe9157e6e678499b176b8223212f/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "LGPL-3.0",
-    "stars": 31859,
-    "size_mb": 324,
+    "stars": 31874,
+    "size_mb": 326,
     "created_at": "2018-06-25T06:26:16Z",
-    "last_commit_at": "2026-11-27T09:37:26Z",
+    "last_commit_at": "2026-11-28T09:11:19Z",
     "releases": 145,
     "tags": 219,
     "archived": false,
@@ -61,8 +61,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "067cfa2022336651a674e0d28a08ab4dd6e64cc6",
-    "v": 4
-  }
+  "pins_before": [
+    "067cfa2022336651a674e0d28a08ab4dd6e64cc6"
+  ],
+  "pinned_at": "2026-11-28T09:11:19Z"
 }

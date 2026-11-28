@@ -38,22 +38,22 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/screenpipe/screenpipe",
-    "sha": "b2f787a8463478f8548f36a87204c8788ecf8b1a",
-    "file_url": "https://raw.githubusercontent.com/screenpipe/screenpipe/b2f787a8463478f8548f36a87204c8788ecf8b1a/{path}"
+    "sha": "f403c81b8fb6da5336275a817a396f93bdfda4ec",
+    "file_url": "https://raw.githubusercontent.com/screenpipe/screenpipe/f403c81b8fb6da5336275a817a396f93bdfda4ec/{path}"
   },
   "facts": {
     "lang": "Rust",
     "license": "NOASSERTION",
-    "stars": 22566,
+    "stars": 22584,
     "size_mb": 708,
     "created_at": "2024-06-19T13:23:56Z",
-    "last_commit_at": "2026-11-27T02:28:45Z",
-    "releases": 510,
-    "tags": 578,
+    "last_commit_at": "2026-11-28T00:29:32Z",
+    "releases": 512,
+    "tags": 580,
     "archived": false,
     "release": {
-      "tag": "app-v2.7.170",
-      "at": "2026-11-26T21:34:13.000Z"
+      "tag": "app-v2.7.175",
+      "at": "2026-11-27T19:35:17.000Z"
     }
   },
   "reuse": "copy",
@@ -64,18 +64,15 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 81,
+    "star_delta_7d": 93,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "b2f787a8463478f8548f36a87204c8788ecf8b1a",
-    "v": 4
-  },
   "pins_before": [
+    "b2f787a8463478f8548f36a87204c8788ecf8b1a",
     "68689f8350f59bf414be41d022d9182bde2e1417"
   ],
-  "pinned_at": "2026-11-19T17:56:12Z"
+  "pinned_at": "2026-11-28T00:29:32Z"
 }

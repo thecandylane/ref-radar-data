@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:43d4690f906b5aef3351ebe0a6367ca0918cbccd"
-  },
   "id": "gh:haifengl/smile",
   "kind": "repo",
   "url": "https://github.com/haifengl/smile",
@@ -31,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/haifengl/smile",
-    "sha": "43d4690f906b5aef3351ebe0a6367ca0918cbccd",
-    "file_url": "https://raw.githubusercontent.com/haifengl/smile/43d4690f906b5aef3351ebe0a6367ca0918cbccd/{path}"
+    "sha": "b4f806c7dfa035b630890e69c4fd49988b92df81",
+    "file_url": "https://raw.githubusercontent.com/haifengl/smile/b4f806c7dfa035b630890e69c4fd49988b92df81/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "NOASSERTION",
     "stars": 6440,
-    "size_mb": 292,
+    "size_mb": 290,
     "created_at": "2014-11-20T16:28:12Z",
-    "last_commit_at": "2026-11-24T14:19:21Z",
+    "last_commit_at": "2026-11-26T01:50:17Z",
     "releases": 58,
     "tags": 63,
     "archived": false,
@@ -63,12 +60,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "43d4690f906b5aef3351ebe0a6367ca0918cbccd",
-    "v": 4
-  },
   "pins_before": [
+    "43d4690f906b5aef3351ebe0a6367ca0918cbccd",
     "09c22a84b464566c52e53dcf05a2062a05229b4c"
   ],
-  "pinned_at": "2026-11-20T05:06:22Z"
+  "pinned_at": "2026-11-26T01:50:17Z"
 }

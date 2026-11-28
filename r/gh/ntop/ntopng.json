@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:9e3583bacf06fa523782e434736f2825b4cc4d1e"
-  },
   "id": "gh:ntop/ntopng",
   "kind": "repo",
   "url": "https://github.com/ntop/ntopng",
@@ -35,16 +32,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ntop/ntopng",
-    "sha": "9e3583bacf06fa523782e434736f2825b4cc4d1e",
-    "file_url": "https://cdn.jsdelivr.net/gh/ntop/ntopng@9e3583bacf06fa523782e434736f2825b4cc4d1e/{path}"
+    "sha": "cc87dd5824af43f05993f5bfa8df6568b6aab68f",
+    "file_url": "https://cdn.jsdelivr.net/gh/ntop/ntopng@cc87dd5824af43f05993f5bfa8df6568b6aab68f/{path}"
   },
   "facts": {
     "lang": "Lua",
     "license": "GPL-3.0",
-    "stars": 8369,
-    "size_mb": 399,
+    "stars": 8371,
+    "size_mb": 400,
     "created_at": "2015-04-30T10:07:16Z",
-    "last_commit_at": "2026-11-27T08:45:05Z",
+    "last_commit_at": "2026-11-27T20:17:31Z",
     "releases": 19,
     "tags": 20,
     "archived": false,
@@ -67,12 +64,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "9e3583bacf06fa523782e434736f2825b4cc4d1e",
-    "v": 4
-  },
   "pins_before": [
+    "9e3583bacf06fa523782e434736f2825b4cc4d1e",
     "2be149b23cd98f02e27e61cc270c0fcfd4c47423"
   ],
-  "pinned_at": "2026-11-19T09:09:39Z"
+  "pinned_at": "2026-11-27T20:17:31Z"
 }

@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:bd756f8b2283a38560efe83cb30af38324d4e9e9"
+  },
   "id": "gh:chalarangelo/30-seconds-of-code",
   "kind": "repo",
   "url": "https://github.com/Chalarangelo/30-seconds-of-code",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "JavaScript",
     "license": "CC-BY-4.0",
-    "stars": 129623,
+    "stars": 129626,
     "size_mb": 725,
     "created_at": "2017-11-29T17:35:03Z",
     "last_commit_at": "2026-09-09T11:56:56Z",
@@ -61,5 +64,6 @@
   "pack": {
     "sha": "bd756f8b2283a38560efe83cb30af38324d4e9e9",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-09-09T11:56:56Z"
 }

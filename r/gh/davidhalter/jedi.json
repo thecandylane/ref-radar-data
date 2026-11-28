@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:b91f57bec2e4b3ba6c9ea52eae13f66af3604e74"
+  },
   "id": "gh:davidhalter/jedi",
   "kind": "repo",
   "url": "https://github.com/davidhalter/jedi",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 6188,
+    "stars": 6190,
     "size_mb": 13,
     "created_at": "2012-02-19T23:12:30Z",
     "last_commit_at": "2026-11-02T11:12:44Z",
@@ -56,5 +59,6 @@
   "pack": {
     "sha": "b91f57bec2e4b3ba6c9ea52eae13f66af3604e74",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-02T11:12:44Z"
 }

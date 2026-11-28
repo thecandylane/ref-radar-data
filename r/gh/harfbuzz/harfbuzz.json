@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:d7964c5c1e439ad892e3e87f550c72b73d4835b1"
+  },
   "id": "gh:harfbuzz/harfbuzz",
   "kind": "repo",
   "url": "https://github.com/harfbuzz/harfbuzz",
@@ -26,8 +29,8 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/harfbuzz/harfbuzz",
-    "sha": "0835870585ead2412ff1a8d741b8e0ecf98e155a",
-    "file_url": "https://cdn.jsdelivr.net/gh/harfbuzz/harfbuzz@0835870585ead2412ff1a8d741b8e0ecf98e155a/{path}"
+    "sha": "d7964c5c1e439ad892e3e87f550c72b73d4835b1",
+    "file_url": "https://cdn.jsdelivr.net/gh/harfbuzz/harfbuzz@d7964c5c1e439ad892e3e87f550c72b73d4835b1/{path}"
   },
   "facts": {
     "lang": "C++",
@@ -35,7 +38,7 @@
     "stars": 6262,
     "size_mb": 121,
     "created_at": "2012-07-14T19:50:26Z",
-    "last_commit_at": "2026-11-27T01:34:05Z",
+    "last_commit_at": "2026-11-28T04:12:15Z",
     "releases": 162,
     "tags": 228,
     "archived": false,
@@ -58,8 +61,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "0835870585ead2412ff1a8d741b8e0ecf98e155a",
-    "v": 4
-  }
+  "pins_before": [
+    "0835870585ead2412ff1a8d741b8e0ecf98e155a"
+  ],
+  "pinned_at": "2026-11-28T04:12:15Z"
 }

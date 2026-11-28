@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:44b2575bf42a02d0a38d9dada3f60335c95c5ec2"
+  },
   "id": "gh:jackfrued/python-100-days",
   "kind": "repo",
   "url": "https://github.com/jackfrued/Python-100-Days",
@@ -30,7 +33,7 @@
   "facts": {
     "lang": "Jupyter Notebook",
     "license": "none",
-    "stars": 188032,
+    "stars": 188045,
     "size_mb": 396,
     "created_at": "2018-03-01T16:05:52Z",
     "last_commit_at": "2026-07-29T15:18:19Z",
@@ -56,5 +59,6 @@
   "pack": {
     "sha": "44b2575bf42a02d0a38d9dada3f60335c95c5ec2",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-07-29T15:18:19Z"
 }

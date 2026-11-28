@@ -32,13 +32,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/openbao/openbao",
-    "sha": "abf369b1e880dd8555be9cdc3f314b78a16013e4",
-    "file_url": "https://cdn.jsdelivr.net/gh/openbao/openbao@abf369b1e880dd8555be9cdc3f314b78a16013e4/{path}"
+    "sha": "cd3e10aac8b6ceb5bd0e2309b6149328f9aea22a",
+    "file_url": "https://cdn.jsdelivr.net/gh/openbao/openbao@cd3e10aac8b6ceb5bd0e2309b6149328f9aea22a/{path}"
   },
   "facts": {
     "lang": "Go",
     "license": "MPL-2.0",
-    "stars": 9258,
+    "stars": 9290,
     "size_mb": 315,
     "created_at": "2023-11-09T18:17:33Z",
     "last_commit_at": "2026-11-26T18:21:14Z",
@@ -58,19 +58,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 153,
+    "star_delta_7d": 169,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "abf369b1e880dd8555be9cdc3f314b78a16013e4",
-    "v": 4
-  },
   "pins_before": [
+    "abf369b1e880dd8555be9cdc3f314b78a16013e4",
     "a325a987b30e4cb005e26553322efc211cc21df6"
   ],
-  "pinned_at": "2026-11-19T09:23:49Z",
+  "pinned_at": "2026-11-26T18:21:14Z",
   "hot": true
 }

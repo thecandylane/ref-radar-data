@@ -1,0 +1,66 @@
+{
+  "id": "gh:xorpse/parascope",
+  "kind": "repo",
+  "url": "https://github.com/xorpse/parascope",
+  "title": "parascope",
+  "why": "Runs weggli code patterns across binaries loaded in idalib and reports matched functions and addresses as a table or records.",
+  "keys": {
+    "races": [
+      "cyber/reversing",
+      "cyber/appsec"
+    ],
+    "lanes": [
+      "cyber/reversing",
+      "cyber/appsec"
+    ],
+    "capabilities": [
+      "cyber/reversing/disassemblers",
+      "cyber/appsec/static-analysis"
+    ]
+  },
+  "read": [
+    {
+      "locator": "README.md",
+      "kind": "path"
+    },
+    {
+      "locator": "src",
+      "kind": "path"
+    }
+  ],
+  "fetch": {
+    "type": "git-sparse",
+    "repo": "https://github.com/xorpse/parascope",
+    "sha": "42e23e31e70fdf64896d6942d7e5fcc00a4e706f",
+    "file_url": "https://cdn.jsdelivr.net/gh/xorpse/parascope@42e23e31e70fdf64896d6942d7e5fcc00a4e706f/{path}"
+  },
+  "facts": {
+    "lang": "Rust",
+    "license": "none",
+    "stars": 44,
+    "size_mb": 1,
+    "created_at": "2024-10-29T04:48:40Z",
+    "last_commit_at": "2025-11-16T03:04:01Z",
+    "releases": 1,
+    "tags": 1,
+    "archived": false,
+    "release": {
+      "tag": "v0.3.0",
+      "at": "2025-11-16T03:08:58.000Z"
+    }
+  },
+  "reuse": "copy",
+  "maturity": "quiet",
+  "status": null,
+  "stats": {
+    "picks": {},
+    "pickers": 0,
+    "packs": 0,
+    "used_30d": 0,
+    "star_delta_7d": 0,
+    "votes": {},
+    "ranks": {}
+  },
+  "tier": "discovered",
+  "drafted": true
+}

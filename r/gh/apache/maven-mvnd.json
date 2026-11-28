@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:07bc87e87953e515b1a75b3efbfb3e868177537c"
+  },
   "id": "gh:apache/maven-mvnd",
   "kind": "repo",
   "url": "https://github.com/apache/maven-mvnd",
@@ -32,7 +35,7 @@
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 3450,
+    "stars": 3451,
     "size_mb": 5,
     "created_at": "2019-09-21T17:49:30Z",
     "last_commit_at": "2026-11-25T23:02:24Z",
@@ -61,5 +64,6 @@
   "pack": {
     "sha": "07bc87e87953e515b1a75b3efbfb3e868177537c",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-25T23:02:24Z"
 }

@@ -28,16 +28,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/nicolargo/glances",
-    "sha": "85dbcd3dae22d606a20ceecb66cceae940483103",
-    "file_url": "https://cdn.jsdelivr.net/gh/nicolargo/glances@85dbcd3dae22d606a20ceecb66cceae940483103/{path}"
+    "sha": "49788f93e252c52e895d42fed2f51d32939631e7",
+    "file_url": "https://cdn.jsdelivr.net/gh/nicolargo/glances@49788f93e252c52e895d42fed2f51d32939631e7/{path}"
   },
   "facts": {
     "lang": "Python",
     "license": "NOASSERTION",
-    "stars": 34013,
+    "stars": 34014,
     "size_mb": 66,
     "created_at": "2011-12-04T08:49:15Z",
-    "last_commit_at": "2026-11-24T16:59:52Z",
+    "last_commit_at": "2026-11-28T09:21:41Z",
     "releases": 64,
     "tags": 154,
     "archived": false,
@@ -60,8 +60,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "85dbcd3dae22d606a20ceecb66cceae940483103",
-    "v": 4
-  }
+  "pins_before": [
+    "85dbcd3dae22d606a20ceecb66cceae940483103"
+  ],
+  "pinned_at": "2026-11-28T09:21:41Z"
 }

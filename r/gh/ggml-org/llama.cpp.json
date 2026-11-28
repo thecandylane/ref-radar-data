@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:51a77c4f247ce96fb932e29c9f81625ca9d3b0b7"
-  },
   "id": "gh:ggml-org/llama.cpp",
   "kind": "repo",
   "url": "https://github.com/ggml-org/llama.cpp",
@@ -36,18 +33,18 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/ggml-org/llama.cpp",
-    "sha": "51a77c4f247ce96fb932e29c9f81625ca9d3b0b7",
-    "file_url": "https://raw.githubusercontent.com/ggml-org/llama.cpp/51a77c4f247ce96fb932e29c9f81625ca9d3b0b7/{path}"
+    "sha": "786da85942d22520a5384a7a8f447422a6b4994e",
+    "file_url": "https://raw.githubusercontent.com/ggml-org/llama.cpp/786da85942d22520a5384a7a8f447422a6b4994e/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "MIT",
-    "stars": 136469,
-    "size_mb": 508,
+    "stars": 136482,
+    "size_mb": 509,
     "created_at": "2023-03-10T18:58:00Z",
-    "last_commit_at": "2026-11-27T09:18:09Z",
+    "last_commit_at": "2026-11-28T07:57:29Z",
     "releases": 1000,
-    "tags": 8834,
+    "tags": 8845,
     "archived": false,
     "release": {
       "tag": "v1.1.0",
@@ -62,20 +59,17 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 663,
+    "star_delta_7d": 584,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "51a77c4f247ce96fb932e29c9f81625ca9d3b0b7",
-    "v": 4
-  },
   "pins_before": [
+    "51a77c4f247ce96fb932e29c9f81625ca9d3b0b7",
     "81f21f4b27fc8252f11404a006744045aac5ea6e"
   ],
-  "pinned_at": "2026-11-19T09:13:02Z",
+  "pinned_at": "2026-11-28T07:57:29Z",
   "papers": [
     {
       "id": "arxiv:2302.13971",

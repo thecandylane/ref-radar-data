@@ -26,16 +26,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/neutralinojs/neutralinojs",
-    "sha": "75cbd4d17a77d13bfc310a887116cfe3bfbfc6de",
-    "file_url": "https://cdn.jsdelivr.net/gh/neutralinojs/neutralinojs@75cbd4d17a77d13bfc310a887116cfe3bfbfc6de/{path}"
+    "sha": "b5769f910b3c800a26bcb951f8a11d96e7f2eba6",
+    "file_url": "https://cdn.jsdelivr.net/gh/neutralinojs/neutralinojs@b5769f910b3c800a26bcb951f8a11d96e7f2eba6/{path}"
   },
   "facts": {
     "lang": "C",
     "license": "NOASSERTION",
-    "stars": 8699,
+    "stars": 8700,
     "size_mb": 109,
     "created_at": "2018-06-23T03:30:41Z",
-    "last_commit_at": "2026-11-20T15:29:09Z",
+    "last_commit_at": "2026-11-27T12:54:59Z",
     "releases": 65,
     "tags": 67,
     "archived": false,
@@ -58,12 +58,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "75cbd4d17a77d13bfc310a887116cfe3bfbfc6de",
-    "v": 4
-  },
   "pins_before": [
+    "75cbd4d17a77d13bfc310a887116cfe3bfbfc6de",
     "a729926c0e4b2f98ab4035da2182f0755790650b"
   ],
-  "pinned_at": "2026-11-20T15:29:09Z"
+  "pinned_at": "2026-11-27T12:54:59Z"
 }

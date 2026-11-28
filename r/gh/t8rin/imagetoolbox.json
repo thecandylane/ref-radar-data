@@ -32,13 +32,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/T8RIN/ImageToolbox",
-    "sha": "c9fe6a0c6bc70f8f6e6137773073740f9e727886",
-    "file_url": "https://cdn.jsdelivr.net/gh/T8RIN/ImageToolbox@c9fe6a0c6bc70f8f6e6137773073740f9e727886/{path}"
+    "sha": "ec434476a3787b9c33162470560f2351f5f14d49",
+    "file_url": "https://cdn.jsdelivr.net/gh/T8RIN/ImageToolbox@ec434476a3787b9c33162470560f2351f5f14d49/{path}"
   },
   "facts": {
     "lang": "Kotlin",
     "license": "Apache-2.0",
-    "stars": 15796,
+    "stars": 15812,
     "size_mb": 635,
     "created_at": "2022-04-06T20:06:28Z",
     "last_commit_at": "2026-11-25T14:38:43Z",
@@ -64,9 +64,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "c9fe6a0c6bc70f8f6e6137773073740f9e727886",
-    "v": 4
-  },
-  "pinned_at": "2026-11-21T01:07:53Z"
+  "pins_before": [
+    "c9fe6a0c6bc70f8f6e6137773073740f9e727886"
+  ],
+  "pinned_at": "2026-11-25T14:38:43Z"
 }

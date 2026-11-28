@@ -1,7 +1,4 @@
 {
-  "archive": {
-    "swh": "swh:1:rev:b3677d269d6db82a64517ebb3234d1d0ff847ce7"
-  },
   "id": "gh:osquery/osquery",
   "kind": "repo",
   "url": "https://github.com/osquery/osquery",
@@ -27,13 +24,13 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/osquery/osquery",
-    "sha": "b3677d269d6db82a64517ebb3234d1d0ff847ce7",
-    "file_url": "https://cdn.jsdelivr.net/gh/osquery/osquery@b3677d269d6db82a64517ebb3234d1d0ff847ce7/{path}"
+    "sha": "06a576c73a36398c2e751ac9adec6a744bdfa5ee",
+    "file_url": "https://cdn.jsdelivr.net/gh/osquery/osquery@06a576c73a36398c2e751ac9adec6a744bdfa5ee/{path}"
   },
   "facts": {
     "lang": "C++",
     "license": "NOASSERTION",
-    "stars": 23806,
+    "stars": 23809,
     "size_mb": 28,
     "created_at": "2014-07-29T20:27:33Z",
     "last_commit_at": "2026-11-25T22:21:22Z",
@@ -59,12 +56,9 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "b3677d269d6db82a64517ebb3234d1d0ff847ce7",
-    "v": 4
-  },
   "pins_before": [
+    "b3677d269d6db82a64517ebb3234d1d0ff847ce7",
     "2d52c0cc1eb5631b4c1986821472afcc3eb394b4"
   ],
-  "pinned_at": "2026-11-20T03:26:45Z"
+  "pinned_at": "2026-11-25T22:21:22Z"
 }

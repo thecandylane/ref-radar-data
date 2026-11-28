@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:5b6ff22b3fb7aa069c54866e517f39dfc3160e09"
+  },
   "id": "gh:huggingface/open-r1",
   "kind": "repo",
   "url": "https://github.com/huggingface/open-r1",
@@ -36,7 +39,7 @@
   "facts": {
     "lang": "Python",
     "license": "Apache-2.0",
-    "stars": 26489,
+    "stars": 26492,
     "size_mb": 7,
     "created_at": "2025-01-24T15:44:11Z",
     "last_commit_at": "2026-10-02T03:57:37Z",
@@ -62,5 +65,6 @@
   "pack": {
     "sha": "5b6ff22b3fb7aa069c54866e517f39dfc3160e09",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-10-02T03:57:37Z"
 }

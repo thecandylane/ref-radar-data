@@ -22,16 +22,16 @@
   "fetch": {
     "type": "git-sparse",
     "repo": "https://github.com/hibernate/hibernate-orm",
-    "sha": "b292c21360853dd41c7c02e781c6cc8d07e31ea6",
-    "file_url": "https://cdn.jsdelivr.net/gh/hibernate/hibernate-orm@b292c21360853dd41c7c02e781c6cc8d07e31ea6/{path}"
+    "sha": "d102935f622578c035fd935505c6e1355466ec0c",
+    "file_url": "https://cdn.jsdelivr.net/gh/hibernate/hibernate-orm@d102935f622578c035fd935505c6e1355466ec0c/{path}"
   },
   "facts": {
     "lang": "Java",
     "license": "Apache-2.0",
-    "stars": 6490,
+    "stars": 6491,
     "size_mb": 376,
     "created_at": "2010-10-04T16:15:52Z",
-    "last_commit_at": "2026-11-26T21:42:57Z",
+    "last_commit_at": "2026-11-27T21:11:15Z",
     "releases": 256,
     "tags": 569,
     "archived": false,
@@ -54,8 +54,8 @@
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "b292c21360853dd41c7c02e781c6cc8d07e31ea6",
-    "v": 4
-  }
+  "pins_before": [
+    "b292c21360853dd41c7c02e781c6cc8d07e31ea6"
+  ],
+  "pinned_at": "2026-11-27T21:11:15Z"
 }

@@ -1,10 +1,10 @@
 {
   "archive": {
-    "swh": "swh:1:rev:afe7136002271fd64f098b154e7fff40be721eb8"
+    "swh": "swh:1:rev:deba70d80d2af509171f9c6465de9d14719f0399"
   },
   "id": "gh:chen08209/flclash",
   "kind": "repo",
-  "url": "https://github.com/chen08209/FlClash",
+  "url": "https://github.com/Vialibrex/FlClash",
   "title": "FlClash",
   "why": "Runs a mihomo core behind a Flutter app, with profiles from subscription links and live views of connections and DNS queries.",
   "keys": {
@@ -30,14 +30,14 @@
   ],
   "fetch": {
     "type": "git-sparse",
-    "repo": "https://github.com/chen08209/FlClash",
-    "sha": "afe7136002271fd64f098b154e7fff40be721eb8",
-    "file_url": "https://cdn.jsdelivr.net/gh/chen08209/FlClash@afe7136002271fd64f098b154e7fff40be721eb8/{path}"
+    "repo": "https://github.com/Vialibrex/FlClash",
+    "sha": "deba70d80d2af509171f9c6465de9d14719f0399",
+    "file_url": "https://cdn.jsdelivr.net/gh/Vialibrex/FlClash@deba70d80d2af509171f9c6465de9d14719f0399/{path}"
   },
   "facts": {
     "lang": "Dart",
     "license": "GPL-3.0",
-    "stars": 65791,
+    "stars": 65995,
     "size_mb": 85,
     "created_at": "2023-08-15T07:47:22Z",
     "last_commit_at": "2026-11-26T07:55:33Z",
@@ -57,18 +57,16 @@
     "pickers": 0,
     "packs": 0,
     "used_30d": 0,
-    "star_delta_7d": 0,
+    "star_delta_7d": 1493,
     "votes": {},
     "ranks": {}
   },
   "tier": "curated",
   "drafted": true,
-  "pack": {
-    "sha": "afe7136002271fd64f098b154e7fff40be721eb8",
-    "v": 4
-  },
   "pins_before": [
+    "afe7136002271fd64f098b154e7fff40be721eb8",
     "9f2759e2d6ab16181cf77f038dab200378e8ace5"
   ],
-  "pinned_at": "2026-11-20T11:45:22Z"
+  "pinned_at": "2026-11-26T07:55:33Z",
+  "hot": true
 }

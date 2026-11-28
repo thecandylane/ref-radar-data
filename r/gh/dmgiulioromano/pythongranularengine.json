@@ -1,4 +1,7 @@
 {
+  "archive": {
+    "swh": "swh:1:rev:ace4ce8f27e683edf8657a7f205768a8e2470e49"
+  },
   "id": "gh:dmgiulioromano/pythongranularengine",
   "kind": "repo",
   "url": "https://github.com/DMGiulioRomano/PythonGranularEngine",
@@ -43,7 +46,12 @@
       "tag": "v9.1.0",
       "at": "2026-09-27T11:18:25.000Z"
     },
-    "doi": "10.5281/zenodo.22175431"
+    "doi": "10.5281/zenodo.22175431",
+    "citations": {
+      "count": 2,
+      "by": "DataCite",
+      "at": "2026-11-28"
+    }
   },
   "reuse": "copy",
   "maturity": "stable",
@@ -62,5 +70,6 @@
   "pack": {
     "sha": "ace4ce8f27e683edf8657a7f205768a8e2470e49",
     "v": 4
-  }
+  },
+  "pinned_at": "2026-11-12T15:11:42Z"
 }
